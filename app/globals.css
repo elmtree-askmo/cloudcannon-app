@@ -6,6 +6,11 @@
   --teacher-bg-theme:#dd4f44;
   --teacher-button-theme:#852d70;
 
+  --mobile-max-width:480px;
+  --pad-min-width:481px;
+  --pad-max-width:768px;
+
+  --global-padding:20px;
 }
 
 html,body{
@@ -19,12 +24,12 @@ html,body{
 }
 
 .pad-view{
-  max-width: 640px;
+  max-width: 768px;
   margin: 0 auto;
 }
 
 .mobile-view{
-  max-width: 375px;
+  max-width: 480px;
   margin: 0 auto;
 }
 

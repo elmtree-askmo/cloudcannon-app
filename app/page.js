@@ -7,9 +7,10 @@ export default function Home() {
     <div className={styles['main-container']}>
 
       <div className={styles['section-1']}>
-        <div>
+        <div className={styles['section-1-l']}>
           <h2>Difficult course material?</h2>
           <h2>Struggling with lectures?</h2>
+          <h2>Let us help.</h2>
           <h1>Try <strong>QuickTakes</strong></h1>
           <p className={styles['free-for-student']}><strong>FREE</strong> for students, forever!</p>
           <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} >Sign Up Now!</Button>
