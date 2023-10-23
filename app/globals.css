@@ -27,3 +27,15 @@ html,body{
   max-width: 375px;
   margin: 0 auto;
 }
+
+.custom-antd-design-button-student{
+  background-color: var(--student-button-theme);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-antd-design-button-student:hover{
+  background-color: var(--student-button-theme) !important;
+  opacity: 0.8;
+}
