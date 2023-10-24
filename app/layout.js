@@ -1,15 +1,15 @@
-import mixpanel from 'mixpanel-browser'
+// import mixpanel from 'mixpanel-browser'
 
 import { Inter } from 'next/font/google'
 import Header from './component/header'
 import Footer from './component/footer'
 
-import { MIXPANEL_ID } from './global/global';
+// import { MIXPANEL_ID } from './global/global';
 
 import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
-mixpanel.init(MIXPANEL_ID, {debug: false});
+// mixpanel.init(MIXPANEL_ID, {debug: false});
 
 export const metadata = {
   title: 'Quicktakes',
