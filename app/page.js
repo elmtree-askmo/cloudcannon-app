@@ -4,12 +4,30 @@ import { Button } from 'antd';
 import Image from 'next/image';
 import styles from './page.module.css';
 import Link from 'next/link';
-import { APP_URL, appStoreLink, googlePlayLink } from './global/global';
+import { API_DOMAIN, APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from './global/global';
 import SignUpNow from './component/sign-up-now';
+import axios from 'axios';
 
-export default function Home() {
+export default function Home({tryItNow=false}) {
+
+  const handletryItNow =()=> {
+    const url = `https://${API_DOMAIN}/users?return_token=true`
+    axios.post(url, {}, {headers :{'x-api-key':X_API_KEY}})
+    .then(res=>{
+      console.log(res)
+      const authToken = res.data.data.attributes.access_token;
+      const authUserId = res.data.data.attributes.id;
+      const authUsername = res.data.data.attributes.username;
+      const authUserStatus = res.data.data.attributes.status;
+      window.location.href = `https://${APP_URL}?auth.token=${authToken}&auth.userId=${authUserId}&auth.username=${authUsername}&auth.userStatus=${authUserStatus}`;
+    })
+  }
   const handleSignUpNow = ()=>{
-    window.location.href = `https://${APP_URL}/signup`;
+    if(tryItNow){
+      handletryItNow()
+    }else{
+      window.location.href = `https://${APP_URL}/signup`;
+    }
   }
   return (
     <div className={styles['home']}>
@@ -21,7 +39,7 @@ export default function Home() {
             <h2>Let us help.</h2>
             <h1>Try <strong>QuickTakes</strong></h1>
             <p className={styles['free-for-student']}><strong>FREE</strong> for students, forever!</p>
-            <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>Sign Up Now!</Button>
+            <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{tryItNow?`Try it Now!`:`Sign Up Now!`}</Button>
             <p className={styles['download-quicktakes-today']}>Download <strong>QuickTakes</strong> today!</p>
             <div className={styles['download-group']}>
               <Link href={appStoreLink} target='_blank'>
@@ -126,7 +144,7 @@ export default function Home() {
         </div>
       </div>
 
-      <SignUpNow />
+      <SignUpNow tryItNow={tryItNow} />
     </div>
   )
 }
