@@ -8,11 +8,17 @@ import { useState } from "react";
 import { APP_URL } from "../global/global";
 import { useRouter } from "next/navigation";
 
-export default function Header(){
+export default function Header({ layoutType }) {
+    const router = useRouter();
+
     const [openMenu, setOpenMenu] = useState(false);
     const [openContact, setOpenContact] = useState(false);
-    const router = useRouter();
-    const handleSubmit =(e)=>{
+
+    // links
+    const [aboutUsLink] = useState(layoutType === 'teachers' ? 'about-us-teachers' : 'quicktakes-about-us');
+    const [FAQLink] = useState(layoutType === 'teachers' ? 'faq-teachers' : 'faq');
+
+    const handleSubmit = (e) => {
         e.preventDefault();
         const form = e.target;
         const name = form.name.value;
@@ -21,73 +27,73 @@ export default function Header(){
 
         console.log(name, email, description)
     }
-    const handleSignUp = ()=>{
+    const handleSignUp = () => {
         window.location.href = `https://${APP_URL}/signup`
     }
-    const handleLogin = ()=>{
+    const handleLogin = () => {
         window.location.href = `https://${APP_URL}`
     }
-    const handleClickLogo = ()=>{
+    const handleClickLogo = () => {
         router.push('/')
     }
 
     return (
-        <div className={styles.header}>
+        <div className={`${styles.header} ${styles[layoutType]}`}>
             <div className={styles['main-container']}>
                 <div className={styles['logo-container']} onClick={handleClickLogo}>
-                    <Image 
+                    <Image
                         src="/quicktakesIcon.svg"
                         alt="Logo"
                         className="logo"
                         width={40}
                         height={40}
                     />
-                    <p><strong>QuickTakes</strong> for Students</p>
+                    <p><strong>QuickTakes</strong> for {layoutType === 'teachers' ? 'Teachers' : 'Students'}</p>
                 </div>
                 <div className={styles["menu-container"]}>
-                    <span onClick={()=>{setOpenContact(true)}}>Contact</span>
-                    <Link href="/quicktakes-about-us">About us</Link>
-                    <Link href="/faq">FAQ</Link>
+                    <span onClick={() => { setOpenContact(true) }}>Contact</span>
+                    <Link href={aboutUsLink}>About us</Link>
+                    <Link href={FAQLink}>FAQ</Link>
                     <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
                     <Link href="" onClick={handleLogin}>Log In</Link>
-                    <Image 
+                    <Image
                         src="/menu.svg"
                         alt="menu"
                         className={styles["menu"]}
                         width={28}
                         height={28}
-                        onClick={()=>{setOpenMenu(true)}}
+                        onClick={() => { setOpenMenu(true) }}
                     />
                 </div>
             </div>
 
-            <Drawer 
+            <Drawer
                 placement="top"
                 maskClosable={false}
                 open={openMenu}
                 title=""
                 height="100%"
-                onClose={()=>{setOpenMenu(false)}}
+                onClose={() => { setOpenMenu(false) }}
                 closeIcon={false}
                 mask={false}
-                classNames={{body:styles["custom-drawer-body"]}}
+                classNames={{ body: styles["custom-drawer-body"] }}
                 destroyOnClose={true}
             >
                 <div className={styles["drawer-header"]}>
-                    <Image 
+                    <Image
                         src="/close.svg"
                         alt="close"
                         className={styles["close"]}
                         width={28}
                         height={28}
-                        onClick={()=>{setOpenMenu(false)}}
+                        onClick={() => { setOpenMenu(false) }}
                     />
                 </div>
                 <div className={styles["drawer-container"]}>
-                    <Link href="/quicktakes-about-us">About us</Link>
+                    <Link href={aboutUsLink}>About us</Link>
                     <Link href="">Log In</Link>
-                    <Link href="/faq">FAQ</Link>
-                    <span onClick={()=>{setOpenMenu(false);setOpenContact(true);}}>Contact</span>
+                    <Link href={FAQLink}>FAQ</Link>
+                    <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
                 </div>
             </Drawer>
 
@@ -96,12 +102,12 @@ export default function Header(){
                 open={openContact}
                 centered
                 footer={null}
-                onCancel={()=>{setOpenContact(false)}}
+                onCancel={() => { setOpenContact(false) }}
                 className={styles["custom-modal"]}
                 width={"auto"}
                 maskClosable={false}
             >
-                <div className={styles["contact-form-container"]}>
+                <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
                     <form onSubmit={handleSubmit} >
                         <div>Contanct us:</div>
                         <Input placeholder="Name" name="name" />
