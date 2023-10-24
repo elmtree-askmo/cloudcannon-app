@@ -46,7 +46,7 @@ export default function Header(){
                 </div>
                 <div className={styles["menu-container"]}>
                     <span onClick={()=>{setOpenContact(true)}}>Contact</span>
-                    <Link href="/about-us">About us</Link>
+                    <Link href="/quicktakes-about-us">About us</Link>
                     <Link href="/faq">FAQ</Link>
                     <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
                     <Link href="" onClick={handleLogin}>Log In</Link>
@@ -84,7 +84,7 @@ export default function Header(){
                     />
                 </div>
                 <div className={styles["drawer-container"]}>
-                    <Link href="/about-us">About us</Link>
+                    <Link href="/quicktakes-about-us">About us</Link>
                     <Link href="">Log In</Link>
                     <Link href="/faq">FAQ</Link>
                     <span onClick={()=>{setOpenMenu(false);setOpenContact(true);}}>Contact</span>
