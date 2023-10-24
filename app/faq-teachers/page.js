@@ -10,9 +10,11 @@ import SignUpNow from '../component/sign-up-now';
 import styles from './page.module.css';
 
 export default function FAQ() {
+
   const [FAQList, setFAQList] = useState([]);
 
   useEffect(() => {
+
     const RenderContent = (value) => {
       return <div className='FAQ-content'>{value}</div>
     }
