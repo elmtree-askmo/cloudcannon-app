@@ -2,6 +2,7 @@
   --student-bg-theme:#3ba2da;
   --student-button-theme:#ee5e20;
   --student-font-color:#030337;
+  --student-arrow-color: #2f73d3;
 
   --teacher-bg-theme:#dd4f44;
   --teacher-button-theme:#852d70;
@@ -43,4 +44,41 @@ html,body{
 .custom-antd-design-button-student:hover{
   background-color: var(--student-button-theme) !important;
   opacity: 0.8;
+}
+
+/* antd */
+.FAQ-global .ant-collapse{
+  border: none;
+  border-radius: 0;
+}
+.FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-header{
+  background: #ffffff;
+  padding: 12px 30px;
+  font-weight: 600;
+  font-size: .88rem;
+}
+.FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-content-box{
+  background-image: linear-gradient(to right, rgba(216, 216, 216, 0.3), rgba(216, 216, 216, 0.3));
+  padding: 18px 30px;
+  font-size: .88rem;
+}
+.FAQ-global .ant-collapse-expand-icon img{
+  width: 16px;
+  height: 10px;
+  transform:rotate(180deg);
+  transition: transform 0.3s;
+}
+.FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-item-active .ant-collapse-expand-icon{
+  padding-inline-start: 0;
+  padding-inline-end: 12px;;
+}
+.FAQ-global .ant-collapse-item-active .ant-collapse-expand-icon img{
+  transform:rotate(0deg);
+  transition: transform 0.3s;
+}
+.FAQ-global .ant-collapse .ant-collapse-item:last-child .ant-collapse-header{
+  border-radius: 0;
+}
+.FAQ-global .ant-collapse .ant-collapse-item:first-child {
+  border-top: 1px solid #d9d9d9;
 }
