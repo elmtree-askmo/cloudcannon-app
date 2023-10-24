@@ -1,11 +1,16 @@
+'use client'
+
 import { Button } from 'antd';
 import Image from 'next/image';
 import styles from './page.module.css';
 import Link from 'next/link';
-import { appStoreLink, googlePlayLink } from './global/global';
+import { APP_URL, appStoreLink, googlePlayLink } from './global/global';
 import SignUpNow from './component/sign-up-now';
 
 export default function Home() {
+  const handleSignUpNow = ()=>{
+    window.location.href = `https://${APP_URL}/signup`;
+  }
   return (
     <div className={styles['home']}>
       <div className={styles['section-1-container']}>
@@ -16,7 +21,7 @@ export default function Home() {
             <h2>Let us help.</h2>
             <h1>Try <strong>QuickTakes</strong></h1>
             <p className={styles['free-for-student']}><strong>FREE</strong> for students, forever!</p>
-            <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} >Sign Up Now!</Button>
+            <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>Sign Up Now!</Button>
             <p className={styles['download-quicktakes-today']}>Download <strong>QuickTakes</strong> today!</p>
             <div className={styles['download-group']}>
               <Link href={appStoreLink} target='_blank'>
