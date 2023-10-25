@@ -72,7 +72,7 @@ export default function Home({tryItNow=false}) {
             <p>
                 You deserve to feel confident.  QuickTakes has got your back! Simply hit record and QuickTakes takes lecture notes, create study materials, provides related videos and answers your questions 24-7.
             </p>
-            <Link href="/faq">Learn More Below</Link>
+            <Link href="#section5">Learn More Below</Link>
           </div>
         </div>
       </div>
