@@ -73,7 +73,7 @@ export default function AboutUs() {
     </div>
     <div className={styles['experiences']}>
       <div className={`${styles.content} desktop-view`}>
-        <di className={styles['experience-title']}>Decades of cumulative experience spanning</di>
+        <div className={styles['experience-title']}>Decades of cumulative experience spanning</div>
         <div className={styles['experience-flex']}>
           <div className={styles['experience-image']}><img src="./images/experience-image1.webp" /></div>
           <div className={styles['experience-image']}><img src="./images/experience-image2.webp" /></div>

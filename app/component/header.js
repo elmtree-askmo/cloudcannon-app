@@ -15,8 +15,8 @@ export default function Header({ layoutType }) {
     const [openContact, setOpenContact] = useState(false);
 
     // links
-    const [aboutUsLink] = useState(layoutType === 'teachers' ? 'about-us-teachers' : 'quicktakes-about-us');
-    const [FAQLink] = useState(layoutType === 'teachers' ? 'faq-teachers' : 'faq');
+    const [aboutUsLink] = useState(layoutType === 'teachers' ? '/about-us-teachers' : '/quicktakes-about-us');
+    const [FAQLink] = useState(layoutType === 'teachers' ? '/faq-teachers' : '/faq');
 
     const handleSubmit = (e) => {
         e.preventDefault();
