@@ -52,7 +52,7 @@ export default function Header({ layoutType }) {
                 </div>
                 <div className={styles["menu-container"]}>
                     <span onClick={() => { setOpenContact(true) }}>Contact</span>
-                    <Link href={aboutUsLink}>About us</Link>
+                    <Link href='/quicktakes-about-us'>About us</Link>
                     <Link href={FAQLink}>FAQ</Link>
                     <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
                     <Link href="" onClick={handleLogin}>Log In</Link>
@@ -91,7 +91,7 @@ export default function Header({ layoutType }) {
                 </div>
                 <div className={styles["drawer-container"]}>
                     <Link href={aboutUsLink}>About us</Link>
-                    <Link href="">Log In</Link>
+                    <Link href="" onClick={handleLogin}>Log In</Link>
                     <Link href={FAQLink}>FAQ</Link>
                     <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
                 </div>
