@@ -53,7 +53,7 @@ export default function Header({ layoutType }) {
                 <div className={styles["menu-container"]}>
                     <span onClick={() => { setOpenContact(true) }}>Contact</span>
                     <Link href={aboutUsLink}>About us</Link>
-                    <Link href={FAQLink}><a>FAQ</a></Link>
+                    <Link href={FAQLink}>FAQ</Link>
                     <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
                     <Link href="" onClick={handleLogin}>Log In</Link>
                     <Image
