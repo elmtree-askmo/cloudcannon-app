@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output:'export',
-    trailingSlash: true,
+    exportPathMap: async function () {
+        return {
+          '/': { page: '/' },
+          '/faq': { page: '/faq.html' },
+        };
+    },
 }
 
 module.exports = nextConfig
