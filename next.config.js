@@ -1,11 +1,12 @@
 /** @type {import('next').NextConfig} */
+const { generateStaticParams } = require('next/dist/build/generate-static-params');
 const nextConfig = {
     output:'export',
-    exportPathMap: async function () {
-        return {
+    async generateStaticParams() {
+        return await generateStaticParams({
           '/': { page: '/' },
-          '/faq': { page: '/faq.html' },
-        };
+          '/faq.html': { page: '/faq.html' },
+        });
     },
 }
 
