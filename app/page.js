@@ -7,10 +7,21 @@ import Link from 'next/link';
 import { API_DOMAIN, APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from './global/global';
 import SignUpNow from './component/sign-up-now';
 import axios from 'axios';
+import { useEffect } from 'react';
+import mixpanel from 'mixpanel-browser';
 
 export default function Home({tryItNow=false}) {
 
+  useEffect(()=>{
+    if(tryItNow){
+      mixpanel.track("Siter Student (Try it Now) Open")
+    }else{
+      mixpanel.track("Siter Student Open")
+    }
+  },[tryItNow])
+
   const handletryItNow =()=> {
+    mixpanel.track("Siter Student (Try it Now) Click Try")
     const url = `https://${API_DOMAIN}/users?return_token=true`
     axios.post(url, {}, {headers :{'x-api-key':X_API_KEY}})
     .then(res=>{
@@ -26,7 +37,9 @@ export default function Home({tryItNow=false}) {
     if(tryItNow){
       handletryItNow()
     }else{
-      window.location.href = `https://${APP_URL}/signup`;
+      mixpanel.track("Siter Student Click Sign Up Now", {}, {}, ()=>{
+        window.location.href = `https://${APP_URL}/signup`;
+      })
     }
   }
   return (

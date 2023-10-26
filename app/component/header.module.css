@@ -200,7 +200,7 @@
 .teachers.contact-form-container form .send{
     background: var(--teacher-button-theme);
 }
-.contact-form-container form .send:hover{
+.teachers.contact-form-container form .send:hover{
     background-color: var(--teacher-button-theme) !important;
 }
 

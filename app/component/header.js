@@ -3,16 +3,23 @@
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
-import { Button, Drawer, Input, Modal } from "antd";
+import { Button, Drawer, Input, Modal, message } from "antd";
 import { useState } from "react";
-import { APP_URL } from "../global/global";
+import { APP_URL, X_API_KEY } from "../global/global";
 import { useRouter } from "next/navigation";
+import mixpanel from "mixpanel-browser";
+import axios from "axios";
 
-export default function Header({ layoutType }) {
+export default function Header({ layoutType, role, pageStr }) {
     const router = useRouter();
+    const eventPrefix = 'Siter ' + role + pageStr;
 
     const [openMenu, setOpenMenu] = useState(false);
     const [openContact, setOpenContact] = useState(false);
+
+    const [email, setEmail] = useState('');
+    const [name, setName] = useState('');
+    const [description, setDescription] = useState('');
 
     // links
     const [aboutUsLink] = useState(layoutType === 'teachers' ? '/about-us-teachers' : '/quicktakes-about-us');
@@ -20,17 +27,41 @@ export default function Header({ layoutType }) {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        const form = e.target;
-        const name = form.name.value;
-        const email = form.email.value;
-        const description = form.description.value;
+        const n = name;
+        const m = email;
+        const d = description;
+        const isEmail = (email) => {
+            const reg = /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/;
+            return reg.test(email)
+        }
+        if(!n)return message.error('Name is required');
+        if(!m)return message.error('Email is required');
+        if(!d)return message.error('Description is required');
+        if(!isEmail(m))return message.error('Invalid Email');
 
-        console.log(name, email, description)
+        const url = 'https://api.dev.quicktakes.io/api-node/quicktake/api/contact-us';
+        axios.post(url ,{
+            name:n,
+            email:m,
+            description:d
+        },{ headers:{'x-api-key': X_API_KEY}})
+        .then(res=>{
+            message.success('Your request successfully sent');
+            setOpenContact(false);
+        })
+        .catch(e=>{
+            message.error('something went wrong');
+            setOpenContact(false);
+        })
     }
     const handleSignUp = () => {
+        // console.log(eventPrefix + 'Click Sign Up')
+        mixpanel.track(eventPrefix + 'Click Sign Up' )
         window.location.href = `https://${APP_URL}/signup`
     }
     const handleLogin = () => {
+        // console.log(eventPrefix + 'Click Login')
+        mixpanel.track(eventPrefix + 'Click Login' )
         window.location.href = `https://${APP_URL}`
     }
     const handleClickLogo = () => {
@@ -110,9 +141,9 @@ export default function Header({ layoutType }) {
                 <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
                     <form onSubmit={handleSubmit} >
                         <div>Contanct us:</div>
-                        <Input placeholder="Name" name="name" />
-                        <Input placeholder="Email" name="email" />
-                        <Input placeholder="Description" name="description" />
+                        <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
+                        <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
+                        <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
                         <Button type="primary" className={styles["send"]} htmlType="submit" >Send</Button>
                     </form>
                 </div>

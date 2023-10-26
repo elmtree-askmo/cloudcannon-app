@@ -12,6 +12,7 @@ import axios from 'axios';
 export default function SignUpNow({tryItNow}) {
 
   const handletryItNow =()=> {
+    mixpanel.track("Siter Student (Try it Now) Click Try")
     const url = `https://${API_DOMAIN}/users?return_token=true`
     axios.post(url, {}, {headers :{'x-api-key':X_API_KEY}})
     .then(res=>{
@@ -28,7 +29,9 @@ export default function SignUpNow({tryItNow}) {
     if(tryItNow){
       handletryItNow()
     }else{
-      window.location.href = `https://${APP_URL}/signup`;
+      mixpanel.track("Siter Student Click Sign Up Now", {}, {}, ()=>{
+        window.location.href = `https://${APP_URL}/signup`;
+      })
     }
   }
 
