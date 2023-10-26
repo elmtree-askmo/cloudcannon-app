@@ -127,9 +127,9 @@ export default function Header({ layoutType, role, pageStr }) {
                     />
                 </div>
                 <div className={styles["drawer-container"]}>
-                    <Link href={aboutUsLink}>About us</Link>
+                    <Link href={aboutUsLink} onClick={()=>{ setOpenMenu(false)}}>About us</Link>
                     <Link href="" onClick={handleLogin}>Log In</Link>
-                    <Link href={FAQLink}>FAQ</Link>
+                    <Link href={FAQLink} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
                     <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
                 </div>
             </Drawer>
