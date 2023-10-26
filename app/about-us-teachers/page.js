@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import SignUpNow from '../component/sign-up-now';
 
 import styles from './page.module.css';
+import mixpanel from 'mixpanel-browser';
 
 export default function AboutUs() {
 
