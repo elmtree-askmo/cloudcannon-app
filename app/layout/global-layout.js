@@ -21,7 +21,8 @@ export default function GlobalLayout({ children }) {
     '/try-it-now':' (Try it Now) ',
 
     '/about-us-teachers':' (About us) ',
-    '/faq-teachers':' (FAQ) '
+    '/faq-teachers':' (FAQ) ',
+    '/teachers': ' '
   }
 
   // init mixpanel
