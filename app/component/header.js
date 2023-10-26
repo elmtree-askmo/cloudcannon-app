@@ -65,7 +65,13 @@ export default function Header({ layoutType, role, pageStr }) {
         window.location.href = `https://${APP_URL}`
     }
     const handleClickLogo = () => {
-        router.push('/')
+      
+        if(layoutType === 'teachers'){
+            router.push('/teachers')
+        }
+        else{
+            router.push('/')
+        }
     }
 
     return (
