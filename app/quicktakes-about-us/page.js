@@ -1,10 +1,11 @@
 'use client'
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 import SignUpNow from '../component/sign-up-now';
 
 import styles from './page.module.css';
+import mixpanel from 'mixpanel-browser';
 
 export default function AboutUs() {
 
@@ -45,6 +46,10 @@ export default function AboutUs() {
       photo: './images/photo-Darian.webp',
     },
   ])
+
+  useEffect(()=>{
+    mixpanel.track("Siter Student (About us) Open")
+  },[])
 
   return <div className={styles['about-us']}>
     <div className={`${styles.content} desktop-view`}>

@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import mixpanel from 'mixpanel-browser'
 
 import Header from '../component/header';
@@ -11,9 +11,9 @@ import { MIXPANEL_ID } from '../global/global';
 export default function GlobalLayout({ children }) {
 
   const [layoutType, setLayoutType] = useState('students'); // 'students' | 'teachers'
-  const [mixPanelLoaded, setMixPanelLoaded] = useState(false);
   const [role, setRole] = useState('Student'); //Student | Teacher
   const [pageStr, setPageStr] = useState('');
+  const mixpanelLoadedRef = useRef();
   const siteMap = {
     '/':' ',
     '/quicktakes-about-us':' (About us) ',
@@ -31,7 +31,7 @@ export default function GlobalLayout({ children }) {
   }, [])
 
   useEffect(() => {
-    setMixPanelLoaded(mixpanel?.__loaded)
+    if(mixpanel?.__loaded)mixpanelLoadedRef.current = true;
   }, [mixpanel?.__loaded])
 
   useEffect(() => {
@@ -44,18 +44,20 @@ export default function GlobalLayout({ children }) {
     setPageStr(str);
   }, [])
 
-  const RenderChildren = useMemo(() => {
-    console.log('mixPanelLoaded', mixPanelLoaded)
-    if (!mixPanelLoaded) return;
-    return <>
-      <Header layoutType={layoutType} role={role} pageStr={pageStr} />
-      {children}
-      <Footer layoutType={layoutType} />
+  const RenderChildren = () => {
+    return (
+      <>
+        <Header layoutType={layoutType} role={role} pageStr={pageStr} />
+        {children}
+        <Footer layoutType={layoutType} />
+      </>
+    )
+
+  }
+
+  return (
+    <>
+      { mixpanelLoadedRef.current?RenderChildren():null}
     </>
-
-  }, [layoutType, mixPanelLoaded])
-
-  return <>
-    {RenderChildren}
-  </>
+  )
 }

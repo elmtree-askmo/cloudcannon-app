@@ -1,5 +1,6 @@
-import GlobalLayout from './layout/global-layout'
 
+
+import GlobalLayout from './globalLayout/global-layout'
 import './globals.css'
 import Script from 'next/script'
 

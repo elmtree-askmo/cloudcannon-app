@@ -8,11 +8,13 @@ import { Collapse } from 'antd';
 import SignUpNow from '../component/sign-up-now';
 
 import styles from './page.module.css';
+import mixpanel from 'mixpanel-browser';
 
 export default function FAQ() {
   const [FAQList, setFAQList] = useState([]);
 
   useEffect(() => {
+    mixpanel.track("Siter Student (FAQ) Open");
     const RenderContent = (value) => {
       return <div className='FAQ-content'>{value}</div>
     }

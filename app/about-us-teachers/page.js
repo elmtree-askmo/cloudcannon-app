@@ -46,6 +46,10 @@ export default function AboutUs() {
     },
   ])
 
+  useEffect(()=>{
+    mixpanel.track("Siter Teacher (About us) Open")
+  },[])
+
   return <div className={styles['about-us']}>
     <div className={`${styles.content} desktop-view`}>
       <div className={styles['about-us-image']}><img src='./images/about-us-image.webp' /></div>
