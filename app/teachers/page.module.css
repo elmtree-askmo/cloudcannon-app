@@ -124,6 +124,9 @@ a.aos {
 }
 .section1-title .link{
   margin-top: 40px;
+}
+.section1-title .link a{
+  text-decoration: dashed;
   color: rgba(242, 201, 76, 1);
   font-weight: bold;
 }
@@ -383,6 +386,10 @@ a.aos {
     max-width: 480px;
     text-align: center;
     margin-top: 20px;
+  }
+  .section4 .content{
+    flex-direction: column;
+    align-items: center;
   }
 }
 

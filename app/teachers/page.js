@@ -4,6 +4,7 @@ import { Button } from 'antd';
 import axios from 'axios';
 import mixpanel from 'mixpanel-browser';
 import { useEffect } from 'react'
+import Link from 'next/link';
 
 import { API_DOMAIN, APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from '../global/global';
 import TeacherSignUpNow from '../component/teacher-sign-up-now';
@@ -60,7 +61,7 @@ export default function Teachers({ type }) { // type = 'teachers' | 'tryItNow'
         <div className={styles['section1-image']}></div>
         <div className={styles['section1-title']}>
           <div className={styles['title']}>Based on teacher research we’ve created an easy way for you to create learning materials by recording your own lesson.</div>
-          <div className={styles.link}>Learn More Below</div>
+          <div className={styles.link}> <Link href="#section4">Learn More Below</Link></div>
         </div>
       </div>
     </div>
@@ -86,7 +87,7 @@ export default function Teachers({ type }) { // type = 'teachers' | 'tryItNow'
         </div>
       </div>
     </div>
-    <div className={styles['section4']}>
+    <div className={styles['section4']} id="section4">
       <div className={`${styles.content} desktop-view`}>
         <div className={styles['section4-box']}>
           <div className={styles['section4-image']}><img src="./images/teachers-image6.webp" /></div>
@@ -94,12 +95,12 @@ export default function Teachers({ type }) { // type = 'teachers' | 'tryItNow'
           <div className={styles.description}>QuickTakes creates <strong>outlines</strong>, <strong>study guides</strong>, and <strong>practice problems</strong> and more!</div>
         </div>
         <div className={styles['section4-box']}>
-          <div className={styles['section4-image']}><img src="./images/teachers-image7.webp" /></div>
+          <div className={styles['section4-image']}><img src="./images/teachers-image7.png" /></div>
           <div className={styles.title}>Related Videos and More!</div>
           <div className={styles.description}>QuickTakes finds <strong>videos related</strong> to your lesson to help strengthen difficult concepts for students!</div>
         </div>
         <div className={styles['section4-box']}>
-          <div className={styles['section4-image']}><img src="./images/teachers-image8.webp" /></div>
+          <div className={styles['section4-image']}><img src="./images/teachers-image8.png" /></div>
           <div className={styles.title}>Chat Assistant for Lesson Planning</div>
           <div className={styles.description}>Your <strong>chat assistant</strong> can come up with projects and assessments based on standards, <strong>24-7</strong>!</div>
         </div>
