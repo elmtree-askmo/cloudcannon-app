@@ -5,8 +5,10 @@ import Script from 'next/script'
 
 export const metadata = {
   title: 'Quicktakes',
-  description: 'Quicktakes',
+  description: 'QuickTakes is a AI knowledge app for college students to understand their university lectures better. Record lectures and artificial intelligence auto-generates a Study Guide, Transcript, glossary and practice problems.',
+  keywords: ["QuickTakes", "college students", "class lectures", "recording lectures", "AI-generated", "Study Guide", "Transcript", "glossary", "practice problems", "recommended videos", "AI-chatbot", "better note taking", "studying", "university student", "professors lectures", "college courses", "study material", "ai assistant", "lecture notes", "class notes"]
 }
+
 
 export default function RootLayout({ children }) {
   return (
