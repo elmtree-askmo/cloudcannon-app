@@ -9,6 +9,7 @@ import { APP_URL, X_API_KEY } from "../global/global";
 import { useRouter } from "next/navigation";
 import mixpanel from "mixpanel-browser";
 import axios from "axios";
+import { api } from "../global/api";
 
 export default function Header({ layoutType, role, pageStr }) {
     const router = useRouter();
@@ -39,8 +40,8 @@ export default function Header({ layoutType, role, pageStr }) {
         if(!d)return message.error('Description is required');
         if(!isEmail(m))return message.error('Invalid Email');
 
-        const url = 'https://api.dev.quicktakes.io/api-node/quicktake/api/contact-us';
-        axios.post(url ,{
+        const url = '/api/contact-us';
+        api.post(url ,{
             name:n,
             email:m,
             description:d
