@@ -48,7 +48,7 @@ export default function Teachers({ type }) { // type = 'teachers' | 'tryItNow'
       <div className={styles['sign-up-title']}>Finally a time saving app that doesn’t require any training.</div>
       <div className={styles['sign-up-background-mobile']}></div>
       <div className={styles['sign-up-hint']}><span>QuickTakescreates</span> learning materials by listening to your class lessons.</div>
-      <div className={styles['inner-hint']}><span>FREE</span> for students, forever!</div>
+      <div className={styles['inner-hint']}>Get your <span>FREE</span> invite today!</div>
       <div className={styles['sign-up-button']}><Button onClick={handleSignUpNow}>{type === "tryItNow" ? 'Try it Now!' : 'Sign Up Now'}</Button></div>
       <div className={styles["download-title"]}>Download <span>QuickTakes</span> today!</div>
       <div className={styles['download-links']}>

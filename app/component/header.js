@@ -48,6 +48,7 @@ export default function Header({ layoutType, role, pageStr }) {
         .then(res=>{
             message.success('Your request successfully sent');
             setOpenContact(false);
+            resetForm()
         })
         .catch(e=>{
             message.error('something went wrong');
@@ -72,6 +73,12 @@ export default function Header({ layoutType, role, pageStr }) {
         else{
             router.push('/')
         }
+    }
+
+    const resetForm = ()=>{
+        setEmail('');
+        setName('');
+        setDescription('');
     }
 
     return (
@@ -139,7 +146,7 @@ export default function Header({ layoutType, role, pageStr }) {
                 open={openContact}
                 centered
                 footer={null}
-                onCancel={() => { setOpenContact(false) }}
+                onCancel={() => { setOpenContact(false);resetForm() }}
                 className={styles["custom-modal"]}
                 width={"auto"}
                 maskClosable={false}
