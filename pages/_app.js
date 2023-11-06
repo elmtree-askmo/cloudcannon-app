@@ -28,21 +28,6 @@ export default function App({ Component, pageProps }) {
         <Head>
           <meta name="keywords" content="QuickTakes, college students, class lectures, recording lectures. AI-generated, Study Guide, Transcript, glossary, practice problems, recommended videos, AI-chatbot, better note taking, studying, university student, professors lectures, college courses, study material, ai assistant, lecture notes, class notes" />
           <meta property="og:description" content="QuickTakes is a AI knowledge app for college students to understand their university lectures better. Record lectures and artificial intelligence auto-generates a Study Guide, Transcript, glossary and practice problems." />
-          {/* Start SmartBanner configuration */}
-          <meta name="smartbanner:title" content="Smart Application" />
-          <meta name="smartbanner:author" content="SmartBanner Contributors" />
-          <meta name="smartbanner:price" content="FREE" />
-          <meta name="smartbanner:price-suffix-apple" content=" - On the App Store" />
-          <meta name="smartbanner:price-suffix-google" content=" - In Google Play" />
-          <meta name="smartbanner:icon-apple" content="https://url/to/apple-store-icon.png" />
-          <meta name="smartbanner:icon-google" content="https://url/to/google-play-icon.png" />
-          <meta name="smartbanner:button" content="VIEW" />
-          <meta name="smartbanner:button-url-apple" content="https://ios/application-url" />
-          <meta name="smartbanner:button-url-google" content="https://android/application-url" />
-          <meta name="smartbanner:enabled-platforms" content="android,ios" />
-          <meta name="smartbanner:close-label" content="Close" />
-          {/* End SmartBanner configuration */}
-          
         </Head>
         {/* <!-- Google Tag Manager --> */}
         <Script>
