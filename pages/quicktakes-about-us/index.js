@@ -8,7 +8,7 @@ import mixpanel from 'mixpanel-browser';
 import Head from 'next/head';
 import { aboutUsContent } from '@/staticProps/aboutUs.content';
 
-export default function AboutUs({content}) {
+export default function AboutUs({content, layoutType, role, pageStr}) {
 
   useEffect(()=>{
     mixpanel.track("Siter Student (About us) Open")
@@ -58,7 +58,7 @@ export default function AboutUs({content}) {
             </div>
           </div>
         </div>
-        <SignUpNow />
+        <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
       </div>
     </>
   )

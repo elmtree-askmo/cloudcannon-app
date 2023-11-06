@@ -19,6 +19,7 @@ export default function Teachers({ content }) {
 
 
   const handletryItNow = () => {
+    mixpanel.track("Siter Teacher (Try it Now) Click Try")
     const url = `https://${API_DOMAIN}/users?return_token=true`
     axios.post(url, {}, { headers: { 'x-api-key': X_API_KEY } })
       .then(res => {

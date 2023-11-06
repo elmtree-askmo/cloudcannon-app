@@ -9,7 +9,10 @@ import { API_DOMAIN, APP_URL, ROLE, X_API_KEY, appStoreLink, googlePlayLink } fr
 import styles from './sign-up-now.module.css';
 import axios from 'axios';
 
-export default function SignUpNow({tryItNow}) {
+export default function SignUpNow({tryItNow,layoutType, role, pageStr}) {
+  
+  const eventPrefix = 'Siter ' + role + pageStr;
+  console.log(eventPrefix)
 
   const handletryItNow =()=> {
     mixpanel.track("Siter Student (Try it Now) Click Try")
@@ -29,7 +32,7 @@ export default function SignUpNow({tryItNow}) {
     if(tryItNow){
       handletryItNow()
     }else{
-      mixpanel.track("Siter Student Click Sign Up Now", {}, {}, ()=>{
+      mixpanel.track(eventPrefix + "Click Sign Up Now", {}, {}, ()=>{
         window.location.href = `https://${APP_URL}/signup`;
       })
     }

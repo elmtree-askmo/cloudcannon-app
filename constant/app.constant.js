@@ -14,5 +14,6 @@ export const SITEMAP = {
 
     '/about-us-teachers':' (About us) ',
     '/faq-teachers':' (FAQ) ',
-    '/teachers': ' '
+    '/teachers': ' ',
+    '/teachers-try-it-now':' (Try it Now) '
 }

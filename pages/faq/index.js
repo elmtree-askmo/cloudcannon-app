@@ -10,7 +10,7 @@ import mixpanel from 'mixpanel-browser';
 import { questionsList } from '@/staticProps/faq.content';
 import Head from 'next/head';
 
-export default function FAQ({list, pageTitle}) {
+export default function FAQ({list, pageTitle ,layoutType, role, pageStr}) {
 
   useEffect(() => {
     mixpanel.track("Siter Student (FAQ) Open");
@@ -38,7 +38,7 @@ export default function FAQ({list, pageTitle}) {
           </Collapse>
         </div>
       </div>
-      <SignUpNow />
+      <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
     </div>
   </>
   )
