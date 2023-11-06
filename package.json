@@ -1,19 +1,20 @@
 {
-  "name": "cloudcanon-app",
+  "name": "cloudcannon-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.0.1",
+    "@cloudcannon/react-connector": "^2.0.0",
     "antd": "^5.10.1",
     "axios": "^1.5.1",
-    "mixpanel-browser": "^2.47.0",
-    "next": "13.5.5",
-    "react": "^18",
-    "react-dom": "^18"
+    "mixpanel-browser": "^2.47.0"
   }
 }
