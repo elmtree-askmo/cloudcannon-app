@@ -3,11 +3,13 @@ import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
 import { Button, Drawer, Input, Modal, message } from "antd";
-import { useState } from "react";
+import { useEffect, useLayoutEffect, useState } from "react";
 import { APP_URL, X_API_KEY } from "../constant/app.constant";
 import { useRouter } from "next/navigation";
 import mixpanel from "mixpanel-browser";
 import axios from "axios";
+import { isMobile } from "react-device-detect";
+import SmartBanner from "./smartBanner";
 
 export default function Header({ layoutType, role, pageStr }) {
     const router = useRouter();
@@ -23,6 +25,10 @@ export default function Header({ layoutType, role, pageStr }) {
     // links
     const [aboutUsLink] = useState(layoutType === 'teachers' ? '/about-us-teachers' : '/quicktakes-about-us');
     const [FAQLink] = useState(layoutType === 'teachers' ? '/faq-teachers' : '/faq');
+
+    const [renderBanner, setRenderBanner] = useState(false);
+
+    const HIDE_APP_BANNER_TIME = 1000 * 60 * 60; //1hour
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -82,89 +88,109 @@ export default function Header({ layoutType, role, pageStr }) {
         setDescription('');
     }
 
+    useEffect(()=>{
+        const hideBannerTS = parseInt(localStorage.getItem('hideBannerTS'));
+        if(!hideBannerTS){
+            setRenderBanner(isMobile)
+        }else{
+            const curTS = new Date().valueOf();
+            if(curTS - hideBannerTS > HIDE_APP_BANNER_TIME){
+                setRenderBanner(isMobile)
+            }else{
+                setRenderBanner(false);
+            }
+        }
+    },[])
+
     return (
-        <div className={`${styles.header} ${styles[layoutType]}`}>
-            <div className={styles['main-container']}>
-                <div className={styles['logo-container']} onClick={handleClickLogo}>
-                    <Image
-                        src="/quicktakesIcon.svg"
-                        alt="Logo"
-                        className="logo"
-                        width={40}
-                        height={40}
-                        unoptimized
-                    />
-                    <p><strong>QuickTakes</strong> for {layoutType === 'teachers' ? 'Teachers' : 'Students'}</p>
+        <>
+            {
+                renderBanner && 
+                <SmartBanner hideBanner={()=>{setRenderBanner(false)}}  />
+            }
+            <div className={`${styles.header} ${styles[layoutType]}`} style={renderBanner?{top:'70px'}:{}} >
+                <div className={styles['main-container']}>
+                    <div className={styles['logo-container']} onClick={handleClickLogo}>
+                        <Image
+                            src="/quicktakesIcon.svg"
+                            alt="Logo"
+                            className="logo"
+                            width={40}
+                            height={40}
+                            unoptimized
+                        />
+                        <p><strong>QuickTakes</strong> for {layoutType === 'teachers' ? 'Teachers' : 'Students'}</p>
+                    </div>
+                    <div className={styles["menu-container"]}>
+                        <span onClick={() => { setOpenContact(true) }}>Contact</span>
+                        <Link href={aboutUsLink}>About us</Link>
+                        <Link href={FAQLink}>FAQ</Link>
+                        <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
+                        <Link href="" onClick={handleLogin}>Log In</Link>
+                        <Image
+                            src="/menu.svg"
+                            alt="menu"
+                            className={styles["menu"]}
+                            width={28}
+                            height={28}
+                            unoptimized
+                            onClick={() => { setOpenMenu(true) }}
+                        />
+                    </div>
                 </div>
-                <div className={styles["menu-container"]}>
-                    <span onClick={() => { setOpenContact(true) }}>Contact</span>
-                    <Link href={aboutUsLink}>About us</Link>
-                    <Link href={FAQLink}>FAQ</Link>
-                    <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
-                    <Link href="" onClick={handleLogin}>Log In</Link>
-                    <Image
-                        src="/menu.svg"
-                        alt="menu"
-                        className={styles["menu"]}
-                        width={28}
-                        height={28}
-                        unoptimized
-                        onClick={() => { setOpenMenu(true) }}
-                    />
-                </div>
+
+                <Drawer
+                    placement="top"
+                    maskClosable={false}
+                    open={openMenu}
+                    title=""
+                    height="100%"
+                    onClose={() => { setOpenMenu(false) }}
+                    closeIcon={false}
+                    mask={false}
+                    classNames={{ body: role=='Student'?styles["custom-drawer-body"]:styles["custom-drawer-body_teachers"] }}
+                    destroyOnClose={true}
+                >
+                    <div className={styles["drawer-header"]}>
+                        <Image
+                            src="/close.svg"
+                            alt="close"
+                            className={styles["close"]}
+                            width={28}
+                            height={28}
+                            unoptimized
+                            onClick={() => { setOpenMenu(false) }}
+                        />
+                    </div>
+                    <div className={styles["drawer-container"]}>
+                        <Link href={aboutUsLink} onClick={()=>{ setOpenMenu(false)}}>About us</Link>
+                        <Link href="" onClick={handleLogin}>Log In</Link>
+                        <Link href={FAQLink} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
+                        <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
+                    </div>
+                </Drawer>
+
+                <Modal
+                    title=""
+                    open={openContact}
+                    centered
+                    footer={null}
+                    onCancel={() => { setOpenContact(false);resetForm() }}
+                    className={styles["custom-modal"]}
+                    width={"auto"}
+                    maskClosable={false}
+                >
+                    <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
+                        <form onSubmit={handleSubmit} >
+                            <div>Contanct us:</div>
+                            <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
+                            <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
+                            <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
+                            <Button type="primary" className={styles["send"]} htmlType="submit" >Send</Button>
+                        </form>
+                    </div>
+                </Modal>
             </div>
-
-            <Drawer
-                placement="top"
-                maskClosable={false}
-                open={openMenu}
-                title=""
-                height="100%"
-                onClose={() => { setOpenMenu(false) }}
-                closeIcon={false}
-                mask={false}
-                classNames={{ body: role=='Student'?styles["custom-drawer-body"]:styles["custom-drawer-body_teachers"] }}
-                destroyOnClose={true}
-            >
-                <div className={styles["drawer-header"]}>
-                    <Image
-                        src="/close.svg"
-                        alt="close"
-                        className={styles["close"]}
-                        width={28}
-                        height={28}
-                        unoptimized
-                        onClick={() => { setOpenMenu(false) }}
-                    />
-                </div>
-                <div className={styles["drawer-container"]}>
-                    <Link href={aboutUsLink} onClick={()=>{ setOpenMenu(false)}}>About us</Link>
-                    <Link href="" onClick={handleLogin}>Log In</Link>
-                    <Link href={FAQLink} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
-                    <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
-                </div>
-            </Drawer>
-
-            <Modal
-                title=""
-                open={openContact}
-                centered
-                footer={null}
-                onCancel={() => { setOpenContact(false);resetForm() }}
-                className={styles["custom-modal"]}
-                width={"auto"}
-                maskClosable={false}
-            >
-                <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
-                    <form onSubmit={handleSubmit} >
-                        <div>Contanct us:</div>
-                        <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
-                        <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
-                        <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
-                        <Button type="primary" className={styles["send"]} htmlType="submit" >Send</Button>
-                    </form>
-                </div>
-            </Modal>
-        </div>
+        </>
     )
 }

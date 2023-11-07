@@ -9,12 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.2.6",
     "@cloudcannon/react-connector": "^2.0.0",
     "antd": "^5.10.1",
     "axios": "^1.5.1",
     "mixpanel-browser": "^2.47.0",
     "next": "14.0.1",
     "react": "^18",
+    "react-device-detect": "^2.2.3",
     "react-dom": "^18",
     "smartbanner.js": "^1.21.0"
   }
