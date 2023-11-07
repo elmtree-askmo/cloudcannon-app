@@ -27,7 +27,7 @@ export default function Footer({layoutType}){
         if(!d)return message.error('Description is required');
         if(!isEmail(m))return message.error('Invalid Email');
 
-        const url = 'https://api.dev.quicktakes.io/api-node/quicktake/api/contact-us';
+        const url = 'https://api.quicktakes.io/api-node/quicktake/api/contact-us';
         axios.post(url ,{
             name:n,
             email:m,
