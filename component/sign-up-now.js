@@ -32,7 +32,7 @@ export default function SignUpNow({tryItNow,layoutType, role, pageStr}) {
     if(tryItNow){
       handletryItNow()
     }else{
-      mixpanel.track(eventPrefix + "Click Sign Up Now", {}, {}, ()=>{
+      mixpanel.track(eventPrefix + "Click Sign Up Now", {}, {send_immediately:true}, ()=>{
         window.location.href = `https://${APP_URL}/signup`;
       })
     }

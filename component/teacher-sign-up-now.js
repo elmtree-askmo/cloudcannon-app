@@ -29,7 +29,7 @@ export default function SignUpNow({ tryItNow }) {
     if (tryItNow) {
       handletryItNow()
     } else {
-      mixpanel.track("Siter Teacher Click Sign Up Now", {}, {}, () => {
+      mixpanel.track("Siter Teacher Click Sign Up Now", {}, {send_immediately:true}, () => {
         window.location.href = `https://${APP_URL}/signup`;
       })
     }

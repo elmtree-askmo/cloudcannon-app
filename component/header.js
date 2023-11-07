@@ -56,13 +56,13 @@ export default function Header({ layoutType, role, pageStr }) {
     }
     const handleSignUp = () => {
         // console.log(eventPrefix + 'Click Sign Up')
-        mixpanel.track(eventPrefix + 'Click Sign Up', {}, {}, ()=>{
+        mixpanel.track(eventPrefix + 'Click Sign Up', {}, {send_immediately:true}, ()=>{
             window.location.href = `https://${APP_URL}/signup`
         } )
     }
     const handleLogin = () => {
         // console.log(eventPrefix + 'Click Login')
-        mixpanel.track(eventPrefix + 'Click Login', {}, {}, ()=>{
+        mixpanel.track(eventPrefix + 'Click Login', {}, {send_immediately:true}, ()=>{
             window.location.href = `https://${APP_URL}`
         } )
     }

@@ -11,7 +11,7 @@ import styles from '../../styles/teacherHome.module.css';
 import Head from 'next/head';
 import { content } from '@/staticProps/teacherHome.content';
 
-export default function Teachers({ content }) { 
+export default function Teachers({ content, layoutType, role, pageStr }) { 
 
   useEffect(()=>{
     mixpanel.track("Siter Teacher (Try it Now) Open")
@@ -101,7 +101,7 @@ export default function Teachers({ content }) {
           </div>
         </div>
       </div>
-      <TeacherSignUpNow tryItNow={true} />
+      <TeacherSignUpNow tryItNow={true} layoutType={layoutType} role={role} pageStr={pageStr} />
     </div>
   </>
   )

@@ -18,7 +18,7 @@ export default function Home({content, layoutType, role, pageStr}) {
   },[])
 
   const handleSignUpNow = ()=>{
-    mixpanel.track("Siter Student Click Sign Up Now", {}, {}, ()=>{
+    mixpanel.track("Siter Student Click Sign Up Now", {}, {send_immediately:true}, ()=>{
       window.location.href = `https://${APP_URL}/signup`;
     })
   }

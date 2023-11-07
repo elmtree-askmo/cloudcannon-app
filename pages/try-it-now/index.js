@@ -11,7 +11,7 @@ import mixpanel from 'mixpanel-browser';
 import { content } from '../../staticProps/home.content';
 import Head from 'next/head';
 
-export default function Home({content}) {
+export default function Home({content, layoutType, role, pageStr}) {
 
   useEffect(()=>{
       mixpanel.track("Siter Student (Try it Now) Open")
@@ -147,7 +147,7 @@ export default function Home({content}) {
           </div>
         </div>
 
-        <SignUpNow tryItNow={true} />
+        <SignUpNow tryItNow={true} layoutType={layoutType} role={role} pageStr={pageStr} />
       </div>
     </>
   )

@@ -19,7 +19,7 @@ export default function Teachers({ content, layoutType, role, pageStr}) {
 
 
   const handleSignUpNow = () => {
-    mixpanel.track("Siter Teacher Click Sign Up Now", {}, {}, ()=>{
+    mixpanel.track("Siter Teacher Click Sign Up Now", {}, {send_immediately:true}, ()=>{
       window.location.href = `https://${APP_URL}/signup`;
     })
   }
