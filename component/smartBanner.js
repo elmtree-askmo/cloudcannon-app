@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function SmartBanner({hideBanner}){
 
-    const deepLink = 'https://api.trunk.quicktakes.io/api-node/quicktake/dl?url=quicktakes%3A%2F%2Fsign-up%26action%3Dsign-up%26utm_campaign%3Dxxxx%26utm_medium%3Dyyyy%26utm_source%3Dzzzz%26utm_term%3D1111%26utm_content%3D2222%26param1%3Dparam1%26param2%3Dparam2%26param3%3Dparam3'
+    const deepLink = 'https://link.staging.quicktakes.io/api-node/quicktake/dl?url=quicktakes%3A%2F%2Fmain%2Fsettings?action%3Dsign-up%26utm_campaign%3Dxxxx%26utm_medium%3Dyyyy%26utm_source%3Dzzzz%26utm_term%3D1111%26utm_content%3D2222'
     
     const closeBanner = ()=>{
         localStorage.setItem('hideBannerTS',new Date().valueOf());
