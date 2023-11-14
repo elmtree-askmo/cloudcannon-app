@@ -106,7 +106,7 @@ export default function Header({ layoutType, role, pageStr }) {
         <>
             {
                 renderBanner && 
-                <SmartBanner hideBanner={()=>{setRenderBanner(false)}} role={role} />
+                <SmartBanner hideBanner={()=>{setRenderBanner(false)}} role={role} pageStr={pageStr} />
             }
             <div className={`${styles.header} ${styles[layoutType]}`} style={renderBanner?{top:'70px'}:{}} >
                 <div className={styles['main-container']}>

@@ -4,7 +4,7 @@ import { CloseOutlined } from '@ant-design/icons';
 import Link from "next/link";
 import mixpanel from "mixpanel-browser";
 
-export default function SmartBanner({hideBanner, role}){
+export default function SmartBanner({hideBanner, role, pageStr}){
 
     const deepLink = 'https://link.staging.quicktakes.io/api-node/quicktake/dl?url=quicktakes%3A%2F%2Fmain%2Fsettings?action%3Dsign-up%26utm_campaign%3Dxxxx%26utm_medium%3Dyyyy%26utm_source%3Dzzzz%26utm_term%3D1111%26utm_content%3D2222'
     
@@ -13,7 +13,7 @@ export default function SmartBanner({hideBanner, role}){
         hideBanner();
     }
     const handleClickView = ()=>{
-        mixpanel.track(`Siter ${role} Click View Deeplink`)
+        mixpanel.track(`Siter ${role + pageStr}Click View Deeplink`)
     }
 
     return (
