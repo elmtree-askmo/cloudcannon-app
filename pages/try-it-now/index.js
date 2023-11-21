@@ -141,7 +141,7 @@ export default function Home({content, layoutType, role, pageStr}) {
                   <div className={styles['section-5-content-container-t']}><img src='/questions-answer.png' /></div>
                   <h4>{content.section2Content.title_3}</h4>
                   <p>
-                  {content.section2Content.description3} <strong>{content.section2Content.ai_assistant}</strong> {content.section2Content.description3_1} <strong>{content.section2Content.all_time}</strong>.
+                  {content.section2Content.description3}
                   </p>
               </div>
           </div>
