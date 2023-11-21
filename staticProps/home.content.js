@@ -30,7 +30,7 @@ export const content = {
     section2Content:{
         title:"Studying just got easier",
         title_2:"Learn in Different Ways",
-        title_3:"Questions Answered 24-7",
+        title_3:"Personalize Anytime",
         outlines:"outlines",
         study_guides:"study guides",
         glossary:"glossary",
@@ -47,7 +47,6 @@ export const content = {
         description2_1:"and practice",
         description2_2:"so you can learn in the way that best suits you!",
 
-        description3:"Shy about asking questions in class? Outside office hours? Chat with our",
-        description3_1:"any time day or night,"
+        description3:"Need to add your own notes to a Quicktake? Highlight, edit or add text, input images and even create math formulas!",
     }
 }
