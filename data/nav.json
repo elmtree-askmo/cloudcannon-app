@@ -2,11 +2,6 @@
 	"logo": "/uploads/test2.jpg",
 	"items": [
 		{
-			"text": "Sign Up",
-			"type": "Button",
-			"action": "signUp"
-		},
-		{
 			"text": "Contact",
 			"type": "Button",
 			"action": "contact"
@@ -34,6 +29,11 @@
 			"text": "FAQ",
 			"type": "Link",
 			"role": "Teacher"
+		},
+		{
+			"text": "Sign Up",
+			"type": "Button",
+			"action": "signUp"
 		},
 		{
 			"text": "Log In",
