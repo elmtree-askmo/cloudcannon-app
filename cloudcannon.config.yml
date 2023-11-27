@@ -1,7 +1,11 @@
 paths:
   uploads: public/uploads
   data: data
-collections_config: {}
+collections_config: 
+  data:
+    path: data
+    disable_add: true
+    disable_add_folder: true
 _inputs: {}
 _select_data: {}
 _structures: {}
