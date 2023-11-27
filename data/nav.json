@@ -2,13 +2,6 @@
 	"logo": "/quicktakesIcon.svg",
 	"items": [
 		{
-			"link": "",
-			"text": "Contact",
-			"type": "Button",
-			"action": "contact",
-			"role": ""
-		},
-		{
 			"link": "/quicktakes-about-us",
 			"text": "About us",
 			"type": "Link",
@@ -35,6 +28,13 @@
 			"type": "Link",
 			"action": "",
 			"role": "Teacher"
+		},
+		{
+			"link": "",
+			"text": "Contact test",
+			"type": "Button",
+			"action": "contact",
+			"role": ""
 		},
 		{
 			"link": "",
