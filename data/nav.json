@@ -1,44 +1,44 @@
 {
 	"logo": "/quicktakesIcon.svg",
 	"items": [
-        {
+		{
 			"text": "Contact",
-            "type":"Button",
-            "action":"contact"
+			"type": "Button",
+			"action": "contact"
 		},
 		{
 			"link": "/quicktakes-about-us",
 			"text": "About us",
-            "type":"Link",
-            "role":"Student"
+			"type": "Link",
+			"role": "Student"
 		},
 		{
 			"link": "/faq",
 			"text": "FAQ",
-            "type":"Link",
-            "role":"Student"
+			"type": "Link",
+			"role": "Student"
 		},
-        {
+		{
 			"link": "/about-us-teachers",
 			"text": "About us",
-            "type":"Link",
-            "role":"Teacher"
+			"type": "Link",
+			"role": "Teacher"
 		},
 		{
 			"link": "/faq-teachers",
 			"text": "FAQ",
-            "type":"Link",
-            "role":"Teacher"
+			"type": "Link",
+			"role": "Teacher"
 		},
-        {
-			"text": "Sign Up",
-            "type":"Button",
-            "action":"signUp"
+		{
+			"text": "Sign Up111",
+			"type": "Button",
+			"action": "signUp"
 		},
-        {
+		{
 			"text": "Log In",
-            "type":"Button",
-            "action":"logIn"
+			"type": "Button",
+			"action": "logIn"
 		}
 	],
 	"button": {
@@ -50,5 +50,4 @@
 			"type": "image"
 		}
 	}
-	
 }
