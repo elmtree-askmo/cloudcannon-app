@@ -11,7 +11,6 @@ _structures: {}
 _editables: {}
 data_config: {}
 source_editor:
-  tab_size: 4
+  tab_size: 2
   theme: dawn
-  show_gutter: false
 timezone: Etc/UTC
