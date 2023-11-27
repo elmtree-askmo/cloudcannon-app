@@ -6,7 +6,7 @@
 			"text": "Contact",
 			"type": "Button",
 			"action": "contact",
-			"role":"",
+			"role":""
 		},
 		{
 			"link": "/quicktakes-about-us",
