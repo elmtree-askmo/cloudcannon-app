@@ -7,6 +7,7 @@ import Footer from '../component/footer';
 import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Script from 'next/script';
+import { CloudCannonConnect } from '@cloudcannon/react-connector';
 
 mixpanel.init(MIXPANEL_ID, { debug: false });
 
@@ -19,11 +20,10 @@ export default function App({ Component, pageProps }) {
     }else{
       return false;
     }
-    
   }
+  const AppComponent = CloudCannonConnect(Component);
 
-  const renderLayout = ()=>{
-    return (
+  const renderLayout = ()=>(
       <>
         <Head>
           <meta name="keywords" content="QuickTakes, college students, class lectures, recording lectures. AI-generated, Study Guide, Transcript, glossary, practice problems, recommended videos, AI-chatbot, better note taking, studying, university student, professors lectures, college courses, study material, ai assistant, lecture notes, class notes" />
@@ -68,11 +68,10 @@ export default function App({ Component, pageProps }) {
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
         <Header layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
-        <Component {...pageProps} layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
+        <AppComponent {...pageProps} layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
         <Footer layoutType={isTeacher()?"teachers":"students"} />
       </>
     )
-  }
 
   return (
     <>{renderLayout()}</>
