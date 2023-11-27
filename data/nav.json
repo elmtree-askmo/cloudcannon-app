@@ -1,6 +1,11 @@
 {
-	"logo": "/quicktakesIcon.svg",
+	"logo": "/uploads/test2.jpg",
 	"items": [
+		{
+			"text": "Sign Up",
+			"type": "Button",
+			"action": "signUp"
+		},
 		{
 			"text": "Contact",
 			"type": "Button",
@@ -29,11 +34,6 @@
 			"text": "FAQ",
 			"type": "Link",
 			"role": "Teacher"
-		},
-		{
-			"text": "Sign Up111",
-			"type": "Button",
-			"action": "signUp"
 		},
 		{
 			"text": "Log In",
