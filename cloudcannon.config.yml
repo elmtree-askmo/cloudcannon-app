@@ -8,6 +8,47 @@ collections_config: {}
 _inputs: {}
 _select_data: {}
 _structures: {}
-_editables: {}
+_editables:
+  content:
+    blockquote:
+    bold: true
+    bulletedlist:
+    center:
+    code:
+    copyformatting:
+    correct_orientation:
+    embed:
+    expandable:
+    format:
+    height:
+    horizontalrule:
+    image:
+    image_size_attributes: true
+    indent:
+    italic:
+    justify:
+    left:
+    link:
+    mime_type:
+    numberedlist:
+    outdent:
+    paths:
+    redo:
+    removeformat:
+    resize_style: contain
+    right:
+    snippet:
+    strike:
+    styles:
+    subscript:
+    superscript:
+    table:
+    underline:
+    undo:
+    width:
 data_config: {}
+source_editor:
+  tab_size: 2
+  theme: dawn
+  show_gutter: true
 timezone: Etc/UTC
