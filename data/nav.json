@@ -2,8 +2,22 @@
 	"logo": "/quicktakesIcon.svg",
 	"items": [
 		{
+			"link": "",
+			"text": "Contact",
+			"type": "Button",
+			"action": "contact",
+			"role": ""
+		},
+		{
 			"link": "/quicktakes-about-us",
 			"text": "About us",
+			"type": "Link",
+			"action": "",
+			"role": "Student"
+		},
+		{
+			"link": "/faq",
+			"text": "FAQ",
 			"type": "Link",
 			"action": "",
 			"role": "Student"
@@ -31,13 +45,6 @@
 		},
 		{
 			"link": "",
-			"text": "Contact test",
-			"type": "Button",
-			"action": "contact",
-			"role": ""
-		},
-		{
-			"link": "",
 			"text": "Sign Up",
 			"type": "Button",
 			"action": "signUp",
@@ -49,13 +56,6 @@
 			"type": "Button",
 			"action": "logIn",
 			"role": ""
-		},
-		{
-			"link": "/faq",
-			"text": "test",
-			"type": "link",
-			"action": "",
-			"role": "Student"
 		}
 	],
 	"_inputs": {
