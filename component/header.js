@@ -10,6 +10,7 @@ import mixpanel from "mixpanel-browser";
 import axios from "axios";
 import { isMobile } from "react-device-detect";
 import SmartBanner from "./smartBanner";
+import navData from '../data/nav.json';
 
 export default function Header({ layoutType, role, pageStr }) {
     const router = useRouter();
@@ -102,6 +103,28 @@ export default function Header({ layoutType, role, pageStr }) {
         }
     },[])
 
+    const renderNav = ()=>{
+        return navData.items.map((item, index)=>{
+            switch(item.type){
+                case "Button":
+                    if(item.action === 'contact')return (<span key={index}  onClick={() => { setOpenContact(true) }}>{item.text}</span>)
+                    if(item.action === 'signUp')return (<i  key={index} className={styles["sign-up-button"]} onClick={handleSignUp} >{item.text}</i>)
+                    if(item.action === 'logIn')return (<Link  key={index} href="" onClick={handleLogin}>{item.text}</Link>)
+                    break;
+                case "Link":
+                    if(role === item.role){
+                        return (
+                            <Link key={index} href={item.link}>{item.text}</Link>
+                        )
+                    }else{
+                        return null;
+                    }
+                default:
+                    return null;
+            }
+        })
+    }
+
     return (
         <>
             {
@@ -122,11 +145,9 @@ export default function Header({ layoutType, role, pageStr }) {
                         <p><strong>QuickTakes</strong> for {layoutType === 'teachers' ? 'Teachers' : 'Students'}</p>
                     </div>
                     <div className={styles["menu-container"]}>
-                        <span onClick={() => { setOpenContact(true) }}>Contact</span>
-                        <Link href={aboutUsLink}>About us</Link>
-                        <Link href={FAQLink}>FAQ</Link>
-                        <i className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</i>
-                        <Link href="" onClick={handleLogin}>Log In</Link>
+                        {
+                            renderNav()
+                        }
                         <Image
                             src="/menu.svg"
                             alt="menu"
