@@ -6,11 +6,11 @@ collections_config:
     path: data
     disable_add: true
     disable_add_folder: true
-_inputs: {}
-_select_data: {}
-_structures: {}
-_editables: {}
-data_config: {}
+# _inputs: {}
+# _select_data: {}
+# _structures: {}
+# _editables: {}
+# data_config: {}
 sourct_editor:
   tab_size: 4
   show_gutter: false
