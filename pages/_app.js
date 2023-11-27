@@ -22,6 +22,7 @@ export default function App({ Component, pageProps }) {
     }
   }
   const AppComponent = CloudCannonConnect(Component);
+  const HeaderComponent = CloudCannonConnect(Header);
 
   const renderLayout = ()=>(
       <>
@@ -67,7 +68,7 @@ export default function App({ Component, pageProps }) {
           }
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
-        <Header layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
+        <HeaderComponent layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
         <AppComponent {...pageProps} layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
         <Footer layoutType={isTeacher()?"teachers":"students"} />
       </>
