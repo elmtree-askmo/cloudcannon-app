@@ -44,6 +44,11 @@
 	"button": {
 		"link": "/signup",
 		"text": "Sign Up"
+	},
+	"_inputs": {
+		"logo": {
+			"type": "image"
+		}
 	}
 	
 }
