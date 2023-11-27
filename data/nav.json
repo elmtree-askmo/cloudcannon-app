@@ -1,0 +1,18 @@
+{
+	"logo": "/quicktakesIcon.svg",
+	"items": [
+		{
+			"link": "/",
+			"text": "/quicktakes-about-us"
+		},
+		{
+			"link": "/faq",
+			"text": "FAQ"
+		}
+	],
+	"button": {
+		"link": "/signup",
+		"text": "Sign Up"
+	}
+	
+}
