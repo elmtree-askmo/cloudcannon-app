@@ -23,13 +23,6 @@
 			"role": "Student"
 		},
 		{
-			"link": "/faq",
-			"text": "FAQ",
-			"type": "Link",
-			"action": "",
-			"role": "Student"
-		},
-		{
 			"link": "/about-us-teachers",
 			"text": "About us",
 			"type": "Link",
