@@ -135,7 +135,7 @@ export default function Header({ layoutType, role, pageStr }) {
                 <div className={styles['main-container']}>
                     <div className={styles['logo-container']} onClick={handleClickLogo}>
                         <Image
-                            src="/quicktakesIcon.svg"
+                            src={navData.logo}
                             alt="Logo"
                             className="logo"
                             width={40}
