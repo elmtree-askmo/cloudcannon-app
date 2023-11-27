@@ -2,53 +2,60 @@
 	"logo": "/quicktakesIcon.svg",
 	"items": [
 		{
-		  "link":"",
+			"link": "",
 			"text": "Contact",
 			"type": "Button",
 			"action": "contact",
-			"role":""
+			"role": ""
 		},
 		{
 			"link": "/quicktakes-about-us",
 			"text": "About us",
 			"type": "Link",
-			"action":"",
+			"action": "",
 			"role": "Student"
 		},
 		{
 			"link": "/faq",
 			"text": "FAQ",
 			"type": "Link",
-			"action":"",
+			"action": "",
 			"role": "Student"
 		},
 		{
 			"link": "/about-us-teachers",
 			"text": "About us",
 			"type": "Link",
-			"action":"",
+			"action": "",
 			"role": "Teacher"
 		},
 		{
 			"link": "/faq-teachers",
 			"text": "FAQ",
 			"type": "Link",
-			"action":"",
+			"action": "",
 			"role": "Teacher"
 		},
 		{
-		  "link":"",
+			"link": "",
 			"text": "Sign Up",
 			"type": "Button",
 			"action": "signUp",
 			"role": ""
 		},
 		{
-		  "link":"",
+			"link": "",
 			"text": "Log In",
 			"type": "Button",
 			"action": "logIn",
-			"role":""
+			"role": ""
+		},
+		{
+			"link": "/faq",
+			"text": "test",
+			"type": "link",
+			"action": "",
+			"role": "Student"
 		}
 	],
 	"_inputs": {
