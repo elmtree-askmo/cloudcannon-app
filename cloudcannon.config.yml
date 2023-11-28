@@ -20,9 +20,11 @@ collections_config:
     disable_file_actions: false
     schemas: {}
   pages:
-    path: content
-    url: '/student.home'
+    name: Stundet_Home
+    path: content/stundet.home.md
+    url: '/'
     output: true
+    icon: wysiwyg
     _enabled_editors:
       - visual
 _inputs: {}
