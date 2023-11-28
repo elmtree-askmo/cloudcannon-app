@@ -114,7 +114,7 @@ export default function Header({ layoutType, role, pageStr }) {
                 case "Link":
                     if(role === item.role){
                         return (
-                            <Link className="editable" data-cms-options='{ "bold": true }' key={index} href={item.link}>{item.text}</Link>
+                            <Link key={index} href={item.link}>{item.text}</Link>
                         )
                     }else{
                         return null;
