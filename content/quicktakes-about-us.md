@@ -1,4 +1,5 @@
 ---
+title: Student FAQ
 content_blocks:
     heroBanner:
         title: Difficult course material?

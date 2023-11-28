@@ -22,12 +22,11 @@ collections_config:
   pages:
     name: Pages
     path: content
-    url: '/'
+    url: '/[slug]'
     output: true
     icon: wysiwyg
     _enabled_editors:
       - visual
-      - content
 _inputs: {}
 _select_data: {}
 _structures: {}
