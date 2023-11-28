@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.2.6",
+    "@cloudcannon/filer": "^0.0.3",
     "@cloudcannon/react-connector": "^2.0.0",
     "antd": "^5.10.1",
     "axios": "^1.5.1",

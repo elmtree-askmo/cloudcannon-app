@@ -10,11 +10,16 @@ import { useEffect } from 'react';
 import mixpanel from 'mixpanel-browser';
 import { content } from '../staticProps/home.content';
 import Head from 'next/head';
+import Filer from '@cloudcannon/filer';
 
-export default function Home({content, layoutType, role, pageStr}) {
+const filer = new Filer({path: 'content'})
 
+export default function Home({content, layoutType, role, pageStr, page}) {
+
+  const block = page.data.content_blocks;
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
+      console.log(page.data)
   },[])
 
   const handleSignUpNow = ()=>{
@@ -31,13 +36,13 @@ export default function Home({content, layoutType, role, pageStr}) {
         <div className={styles['section-1-container']}>
           <div className={`${styles['section-1']} ${styles['main-container']}`}>
             <div className={styles['section-1-l']}>
-              <h2>{content.heroBanner.title}</h2>
-              <h2>{content.heroBanner.title_2}</h2>
-              <h2>{content.heroBanner.title_3}</h2>
-              <h1>{content.heroBanner.try} <strong>{content.heroBanner.quicktakes}</strong></h1>
-              <p className={styles['free-for-student']}><strong>{content.heroBanner.free}</strong> {content.heroBanner.description}</p>
+              <h2>{block.heroBanner.title}</h2>
+              <h2>{block.heroBanner.title_2}</h2>
+              <h2>{block.heroBanner.title_3}</h2>
+              <h1>{block.heroBanner.try} <strong>{block.heroBanner.quicktakes}</strong></h1>
+              <p className={styles['free-for-student']}><strong>{block.heroBanner.free}</strong> {block.heroBanner.description}</p>
               <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{`Sign Up Now!`}</Button>
-              <p className={styles['download-quicktakes-today']}>{content.heroBanner.download} <strong>{content.heroBanner.quicktakes}</strong> {content.heroBanner.today}</p>
+              <p className={styles['download-quicktakes-today']}>{block.heroBanner.download} <strong>{block.heroBanner.quicktakes}</strong> {block.heroBanner.today}</p>
               <div className={styles['download-group']}>
                 <Link href={appStoreLink} target='_blank'>
                   <img 
@@ -147,9 +152,11 @@ export default function Home({content, layoutType, role, pageStr}) {
 
 export async function getStaticProps(){
   const homeContent = content;
+  const page = await filer.getItem('student.home.md');
   return {
     props:{
-      content:homeContent
+      content:homeContent,
+      page:JSON.parse(JSON.stringify(page))
     }
   }
 }
