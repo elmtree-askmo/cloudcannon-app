@@ -1,17 +1,38 @@
 paths:
-  uploads: uploads
-  static: ''
-  collections: ''
-  data: ''
-  layouts:
-collections_config: {}
+  uploads: public/uploads
+  data: data
+collections_config:
+  data:
+    path: data
+    output: false
+    filter:
+      base:
+      include:
+      exclude:
+    description: ''
+    icon: notes
+    _editables: {}
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: false
+    schemas: {}
+  pages:
+    name: Stundet_Home
+    path: content/stundet.home.md
+    url: '/'
+    output: true
+    icon: wysiwyg
+    _enabled_editors:
+      - visual
 _inputs: {}
 _select_data: {}
 _structures: {}
 _editables: {}
 data_config: {}
 source_editor:
-  tab_size: 4
-  theme: dawn
-  show_gutter: false
+  tab_size: 2
+  show_gutter: true
 timezone: Etc/UTC
