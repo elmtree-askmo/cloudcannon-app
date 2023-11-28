@@ -6,4 +6,8 @@ _select_data: {}
 _structures: {}
 _editables: {}
 data_config: {}
+source_editor:
+  tab_size: 4
+  theme: dawn
+  show_gutter: false
 timezone: Etc/UTC
