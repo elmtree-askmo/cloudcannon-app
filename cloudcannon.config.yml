@@ -20,7 +20,7 @@ collections_config:
     disable_file_actions: false
     schemas: {}
   pages:
-    name: Stundet_Home
+    name: Pages
     path: content
     url: '/'
     output: true
