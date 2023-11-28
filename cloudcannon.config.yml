@@ -19,6 +19,12 @@ collections_config:
     disable_add_folder: true
     disable_file_actions: false
     schemas: {}
+  pages:
+    path: content
+    url: '/student.home'
+    output: true
+    _enabled_editors:
+      - visual
 _inputs: {}
 _select_data: {}
 _structures: {}
