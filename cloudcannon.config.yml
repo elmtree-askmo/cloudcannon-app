@@ -21,7 +21,7 @@ collections_config:
     schemas: {}
   pages:
     name: Stundet_Home
-    path: content/stundet.home.md
+    path: content
     url: '/'
     output: true
     icon: wysiwyg
