@@ -152,7 +152,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
 
 export async function getStaticProps(){
   const homeContent = content;
-  const page = await filer.getItem('student.home.md');
+  const page = await filer.getItem('index.md');
   return {
     props:{
       content:homeContent,
