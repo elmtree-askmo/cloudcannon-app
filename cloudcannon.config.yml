@@ -1,6 +1,6 @@
 paths:
-  collections: content
   uploads: public/uploads
+  collections: content
   data: data
 collections_config:
   data:
@@ -21,13 +21,30 @@ collections_config:
     disable_file_actions: false
     schemas: {}
   pages:
-    name: Stundet_Home
-    path: content/stundet.home.md
-    url: '/'
+    path: content
     output: true
+    url: /[slug]
+    name: Stundet_Home
+    description: ''
     icon: wysiwyg
+    preview:
+      text:
+      subtext:
+      icon:
+      icon_color:
+      image:
+      metadata:
+      gallery:
+    _editables: {}
     _enabled_editors:
       - visual
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    schemas: {}
 _inputs: {}
 _select_data: {}
 _structures: {}
