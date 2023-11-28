@@ -7,9 +7,12 @@ import styles from '../../styles/about-us.module.css';
 import mixpanel from 'mixpanel-browser';
 import Head from 'next/head';
 import { aboutUsContent } from '@/staticProps/aboutUs.content';
+import Filer from '@cloudcannon/filer';
 
-export default function AboutUs({content, layoutType, role, pageStr}) {
-
+const filer = new Filer({path: 'content'})
+export default function AboutUs({content, layoutType, role, pageStr, page}) {
+  const aboutEdkey = page.data.content_blocks.About_Edkey;
+  const foundingTeam = page.data.content_blocks.Founding_Team;
   useEffect(()=>{
     mixpanel.track("Siter Student (About us) Open")
   },[])
@@ -23,19 +26,19 @@ export default function AboutUs({content, layoutType, role, pageStr}) {
         <div className={`${styles.content} desktop-view`}>
           <div className={styles['about-us-image']}><img src='./images/about-us-image.webp' /></div>
           <div className={styles['about-us-title']}>{content.edkeyInfo.about} <span>{content.edkeyInfo.edkey}</span></div>
-          <div className={styles['auout-us-content']}>{content.edkeyInfo.paragraph1}</div>
-          <div className={styles['auout-us-content']}>{content.edkeyInfo.paragraph2}</div>
-          <div className={styles['auout-us-content']}>{content.edkeyInfo.paragraph3}</div>
-          <div className={styles['auout-us-content']}>{content.edkeyInfo.paragraph4}</div>
+          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph1}</div>
+          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph2}</div>
+          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph3}</div>
+          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph4}</div>
         </div>
         <div className={styles['founding-team']}>
           <div className={`${styles.content} desktop-view`}>
             <div className={styles['founding-title']}>{content.foundingTeamInfo.title}</div>
             <div className={styles['founding-flex']}>
-              {content.foundingTeamInfo.list.map((item) => {
-                const { key, photo, name, title, description } = item
+              {foundingTeam.map((item, key) => {
+                const { avatar, name, title, description } = item
                 return <div className={styles['founding-box']}  key={key}>
-                  <div className={styles.photo}><img src={photo} /></div>
+                  <div className={styles.photo}><img src={avatar} /></div>
                   <div className={styles.name}>{name}</div>
                   <div className={styles.title}>{title}</div>
                   <div className={styles.description}>{description}</div>
@@ -66,9 +69,11 @@ export default function AboutUs({content, layoutType, role, pageStr}) {
 
 export async function getStaticProps(){
   const content = aboutUsContent;
+  const page = await filer.getItem('quicktakes-about-us.md');
   return {
     props:{
-      content
+      content,
+      page
     }
   }
 }
