@@ -26,10 +26,11 @@ export default function AboutUs({content, layoutType, role, pageStr, page}) {
         <div className={`${styles.content} desktop-view`}>
           <div className={styles['about-us-image']}><img src='./images/about-us-image.webp' /></div>
           <div className={styles['about-us-title']}>{content.edkeyInfo.about} <span>{content.edkeyInfo.edkey}</span></div>
-          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph1}</div>
-          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph2}</div>
-          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph3}</div>
-          <div className={styles['auout-us-content']}>{aboutEdkey.paragraph4}</div>
+          {
+            aboutEdkey.map((item, index)=>(
+              <div key={index} className={styles['auout-us-content']}>{item.paragraph}</div>
+            ))
+          }
         </div>
         <div className={styles['founding-team']}>
           <div className={`${styles.content} desktop-view`}>
