@@ -9,8 +9,13 @@ import styles from '../../styles/faq.module.css';
 import mixpanel from 'mixpanel-browser';
 import { questionsList } from '@/staticProps/faq.content';
 import Head from 'next/head';
+import Filer from '@cloudcannon/filer';
 
-export default function FAQ({list, pageTitle ,layoutType, role, pageStr}) {
+const filer = new Filer({path: 'content'})
+
+export default function FAQ({list, pageTitle ,layoutType, role, pageStr, page}) {
+
+  const question_list = page.data.content_blocks.question_list;
 
   useEffect(() => {
     mixpanel.track("Siter Student (FAQ) Open");
@@ -27,10 +32,10 @@ export default function FAQ({list, pageTitle ,layoutType, role, pageStr}) {
         <div className={styles['FAQ-list']}>
           <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
             {
-              list.map((item,index)=>{
+              question_list.map((item,index)=>{
                 return (
-                  <Collapse.Panel header={item.label} key={index}>
-                    <div className='FAQ-content'>{item.value}</div>
+                  <Collapse.Panel header={item.question} key={index}>
+                    <div className='FAQ-content'>{item.answer}</div>
                   </Collapse.Panel>
                 )
               })
@@ -46,10 +51,12 @@ export default function FAQ({list, pageTitle ,layoutType, role, pageStr}) {
 
 export async function getStaticProps(){
   const list = questionsList;
+  const page = await filer.getItem('faq.md');
   return{
     props:{
       list,
-      pageTitle:"FAQ"
+      pageTitle:"FAQ",
+      page
     }
   }
 }
