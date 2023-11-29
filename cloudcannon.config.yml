@@ -30,8 +30,6 @@ collections_config:
 _inputs: 
   avatar:
     type: image
-  paragraph:
-    type: textarea
 _select_data: {}
 _structures: {}
 _editables: {}
