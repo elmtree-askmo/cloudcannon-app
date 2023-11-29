@@ -31,7 +31,7 @@ _inputs:
   avatar:
     type: image
   paragraph:
-    type: description
+    type: textarea
 _select_data: {}
 _structures: {}
 _editables: {}
