@@ -12,7 +12,7 @@ export const content = {
         today:"today!"
     },
     videoContent:{
-        description:"You deserve to feel confident.  QuickTakes has got your back! Simply hit record and QuickTakes takes lecture notes, create study materials, provides related videos and answers your questions 24-7.",
+        description:"You deserve to feel confident. QuickTakes has got your back! Simply hit record and QuickTakes takes lecture notes, create study materials, provides related videos and answers your questions 24-7.",
         learn_more_below:"Learn More Below"
     },
     phoneContent:{

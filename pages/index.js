@@ -17,6 +17,11 @@ const filer = new Filer({path: 'content'})
 export default function Home({content, layoutType, role, pageStr, page}) {
 
   const block = page.data.content_blocks;
+  const video_section = block.video_section;
+  const record_section = block.record_section;
+  const portrait_section = block.portrait_section;
+  const landscape_section = block.landscape_section;
+  
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
       console.log(page.data)
@@ -36,13 +41,13 @@ export default function Home({content, layoutType, role, pageStr, page}) {
         <div className={styles['section-1-container']}>
           <div className={`${styles['section-1']} ${styles['main-container']}`}>
             <div className={styles['section-1-l']}>
-              <h2>{block.heroBanner.title}</h2>
-              <h2>{block.heroBanner.title_2}</h2>
-              <h2>{block.heroBanner.title_3}</h2>
-              <h1>{block.heroBanner.try} <strong>{block.heroBanner.quicktakes}</strong></h1>
-              <p className={styles['free-for-student']}><strong>{block.heroBanner.free}</strong> {block.heroBanner.description}</p>
+              <h2>{content.heroBanner.title}</h2>
+              <h2>{content.heroBanner.title_2}</h2>
+              <h2>{content.heroBanner.title_3}</h2>
+              <h1>{content.heroBanner.try} <strong>{content.heroBanner.quicktakes}</strong></h1>
+              <p className={styles['free-for-student']}><strong>{content.heroBanner.free}</strong> {content.heroBanner.description}</p>
               <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{`Sign Up Now!`}</Button>
-              <p className={styles['download-quicktakes-today']}>{block.heroBanner.download} <strong>{block.heroBanner.quicktakes}</strong> {block.heroBanner.today}</p>
+              <p className={styles['download-quicktakes-today']}>{content.heroBanner.download} <strong>{content.heroBanner.quicktakes}</strong> {content.heroBanner.today}</p>
               <div className={styles['download-group']}>
                 <Link href={appStoreLink} target='_blank'>
                   <img 
@@ -65,13 +70,13 @@ export default function Home({content, layoutType, role, pageStr, page}) {
         <div className={styles['section-2-container']}>
           <div className={`${styles['section-2']} ${styles['main-container']}`} >
             <div className={styles['video-container']}>
-              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gkReCEDwufg" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; muted" allowFullScreen></iframe>
+              <iframe width="100%" height="100%" src={video_section.video_url} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; muted" allowFullScreen></iframe>
             </div>
             <div className={styles['robot-container']}>
               <img src='/home-robot.png' />
             </div>
             <div className={styles['learn-more-below']}>
-              <p>{content.videoContent.description}</p>
+              <p>{video_section.description}</p>
               <Link href="#section5">{content.videoContent.learn_more_below}</Link>
             </div>
           </div>
@@ -80,47 +85,49 @@ export default function Home({content, layoutType, role, pageStr, page}) {
         <div className={styles['section-3-container']}>
           <div className={`${styles['section-3']} ${styles['main-container']}`} >
             <div className={styles['quicktakes-can-help']}>
-              <h2>{content.phoneContent.title}</h2>
-              <h2>{content.phoneContent.title_2}</h2>
+              {
+                record_section.slogan.map((i, index)=>(
+                  <h2 key={index}>{i.item}</h2>
+                ))
+              }
             </div>
             <div className={styles['mobile-container']}>
-              <img src='/home-mobile.png' />
+              <img src={record_section.image} />
             </div>
           </div>
         </div>
 
         <div className={styles['section-4-container']}>
           <div className={`${styles['section-4']} ${styles['main-container']}`} >
-            <div className={styles['section-4-content-container']}>
-              <div className={styles['section-4-content-container-l']}><img src='/use-quicktakes-in-classroom.webp' /></div>
-              <div className={styles['section-4-content-container-r']}>
-                <h3>{content.sectionContent.title}</h3>
-                <p>{content.sectionContent.description}</p>
-              </div>
-              <p className={styles['section-4-content-container-b']}>{content.sectionContent.description}</p>
-            </div>
-            <div className={styles['section-4-content-container']} style={{flexDirection:'row-reverse'}}>
-              <div className={styles['section-4-content-container-l']}><img src='/use-quicktakes-in-study-groups.webp' /></div>
-              <div className={styles['section-4-content-container-r']}>
-                <h3>{content.sectionContent.title_2}</h3>
-                <p>{content.sectionContent.description_2}</p>
-              </div>
-              <p className={styles['section-4-content-container-b']}>{content.sectionContent.description_2}</p>
-            </div>
-            <div className={styles['section-4-content-container']}>
-              <div className={styles['section-4-content-container-l']}><img src='/use-quicktakes-remotely.webp' /></div>
-              <div className={styles['section-4-content-container-r']}>
-                <h3>{content.sectionContent.title_3}</h3>
-                <p>{content.sectionContent.description_3}</p>
-              </div>
-              <p className={styles['section-4-content-container-b']}>{content.sectionContent.description_3}</p>
-            </div>
+            {
+              landscape_section.map((item, index)=>(
+                <div key={index} className={styles['section-4-content-container']} style={item.reverse?{flexDirection:'row-reverse'}:{}}>
+                  <div className={styles['section-4-content-container-l']}><img src={item.image} /></div>
+                  <div className={styles['section-4-content-container-r']}>
+                    <h3>{item.title}</h3>
+                    <p>{item.description}</p>
+                  </div>
+                  <p className={styles['section-4-content-container-b']}>{item.description}</p>
+                </div>
+              ))
+            }
           </div>
         </div>
         
         <div className={styles['section-5-container']} id="section5">
           <div className={`${styles['section-5']} ${styles['main-container']}`} >
-              <div className={styles['section-5-content-container']}>
+              {
+                portrait_section.map((item, index)=>(
+                  <div key={index} className={styles['section-5-content-container']}>
+                      <div className={styles['section-5-content-container-t']}><img src={item.image} /></div>
+                      <h4>{item.title}</h4>
+                      <p>
+                        {item.description}
+                      </p>
+                  </div>
+                ))
+              }
+              {/* <div className={styles['section-5-content-container']}>
                   <div className={styles['section-5-content-container-t']}><img src='/study-just-got-easier.png' /></div>
                   <h4>{content.section2Content.title}</h4>
                   <p>
@@ -140,7 +147,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
                   <p>
                   {content.section2Content.description3}
                   </p>
-              </div>
+              </div> */}
           </div>
         </div>
 
