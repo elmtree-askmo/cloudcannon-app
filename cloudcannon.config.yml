@@ -32,6 +32,10 @@ _inputs:
     type: image
   paragraph:
     type: textarea
+  question:
+    type: textarea
+  answer:
+    type: textarea
 _select_data: {}
 _structures: {}
 _editables: {}
