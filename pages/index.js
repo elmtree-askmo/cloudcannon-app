@@ -121,7 +121,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
                   <div key={index} className={styles['section-5-content-container']}>
                       <div className={styles['section-5-content-container-t']}><img src={item.image} /></div>
                       <h4>{item.title}</h4>
-                      <div className={styles['desc']} dangerouslySetInnerHTML={{__html:item.description}} ></div>
+                      <div className={styles['desc']} dangerouslySetInnerHTML={{__html:item.html_description}} ></div>
                   </div>
                 ))
               }

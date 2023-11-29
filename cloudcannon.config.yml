@@ -36,9 +36,8 @@ _inputs:
     type: textarea
   answer:
     type: textarea
-  portrait_section:
-    description:
-      type: html
+  html_description:
+    type: html
 _select_data: {}
 _structures: {}
 _editables: {}
