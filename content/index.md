@@ -25,11 +25,11 @@ content_blocks:
     portrait_section:
         - title: Studying just got easier
           image: /study-just-got-easier.png
-          description: Record your lecture and QuickTakes creates outlines, study guides, a glossary and more!
+          description: <p>Record your lecture and QuickTakes creates outlines, study guides, a glossary and more!</p>
         - title: Learn in Different Ways
           image: /learn-in-different-ways.png
-          description: QuickTakes provides related videos and practice problems so you can learn in the way that best suits you!
+          description: <p>QuickTakes provides related videos and practice problems so you can learn in the way that best suits you!</p>
         - title: Personalize Anytime
           image: /questions-answer.png
-          description: Need to add your own notes to a Quicktake? Highlight, edit or add text, input images and even create math formulas!
+          description: <p>Need to add your own notes to a Quicktake? Highlight, edit or add text, input images and even create math formulas!</p>
 ---
