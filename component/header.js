@@ -203,7 +203,7 @@ export default function Header({ layoutType, role, pageStr }) {
                 >
                     <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
                         <form onSubmit={handleSubmit} >
-                            <div>Contanct us:</div>
+                            <div>Contact us:</div>
                             <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
                             <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
                             <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />

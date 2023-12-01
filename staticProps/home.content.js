@@ -5,9 +5,9 @@ export const content = {
         title_3:"Let us help.",
         try:"Try",
         free:"FREE",
-        description:"for students, forever!",
+        description:"Recording Time Every Week",
         btnTxt:"Sign Up Now!",
-        quicktakes:"Quicktakes",
+        quicktakes:"QuickTakes",
         download:"Download",
         today:"today!"
     },

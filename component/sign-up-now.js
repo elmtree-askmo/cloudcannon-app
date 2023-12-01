@@ -46,7 +46,7 @@ export default function SignUpNow({tryItNow,layoutType, role, pageStr}) {
           <p>Find Success.</p>
         </div>
         <img className={styles['inner-image']} src="./images/sign-up-now-image.webp" />
-        <div className={styles['inner-hint']}><span>FREE</span> for students, forever!</div>
+        <div className={styles['inner-hint']}><span>FREE</span> Recording Time Every Week</div>
         <div className={styles['sign-up-button']}><Button onClick={handleSignUpNow}>{tryItNow?'Try it Now!':'Sign Up Now'}</Button></div>
         <div className={styles["download-title"]}>Download <span>QuickTakes</span> today!</div>
         <div className={styles['download-links']}>
