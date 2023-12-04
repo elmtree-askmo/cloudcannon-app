@@ -35,7 +35,7 @@ export default function FAQ({list, pageTitle ,layoutType, role, pageStr, page}) 
               question_list.map((item,index)=>{
                 return (
                   <Collapse.Panel header={item.question} key={index}>
-                    <div className='FAQ-content'>{item.answer}</div>
+                    <div className='FAQ-content' dangerouslySetInnerHTML={{__html:item.answer}}></div>
                   </Collapse.Panel>
                 )
               })

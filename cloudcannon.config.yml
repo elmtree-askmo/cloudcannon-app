@@ -35,7 +35,7 @@ _inputs:
   question:
     type: textarea
   answer:
-    type: textarea
+    type: html
   portrait_section[*].description:
     type: html
 _select_data: {}
