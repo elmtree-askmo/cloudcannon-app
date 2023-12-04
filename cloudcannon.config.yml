@@ -38,6 +38,8 @@ _inputs:
     type: html
   portrait_section[*].description:
     type: html
+  testimonials_section.list[*].quote:
+    type: textarea
 _select_data: {}
 _structures: {}
 _editables: {}
