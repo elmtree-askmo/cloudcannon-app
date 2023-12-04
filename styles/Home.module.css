@@ -375,6 +375,13 @@
     max-width:60%;
     margin:0
   }
+
+  /* s6 */
+  .section-6 .content-box{
+    max-width: 100%;
+    flex:100% 0 0;
+    margin-bottom: 25px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -460,5 +467,12 @@
   .section-5-content-container .desc{
     max-width:60%;
     margin:0
+  }
+
+  /* s6 */
+  .section-6 .content-box{
+    max-width: 100%;
+    flex:100% 0 0;
+    margin-bottom: 25px;
   }
 }
