@@ -99,17 +99,7 @@ content_blocks:
         is English but you can change that to your chosen language that we
         currently support. We will add new languages over time.
     - question: Is QuickTakes free to use?
-      answer: >-
-        <p>The basic QuickTakes app is free to use. We will be introducing paid
-        features in the near future. So please stay tuned! We've found that our
-        student users get a lot of value by being able to focus on the lecture
-        and not spend as much time taking notes - which leads to better
-        understanding of the material and hopefully better grades - so some
-        aspects of QuickTakes will always be free.</p><p>We've found that our
-        student users get a lot of value by being able to focus on the lecture
-        and not spend as much time taking notes - which leads to better
-        understanding of the material and hopefully better grades - so some
-        aspects of QuickTakes will always be free.</p>
+      answer: "<p>The basic QuickTakes app is free to use. We will be introducing paid features in the near future. So please stay tuned! We've found that our student users get a lot of value by being able to focus on the lecture and not spend as much time taking notes - which leads to better understanding of the material and hopefully better grades - so some aspects of QuickTakes will always be free.</p><p>\_</p><p>We've found that our student users get a lot of value by being able to focus on the lecture and not spend as much time taking notes - which leads to better understanding of the material and hopefully better grades - so some aspects of QuickTakes will always be free.</p>"
     - question: My QuickTakes “errored out” or the QuickTake was inaccurate. Why?
       answer: >-
         When there is an error processing a recording the QuickTake will come
