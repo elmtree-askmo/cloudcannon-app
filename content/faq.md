@@ -13,19 +13,21 @@ content_blocks:
         app. It will pulsate letting you know that it is actively recording.
     - question: Can I pause the recording and then resume it?
       answer: >-
-        Currently stopping the recording will complete the record process and
-        then AI-generated materials will be returned. Recordings that are less
-        than 5 minutes tend to have lower quality information than longer
-        recordings. In the near future we will offer the ability to pause a
-        recording and then resume.
+        <p>Yes, you can click “pause” to pause the recording if your professor
+        takes a break and then click “resume” to restart when the lecture starts
+        back up. To stop the recording click the red record button and the
+        recording will complete the record process, then the AI-generated
+        materials (your QuickTake) will be returned.&nbsp;</p>
     - question: Can I record my professor or teacher’s entire lecture?
       answer: >-
-        Yes, if that lecture is under 60 minutes. We also limit the weekly
-        number of classes you can record. Recordings will automatically stop at
-        the 60 minute mark and then AI-generated materials will be published
-        back to the QuickTakes app. In the future longer recording times per
-        class and expanded limits on total QuickTakes per week will be available
-        via subscription.
+        <p>Yes, you can. We provide 90 free weekly recording minutes (Sunday -
+        Saturday) every week. If you need more time for recording an individual
+        lecture or multiple lectures you can purchase QT Boost in increments of
+        90 minutes for $1.99 each. QT Boost minutes are good for 30 days so they
+        won’t go to waste if you don’t use them all in any given week. We do not
+        limit the amount of time you can record on a per session basis - so if
+        you have a two hour lecture and more than 120 available weekly recording
+        minutes then you can record the entire lecture!</p>
     - question: >-
         How long does it take to publish the AI-generated learning materials
         i.e. “QuickTake” after my recording ends?
@@ -72,16 +74,16 @@ content_blocks:
         How can I get quickTakes for pre-recorded lectures (like youtube
         videos)?
       answer: >-
-        To record a non-live lecture (such as a Youtube video or audio lecture)
-        we have a work-around while we develop the ability to insert a
+        <p>To record a non-live lecture (such as a Youtube video or audio
+        lecture) we have a work-around while we develop the ability to insert a
         video/audio URL. You'll need to have another (second) device such as a
         computer - one for playing the pre-recorded lecture and one for using
-        QuickTakes. We recommend downloading the QuickTakes app to your phone
-        (available in both Apple App Store and Google Play Store). Launch the
-        QuickTakes app and press record keeping the phone near your computer
+        QuickTakes. Download the QuickTakes app to your phone (available in both
+        Apple App Store and Google Play Store). Launch the QuickTakes app on
+        your mobile device and press record keeping the phone near your computer
         where you are playing the pre-recorded online audio. End the recording
-        when the online audio is over and you should get a QuickTake returned to
-        you.
+        when the online audio is over and you’ll get a QuickTake returned to
+        you.</p>
     - question: Can I listen to the lecture I recorded to receive a QuickTake?
       answer: >-
         While we do make recordings, those recordings are fed into an AI-engine
@@ -99,7 +101,18 @@ content_blocks:
         is English but you can change that to your chosen language that we
         currently support. We will add new languages over time.
     - question: Is QuickTakes free to use?
-      answer: "<p>The basic QuickTakes app is free to use. We will be introducing paid features in the near future. So please stay tuned! We've found that our student users get a lot of value by being able to focus on the lecture and not spend as much time taking notes - which leads to better understanding of the material and hopefully better grades - so some aspects of QuickTakes will always be free.</p><p>\_</p><p>We've found that our student users get a lot of value by being able to focus on the lecture and not spend as much time taking notes - which leads to better understanding of the material and hopefully better grades - so some aspects of QuickTakes will always be free.</p>"
+      answer: >-
+        <p>The basic QuickTakes app is free to use up to 90 minutes per week,
+        every week! If you need more time for recording an individual lecture or
+        multiple lectures you can purchase QT Boosts in increments of 90 minutes
+        for US$1.99 each. Boost minutes are good for up to 30 days so they won’t
+        go to waste if you don’t use them all in any given week and will
+        rollover into the next week. We will be providing additional paid
+        subscription features in the near future.</p><p>We've found that our
+        student users get a lot of value by being able to focus on the lecture
+        and not spend as much time taking notes - which leads to better
+        understanding of the material and hopefully better grades - so some
+        aspects of QuickTakes will always be free.</p>
     - question: My QuickTakes “errored out” or the QuickTake was inaccurate. Why?
       answer: >-
         When there is an error processing a recording the QuickTake will come
