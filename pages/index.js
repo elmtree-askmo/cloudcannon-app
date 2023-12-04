@@ -21,6 +21,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
   const record_section = block.record_section;
   const portrait_section = block.portrait_section;
   const landscape_section = block.landscape_section;
+  const testimonials_section = block.testimonials_section;
   
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
@@ -125,27 +126,23 @@ export default function Home({content, layoutType, role, pageStr, page}) {
                   </div>
                 ))
               }
-              {/* <div className={styles['section-5-content-container']}>
-                  <div className={styles['section-5-content-container-t']}><img src='/study-just-got-easier.png' /></div>
-                  <h4>{content.section2Content.title}</h4>
-                  <p>
-                    {content.section2Content.description1} <strong>{content.section2Content.outlines}</strong>, <strong>{content.section2Content.study_guides}</strong>, {content.section2Content.description1_1} <strong>{content.section2Content.glossary}</strong> {content.section2Content.description1_2}
-                  </p>
-              </div>
-              <div className={styles['section-5-content-container']}>
-                  <div className={styles['section-5-content-container-t']}><img src='/learn-in-different-ways.png' /></div>
-                  <h4>{content.section2Content.title_2}</h4>
-                  <p>
-                  {content.section2Content.description2} <strong>{content.section2Content.related_videos}</strong> {content.section2Content.description2_1} <strong>{content.section2Content.problems}</strong> {content.section2Content.description2_2}
-                  </p>
-              </div>
-              <div className={styles['section-5-content-container']}>
-                  <div className={styles['section-5-content-container-t']}><img src='/questions-answer.png' /></div>
-                  <h4>{content.section2Content.title_3}</h4>
-                  <p>
-                  {content.section2Content.description3}
-                  </p>
-              </div> */}
+          </div>
+        </div>
+
+        <div className={styles['section-6-container']}>
+          <div className={`${styles['section-6']} ${styles['main-container']}`} >
+              <h2>Testimonials </h2>
+              {
+                testimonials_section.map((item,index)=>(
+                  <div className={styles['content-box']} key={index}>
+                    <p className={styles['quote']}>{item.quote}</p>
+                    <div>
+                      <div className={styles['name']}>{item.name}</div>
+                      <div className={styles['grade']}>{item.grade}</div>
+                    </div>
+                  </div>
+                ))
+              }
           </div>
         </div>
 
