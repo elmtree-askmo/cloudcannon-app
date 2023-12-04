@@ -48,13 +48,15 @@ content_blocks:
         <p>Need to add your own notes to a QuickTake? Highlight, edit or add
         text, input images and even create math formulas!</p>
   testimonials_section:
-    - quote: “This app is super easy to use. It makes learning super intuitive!”
-      name: Ken S.
-      grade: Sophomore
-    - quote: “This is the app I've been looking for. It's fast, detailed, and helping me pass my classes”
-      name: Barbara G.
-      grade: Freshman
-    - quote: “This app is super easy to use. It makes learning super intuitive!”
-      name: Tamira B.
-      grade: Freshman
+    title: Testimonials
+    list:
+      - quote: “This app is super easy to use. It makes learning super intuitive!”
+        name: Ken S.
+        grade: Sophomore
+      - quote: “This is the app I've been looking for. It's fast, detailed, and helping me pass my classes”
+        name: Barbara G.
+        grade: Freshman
+      - quote: “This app is super easy to use. It makes learning super intuitive!”
+        name: Tamira B.
+        grade: Freshman
 ---

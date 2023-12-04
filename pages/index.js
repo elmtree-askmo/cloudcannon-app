@@ -131,9 +131,9 @@ export default function Home({content, layoutType, role, pageStr, page}) {
 
         <div className={styles['section-6-container']}>
           <div className={`${styles['section-6']} ${styles['main-container']}`} >
-              <h2>Testimonials </h2>
+              <h2>{testimonials_section.title}</h2>
               {
-                testimonials_section.map((item,index)=>(
+                testimonials_section.list.map((item,index)=>(
                   <div className={styles['content-box']} key={index}>
                     <p className={styles['quote']}>{item.quote}</p>
                     <div>
