@@ -9,3 +9,6 @@
   margin: 40px 0 60px;
   padding: 0 var(--global-padding);
 }
+.FAQ-content p{
+  margin:0
+}
