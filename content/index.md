@@ -15,7 +15,8 @@ content_blocks:
   landscape_section:
     - title: Use QuickTakes in Your Lectures
       description: >-
-        Pop open the app and record your entire lecture to get back your QuickTake!
+        Pop open the app and record your entire lecture to get back your
+        QuickTake!
       image: /use-quicktakes-in-classroom.webp
       reverse: false
     - title: Use QuickTakes in Study Groups
@@ -24,14 +25,8 @@ content_blocks:
         chat and learn stress-free!
       image: /use-quicktakes-in-study-groups.webp
       reverse: true
-    # - title: Use QuickTakes Remotely
-    #   description: >-
-    #     You can use QuickTakes to record the audio from YouTube videos or
-    #     college or university lecture videos too!
-    #   image: /use-quicktakes-remotely.webp
-    # reverse: false
   portrait_section:
-    - title: Studying just got easier
+    - title: Studying Just Got Easier
       image: /study-just-got-easier.png
       description: >-
         <p>Record your lecture and QuickTakes creates <strong>outlines</strong>,
@@ -53,7 +48,9 @@ content_blocks:
       - quote: “This app is super easy to use. It makes learning super intuitive!”
         name: Ken S.
         grade: Sophomore
-      - quote: “This is the app I've been looking for. It's fast, detailed, and helping me pass my classes”
+      - quote: >-
+          “This is the app I've been looking for. It's fast, detailed, and
+          helping me pass my classes”
         name: Barbara G.
         grade: Freshman
       - quote: “This app is super easy to use. It makes learning super intuitive!”
