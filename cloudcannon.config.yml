@@ -46,6 +46,7 @@ _structures:
     values:
       - label: Banner
         value:
+          name: 
 _editables: {}
 data_config: {}
 source_editor:
