@@ -11,17 +11,19 @@ import mixpanel from 'mixpanel-browser';
 import { content } from '../staticProps/home.content';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
+import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
 export default function Home({content, layoutType, role, pageStr, page}) {
 
   const block = page.data.content_blocks;
-  const video_section = block.video_section;
-  const record_section = block.record_section;
-  const portrait_section = block.portrait_section;
-  const landscape_section = block.landscape_section;
-  const testimonials_section = block.testimonials_section;
+  // const video_section = block.video_section;
+  // const record_section = block.record_section;
+  // const portrait_section = block.portrait_section;
+  // const landscape_section = block.landscape_section;
+  // const testimonials_section = block.testimonials_section;
+  console.log(block)
   
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
@@ -39,7 +41,12 @@ export default function Home({content, layoutType, role, pageStr, page}) {
         <title>QuickTakes for Students</title>
       </Head>
       <div className={styles['home']}>
-        <div className={styles['section-1-container']}>
+        {
+          block.map((item, index)=>{
+            return renderComponent(item._bookshop_name, index, content, page)
+          })
+        }
+        {/* <div className={styles['section-1-container']}>
           <div className={`${styles['section-1']} ${styles['main-container']}`}>
             <div className={styles['section-1-l']}>
               <h2>{content.heroBanner.title}</h2>
@@ -146,7 +153,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
           </div>
         </div>
 
-        <SignUpNow tryItNow={false} layoutType={layoutType} role={role} pageStr={pageStr}  />
+        <SignUpNow tryItNow={false} layoutType={layoutType} role={role} pageStr={pageStr}  /> */}
       </div>
     </>
   )
