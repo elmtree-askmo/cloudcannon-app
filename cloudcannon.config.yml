@@ -44,7 +44,8 @@ _select_data: {}
 _structures: 
   content_blocks:
     values:
-      -label: Banner
+      - label: Banner
+        value:
 _editables: {}
 data_config: {}
 source_editor:
