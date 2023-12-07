@@ -1,4 +1,4 @@
-import Banner from "@/component-lib/home/banner"
+import Banner from '../components/home/banner';
 
 export default function renderComponent(key, index, content, page){
     let targetComponent ;
