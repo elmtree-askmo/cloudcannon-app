@@ -17,13 +17,13 @@ const filer = new Filer({path: 'content'})
 
 export default function Home({content, layoutType, role, pageStr, page}) {
 
-  const block = page.data.content_blocks;
+  const blocks = page.data.content_blocks;
   // const video_section = block.video_section;
   // const record_section = block.record_section;
   // const portrait_section = block.portrait_section;
   // const landscape_section = block.landscape_section;
   // const testimonials_section = block.testimonials_section;
-  console.log(block)
+  console.log(blocks)
   
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
@@ -42,8 +42,8 @@ export default function Home({content, layoutType, role, pageStr, page}) {
       </Head>
       <div className={styles['home']}>
         {
-          block.map((item, index)=>{
-            return renderComponent(item._bookshop_name, index, content, page)
+          blocks.map((item, index)=>{
+            return renderComponent(item._bookshop_name, index, content, item)
           })
         }
         {/* <div className={styles['section-1-container']}>

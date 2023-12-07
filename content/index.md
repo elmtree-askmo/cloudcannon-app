@@ -2,7 +2,12 @@
 title: Student Home
 content_blocks:
   - _bookshop_name: home/banner
-    text: Hi
+  - _bookshop_name: home/video
+    video_url: https://www.youtube.com/embed/gkReCEDwufg
+    description: >-
+      You deserve to feel confident. QuickTakes has got your back! Simply hit
+      record and QuickTakes takes lecture notes, create study materials,
+      provides related videos and answers your questions 24/7.
   # video_section:
   #   video_url: https://www.youtube.com/embed/gkReCEDwufg
   #   description: >-

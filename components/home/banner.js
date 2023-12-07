@@ -4,7 +4,7 @@ import styles from '../../styles/Home.module.css';
 import { Button } from 'antd';
 import Link from 'next/link';
 
-export default function Banner({content, page}){
+export default function Banner({content, block}){
     const handleSignUpNow = ()=>{
         mixpanel.track("Siter Student Click Sign Up Now", {}, {send_immediately:true}, ()=>{
           window.location.href = `https://${APP_URL}/signup`;
