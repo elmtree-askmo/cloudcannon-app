@@ -2,6 +2,7 @@
 title: Student Home
 content_blocks:
   - _bookshop_name: home/banner
+    text: Hi
   # video_section:
   #   video_url: https://www.youtube.com/embed/gkReCEDwufg
   #   description: >-
