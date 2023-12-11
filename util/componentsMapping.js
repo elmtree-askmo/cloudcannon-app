@@ -30,7 +30,7 @@ export default function renderComponent(key, index, block){
         case "home/testimonials":
             targetComponent = (<Testimonials key={index} content={homeContent} block={block} />)
             break;
-        case "faq/list":
+        case "faq/questionSection":
             targetComponent = (<List key={index} content={questionsList} block={block} />)
             break;
         default:
