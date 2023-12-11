@@ -1,13 +1,11 @@
 // libs 
-import { useEffect, useState } from 'react';
-import { Collapse } from 'antd';
+import { useEffect } from 'react';
 
 // components
 import SignUpNow from '../../component/sign-up-now';
 
 import styles from '../../styles/faq.module.css';
 import mixpanel from 'mixpanel-browser';
-import { questionsList } from '@/staticProps/faq.content';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
 import renderComponent from '@/util/componentsMapping';
@@ -28,16 +26,11 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
       <title>QuickTakes - FAQ</title>
     </Head>
     <div className={`FAQ-global`}>
-      <div className={`desktop-view`}>
-        <div className={styles.title}>{pageTitle}</div>
-        <div className={styles['FAQ-list']}>
-          {
-            blocks.map((item, index)=>{
-              return renderComponent(item._bookshop_name, index, content, item)
-            })
-          }
-        </div>
-      </div>
+      {
+        blocks.map((item, index)=>{
+          return renderComponent(item._bookshop_name, index, item)
+        })
+      }
       <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
     </div>
   </>
@@ -45,11 +38,9 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
 }
 
 export async function getStaticProps(){
-  const content = questionsList;
   const page = await filer.getItem('faq.md');
   return{
     props:{
-      content,
       pageTitle:"FAQ",
       page
     }

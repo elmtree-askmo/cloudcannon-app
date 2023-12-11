@@ -6,29 +6,32 @@ import Landscape from '../components/home/landscape';
 import Portrait from '../components/home/portrait';
 import List from '../components/faq/list';
 
-export default function renderComponent(key, index, content, block){
+import { homeContent } from '../staticProps/home.content';
+import { questionsList } from '../staticProps/faq.content';
+
+export default function renderComponent(key, index, block){
     let targetComponent ;
     switch (key) {
         case "home/banner":
-            targetComponent = (<Banner key={index} content={content} block={block} />)
+            targetComponent = (<Banner key={index} content={homeContent} block={block} />)
             break;
         case "home/video":
-            targetComponent = (<Video key={index} content={content} block={block} />)
+            targetComponent = (<Video key={index} content={homeContent} block={block} />)
             break;
         case "home/record":
-            targetComponent = (<Record key={index} content={content} block={block} />)
+            targetComponent = (<Record key={index} content={homeContent} block={block} />)
             break;
         case "home/landscape":
-            targetComponent = (<Landscape key={index} content={content} block={block} />)
+            targetComponent = (<Landscape key={index} content={homeContent} block={block} />)
             break;
         case "home/portrait":
-            targetComponent = (<Portrait key={index} content={content} block={block} />)
+            targetComponent = (<Portrait key={index} content={homeContent} block={block} />)
             break;
         case "home/testimonials":
-            targetComponent = (<Testimonials key={index} content={content} block={block} />)
+            targetComponent = (<Testimonials key={index} content={homeContent} block={block} />)
             break;
         case "faq/list":
-            targetComponent = (<List key={index} content={content} block={block} />)
+            targetComponent = (<List key={index} content={questionsList} block={block} />)
             break;
         default:
             targetComponent = null;

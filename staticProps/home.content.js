@@ -1,4 +1,4 @@
-export const content = {
+export const homeContent = {
     heroBanner:{
         title:"Difficult course material?",
         title_2:"Struggling with lectures?",

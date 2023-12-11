@@ -15,7 +15,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Home({content, layoutType, role, pageStr, page}) {
+export default function Home({layoutType, role, pageStr, page}) {
 
   const blocks = page.data.content_blocks;
   
@@ -32,7 +32,7 @@ export default function Home({content, layoutType, role, pageStr, page}) {
       <div className={styles['home']}>
         {
           blocks.map((item, index)=>{
-            return renderComponent(item._bookshop_name, index, content, item)
+            return renderComponent(item._bookshop_name, index, item)
           })
         }
         <SignUpNow tryItNow={false} layoutType={layoutType} role={role} pageStr={pageStr}  />
@@ -43,11 +43,9 @@ export default function Home({content, layoutType, role, pageStr, page}) {
 }
 
 export async function getStaticProps(){
-  const homeContent = content;
   const page = await filer.getItem('index.md');
   return {
     props:{
-      content:homeContent,
       page:JSON.parse(JSON.stringify(page))
     }
   }

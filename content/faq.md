@@ -2,6 +2,7 @@
 title: Student FAQ
 content_blocks:
   - _bookshop_name: faq/list
+    pageTitle: FAQ
     question_list:
     - question: How do I sign up for QuickTakes?
       answer: >-
