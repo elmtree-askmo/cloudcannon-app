@@ -1,6 +1,9 @@
 .content{
   padding: 0 var(--global-padding);
 }
+.about-edkey{
+  padding-bottom: 60px;
+}
 .about-us-image{
   display: flex;
   align-items: center;
@@ -33,7 +36,6 @@
     rgba(255, 241, 234, 1),
     rgba(255, 241, 234, 1)
   );
-  margin-top: 60px;
 }
 .founding-team .content{
   padding: 50px 30px;

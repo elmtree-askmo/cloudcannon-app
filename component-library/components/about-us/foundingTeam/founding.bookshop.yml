@@ -1,0 +1,39 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: About Us Founding Team
+  description: About Us Founding Team
+  icon: "cottage"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Founding Team section
+  members: 
+    - avatar: /images/photo-Garwin.webp
+      name: Garwin Chan
+      title: CEO
+      description: Investor & M&A background; tech advocate & enabler
+    - avatar: /images/photo-George.webp
+      name: George Chen
+      title: President
+      description: Serial entrepreneur in digital marketing, blockchain, AI, edtech
+    - avatar: /images/photo-James.webp
+      name: James Ku
+      title: Head of Product
+      description: Seasoned AI &technical product lead, w/ edtech focus
+    - avatar: /images/photo-Ale.webp
+      name: Alé Di Mare
+      title: Head of Engineering
+      description: Engineering leader at edtech cos & social learning pioneer
+    - avatar: /images/photo-Darian.webp
+      name: Darian Patchin
+      title: Head of GTM
+      description: Seasoned edtech marketer
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

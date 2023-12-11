@@ -5,9 +5,13 @@ import Testimonials from '../components/home/testimonials';
 import Landscape from '../components/home/landscape';
 import Portrait from '../components/home/portrait';
 import List from '../components/faq/list';
+import AboutEdkey from '../components/about-us/aboutEdkey';
+import FoundingTeam from '../components/about-us/foundingTeam';
+import Experience from '../components/about-us/experience';
 
 import { homeContent } from '../staticProps/home.content';
 import { questionsList } from '../staticProps/faq.content';
+import { aboutUsContent } from '../staticProps/aboutUs.content';
 
 export default function renderComponent(key, index, block){
     let targetComponent ;
@@ -32,6 +36,15 @@ export default function renderComponent(key, index, block){
             break;
         case "faq/questionSection":
             targetComponent = (<List key={index} content={questionsList} block={block} />)
+            break;
+        case "about-us/aboutEdkey":
+            targetComponent = (<AboutEdkey key={index} content={aboutUsContent} block={block} />)
+            break;
+        case "about-us/foundingTeam":
+            targetComponent = (<FoundingTeam key={index} content={aboutUsContent} block={block} />)
+            break;
+        case "about-us/experience":
+            targetComponent = (<Experience key={index} content={aboutUsContent} block={block} />)
             break;
         default:
             targetComponent = null;

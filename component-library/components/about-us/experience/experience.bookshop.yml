@@ -1,0 +1,26 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: About Us Experience
+  description: About Us Experience
+  icon: "cottage"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Experience section
+  items:
+    - image: ./images/experience-image1.webp
+    - image: ./images/experience-image2.webp
+    - image: ./images/experience-image3.webp
+    - image: ./images/experience-image4.webp
+    - image: ./images/experience-image5.webp
+    - image: ./images/experience-image6.webp
+    - image: ./images/experience-image7.webp
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
