@@ -5,7 +5,7 @@ import styles from '../../styles/faq.module.css';
 export default function List({content, block}){
     return (
       <div className={`desktop-view`}>
-        <div className={styles.title}>{block.pageTitle}</div>
+        <div className={styles.title}>{block.sectionTitle}</div>
         <div className={styles['FAQ-list']}>
           <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
               {

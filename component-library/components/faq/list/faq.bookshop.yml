@@ -10,7 +10,7 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: FAQ Section
-  pageTitle: FAQ
+  sectionTitle: FAQ
   question_list:
     - question: How do I sign up for QuickTakes?
       answer: >-
