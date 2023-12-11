@@ -10,12 +10,13 @@ import mixpanel from 'mixpanel-browser';
 import { questionsList } from '@/staticProps/faq.content';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
+import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function FAQ({list, pageTitle ,layoutType, role, pageStr, page}) {
+export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page}) {
 
-  const question_list = page.data.content_blocks.question_list;
+  const blocks = page.data.content_blocks;
 
   useEffect(() => {
     mixpanel.track("Siter Student (FAQ) Open");
@@ -30,17 +31,11 @@ export default function FAQ({list, pageTitle ,layoutType, role, pageStr, page}) 
       <div className={`desktop-view`}>
         <div className={styles.title}>{pageTitle}</div>
         <div className={styles['FAQ-list']}>
-          <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
-            {
-              question_list.map((item,index)=>{
-                return (
-                  <Collapse.Panel header={item.question} key={index}>
-                    <div className={styles['FAQ-content']} dangerouslySetInnerHTML={{__html:item.answer}}></div>
-                  </Collapse.Panel>
-                )
-              })
-            }
-          </Collapse>
+          {
+            blocks.map((item, index)=>{
+              return renderComponent(item._bookshop_name, index, content, item)
+            })
+          }
         </div>
       </div>
       <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
@@ -50,11 +45,11 @@ export default function FAQ({list, pageTitle ,layoutType, role, pageStr, page}) 
 }
 
 export async function getStaticProps(){
-  const list = questionsList;
+  const content = questionsList;
   const page = await filer.getItem('faq.md');
   return{
     props:{
-      list,
+      content,
       pageTitle:"FAQ",
       page
     }

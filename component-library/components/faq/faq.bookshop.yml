@@ -1,8 +1,16 @@
----
-title: Student FAQ
-content_blocks:
-  - _bookshop_name: faq/list
-    question_list:
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: FAQ List
+  description: FAQ List
+  icon: "cottage"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: FAQ List
+  question_list:
     - question: How do I sign up for QuickTakes?
       answer: >-
         <p>You can sign up using the web application on this site or download
@@ -130,4 +138,9 @@ content_blocks:
         deleting the app and reinstalling it. Also, you can use the web browser
         version from your mobile device or computer by opening your web browser
         and going to QuickTakes.io and signing in via the web.
----
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

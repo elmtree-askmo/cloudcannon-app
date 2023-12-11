@@ -4,6 +4,7 @@ import Banner from '../components/home/banner';
 import Testimonials from '../components/home/testimonials';
 import Landscape from '../components/home/landscape';
 import Portrait from '../components/home/portrait';
+import List from '../components/faq/list/list';
 
 export default function renderComponent(key, index, content, block){
     let targetComponent ;
@@ -25,6 +26,9 @@ export default function renderComponent(key, index, content, block){
             break;
         case "home/testimonials":
             targetComponent = (<Testimonials key={index} content={content} block={block} />)
+            break;
+        case "faq/list":
+            targetComponent = (<List key={index} content={content} block={block} />)
             break;
         default:
             targetComponent = null;
