@@ -25,14 +25,12 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
     <Head>
       <title>QuickTakes - FAQ</title>
     </Head>
-    <div className={`FAQ-global`}>
-      {
-        blocks.map((item, index)=>{
-          return renderComponent(item._bookshop_name, index, item)
-        })
-      }
-      <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
-    </div>
+    {
+      blocks.map((item, index)=>{
+        return renderComponent(item._bookshop_name, index, item)
+      })
+    }
+    <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
   </>
   )
 }
