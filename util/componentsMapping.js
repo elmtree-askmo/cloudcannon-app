@@ -4,7 +4,7 @@ import Banner from '../components/home/banner';
 import Testimonials from '../components/home/testimonials';
 import Landscape from '../components/home/landscape';
 import Portrait from '../components/home/portrait';
-import List from '../components/faq/list/list';
+import List from '../components/faq/list';
 
 export default function renderComponent(key, index, content, block){
     let targetComponent ;

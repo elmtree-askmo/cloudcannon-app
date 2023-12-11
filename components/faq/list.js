@@ -1,5 +1,5 @@
 import { Collapse } from "antd";
-import styles from '../../../styles/faq.module.css';
+import styles from '../../styles/faq.module.css';
 
 
 export default function List({content, block}){
