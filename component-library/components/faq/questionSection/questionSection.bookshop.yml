@@ -5,7 +5,7 @@ spec:
     - content_blocks
   label: FAQ Section
   description: FAQ Section
-  icon: "cottage"
+  icon: "help"
 
 # Defines the structure of this component, as well as the default values
 blueprint:

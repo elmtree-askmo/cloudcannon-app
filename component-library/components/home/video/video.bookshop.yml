@@ -5,7 +5,7 @@ spec:
     - content_blocks
   label: Home Video
   description: Home Video section
-  icon: "cottage"
+  icon: "movie"
 
 # Defines the structure of this component, as well as the default values
 blueprint:

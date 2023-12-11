@@ -5,7 +5,7 @@ spec:
     - content_blocks
   label: Home Record
   description: Home Record section
-  icon: "cottage"
+  icon: "campaign"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
