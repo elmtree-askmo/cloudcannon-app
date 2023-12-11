@@ -8,7 +8,7 @@ import SignUpNow from '../../component/sign-up-now';
 import axios from 'axios';
 import { useEffect } from 'react';
 import mixpanel from 'mixpanel-browser';
-import { content } from '../../staticProps/home.content';
+import { homeContent } from '../../staticProps/home.content';
 import Head from 'next/head';
 
 export default function Home({content, layoutType, role, pageStr}) {
@@ -154,10 +154,11 @@ export default function Home({content, layoutType, role, pageStr}) {
 }
 
 export async function getStaticProps(){
-  const homeContent = content;
+  const content = homeContent;
+  console.log(content)
   return {
     props:{
-      content:homeContent
+      content
     }
   }
 }
