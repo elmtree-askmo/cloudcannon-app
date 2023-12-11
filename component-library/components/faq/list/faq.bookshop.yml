@@ -3,13 +3,13 @@
 spec:
   structures:
     - content_blocks
-  label: FAQ List
-  description: FAQ List
+  label: FAQ Section
+  description: FAQ Section
   icon: "cottage"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: FAQ List
+  title: FAQ Section
   pageTitle: FAQ
   question_list:
     - question: How do I sign up for QuickTakes?
@@ -28,13 +28,13 @@ blueprint:
         back up. To stop the recording click the red record button and the
         recording will complete the record process, then the AI-generated
         materials (your QuickTake) will be returned.&nbsp;</p>
-    - question: Can I record my professor or teacher’s entire lecture?
+    - question: Can I record my professor or teacher's entire lecture?
       answer: >-
         <p>Yes, you can. We provide 90 free weekly recording minutes (Sunday -
         Saturday) every week. If you need more time for recording an individual
         lecture or multiple lectures you can purchase QT Boost in increments of
         90 minutes for $1.99 each. QT Boost minutes are good for 30 days so they
-        won’t go to waste if you don’t use them all in any given week. We do not
+        won't go to waste if you don't use them all in any given week. We do not
         limit the amount of time you can record on a per session basis - so if
         you have a two hour lecture and more than 120 available weekly recording
         minutes then you can record the entire lecture!</p>
@@ -92,7 +92,7 @@ blueprint:
         Apple App Store and Google Play Store). Launch the QuickTakes app on
         your mobile device and press record keeping the phone near your computer
         where you are playing the pre-recorded online audio. End the recording
-        when the online audio is over and you’ll get a QuickTake returned to
+        when the online audio is over and you'll get a QuickTake returned to
         you.</p>
     - question: Can I listen to the lecture I recorded to receive a QuickTake?
       answer: >-
@@ -115,8 +115,8 @@ blueprint:
         <p>The basic QuickTakes app is free to use up to 90 minutes per week,
         every week! If you need more time for recording an individual lecture or
         multiple lectures you can purchase QT Boosts in increments of 90 minutes
-        for US$1.99 each. Boost minutes are good for up to 30 days so they won’t
-        go to waste if you don’t use them all in any given week and will
+        for US$1.99 each. Boost minutes are good for up to 30 days so they won't
+        go to waste if you don't use them all in any given week and will
         rollover into the next week. We will be providing additional paid
         subscription features in the near future.</p><p>We've found that our
         student users get a lot of value by being able to focus on the lecture
