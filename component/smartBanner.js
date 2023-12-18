@@ -26,7 +26,7 @@ export default function SmartBanner({hideBanner, role, pageStr}){
                     <p>Better College Class Notes!</p>
                 </div>
             </div>
-            <Link className={styles.cta} href={deepLink} target="_blank" onClick={handleClickView} >View</Link>
+            <a className={styles.cta} href={deepLink} target="_blank" onClick={handleClickView} >View</a>
         </div>
     )
 }
