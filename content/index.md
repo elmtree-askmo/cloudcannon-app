@@ -8,7 +8,7 @@ content_blocks:
     video_url: https://www.youtube.com/embed/gkReCEDwufg
     description: >-
       You deserve to feel confident. QuickTakes has got your back! Hit record or
-      upload a video/audio file (even Youtube URLs) and QuickTakes returns,
+      upload a video/audio file (even Youtube URLs!) and QuickTakes returns,
       AI-generated study materials, related videos and answers your questions
       24/7.
   - _bookshop_name: home/record
