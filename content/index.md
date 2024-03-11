@@ -23,7 +23,7 @@ content_blocks:
       - title: Use QuickTakes in Your Lectures
         description: >-
           Pop open the app and record your entire lecture to get back your
-          QuickTake! Or, upload a video/audio file and input s Youtube URL.
+          QuickTake! Or, upload a video/audio file and input a Youtube URL.
         image: /use-quicktakes-in-classroom.webp
         reverse: false
       - title: Use QuickTakes in Study Groups
