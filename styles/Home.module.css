@@ -27,7 +27,7 @@
 }
 
 .schools-container{
-  background: var(--student-bg);
+  background: var(--student-bg-theme);
   color: #fff;
 }
 .schools-center-container{
