@@ -106,3 +106,12 @@ html,body{
 .FAQ-global .ant-collapse .ant-collapse-content{
   border-top: 1px solid #999;
 }
+
+@media (max-width: 1023px) {
+  .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-header{
+    font-size: 18px;
+  }
+  .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-content-box{
+    font-size: 14px;
+  }
+}
