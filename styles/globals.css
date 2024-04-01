@@ -1,8 +1,9 @@
 :root {
-  --student-bg-theme:#3ba2da;
-  --student-button-theme:#ee5e20;
-  --student-font-color:#030337;
+  --student-bg-theme:#1C2437;
+  --student-button-theme:#3FB2FF;
+  --student-font-color:#181A20;
   --student-arrow-color: #2f73d3;
+  --student-bg:#262E40;
 
   --teacher-bg-theme:#dd4f44;
   --teacher-button-theme:#852d70;
@@ -11,16 +12,28 @@
   --pad-min-width:481px;
   --pad-max-width:768px;
 
-  --global-padding:20px;
+  --global-padding:80px;
+}
+
+/* responsive */
+@media (max-width: 1023px){
+  :root{
+    --global-padding:20px;
+  }
+}
+
+@font-face {
+  font-family:"Helvetica Neue";
+  src: url("../font/Helveticaneue.ttf");
 }
 
 html,body{
   margin: 0;
-  font-family: "Roboto", "Arial", sans-serif;
+  font-family: "Helvetica Neue","Roboto", "Arial", sans-serif;
 }
 
 .desktop-view{
-  max-width: 1200px;
+  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -52,20 +65,25 @@ html,body{
   border-radius: 0;
 }
 .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-header{
-  background: #ffffff;
+  background: var(--student-bg);
   padding: 12px 30px;
-  font-weight: 600;
-  font-size: .88rem;
+  font-weight: 500;
+  font-size: 20px;
+  color: #fff;
+  font-family: "Helvetica Neue","Roboto", "Arial", sans-serif
 }
 .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-content-box{
-  background-image: linear-gradient(to right, rgba(216, 216, 216, 0.3), rgba(216, 216, 216, 0.3));
+  /* background-image: linear-gradient(to right, rgba(216, 216, 216, 0.3), rgba(216, 216, 216, 0.3)); */
+  background: var(--student-bg);
+  color: #fff;
   padding: 18px 30px;
-  font-size: .88rem;
+  font-size: 16px;
+  font-family: "Helvetica Neue","Roboto", "Arial", sans-serif
 }
 .FAQ-global .ant-collapse-expand-icon img{
-  width: 16px;
-  height: 10px;
-  transform:rotate(180deg);
+  width: 24px;
+  height: 24px;
+  transform:rotate(0deg);
   transition: transform 0.3s;
 }
 .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-item-active .ant-collapse-expand-icon{
@@ -73,12 +91,18 @@ html,body{
   padding-inline-end: 12px;;
 }
 .FAQ-global .ant-collapse-item-active .ant-collapse-expand-icon img{
-  transform:rotate(0deg);
+  transform:rotate(180deg);
   transition: transform 0.3s;
 }
 .FAQ-global .ant-collapse .ant-collapse-item:last-child .ant-collapse-header{
   border-radius: 0;
 }
 .FAQ-global .ant-collapse .ant-collapse-item:first-child {
-  border-top: 1px solid #d9d9d9;
+  border-top: 1px solid #999;
+}
+.FAQ-global .ant-collapse .ant-collapse-item{
+  border-bottom: 1px solid #999;
+}
+.FAQ-global .ant-collapse .ant-collapse-content{
+  border-top: 1px solid #999;
 }

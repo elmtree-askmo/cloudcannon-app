@@ -1,13 +1,29 @@
+.header{
+  background: var(--student-bg-theme);
+  color: #fff;
+}
 .title{
-  color: var(--student-button-theme);
+  color: #fff;
   font-size: 2.5rem;
   text-align: center;
   font-weight: bold;
   padding-top: 40px;
+  margin-bottom: 56px;
 }
+.content{
+  padding: 0 var(--global-padding) 80px;
+  line-height: 28px;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 400;
+}
+.email{
+  color: var(--student-button-theme);
+}
+
 .FAQ-list{
-  margin: 40px 0 60px;
-  padding: 0 var(--global-padding);
+  padding: 56px var(--global-padding) 80px;
+  background: var(--student-bg);
 }
 .FAQ-content p{
   margin:0

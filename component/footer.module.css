@@ -1,8 +1,113 @@
+.footer-container{
+    background: var(--student-font-color);
+    color: #fff;
+    padding: 56px var(--global-padding);
+}
+.footer-content{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #484D5C;
+}
+.footer-left{
+    display: flex;
+    flex-direction: column;
+    margin-right: 24px;
+}
+.footer-left img{
+    margin-bottom: 24px;
+}
+.footer-left p{
+    all: unset;
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.footer-left .signup-button{
+    all: unset;
+    background: var(--student-button-theme);
+    color: var(--student-font-color);
+    border-radius: 60px;
+    width: 174px;
+    height: 53px;
+    text-align: center;
+    font-weight: 700;
+    cursor: pointer;
+}
+.footer-left .signup-button:hover{
+    filter: brightness(1.09);
+    color: var(--student-font-color) !important;
+}
+
+
+.footer-mid{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-right: 24px;
+}
+.footer-mid>div{
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+}
+.footer-mid>div:last-child{
+    margin-right: 0;
+}
+.footer-mid h4{
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 16px;
+}
+.footer-mid a{
+    all: unset;
+    margin-bottom: 16px;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 20px;
+}
+.footer-mid a:hover{
+    color: var(--student-button-theme);
+}
+.footer-mid>div>a:last-child{
+    margin-bottom: 0;
+}
+
+
+.footer-right{
+    display: flex;
+    flex-direction: column;
+}
+.footer-right p{
+    margin: 0;
+    margin-bottom: 16px;
+    font-size: 16px;
+    line-height: 22px;
+}
+.footer-right>div{
+    display: flex;
+    flex-direction: column;
+}
+.footer-right>div a{
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+.footer-right>div a:last-child{
+    margin-bottom: 0;
+}
+
 .footer{
-    background: #202020;
+    /* background: #202020; */
     color: rgb(235, 233, 233);
-    font-size: 14px;
-    height: 48px;
+    font-size: 18px;
+    height: 22px;
     display: flex;
     align-items: center;
     justify-content: center;

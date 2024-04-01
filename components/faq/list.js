@@ -5,9 +5,17 @@ import styles from '../../styles/faq.module.css';
 export default function List({content, block}){
     return (
       <div className={`FAQ-global`}>
-        <div className={`desktop-view`}>
-          <div className={styles.title}>{block.sectionTitle}</div>
-          <div className={styles['FAQ-list']}>
+        <div className={styles.header}>
+          <div className={`desktop-view`}>
+            <div className={styles.title}>{block.sectionTitle}</div>
+            <div className={styles.content}>
+              {block.sectionContent}
+              <span className={styles.email}> {block.sectionEmail}</span>
+            </div>
+          </div>
+        </div>
+        <div className={styles['FAQ-list']}>
+          <div className={`desktop-view`}>
             <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
                 {
                   block.question_list.map((item,index)=>{

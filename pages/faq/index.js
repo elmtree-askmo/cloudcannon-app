@@ -2,7 +2,6 @@
 import { useEffect } from 'react';
 
 // components
-import SignUpNow from '../../component/sign-up-now';
 
 import styles from '../../styles/faq.module.css';
 import mixpanel from 'mixpanel-browser';
@@ -30,7 +29,6 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
         return renderComponent(item._bookshop_name, index, item)
       })
     }
-    <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
   </>
   )
 }

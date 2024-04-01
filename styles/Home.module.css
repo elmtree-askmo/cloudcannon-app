@@ -1,5 +1,5 @@
 .main-container{
-  max-width: 1200px;
+  max-width: 1440px;
   margin: 0 auto;
 }
 .section-1-container{
@@ -14,7 +14,7 @@
   padding: 50px 0;
 }
 .section-4-container{
-  background: #efefef;
+  background: var(--student-bg);
   padding: 50px 0;
 }
 .section-5-container{
@@ -24,6 +24,117 @@
 .section-6-container{
   background: #f47666;
   padding: 50px 0;
+}
+
+.schools-container{
+  background: var(--student-bg);
+  color: #fff;
+}
+.schools-center-container{
+  max-width: 1440px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding:80px var(--global-padding);
+}
+.schools-center-container>div{
+  margin-bottom: 32px;
+}
+.schools-center-container>div:last-child{
+  margin-bottom: 0;
+}
+.schools-container h3{
+  margin: 0 auto 80px;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+}
+.schools-container .scrolling, .schools-container .scrolling-reverse{
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.schools-container .scrolling p{
+  display: inline-block;
+  font-size: 48px;
+  font-weight: 400;
+  margin: 0;
+  animation: marquee 55s linear infinite;
+}
+.schools-container .scrolling-reverse p{
+  display: inline-block;
+  font-size: 48px;
+  font-weight: 400;
+  margin: 0;
+  animation: marqueeReverse 55s linear infinite;
+}
+
+@keyframes marquee{
+  0%{
+    transform: translateX(calc(100vw - var(--global-padding)));
+  }
+  100%{
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marqueeReverse{
+  0%{
+    transform: translateX(-100%);
+  }
+  100%{
+    transform: translateX(calc(100vw - var(--global-padding)));
+  }
+}
+
+.howItWorks-container{
+  background: var(--student-bg);
+}
+.howItWorks-center-container{
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding:80px var(--global-padding);
+  color: #fff;
+  max-width: 1440px;
+}
+.howItWorks-center-container h3{
+  text-align: center;
+  margin:0 auto 56px;
+  font-size: 48px;
+  font-weight: 700;
+}
+.howItWorks-content-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.howItWorks-content-box{
+  max-width: 415px;
+}
+.howItWorks-image-container{
+  margin: 0 56px;
+  max-width: 340px;
+  /* width: 100%; */
+}
+.howItWorks-image-container img{
+  display: block;
+  /* width: 100%; */
+}
+.howItWorks-text-container h4{
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 38px;
+  margin: 0 auto 16px;
+}
+.howItWorks-text-container p{
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
+}
+.howItWorks-content-box>.howItWorks-text-container{
+  margin-bottom: 56px;
+}
+.howItWorks-content-box>.howItWorks-text-container:last-child{
+  margin-bottom: 0;
 }
 
 /* s1 */
@@ -190,11 +301,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  flex-wrap: wrap;
-  margin-bottom: 50px;
+  /* flex-wrap: wrap; */
+  padding: 32px 0;
 }
 .section-4-content-container-l{
-  width: 40%;
+  width: 45%;
+  max-width: 612px;
 }
 .section-4-content-container-l img{
   width: 100%;
@@ -202,17 +314,19 @@
 }
 .section-4-content-container-r{
   width: 52%;
+  max-width: 612px;
 }
 .section-4-content-container-r h3{
-  color: #f47566;
-  font-weight: 800;
+  color: #fff;
+  font-weight: 400;
   font-size: 32px;
-  margin: 0 0 10px;
-  line-height: 40px;
+  margin: 0 0 32px;
+  line-height: 38px;
 }
 .section-4-content-container-r p{
-  color: rgba(69, 90, 100, 1);
+  color: #fff;
   font-size: 20px;
+  line-height: 30px;
 }
 .section-4-content-container-b{
   display: none;
@@ -305,7 +419,7 @@
 }
 
 @media (min-width: 481px) and (max-width: 768px) {
-  .section-1{
+  /* .section-1{
     background: none;
     flex-direction: column-reverse;
   }
@@ -324,10 +438,10 @@
   .section-1 h1, .section-1 h2{
     font-size: 32px;
     line-height: normal;
-  }
+  } */
 
   /* s2 */
-  .video-container{
+  /* .video-container{
     flex-basis: 100%;  
   }
   .learn-more-below{
@@ -342,19 +456,19 @@
   }
   .learn-more-below a{
     font-size:20px
-  }
+  } */
 
   /* s3 */
-  .mobile-container{
+  /* .mobile-container{
     max-width: 45%;
     width: 45%;
   }
   .quicktakes-can-help{
     font-size:26px
-  }
+  } */
 
   /* s4 */
-  .section-4-content-container-r p{
+  /* .section-4-content-container-r p{
     display: none;
   }
   .section-4-content-container-b{
@@ -363,10 +477,10 @@
   }
   .section-4-content-container-r h3{
     margin-bottom:0
-  }
+  } */
 
   /* s5 */
-  .section-5-content-container{
+  /* .section-5-content-container{
     width:auto;
     flex:auto;
     margin: 0 auto 50px;
@@ -374,17 +488,17 @@
   .section-5-content-container .desc{
     max-width:60%;
     margin:0
-  }
+  } */
 
   /* s6 */
-  .section-6 .content-box{
+  /* .section-6 .content-box{
     max-width: 100%;
     flex:100% 0 0;
     margin-bottom: 25px;
-  }
+  } */
 }
 
-@media (max-width: 480px) {
+@media (max-width: 1023px) {
   .section-1{
     background: none;
     flex-direction: column-reverse;
@@ -446,6 +560,10 @@
   }
 
   /* s4 */
+  .section-4-content-container{
+    justify-content: center;
+    flex-wrap: wrap;
+  }
   .section-4-content-container-l{
     width: 100%;
     margin-bottom: 30px;
@@ -455,7 +573,11 @@
     text-align: center;
   }
   .section-4-content-container-r h3{
-    margin-bottom:0
+    margin-bottom:0;
+    font-size: 24px;
+  }
+  .section-4-content-container-r p{
+    font-size: 16px;
   }
 
   /* s5 */
@@ -474,5 +596,37 @@
     max-width: 100%;
     flex:100% 0 0;
     margin-bottom: 25px;
+  }
+
+  /* schools */
+  .schools-center-container h3{
+    font-size: 24px;
+    margin-bottom: 50px;
+  }
+  .schools-center-container>.scrolling>p,.schools-center-container>.scrolling-reverse>p{
+    font-size: 24px;
+  }
+
+  /* how it works */
+  .howItWorks-content-container{
+    flex-wrap: wrap;
+  }
+  .howItWorks-center-container h3{
+    font-size: 38px;
+  }
+  .howItWorks-content-box{
+    max-width: 100%;
+    width: 100%;
+  }
+  .howItWorks-text-container h4{
+    font-size: 24px;
+    text-align: center;
+  }
+  .howItWorks-text-container p{
+    font-size: 14px;
+    text-align: center;
+  }
+  .howItWorks-image-container{
+    margin: 48px auto;
   }
 }

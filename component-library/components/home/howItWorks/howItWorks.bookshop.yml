@@ -1,0 +1,32 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Home How It Works
+  description: Home How It Works Section
+  icon: "campaign"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Home How It Works Section
+  contentTitle: How It Works
+  image: /howItWorks.png
+  leftSideContent_a:
+    title: Personalize Studying
+    content: Record live lectures, upload audio and video files, and insert Youtube URLs then get back an Ai-generated QuickTake.
+  leftSideContent_b:
+    title: Stay Organized
+    content: Group your QuickTakes into class folders by semester for easier studying, powered by AI.
+  rightSideContent_a:
+    title: Study Smarter
+    content: Using AI, QuickTakes auto-generates an outline, study guide, glossary, practice questions, and a complete transcript within seconds.
+  rightSideContent_b:
+    title: Chat in Real Time
+    content: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

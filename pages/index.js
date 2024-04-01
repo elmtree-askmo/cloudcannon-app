@@ -27,7 +27,7 @@ export default function Home({layoutType, role, pageStr, page}) {
   return (
     <>
       <Head>
-        <title>QuickTakes for Students</title>
+        <title>QuickTakes</title>
       </Head>
       <div className={styles['home']}>
         {
@@ -35,7 +35,6 @@ export default function Home({layoutType, role, pageStr, page}) {
             return renderComponent(item._bookshop_name, index, item)
           })
         }
-        <SignUpNow tryItNow={false} layoutType={layoutType} role={role} pageStr={pageStr}  />
         
       </div>
     </>

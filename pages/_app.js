@@ -68,9 +68,9 @@ export default function App({ Component, pageProps }) {
           }
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
-        <HeaderComponent layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
+        <HeaderComponent role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} pathname={pathname} />
         <AppComponent {...pageProps} layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
-        <Footer layoutType={isTeacher()?"teachers":"students"} />
+        {/* <Footer /> */}
       </>
     )
 

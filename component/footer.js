@@ -3,10 +3,12 @@ import styles from './footer.module.css';
 import { useState } from "react";
 import { Button, Input, Modal, message } from "antd";
 import axios from "axios";
-import { X_API_KEY } from "../constant/app.constant";
+import { APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from "../constant/app.constant";
+import navData from '../data/nav.json';
+import Image from "next/image";
 
 
-export default function Footer({layoutType}){
+export default function Footer(){
     const [openContact, setOpenContact] = useState(false);
 
     const [email, setEmail] = useState('');
@@ -50,36 +52,95 @@ export default function Footer({layoutType}){
         setDescription('');
     }
 
+    const handleSignUp = () => {
+        window.location.href = `https://${APP_URL}/signup`
+    }
 
     return (
-        <>
-        
-        <div className={styles["footer"]}>
-            <p>
-                EdKey, Inc. All Rights Reserved © 2023 | <Link href="https://app.quicktakes.io/terms" target="_blank">Terms of Service</Link> | <Link href="https://app.quicktakes.io/privacy-policy" target="_blank" >Privacy Policy</Link> | <span onClick={()=>{setOpenContact(true)}} className={styles.contact}>Contact</span>
-            </p>
-        </div>
-
-        <Modal
-            title=""
-            open={openContact}
-            centered
-            footer={null}
-            onCancel={() => { setOpenContact(false);resetForm() }}
-            className={styles["custom-modal"]}
-            width={"auto"}
-            maskClosable={false}
-        >
-            <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
-                <form onSubmit={handleSubmit} >
-                    <div>Contanct us:</div>
-                    <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
-                    <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
-                    <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
-                    <Button type="primary" className={styles["send"]} htmlType="submit" >Send</Button>
-                </form>
+        <div className={styles['footer-container']}>
+            <div className={styles['footer-content']}>
+                <div className={styles['footer-left']}>
+                    <Image
+                        src="/quicktakesIcon_new.svg"
+                        alt="Logo"
+                        className="logo"
+                        width={168}
+                        height={40}
+                        unoptimized
+                    />
+                    <p>Study Smarter, Learn Faster</p>
+                    <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+                </div>
+                <div className={styles['footer-mid']}>
+                    <div>
+                        <h4>QuickTakes</h4>
+                        <Link href="/quicktakes-about-us">About us</Link>
+                        <Link href="/pricing">Pricing</Link>
+                    </div>
+                    <div>
+                        <h4>Resources</h4>
+                        <Link href="/faq">FAQ</Link>
+                        <Link href="/education">AI in Education</Link>
+                    </div>
+                    <div>
+                        <h4>Support</h4>
+                        <Link href="" onClick={(e)=>{e.preventDefault();setOpenContact(true)}} >Contact</Link>
+                        <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
+                        <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
+                    </div>
+                </div>
+                <div className={styles['footer-right']}>
+                    <p>Download QuickTakes!</p>
+                    <div>
+                        <Link href={appStoreLink}>
+                            <Image
+                                src="/appStore.svg"
+                                alt="appStore"
+                                className="appStore"
+                                width={227}
+                                height={65}
+                                unoptimized
+                            />
+                        </Link>
+                        <Link href={googlePlayLink}>
+                            <Image
+                                src="/googlePlay.svg"
+                                alt="googlePlay"
+                                className="googlePlay"
+                                width={227}
+                                height={65}
+                                unoptimized
+                            />
+                        </Link>
+                    </div>
+                </div>
             </div>
-        </Modal>
-        </>
+            <div className={styles["footer"]}>
+                <p>
+                    EdKey, Inc. All Rights Reserved © 2024 
+                </p>
+            </div>
+
+            <Modal
+                title=""
+                open={openContact}
+                centered
+                footer={null}
+                onCancel={() => { setOpenContact(false);resetForm() }}
+                className={styles["custom-modal"]}
+                width={"auto"}
+                maskClosable={false}
+            >
+                <div className={`${styles["contact-form-container"]} ${styles['students']}`}>
+                    <form onSubmit={handleSubmit} >
+                        <div>Contanct us:</div>
+                        <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
+                        <Input placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
+                        <Input placeholder="Description" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
+                        <Button type="primary" className={styles["send"]} htmlType="submit" >Send</Button>
+                    </form>
+                </div>
+            </Modal>
+        </div>
     )
 }

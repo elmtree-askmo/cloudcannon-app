@@ -4,6 +4,8 @@ content_blocks:
   - _bookshop_name: faq/questionSection
     title: FAQ Section
     sectionTitle: FAQ
+    sectionContent: Here are some frequently asked questions about QuickTakes and how it works. If these FAQs do not answer your specific question, then we recommend sending an email to 
+    sectionEmail: support@edkey.com
     question_list:
       - question: How do I sign up for QuickTakes?
         answer: >-

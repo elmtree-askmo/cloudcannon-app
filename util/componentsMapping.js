@@ -4,10 +4,12 @@ import Banner from '../components/home/banner';
 import Testimonials from '../components/home/testimonials';
 import Landscape from '../components/home/landscape';
 import Portrait from '../components/home/portrait';
+import Schools from '../components/home/schools';
 import List from '../components/faq/list';
 import AboutEdkey from '../components/about-us/aboutEdkey';
 import FoundingTeam from '../components/about-us/foundingTeam';
 import Experience from '../components/about-us/experience';
+import HowItWorks from '../components/home/howItWorks';
 
 import { homeContent } from '../staticProps/home.content';
 import { questionsList } from '../staticProps/faq.content';
@@ -45,6 +47,12 @@ export default function renderComponent(key, index, block){
             break;
         case "about-us/experience":
             targetComponent = (<Experience key={index} content={aboutUsContent} block={block} />)
+            break;
+        case "home/schools":
+            targetComponent = (<Schools key={index} content={homeContent} block={block} />)
+            break;
+        case "home/howItWorks":
+            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} />)
             break;
         default:
             targetComponent = null;

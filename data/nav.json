@@ -1,54 +1,30 @@
 {
-	"logo": "/quicktakesIcon.svg",
+	"logo": "/quicktakesIcon_new.svg",
 	"items": [
 		{
-			"link": "",
-			"text": "Contact",
-			"type": "Button",
-			"action": "contact",
-			"role": ""
-		},
-		{
 			"link": "/quicktakes-about-us",
-			"text": "About Us",
-			"type": "Link",
-			"action": "",
-			"role": "Student"
-		},
-		{
-			"link": "/faq",
-			"text": "FAQ",
-			"type": "Link",
-			"action": "",
-			"role": "Student"
-		},
-		{
-			"link": "/about-us-teachers",
-			"text": "About us",
-			"type": "Link",
-			"action": "",
-			"role": "Teacher"
-		},
-		{
-			"link": "/faq-teachers",
-			"text": "FAQ",
-			"type": "Link",
-			"action": "",
-			"role": "Teacher"
+			"text": "About",
+			"type": "Link"
 		},
 		{
 			"link": "",
-			"text": "Sign Up",
-			"type": "Button",
-			"action": "signUp",
-			"role": ""
+			"text": "Resources",
+			"type": "DropDown",
+			"list":[
+				{
+					"link":"/faq",
+					"label":"FAQ"
+				},
+				{
+					"link":"/education",
+					"label":"AI in Education"
+				}
+			]
 		},
 		{
-			"link": "",
-			"text": "Log In",
-			"type": "Button",
-			"action": "logIn",
-			"role": ""
+			"link": "/pricing",
+			"text": "Pricing",
+			"type": "Link"
 		}
 	],
 	"_inputs": {

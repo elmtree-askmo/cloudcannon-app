@@ -1,7 +1,7 @@
 .header{
     background: var(--student-bg-theme);
     color: #fff;
-    height: 60px;
+    height: 80px;
     position: sticky;
     top: 0;
     left: 0;
@@ -25,9 +25,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 var(--global-padding);
-    max-width: 1200px;
+    max-width: 1440px;
     margin: 0 auto;
     box-sizing: border-box;
+    position: relative;
 }
 
 .logo-container{
@@ -46,16 +47,27 @@
 .menu-container{
     display: flex;
     align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .menu-container a{
     text-decoration: none;
     color: #fff;
+    display: flex;
+    align-items: center;
+}
+.menu-container a:hover, .menu-container a:active, .menu-container a:focus{
+    color: var(--student-button-theme);
+}
+.menu-container a.active{
+    color: var(--student-button-theme);
 }
 
 .menu-container *{
-    margin-left: 25px;
-    font-size: 14px;
+    margin-left: 32px;
+    font-size: 16px;
     cursor: pointer;
     text-wrap: nowrap;
     font-style: normal;
@@ -66,57 +78,35 @@
 }
 
 .sign-up-button{
-    width: 100px;
-    height: 42px;
-    line-height: 42px;
+    --bg:var(--student-button-theme);
+    all:unset;
     font-weight: 700;
-    background: var(--student-button-theme);
-    border-radius: 30px;
+    background: var(--bg);
+    border-radius: 60px;
     text-align: center;
+    color: var(--student-font-color);
+    padding:10px 24px;
+    font-size:16px;
+    cursor: pointer;
+    border:1px solid var(--bg);
+}
+.login-button{
+    --bg:#fff;
+    all:unset;
+    font-weight: 700;
+    border-radius: 60px;
+    text-align: center;
+    background: var(--bg);
+    color: var(--student-font-color);
+    padding:10px 24px;
+    font-size:16px;
+    cursor: pointer;
+    margin-right: 24px;
+    border:1px solid var(--bg);
 }
 
-
-
-@media (min-width: 481px) and (max-width: 768px) {
-    .header{
-        height: 64px;
-    }
-    .logo-container p{
-        display: flex;
-        flex-direction: column;
-        font-size: 16px;
-        margin-left: 10px;
-    }
-    .menu-container *{
-        font-size: 12px;
-        margin-left: 20px;
-    }
-    .logo{
-        width: 35px;
-        height: 35px;
-    }
-    .sign-up-button{
-        width: 80px;
-        height: 36px;
-        line-height: 36px;
-    }
-    .main-container{
-        padding: 0 10px;
-    }
-}
-@media (max-width: 480px){
-    .menu-container a, .menu-container span{
-        display: none;
-    }
-    .logo-container p{
-        display: flex;
-        flex-direction: column;
-        font-size: 14px;
-        margin-left: 10px;
-    }
-    .menu{
-        display: block;
-    }
+.sign-up-button:hover,.login-button:hover{
+    filter:brightness(1.09)
 }
 
 /* drawer */
@@ -144,6 +134,7 @@
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
+    width: 100%;
 }
 
 .drawer-container *{
@@ -202,18 +193,57 @@
     background-color: var(--student-button-theme) !important;
 }
 
-.teachers.contact-form-container form .send{
-    background: var(--teacher-button-theme);
+
+
+/* dropdown */
+.dropdown-container{
+    background: transparent;
+    border-radius: 3px;
+    overflow: hidden;
+    box-shadow: 0px 0px 1px 2px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
 }
-.teachers.contact-form-container form .send:hover{
-    background-color: var(--teacher-button-theme) !important;
+.dropdown-container ul, .dropdown-container li{
+    padding: initial;
+    margin: initial;
+}
+.dropdown-container ul{
+    background: #fff;
+}
+.dropdown-container li{
+    list-style: none;
+    padding:8px 16px;
+    font-size: 14px;
+    box-shadow: 0px 0.5px 0px 0px #999;
+}
+.dropdown-container li a{
+    color: var(--student-font-color);
+}
+.dropdown-container li:last-child{
+    box-shadow: unset;
+}
+.dropdown-container li:hover{
+    background: var(--student-button-theme);
+    cursor: pointer;
+}
+.dropdown-container li.active{
+    background: var(--student-button-theme);
 }
 
 
-/* teachers */
-.teachers.header{
-    background: var(--teacher-bg-theme);
-}
-.teachers .sign-up-button{
-    background: var(--teacher-button-theme);
+
+/* responsive */
+@media (max-width: 1023px){
+    .main-container{
+        padding: 0 20px;
+    }
+    .menu-container{
+        display: none;
+    }
+    .signup-login-container{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
 }

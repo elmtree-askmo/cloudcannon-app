@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
-import { Button, Drawer, Input, Modal, message } from "antd";
+import { Button, Drawer, Dropdown, Input, Modal, message } from "antd";
 import { useEffect, useLayoutEffect, useState } from "react";
 import { APP_URL, X_API_KEY } from "../constant/app.constant";
 import { useRouter } from "next/navigation";
@@ -11,10 +11,12 @@ import axios from "axios";
 import { isMobile } from "react-device-detect";
 import SmartBanner from "./smartBanner";
 import navData from '../data/nav.json';
+import { DownOutlined } from "@ant-design/icons";
 
-export default function Header({ layoutType, role, pageStr }) {
+export default function Header({ role, pageStr, pathname }) {
     const router = useRouter();
     const eventPrefix = 'Siter ' + role + pageStr;
+    console.log(pathname)
 
     const [openMenu, setOpenMenu] = useState(false);
     const [openContact, setOpenContact] = useState(false);
@@ -22,10 +24,6 @@ export default function Header({ layoutType, role, pageStr }) {
     const [email, setEmail] = useState('');
     const [name, setName] = useState('');
     const [description, setDescription] = useState('');
-
-    // links
-    const [aboutUsLink] = useState(layoutType === 'teachers' ? '/about-us-teachers' : '/quicktakes-about-us');
-    const [FAQLink] = useState(layoutType === 'teachers' ? '/faq-teachers' : '/faq');
 
     const [renderBanner, setRenderBanner] = useState(false);
 
@@ -74,13 +72,7 @@ export default function Header({ layoutType, role, pageStr }) {
         } )
     }
     const handleClickLogo = () => {
-      
-        if(layoutType === 'teachers'){
-            router.push('/teachers')
-        }
-        else{
-            router.push('/')
-        }
+        router.push('/')
     }
 
     const resetForm = ()=>{
@@ -103,22 +95,34 @@ export default function Header({ layoutType, role, pageStr }) {
         }
     },[])
 
+    const customDropDownRender=(menus)=>{
+        const items = ()=>{
+            return menus.props.items.map((item,index)=>(
+                <li key={index} className={`${styles["dropdown-list-item"]} ${pathname === item.link? styles['active']:''}`} onClick={()=>router.push(item.link)}  >{item.label}</li>
+            ))
+        }
+        return (
+            <div className={styles["dropdown-container"]}>
+                <ul className={styles["dropdown-list"]}>
+                    {items()}
+                </ul>
+            </div>
+        )
+    }
+
     const renderNav = ()=>{
         return navData.items.map((item, index)=>{
             switch(item.type){
-                case "Button":
-                    if(item.action === 'contact')return (<span key={index}  onClick={() => { setOpenContact(true) }}>{item.text}</span>)
-                    if(item.action === 'signUp')return (<i  key={index} className={styles["sign-up-button"]} onClick={handleSignUp} >{item.text}</i>)
-                    if(item.action === 'logIn')return (<Link  key={index} href="" onClick={handleLogin}>{item.text}</Link>)
-                    break;
                 case "Link":
-                    if(role === item.role){
-                        return (
-                            <Link key={index} href={item.link}>{item.text}</Link>
-                        )
-                    }else{
-                        return null;
-                    }
+                    return (
+                        <Link key={index} href={item.link}  className={pathname === item.link? styles['active']:''} >{item.text}</Link>
+                    )
+                case "DropDown":
+                    return (
+                        <Dropdown key={index} menu={{items:item.list}} trigger={["click"]} dropdownRender={(menus)=>customDropDownRender(menus)} placement="bottom" >
+                            <Link href="" onClick={(e)=>e.preventDefault()} className={(pathname === '/education' || pathname === '/faq')? styles['active']:''} >{item.text} <DownOutlined style={{width:12,marginLeft:5,marginTop:2}} /></Link>
+                        </Dropdown>
+                    )
                 default:
                     return null;
             }
@@ -131,33 +135,37 @@ export default function Header({ layoutType, role, pageStr }) {
                 renderBanner && 
                 <SmartBanner hideBanner={()=>{setRenderBanner(false)}} role={role} pageStr={pageStr} />
             }
-            <div className={`${styles.header} ${styles[layoutType]}`} style={renderBanner?{top:'70px'}:{}} >
+            <div className={`${styles.header} ${styles["students"]}`} style={renderBanner?{top:'70px'}:{}} >
                 <div className={styles['main-container']}>
                     <div className={styles['logo-container']} onClick={handleClickLogo}>
                         <Image
                             src={navData.logo}
                             alt="Logo"
                             className="logo"
-                            width={40}
+                            width={168}
                             height={40}
                             unoptimized
                         />
-                        <p><strong>QuickTakes</strong> for {layoutType === 'teachers' ? 'Teachers' : 'Students'}</p>
                     </div>
                     <div className={styles["menu-container"]}>
                         {
                             renderNav()
                         }
-                        <Image
-                            src="/menu.svg"
-                            alt="menu"
-                            className={styles["menu"]}
-                            width={28}
-                            height={28}
-                            unoptimized
-                            onClick={() => { setOpenMenu(true) }}
-                        />
+                        
                     </div>
+                    <div className={styles['signup-login-container']}>
+                        <Link href="" className={styles["login-button"]} onClick={handleLogin}>Login</Link>
+                        <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</Link>
+                    </div>
+                    <Image
+                        src="/menu.svg"
+                        alt="menu"
+                        className={styles["menu"]}
+                        width={28}
+                        height={28}
+                        unoptimized
+                        onClick={() => { setOpenMenu(true) }}
+                    />
                 </div>
 
                 <Drawer
@@ -184,10 +192,12 @@ export default function Header({ layoutType, role, pageStr }) {
                         />
                     </div>
                     <div className={styles["drawer-container"]}>
-                        <Link href={aboutUsLink} onClick={()=>{ setOpenMenu(false)}}>About us</Link>
-                        <Link href="" onClick={handleLogin}>Log In</Link>
-                        <Link href={FAQLink} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
-                        <span onClick={() => { setOpenMenu(false); setOpenContact(true); }}>Contact</span>
+                        <Link href={'/quicktakes-about-us'} onClick={()=>{ setOpenMenu(false)}}>About</Link>
+                        <Link href={'/faq'} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
+                        <Link href={'/education'} onClick={()=>{ setOpenMenu(false)}}>AI in Education</Link>
+                        <Link href={'/pricing'} onClick={()=>{ setOpenMenu(false)}}>Pricing</Link>
+                        <Link href="" onClick={handleLogin}>Login</Link>
+                        <Link href="" onClick={handleSignUp}>Sign Up</Link>
                     </div>
                 </Drawer>
 
@@ -201,7 +211,7 @@ export default function Header({ layoutType, role, pageStr }) {
                     width={"auto"}
                     maskClosable={false}
                 >
-                    <div className={`${styles["contact-form-container"]} ${styles[layoutType]}`}>
+                    <div className={`${styles["contact-form-container"]} ${styles["students"]}`}>
                         <form onSubmit={handleSubmit} >
                             <div>Contact us:</div>
                             <Input placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
