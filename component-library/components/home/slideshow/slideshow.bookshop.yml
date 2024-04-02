@@ -1,0 +1,34 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Home Slideshow
+  description: Home Slideshow section
+  icon: "campaign"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Home Slideshow Section
+  contentTitle: Supercharge Your Lecture Notes
+  subTitle: QuickTakes Testimonies
+  list:
+      - avatar: /student_avatar.svg
+        name: Ken S.
+        grade: Sophomore
+        content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+      - avatar: /student_avatar.svg
+        name: Ken S.
+        grade: Sophomore
+        content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+      - avatar: /student_avatar.svg
+        name: Ken S.
+        grade: Sophomore
+        content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+        
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

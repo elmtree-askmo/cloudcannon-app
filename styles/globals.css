@@ -12,13 +12,15 @@
   --pad-min-width:481px;
   --pad-max-width:768px;
 
-  --global-padding:80px;
+  --global-padding:120px;
+  --header-footer-padding:80px;
 }
 
 /* responsive */
 @media (max-width: 1023px){
   :root{
     --global-padding:20px;
+    --header-footer-padding:20px;
   }
 }
 
@@ -66,7 +68,7 @@ html,body{
 }
 .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-header{
   background: var(--student-bg);
-  padding: 12px 30px;
+  padding: 12px 8px;
   font-weight: 500;
   font-size: 20px;
   color: #fff;
@@ -76,7 +78,7 @@ html,body{
   /* background-image: linear-gradient(to right, rgba(216, 216, 216, 0.3), rgba(216, 216, 216, 0.3)); */
   background: var(--student-bg);
   color: #fff;
-  padding: 18px 30px;
+  padding: 12px 8px;
   font-size: 16px;
   font-family: "Helvetica Neue","Roboto", "Arial", sans-serif
 }
@@ -104,7 +106,7 @@ html,body{
   border-bottom: 1px solid #999;
 }
 .FAQ-global .ant-collapse .ant-collapse-content{
-  border-top: 1px solid #999;
+  border-top: 0
 }
 
 @media (max-width: 1023px) {

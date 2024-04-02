@@ -27,7 +27,7 @@
 }
 .FAQ-center-container{
   max-width: 1440px;
-  padding: 0 var(--global-padding);
+  padding: 0 180px;
   box-sizing: border-box;
   margin: 0 auto;
 }
@@ -46,5 +46,8 @@
   }
   .FAQ-list{
     padding: 36px var(--global-padding) 56px;
+  }
+  .FAQ-center-container{
+    padding:0 20px;
   }
 }

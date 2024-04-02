@@ -21,7 +21,6 @@ export default function Home({layoutType, role, pageStr, page}) {
   
   useEffect(()=>{
       mixpanel.track("Siter Student Open")
-      console.log(page.data)
   },[])
 
   return (

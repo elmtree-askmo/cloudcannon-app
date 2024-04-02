@@ -3,6 +3,9 @@ title: Student Home
 content_blocks:
   - _bookshop_name: home/banner
     title: Home Banner section
+    contentTitle:  Study Smarter, Learn Faster
+    subTitle: Supercharge learning with your personalized AI study sidekick
+    buttonTxt: Sign Up Today
   - _bookshop_name: home/landscape
     title: Home Landscape Section
     list:
@@ -45,4 +48,21 @@ content_blocks:
     rightSideContent_b:
       title: Chat in Real Time
       content: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
+  - _bookshop_name: home/slideshow
+    title: Home Slideshow Section
+    contentTitle: Supercharge Your Lecture Notes
+    subTitle: QuickTakes Testimonies
+    list:
+        - avatar: /student_avatar.svg
+          name: Ken S.
+          grade: Sophomore
+          content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+        - avatar: /student_avatar.svg
+          name: Ken S.
+          grade: Sophomore
+          content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+        - avatar: /student_avatar.svg
+          name: Ken S.
+          grade: Sophomore
+          content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
 ---

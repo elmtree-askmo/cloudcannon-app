@@ -1,7 +1,6 @@
 import styles from '../../styles/Home.module.css';
 
 export default function Schools({content, block}){
-    console.log(block)
     return (
         <div className={styles['schools-container']}>
             <div className={styles['schools-center-container']} >

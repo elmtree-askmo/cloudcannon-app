@@ -13,31 +13,29 @@ export default function Banner({content, block}){
     
     return (
         <div className={styles['section-1-container']}>
-          <div className={`${styles['section-1']} ${styles['main-container']}`}>
-            <div className={styles['section-1-l']}>
-              <h2>{content.heroBanner.title}</h2>
-              <h2>{content.heroBanner.title_2}</h2>
-              <h2>{content.heroBanner.title_3}</h2>
-              <h1>{content.heroBanner.try} <strong>{content.heroBanner.quicktakes}</strong></h1>
-              <p className={styles['free-for-student']}><strong>{content.heroBanner.free}</strong> {content.heroBanner.description}</p>
-              <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{`Sign Up Now!`}</Button>
-              <p className={styles['download-quicktakes-today']}>{content.heroBanner.download} <strong>{content.heroBanner.quicktakes}</strong> {content.heroBanner.today}</p>
-              <div className={styles['download-group']}>
-                <Link href={appStoreLink} target='_blank'>
-                  <img 
-                    src="/appStore.svg"
-                  />
-                </Link>
-                <Link href={googlePlayLink} target='_blank'>
-                  <img 
-                    src="/googlePlay.svg"
-                  />
-                </Link>
+          <div className={`${styles['section-1']}`}>
+            <div className={styles['section-1-center-container']}>
+              <div className={styles['section-1-major']}>
+                <h2>{block.contentTitle}</h2>
+                <h3>{block.subTitle}</h3>
+                <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{block.buttonTxt}</Button>
+                <div className={styles['download-group']}>
+                  <Link href={appStoreLink} target='_blank'>
+                    <img 
+                      src="/appStore.svg"
+                    />
+                  </Link>
+                  <Link href={googlePlayLink} target='_blank'>
+                    <img 
+                      src="/googlePlay.svg"
+                    />
+                  </Link>
+                </div>
               </div>
             </div>
-            <div className={styles['section-1-r']}>
+            {/* <div className={styles['section-1-r']}>
               <img src='/home-student.png' />
-            </div>
+            </div> */}
           </div>
         </div>
     )

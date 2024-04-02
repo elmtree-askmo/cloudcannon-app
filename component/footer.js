@@ -58,67 +58,69 @@ export default function Footer(){
 
     return (
         <div className={styles['footer-container']}>
-            <div className={styles['footer-content']}>
-                <div className={styles['footer-left']}>
-                    <Image
-                        src="/quicktakesIcon_new.svg"
-                        alt="Logo"
-                        className="logo"
-                        width={168}
-                        height={40}
-                        unoptimized
-                    />
-                    <p>Study Smarter, Learn Faster</p>
-                    <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+            <div className={styles['footer-center-container']}>
+                <div className={styles['footer-content']}>
+                    <div className={styles['footer-left']}>
+                        <Image
+                            src="/quicktakesIcon_new.svg"
+                            alt="Logo"
+                            className="logo"
+                            width={168}
+                            height={40}
+                            unoptimized
+                        />
+                        <p>Study Smarter, Learn Faster</p>
+                        <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+                    </div>
+                    <div className={styles['footer-mid']}>
+                        <div>
+                            <h4>QuickTakes</h4>
+                            <Link href="/quicktakes-about-us">About us</Link>
+                            <Link href="/pricing">Pricing</Link>
+                        </div>
+                        <div>
+                            <h4>Resources</h4>
+                            <Link href="/faq">FAQ</Link>
+                            <Link href="/education">AI in Education</Link>
+                        </div>
+                        <div>
+                            <h4>Support</h4>
+                            <Link href="" onClick={(e)=>{e.preventDefault();setOpenContact(true)}} >Contact</Link>
+                            <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
+                            <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
+                        </div>
+                    </div>
+                    <div className={styles['footer-right']}>
+                        <p>Download QuickTakes!</p>
+                        <div>
+                            <Link href={appStoreLink}>
+                                <Image
+                                    src="/appStore.svg"
+                                    alt="appStore"
+                                    className="appStore"
+                                    width={227}
+                                    height={65}
+                                    unoptimized
+                                />
+                            </Link>
+                            <Link href={googlePlayLink}>
+                                <Image
+                                    src="/googlePlay.svg"
+                                    alt="googlePlay"
+                                    className="googlePlay"
+                                    width={227}
+                                    height={65}
+                                    unoptimized
+                                />
+                            </Link>
+                        </div>
+                    </div>
                 </div>
-                <div className={styles['footer-mid']}>
-                    <div>
-                        <h4>QuickTakes</h4>
-                        <Link href="/quicktakes-about-us">About us</Link>
-                        <Link href="/pricing">Pricing</Link>
-                    </div>
-                    <div>
-                        <h4>Resources</h4>
-                        <Link href="/faq">FAQ</Link>
-                        <Link href="/education">AI in Education</Link>
-                    </div>
-                    <div>
-                        <h4>Support</h4>
-                        <Link href="" onClick={(e)=>{e.preventDefault();setOpenContact(true)}} >Contact</Link>
-                        <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
-                        <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
-                    </div>
+                <div className={styles["footer"]}>
+                    <p>
+                        EdKey, Inc. All Rights Reserved © 2024 
+                    </p>
                 </div>
-                <div className={styles['footer-right']}>
-                    <p>Download QuickTakes!</p>
-                    <div>
-                        <Link href={appStoreLink}>
-                            <Image
-                                src="/appStore.svg"
-                                alt="appStore"
-                                className="appStore"
-                                width={227}
-                                height={65}
-                                unoptimized
-                            />
-                        </Link>
-                        <Link href={googlePlayLink}>
-                            <Image
-                                src="/googlePlay.svg"
-                                alt="googlePlay"
-                                className="googlePlay"
-                                width={227}
-                                height={65}
-                                unoptimized
-                            />
-                        </Link>
-                    </div>
-                </div>
-            </div>
-            <div className={styles["footer"]}>
-                <p>
-                    EdKey, Inc. All Rights Reserved © 2024 
-                </p>
             </div>
 
             <Modal

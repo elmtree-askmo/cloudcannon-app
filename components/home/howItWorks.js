@@ -8,12 +8,12 @@ export default function HowItWorks({content, block}){
                 <div className={styles['howItWorks-content-container']}>
                     <div className={styles['howItWorks-content-box']}>
                         <div className={styles['howItWorks-text-container']}>
-                            <h4>{block.leftSideContent_a.title}</h4>
-                            <p>{block.leftSideContent_a.content}</p>
+                            <h4 className={styles['howItWorks-text-align-right']}>{block.leftSideContent_a.title}</h4>
+                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_a.content}</p>
                         </div>
                         <div className={styles['howItWorks-text-container']}>
-                            <h4>{block.leftSideContent_b.title}</h4>
-                            <p>{block.leftSideContent_b.content}</p>
+                            <h4 className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.title}</h4>
+                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.content}</p>
                         </div>
                     </div>
                     <div className={styles['howItWorks-image-container']}><img src={block.image} /></div>

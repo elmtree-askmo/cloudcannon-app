@@ -1,17 +1,22 @@
 .footer-container{
     background: var(--student-font-color);
     color: #fff;
-    padding: 56px var(--global-padding);
+    padding: 56px 0;
 }
-.footer-content{
+.footer-center-container{
     max-width: 1440px;
     margin: 0 auto;
+    padding: 0 var(--header-footer-padding);
+    box-sizing: border-box;
+}
+.footer-content{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     padding-bottom: 24px;
     margin-bottom: 24px;
     border-bottom: 1px solid #484D5C;
+    padding-bottom: 24px;
 }
 .footer-left{
     display: flex;
