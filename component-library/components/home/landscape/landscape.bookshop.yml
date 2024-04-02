@@ -11,18 +11,21 @@ spec:
 blueprint:
   title: Home Landscape Section
   list:
-    - title: Use QuickTakes in Your Lectures
-      description: >-
-        Pop open the app and record your entire lecture to get back your
-        QuickTake!
-      image: /use-quicktakes-in-classroom.webp
-      reverse: false
-    - title: Use QuickTakes in Study Groups
-      description: >-
-        Use QuickTakes to capture notes from all your study groups so you can
-        chat and learn stress-free!
-      image: /use-quicktakes-in-study-groups.webp
-      reverse: true
+      - title: Never Forget a Lecture
+        description: >-
+          Record your entire lecture to get back your AI-generated QuickTake! Feel confident while you concentrate on listening to your lecture that you’ll have the back up you need with AI-developed supercharged study notes.
+        image: /never-forget-a-lecture.png
+        reverse: false
+      - title: Get Better Grades Now
+        description: >-
+          Upload pre-recorded audio and video files, Youtube URLs and PDFs and let your personalized AI sidekick organize all your materials so you have an effective way to study for exams and finals.
+        image: /get-better-grades-now.png
+        reverse: true
+      - title: Chat & Learn with Your Dedicated AI Sidekick, 24/7
+        description: >-
+          Need a question answered but can’t get time with your professor? Query your AI Sidekick chatbot to discuss topics, get more detailed explanations and develop in-depth understanding of all your class materials.
+        image: /chat-learn-with-ai.png
+        reverse: false
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
