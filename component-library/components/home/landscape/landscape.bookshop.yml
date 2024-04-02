@@ -1,0 +1,31 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Home Landscape
+  description: Home Landscape section
+  icon: "list"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Home Landscape Section
+  list:
+    - title: Use QuickTakes in Your Lectures
+      description: >-
+        Pop open the app and record your entire lecture to get back your
+        QuickTake!
+      image: /use-quicktakes-in-classroom.webp
+      reverse: false
+    - title: Use QuickTakes in Study Groups
+      description: >-
+        Use QuickTakes to capture notes from all your study groups so you can
+        chat and learn stress-free!
+      image: /use-quicktakes-in-study-groups.webp
+      reverse: true
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

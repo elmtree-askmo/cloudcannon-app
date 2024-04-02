@@ -1,4 +1,9 @@
+import Record from '../components/home/record';
+import Video from '..//components/home/video';
 import Banner from '../components/home/banner';
+import Testimonials from '../components/home/testimonials';
+import Landscape from '../components/home/landscape';
+import Portrait from '../components/home/portrait';
 import Schools from '../components/home/schools';
 import List from '../components/faq/list';
 import AboutEdkey from '../components/about-us/aboutEdkey';
@@ -16,6 +21,21 @@ export default function renderComponent(key, index, block){
     switch (key) {
         case "home/banner":
             targetComponent = (<Banner key={index} content={homeContent} block={block} />)
+            break;
+        case "home/video":
+            targetComponent = (<Video key={index} content={homeContent} block={block} />)
+            break;
+        case "home/record":
+            targetComponent = (<Record key={index} content={homeContent} block={block} />)
+            break;
+        case "home/landscape":
+            targetComponent = (<Landscape key={index} content={homeContent} block={block} />)
+            break;
+        case "home/portrait":
+            targetComponent = (<Portrait key={index} content={homeContent} block={block} />)
+            break;
+        case "home/testimonials":
+            targetComponent = (<Testimonials key={index} content={homeContent} block={block} />)
             break;
         case "faq/questionSection":
             targetComponent = (<List key={index} content={questionsList} block={block} />)

@@ -1,0 +1,23 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Home Video
+  description: Home Video section
+  icon: "movie"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Home Video Section
+  video_url: https://www.youtube.com/embed/gkReCEDwufg
+  description: >-
+    You deserve to feel confident. QuickTakes has got your back! Simply hit
+    record and QuickTakes takes lecture notes, create study materials,
+    provides related videos and answers your questions 24/7.
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
