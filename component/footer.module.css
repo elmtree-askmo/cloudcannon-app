@@ -89,6 +89,7 @@
 .footer-right{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
 }
 .footer-right p{
     margin: 0;
@@ -179,4 +180,58 @@
 }
 .teachers.contact-form-container form .send:hover{
     background-color: var(--teacher-button-theme) !important;
+}
+
+@media (max-width: 1023px) {
+    .footer-content{
+        flex-direction: column;
+        justify-content: unset;
+        align-items: unset;
+    }
+    .footer-left{
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+    .footer-mid{
+        margin-right: 0;
+        margin-bottom: 24px;
+        flex-wrap: wrap;
+        border-bottom: 1px solid #484D5C;
+    }
+    .footer-mid>div{
+        margin-right: 0;
+        margin-bottom: 24px;
+        min-width: 150px;
+    }
+    .footer-left{
+        align-items: center;
+        padding-bottom: 40px;
+        border-bottom: 1px solid #484D5C;
+    }
+    .footer-left .signup-button{
+        width: 100%;
+        max-width: 450px;
+    }
+    .footer-left p{
+        text-align: center;
+    }
+    .footer-right{
+        align-items: center;
+    }
+    .footer-right>div{
+        flex-direction: row;
+        justify-content: center;
+    }
+    .footer-right>div>a{
+        margin-bottom: 0;
+        margin-right: 10px;
+        flex: 1;
+    }
+    .footer-right>div>a:last-child{
+        margin: 0;
+    }
+    .footer-right>div>a>img{
+        width: 100%;
+        display: block;
+    }
 }
