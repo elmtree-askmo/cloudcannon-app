@@ -11,6 +11,7 @@ import { CloudCannonConnect } from '@cloudcannon/react-connector';
 
 mixpanel.init(MIXPANEL_ID, { debug: false });
 
+
 export default function App({ Component, pageProps }) {
   const router =useRouter();
   const pathname = router.pathname;
