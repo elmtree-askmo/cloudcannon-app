@@ -135,6 +135,7 @@
   color: #191927;
   border-radius: 60px;
   padding: 16px 32px;
+  cursor: pointer;
 }
 
 .carousel-container{
