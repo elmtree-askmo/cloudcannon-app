@@ -20,7 +20,7 @@ export default function Slideshow({content, block}){
                 <h3>{block.contentTitle}</h3>
                 <h4>{block.subTitle}</h4>
                 <div className={styles['carousel-box']}>
-                    <Carousel dots={false}  ref={carouselRef} autoplaySpeed={5000} waitForAnimate  > 
+                    <Carousel dots={false}  ref={carouselRef} autoplaySpeed={5000} waitForAnimate autoplay > 
                         {
                             block.list.map((item,index)=>(
                                 <div className={styles['carousel-custom-item']} key={index} >
