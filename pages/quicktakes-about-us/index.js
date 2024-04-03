@@ -28,7 +28,6 @@ export default function AboutUs({layoutType, role, pageStr, page}) {
           })
         }
       </div>
-      <SignUpNow layoutType={layoutType} role={role} pageStr={pageStr} />
     </>
   )
 }

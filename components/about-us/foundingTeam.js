@@ -2,9 +2,8 @@ import styles from '../../styles/about-us.module.css';
 
 export default function FoundingTeam({content, block}){
     return (
-        <div className={styles['founding-team']}>
-          <div className={`${styles.content} desktop-view`}>
-            <div className={styles['founding-title']}>{content.foundingTeamInfo.title}</div>
+        <div className={styles['founding-team-container']}>
+          <div className={styles['founding-team-center-container']}>
             <div className={styles['founding-flex']}>
               {block.members.map((item, key) => {
                 const { avatar, name, title, description } = item

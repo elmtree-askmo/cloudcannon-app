@@ -1,5 +1,5 @@
 .main-container{
-  max-width: 1440px;
+  max-width: var(--max-screen-width);
   margin: 0 auto;
 }
 .section-1-container{
@@ -16,7 +16,7 @@
   color: #fff;
 }
 .schools-center-container{
-  max-width: 1440px;
+  max-width: var(--max-screen-width);
   margin: 0 auto;
   box-sizing: border-box;
   padding:80px var(--global-padding);
@@ -79,7 +79,7 @@
   box-sizing: border-box;
   padding:80px var(--global-padding);
   color: #fff;
-  max-width: 1440px;
+  max-width: var(--max-screen-width);
 }
 .howItWorks-center-container h3{
   text-align: center;
@@ -124,12 +124,24 @@
 .howItWorks-content-box>.howItWorks-text-container:last-child{
   margin-bottom: 0;
 }
+.howItWorks-button-container{
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+}
+.howItWorks-button{
+  all: unset;
+  background: var(--student-button-theme);
+  color: #191927;
+  border-radius: 60px;
+  padding: 16px 32px;
+}
 
 .carousel-container{
   background: var(--student-bg-theme);
 }
 .carousel-center-container{
-  max-width: 1440px;
+  max-width: var(--max-screen-width);
   margin: 0 auto;
   padding: 56px var(--global-padding);
   box-sizing: border-box;
@@ -225,7 +237,7 @@
   box-sizing: border-box;
 }
 .section-1-center-container{
-  max-width: 1440px;
+  max-width: var(--max-screen-width);
   padding: 80px var(--global-padding) 0;
   box-sizing: border-box;
   width: 100%;
@@ -282,14 +294,6 @@
   font-size: 14px;
 }
 
-/* .section-1-r{
-  display: none;
-  margin-bottom: 20px;
-}
-.section-1-r img{
-  display: block;
-  width: 100%;
-} */
 
 .download-group{
   display: flex;
@@ -409,21 +413,30 @@
   }
   .howItWorks-center-container h3{
     font-size: 38px;
+    margin-bottom: 0;
   }
   .howItWorks-content-box{
     max-width: 100%;
     width: 100%;
+    order: 2;
   }
   .howItWorks-text-container h4{
     font-size: 24px;
-    text-align: center;
+    text-align: left;
   }
   .howItWorks-text-container p{
     font-size: 14px;
-    text-align: center;
+    text-align: left;
   }
   .howItWorks-image-container{
-    margin: 48px auto;
+    margin: 32px auto 24px;
+    order: 1;
+  }
+  .howItWorks-content-box>.howItWorks-text-container{
+    margin-bottom: 24px;
+  }
+  .howItWorks-content-box>.howItWorks-text-container:last-child{
+    margin-bottom: 24px;
   }
 
   /* carousel */

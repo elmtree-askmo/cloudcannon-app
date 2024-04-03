@@ -2,8 +2,8 @@ import styles from '../../styles/about-us.module.css';
 
 export default function Experience({content, block}){
     return (
-        <div className={styles['experiences']}>
-          <div className={`${styles.content} desktop-view`}>
+        <div className={styles['experiences-container']}>
+          <div className={styles['experiences-center-container']}>
             <div className={styles['experience-title']}>{content.experienceInfo.title}</div>
             <div className={styles['experience-flex']}>
                 {

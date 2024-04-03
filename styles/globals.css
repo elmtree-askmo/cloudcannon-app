@@ -14,13 +14,15 @@
 
   --global-padding:120px;
   --header-footer-padding:80px;
+
+  --max-screen-width:1440px;
 }
 
 /* responsive */
 @media (max-width: 1023px){
   :root{
-    --global-padding:20px;
-    --header-footer-padding:20px;
+    --global-padding:24px;
+    --header-footer-padding:24px;
   }
 }
 
@@ -90,7 +92,7 @@ html,body{
 }
 .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-item-active .ant-collapse-expand-icon{
   padding-inline-start: 0;
-  padding-inline-end: 12px;;
+  padding-inline-end: 12px;
 }
 .FAQ-global .ant-collapse-item-active .ant-collapse-expand-icon img{
   transform:rotate(180deg);

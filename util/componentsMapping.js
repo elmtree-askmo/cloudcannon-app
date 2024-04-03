@@ -12,6 +12,8 @@ import Slideshow from '../components/home/slideshow';
 import { homeContent } from '../staticProps/home.content';
 import { questionsList } from '../staticProps/faq.content';
 import { aboutUsContent } from '../staticProps/aboutUs.content';
+import Benefit from '../components/about-us/benefit';
+import Partnerships from '../components/about-us/partnerships';
 
 export default function renderComponent(key, index, block){
     let targetComponent ;
@@ -21,6 +23,15 @@ export default function renderComponent(key, index, block){
             break;
         case "home/landscape":
             targetComponent = (<Landscape key={index} content={homeContent} block={block} />)
+            break;
+        case "home/schools":
+            targetComponent = (<Schools key={index} content={homeContent} block={block} />)
+            break;
+        case "home/howItWorks":
+            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} />)
+            break;
+        case "home/slideshow":
+            targetComponent = (<Slideshow key={index} content={homeContent} block={block} />)
             break;
         case "faq/questionSection":
             targetComponent = (<List key={index} content={questionsList} block={block} />)
@@ -34,14 +45,11 @@ export default function renderComponent(key, index, block){
         case "about-us/experience":
             targetComponent = (<Experience key={index} content={aboutUsContent} block={block} />)
             break;
-        case "home/schools":
-            targetComponent = (<Schools key={index} content={homeContent} block={block} />)
+        case "about-us/benefit":
+            targetComponent = (<Benefit key={index} content={aboutUsContent} block={block} />)
             break;
-        case "home/howItWorks":
-            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} />)
-            break;
-        case "home/slideshow":
-            targetComponent = (<Slideshow key={index} content={homeContent} block={block} />)
+        case "about-us/partnerships":
+            targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} />)
             break;
         default:
             targetComponent = null;

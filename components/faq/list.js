@@ -16,7 +16,7 @@ export default function List({content, block}){
         </div>
         <div className={styles['FAQ-list']}>
           <div className={styles['FAQ-center-container']}>
-            <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
+            <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img className="expand-arrow" src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
                 {
                   block.question_list.map((item,index)=>{
                     return (

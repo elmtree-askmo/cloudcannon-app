@@ -1,4 +1,6 @@
+import Link from 'next/link';
 import styles from '../../styles/Home.module.css';
+import { APP_URL } from '@/constant/app.constant';
 
 export default function HowItWorks({content, block}){
     return (
@@ -27,6 +29,9 @@ export default function HowItWorks({content, block}){
                             <p>{block.rightSideContent_b.content}</p>
                         </div>
                     </div>
+                </div>
+                <div className={styles['howItWorks-button-container']}>
+                    <Link className={styles['howItWorks-button']} href={`https://${APP_URL}/signup`} ><strong>Try It Now</strong> - It's Free</Link>
                 </div>
             </div>
         </div>
