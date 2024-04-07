@@ -381,7 +381,7 @@
   }
   .section-1-center-container{
     background-position: 50% 95%;
-    padding-top: 50px;
+    padding-top: 40px;
   }
   .sign-up-now{
     margin-bottom: 56px;
@@ -389,7 +389,7 @@
 
   /* s4 */
   .section-4-container{
-    padding: 56px var(--global-padding);
+    padding: 56px 0;
   }
   .section-4-content-container{
     justify-content: center;
@@ -429,6 +429,9 @@
   /* how it works */
   .howItWorks-content-container{
     flex-wrap: wrap;
+  }
+  .howItWorks-center-container{
+    padding: 40px var(--global-padding);
   }
   .howItWorks-center-container h3{
     font-size: 38px;
