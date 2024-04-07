@@ -51,10 +51,10 @@ content_blocks:
   - _bookshop_name: about-us/experience
     title: Experience section
     items:
-      - image: ./images/experience-image2.webp
-      - image: ./images/experience-image5.webp
-      - image: ./images/experience-image4.webp
-      - image: ./images/experience-image6.webp
-      - image: ./images/experience-image3.webp
-      - image: ./images/experience-image7.webp
+      - image: ./logo/edmodo.png
+      - image: ./logo/redbird.png
+      - image: ./logo/mcgrawhill.png
+      - image: ./logo/netscape.png
+      - image: ./logo/doubleclick.png
+      - image: ./logo/alexa.png
 ---
