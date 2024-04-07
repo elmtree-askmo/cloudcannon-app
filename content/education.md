@@ -7,6 +7,7 @@ content_blocks:
       content: The world of AI in education is new and exciting with high potential to help students and educators more effectively learn and educate. AI in education is also fraught with concerns about how to deploy in meaningful ways that include guardrails and best practices. What are the implications for the next generation of students and educators? How do we maintain checks and balances, or avoid de-skilling? These just some of the questions on the mind thought-leaders in the AI edtech space. Check out some books and articles below that our staff believes will help educate those interested in AI and its promise for education.
   
     - _bookshop_name: education/bookmentions
+      title: Education Book Mentions Section
       contentTitle: Book Mentions
       list: 
         - image: /bookmentions.png
@@ -22,6 +23,7 @@ content_blocks:
           auth: By Salman Khan
           link: https://bookshop.org/p/books/brave-new-words-how-ai-will-revolutionize-education-and-why-that-s-a-good-thing-salman-khan/20453214?ean=9780593656952
     - _bookshop_name: education/media
+      title: Education Media Section
       contentTitle: Media
       list: 
         - image: /media.png
