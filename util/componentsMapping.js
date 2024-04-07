@@ -1,3 +1,7 @@
+import { homeContent } from '../staticProps/home.content';
+import { questionsList } from '../staticProps/faq.content';
+import { aboutUsContent } from '../staticProps/aboutUs.content';
+import { educationContent } from '../staticProps/education.content';
 
 import Banner from '../components/home/banner';
 import Landscape from '../components/home/landscape';
@@ -8,12 +12,11 @@ import FoundingTeam from '../components/about-us/foundingTeam';
 import Experience from '../components/about-us/experience';
 import HowItWorks from '../components/home/howItWorks';
 import Slideshow from '../components/home/slideshow';
-
-import { homeContent } from '../staticProps/home.content';
-import { questionsList } from '../staticProps/faq.content';
-import { aboutUsContent } from '../staticProps/aboutUs.content';
 import Benefit from '../components/about-us/benefit';
 import Partnerships from '../components/about-us/partnerships';
+import Introduction from '../components/education/introduction';
+import BookMentions from '../components/education/bookMentions';
+import Media from '../components/education/media';
 
 export default function renderComponent(key, index, block){
     let targetComponent ;
@@ -50,6 +53,15 @@ export default function renderComponent(key, index, block){
             break;
         case "about-us/partnerships":
             targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} />)
+            break;
+        case "education/introduction":
+            targetComponent = (<Introduction key={index} content={educationContent} block={block} />)
+            break;
+        case "education/bookmentions":
+            targetComponent = (<BookMentions key={index} content={educationContent} block={block} />)
+            break;
+        case "education/media":
+            targetComponent = (<Media key={index} content={educationContent} block={block} />)
             break;
         default:
             targetComponent = null;

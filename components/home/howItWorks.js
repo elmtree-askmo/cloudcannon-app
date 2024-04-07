@@ -19,6 +19,7 @@ export default function HowItWorks({content, block}){
                         </div>
                     </div>
                     <div className={styles['howItWorks-image-container']}><img src={block.image} /></div>
+                    <Link className={styles['howItWorks-button']} href={`https://${APP_URL}/signup`} ><strong>Try It Now</strong> - It's Free</Link>
                     <div className={styles['howItWorks-content-box']}>
                         <div className={styles['howItWorks-text-container']}>
                             <h4>{block.rightSideContent_a.title}</h4>

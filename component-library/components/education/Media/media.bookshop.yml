@@ -1,0 +1,24 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Education Media Section
+  description: Education Media Section
+  icon: "help"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Education Media Section
+  contentTitle: Media
+  list: 
+    - image: /media.png
+      title: "2023 AI in Education Wrapped: A timeline of landmark moments and pivotal developments that transformed AI in Education in 2023"
+      auth: By Claire Zau
+      link: https://aieducation.substack.com/p/2023-ai-in-education-wrapped?utm_source=post-email-title&publication_id=914032&post_id=139892100&utm_campaign=email-post-title&isFreemail=true&r=33ax8y&triedRedirect=true
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:

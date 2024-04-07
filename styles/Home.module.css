@@ -4,7 +4,7 @@
 }
 .section-1-container{
   background: var(--student-bg-theme);
-  height: 760px;
+  height: 780px;
 }
 .section-4-container{
   background: var(--student-bg);
@@ -137,6 +137,14 @@
   padding: 16px 32px;
   cursor: pointer;
 }
+.howItWorks-button:hover,
+.howItWorks-button:focus,
+.howItWorks-button:active{
+  filter: brightness(1.1);
+}
+.howItWorks-content-container>.howItWorks-button{
+  display: none;
+}
 
 .carousel-container{
   background: var(--student-bg-theme);
@@ -188,6 +196,7 @@
   box-sizing: border-box;
   max-width: 700px;
   flex: 4;
+  text-align: center;
 }
 .carousel-item-comment{
   font-size: 24px;
@@ -277,7 +286,7 @@
   width: 100%;
   height: 50px;
   border-radius: 60px;
-  margin-bottom: 32px;
+  margin-bottom: 56px;
   max-width: 172px;
   color: #191927;
   background: var(--student-button-theme);
@@ -336,7 +345,7 @@
 }
 .section-4-content-container-r h3{
   color: #fff;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 32px;
   margin: 0 0 32px;
   line-height: 38px;
@@ -358,7 +367,7 @@
 @media (max-width: 1023px) {
   /* s1 */
   .section-1-container{
-    height: 567px;
+    height: 500px;
   }
   .section-1 h2{
     font-size: 24px;
@@ -371,25 +380,33 @@
     line-height: 20px;
   }
   .section-1-center-container{
-    background-position: 50% 85%;
+    background-position: 50% 95%;
     padding-top: 50px;
   }
   .sign-up-now{
-    margin-bottom: 24px;
+    margin-bottom: 56px;
   }
 
   /* s4 */
+  .section-4-container{
+    padding: 56px var(--global-padding);
+  }
   .section-4-content-container{
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
+    padding: 0;
+    margin-bottom: 48px;
+  }
+  .section-4-content-container:last-child{
+    margin-bottom: 0;
   }
   .section-4-content-container-l{
     width: 100%;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
   }
   .section-4-content-container-r{
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
   .section-4-content-container-r h3{
     margin-bottom:0;
@@ -397,6 +414,7 @@
   }
   .section-4-content-container-r p{
     font-size: 16px;
+    margin: 32px 0;
   }
 
   /* schools */
@@ -419,7 +437,7 @@
   .howItWorks-content-box{
     max-width: 100%;
     width: 100%;
-    order: 2;
+    order: 3;
   }
   .howItWorks-text-container h4{
     font-size: 24px;
@@ -439,6 +457,14 @@
   .howItWorks-content-box>.howItWorks-text-container:last-child{
     margin-bottom: 24px;
   }
+  .howItWorks-button-container{
+    display: none;
+  }
+  .howItWorks-content-container>.howItWorks-button{
+    display: block;
+    order: 2;
+    margin: 42px auto;
+  }
 
   /* carousel */
   .carousel-center-container>h3{
@@ -455,12 +481,38 @@
     margin: 0 auto 24px;
   }
   .carousel-item-info{
-    padding: 20px;
+    padding: 16px;
+    text-align: center;
   }
   .carousel-item-comment{
     font-size: 18px;
   }
   .carousel-item-user{
     font-size: 14px;
+  }
+  .carousel-custom-item{
+    padding: 0;
+  }
+  .carousel-box{
+    padding-bottom: 48px;
+  }
+  .arrowRight, .arrowLeft{
+    top: unset;
+    transform: unset;
+    bottom: 0%;
+    width: 32px;
+    height: 32px;
+  }
+  .arrowRight>svg, .arrowLeft>svg{
+    width: 32px;
+    height: 32px;
+  }
+  .arrowRight{
+    left: 60%;
+    transform: translateX(-60%);
+  }
+  .arrowLeft{
+    left: 45%;
+    transform: translateX(-45%);
   }
 }

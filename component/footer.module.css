@@ -29,7 +29,7 @@
 .footer-left p{
     all: unset;
     margin-bottom: 24px;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     margin-bottom: 24px;
 }
@@ -104,9 +104,15 @@
 .footer-right>div a{
     margin-bottom: 16px;
     cursor: pointer;
+    /* width: 164px; */
 }
 .footer-right>div a:last-child{
     margin-bottom: 0;
+}
+.footer-right>div a>img{
+    display: block;
+    width: 164px;
+    height: 48px;
 }
 
 .footer{

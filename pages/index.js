@@ -26,7 +26,8 @@ export default function Home({layoutType, role, pageStr, page}) {
   return (
     <>
       <Head>
-        <title>QuickTakes</title>
+        <title>QuickTakes | AI Study Sidekick | College Learning Tools</title>
+        <meta property="og:description" content="QuickTakes, powered by artificial intelligence (AI), uses live lecture recordings and more to return quality study materials that help students study smarter." />
       </Head>
       <div className={styles['home']}>
         {

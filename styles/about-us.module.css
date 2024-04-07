@@ -4,8 +4,8 @@
   color: #fff;
 }
 .about-aboutUs-center-container{
-  max-width: var(--max-screen-width);
-  padding: 80px var(--global-padding);
+  max-width: var(--max-text-width);
+  padding: 80px 0;
   box-sizing: border-box;
   margin: 0 auto;
 }
@@ -22,7 +22,7 @@
   line-height: 30px;
   color: #fff;
   margin-bottom: 24px;
-  padding: 0 100px;
+  /* padding: 0 100px; */
   font-weight: 400;
 }
 .auout-us-content:last-child{

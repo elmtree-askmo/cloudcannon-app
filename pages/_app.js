@@ -29,7 +29,6 @@ export default function App({ Component, pageProps }) {
       <>
         <Head>
           <meta name="keywords" content="QuickTakes, college students, class lectures, recording lectures. AI-generated, Study Guide, Transcript, glossary, practice problems, recommended videos, AI-chatbot, better note taking, studying, university student, professors lectures, college courses, study material, ai assistant, lecture notes, class notes" />
-          <meta property="og:description" content="QuickTakes is a AI knowledge app for college students to understand their university lectures better. Record lectures and artificial intelligence auto-generates a Study Guide, Transcript, glossary and practice problems." />
         </Head>
         {/* <!-- Google Tag Manager --> */}
         <Script>

@@ -2,16 +2,19 @@
   background: var(--student-bg-theme);
   color: #fff;
 }
+.FAQ-header-center-container{
+  padding: 80px 0;
+  margin: 0 auto;
+  max-width: var(--max-text-width);
+}
 .title{
   color: #fff;
   font-size: 48px;
   text-align: center;
   font-weight: bold;
-  padding-top: 40px;
   margin-bottom: 56px;
 }
 .content{
-  padding: 0 var(--global-padding) 80px;
   line-height: 28px;
   font-size: 24px;
   text-align: center;
@@ -26,8 +29,7 @@
   background: var(--student-bg);
 }
 .FAQ-center-container{
-  max-width: var(--max-screen-width);
-  padding: 0 180px;
+  max-width: var(--max-text-width);
   box-sizing: border-box;
   margin: 0 auto;
 }
@@ -42,12 +44,14 @@
   }
   .content{
     font-size: 20px;
-    padding-bottom: 40px;
   }
   .FAQ-list{
-    padding: 36px var(--global-padding) 56px;
+    padding: 0;
   }
   .FAQ-center-container{
-    padding:0 20px;
+    padding:40px var(--global-padding);
+  }
+  .FAQ-header-center-container{
+    padding: 40px var(--global-padding);
   }
 }

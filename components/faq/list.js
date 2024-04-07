@@ -6,7 +6,7 @@ export default function List({content, block}){
     return (
       <div className={`FAQ-global`}>
         <div className={styles.header}>
-          <div className={`desktop-view`}>
+          <div className={styles[`FAQ-header-center-container`]}>
             <div className={styles.title}>{block.sectionTitle}</div>
             <div className={styles.content}>
               {block.sectionContent}
