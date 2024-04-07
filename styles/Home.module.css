@@ -453,6 +453,11 @@
   .howItWorks-image-container{
     margin: 32px auto 24px;
     order: 1;
+    max-width: 100%;
+  }
+  .howItWorks-image-container img{
+    max-width: 340px;
+    margin: 0 auto;
   }
   .howItWorks-content-box>.howItWorks-text-container{
     margin-bottom: 24px;
