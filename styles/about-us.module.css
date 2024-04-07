@@ -279,7 +279,7 @@
   
 
   .experience-title{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 19px;
     margin-bottom: 32px;
@@ -289,7 +289,12 @@
     gap: 24px 0;
   }
   .experience-image img{
-    display: block;
+    max-height: 100px;
+  }
+  .experience-image{
     width: 100%;
+    height: auto;
+    /* max-height: 80px; */
+    max-width: 260px;
   }
 }
