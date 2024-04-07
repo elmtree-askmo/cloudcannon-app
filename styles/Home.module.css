@@ -483,6 +483,7 @@
   .carousel-item-info{
     padding: 16px;
     text-align: center;
+    margin: 0 10px;
   }
   .carousel-item-comment{
     font-size: 18px;
