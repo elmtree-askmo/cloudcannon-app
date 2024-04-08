@@ -8,7 +8,7 @@ content_blocks:
     buttonTxt: Sign Up Today
   - _bookshop_name: home/landscape
     title: Home Landscape Section
-    list:
+    items:
       - title: Never Forget a Lecture
         description: >-
           Record your entire lecture to get back your AI-generated QuickTake! Feel confident while you concentrate on listening to your lecture that you’ll have the back up you need with AI-developed supercharged study notes.

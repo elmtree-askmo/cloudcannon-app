@@ -5,7 +5,7 @@ export default function Landscape ({content, block}){
         <div className={styles['section-4-container']}>
           <div className={`${styles['section-4']} ${styles['main-container']}`} >
             {
-              block.list.map((item, index)=>(
+              block.items.map((item, index)=>(
                 <div key={index} className={styles['section-4-content-container']} style={item.reverse?{flexDirection:'row-reverse'}:{}}>
                   <div className={styles['section-4-content-container-l']}><img src={item.image} /></div>
                   <div className={styles['section-4-content-container-r']}>
