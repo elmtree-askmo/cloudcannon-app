@@ -10,7 +10,7 @@ export default function List({content, block}){
             <div className={styles.title}>{block.contentTitle}</div>
             <div className={styles.content}>
               {block.description}
-              <span className={styles.email}> {block.sectionEmail}</span>
+              <span className={styles.email}> {block.email}</span>
             </div>
           </div>
         </div>
@@ -18,7 +18,7 @@ export default function List({content, block}){
           <div className={styles['FAQ-center-container']}>
             <Collapse className={styles['FAQ-collapse']} expandIcon={() => <img className="expand-arrow" src='/arrow-icon.svg' />} accordion={false} expandIconPosition="end" >
                 {
-                  block.question_list.map((item,index)=>{
+                  block.items.map((item,index)=>{
                     return (
                       <Collapse.Panel header={item.question} key={index}>
                         <div className={styles['FAQ-content']} dangerouslySetInnerHTML={{__html:item.answer}}></div>

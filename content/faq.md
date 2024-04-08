@@ -5,8 +5,8 @@ content_blocks:
     title: FAQ Section
     contentTitle: FAQ
     description: Here are some frequently asked questions about QuickTakes and how it works. If these FAQs do not answer your specific question, then we recommend sending an email to 
-    sectionEmail: support@edkey.com
-    question_list:
+    email: support@edkey.com
+    items:
       - question: How do I sign up for QuickTakes?
         answer: >-
           <p>You can sign up using the web application on this site or download
