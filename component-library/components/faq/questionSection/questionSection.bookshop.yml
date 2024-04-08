@@ -5,13 +5,13 @@ spec:
     - content_blocks
   label: FAQ Section
   description: FAQ Section
-  icon: "help"
+  icon: "quiz"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: FAQ Section
-  sectionTitle: FAQ
-  sectionContent: Here are some frequently asked questions about QuickTakes and how it works. If these FAQs do not answer your specific question, then we recommend sending an email to 
+  contentTitle: FAQ
+  description: Here are some frequently asked questions about QuickTakes and how it works. If these FAQs do not answer your specific question, then we recommend sending an email to 
   sectionEmail: support@edkey.com
   question_list:
     - question: How do I sign up for QuickTakes?

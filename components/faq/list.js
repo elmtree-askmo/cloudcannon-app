@@ -7,9 +7,9 @@ export default function List({content, block}){
       <div className={`FAQ-global`}>
         <div className={styles.header}>
           <div className={styles[`FAQ-header-center-container`]}>
-            <div className={styles.title}>{block.sectionTitle}</div>
+            <div className={styles.title}>{block.contentTitle}</div>
             <div className={styles.content}>
-              {block.sectionContent}
+              {block.description}
               <span className={styles.email}> {block.sectionEmail}</span>
             </div>
           </div>
