@@ -4,7 +4,6 @@ import { Button } from 'antd';
 import styles from '../styles/Home.module.css';
 import Link from 'next/link';
 import { API_DOMAIN, APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from '../constant/app.constant';
-import SignUpNow from '../component/sign-up-now';
 import axios from 'axios';
 import { useEffect } from 'react';
 import mixpanel from 'mixpanel-browser';

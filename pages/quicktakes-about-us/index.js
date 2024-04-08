@@ -1,7 +1,6 @@
 
 import { useEffect, useState } from 'react';
 
-import SignUpNow from '../../component/sign-up-now';
 
 import styles from '../../styles/about-us.module.css';
 import mixpanel from 'mixpanel-browser';

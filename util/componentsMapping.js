@@ -2,6 +2,7 @@ import { homeContent } from '../staticProps/home.content';
 import { questionsList } from '../staticProps/faq.content';
 import { aboutUsContent } from '../staticProps/aboutUs.content';
 import { educationContent } from '../staticProps/education.content';
+import { pricingContent } from '../staticProps/pricing.content';
 
 import Banner from '../components/home/banner';
 import Landscape from '../components/home/landscape';
@@ -17,6 +18,9 @@ import Partnerships from '../components/about-us/partnerships';
 import Introduction from '../components/education/introduction';
 import BookMentions from '../components/education/bookMentions';
 import Media from '../components/education/media';
+import Intro from '../components/pricing/intro';
+import Pricing from '../components/pricing/pricing';
+import Contact from '../components/pricing/contact';
 
 export default function renderComponent(key, index, block){
     let targetComponent ;
@@ -62,6 +66,15 @@ export default function renderComponent(key, index, block){
             break;
         case "education/media":
             targetComponent = (<Media key={index} content={educationContent} block={block} />)
+            break;
+        case "pricing/intro":
+            targetComponent = (<Intro key={index} content={pricingContent} block={block} />)
+            break;
+        case "pricing/pricing":
+            targetComponent = (<Pricing key={index} content={pricingContent} block={block} />)
+            break;
+        case "pricing/contact":
+            targetComponent = (<Contact key={index} content={pricingContent} block={block} />)
             break;
         default:
             targetComponent = null;
