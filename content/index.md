@@ -7,7 +7,7 @@ content_blocks:
     subTitle: Supercharge learning with your personalized AI study sidekick
     buttonTxt: Sign Up Today
   - _bookshop_name: home/landscape
-    title: Home Landscape Section
+    title: Home benefit Section
     items:
       - title: Never Forget a Lecture
         description: >-
@@ -55,16 +55,16 @@ content_blocks:
     image: /howItWorks.png
     leftSideContent_a:
       title: Personalize Studying
-      content: Record live lectures, upload audio and video files, and insert Youtube URLs then get back an Ai-generated QuickTake.
+      description: Record live lectures, upload audio and video files, and insert Youtube URLs then get back an Ai-generated QuickTake.
     leftSideContent_b:
       title: Stay Organized
-      content: Group your QuickTakes into class folders by semester for easier studying, powered by AI.
+      description: Group your QuickTakes into class folders by semester for easier studying, powered by AI.
     rightSideContent_a:
       title: Study Smarter
-      content: Using AI, QuickTakes auto-generates an outline, study guide, glossary, practice questions, and a complete transcript within seconds.
+      description: Using AI, QuickTakes auto-generates an outline, study guide, glossary, practice questions, and a complete transcript within seconds.
     rightSideContent_b:
       title: Chat in Real Time
-      content: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
+      description: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
   - _bookshop_name: home/slideshow
     title: Home Testmonials Section
     contentTitle: Supercharge Your Lecture Notes

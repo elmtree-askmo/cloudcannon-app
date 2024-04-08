@@ -11,11 +11,11 @@ export default function HowItWorks({content, block}){
                     <div className={styles['howItWorks-content-box']}>
                         <div className={styles['howItWorks-text-container']}>
                             <h4 className={styles['howItWorks-text-align-right']}>{block.leftSideContent_a.title}</h4>
-                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_a.content}</p>
+                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_a.description}</p>
                         </div>
                         <div className={styles['howItWorks-text-container']}>
                             <h4 className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.title}</h4>
-                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.content}</p>
+                            <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.description}</p>
                         </div>
                     </div>
                     <div className={styles['howItWorks-image-container']}><img src={block.image} /></div>
@@ -23,11 +23,11 @@ export default function HowItWorks({content, block}){
                     <div className={styles['howItWorks-content-box']}>
                         <div className={styles['howItWorks-text-container']}>
                             <h4>{block.rightSideContent_a.title}</h4>
-                            <p>{block.rightSideContent_a.content}</p>
+                            <p>{block.rightSideContent_a.description}</p>
                         </div>
                         <div className={styles['howItWorks-text-container']}>
                             <h4>{block.rightSideContent_b.title}</h4>
-                            <p>{block.rightSideContent_b.content}</p>
+                            <p>{block.rightSideContent_b.description}</p>
                         </div>
                     </div>
                 </div>
