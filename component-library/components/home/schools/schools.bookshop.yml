@@ -5,34 +5,34 @@ spec:
     - content_blocks
   label: Home Schools
   description: Home Schools section
-  icon: "campaign"
+  icon: "list"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Home Schools Section
   contentTitle: Trusted By Top Students
-  content:
-      - slide:
-        - schoolLogo: /schoolLogo/berkeley.svg
-        - schoolLogo: /schoolLogo/colgate.svg
-        - schoolLogo: /schoolLogo/penn.svg
-        - schoolLogo: /schoolLogo/ucsb.svg
-        - schoolLogo: /schoolLogo/stanford.svg
-        - schoolLogo: /schoolLogo/columbia.svg
-      - slide:
-        - schoolLogo: /schoolLogo/cornell.svg
-        - schoolLogo: /schoolLogo/rutgers.svg
-        - schoolLogo: /schoolLogo/princeton.svg
-        - schoolLogo: /schoolLogo/mrgill.svg
-        - schoolLogo: /schoolLogo/duke.svg
-        - schoolLogo: /schoolLogo/michigan.svg
-      - slide:
-        - schoolLogo: /schoolLogo/ohio.svg
-        - schoolLogo: /schoolLogo/texas.svg
-        - schoolLogo: /schoolLogo/toronto.svg
-        - schoolLogo: /schoolLogo/colorado.svg
-        - schoolLogo: /schoolLogo/wesleyan.svg
-        - schoolLogo: /schoolLogo/csu.svg
+  slides:
+      - logos:
+        - image: /schoolLogo/berkeley.svg
+        - image: /schoolLogo/colgate.svg
+        - image: /schoolLogo/penn.svg
+        - image: /schoolLogo/ucsb.svg
+        - image: /schoolLogo/stanford.svg
+        - image: /schoolLogo/columbia.svg
+      - logos:
+        - image: /schoolLogo/cornell.svg
+        - image: /schoolLogo/rutgers.svg
+        - image: /schoolLogo/princeton.svg
+        - image: /schoolLogo/mrgill.svg
+        - image: /schoolLogo/duke.svg
+        - image: /schoolLogo/michigan.svg
+      - logos:
+        - image: /schoolLogo/ohio.svg
+        - image: /schoolLogo/texas.svg
+        - image: /schoolLogo/toronto.svg
+        - image: /schoolLogo/colorado.svg
+        - image: /schoolLogo/wesleyan.svg
+        - image: /schoolLogo/csu.svg
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

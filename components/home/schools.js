@@ -20,11 +20,11 @@ export default function Schools({content, block}){
                 <div className={styles['schools-carousel-container']}>
                     <Carousel dots={false}  ref={carouselRef} autoplaySpeed={5000} waitForAnimate autoplay > 
                         {
-                            block.content.map((item, index)=>(
+                            block.slides.map((item, index)=>(
                                 <div className={styles['schools-carousel-item']} key={index}>
                                     {
-                                        item.slide.map((subItem, i)=>(
-                                            <div key={i}><img src={subItem.schoolLogo} /></div>
+                                        item.logos.map((subItem, i)=>(
+                                            <div key={i}><img src={subItem.image} /></div>
                                         ))
                                     }
                                 </div>

@@ -27,28 +27,28 @@ content_blocks:
   - _bookshop_name: home/schools
     title: Home Schools Section
     contentTitle: Trusted By Top Students
-    content:
-      - slide:
-        - schoolLogo: /schoolLogo/berkeley.svg
-        - schoolLogo: /schoolLogo/colgate.svg
-        - schoolLogo: /schoolLogo/penn.svg
-        - schoolLogo: /schoolLogo/ucsb.svg
-        - schoolLogo: /schoolLogo/stanford.svg
-        - schoolLogo: /schoolLogo/columbia.svg
-      - slide:
-        - schoolLogo: /schoolLogo/cornell.svg
-        - schoolLogo: /schoolLogo/rutgers.svg
-        - schoolLogo: /schoolLogo/princeton.svg
-        - schoolLogo: /schoolLogo/mrgill.svg
-        - schoolLogo: /schoolLogo/duke.svg
-        - schoolLogo: /schoolLogo/michigan.svg
-      - slide:
-        - schoolLogo: /schoolLogo/ohio.svg
-        - schoolLogo: /schoolLogo/texas.svg
-        - schoolLogo: /schoolLogo/toronto.svg
-        - schoolLogo: /schoolLogo/colorado.svg
-        - schoolLogo: /schoolLogo/wesleyan.svg
-        - schoolLogo: /schoolLogo/csu.svg
+    slides:
+      - logos:
+        - image: /schoolLogo/berkeley.svg
+        - image: /schoolLogo/colgate.svg
+        - image: /schoolLogo/penn.svg
+        - image: /schoolLogo/ucsb.svg
+        - image: /schoolLogo/stanford.svg
+        - image: /schoolLogo/columbia.svg
+      - logos:
+        - image: /schoolLogo/cornell.svg
+        - image: /schoolLogo/rutgers.svg
+        - image: /schoolLogo/princeton.svg
+        - image: /schoolLogo/mrgill.svg
+        - image: /schoolLogo/duke.svg
+        - image: /schoolLogo/michigan.svg
+      - logos:
+        - image: /schoolLogo/ohio.svg
+        - image: /schoolLogo/texas.svg
+        - image: /schoolLogo/toronto.svg
+        - image: /schoolLogo/colorado.svg
+        - image: /schoolLogo/wesleyan.svg
+        - image: /schoolLogo/csu.svg
   - _bookshop_name: home/howItWorks
     title: Home How It Works Section
     contentTitle: How It Works
@@ -69,25 +69,25 @@ content_blocks:
     title: Home Slideshow Section
     contentTitle: Supercharge Your Lecture Notes
     subTitle: QuickTakes Testimonies
-    list:
+    slides:
         - avatar: /student_avatar.svg
           name: Ken S.
           grade: Sophomore
-          content: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
+          description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
         - avatar: /student_avatar2.svg
           name: Ken S.
           grade: Sophomore
-          content: QuickTakes is super easy to use. It makes learning super intuitive!
+          description: QuickTakes is super easy to use. It makes learning super intuitive!
         - avatar: /student_avatar3.svg
           name: Ken S.
           grade: Sophomore
-          content: This app is the best thing to have ever happened to me in my education!.
+          description: This app is the best thing to have ever happened to me in my education!.
         - avatar: /student_avatar4.svg
           name: Ken S.
           grade: Sophomore
-          content: QuickTakes is astoundingly useful, especially for people who struggle with ADHD!.
+          description: QuickTakes is astoundingly useful, especially for people who struggle with ADHD!.
         - avatar: /student_avatar5.svg
           name: Ken S.
           grade: Sophomore
-          content: I truly believe that QuickTakes is revolutionary!.
+          description: I truly believe that QuickTakes is revolutionary!.
 ---
