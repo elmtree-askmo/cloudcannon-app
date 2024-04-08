@@ -12,8 +12,8 @@
 }
 
 .schools-container{
-  background: var(--student-bg-theme);
-  color: #fff;
+  background: #fff;
+  color: #181A20;
 }
 .schools-center-container{
   max-width: var(--max-screen-width);
@@ -21,54 +21,38 @@
   box-sizing: border-box;
   padding:80px var(--global-padding);
 }
-.schools-center-container>div{
-  margin-bottom: 32px;
-}
-.schools-center-container>div:last-child{
-  margin-bottom: 0;
-}
 .schools-container h3{
   margin: 0 auto 80px;
   text-align: center;
   font-size: 48px;
   font-weight: 700;
 }
-.schools-container .scrolling, .schools-container .scrolling-reverse{
+.schools-carousel-container{
+  padding: 0 56px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.schools-carousel-item{
+  display: flex !important; 
+  align-items: center;
+  justify-content: center;
+  gap: 0 24px;
+}
+.schools-carousel-item>div{
   width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
+  max-width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.schools-container .scrolling p{
-  display: inline-block;
-  font-size: 48px;
-  font-weight: 400;
-  margin: 0;
-  animation: marquee 55s linear infinite;
+.schools-carousel-item>div>img{
+  max-width: 100%;
+  max-height: 100%;
 }
-.schools-container .scrolling-reverse p{
-  display: inline-block;
-  font-size: 48px;
-  font-weight: 400;
-  margin: 0;
-  animation: marqueeReverse 55s linear infinite;
-}
-
-@keyframes marquee{
-  0%{
-    transform: translateX(calc(100vw - var(--global-padding)));
-  }
-  100%{
-    transform: translateX(-100%);
-  }
-}
-
-@keyframes marqueeReverse{
-  0%{
-    transform: translateX(-100%);
-  }
-  100%{
-    transform: translateX(calc(100vw - var(--global-padding)));
-  }
+.schools-arrowIcon{
+  width: 40px;
+  height: 40px;
 }
 
 .howItWorks-container{
@@ -418,12 +402,22 @@
   }
 
   /* schools */
+  .schools-center-container{
+    padding: 40px var(--global-padding);
+  }
   .schools-center-container h3{
     font-size: 24px;
     margin-bottom: 50px;
   }
-  .schools-center-container>.scrolling>p,.schools-center-container>.scrolling-reverse>p{
-    font-size: 24px;
+  .schools-carousel-container{
+    padding:0 0 48px
+  }
+  .schools-carousel-item{
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .schools-carousel-item>div{
+    max-width: 140px;
   }
 
   /* how it works */
@@ -517,11 +511,11 @@
     height: 32px;
   }
   .arrowRight{
-    left: 60%;
-    transform: translateX(-60%);
+    left: calc((100% - 32px * 2) / 2 + 32px + 16px);
+    transform: translateX(-50%);
   }
   .arrowLeft{
-    left: 45%;
-    transform: translateX(-45%);
+    left: calc((100% - 32px * 2) / 2);
+    transform: translateX(-50%);
   }
 }

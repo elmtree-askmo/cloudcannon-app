@@ -10,12 +10,29 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Home Schools Section
-  contentTitle: Schools of Students Using QuickTakes
+  contentTitle: Trusted By Top Students
   content:
-      - line: UC Berkeley • Colgate College • University of Pennsylvania • UC Santa Barbara • Stanford University • Cornell University • Rutgers University • Colorado State University • Wesleyan University • Baylor University • Iowa University • Pepperdine University • McGill University • Duke University • University of Michigan • University of Texas
-        reverse: false
-      - line: University of Arizona • Toronto Metropolitan University • McHenry County College • Salem College • Towson University • California State University • University of Hawaii • Michigan State University • Florida State University • San Mateo County Community College • Princeton University • Presbyterian College
-        reverse: true
+      - slide:
+        - schoolLogo: /schoolLogo/berkeley.svg
+        - schoolLogo: /schoolLogo/colgate.svg
+        - schoolLogo: /schoolLogo/penn.svg
+        - schoolLogo: /schoolLogo/ucsb.svg
+        - schoolLogo: /schoolLogo/stanford.svg
+        - schoolLogo: /schoolLogo/columbia.svg
+      - slide:
+        - schoolLogo: /schoolLogo/cornell.svg
+        - schoolLogo: /schoolLogo/rutgers.svg
+        - schoolLogo: /schoolLogo/princeton.svg
+        - schoolLogo: /schoolLogo/mrgill.svg
+        - schoolLogo: /schoolLogo/duke.svg
+        - schoolLogo: /schoolLogo/michigan.svg
+      - slide:
+        - schoolLogo: /schoolLogo/ohio.svg
+        - schoolLogo: /schoolLogo/texas.svg
+        - schoolLogo: /schoolLogo/toronto.svg
+        - schoolLogo: /schoolLogo/colorado.svg
+        - schoolLogo: /schoolLogo/wesleyan.svg
+        - schoolLogo: /schoolLogo/csu.svg
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
