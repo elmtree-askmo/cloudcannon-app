@@ -66,7 +66,7 @@ content_blocks:
       title: Chat in Real Time
       content: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
   - _bookshop_name: home/slideshow
-    title: Home Slideshow Section
+    title: Home Testmonials Section
     contentTitle: Supercharge Your Lecture Notes
     subTitle: QuickTakes Testimonies
     slides:
