@@ -1,5 +1,5 @@
 ---
-title: Student FAQ
+title: FAQ
 content_blocks:
   - _bookshop_name: faq/questionSection
     title: FAQ Section

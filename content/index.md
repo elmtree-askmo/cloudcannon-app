@@ -1,5 +1,5 @@
 ---
-title: Student Home
+title: Home
 content_blocks:
   - _bookshop_name: home/banner
     title: Home Banner section

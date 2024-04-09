@@ -1,5 +1,5 @@
 ---
-title: Student About us
+title: About us
 content_blocks:
   - _bookshop_name: about-us/aboutEdkey
     title: About Us section
