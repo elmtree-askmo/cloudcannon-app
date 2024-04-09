@@ -8,7 +8,7 @@ export default function Contact({content, block}){
     return(
         <div className={styles['contact-container']}>
             <div className={styles['contact-center-container']}>
-                <p dangerouslySetInnerHTML={{__html:replaceContent(block.content, '${email}')}}></p>
+                <p dangerouslySetInnerHTML={{__html:replaceContent(block.description, '${email}')}}></p>
                 <Link href={`mailto:${block.email}`}>{block.buttontxt}</Link>
             </div>
         </div>

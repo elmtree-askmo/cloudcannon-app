@@ -8,7 +8,7 @@ export default function Pricing({content, block}){
             <div className={styles['pricing-center-container']}>
                 <div className={styles['pricing-list']}>
                     {
-                        block.list.map((item,index)=>(
+                        block.items.map((item,index)=>(
                             <div className={`${styles['pricing-list-item']} ${item.itemActiveStyle?styles['pricing-item-blue-border']:''}`} key={index}>
                                 <div className={styles['pricing-item-header']}>
                                     <h4>{item.label}</h4>

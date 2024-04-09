@@ -1,13 +1,13 @@
 ---
-title: Pricing
+title: Plans
 content_blocks:
     - _bookshop_name: pricing/intro
-      title: Pricing intro Section
+      title: Plans introduction Section
       contentTitle: Plans
-      content: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
+      description: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
     - _bookshop_name: pricing/pricing
-      title: Pricing Section
-      list: 
+      title: Plans Section
+      items: 
         - label: Free
           itemActiveStyle: false
           minutesLabel: 90 min
@@ -78,8 +78,8 @@ content_blocks:
               description: Part of free 90 min
               activeStyle: true
     - _bookshop_name: pricing/contact
-      title: Pricing contact Section
-      content: Are you a university or institution interested in licensing QuickTakes for your students or employees? Email us at ${email} 
+      title: Plans contact Section
+      description: Are you a university or institution interested in licensing QuickTakes for your students or employees? Email us at ${email} 
       buttontxt: Email Us
       email: info@edkey.com
   

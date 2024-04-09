@@ -5,7 +5,7 @@ export default function Intro({content, block}){
         <div className={styles['intro-container']}>
             <div className={styles['intro-center-container']}>
                 <h3>{block.contentTitle}</h3>
-                <p>{block.content}</p>
+                <p>{block.description}</p>
             </div>
         </div>
     )

@@ -3,15 +3,15 @@
 spec:
   structures:
     - content_blocks
-  label: Pricing introduction Section
-  description: Pricing introduction Section
-  icon: "help"
+  label: Plans introduction Section
+  description: Plans introduction Section
+  icon: "description"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: Pricing introduction Section
-  contentTitle: Pricing
-  content: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
+  title: Plans introduction Section
+  contentTitle: Plans
+  description: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

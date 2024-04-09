@@ -3,14 +3,14 @@
 spec:
   structures:
     - content_blocks
-  label: Pricing Section
-  description: Pricing Section
-  icon: "help"
+  label: Plans Section
+  description: Plans Section
+  icon: "list"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: Pricing Section
-  list: 
+  title: Plans Section
+  items: 
     - label: Free
       itemActiveStyle: false
       minutesLabel: 90 min
