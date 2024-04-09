@@ -187,7 +187,7 @@
   background: #fff;
 }
 .experiences-center-container{
-  padding: 40px var(--global-padding);
+  padding: 80px var(--global-padding);
   box-sizing: border-box;
   max-width: var(--max-screen-width);
   margin: 0 auto;
@@ -294,5 +294,8 @@
     height: auto;
     /* max-height: 80px; */
     max-width: 260px;
+  }
+  .experiences-center-container{
+    padding: 40px var(--global-padding);
   }
 }
