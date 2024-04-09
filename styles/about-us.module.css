@@ -207,13 +207,10 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  max-width: 850px;
-  flex-wrap: wrap;
-  gap: 60px 2%;
+  max-width: 1100px;
+  gap: 0px 24px;
 }
 .experience-image{
-  width: 32%;
-  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -287,6 +284,7 @@
   .experience-flex{
     justify-content: center;
     gap: 24px 0;
+    flex-direction: column;
   }
   .experience-image img{
     max-height: 100px;
