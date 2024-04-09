@@ -71,23 +71,13 @@ content_blocks:
     subTitle: QuickTakes Testimonies
     slides:
         - avatar: /student_avatar.svg
-          name: Ken S.
-          grade: Sophomore
           description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
         - avatar: /student_avatar2.svg
-          name: Ken S.
-          grade: Sophomore
           description: QuickTakes is super easy to use. It makes learning super intuitive!
         - avatar: /student_avatar3.svg
-          name: Ken S.
-          grade: Sophomore
           description: This app is the best thing to have ever happened to me in my education!.
         - avatar: /student_avatar4.svg
-          name: Ken S.
-          grade: Sophomore
           description: QuickTakes is astoundingly useful, especially for people who struggle with ADHD!.
         - avatar: /student_avatar5.svg
-          name: Ken S.
-          grade: Sophomore
           description: I truly believe that QuickTakes is revolutionary!.
 ---

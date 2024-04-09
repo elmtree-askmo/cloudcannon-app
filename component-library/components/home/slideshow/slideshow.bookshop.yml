@@ -14,16 +14,6 @@ blueprint:
   subTitle: QuickTakes Testimonies
   slides:
       - avatar: /student_avatar.svg
-        name: Ken S.
-        grade: Sophomore
-        description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
-      - avatar: /student_avatar.svg
-        name: Ken S.
-        grade: Sophomore
-        description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
-      - avatar: /student_avatar.svg
-        name: Ken S.
-        grade: Sophomore
         description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
         
 
