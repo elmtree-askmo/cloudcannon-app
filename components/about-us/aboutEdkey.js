@@ -7,7 +7,7 @@ export default function AboutEdkey({content, block}){
         <div className={`${styles['about-aboutUs-center-container']}`}>
           <div className={styles['about-us-title']}>{block.contentTitle}</div>
           {
-            block.About_Edkey.map((item, index)=>(
+            block.items.map((item, index)=>(
               <div key={index} className={styles['auout-us-content']}>{item.paragraph}</div>
             ))
           }

@@ -5,7 +5,7 @@ export default function Benefit({content, block}){
       <div className={styles['benefit-container']}>
         <div className={`${styles['benefit-center-container']}`}>
             {
-                block.list.map((item,index)=>(
+                block.items.map((item,index)=>(
                     <div key={index} className={styles['benefit-item']}>
                         <div className={styles['benefit-item-txt-container']}>
                             <h3>{item.title}</h3>

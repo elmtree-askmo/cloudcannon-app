@@ -2,16 +2,16 @@
 title: Student About us
 content_blocks:
   - _bookshop_name: about-us/aboutEdkey
-    title: About Edkey section
+    title: About Us section
     contentTitle: About Us
-    About_Edkey:
+    items:
       - paragraph: >-
           Edkey Inc. is an educational technology company created by former principal Edmodo executives who collectively have more than 50 years of experience.  They have built educational apps and services at institutions including Edmodo, Stanford University, Redbird Advanced Learning, McGraw Hill and technology companies including Netscape, DoubleClick, Alexa, and more. Founded in Fall of 2022 in California, Edkey Inc., has roots in the SF Bay Area.
       - paragraph: >-
           Our flagship product, QuickTakes, is a freemium consumer app (available in the iOS and Android app stores and via web browser) offering an AI assistant or sidekick, to give learners an effective way to increase their understanding of their classes and grow their academic knowledge through AI and personalization technology. The QuickTakes app uses AI to return robust learning materials and provides an AI sidekick for more in-depth knowledge growth.
   - _bookshop_name: about-us/benefit
     title: Benefit section
-    list: 
+    items: 
       - title: Mission
         description: Our mission is to help all learners reach their full academic potential through new technologies.
         image: /mission.png

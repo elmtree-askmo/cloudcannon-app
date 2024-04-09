@@ -3,14 +3,14 @@
 spec:
   structures:
     - content_blocks
-  label: About Us About Edkey
-  description: About Us About Edkey
-  icon: "description"
+  label: About Us
+  description: About Us
+  icon: "peolple"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
-  title: About Edkey section
-  About_Edkey:
+  title: About Us section
+  items:
     - paragraph: Edkey's mission is to help life-long learners reach their full academic potential through new technologies that advance human intelligence through more effective learning & knowledge sharing.
 
     - paragraph: Our flagship products are QuickTakes and ClassMo. The QuickTakes consumer app (available in the iOS and Android app stores and via web browser) offers college students an easy and effective way to increase their understanding of their course lectures with the help of a personalized AI assistant. The QuickTakes app uses AI to return robust learning materials from class lecture recordings including study guides, outlines, glossaries, practice questions, recommended videos as well as an AI assistant for more in depth studying about the lecture subject matter.

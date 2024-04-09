@@ -5,12 +5,12 @@ spec:
     - content_blocks
   label: About Us Benefit
   description: About Us Benefit
-  icon: "description"
+  icon: "list"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Benefit section
-  list: 
+  items: 
     - title: Mission
       description: Our mission is to help all learners reach their full academic potential through new technologies.
       image: /mission.png
