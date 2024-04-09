@@ -5,13 +5,13 @@ spec:
     - content_blocks
   label: Education Book Mentions Section
   description: Education Book Mentions Section
-  icon: "help"
+  icon: "list"
 
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Education Book Mentions Section
   contentTitle: Book Mentions
-  list: 
+  items: 
     - image: /bookmentions.png
       title: "Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing) Book"
       auth: By Salman Khan

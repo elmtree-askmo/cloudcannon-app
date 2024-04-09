@@ -8,7 +8,7 @@ export default function Media({content, block}){
                 <h3>{block.contentTitle}</h3>
                 <div className={styles['media-list-container']}>
                     {
-                        block.list.map((item,index)=>(
+                        block.items.map((item,index)=>(
                             <div className={styles['media-list-item-container']} key={index}>
                                 <div className={styles['media-list-item-content']}>
                                     <div className={styles['media-list-item-image']}><img src={item.image} /></div>

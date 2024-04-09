@@ -8,7 +8,7 @@ export default function BookMentions({content, block}){
                 <h3>{block.contentTitle}</h3>
                 <div className={styles['bookmentions-list-container']}>
                     {
-                        block.list.map((item,index)=>(
+                        block.items.map((item,index)=>(
                             <div className={styles['bookmentions-list-item-container']} key={index}>
                                 <div className={styles['bookmentions-list-item-content']}>
                                     <div className={styles['bookmentions-list-item-image']}><img src={item.image} /></div>
