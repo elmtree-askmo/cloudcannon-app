@@ -1,11 +1,11 @@
 ---
 title: Plans
 content_blocks:
-    - _bookshop_name: pricing/intro
+    - _bookshop_name: plans/intro
       title: Plans introduction Section
       contentTitle: Plans
       description: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
-    - _bookshop_name: pricing/pricing
+    - _bookshop_name: plans/pricing
       title: Plans Section
       items: 
         - label: Free
@@ -77,7 +77,7 @@ content_blocks:
             - label: Youtube URL upload
               description: Part of free 90 min
               activeStyle: true
-    - _bookshop_name: pricing/contact
+    - _bookshop_name: plans/contact
       title: Plans contact Section
       description: Are you a university or institution interested in licensing QuickTakes for your students or employees? Email us at ${email} 
       buttontxt: Email Us

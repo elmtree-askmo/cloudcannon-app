@@ -18,9 +18,9 @@ import Partnerships from '../components/about-us/partnerships';
 import Introduction from '../components/education/introduction';
 import BookMentions from '../components/education/bookMentions';
 import Media from '../components/education/media';
-import Intro from '../components/pricing/intro';
-import Pricing from '../components/pricing/pricing';
-import Contact from '../components/pricing/contact';
+import Intro from '../components/plans/intro';
+import Pricing from '../components/plans/pricing';
+import Contact from '../components/plans/contact';
 
 export default function renderComponent(key, index, block){
     let targetComponent ;
@@ -67,13 +67,13 @@ export default function renderComponent(key, index, block){
         case "education/media":
             targetComponent = (<Media key={index} content={educationContent} block={block} />)
             break;
-        case "pricing/intro":
+        case "plans/intro":
             targetComponent = (<Intro key={index} content={pricingContent} block={block} />)
             break;
-        case "pricing/pricing":
+        case "plans/pricing":
             targetComponent = (<Pricing key={index} content={pricingContent} block={block} />)
             break;
-        case "pricing/contact":
+        case "plans/contact":
             targetComponent = (<Contact key={index} content={pricingContent} block={block} />)
             break;
         default:

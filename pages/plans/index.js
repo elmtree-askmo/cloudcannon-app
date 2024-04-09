@@ -35,10 +35,10 @@ export default function Education({page}) {
 }
 
 export async function getStaticProps(){
-  const page = await filer.getItem('pricing.md');
+  const page = await filer.getItem('plans.md');
   return{
     props:{
-      pageTitle:"Pricing",
+      pageTitle:"Plans",
       page
     }
   }
