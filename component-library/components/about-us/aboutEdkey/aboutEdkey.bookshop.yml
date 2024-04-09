@@ -10,6 +10,7 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: About Us section
+  contentTitle: About Us
   items:
     - paragraph: Edkey's mission is to help life-long learners reach their full academic potential through new technologies that advance human intelligence through more effective learning & knowledge sharing.
 
