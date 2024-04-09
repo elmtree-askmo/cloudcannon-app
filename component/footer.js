@@ -85,7 +85,7 @@ export default function Footer(){
                         </div>
                         <div>
                             <h4>Support</h4>
-                            <Link href="" onClick={(e)=>{e.preventDefault();setOpenContact(true)}} >Contact</Link>
+                            <Link href={`mailto:info@edkey.com`} >Contact</Link>
                             <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
                             <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
                         </div>
