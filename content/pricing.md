@@ -3,7 +3,7 @@ title: Pricing
 content_blocks:
     - _bookshop_name: pricing/intro
       title: Pricing intro Section
-      contentTitle: Pricing
+      contentTitle: Plans
       content: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
     - _bookshop_name: pricing/pricing
       title: Pricing Section
