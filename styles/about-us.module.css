@@ -180,6 +180,7 @@
   line-height: 21px;
   margin:0 ;
   letter-spacing: 0.4px;
+  font-family: "Helvetica Neue","Roboto", "Arial", sans-serif;
 }
 .founding-carousel-item-content .viewMore{
   display: none;
