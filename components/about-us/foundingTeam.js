@@ -40,12 +40,6 @@ export default function FoundingTeam({content, block}){
     }
   }
 
-  const checkIsMobile = () => {
-    let flag = navigator.userAgent.match(
-      /(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i
-    );
-    return flag;
-  }
   
   const isShowBtn = ()=>{
     const els = document.getElementsByClassName(`member-intro`);
@@ -53,8 +47,8 @@ export default function FoundingTeam({content, block}){
       const style = window.getComputedStyle(els[i]);
       const lineHeight = parseFloat(style.getPropertyValue("line-height"));
       const line = els[i].offsetHeight / lineHeight;
-      const height = els[i].offsetHeight;
-      if(checkIsMobile()){
+      const screen = window.innerWidth;
+      if(screen < 1024){
         if(line < 10){
           els[i].nextElementSibling.style.display = 'none';
         }else{
