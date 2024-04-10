@@ -44,9 +44,11 @@ export default function FoundingTeam({content, block}){
   const isShowBtn = ()=>{
     const els = document.getElementsByClassName(`member-intro`);
     const screenSize = window.innerWidth;
+    alert(screenSize)
     if(screenSize >= 1024)return;
     for(var i =0; i< els.length; i++){
       const height = els[i].offsetHeight;
+      alert(height)
       if(height < 207.97){
         els[i].nextElementSibling.style.display = 'none';
       }else{
