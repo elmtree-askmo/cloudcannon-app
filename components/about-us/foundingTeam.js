@@ -43,23 +43,31 @@ export default function FoundingTeam({content, block}){
   
   const isShowBtn = ()=>{
     const els = document.getElementsByClassName(`member-intro`);
+    const screenSize = window.innerWidth;
+    if(screenSize >= 1024)return;
     for(var i =0; i< els.length; i++){
-      const style = window.getComputedStyle(els[i]);
-      const lineHeight = parseFloat(style.getPropertyValue("line-height"));
-      const line = els[i].offsetHeight / lineHeight;
-      const screen = window.innerWidth;
-      if(screen < 1024){
-        if(line < 10){
-          els[i].nextElementSibling.style.display = 'none';
-        }else{
-          els[i].nextElementSibling.style.display = 'flex';
-        }
+      const height = els[i].offsetHeight;
+      if(height < 207.97){
+        els[i].nextElementSibling.style.display = 'none';
+      }else{
+        els[i].nextElementSibling.style.display = 'flex';
       }
+      // const style = window.getComputedStyle(els[i]);
+      // const lineHeight = parseFloat(style.getPropertyValue("line-height"));
+      // const line = els[i].offsetHeight / lineHeight;
+      // const screen = window.innerWidth;
+      // if(screen < 1024){
+      //   if(line < 10){
+      //     els[i].nextElementSibling.style.display = 'none';
+      //   }else{
+      //     els[i].nextElementSibling.style.display = 'flex';
+      //   }
+      // }
     }
   }
 
   useLayoutEffect(()=>{
-    // isShowBtn();
+    isShowBtn();
   },[])
 
     return (
