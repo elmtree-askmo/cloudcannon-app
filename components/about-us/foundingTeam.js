@@ -52,7 +52,7 @@ export default function FoundingTeam({content, block}){
         if(line < 10){
           els[i].nextElementSibling.style.display = 'none';
         }else{
-          els[i].nextElementSibling.style.display = 'inline-flex';
+          els[i].nextElementSibling.style.display = 'flex';
         }
       }
     }

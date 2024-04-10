@@ -195,6 +195,8 @@
   background-repeat: no-repeat;
   background-size: 24px 24px;
   cursor: pointer;
+  width: 112px;
+  box-sizing: border-box;
 }
 .founding-carousel-item-content .viewMore-active{
   background-image: url('/arrow-up.svg');
@@ -462,6 +464,6 @@
     -webkit-line-clamp: unset;
   }
   .founding-carousel-item-content .viewMore{
-    display: inline-flex;
+    display: flex;
   }
 }
