@@ -1,4 +1,4 @@
-import { useLayoutEffect, useRef, useState } from 'react';
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import styles from '../../styles/about-us.module.css';
 import { Button, Carousel } from 'antd';
 import SlideArrowLeft from '@/public/slide-arrow-left';
@@ -66,7 +66,7 @@ export default function FoundingTeam({content, block}){
     }
   }
 
-  useLayoutEffect(()=>{
+  useEffect(()=>{
     isShowBtn();
   },[])
 
