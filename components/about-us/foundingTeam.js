@@ -59,7 +59,7 @@ export default function FoundingTeam({content, block}){
   }
 
   useLayoutEffect(()=>{
-    isShowBtn();
+    // isShowBtn();
   },[])
 
     return (
