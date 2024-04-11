@@ -43,6 +43,7 @@ content_blocks:
           - image: /schoolLogo/ucsb.svg
           - image: /schoolLogo/stanford.svg
           - image: /schoolLogo/columbia.svg
+          - image: /schoolLogo/berkeley.svg
       - logos:
           - image: /schoolLogo/cornell.svg
           - image: /schoolLogo/rutgers.svg
@@ -87,11 +88,9 @@ content_blocks:
     subTitle: QuickTakes Testimonies
     slides:
       - avatar: /student_avatar.svg
-        description: >-
+        description: >
           "This app is exactly what I was looking for AND MORE! Everything is SO
-          useful for studying."
-
-          Madi K, Sophomore
+          useful for studying." Lucas G, Senior
       - avatar: /student_avatar2.svg
         description: |-
           "QuickTakes is super easy to use. It makes learning super intuitive!"
@@ -101,7 +100,7 @@ content_blocks:
           "This app is the best thing to have ever happened to me in my
           education!"
 
-          Lucas G, Senior
+          Madi K, Sophomore
       - avatar: /student_avatar4.svg
         description: >-
           "QuickTakes is astoundingly useful, especially for people who struggle
@@ -111,7 +110,7 @@ content_blocks:
       - avatar: /student_avatar5.svg
         description: |-
           "I truly believe that QuickTakes is revolutionary!"
-          Lauren B, Sophomore
+          James B, Sophomore
       - avatar: /student_avatar.svg
         description: >-
           "As a professor I highly recommend giving this app a shot so you can
