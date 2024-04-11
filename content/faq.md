@@ -4,7 +4,10 @@ content_blocks:
   - _bookshop_name: faq/questionSection
     title: FAQ Section
     contentTitle: FAQ
-    description: Here are some frequently asked questions about QuickTakes and how it works. If these FAQs do not answer your specific question, then we recommend sending an email to ${email}
+    description: >-
+      Here are some frequently asked questions about QuickTakes and how it
+      works. If these FAQs do not answer your specific question, then we
+      recommend sending an email to ${email}
     email: support@edkey.com
     items:
       - question: How do I sign up for QuickTakes?
@@ -81,15 +84,9 @@ content_blocks:
           videos)?
         answer: >-
           <p>To record a non-live lecture (such as a Youtube video or audio
-          lecture) we have a work-around while we develop the ability to insert
-          a video/audio URL. You'll need to have another (second) device such as
-          a computer - one for playing the pre-recorded lecture and one for
-          using QuickTakes. Download the QuickTakes app to your phone (available
-          in both Apple App Store and Google Play Store). Launch the QuickTakes
-          app on your mobile device and press record keeping the phone near your
-          computer where you are playing the pre-recorded online audio. End the
-          recording when the online audio is over and you’ll get a QuickTake
-          returned to you.</p>
+          lecture) simply upload your audio/video file, pdf or paste a Youtube
+          URL and you'll get returned a QuickTake! PDFs are free to upload
+          without taking any of your recording time (your'e welcome!).</p>
       - question: Can I listen to the lecture I recorded to receive a QuickTake?
         answer: >-
           While we do make recordings, those recordings are fed into an
