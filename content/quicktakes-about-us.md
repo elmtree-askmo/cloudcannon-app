@@ -99,21 +99,19 @@ content_blocks:
         name: Darian Patchin
         title: Head of Go-to-Market
         description: >-
-          As a co-founder and VP of Marketing Operations at Edkey, Darian
-          spearheads initiatives to connect students with transformational AI
-          services to help them reach their full academic potential. He focuses
-          on go-to-market strategy, driving user acquisition, engagement as well
-          as product marketing and customer support. Darian's expertise spans
-          the K-12 and higher ed markets, domestically and internationally,
-          focusing on B-to-B and B-to-C services. Darian's career highlights
-          include leadership roles at prominent educational platforms like
-          Edmodo, McGraw-Hill Education and GiftedandTalented.com (originating
-          out of Stanford University), where he orchestrated hyper-growth
-          marketing launches. He’s held leadership positions at seminal Internet
-          consumer start-ups including Alexa Internet, Tribe.com, eTour and
-          Freeloader. Darian's diverse interests include wine, food, soccer, and
-          sci-fi. Darian graduated from Ohio Wesleyan University with a B.A. in
-          History.
+          As a co-founder and head of Marketing at Edkey, Darian spearheads
+          initiatives to connect students with transformational AI services to
+          help them reach their full academic potential. He focuses on
+          go-to-market strategy, driving user acquisition, engagement as well as
+          product marketing and customer support. Darian's expertise spans the
+          K-12 and higher ed markets, domestically and internationally, focusing
+          on B-to-B and B-to-C services. Darian's career highlights include
+          leadership roles at prominent educational platforms like Edmodo,
+          McGraw-Hill Education and GiftedandTalented.com (originating out of
+          Stanford University), where he orchestrated hyper-growth marketing
+          launches. He’s held leadership positions at seminal Internet consumer
+          start-ups including Alexa Internet, Tribe.com, eTour and Freeloader.
+          He graduated from Ohio Wesleyan University with a B.A. in History.
   - _bookshop_name: about-us/partnerships
     title: Partnerships section
     contentTitle: Partnerships
