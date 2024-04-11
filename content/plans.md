@@ -8,8 +8,9 @@ content_blocks:
       At QuickTakes, we are committed to keeping cutting-edge technology in
       education accessible to all, which is why we will always offer a free
       version of the service to our users. We have multiple subscription options
-      for your convenience whether you rely on QuickTakes everyday or less
-      often.
+      available in 3 and 6 month increments whether you rely on QuickTakes
+      everyday or less often. To purchase sign into QuickTakes (on the web or
+      via the mobile apps) and go to the Store tab.
   - _bookshop_name: plans/pricing
     title: Plans Section
     items:
@@ -67,8 +68,8 @@ content_blocks:
       - label: Premium
         itemActiveStyle: true
         minutesLabel: 1,110 min
-        description: One time purchase
-        remark: Good for 1 month
+        description: weekly recording time
+        remark: Reloads weekly
         supportAbility:
           - label: 90 minutes of free recording time
             description: Reloads weekly
