@@ -43,6 +43,7 @@ content_blocks:
           - image: /schoolLogo/ucsb.svg
           - image: /schoolLogo/stanford.svg
           - image: /schoolLogo/columbia.svg
+          - image: /schoolLogo/colgate.svg
       - logos:
           - image: /schoolLogo/cornell.svg
           - image: /schoolLogo/rutgers.svg
@@ -93,8 +94,7 @@ content_blocks:
         name: Lucas G
         grade: Senior
       - avatar: /student_avatar2.svg
-        description: |-
-          "QuickTakes is super easy to use. It makes learning super intuitive!"
+        description: '"QuickTakes is super easy to use. It makes learning super intuitive!"'
         name: Robert R
         grade: Freshman
       - avatar: /student_avatar3.svg
@@ -110,8 +110,7 @@ content_blocks:
         name: Jackie M
         grade: Junior
       - avatar: /student_avatar5.svg
-        description: |-
-          "I truly believe that QuickTakes is revolutionary!"
+        description: '"I truly believe that QuickTakes is revolutionary!"'
         name: James B
         grade: Sophomore
       - avatar: /student_avatar.svg
