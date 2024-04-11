@@ -89,31 +89,35 @@ content_blocks:
       - avatar: /student_avatar.svg
         description: >
           "This app is exactly what I was looking for AND MORE! Everything is SO
-          useful for studying." Lucas G, Senior
+          useful for studying." 
+        name: Lucas G
+        grade: Senior
       - avatar: /student_avatar2.svg
         description: |-
           "QuickTakes is super easy to use. It makes learning super intuitive!"
-          Robert R, Freshman
+        name: Robert R
+        grade: Freshman
       - avatar: /student_avatar3.svg
         description: >-
           "This app is the best thing to have ever happened to me in my
           education!"
-
-          Madi K, Sophomore
+        name: Madi K
+        grade: Sophomore
       - avatar: /student_avatar4.svg
         description: >-
           "QuickTakes is astoundingly useful, especially for people who struggle
           with ADHD!"
-
-          Jackie M, Junior
+        name: Jackie M
+        grade: Junior
       - avatar: /student_avatar5.svg
         description: |-
           "I truly believe that QuickTakes is revolutionary!"
-          James B, Sophomore
+        name: James B
+        grade: Sophomore
       - avatar: /student_avatar.svg
         description: >-
           "As a professor I highly recommend giving this app a shot so you can
           focus on the lecture."
-
-          Charles, Professor
+        name: Charles
+        grade: Professor
 ---

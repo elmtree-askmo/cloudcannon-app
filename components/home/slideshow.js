@@ -27,9 +27,9 @@ export default function Slideshow({content, block}){
                                     <div className={styles['carousel-item-avatar']}><img src={item.avatar} /></div>
                                     <div className={styles['carousel-item-info']}>
                                         <p className={styles['carousel-item-comment']}>{item.description}</p>
-                                        {/* <p className={styles['carousel-item-user']}>
+                                        <p className={styles['carousel-item-user']}>
                                             <span>{item.name}</span> - <span>{item.grade}</span>
-                                        </p> */}
+                                        </p>
                                     </div>
                                 </div>
                             ))
