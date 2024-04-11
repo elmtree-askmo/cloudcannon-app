@@ -43,7 +43,6 @@ content_blocks:
           - image: /schoolLogo/ucsb.svg
           - image: /schoolLogo/stanford.svg
           - image: /schoolLogo/columbia.svg
-          - image: /schoolLogo/berkeley.svg
       - logos:
           - image: /schoolLogo/cornell.svg
           - image: /schoolLogo/rutgers.svg
