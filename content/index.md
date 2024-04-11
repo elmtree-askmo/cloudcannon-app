@@ -38,7 +38,7 @@ content_blocks:
     slides:
       - logos:
           - image: /schoolLogo/berkeley.svg
-          - image: /schoolLogo/colgate.svg
+          - image: /schoolLogo/mrgill.svg
           - image: /schoolLogo/penn.svg
           - image: /schoolLogo/ucsb.svg
           - image: /schoolLogo/stanford.svg
@@ -48,7 +48,7 @@ content_blocks:
           - image: /schoolLogo/cornell.svg
           - image: /schoolLogo/rutgers.svg
           - image: /schoolLogo/princeton.svg
-          - image: /schoolLogo/mrgill.svg
+          - image: /schoolLogo/colgate.svg
           - image: /schoolLogo/duke.svg
           - image: /schoolLogo/michigan.svg
       - logos:
