@@ -66,7 +66,7 @@ content_blocks:
       title: Personalize Studying
       description: >-
         Record live lectures, upload audio and video files, and insert Youtube
-        URLs then get back an Ai-generated QuickTake.
+        URLs then get back an AI-generated QuickTake.
     leftSideContent_b:
       title: Stay Organized
       description: >-
