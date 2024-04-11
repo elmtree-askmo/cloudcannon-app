@@ -28,7 +28,7 @@ export default function App({ Component, pageProps }) {
   const renderLayout = ()=>(
       <>
         <Head>
-          <meta name="keywords" content="QuickTakes, QuickTakes AI, College AI Tool, College Study Tool, AI Learning Tool, AI in Education, AI Tutor, Study Tool, AI Help, Smart Learning, Study Assistant, Study Sidekick, AI-Enhanced Learning, AI Study Buddy, AI Notetaker, AI Study Guide, AI Flashcards (for future), College Resources, University Resources, College Flashcards (for future), Lecture Notes, Note Taking Service, Interactive Learning, Lecture Transcription, Academic Performance, ADHD, Learning Disability " />
+          <meta name="keywords" content="QuickTakes, QuickTakes AI, College AI Tool, College Study Tool, AI Learning Tool, AI in Education, AI Tutor, Study Tool, AI Help, Smart Learning, Study Assistant, Study Sidekick, AI-Enhanced Learning, AI Study Buddy, AI Notetaker, AI Study Guide, College Resources, University Resources, Lecture Notes, Note Taking Service, Interactive Learning, Lecture Transcription, Academic Performance, ADHD, Learning Disability " />
         </Head>
         {/* <!-- Google Tag Manager --> */}
         <Script>
