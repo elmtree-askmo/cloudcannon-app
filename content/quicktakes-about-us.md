@@ -50,7 +50,7 @@ content_blocks:
           initiatives. Garwin was the Chief Financial Officer at The Third Stone
           Holdings Limited, where he oversaw the parent company of the 5Miles
           app and held multiple leadership roles at Bain Capital. Garwin
-          received his B.A. and M.B.A. from Harvard Business School.
+          received his B.A. and M.B.A. from Harvard University.
       - avatar: /images/photo-George.webp
         name: George Chen
         title: President
