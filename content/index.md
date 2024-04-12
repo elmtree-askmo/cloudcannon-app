@@ -48,7 +48,6 @@ content_blocks:
           - image: /schoolLogo/cornell.svg
           - image: /schoolLogo/rutgers.svg
           - image: /schoolLogo/princeton.svg
-          - image: /schoolLogo/colgate.svg
           - image: /schoolLogo/duke.svg
           - image: /schoolLogo/michigan.svg
       - logos:
