@@ -40,17 +40,17 @@ content_blocks:
         name: Garwin Chan
         title: CEO
         description: >-
-          Garwin Chan is a visionary entrepreneur with a background spanning
-          corporate strategy, private market investing, and cutting-edge
-          technology. As the Co-founder and CEO of Edkey Inc, Garwin spearheads
-          the application of the latest technologies to enhance learning
-          efficacy and foster knowledge sharing. Previously he was the Chief
-          Strategy Officer at Edmodo and its parent company, Netdragon, where he
-          drove country level partnerships among other education innovation
-          initiatives. Garwin was the Chief Financial Officer at The Third Stone
-          Holdings Limited, where he oversaw the parent company of the 5Miles
-          app and held multiple leadership roles at Bain Capital. Garwin
-          received his B.A. and M.B.A. from Harvard Business School.
+          Garwin Chan is an entrepreneur with a background spanning corporate
+          strategy, private market investing, and cutting-edge technology. As
+          the Co-founder and CEO of Edkey Inc, Garwin spearheads the application
+          of the latest technologies to enhance learning efficacy and foster
+          knowledge sharing. Previously he was the Chief Strategy Officer at
+          Edmodo and its parent company, Netdragon, where he drove country level
+          partnerships among other education innovation initiatives. Garwin was
+          the Chief Financial Officer at The Third Stone Holdings Limited, where
+          he oversaw the parent company of the 5Miles app and held multiple
+          leadership roles at Bain Capital. Garwin received his B.A. and M.B.A.
+          from Harvard Business School.
       - avatar: /images/photo-George.webp
         name: George Chen
         title: President
