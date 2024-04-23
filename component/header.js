@@ -192,7 +192,7 @@ export default function Header({ role, pageStr, pathname }) {
                         />
                     </div>
                     <div className={styles["drawer-container"]}>
-                        <Link href={'/quicktakes-about-us'} onClick={()=>{ setOpenMenu(false)}}>About</Link>
+                        <Link href={'/quicktakes-about-us'} onClick={()=>{ setOpenMenu(false)}}>About Us</Link>
                         <Link href={'/faq'} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
                         <Link href={'/education'} onClick={()=>{ setOpenMenu(false)}}>AI in Education</Link>
                         <Link href={'/plans'} onClick={()=>{ setOpenMenu(false)}}>Plans</Link>

@@ -75,7 +75,7 @@ export default function Footer(){
                     <div className={styles['footer-mid']}>
                         <div>
                             <h4>QuickTakes</h4>
-                            <Link href="/quicktakes-about-us">About us</Link>
+                            <Link href="/quicktakes-about-us">About Us</Link>
                             <Link href="/plans">Plans</Link>
                         </div>
                         <div>
