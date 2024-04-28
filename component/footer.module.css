@@ -43,12 +43,26 @@
     text-align: center;
     font-weight: 700;
     cursor: pointer;
+    margin-right: 24px;
 }
 .footer-left .signup-button:hover{
     filter: brightness(1.09);
     color: var(--student-font-color) !important;
+    background: var(--student-button-theme) !important;
 }
-
+.footer-left .button-group{
+    display: flex;
+    align-items: center;
+}
+.footer-left .button-group .socialmeida-container{
+    display: flex;
+    align-items: center;
+    gap: 0 16px;
+}
+.footer-left .button-group .socialmeida-container img{
+    margin-bottom: 0;
+    cursor: pointer;
+}
 
 .footer-mid{
     display: flex;
@@ -214,12 +228,16 @@
     }
     .footer-left{
         align-items: center;
-        padding-bottom: 40px;
-        border-bottom: 1px solid #484D5C;
+        padding-bottom: 8px;
     }
     .footer-left .signup-button{
-        width: 100%;
+        /* width: 100%; */
         max-width: 450px;
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    .footer-left .button-group{
+        flex-direction: column;
     }
     .footer-left p{
         text-align: center;

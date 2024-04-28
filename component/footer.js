@@ -70,7 +70,20 @@ export default function Footer(){
                             unoptimized
                         />
                         <p>Study Smarter, Learn Faster</p>
-                        <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+                        <div className={styles['button-group']}>
+                            <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+                            <div className={styles['socialmeida-container']}>
+                                <Link href="https://www.instagram.com/quicktakes.io/" target="_blank" >
+                                    <img src="/socialmedia/ins.svg" />
+                                </Link>
+                                <Link href="https://www.tiktok.com/@quicktakes.io" target="_blank" >
+                                    <img src="/socialmedia/tiktok.svg" />
+                                </Link>
+                                <Link href="https://www.youtube.com/@Edkey_QuickTakes" target="_blank" >
+                                    <img src="/socialmedia/youtube.svg" />
+                                </Link>
+                            </div>
+                        </div>
                     </div>
                     <div className={styles['footer-mid']}>
                         <div>
