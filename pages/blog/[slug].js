@@ -24,7 +24,7 @@ export default function Post({page}){
                     <h2 className={styles["blog-content-title"]}>{page.data.title}</h2>
                     <p className={styles["blog-content-description"]}>{page.data.description}</p>
                     <span className={styles["blog-content-date"]}>Posted on {moment(page.data?.date).format('MMM DD, YYYY')}</span>
-                    <div dangerouslySetInnerHTML={{__html:page.content_html}}></div>
+                    <div className={styles["blog-content-editor-container"]} dangerouslySetInnerHTML={{__html:page.content_html}}></div>
                 </div>
             </div>
         </>

@@ -135,6 +135,10 @@
     margin: 0 0 48px;
     font-size: 14px;
 }
+.blog-content-editor-container img{
+    display: block;
+    width: 100%;
+}
 
 @media (max-width: 1023px){
     .blogHeader-center-container, .blog-content-center-container{
