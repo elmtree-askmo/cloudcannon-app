@@ -19,7 +19,7 @@ export default function AboutUs({layoutType, role, pageStr, page}) {
     <>
       <Head>
         <title>About Us | QuickTakes | Meet the Team | Edkey, Inc.</title>
-        <meta property="og:description" content="QuickTakes, by Edkey, Inc., is an AI-powered app that helps college students study smarter and learn faster. Learn more about our team and our vision!" />
+        <meta name="description" property="og:description" key="description" content="QuickTakes, by Edkey, Inc., is an AI-powered app that helps college students study smarter and learn faster. Learn more about our team and our vision!" />
       </Head>
       <div className={styles['about-us']}>
         {

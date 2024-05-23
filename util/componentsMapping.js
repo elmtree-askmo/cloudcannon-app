@@ -3,6 +3,7 @@ import { questionsList } from '../staticProps/faq.content';
 import { aboutUsContent } from '../staticProps/aboutUs.content';
 import { educationContent } from '../staticProps/education.content';
 import { pricingContent } from '../staticProps/pricing.content';
+import { blogContent } from '../staticProps/blog.content';
 
 import Banner from '../components/home/banner';
 import Landscape from '../components/home/landscape';
@@ -21,8 +22,11 @@ import Media from '../components/education/media';
 import Intro from '../components/plans/intro';
 import Pricing from '../components/plans/pricing';
 import Contact from '../components/plans/contact';
+import BlogHeader from '../components/blog/blogHeader';
+import BlogList from '../components/blog/blogList';
 
-export default function renderComponent(key, index, block){
+
+export default function renderComponent(key, index, block, posts){
     let targetComponent ;
     switch (key) {
         case "home/banner":
@@ -75,6 +79,12 @@ export default function renderComponent(key, index, block){
             break;
         case "plans/contact":
             targetComponent = (<Contact key={index} content={pricingContent} block={block} />)
+            break;
+        case "blog/blogHeader":
+            targetComponent = (<BlogHeader key={index} content={blogContent} block={block} />)
+            break;
+        case "blog/blogList":
+            targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} />)
             break;
         default:
             targetComponent = null;

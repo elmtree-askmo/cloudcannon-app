@@ -23,7 +23,7 @@ export default function Education({page}) {
   <>
     <Head>
       <title>Plans | Pricing | QuickTakes Subscription Packages</title>
-      <meta property="og:description" content="At QuickTakes, we aim to make cutting-edge technology in education accessible to all. We offer a free version of the service and low-cost subscription options." />
+      <meta name="description" property="og:description" key="description" content="At QuickTakes, we aim to make cutting-edge technology in education accessible to all. We offer a free version of the service and low-cost subscription options." />
     </Head>
     {
       blocks.map((item, index)=>{

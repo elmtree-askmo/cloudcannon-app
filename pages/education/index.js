@@ -23,7 +23,7 @@ export default function Education({content, pageTitle ,layoutType, role, pageStr
   <>
     <Head>
       <title>AI in Education | Adaptive Learning | AI Resources</title>
-      <meta property="og:description" content="Get more information about AI in Education from thought leaders in the edtech space and beyond. Explore cutting-edge advancements from AI companies." />
+      <meta name="description" property="og:description" key="description" content="Get more information about AI in Education from thought leaders in the edtech space and beyond. Explore cutting-edge advancements from AI companies." />
     </Head>
     {
       blocks.map((item, index)=>{

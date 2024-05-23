@@ -25,6 +25,11 @@
 			"link": "/plans",
 			"text": "Plans",
 			"type": "Link"
+		},
+		{
+			"link": "/blog",
+			"text": "Blog",
+			"type": "Link"
 		}
 	],
 	"_inputs": {

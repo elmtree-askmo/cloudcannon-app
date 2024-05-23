@@ -23,7 +23,7 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
   <>
     <Head>
       <title>FAQ | Frequently Asked Questions | QuickTakes Support</title>
-      <meta property="og:description" content=" Learn more about QuickTakes and common questions on our FAQ page. If you still need more information, our support team is ready to help you at support@edkey.com" />
+      <meta name="description" property="og:description" key="description" content=" Learn more about QuickTakes and common questions on our FAQ page. If you still need more information, our support team is ready to help you at support@edkey.com" />
     </Head>
     {
       blocks.map((item, index)=>{
