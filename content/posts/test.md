@@ -1,18 +1,26 @@
 ---
 _schema: default
 date: 2024-05-21T11:12:00Z
-title: 5 Study Methods to Live By 5 Study Methods to Live By 5 Study Methods to Live By
-description: Discover unconventional study methods for college success! From Memory Palaces to Sleep Studying, learn how to enhance learning efficiency and conquer academic challenges. 
+title: >-
+  5 Study Methods to Live By 5 Study Methods to Live By 5 Study Methods to Live
+  By
+description: >-
+  Discover unconventional study methods for college success! From Memory Palaces
+  to Sleep Studying, learn how to enhance learning efficiency and conquer
+  academic challenges.
 seo:
   title: 5 Study Methods to Live By
-  page_description: Discover unconventional study methods for college success! From Memory Palaces to Sleep Studying, learn how to enhance learning efficiency and conquer academic challenges. 
-  page_keywords: 
+  page_description: >-
+    Discover unconventional study methods for college success! From Memory
+    Palaces to Sleep Studying, learn how to enhance learning efficiency and
+    conquer academic challenges.
+  page_keywords:
 author: allen
 featuredImg:
-  image: https://www.studyfetch.com/_next/image?url=https%3A%2F%2Fstudyfetchcms.com%2Fcontent%2Fimages%2F2024%2F05%2Fangelawan9_cartoon_study_aesthetic_a34efa92-3cf8-4982-ac35-543aa3dba4dd.png&w=1920&q=75&dpl=dpl_TrkEvLzBXGAxH4eiunmdvuuyqmDt
+  image: >-
+    https://www.studyfetch.com/_next/image?url=https%3A%2F%2Fstudyfetchcms.com%2Fcontent%2Fimages%2F2024%2F05%2Fangelawan9_cartoon_study_aesthetic_a34efa92-3cf8-4982-ac35-543aa3dba4dd.png&w=1920&q=75&dpl=dpl_TrkEvLzBXGAxH4eiunmdvuuyqmDt
   image_alt: test
 ---
-
 **Sleep Studying**
 
 Famous actors will have you believing that they never even saw the script but just spoke the words in their hearts. Fortunately for you, sleep studying is one of the secrets to this god-like memorization. Sleep studying is the act of studying, you guessed it, right before going to sleep. This may seem strange or too simple, but sleeping is essential for our brains. Lack of sleep can genuinely cause brain upset and side effects like hallucination or psychosis. Likewise, getting a whole night’s rest helps your brain to organize the information you have gained that day. This is crucial to your cognitive function as the ability to recall in the morning is usually much stronger.
@@ -44,5 +52,7 @@ To know if one has truly mastered a subject, you need the ability to teach it. T
 **Acronyms & Mnuemonics**
 
 Need to remember a large list of information? This method is best for STEM students looking for a way to remember different sequences in their material. Making your information memorable and easy to recall is a technique that may not be unfamiliar. For example, “My Very Educated Mother Serves Us Noodles” is a way to remember the planet’s names: Mercury, Venus, Earth, Mars, Saturn, Uranus, and Neptune (R.I.P. Pluto). “Please Excuse My Dear Aunt Sally” is another example of a mnemonic used in math to represent the order of operations of algebra known as PEMDAS. This helps students to remember the order of the letters in their heads and take a fun approach to learning.
+
+![](/uploads/t-1.webp)
 
 <br>
