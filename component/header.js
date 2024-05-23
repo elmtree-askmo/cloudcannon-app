@@ -195,8 +195,8 @@ export default function Header({ role, pageStr, pathname }) {
                         <Link href={'/quicktakes-about-us'} onClick={()=>{ setOpenMenu(false)}}>About Us</Link>
                         <Link href={'/faq'} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
                         <Link href={'/education'} onClick={()=>{ setOpenMenu(false)}}>AI in Education</Link>
-                        <Link href={'/plans'} onClick={()=>{ setOpenMenu(false)}}>Plans</Link>
                         <Link href={'/blog'} onClick={()=>{ setOpenMenu(false)}}>Blog</Link>
+                        <Link href={'/plans'} onClick={()=>{ setOpenMenu(false)}}>Plans</Link>
                         <Link href="" onClick={handleLogin}>Login</Link>
                         <Link href="" onClick={handleSignUp}>Sign Up</Link>
                     </div>

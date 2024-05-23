@@ -22,13 +22,13 @@
 			]
 		},
 		{
-			"link": "/plans",
-			"text": "Plans",
+			"link": "/blog",
+			"text": "Blog",
 			"type": "Link"
 		},
 		{
-			"link": "/blog",
-			"text": "Blog",
+			"link": "/plans",
+			"text": "Plans",
 			"type": "Link"
 		}
 	],
