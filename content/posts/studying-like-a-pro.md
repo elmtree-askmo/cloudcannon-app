@@ -18,7 +18,7 @@ seo:
 author: allenchen
 featuredImg:
   image: >-
-    /public/uploads/angelawan9-cartoon-studying-aesthetic-with-person-in-cafe-5036095d-82b0-4a11-b21d-58e82adfc4be.webp
+    /uploads/angelawan9-cartoon-studying-aesthetic-with-person-in-cafe-5036095d-82b0-4a11-b21d-58e82adfc4be-1.webp
   image_alt: test
 ---
 Why are my grades not improving? We all struggle to study sometimes, and motivation can be hard to find. With so many classes, responsibilities, and lives students need to lead, it can take a lot of work to get into a studying rhythm. While you may feel like you’ve tried every method, allow us to enlighten you on a few more you may have missed. The PQ4R method and the Leitner System are used by high-performing students daily. These methods are time-tested and backed by high-ranking Universities that have researched the best study methods. Join the ranks of the elite when you use these two methods daily.
