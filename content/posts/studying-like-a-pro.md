@@ -25,7 +25,7 @@ Why are my grades not improving? We all struggle to study sometimes, and motivat
 
 &nbsp;
 
-The PQ4R Method:
+# The PQ4R Method:
 
 For learners who need an active engagement with the content of their subject with a focus on memorization, there is the PQ4R method. The name is an acronym for the six steps to this method.
 
