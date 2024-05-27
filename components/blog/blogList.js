@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import styles from '../../styles/blog.module.css';
 import moment from 'moment';
+import { Button } from 'antd';
 
 export default function BlogList({content, block, posts}){
     console.log(posts)
@@ -15,6 +16,7 @@ export default function BlogList({content, block, posts}){
                                 <h3>{item.data?.title}</h3>
                                 <p>{item.data?.description}</p>
                                 <span>Posted on {moment(item.data?.date).format('MMM DD, YYYY')}</span>
+                                <Button type="ghost" className={styles['blogList-list-item-viewmore']}>View More</Button>
                             </Link>
                         ))
                     }

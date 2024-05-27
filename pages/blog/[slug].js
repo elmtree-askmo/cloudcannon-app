@@ -19,11 +19,17 @@ export default function Post({page}){
             </Head>
             <div className={styles['blog-content-container']}>
                 <div className={styles['blog-content-center-container']}>
-                    <Link href="/blog" className={styles["blog-back-btn"]} ><img src="/backIcon.svg" /> Back</Link>
-                    <div className={styles["blog-featured-image"]}><img src={page.data.featuredImg.image} /></div>
-                    <h2 className={styles["blog-content-title"]}>{page.data.title}</h2>
+                    <h2 className={styles["blog-content-title"]}>
+                        <Link href="/blog" className={styles["blog-back-btn"]} ><img src="/backIcon.svg" /></Link>
+                        {page.data.title}
+                    </h2>
                     <p className={styles["blog-content-description"]}>{page.data.description}</p>
                     <span className={styles["blog-content-date"]}>Posted on {moment(page.data?.date).format('MMM DD, YYYY')}</span>
+                    <div className={styles["blog-featured-image"]}><img src={page.data.featuredImg.image} /></div>
+                </div>
+            </div>
+            <div className={styles['blog-content-article-container']}>
+                <div className={styles['blog-content-article-center-container']}>
                     <div className={styles["blog-content-editor-container"]} dangerouslySetInnerHTML={{__html:page.content_html}}></div>
                 </div>
             </div>
