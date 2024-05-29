@@ -3,12 +3,10 @@ _schema: default
 date: 2024-05-30T00:00:00Z
 title: How can AI close the gap for students with disabilities?
 description: >-
-  In the present day, learning disabilities are not a new phenomenon for
-  universities and educators worldwide, but artificial intelligence (AI) still
-  relatively is. With many colleges long utilizing physical notetakers or
-  long-standing closed-captioning software, disabilities student centers are now
-  turning to emerging AI companies as a way to bridge the learning gap for
-  students with disabilities. 
+  Explore how emerging AI technologies are revolutionizing accessibility for
+  students with disabilities in higher education. From accurate notetaking and
+  real-time captioning to customizable text-to-speech and personalized study
+  materials, AI is bridging the learning gap and fostering inclusivity. 
 seo:
   title: AI for Disability Services Centers at Universities/Colleges
   page_description: >-
