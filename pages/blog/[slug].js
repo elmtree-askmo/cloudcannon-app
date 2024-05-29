@@ -6,12 +6,11 @@ import moment from 'moment';
 
 const filer = new Filer({ path: 'content' });
 export default function Post({page}){
-    console.log(page)
     return (
         <>
             <Head>
-                <title>{page.data.seo.title}</title>
-                <meta name="description" property="og:description" key="description" content={page.data.seo.page_description} />
+                <title>{page.data.seo.title || page.data.title}</title>
+                <meta name="description" property="og:description" key="description" content={page.data.seo.page_description || page.data.description} />
                 {
                     page.data.seo.page_keywords &&
                     <meta name="keywords" property="og:keywords" key="keywords" content={page.data.seo.page_keywords} />

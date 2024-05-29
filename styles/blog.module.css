@@ -111,7 +111,7 @@
 }
 .blogList-list-item>div>img{
     display: block;
-    max-width: 500px;
+    max-width: 360px;
 }
 .blogList-list-item-viewmore{
     all: unset;
@@ -202,5 +202,11 @@
     .blog-back-btn{
         position: unset;
         margin-bottom: 24px;
+    }
+    .blog-featured-image{
+        height: auto;
+    }
+    .blog-featured-image img{
+        max-width: 100vw;
     }
 }
