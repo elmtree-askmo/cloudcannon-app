@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-05-29T00:00:00Z
+date: 2024-05-30T00:00:00Z
 title: How can AI close the gap for students with disabilities?
 description: >-
   In the present day, learning disabilities are not a new phenomenon for
@@ -10,9 +10,13 @@ description: >-
   turning to emerging AI companies as a way to bridge the learning gap for
   students with disabilities. 
 seo:
-  title:
-  page_description:
-  page_keywords:
+  title: AI for Disability Services Centers at Universities/Colleges
+  page_description: >-
+    There is a desperate need for accessible technology for students and campus
+    disability centers, and artificial intelligence (AI) is the solution.
+  page_keywords: >-
+    artificial intelligence, AI, disabilities, learning disability, university,
+    college, disability services
 author: QuickTakes
 featuredImg:
   image: /uploads/learning-disabilities-blog.png
