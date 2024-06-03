@@ -13,7 +13,7 @@ export default function SmartBanner({hideBanner, role, pageStr}){
         hideBanner();
     }
     const handleClickView = ()=>{
-        mixpanel.track(`Siter ${role + pageStr}Click View Deeplink`)
+        mixpanel.track(`MarketingPage_SmartBanner_View`)
     }
 
     return (
