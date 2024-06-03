@@ -3,9 +3,16 @@ import Head from "next/head";
 import styles from '../../styles/blog.module.css';
 import Link from "next/link";
 import moment from 'moment';
+import mixpanel from "mixpanel-browser";
+import { useEffect } from "react";
 
 const filer = new Filer({ path: 'content' });
 export default function Post({page}){
+    useEffect(() => {
+        mixpanel.track("MarketingPage_Article", { title: page.data.title });
+      }, [])
+
+    
     return (
         <>
             <Head>

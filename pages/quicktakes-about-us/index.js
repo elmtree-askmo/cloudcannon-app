@@ -12,7 +12,7 @@ const filer = new Filer({path: 'content'})
 export default function AboutUs({layoutType, role, pageStr, page}) {
   const blocks = page.data.content_blocks;
   useEffect(()=>{
-    mixpanel.track("Siter Student (About us) Open")
+    mixpanel.track("MarketingPage_AboutUs")
   },[])
 
   return (

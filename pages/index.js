@@ -19,7 +19,7 @@ export default function Home({layoutType, role, pageStr, page}) {
   const blocks = page.data.content_blocks;
   
   useEffect(()=>{
-      mixpanel.track("Siter Student Open")
+      mixpanel.track("MarketingPage_Home")
   },[])
 
   return (

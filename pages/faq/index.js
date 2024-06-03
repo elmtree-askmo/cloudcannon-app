@@ -16,7 +16,7 @@ export default function FAQ({content, pageTitle ,layoutType, role, pageStr, page
   const blocks = page.data.content_blocks;
 
   useEffect(() => {
-    mixpanel.track("Siter Student (FAQ) Open");
+    mixpanel.track("MarketingPage_FAQ");
   }, [])
 
   return (

@@ -16,7 +16,7 @@ export default function Blog({content, pageTitle ,layoutType, role, pageStr, pag
   const blocks = page.data.content_blocks;
 
   useEffect(() => {
-    mixpanel.track("Siter Student (Blog) Open");
+    mixpanel.track("MarketingPage_Blog");
   }, [])
 
   return (

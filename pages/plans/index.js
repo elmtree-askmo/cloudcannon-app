@@ -16,7 +16,7 @@ export default function Education({page}) {
   const blocks = page.data.content_blocks;
 
   useEffect(() => {
-    mixpanel.track("Siter Student (Pricing) Open");
+    mixpanel.track("MarketingPage_Plans");
   }, [])
 
   return (

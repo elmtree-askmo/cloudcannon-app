@@ -16,7 +16,7 @@ export default function Education({content, pageTitle ,layoutType, role, pageStr
   const blocks = page.data.content_blocks;
 
   useEffect(() => {
-    mixpanel.track("Siter Student (Education) Open");
+    mixpanel.track("MarketingPage_Education");
   }, [])
 
   return (
