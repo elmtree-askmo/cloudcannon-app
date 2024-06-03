@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 export default function Banner({content, block}){
     const handleSignUpNow = ()=>{
-        mixpanel.track("Siter Student Click Sign Up Now", {}, {send_immediately:true}, ()=>{
+        mixpanel.track("MarketingPage_SignUp", { placement: 'homeBanner' }, {send_immediately:true}, ()=>{
           window.location.href = `https://${APP_URL}/signup`;
         })
     }

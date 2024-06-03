@@ -61,13 +61,13 @@ export default function Header({ role, pageStr, pathname }) {
     }
     const handleSignUp = () => {
         // console.log(eventPrefix + 'Click Sign Up')
-        mixpanel.track(eventPrefix + 'Click Sign Up', {}, {send_immediately:true}, ()=>{
+        mixpanel.track(`MarketingPage_SignUp`, { placement: 'headerMenu' }, {send_immediately:true}, ()=>{
             window.location.href = `https://${APP_URL}/signup`
         } )
     }
     const handleLogin = () => {
         // console.log(eventPrefix + 'Click Login')
-        mixpanel.track(eventPrefix + 'Click Login', {}, {send_immediately:true}, ()=>{
+        mixpanel.track(`MarketingPage_Login`, {}, {send_immediately:true}, ()=>{
             window.location.href = `https://${APP_URL}`
         } )
     }

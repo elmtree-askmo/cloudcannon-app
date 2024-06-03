@@ -6,6 +6,7 @@ import axios from "axios";
 import { APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from "../constant/app.constant";
 import navData from '../data/nav.json';
 import Image from "next/image";
+import mixpanel from "mixpanel-browser";
 
 
 export default function Footer(){
@@ -53,7 +54,9 @@ export default function Footer(){
     }
 
     const handleSignUp = () => {
-        window.location.href = `https://${APP_URL}/signup`
+        mixpanel.track(`MarketingPage_SignUp`, { placement: 'footerMenu' }, {send_immediately:true}, ()=>{
+            window.location.href = `https://${APP_URL}/signup`
+        })
     }
 
     return (

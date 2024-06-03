@@ -1,8 +1,16 @@
 import Link from 'next/link';
 import styles from '../../styles/pricing.module.css';
 import { APP_URL } from '@/constant/app.constant';
+import mixpanel from 'mixpanel-browser';
 
 export default function Pricing({content, block}){
+    const handleSignUp = (e)=>{
+        e.preventDefault();
+        mixpanel.track("MarketingPage_SignUp", { placement: 'plansPage' }, {send_immediately:true}, ()=>{
+          window.location.href = `https://${APP_URL}/signup`;
+        })
+    }
+
     return (
         <div className={styles['pricing-container']}>
             <div className={styles['pricing-center-container']}>
@@ -31,7 +39,7 @@ export default function Pricing({content, block}){
                     }
                 </div>
                 <div className={styles.signup}>
-                    <Link href={`https://${APP_URL}/signup`}>Sign Up Today</Link>
+                    <Link href="#" onClick={handleSignUp} >Sign Up Today</Link>
                 </div>
             </div>
         </div>

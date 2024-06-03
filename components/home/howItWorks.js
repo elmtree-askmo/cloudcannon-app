@@ -1,8 +1,17 @@
 import Link from 'next/link';
 import styles from '../../styles/Home.module.css';
 import { APP_URL } from '@/constant/app.constant';
+import mixpanel from 'mixpanel-browser';
 
 export default function HowItWorks({content, block}){
+    const handleSignUp = (e)=>{
+        e.preventDefault();
+        mixpanel.track("MarketingPage_SignUp", { placement: 'homeHowItWorks' }, {send_immediately:true}, ()=>{
+          window.location.href = `https://${APP_URL}/signup`;
+        })
+    }
+
+
     return (
         <div className={styles['howItWorks-container']}>
             <div className={styles['howItWorks-center-container']}>
@@ -32,7 +41,7 @@ export default function HowItWorks({content, block}){
                     </div>
                 </div>
                 <div className={styles['howItWorks-button-container']}>
-                    <Link className={styles['howItWorks-button']} href={`https://${APP_URL}/signup`} ><strong>Try It Now</strong> - It's Free</Link>
+                    <Link className={styles['howItWorks-button']} href="#" onClick={handleSignUp} ><strong>Try It Now</strong> - It's Free</Link>
                 </div>
             </div>
         </div>

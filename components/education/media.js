@@ -1,7 +1,15 @@
+import mixpanel from 'mixpanel-browser';
 import styles from '../../styles/education.module.css';
 import Link from 'next/link';
 
 export default function Media({content, block}){
+    const handleRedirect = (e, item)=>{
+        e.preventDefault();
+        mixpanel.track("MarketingPage_EducationResources", { title: item.title, category: "Media" }, {send_immediately:true}, ()=>{
+          window.open(item.link, '_blank')
+        })
+    }
+
     return (
         <div className={styles['media-container']}>
             <div className={styles['media-center-container']}>
@@ -18,7 +26,7 @@ export default function Media({content, block}){
                                     </div>
                                 </div>
                                 <div className={styles['media-read-more-button-container']}>
-                                    <Link className={styles['media-read-more-button']} href={item.link} target={"_blank"}>Read More</Link>
+                                    <Link className={styles['media-read-more-button']} href="#" onClick={(e)=>handleRedirect(e,item)}>Read More</Link>
                                 </div>
                             </div>
                         ))
