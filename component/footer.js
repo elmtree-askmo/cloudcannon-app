@@ -89,6 +89,7 @@ export default function Footer(){
                         <div>
                             <h4>QuickTakes</h4>
                             <Link href="/quicktakes-about-us">About Us</Link>
+                            <Link href="/blog">Blog</Link>
                             <Link href="/plans">Plans</Link>
                         </div>
                         <div>
