@@ -12,6 +12,7 @@
     "@ant-design/icons": "^5.2.6",
     "@cloudcannon/filer": "^0.0.3",
     "@cloudcannon/react-connector": "^2.0.0",
+    "@hotjar/browser": "^1.0.9",
     "antd": "^5.10.1",
     "axios": "^1.5.1",
     "mixpanel-browser": "^2.47.0",

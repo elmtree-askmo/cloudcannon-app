@@ -8,9 +8,12 @@ import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Script from 'next/script';
 import { CloudCannonConnect } from '@cloudcannon/react-connector';
+import Hotjar from '@hotjar/browser';
 
 mixpanel.init(MIXPANEL_ID, { debug: false });
-
+const siteId = 5010561;
+const hotjarVersion = 6;
+Hotjar.init(siteId, hotjarVersion);
 
 export default function App({ Component, pageProps }) {
   const router =useRouter();
