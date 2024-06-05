@@ -11,12 +11,11 @@ import { CloudCannonConnect } from '@cloudcannon/react-connector';
 import Hotjar from '@hotjar/browser';
 
 mixpanel.init(MIXPANEL_ID, { debug: false });
-const siteId = 5010561;
-const hotjarVersion = 6;
+const siteId = process.env.NEXT_PUBLIC_HOTJARID;
+const hotjarVersion = process.env.NEXT_PUBLIC_HOTJARVERSION;
 Hotjar.init(siteId, hotjarVersion);
 
 export default function App({ Component, pageProps }) {
-  console.log(process.env.NEXT_PUBLIC_MY_KEY)
   const router =useRouter();
   const pathname = router.pathname;
   const isTeacher = ()=>{
