@@ -16,6 +16,7 @@ const hotjarVersion = 6;
 Hotjar.init(siteId, hotjarVersion);
 
 export default function App({ Component, pageProps }) {
+  console.log(process.env.MY_KEY)
   const router =useRouter();
   const pathname = router.pathname;
   const isTeacher = ()=>{
