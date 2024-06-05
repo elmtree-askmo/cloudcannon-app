@@ -13,7 +13,8 @@ import Hotjar from '@hotjar/browser';
 mixpanel.init(MIXPANEL_ID, { debug: false });
 const siteId = process.env.NEXT_PUBLIC_HOTJARID;
 const hotjarVersion = process.env.NEXT_PUBLIC_HOTJARVERSION;
-Hotjar.init(siteId, hotjarVersion);
+console.log(process.env.NEXT_PUBLIC_HOTJAR_ENABLE, process.env.NEXT_PUBLIC_HOTJAR_ENABLE === true)
+if(process.env.NEXT_PUBLIC_HOTJAR_ENABLE) Hotjar.init(siteId, hotjarVersion);
 
 export default function App({ Component, pageProps }) {
   const router =useRouter();
