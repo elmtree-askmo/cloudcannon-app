@@ -1,0 +1,23 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: institutions empower your stundents to succeed academically with QuickTakes
+  description: institutions empower your stundents to succeed academically with QuickTakes
+  icon: "email"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: institutions empower your stundents to succeed academically with QuickTakes
+  contentTitle: Empower your students to succeed academically with QuickTakes
+  description: Embrace AI in your institution and build an inclusive campus that removes barriers to learning and gives all students a path to success.
+  image: /never-forget-a-lecture.png
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+

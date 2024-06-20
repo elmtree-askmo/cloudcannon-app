@@ -9,7 +9,7 @@ import Filer from '@cloudcannon/filer';
 import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
-export default function AboutUs({layoutType, role, pageStr, page}) {
+export default function AboutUs({page}) {
   const blocks = page.data.content_blocks;
   useEffect(()=>{
     mixpanel.track("MarketingPage_AboutUs")

@@ -111,6 +111,12 @@ html,body{
 .FAQ-global .ant-collapse .ant-collapse-content{
   border-top: 0
 }
+.swiper-slide{
+  height: auto !important;
+}
+.swiper-pagination{
+  bottom:25px !important;
+}
 
 @media (max-width: 1023px) {
   .FAQ-global .ant-collapse .ant-collapse-item .ant-collapse-header{

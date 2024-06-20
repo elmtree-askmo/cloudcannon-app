@@ -1,0 +1,35 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Institutions features
+  description: Institutions features section
+  icon: "list"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Institutions features section
+  contentTitle: QuickTakes Features
+  description: From a full transcript of a recording or audio/video file to flashcards for studying with intent, QuickTakes has all the learning tools students need to be academically successful.
+  items:
+    - title: Transcript
+      content: All of your class notes in one place, don’t miss a word of the lecture, more actively participate in class
+      image: /insititutions/transcript.svg
+    - title: Study guide
+      content: Organize your notes quickly and effectively to help you study smarter and learn better
+      image: /insititutions/studyGuide.svg
+    - title: AI Chatbot
+      content: Ask subject-relevant questions to your AI sidekick
+      image: /insititutions/chatBot.svg
+    - title: Flashcards
+      content: Show what you know & deepen understanding of key concepts + terms
+      image: /insititutions/flashcards.svg
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  content:
+    type: textarea

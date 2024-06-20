@@ -1,7 +1,6 @@
 import '@/styles/globals.css'
 import mixpanel from 'mixpanel-browser';
-import { useEffect, useRef } from 'react'
-import { MIXPANEL_ID, SITEMAP } from '../constant/app.constant';
+import { MIXPANEL_ID } from '../constant/app.constant';
 import Header from '../component/header';
 import Footer from '../component/footer';
 import { useRouter } from 'next/router';
@@ -18,12 +17,9 @@ if(process.env.NEXT_PUBLIC_HOTJAR_ENABLE === "true") Hotjar.init(siteId, hotjarV
 export default function App({ Component, pageProps }) {
   const router =useRouter();
   const pathname = router.pathname;
-  const isTeacher = ()=>{
-    if(pathname.indexOf('teachers') > -1 ){
-      return true;
-    }else{
-      return false;
-    }
+  const lightThemeArr = ['/institutions']
+  const theme = ()=>{
+    return lightThemeArr.includes(pathname)? 'b2b' : 'b2c';
   }
   const AppComponent = CloudCannonConnect(Component);
   const HeaderComponent = CloudCannonConnect(Header);
@@ -71,9 +67,11 @@ export default function App({ Component, pageProps }) {
           }
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
-        <HeaderComponent role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} pathname={pathname} />
-        <AppComponent {...pageProps} layoutType={isTeacher()?"teachers":"students"} role={isTeacher()?"Teacher":"Student"} pageStr={SITEMAP[pathname]} />
-        <Footer />
+        <div>
+          <HeaderComponent pathname={pathname} theme={theme()} />
+          <AppComponent {...pageProps} />
+          <Footer theme={theme()} />
+        </div>
       </>
     )
 

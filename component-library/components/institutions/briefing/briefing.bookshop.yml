@@ -1,0 +1,30 @@
+
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: Institutions briefing
+  description: Institutions briefing section
+  icon: "list"
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  title: Institutions briefing section
+  image: /insititutions/briefing.png
+  items:
+    - title: Disability Services Centers
+      content: We help neurodiverse students thrive by championing their uniqueness and supporting them academically.
+    - title: English Language Learners & International Students
+      content: We offer multiple languages in app to english language learners and international students as they become more fluent.
+    - title: Study Hubs / Tutoring Centers
+      content: QuickTakes is a great resource for tutors and students alike! We structure class notes and break down course material for a clear path to success.
+    - title: Incoming Freshman
+      content: We know transitioning from high school to college can be difficult. QuickTakes helps students understand their lectures, become more organized and build lasting study habits. 
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+  content:
+    type: textarea

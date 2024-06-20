@@ -4,6 +4,7 @@ import { aboutUsContent } from '../staticProps/aboutUs.content';
 import { educationContent } from '../staticProps/education.content';
 import { pricingContent } from '../staticProps/pricing.content';
 import { blogContent } from '../staticProps/blog.content';
+import { institutionsContent } from '../staticProps/institutions.content';
 
 import Banner from '../components/home/banner';
 import Landscape from '../components/home/landscape';
@@ -24,6 +25,12 @@ import Pricing from '../components/plans/pricing';
 import Contact from '../components/plans/contact';
 import BlogHeader from '../components/blog/blogHeader';
 import BlogList from '../components/blog/blogList';
+import InstitutionsBanner from '../components/institutions/institutionsBanner';
+import Briefing from '../components/institutions/briefing';
+import EmpowerToSucceed from '../components/institutions/empowerToSucceed';
+import LicensingAndSubscriptions from '../components/institutions/licensingAndSubscriptions';
+import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
+import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
 
 
 export default function renderComponent(key, index, block, posts){
@@ -85,6 +92,24 @@ export default function renderComponent(key, index, block, posts){
             break;
         case "blog/blogList":
             targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} />)
+            break;
+        case "institutions/institutionsBanner":
+            targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block} />)
+            break;
+        case "institutions/briefing":
+            targetComponent = (<Briefing key={index} content={institutionsContent} block={block} />)
+            break;
+        case "institutions/empowerToSucceed":
+            targetComponent = (<EmpowerToSucceed key={index} content={institutionsContent} block={block} />)
+            break;
+        case "institutions/licensingAndSubscriptions":
+            targetComponent = (<LicensingAndSubscriptions key={index} content={institutionsContent} block={block} />)
+            break;
+        case "institutions/quicktakesFeatures":
+            targetComponent = (<QuicktakesFeatures key={index} content={institutionsContent} block={block} />)
+            break;
+        case "institutions/quicktakesTestimonials":
+            targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block} />)
             break;
         default:
             targetComponent = null;

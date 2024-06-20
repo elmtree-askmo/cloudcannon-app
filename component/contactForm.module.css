@@ -1,0 +1,56 @@
+/* contact-Modal */
+.contact-form-container{
+    /* padding-top: 30px; */
+}
+
+.contact-form-container form div{
+    margin-bottom: 32px;
+    display: block;
+    font-size: 18px;
+    color: var(--student-font-color);
+    font-weight: 500;
+    text-align: center;
+}
+.contact-form-container .formlabel{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.custom-modal{
+    max-width: 540px;
+    margin: 0 20px;
+}
+
+.contact-form-container form input{
+    height: 48px;
+    border:1px solid #ECECEC ;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: 'Inter';
+    background: #fff;
+    margin-bottom: 16px;
+}
+
+.contact-form-container form .send{
+    background: var(--student-button-theme);
+    color: #181A20;
+    width: 100%;
+    max-width: 343px;
+    border-radius: 80px;
+    font-size: 16px;
+    font-weight: 700;
+    height: 41px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 32px auto 0;
+}
+.contact-form-container form .send:hover{
+    background-color: var(--student-button-theme) !important;
+    color: #181A20 !important;
+    filter: brightness(1.1);
+}
+.contact-form-container form .send.disabled{
+    background: #999 !important;
+    color: #484D5C !important;
+}

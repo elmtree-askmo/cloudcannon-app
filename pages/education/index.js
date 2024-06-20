@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Education({content, pageTitle ,layoutType, role, pageStr, page}) {
+export default function Education({page}) {
 
   const blocks = page.data.content_blocks;
 

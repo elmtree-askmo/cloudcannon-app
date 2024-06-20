@@ -10,6 +10,10 @@
     z-index: 3;
     box-shadow: 0px 1px 1px 0px #484D5C;
 }
+.header.b2b{
+    background: #fff;
+    box-shadow: 0px 1px 3px 1px #d3d3d3;
+}
 
 .logo{
     width: 40px;
@@ -149,51 +153,6 @@
     margin-bottom: 0;
 }
 
-/* contact-Modal */
-.contact-form-container{
-    padding-top: 30px;
-}
-
-.contact-form-container form div{
-    margin-bottom: 20px;
-    display: block;
-    font-size: 18px;
-    color: var(--student-font-color);
-    font-weight: 500;
-}
-
-.custom-modal{
-    max-width: 540px;
-    margin: 0 20px;
-}
-
-.contact-form-container form input{
-    height: 64px;
-    border:1px solid #ECECEC ;
-    border-radius: 5px;
-    font-size: 14px;
-    font-family: 'Inter';
-    background: #fafafa;
-    margin-bottom: 10px;
-}
-
-.contact-form-container form .send{
-    background: var(--student-button-theme);
-    color: #fff;
-    width: 100%;
-    border-radius: 80px;
-    font-size: 25px;
-    font-weight: 700;
-    height: 64px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.contact-form-container form .send:hover{
-    background-color: var(--student-button-theme) !important;
-}
-
 
 
 /* dropdown */
@@ -245,6 +204,9 @@
         display: none;
     }
     .menu{
+        display: block;
+    }
+    .b2b .signup-login-container{
         display: block;
     }
 }

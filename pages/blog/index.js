@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Blog({content, pageTitle ,layoutType, role, pageStr, page, posts}) {
+export default function Blog({page, posts}) {
 
   const blocks = page.data.content_blocks;
 
