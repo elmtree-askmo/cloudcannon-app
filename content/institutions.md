@@ -1,5 +1,9 @@
 ---
 title: Institutions
+seo: 
+  title:
+  keywords:
+  description:
 content_blocks:
   - _bookshop_name: institutions/institutionsBanner
     title: Institutions Banner section

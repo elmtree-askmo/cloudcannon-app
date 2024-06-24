@@ -28,7 +28,7 @@ export default function ContactForm({open, onCancel}){
         if(!d)return message.error('Description is required');
         if(!isEmail(m))return message.error('Invalid Email');
 
-        const url = 'https://api.dev.quicktakes.io/api-node/quicktake/api/contact-us';
+        const url = `${process.env.NEXT_PUBLIC_BASE_URL}/quicktake/api/contact-us`;
         axios.post(url ,{
             name:n,
             email:m,

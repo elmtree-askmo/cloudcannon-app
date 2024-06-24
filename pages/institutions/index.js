@@ -20,7 +20,15 @@ export default function Institutions({page}) {
   return (
     <>
         <Head>
-            <title>QuickTakes</title>
+            <title>{page.data.seo.title?page.data.seo.title:`QuickTakes`}</title>
+            {
+              page.data.seo.keywords &&
+              <meta name="keywords" property="og:keywords" key="keywords" content={page.data.seo.keywords} />
+            }
+            {
+              page.data.seo.description &&
+              <meta name="description" property="og:description" key="description" content={page.data.seo.description} />
+            }
         </Head>
         {
             blocks.map((item, index)=>{
