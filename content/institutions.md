@@ -82,9 +82,9 @@ content_blocks:
     title: institutions subscription
     contentTitle: Site Licensing & Bulk Subscriptions
     description: >-
-      We offer institutional licensing on a per seat basis from 25 seats to
-      thousands of seats. Licenses can be set as quarterly, 6-month or the
-      entire school year.
+      <p>We offer institutional licensing on a per seat basis from <strong>25
+      seats</strong> to thousands of seats. Licenses can be set as quarterly,
+      <strong>6-month</strong> or <strong>the entire school year</strong>.</p>
   - _bookshop_name: institutions/empowerToSucceed
     title: >-
       institutions empower your stundents to succeed academically with
