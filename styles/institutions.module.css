@@ -206,6 +206,9 @@
     line-height: 38.4px;
     text-align: center;
 }
+.institutions-licensingAndSubscriptions-center-container>div>p{
+    margin:0
+}
 .institutions-licensingAndSubscriptions-btn{
     margin-bottom: 0;
 }
