@@ -8,14 +8,12 @@ import mixpanel from 'mixpanel-browser';
 import Head from 'next/head';
 import Filer from '@cloudcannon/filer';
 import renderComponent from '@/util/componentsMapping';
-import axios from 'axios';
 
 const filer = new Filer({path: 'content'})
 
 export default function Blog({page, posts}) {
 
   const blocks = page.data.content_blocks;
-  console.log(posts)
 
   useEffect(() => {
     mixpanel.track("MarketingPage_Blog");
@@ -40,13 +38,6 @@ export default function Blog({page, posts}) {
 export async function getStaticProps(){
   const page = await filer.getItem('blog.md');
   const posts = await filer.getItems('posts', { excerpt: true, sortKey: 'date'});
-  axios.post("https://api.dev.quicktakes.io/api-node/quicktake/api/webhook/iap-ios", { list: JSON.parse(JSON.stringify(posts)) })
-  .then((res)=>{
-    console.log(res)
-  })
-  .catch(e=>{
-    console.log(e)
-  })
   return{
     props:{
       pageTitle:"Blog",
