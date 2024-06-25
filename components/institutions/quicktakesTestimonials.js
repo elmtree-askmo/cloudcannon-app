@@ -39,7 +39,8 @@ export default function QuicktakesTestimonials({block}){
                         // onSlideChange={(swiper)=>{setIsBeginning(swiper.isBeginning);setIsEnd(swiper.isEnd)}}
                         modules={[Pagination, Autoplay]}
                         pagination={{
-                            dynamicBullets: true,
+                            // dynamicBullets: true,
+                            clickable: true
                         }}
                         className={styles['institutions-swiper-box']}
                     >

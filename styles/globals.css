@@ -115,7 +115,15 @@ html,body{
   height: auto !important;
 }
 .swiper-pagination{
-  bottom:25px !important;
+  bottom:19px !important;
+}
+.swiper-pagination-bullet-active{
+  background: #484D5C !important;
+}
+.swiper-pagination-bullet{
+  background: #999 !important;
+  width: 16px !important;
+  height: 16px !important;
 }
 
 @media (max-width: 1023px) {

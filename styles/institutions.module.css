@@ -13,7 +13,8 @@
     height: 720px;
 }
 .institutions-banner-center-container>h2,.institutions-banner-center-container>p{
-    max-width: 700px;
+    max-width: 660px;
+    letter-spacing: 0.4px;
 }
 .institutions-banner-center-container>h2{
     font-weight: 700;
@@ -183,7 +184,7 @@
     background: #fff;
 }
 .institutions-licensingAndSubscriptions-center-container{
-    padding: 56px 80px;
+    padding: 24px 80px 100px;
     box-sizing: border-box;
     max-width: var(--max-screen-width);
     margin: 0 auto;
@@ -199,9 +200,9 @@
     line-height: 52px;
     text-align: center;
 }
-.institutions-licensingAndSubscriptions-center-container>p{
+.institutions-licensingAndSubscriptions-center-container>div{
     margin: 0 0 40px;
-    font-size: 32px;
+    font-size: 28px;
     line-height: 38.4px;
     text-align: center;
 }
@@ -234,7 +235,7 @@
 }
 .institutions-empower-left-side-container>p{
     line-height: 38.4px;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 400;
     margin: 0 0 40px;
 }
@@ -319,6 +320,7 @@
     height: 40px;
     cursor: pointer;
     transform: translateX(-50%);
+    z-index: 11;
 }
 .slide-nav{
     width: 40px;
@@ -428,7 +430,7 @@
     }
 
     .institutions-licensingAndSubscriptions-center-container{
-        padding: 40px var(--global-padding);
+        padding: 16px var(--global-padding) 56px;
     }
     .institutions-licensingAndSubscriptions-center-container>h2{
         margin:0 0 20px;
@@ -437,7 +439,7 @@
         line-height: 28.8px;
         text-align: center;
     }
-    .institutions-licensingAndSubscriptions-center-container>p{
+    .institutions-licensingAndSubscriptions-center-container>div{
         margin: 0 0 24px;
         font-size: 16px;
         line-height: 20.8px;

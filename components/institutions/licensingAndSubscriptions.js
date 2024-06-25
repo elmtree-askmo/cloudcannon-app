@@ -9,7 +9,7 @@ export default function LicensingAndSubscriptions({block}){
         <div className={styles['institutions-licensingAndSubscriptions-container']}>
             <div className={styles['institutions-licensingAndSubscriptions-center-container']}>
                 <h2>{block.contentTitle}</h2>
-                <p>{block.description}</p>
+                <div dangerouslySetInnerHTML={{__html:block.description}}></div>
                 <Button className={styles['institutions-licensingAndSubscriptions-btn']} onClick={()=>setOpen(true)} >Contact Us</Button>
                 <ContactForm open={open} onCancel={()=>setOpen(false)} />
             </div>
