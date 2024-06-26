@@ -74,10 +74,7 @@ export default function Footer({theme}){
                         />
                         <p>Study Smarter, Learn Faster</p>
                         <div className={styles['button-group']}>
-                            {
-                                theme === 'b2c' &&
-                                <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
-                            }
+                            <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
                             <div className={styles['socialmeida-container']}>
                                 <Link href="https://www.instagram.com/quicktakes.io/" target="_blank" >
                                     <img src="/socialmedia/ins.svg" />
@@ -91,28 +88,26 @@ export default function Footer({theme}){
                             </div>
                         </div>
                     </div>
-                    {
-                        theme === 'b2c' &&
-                        <div className={styles['footer-mid']}>
-                            <div>
-                                <h4>QuickTakes</h4>
-                                <Link href="/quicktakes-about-us">About Us</Link>
-                                <Link href="/blog">Blog</Link>
-                                <Link href="/plans">Plans</Link>
-                            </div>
-                            <div>
-                                <h4>Resources</h4>
-                                <Link href="/faq">FAQ</Link>
-                                <Link href="/education">AI in Education</Link>
-                            </div>
-                            <div>
-                                <h4>Support</h4>
-                                <Link href={`mailto:info@edkey.com`} >Contact</Link>
-                                <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
-                                <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
-                            </div>
+                    <div className={styles['footer-mid']}>
+                        <div>
+                            <h4>QuickTakes</h4>
+                            <Link href="/quicktakes-about-us">About Us</Link>
+                            <Link href="/institutions">Institutions</Link>
+                            <Link href="/plans">Plans</Link>
                         </div>
-                    }
+                        <div>
+                            <h4>Resources</h4>
+                            <Link href="/faq">FAQ</Link>
+                            <Link href="/education">AI in Education</Link>
+                            <Link href="/blog">Blog</Link>
+                        </div>
+                        <div>
+                            <h4>Support</h4>
+                            <Link href={`mailto:info@edkey.com`} >Contact</Link>
+                            <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
+                            <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
+                        </div>
+                    </div>
                     <div className={styles['footer-right']}>
                         <p>Download QuickTakes!</p>
                         <div>

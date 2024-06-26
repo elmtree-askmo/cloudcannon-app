@@ -23,6 +23,11 @@
 			]
 		},
 		{
+			"link": "/institutions",
+			"text": "Institutions",
+			"type": "Link"
+		},
+		{
 			"link": "/blog",
 			"text": "Blog",
 			"type": "Link"

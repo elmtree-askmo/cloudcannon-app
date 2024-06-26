@@ -12,6 +12,7 @@ import SmartBanner from "./smartBanner";
 import navData from '../data/nav.json';
 import { DownOutlined } from "@ant-design/icons";
 import ContactForm from "./contactForm";
+import HeaderArrow from "@/public/headerArrow";
 
 export default function Header({ pathname, theme }) {
     const router = useRouter();
@@ -83,7 +84,7 @@ export default function Header({ pathname, theme }) {
                 case "DropDown":
                     return (
                         <Dropdown key={index} menu={{items:item.list}} trigger={["click"]} dropdownRender={(menus)=>customDropDownRender(menus)} placement="bottom" >
-                            <Link href="" onClick={(e)=>e.preventDefault()} className={(pathname === '/education' || pathname === '/faq')? styles['active']:''} >{item.text} <DownOutlined style={{width:12,marginLeft:5,marginTop:2}} /></Link>
+                            <Link href="" onClick={(e)=>e.preventDefault()} className={(pathname === '/education' || pathname === '/faq')? styles['active']:''} >{item.text} <HeaderArrow className={styles.arrow} /> </Link>
                         </Dropdown>
                     )
                 default:
@@ -95,14 +96,14 @@ export default function Header({ pathname, theme }) {
     return (
         <>
             {
-                renderBanner && theme === 'b2c' &&
+                renderBanner &&
                 <SmartBanner hideBanner={()=>{setRenderBanner(false)}} />
             }
-            <div className={`${styles.header} ${styles["students"]} ${styles[theme]}`} style={renderBanner && theme === 'b2c'?{top:'70px'}:{}} >
+            <div className={`${styles.header} ${styles["students"]} ${styles[theme]}`} style={renderBanner?{top:'70px'}:{}} >
                 <div className={styles['main-container']}>
                     <div className={styles['logo-container']} onClick={handleClickLogo}>
                         <Image
-                            src={theme === 'b2b'? navData.logo_light : navData.logo}
+                            src={navData.logo}
                             alt="Logo"
                             className="logo"
                             width={168}
@@ -110,30 +111,30 @@ export default function Header({ pathname, theme }) {
                             unoptimized
                         />
                     </div>
-                    {
-                        theme === 'b2c' &&
-                        <>
-                            <div className={styles["menu-container"]}>
-                                {
-                                    renderNav()
-                                }
-                                
-                            </div>
+                    <>
+                        <div className={styles["menu-container"]}>
+                            {
+                                renderNav()
+                            }
+                            
+                        </div>
+                        {
+                            theme === 'b2c' &&
                             <div className={styles['signup-login-container']}>
                                 <Link href="" className={styles["login-button"]} onClick={handleLogin}>Login</Link>
                                 <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</Link>
                             </div>
-                            <Image
-                                src="/menu.svg"
-                                alt="menu"
-                                className={styles["menu"]}
-                                width={28}
-                                height={28}
-                                unoptimized
-                                onClick={() => { setOpenMenu(true) }}
-                            />
-                        </>
-                    }
+                        }
+                        <Image
+                            src="/menu.svg"
+                            alt="menu"
+                            className={styles["menu"]}
+                            width={28}
+                            height={28}
+                            unoptimized
+                            onClick={() => { setOpenMenu(true) }}
+                        />
+                    </>
                     {
                         theme === 'b2b' &&
                         <div className={styles['signup-login-container']}>
@@ -171,6 +172,7 @@ export default function Header({ pathname, theme }) {
                         <Link href={'/education'} onClick={()=>{ setOpenMenu(false)}}>AI in Education</Link>
                         <Link href={'/blog'} onClick={()=>{ setOpenMenu(false)}}>Blog</Link>
                         <Link href={'/plans'} onClick={()=>{ setOpenMenu(false)}}>Plans</Link>
+                        <Link href={'/institutions'} onClick={()=>{ setOpenMenu(false)}}>Institutions</Link>
                         <Link href="" onClick={handleLogin}>Login</Link>
                         <Link href="" onClick={handleSignUp}>Sign Up</Link>
                     </div>
