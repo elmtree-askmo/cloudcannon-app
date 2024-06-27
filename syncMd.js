@@ -22,7 +22,7 @@ async function getFilesInDirectory(directoryPath) {
 async function getUserInfo(filePath) {
   try {
     const response = await axios.post(apiEndpoint, {
-        test:`test`
+        test:`in cloud cannon`
     });
     console.log('response', response.data);
   } catch (error) {
