@@ -63,6 +63,8 @@ export default function ContactForm({open, onCancel}){
                     <Input className={styles.customInput} placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
                     <span className={styles.formlabel}>Email</span>
                     <Input className={styles.customInput} placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
+                    <span className={styles.formlabel}>Subject</span>
+                    <Input className={styles.customInput} placeholder="Subject" name="subject" value="QuickTakes Institution Info Request"  disabled/>
                     <span className={styles.formlabel}>Message</span>
                     <Input className={styles.customInput} placeholder="Message" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
                     <Button type="primary" className={!name||!email||!description? [styles.disabled, styles.send]: styles.send} htmlType="submit" >Send Email</Button>
