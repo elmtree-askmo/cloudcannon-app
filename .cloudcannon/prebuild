@@ -1,1 +1,1 @@
-node ../syncMd.js
+node ./syncMd.js
