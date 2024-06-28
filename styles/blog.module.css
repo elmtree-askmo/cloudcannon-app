@@ -168,7 +168,9 @@
 }
 .blog-content-editor-container img{
     display: block;
-    width: 100%;
+    width:auto;
+    max-width: 100%;
+    margin: 0 auto;
 }
 .blog-content-editor-container p, .blog-content-editor-container h1, .blog-content-editor-container h2, .blog-content-editor-container h3, .blog-content-editor-container h4, .blog-content-editor-container h5, .blog-content-editor-container h6{
     margin:0 0 24px;
