@@ -36,7 +36,7 @@ Although not always known as the ‘horn-book,’ this type of study tool can be
 
 A tool that became popular in classrooms in the late-nineteenth century was the ‘Magic Lantern,’ an early type of projector that used paintings, photographs, prints, and pictures on transparent plates of glass, a lens (or multiple), and a light source. It was common for the glass plates to be hand painted, first only in black and white and slowly incorporating colors. The plates normally had to be inserted upside down as the images were inverted by the lens.
 
-![](/uploads/magic-lantern.jpeg)
+![magic lantern](/uploads/magic-lantern-1.jpeg "magic lantern")
 
 *Fig. 2 – Colonial and Indian exhibition 1886, Public domain, via Wikimedia Commons*
 
@@ -46,7 +46,7 @@ This type of projector was seen as a natural successor to the microscope and tel
 
 The calculator was first created in 1960, but it was not until the seventies that the portable calculator entered the classroom when integrated circuits reduced their size and cost. Calculators can be found in the simplest of models today, solving basic arithmetic or they can be bought for specific purposes. A scientific calculator, for example, includes trigonometric and statistical calculations. While a graphing calculator can be used to graph a variety of equations on its tiny screen.
 
-![HP Calculator](/uploads/hp-calculator.jpeg "HP Calculator")
+![HP Calculator](/uploads/hp-calculator-1.jpeg "HP Calculator")
 
 *Fig 3 – HP-65. Photo by HP Museum. “1974: First Handheld Programmable Calculator”*
 
@@ -56,7 +56,7 @@ We may take for granted being able to carry our phones in our pockets, but the c
 
 In the twenty-first century, it is fair to assume that everyone knows what a laptop is. You may walk into a coffee shop or a college classroom and encounter a variety of models. However, the earliest model of the portable laptop was far from the ones we see today. The IBM 5100 was released in 1975 and it weighed fifty-five pounds - imagine carrying that around with you! At the time it cost around nine to twenty thousand dollars (which would be forty-five to ninety-five thousand dollars today), not making it very accessible to the public. It took another eight years of development before laptops were used as an educational tool in 1983 when Drexel University required every student to buy one.
 
-![IBM 5100 Microcomputer](/uploads/ibm-5100-microcomputer-1975-1976-ca.jpg "IBM 5100 Microcomputer")
+![IBM 5100 Microcomputer](/uploads/ibm-5100-microcomputer-1975-1976-ca-1.jpg "IBM 5100 Microcomputer")
 
 *Fig 4 – Sailko, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons*
 
@@ -66,7 +66,7 @@ Today, laptops are the most purchased portable device (outside of cell phones) b
 
 <br>As laptops and other electronic devices became prominent in classrooms, websites and applications were created for teachers and students to use in the classroom following the social media boom of Facebook, Instagram, and Snapchat. A popular application for teachers to use in motivating their students and maintaining an organized classroom is *ClassDojo*. It is often used with younger students to promote following rules through the use of a point system which the teacher can then use to provide rewards. In recent years, the app has expanded to include communication with parents about their children’s learning.
 
-![Classdojo mascot](/uploads/classdojo-mascot.jpg "Classdojo mascot")
+![Classdojo mascot](/uploads/classdojo-mascot-1.jpg "Classdojo mascot")
 
 *Fig 5 - ClassDojo Mascot “Mojo”. Photo by classdojo.com*
 
