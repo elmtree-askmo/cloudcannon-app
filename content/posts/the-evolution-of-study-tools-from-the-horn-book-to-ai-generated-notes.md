@@ -4,7 +4,8 @@ date: 2024-06-27T18:00:00Z
 title: 'The Evolution of Study Tools: From the Horn-Book to AI Generated Notes'
 description: >-
   Study tools have evolved greatly over the years. Let's take a look back and
-  see the progression from archaic tools to modern-day AI. 
+  see the progression from archaic tools to modern-day AI. Blog written by
+  Devyani Gonzalez. 
 seo:
   title: Study Tools Over the Years | Methods of Teaching & Studying
   page_description: >-
@@ -25,7 +26,7 @@ With tools like Chat-GPT in circulation for all to use and the overwhelming pres
 
 Dating back to the Colonial years, a common tool that was used in schools was the Horn-book. The term ‘horn-book’ (although applied to different study materials in different fields) became a common name for wooden tablets with a handle that held a single sheet of paper and a protective translucent covering of horn (as the name would indicate). This tool was used as a primer for children’s education, and the sheet of paper often consisted of the alphabet, vowel combinations, numerals, religious text, or short verse. These horn-books are thought to be the foundation to the way reading is taught in schools today.
 
-**![hornbook examples](/uploads/hornbook.jpg "hornbook examples")**
+**![hornbook examples](/uploads/hornbook-1.jpg "hornbook examples")**
 
 *Fig. 1 – Miniature examples of hornbooks. Photography by Rebecca D’Ambrosio; courtesy of Wellcome Collection.*
 
