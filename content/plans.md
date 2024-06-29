@@ -83,6 +83,12 @@ content_blocks:
           - label: Youtube URL upload
             description: Part of free 90 min
             activeStyle: true
+      - label: Free
+        itemActiveStyle: false
+        minutesLabel: 90 min
+        description: weekly recording time
+        remark: Reloads weekly
+        supportAbility: []
   - _bookshop_name: plans/contact
     title: Plans contact Section
     description: >-
