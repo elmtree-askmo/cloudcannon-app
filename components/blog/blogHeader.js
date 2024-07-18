@@ -18,9 +18,9 @@ export default function BlogHeader({content, block}){
             <div className={styles['blogHeader-center-container']}>
                 <h3>{block.contentTitle}</h3>
                 <p>{block.description}</p>
-                <div className={styles['sign-up-today-container']}>
+                {/* <div className={styles['sign-up-today-container']}>
                     <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign Up Today</Link>
-                </div>
+                </div> */}
             </div>
         </div>
     )
