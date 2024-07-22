@@ -319,12 +319,12 @@
   width: 45%;
   max-width: 612px;
   position: relative;
-  height: 333px;
+  height: 352px;
 }
 .section-4-content-container-l img{
   width: 100%;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
 }
 .section-4-content-container-r{
   width: 52%;
