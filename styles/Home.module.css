@@ -318,10 +318,13 @@
 .section-4-content-container-l{
   width: 45%;
   max-width: 612px;
+  position: relative;
+  height: 333px;
 }
 .section-4-content-container-l img{
   width: 100%;
   display: block;
+  object-fit: cover;
 }
 .section-4-content-container-r{
   width: 52%;
