@@ -3,6 +3,7 @@ import styles from '../../styles/Home.module.css';
 import { Carousel } from 'antd';
 import SlideArrowLeft from '@/public/slide-arrow-left';
 import SlideArrowRight from '@/public/slide-arrow-right';
+import Image from 'next/image';
 
 export default function Schools({content, block}){
     const carouselRef = useRef();
@@ -24,7 +25,12 @@ export default function Schools({content, block}){
                                 <div className={styles['schools-carousel-item']} key={index}>
                                     {
                                         item.logos.map((subItem, i)=>(
-                                            <div key={i}><img src={subItem.image} /></div>
+                                            <div key={i}>
+                                                <Image 
+                                                    src={subItem.image}
+                                                    fill
+                                                />
+                                            </div>
                                         ))
                                     }
                                 </div>
