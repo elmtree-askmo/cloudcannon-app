@@ -27,7 +27,7 @@ export default function HowItWorks({content, block}){
                             <p className={styles['howItWorks-text-align-right']}>{block.leftSideContent_b.description}</p>
                         </div>
                     </div>
-                    <div className={styles['howItWorks-image-container']}><img src={block.image} /></div>
+                    <div className={styles['howItWorks-image-container']}><img src={block.image} loading="lazy" /></div>
                     <Link className={styles['howItWorks-button']} href={`https://${APP_URL}/signup`} ><strong>Try It Now</strong> - It's Free</Link>
                     <div className={styles['howItWorks-content-box']}>
                         <div className={styles['howItWorks-text-container']}>

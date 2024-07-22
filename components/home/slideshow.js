@@ -24,7 +24,7 @@ export default function Slideshow({content, block}){
                         {
                             block.slides.map((item,index)=>(
                                 <div className={styles['carousel-custom-item']} key={index} >
-                                    <div className={styles['carousel-item-avatar']}><img src={item.avatar} /></div>
+                                    <div className={styles['carousel-item-avatar']}><img src={item.avatar} loading="lazy" /></div>
                                     <div className={styles['carousel-item-info']}>
                                         <p className={styles['carousel-item-comment']}>{item.description}</p>
                                         <p className={styles['carousel-item-user']}>

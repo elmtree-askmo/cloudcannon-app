@@ -23,11 +23,13 @@ export default function Banner({content, block}){
                   <Link href={appStoreLink} target='_blank'>
                     <img 
                       src="/appStore.svg"
+                      loading="lazy"
                     />
                   </Link>
                   <Link href={googlePlayLink} target='_blank'>
                     <img 
                       src="/googlePlay.svg"
+                      loading="lazy"
                     />
                   </Link>
                 </div>

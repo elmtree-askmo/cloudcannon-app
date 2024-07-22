@@ -24,7 +24,7 @@ export default function Schools({content, block}){
                                 <div className={styles['schools-carousel-item']} key={index}>
                                     {
                                         item.logos.map((subItem, i)=>(
-                                            <div key={i}><img src={subItem.image} /></div>
+                                            <div key={i}><img src={subItem.image} loading="lazy" /></div>
                                         ))
                                     }
                                 </div>
