@@ -16,7 +16,7 @@ export default function Banner({content, block}){
           <div className={`${styles['section-1']}`}>
             <div className={styles['section-1-center-container']}>
               <div className={styles['section-1-major']}>
-                <h2 data-i18n="home_banner_title">{block.contentTitle}</h2>
+                <h2>{block.contentTitle}</h2>
                 <h3>{block.subTitle}</h3>
                 <Button type="primary" className={`custom-antd-design-button-student ${styles['sign-up-now']}`} onClick={handleSignUpNow}>{block.buttonTxt}</Button>
                 <div className={styles['download-group']}>
