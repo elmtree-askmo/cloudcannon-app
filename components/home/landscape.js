@@ -12,6 +12,7 @@ export default function Landscape ({content, block}){
                     <Image 
                       src={item.image}
                       fill
+                      alt="image"
                     />
                   </div>
                   <div className={styles['section-4-content-container-r']}>

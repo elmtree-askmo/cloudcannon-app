@@ -33,11 +33,11 @@ import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
 
 
-export default function renderComponent(key, index, block, posts){
+export default function renderComponent(key, index, block, posts, language){
     let targetComponent ;
     switch (key) {
         case "home/banner":
-            targetComponent = (<Banner key={index} content={homeContent} block={block} />)
+            targetComponent = (<Banner key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/landscape":
             targetComponent = (<Landscape key={index} content={homeContent} block={block} />)

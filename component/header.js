@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
-import { Drawer, Dropdown} from "antd";
+import { Drawer, Dropdown, Select} from "antd";
 import { useEffect, useState } from "react";
 import { APP_URL } from "../constant/app.constant";
 import { useRouter } from "next/navigation";
@@ -14,7 +14,7 @@ import { DownOutlined } from "@ant-design/icons";
 import ContactForm from "./contactForm";
 import HeaderArrow from "@/public/headerArrow";
 
-export default function Header({ pathname, theme }) {
+export default function Header({ pathname, theme, language, setLanguage }) {
     const router = useRouter();
 
     const [openMenu, setOpenMenu] = useState(false);
@@ -92,6 +92,10 @@ export default function Header({ pathname, theme }) {
             }
         })
     }
+    const handleOnChange=(e)=>{
+        localStorage.setItem("language",e);
+        setLanguage(e)
+    }
 
     return (
         <>
@@ -123,6 +127,16 @@ export default function Header({ pathname, theme }) {
                             <div className={styles['signup-login-container']}>
                                 <Link href="" className={styles["login-button"]} onClick={handleLogin}>Login</Link>
                                 <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</Link>
+                                <Select 
+                                    defaultValue={language}
+                                    onChange={handleOnChange}
+                                    options={[
+                                        {value: 'en', label:"English"},
+                                        {value: 'zh-hk', label:"Traditional Chinese"},
+                                        {value: 'sp', label:"Spanish"},
+                                        {value: 'fr', label:"French"}
+                                    ]}
+                                />
                             </div>
                         }
                         <Image

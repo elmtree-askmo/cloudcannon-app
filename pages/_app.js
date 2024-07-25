@@ -8,6 +8,7 @@ import Head from 'next/head';
 import Script from 'next/script';
 import { CloudCannonConnect } from '@cloudcannon/react-connector';
 import Hotjar from '@hotjar/browser';
+import { useEffect, useState } from 'react';
 
 mixpanel.init(MIXPANEL_ID, { debug: false });
 const siteId = process.env.NEXT_PUBLIC_HOTJARID;
@@ -21,8 +22,18 @@ export default function App({ Component, pageProps }) {
   const theme = ()=>{
     return lightThemeArr.includes(pathname)? 'b2b' : 'b2c';
   }
+  const [language, setLanguage] = useState('en');
   const AppComponent = CloudCannonConnect(Component);
   const HeaderComponent = CloudCannonConnect(Header);
+
+  useEffect(()=>{
+    const lang = localStorage.getItem('language')
+    if(lang){
+      setLanguage(lang)
+    }else{
+      setLanguage('en');
+    }
+  },[])
 
   const renderLayout = ()=>(
       <>
@@ -68,12 +79,14 @@ export default function App({ Component, pageProps }) {
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
         <div>
-          <HeaderComponent pathname={pathname} theme={theme()} />
-          <AppComponent {...pageProps} />
+          <HeaderComponent pathname={pathname} theme={theme()} setLanguage={setLanguage} language={language} />
+          <AppComponent {...pageProps} setLanguage={setLanguage} language={language}/>
           <Footer theme={theme()} />
         </div>
       </>
     )
+
+  
 
   return (
     <>{renderLayout()}</>

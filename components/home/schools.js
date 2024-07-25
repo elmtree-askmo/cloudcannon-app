@@ -29,6 +29,7 @@ export default function Schools({content, block}){
                                                 <Image 
                                                     src={subItem.image}
                                                     fill
+                                                    alt='school logo'
                                                 />
                                             </div>
                                         ))

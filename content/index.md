@@ -3,9 +3,21 @@ title: Home
 content_blocks:
   - _bookshop_name: home/banner
     title: Home Banner section
-    contentTitle: "\_Study Smarter, Learn Faster"
-    subTitle: Supercharge learning with your personalized AI study sidekick
-    buttonTxt: Sign Up Today
+    contentTitle: 
+      en: "\_Study Smarter, Learn Faster"
+      zh-hk: Traditional Chinese
+      fr: French
+      sp: Spanish 
+    subTitle: 
+      en: Supercharge learning with your personalized AI study sidekick
+      zh-hk: Traditional Chinese
+      fr: French
+      sp: Spanish 
+    buttonTxt:
+      en: Sign Up Today
+      zh-hk: Traditional Chinese
+      fr: French
+      sp: Spanish 
   - _bookshop_name: home/landscape
     title: Home benefit Section
     items:

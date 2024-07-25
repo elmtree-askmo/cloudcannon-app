@@ -7,7 +7,7 @@ import mixpanel from "mixpanel-browser";
 import { useEffect } from "react";
 
 const filer = new Filer({ path: 'content' });
-export default function Post({page}){
+export default function Post({page, language}){
     useEffect(() => {
         mixpanel.track("MarketingPage_Article", { title: page.data.title });
       }, [])
