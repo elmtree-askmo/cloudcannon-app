@@ -11,20 +11,20 @@ spec:
 blueprint:
   title: Home Banner section
   contentTitle:
-      en: "\_Study Smarter, Learn Faster"
-      zh-hk:
-      fr:
-      sp:
-    subTitle:
-      en: Supercharge learning with your personalized AI study sidekick
-      zh-hk:
-      fr:
-      sp: 
-    buttonTxt:
-      en: Sign Up Today
-      zh-hk:
-      fr:
-      sp:
+    en: "\_Study Smarter, Learn Faster"
+    zh-hk:
+    fr:
+    sp:
+  subTitle:
+    en: Supercharge learning with your personalized AI study sidekick
+    zh-hk:
+    fr:
+    sp: 
+  buttonTxt:
+    en: Sign Up Today
+    zh-hk:
+    fr:
+    sp:
     
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
