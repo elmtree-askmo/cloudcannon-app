@@ -76,7 +76,7 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  leftSideContent_a.desctiption[*]:
+  leftSideContent_a.desctiption.*:
     type: textarea
   leftSideContent_b.desctiption[*]:
     tpye: textarea
