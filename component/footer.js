@@ -1,6 +1,6 @@
 import Link from "next/link";
 import styles from './footer.module.css';
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Button, Input, Modal, message } from "antd";
 import axios from "axios";
 import { APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from "../constant/app.constant";
@@ -9,12 +9,13 @@ import Image from "next/image";
 import mixpanel from "mixpanel-browser";
 
 
-export default function Footer({theme}){
+export default function Footer({theme, language='en'}){
     const [openContact, setOpenContact] = useState(false);
 
     const [email, setEmail] = useState('');
     const [name, setName] = useState('');
     const [description, setDescription] = useState('');
+    const data = navData[language]?.footerNav? navData[language]?.footerNav:navData['en']?.footerNav;
 
     const handleSubmit = (e) => {
         e.preventDefault();
@@ -72,9 +73,9 @@ export default function Footer({theme}){
                             height={40}
                             unoptimized
                         />
-                        <p>Study Smarter, Learn Faster</p>
+                        <p>{data.slogan}</p>
                         <div className={styles['button-group']}>
-                            <Button className={styles["signup-button"]} onClick={handleSignUp} >Sign Up Today</Button>
+                            <Button className={styles["signup-button"]} onClick={handleSignUp} >{data.button_label}</Button>
                             <div className={styles['socialmeida-container']}>
                                 <Link href="https://www.instagram.com/quicktakes.io/" target="_blank" >
                                     <img src="/socialmedia/ins.svg" />
@@ -90,26 +91,32 @@ export default function Footer({theme}){
                     </div>
                     <div className={styles['footer-mid']}>
                         <div>
-                            <h4>QuickTakes</h4>
-                            <Link href="/quicktakes-about-us">About Us</Link>
-                            <Link href="/institutions">Institutions</Link>
-                            <Link href="/plans">Plans</Link>
+                            <h4>{data.quicktakesNav.label}</h4>
+                            {
+                                data.quicktakesNav.map.map((item,index)=>(
+                                    <Link key={index} href={item.link}>{item.label}</Link>
+                                ))
+                            }
                         </div>
                         <div>
-                            <h4>Resources</h4>
-                            <Link href="/faq">FAQ</Link>
-                            <Link href="/education">AI in Education</Link>
-                            <Link href="/blog">Blog</Link>
+                            <h4>{data.resourcesNav.label}</h4>
+                            {
+                                data.resourcesNav.map.map((item,index)=>(
+                                    <Link key={index} href={item.link}>{item.label}</Link>
+                                ))
+                            }
                         </div>
                         <div>
-                            <h4>Support</h4>
-                            <Link href={`mailto:info@edkey.com`} >Contact</Link>
-                            <Link href="https://app.quicktakes.io/terms">Terms of Service</Link>
-                            <Link href="https://app.quicktakes.io/privacy-policy">Privacy Policy</Link>
+                            <h4>{data.supportNav.label}</h4>
+                            {
+                                data.supportNav.map.map((item,index)=>(
+                                    <Link key={index} href={item.link}>{item.label}</Link>
+                                ))
+                            }
                         </div>
                     </div>
                     <div className={styles['footer-right']}>
-                        <p>Download QuickTakes!</p>
+                        <p>{data.downloadQuicktake}</p>
                         <div>
                             <Link href={appStoreLink}>
                                 <Image

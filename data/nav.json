@@ -1,46 +1,414 @@
 {
-	"logo": "/quicktakesIcon_new.svg",
-	"logo_light":"/quicktakesIcon_new_light.svg",
-	"items": [
-		{
-			"link": "/quicktakes-about-us",
-			"text": "About Us",
-			"type": "Link"
+	"en":{
+		"logo": "/quicktakesIcon_new.svg",
+		"logo_light":"/quicktakesIcon_new_light.svg",
+		"signUp":"Sign Up",
+		"login":"Login",
+		"hamburgerMenu":[
+			{
+				"label": "About Us",
+				"link": "/quicktakes-about-us"
+			},
+			{
+				"label": "FAQ",
+				"link": "/faq"
+			},
+			{
+				"label": "AI in Education",
+				"link": "/education"
+			},
+			{
+				"label": "Blog",
+				"link": "/blog"
+			},
+			{
+				"label": "Plans",
+				"link": "/plans"
+			},
+			{
+				"label": "Institutions",
+				"link": "/institutions"
+			}
+		],
+		"items": [
+			{
+				"link": "/quicktakes-about-us",
+				"text": "About Us",
+				"type": "Link"
+			},
+			{
+				"link": "",
+				"text": "Resources",
+				"type": "DropDown",
+				"list":[
+					{
+						"link":"/faq",
+						"label":"FAQ"
+					},
+					{
+						"link":"/education",
+						"label":"AI in Education"
+					}
+				]
+			},
+			{
+				"link": "/institutions",
+				"text": "Institutions",
+				"type": "Link"
+			},
+			{
+				"link": "/blog",
+				"text": "Blog",
+				"type": "Link"
+			},
+			{
+				"link": "/plans",
+				"text": "Plans",
+				"type": "Link"
+			}
+		],
+		"footerNav":{
+			"slogan": "Study Smarter, Learn Faster",
+			"button_label":"Sign Up Today",
+			"downloadQuicktake":"Download QuickTakes!",
+			"quicktakesNav":{
+				"label": "QuickTakes",
+				"map":[
+					{ "label":"About Us", "link":"/quicktakes-about-us"},
+					{ "label":"Institutions", "link":"/institutions"},
+					{ "label":"Plans", "link":"/plans"}
+				]
+			},
+			"resourcesNav":{
+				"label":"Resources",
+				"map":[
+					{ "label":"FAQ", "link":"/faq"},
+					{ "label":"AI in Education", "link":"/education"},
+					{ "label":"Blog", "link":"/blog"}
+				]
+			},
+			"supportNav":{
+				"label":"Support",
+				"map":[
+					{ "label":"Contact", "link":"mailto:info@edkey.com"},
+					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+				]
+			}
 		},
-		{
-			"link": "",
-			"text": "Resources",
-			"type": "DropDown",
-			"list":[
-				{
-					"link":"/faq",
-					"label":"FAQ"
-				},
-				{
-					"link":"/education",
-					"label":"AI in Education"
-				}
-			]
-		},
-		{
-			"link": "/institutions",
-			"text": "Institutions",
-			"type": "Link"
-		},
-		{
-			"link": "/blog",
-			"text": "Blog",
-			"type": "Link"
-		},
-		{
-			"link": "/plans",
-			"text": "Plans",
-			"type": "Link"
+		"_inputs": {
+			"logo": {
+				"type": "image"
+			}
 		}
-	],
-	"_inputs": {
-		"logo": {
-			"type": "image"
+	},
+	"zh_hk":{
+		"logo": "/quicktakesIcon_new.svg",
+		"logo_light":"/quicktakesIcon_new_light.svg",
+		"signUp":"注册",
+		"login":"登录",
+		"hamburgerMenu":[
+			{
+				"label": "关于我们",
+				"link": "/quicktakes-about-us"
+			},
+			{
+				"label": "常见问题",
+				"link": "/faq"
+			},
+			{
+				"label": "AI教育",
+				"link": "/education"
+			},
+			{
+				"label": "博客",
+				"link": "/blog"
+			},
+			{
+				"label": "计划",
+				"link": "/plans"
+			},
+			{
+				"label": "机构",
+				"link": "/institutions"
+			}
+		],
+		"items": [
+			{
+				"link": "/quicktakes-about-us",
+				"text": "关于我们",
+				"type": "Link"
+			},
+			{
+				"link": "",
+				"text": "资源",
+				"type": "DropDown",
+				"list":[
+					{
+						"link":"/faq",
+						"label":"常见问题"
+					},
+					{
+						"link":"/education",
+						"label":"AI教育"
+					}
+				]
+			},
+			{
+				"link": "/institutions",
+				"text": "机构",
+				"type": "Link"
+			},
+			{
+				"link": "/blog",
+				"text": "博客",
+				"type": "Link"
+			},
+			{
+				"link": "/plans",
+				"text": "计划",
+				"type": "Link"
+			}
+		],
+		"footerNav":{
+			"slogan": "Study Smarter, Learn Faster",
+			"button_label":"Sign Up Today",
+			"downloadQuicktake":"下载Quicktakes",
+			"quicktakesNav":{
+				"label": "QuickTakes",
+				"map":[
+					{ "label":"关于我们", "link":"/quicktakes-about-us"},
+					{ "label":"机构", "link":"/institutions"},
+					{ "label":"计划", "link":"/plans"}
+				]
+			},
+			"resourcesNav":{
+				"label":"Resources",
+				"map":[
+					{ "label":"常见问题", "link":"/faq"},
+					{ "label":"AI教育", "link":"/education"},
+					{ "label":"博客", "link":"/blog"}
+				]
+			},
+			"supportNav":{
+				"label":"Support",
+				"map":[
+					{ "label":"联系我们", "link":"mailto:info@edkey.com"},
+					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+				]
+			}
+		},
+		"_inputs": {
+			"logo": {
+				"type": "image"
+			}
+		}
+	},
+	"fr":{
+		"logo": "/quicktakesIcon_new.svg",
+		"logo_light":"/quicktakesIcon_new_light.svg",
+		"signUp":"Sign Up",
+		"login":"Login",
+		"hamburgerMenu":[
+			{
+				"label": "About Us",
+				"link": "/quicktakes-about-us"
+			},
+			{
+				"label": "FAQ",
+				"link": "/faq"
+			},
+			{
+				"label": "AI in Education",
+				"link": "/education"
+			},
+			{
+				"label": "Blog",
+				"link": "/blog"
+			},
+			{
+				"label": "Plans",
+				"link": "/plans"
+			},
+			{
+				"label": "Institutions",
+				"link": "/institutions"
+			}
+		],
+		"items": [
+			{
+				"link": "/quicktakes-about-us",
+				"text": "About Us",
+				"type": "Link"
+			},
+			{
+				"link": "",
+				"text": "Resources",
+				"type": "DropDown",
+				"list":[
+					{
+						"link":"/faq",
+						"label":"FAQ"
+					},
+					{
+						"link":"/education",
+						"label":"AI in Education"
+					}
+				]
+			},
+			{
+				"link": "/institutions",
+				"text": "Institutions",
+				"type": "Link"
+			},
+			{
+				"link": "/blog",
+				"text": "Blog",
+				"type": "Link"
+			},
+			{
+				"link": "/plans",
+				"text": "Plans",
+				"type": "Link"
+			}
+		],
+		"footerNav":{
+			"slogan": "Study Smarter, Learn Faster",
+			"button_label":"Sign Up Today",
+			"downloadQuicktake":"Download QuickTakes!",
+			"quicktakesNav":{
+				"label": "QuickTakes",
+				"map":[
+					{ "label":"About Us", "link":"/quicktakes-about-us"},
+					{ "label":"Institutions", "link":"/institutions"},
+					{ "label":"Plans", "link":"/plans"}
+				]
+			},
+			"resourcesNav":{
+				"label":"Resources",
+				"map":[
+					{ "label":"FAQ", "link":"/faq"},
+					{ "label":"AI in Education", "link":"/education"},
+					{ "label":"Blog", "link":"/blog"}
+				]
+			},
+			"supportNav":{
+				"label":"Support",
+				"map":[
+					{ "label":"Contact", "link":"mailto:info@edkey.com"},
+					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+				]
+			}
+		},
+		"_inputs": {
+			"logo": {
+				"type": "image"
+			}
+		}
+	},
+	"sp":{
+		"logo": "/quicktakesIcon_new.svg",
+		"logo_light":"/quicktakesIcon_new_light.svg",
+		"signUp":"Sign Up",
+		"login":"Login",
+		"hamburgerMenu":[
+			{
+				"label": "About Us",
+				"link": "/quicktakes-about-us"
+			},
+			{
+				"label": "FAQ",
+				"link": "/faq"
+			},
+			{
+				"label": "AI in Education",
+				"link": "/education"
+			},
+			{
+				"label": "Blog",
+				"link": "/blog"
+			},
+			{
+				"label": "Plans",
+				"link": "/plans"
+			},
+			{
+				"label": "Institutions",
+				"link": "/institutions"
+			}
+		],
+		"items": [
+			{
+				"link": "/quicktakes-about-us",
+				"text": "About Us",
+				"type": "Link"
+			},
+			{
+				"link": "",
+				"text": "Resources",
+				"type": "DropDown",
+				"list":[
+					{
+						"link":"/faq",
+						"label":"FAQ"
+					},
+					{
+						"link":"/education",
+						"label":"AI in Education"
+					}
+				]
+			},
+			{
+				"link": "/institutions",
+				"text": "Institutions",
+				"type": "Link"
+			},
+			{
+				"link": "/blog",
+				"text": "Blog",
+				"type": "Link"
+			},
+			{
+				"link": "/plans",
+				"text": "Plans",
+				"type": "Link"
+			}
+		],
+		"footerNav":{
+			"slogan": "Study Smarter, Learn Faster",
+			"button_label":"Sign Up Today",
+			"downloadQuicktake":"Download QuickTakes!",
+			"quicktakesNav":{
+				"label": "QuickTakes",
+				"map":[
+					{ "label":"About Us", "link":"/quicktakes-about-us"},
+					{ "label":"Institutions", "link":"/institutions"},
+					{ "label":"Plans", "link":"/plans"}
+				]
+			},
+			"resourcesNav":{
+				"label":"Resources",
+				"map":[
+					{ "label":"FAQ", "link":"/faq"},
+					{ "label":"AI in Education", "link":"/education"},
+					{ "label":"Blog", "link":"/blog"}
+				]
+			},
+			"supportNav":{
+				"label":"Support",
+				"map":[
+					{ "label":"Contact", "link":"mailto:info@edkey.com"},
+					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+				]
+			}
+		},
+		"_inputs": {
+			"logo": {
+				"type": "image"
+			}
 		}
 	}
 }

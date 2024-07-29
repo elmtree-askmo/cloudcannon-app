@@ -75,7 +75,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
     }
 
     const renderNav = ()=>{
-        return navData.items.map((item, index)=>{
+        return navData[language].items.map((item, index)=>{
             switch(item.type){
                 case "Link":
                     return (
@@ -107,7 +107,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                 <div className={styles['main-container']}>
                     <div className={styles['logo-container']} onClick={handleClickLogo}>
                         <Image
-                            src={navData.logo}
+                            src={navData[language].logo}
                             alt="Logo"
                             className="logo"
                             width={168}
@@ -125,8 +125,8 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                         {
                             theme === 'b2c' &&
                             <div className={styles['signup-login-container']}>
-                                <Link href="" className={styles["login-button"]} onClick={handleLogin}>Login</Link>
-                                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >Sign Up</Link>
+                                <Link href="" className={styles["login-button"]} onClick={handleLogin}>{navData[language].login}</Link>
+                                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >{navData[language].signUp}</Link>
                                 <Select 
                                     defaultValue={language}
                                     onChange={handleOnChange}
@@ -181,14 +181,13 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                         />
                     </div>
                     <div className={styles["drawer-container"]}>
-                        <Link href={'/quicktakes-about-us'} onClick={()=>{ setOpenMenu(false)}}>About Us</Link>
-                        <Link href={'/faq'} onClick={()=>{ setOpenMenu(false)}}>FAQ</Link>
-                        <Link href={'/education'} onClick={()=>{ setOpenMenu(false)}}>AI in Education</Link>
-                        <Link href={'/blog'} onClick={()=>{ setOpenMenu(false)}}>Blog</Link>
-                        <Link href={'/plans'} onClick={()=>{ setOpenMenu(false)}}>Plans</Link>
-                        <Link href={'/institutions'} onClick={()=>{ setOpenMenu(false)}}>Institutions</Link>
-                        <Link href="" onClick={handleLogin}>Login</Link>
-                        <Link href="" onClick={handleSignUp}>Sign Up</Link>
+                        {
+                            navData[language].hamburgerMenu.map((item, index)=>(
+                                <Link href={item.link} key={index} onClick={()=>{ setOpenMenu(false)}}>{item.label}</Link>
+                            ))
+                        }
+                        <Link href="" onClick={handleLogin}>{navData[language].login}</Link>
+                        <Link href="" onClick={handleSignUp}>{navData[language].signUp}</Link>
                     </div>
                 </Drawer>
 

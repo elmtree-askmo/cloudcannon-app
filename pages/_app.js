@@ -81,7 +81,7 @@ export default function App({ Component, pageProps }) {
         <div>
           <HeaderComponent pathname={pathname} theme={theme()} setLanguage={setLanguage} language={language} />
           <AppComponent {...pageProps} setLanguage={setLanguage} language={language}/>
-          <Footer theme={theme()} />
+          <Footer theme={theme()} language={language} />
         </div>
       </>
     )
