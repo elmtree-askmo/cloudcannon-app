@@ -40,16 +40,16 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<Banner key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/landscape":
-            targetComponent = (<Landscape key={index} content={homeContent} block={block} />)
+            targetComponent = (<Landscape key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/schools":
-            targetComponent = (<Schools key={index} content={homeContent} block={block} />)
+            targetComponent = (<Schools key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/howItWorks":
-            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} />)
+            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/slideshow":
-            targetComponent = (<Slideshow key={index} content={homeContent} block={block} />)
+            targetComponent = (<Slideshow key={index} content={homeContent} block={block} language={language} />)
             break;
         case "faq/questionSection":
             targetComponent = (<List key={index} content={questionsList} block={block} />)

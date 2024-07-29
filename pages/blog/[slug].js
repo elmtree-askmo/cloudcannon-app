@@ -7,11 +7,12 @@ import mixpanel from "mixpanel-browser";
 import { useEffect } from "react";
 
 const filer = new Filer({ path: 'content' });
-export default function Post({page, language}){
+export default function Post({page, language, page_zh}){
     useEffect(() => {
         mixpanel.track("MarketingPage_Article", { title: page.data.title });
       }, [])
 
+    console.log(page_zh)
     
     return (
         <>
@@ -45,6 +46,7 @@ export default function Post({page, language}){
 
 export async function getStaticPaths() {
 	const slugs = (await filer.listItemSlugs('posts')).map((slug) => ({ params: { slug } }));
+    console.log('slugs',slugs)
 	const ignored = {
 	};
 	return {
@@ -55,10 +57,12 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	const page = await filer.getItem(`${params.slug}.md`, { folder: 'posts' });
-
+    const page_zh = await filer.getItem(`${params.slug}.zh-hk.md`, { folder: 'posts' });
+    
 	return {
 		props: {
-			page: JSON.parse(JSON.stringify(page))
+			page: JSON.parse(JSON.stringify(page)),
+            page_zh: JSON.parse(JSON.stringify(page_zh)),
 		}
 	};
 }

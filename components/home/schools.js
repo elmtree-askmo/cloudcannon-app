@@ -5,7 +5,7 @@ import SlideArrowLeft from '@/public/slide-arrow-left';
 import SlideArrowRight from '@/public/slide-arrow-right';
 import Image from 'next/image';
 
-export default function Schools({content, block}){
+export default function Schools({content, block, language='en'}){
     const carouselRef = useRef();
     
     const onPrev = ()=>{
@@ -17,7 +17,7 @@ export default function Schools({content, block}){
     return (
         <div className={styles['schools-container']}>
             <div className={styles['schools-center-container']} >
-                <h3>{block.contentTitle}</h3>
+                <h3>{block.contentTitle[language] || block.contentTitle['en']}</h3>
                 <div className={styles['schools-carousel-container']}>
                     <Carousel dots={false}  ref={carouselRef} autoplaySpeed={5000} waitForAnimate autoplay > 
                         {

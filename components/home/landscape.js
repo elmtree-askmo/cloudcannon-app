@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import styles from '../../styles/Home.module.css';
 
-export default function Landscape ({content, block}){
+export default function Landscape ({content, block, language='en'}){
     return (
         <div className={styles['section-4-container']}>
           <div className={`${styles['section-4']} ${styles['main-container']}`} >
@@ -16,10 +16,10 @@ export default function Landscape ({content, block}){
                     />
                   </div>
                   <div className={styles['section-4-content-container-r']}>
-                    <h3>{item.title}</h3>
-                    <p>{item.description}</p>
+                    <h3>{item.title[language] || item.title['en']}</h3>
+                    <p>{item.description[language] || item.description['en']}</p>
                   </div>
-                  <p className={styles['section-4-content-container-b']}>{item.description}</p>
+                  <p className={styles['section-4-content-container-b']}>{item.description[language] || item.description['en']}</p>
                 </div>
               ))
             }

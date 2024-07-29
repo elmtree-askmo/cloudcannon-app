@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import SlideArrowLeft from '@/public/slide-arrow-left';
 import SlideArrowRight from '@/public/slide-arrow-right';
 
-export default function Slideshow({content, block}){
+export default function Slideshow({content, block, language='en'}){
     const carouselRef = useRef();
     
     const onPrev = ()=>{
@@ -17,8 +17,8 @@ export default function Slideshow({content, block}){
     return (
         <div className={styles['carousel-container']}>
             <div className={styles['carousel-center-container']}>
-                <h3>{block.contentTitle}</h3>
-                <h4>{block.subTitle}</h4>
+                <h3>{block.contentTitle[language] || block.contentTitle['en']}</h3>
+                <h4>{block.subTitle[language] || block.subTitle['en']}</h4>
                 <div className={styles['carousel-box']}>
                     <Carousel dots={false}  ref={carouselRef} autoplaySpeed={5000} waitForAnimate autoplay > 
                         {
@@ -26,9 +26,9 @@ export default function Slideshow({content, block}){
                                 <div className={styles['carousel-custom-item']} key={index} >
                                     <div className={styles['carousel-item-avatar']}><img src={item.avatar} /></div>
                                     <div className={styles['carousel-item-info']}>
-                                        <p className={styles['carousel-item-comment']}>{item.description}</p>
+                                        <p className={styles['carousel-item-comment']}>{item.description[language] || item.description['en']}</p>
                                         <p className={styles['carousel-item-user']}>
-                                            <span>{item.name}</span> - <span>{item.grade}</span>
+                                            <span>{item.name[language] || item.name['en']}</span> - <span>{item.grade[language] || item.grade['en']}</span>
                                         </p>
                                     </div>
                                 </div>

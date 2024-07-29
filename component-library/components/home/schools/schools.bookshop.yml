@@ -10,7 +10,11 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Home Schools Section
-  contentTitle: Trusted By Top Students
+  contentTitle: 
+      en: Trusted By Top Students
+      zh-hk: 
+      fr: 
+      sp: 
   slides:
       - logos:
         - image: /schoolLogo/berkeley.svg

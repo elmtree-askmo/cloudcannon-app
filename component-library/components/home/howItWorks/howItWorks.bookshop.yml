@@ -10,20 +10,66 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Home How It Works Section
-  contentTitle: How It Works
+  contentTitle: 
+    en: How It Works
+    zh-hk: 
+    fr: 
+    sp: 
   image: /howItWorks.png
   leftSideContent_a:
-    title: Personalize Studying
-    description: Record live lectures, upload audio and video files, and insert Youtube URLs then get back an Ai-generated QuickTake.
+    title: 
+      en: Personalize Studying
+      zh-hk: 
+      fr: 
+      sp:  
+    description:
+      en: >-
+        Record live lectures, upload audio and video files, and insert Youtube
+        URLs then get back an AI-generated QuickTake.
+      zh-hk: 
+      fr: 
+      sp:  
   leftSideContent_b:
-    title: Stay Organized
-    description: Group your QuickTakes into class folders by semester for easier studying, powered by AI.
+    title: 
+      en: Stay Organized
+      zh-hk: 
+      fr: 
+      sp:  
+    description: 
+      en: >-
+        Group your QuickTakes into class folders by semester for easier
+        studying, powered by AI.
+      zh-hk: 
+      fr: 
+      sp:  
   rightSideContent_a:
-    title: Study Smarter
-    description: Using AI, QuickTakes auto-generates an outline, study guide, glossary, practice questions, and a complete transcript within seconds.
+    title: 
+      en: Study Smarter
+      zh-hk: 
+      fr: 
+      sp:  
+    description: 
+      en: >-
+        Using AI, QuickTakes auto-generates an outline, study guide, glossary,
+        practice questions, and a complete transcript within seconds.
+        studying, powered by AI.
+      zh-hk: 
+      fr: 
+      sp:  
   rightSideContent_b:
-    title: Chat in Real Time
-    description: Get subject-relevant questions answered 24/7 by your personalized AI sidekick chatbot.
+    title: 
+      en: Chat in Real Time
+      zh-hk: 
+      fr: 
+      sp:  
+    description: 
+      en: >-
+        Get subject-relevant questions answered 24/7 by your personalized AI
+        sidekick chatbot.
+        studying, powered by AI.
+      zh-hk: 
+      fr: 
+      sp:  
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

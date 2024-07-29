@@ -10,13 +10,35 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Home Testmonials Section
-  contentTitle: Supercharge Your Lecture Notes
-  subTitle: QuickTakes Testimonies
+  contentTitle: 
+    en: Supercharge Your Lecture Notes
+    zh-hk: 
+    fr: 
+    sp:  
+  subTitle: 
+    en: QuickTakes Testimonies
+    zh-hk: 
+    fr: 
+    sp: 
   slides:
       - avatar: /student_avatar.svg
-        description: This app is exactly what I was looking for AND MORE! Everything is SO useful for studying.
-        name: Lucas G
-        grade: Senior
+        description:
+          en: >-
+            "This app is exactly what I was looking for AND MORE! Everything is SO
+            useful for studying." 
+          zh-hk: 
+          fr: 
+          sp:  
+        name: 
+          en: Lucas G
+          zh-hk: 
+          fr: 
+          sp:  
+        grade: 
+          en: Senior
+          zh-hk: 
+          fr: 
+          sp: 
         
 
 # Overrides any fields in the blueprint when viewing this component in the component browser

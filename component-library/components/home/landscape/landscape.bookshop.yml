@@ -11,19 +11,51 @@ spec:
 blueprint:
   title: Home benefit Section
   items:
-      - title: Never Forget a Lecture
-        description: >-
-          Record your entire lecture to get back your AI-generated QuickTake! Feel confident while you concentrate on listening to your lecture that you’ll have the back up you need with AI-developed supercharged study notes.
+      - title: 
+          en: Never Forget a Lecture
+          zh-hk: 
+          fr: 
+          sp:  
+        description: 
+          en: >-
+            Record your entire lecture to get back your AI-generated QuickTake!
+            Feel confident while you concentrate on listening to your lecture that
+            you’ll have the back up you need with AI-developed supercharged study
+            notes.
+          zh-hk: 
+          fr: 
+          sp: 
         image: /never-forget-a-lecture.png
         reverse: false
-      - title: Get Better Grades Now
-        description: >-
-          Upload pre-recorded audio and video files, Youtube URLs and PDFs and let your personalized AI sidekick organize all your materials so you have an effective way to study for exams and finals.
+      - title: 
+          en: Get Better Grades Now
+          zh-hk: 
+          fr: 
+          sp:  
+        description: 
+          en: >-
+            Upload pre-recorded audio and video files, Youtube URLs and PDFs and
+            let your personalized AI sidekick organize all your materials so you
+            have an effective way to study for exams and finals.
+          zh-hk: 
+          fr: 
+          sp: 
         image: /get-better-grades-now.png
         reverse: true
-      - title: Chat & Learn with Your Dedicated AI Sidekick, 24/7
-        description: >-
-          Need a question answered but can’t get time with your professor? Query your AI Sidekick chatbot to discuss topics, get more detailed explanations and develop in-depth understanding of all your class materials.
+      - title:
+          en: Chat & Learn with Your Dedicated AI Sidekick, 24/7
+          zh-hk: 
+          fr: 
+          sp:  
+        description:
+          en: >-
+            Need a question answered but can’t get time with your professor? Query
+            your AI Sidekick chatbot to discuss topics, get more detailed
+            explanations and develop in-depth understanding of all your class
+            materials.
+          zh-hk: 
+          fr: 
+          sp:  
         image: /chat-learn-with-ai.png
         reverse: false
 
