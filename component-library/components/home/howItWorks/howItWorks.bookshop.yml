@@ -35,7 +35,7 @@ blueprint:
       zh_hk: 
       fr: 
       sp:  
-    description: 
+    description:
       en: >-
         Group your QuickTakes into class folders by semester for easier
         studying, powered by AI.
@@ -48,7 +48,7 @@ blueprint:
       zh_hk: 
       fr: 
       sp:  
-    description: 
+    description:
       en: >-
         Using AI, QuickTakes auto-generates an outline, study guide, glossary,
         practice questions, and a complete transcript within seconds.
@@ -62,7 +62,7 @@ blueprint:
       zh_hk: 
       fr: 
       sp:  
-    description: 
+    description:
       en: >-
         Get subject-relevant questions answered 24/7 by your personalized AI
         sidekick chatbot.
