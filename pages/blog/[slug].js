@@ -57,12 +57,12 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	const page = await filer.getItem(`${params.slug}.md`, { folder: 'posts' });
-    const page_zh = await filer.getItem(`${params.slug}.zh-hk.md`, { folder: 'posts' });
+    // const page_zh = await filer.getItem(`${params.slug}.zh-hk.md`, { folder: 'posts' });
     
 	return {
 		props: {
 			page: JSON.parse(JSON.stringify(page)),
-            page_zh: JSON.parse(JSON.stringify(page_zh)),
+            // page_zh: JSON.parse(JSON.stringify(page_zh)),
 		}
 	};
 }
