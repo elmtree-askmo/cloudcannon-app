@@ -85,26 +85,10 @@ _inputs:
   leftSideContent_a.description.sp:
     type: textarea
   leftSideContent_b.description.en:
-    tpye: textarea
+    type: textarea
   leftSideContent_b.description.zh_hk:
-    tpye: textarea
+    type: textarea
   leftSideContent_b.description.fr:
-    tpye: textarea
+    type: textarea
   leftSideContent_b.description.sp:
-    tpye: textarea
-  rightSideContent_a.description.en:
-    tpye: textarea
-  rightSideContent_a.description.zh_hk:
-    tpye: textarea
-  rightSideContent_a.description.fr:
-    tpye: textarea
-  rightSideContent_a.description.sp:
-    tpye: textarea
-  rightSideContent_b.description.en:
-    tpye: textarea
-  rightSideContent_b.description.zh_hk:
-    tpye: textarea
-  rightSideContent_b.description.fr:
-    tpye: textarea
-  rightSideContent_b.description.sp:
-    tpye: textarea
+    type: textarea
