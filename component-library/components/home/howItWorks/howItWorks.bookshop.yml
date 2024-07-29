@@ -92,3 +92,19 @@ _inputs:
     type: textarea
   leftSideContent_b.description.sp:
     type: textarea
+  rightSideContent_a.description.en:
+    type: textarea
+  rightSideContent_a.description.zh_hk:
+    type: textarea
+  rightSideContent_a.description.fr:
+    type: textarea
+  rightSideContent_a.description.sp:
+    type: textarea
+  rightSideContent_b.description.en:
+    type: textarea
+  rightSideContent_b.description.zh_hk:
+    type: textarea
+  rightSideContent_b.description.fr:
+    type: textarea
+  rightSideContent_b.description.sp:
+    type: textarea
