@@ -76,11 +76,35 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  leftSideContent_a.desctiption.*:
+  leftSideContent_a.desctiption.en:
     type: textarea
-  leftSideContent_b.desctiption[*]:
+  leftSideContent_a.desctiption.zh-hk:
+    type: textarea
+  leftSideContent_a.desctiption.fr:
+    type: textarea
+  leftSideContent_a.desctiption.sp:
+    type: textarea
+  leftSideContent_b.desctiption.en:
     tpye: textarea
-  rightSideContent_a.desctiption[*]:
+  leftSideContent_b.desctiption.zh-hk:
     tpye: textarea
-  rightSideContent_b.desctiption[*]:
+  leftSideContent_b.desctiption.fr:
+    tpye: textarea
+  leftSideContent_b.desctiption.sp:
+    tpye: textarea
+  rightSideContent_a.desctiption.en:
+    tpye: textarea
+  rightSideContent_a.desctiption.zh-hk:
+    tpye: textarea
+  rightSideContent_a.desctiption.fr:
+    tpye: textarea
+  rightSideContent_a.desctiption.sp:
+    tpye: textarea
+  rightSideContent_b.desctiption.en:
+    tpye: textarea
+  rightSideContent_b.desctiption.zh-hk:
+    tpye: textarea
+  rightSideContent_b.desctiption.fr:
+    tpye: textarea
+  rightSideContent_b.desctiption.sp:
     tpye: textarea
