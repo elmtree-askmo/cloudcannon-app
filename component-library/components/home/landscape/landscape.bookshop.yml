@@ -13,7 +13,7 @@ blueprint:
   items:
       - title: 
           en: Never Forget a Lecture
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description: 
@@ -22,14 +22,14 @@ blueprint:
             Feel confident while you concentrate on listening to your lecture that
             you’ll have the back up you need with AI-developed supercharged study
             notes.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp: 
         image: /never-forget-a-lecture.png
         reverse: false
       - title: 
           en: Get Better Grades Now
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description: 
@@ -37,14 +37,14 @@ blueprint:
             Upload pre-recorded audio and video files, Youtube URLs and PDFs and
             let your personalized AI sidekick organize all your materials so you
             have an effective way to study for exams and finals.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp: 
         image: /get-better-grades-now.png
         reverse: true
       - title:
           en: Chat & Learn with Your Dedicated AI Sidekick, 24/7
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description:
@@ -53,7 +53,7 @@ blueprint:
             your AI Sidekick chatbot to discuss topics, get more detailed
             explanations and develop in-depth understanding of all your class
             materials.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         image: /chat-learn-with-ai.png
@@ -66,7 +66,7 @@ preview:
 _inputs:
   items[*].description.en:
     type: textarea
-  items[*].description.zh-hk:
+  items[*].description.zh_hk:
     type: textarea
   items[*].description.fr:
     type: textarea

@@ -12,40 +12,40 @@ blueprint:
   title: Home How It Works Section
   contentTitle: 
     en: How It Works
-    zh-hk: 
+    zh_hk: 
     fr: 
     sp: 
   image: /howItWorks.png
   leftSideContent_a:
     title: 
       en: Personalize Studying
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     description:
       en: >-
         Record live lectures, upload audio and video files, and insert Youtube
         URLs then get back an AI-generated QuickTake.
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
   leftSideContent_b:
     title: 
       en: Stay Organized
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     description: 
       en: >-
         Group your QuickTakes into class folders by semester for easier
         studying, powered by AI.
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
   rightSideContent_a:
     title: 
       en: Study Smarter
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     description: 
@@ -53,13 +53,13 @@ blueprint:
         Using AI, QuickTakes auto-generates an outline, study guide, glossary,
         practice questions, and a complete transcript within seconds.
         studying, powered by AI.
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
   rightSideContent_b:
     title: 
       en: Chat in Real Time
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     description: 
@@ -67,7 +67,7 @@ blueprint:
         Get subject-relevant questions answered 24/7 by your personalized AI
         sidekick chatbot.
         studying, powered by AI.
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
 
@@ -78,34 +78,31 @@ preview:
 _inputs:
   leftSideContent_a.description.en:
     type: textarea
-  leftSideContent_a.description.zh-hk:
+  leftSideContent_a.description.zh_hk:
     type: textarea
   leftSideContent_a.description.fr:
     type: textarea
   leftSideContent_a.description.sp:
     type: textarea
-
   leftSideContent_b.description.en:
     tpye: textarea
-  leftSideContent_b.description.zh-hk:
+  leftSideContent_b.description.zh_hk:
     tpye: textarea
   leftSideContent_b.description.fr:
     tpye: textarea
   leftSideContent_b.description.sp:
     tpye: textarea
-  
   rightSideContent_a.description.en:
     tpye: textarea
-  rightSideContent_a.description.zh-hk:
+  rightSideContent_a.description.zh_hk:
     tpye: textarea
   rightSideContent_a.description.fr:
     tpye: textarea
   rightSideContent_a.description.sp:
     tpye: textarea
-
   rightSideContent_b.description.en:
     tpye: textarea
-  rightSideContent_b.description.zh-hk:
+  rightSideContent_b.description.zh_hk:
     tpye: textarea
   rightSideContent_b.description.fr:
     tpye: textarea

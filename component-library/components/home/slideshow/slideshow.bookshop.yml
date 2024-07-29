@@ -12,12 +12,12 @@ blueprint:
   title: Home Testmonials Section
   contentTitle: 
     en: Supercharge Your Lecture Notes
-    zh-hk: 
+    zh_hk: 
     fr: 
     sp:  
   subTitle: 
     en: QuickTakes Testimonies
-    zh-hk: 
+    zh_hk: 
     fr: 
     sp: 
   slides:
@@ -26,17 +26,17 @@ blueprint:
           en: >-
             "This app is exactly what I was looking for AND MORE! Everything is SO
             useful for studying." 
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Lucas G
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Senior
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp: 
         
@@ -48,7 +48,7 @@ preview:
 _inputs:
   slides[*].description.en:
     type: textarea
-  slides[*].description.zh-hk:
+  slides[*].description.zh_hk:
     type: textarea
   slides[*].description.fr:
     type: textarea

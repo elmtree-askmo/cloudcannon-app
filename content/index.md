@@ -5,17 +5,17 @@ content_blocks:
     title: Home Banner section
     contentTitle: 
       en: "\_Study Smarter, Learn Faster"
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     subTitle: 
       en: Supercharge learning with your personalized AI study sidekick
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     buttonTxt:
       en: Sign Up Today
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
   - _bookshop_name: home/landscape
@@ -23,7 +23,7 @@ content_blocks:
     items:
       - title: 
           en: Never Forget a Lecture
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description: 
@@ -32,14 +32,14 @@ content_blocks:
             Feel confident while you concentrate on listening to your lecture that
             you’ll have the back up you need with AI-developed supercharged study
             notes.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp: 
         image: /never-forget-a-lecture.png
         reverse: false
       - title: 
           en: Get Better Grades Now
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description: 
@@ -47,14 +47,14 @@ content_blocks:
             Upload pre-recorded audio and video files, Youtube URLs and PDFs and
             let your personalized AI sidekick organize all your materials so you
             have an effective way to study for exams and finals.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp: 
         image: /get-better-grades-now.png
         reverse: true
       - title:
           en: Chat & Learn with Your Dedicated AI Sidekick, 24/7
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         description:
@@ -63,7 +63,7 @@ content_blocks:
             your AI Sidekick chatbot to discuss topics, get more detailed
             explanations and develop in-depth understanding of all your class
             materials.
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         image: /chat-learn-with-ai.png
@@ -72,7 +72,7 @@ content_blocks:
     title: Home Schools Section
     contentTitle: 
       en: Trusted By Top Students
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     slides:
@@ -101,40 +101,40 @@ content_blocks:
     title: Home How It Works Section
     contentTitle: 
       en: How It Works
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     image: /howItWorks.png
     leftSideContent_a:
       title: 
         en: Personalize Studying
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
       description:
         en: >-
           Record live lectures, upload audio and video files, and insert Youtube
           URLs then get back an AI-generated QuickTake.
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
     leftSideContent_b:
       title: 
         en: Stay Organized
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
       description: 
         en: >-
           Group your QuickTakes into class folders by semester for easier
           studying, powered by AI.
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
     rightSideContent_a:
       title: 
         en: Study Smarter
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
       description: 
@@ -142,13 +142,13 @@ content_blocks:
           Using AI, QuickTakes auto-generates an outline, study guide, glossary,
           practice questions, and a complete transcript within seconds.
           studying, powered by AI.
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
     rightSideContent_b:
       title: 
         en: Chat in Real Time
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
       description: 
@@ -156,19 +156,19 @@ content_blocks:
           Get subject-relevant questions answered 24/7 by your personalized AI
           sidekick chatbot.
           studying, powered by AI.
-        zh-hk: 
+        zh_hk: 
         fr: 
         sp:  
   - _bookshop_name: home/slideshow
     title: Home Testmonials Section
     contentTitle: 
       en: Supercharge Your Lecture Notes
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     subTitle: 
       en: QuickTakes Testimonies
-      zh-hk: 
+      zh_hk: 
       fr: 
       sp:  
     slides:
@@ -177,34 +177,34 @@ content_blocks:
           en: >-
             "This app is exactly what I was looking for AND MORE! Everything is SO
             useful for studying." 
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Lucas G
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Senior
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
       - avatar: /student_avatar2.svg
         description:
           en: >-
             '"QuickTakes is super easy to use. It makes learning super intuitive!"'
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Robert R
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Freshman
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
       - avatar: /student_avatar3.svg
@@ -212,17 +212,17 @@ content_blocks:
           en: >-
             "This app is the best thing to have ever happened to me in my
             education!"
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Madi K
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Sophomore
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
       - avatar: /student_avatar4.svg
@@ -230,34 +230,34 @@ content_blocks:
           en: >-
             "QuickTakes is astoundingly useful, especially for people who struggle
             with ADHD!"
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Jackie M
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Junior
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
       - avatar: /student_avatar5.svg
         description: 
           en: >-
             '"I truly believe that QuickTakes is revolutionary!"'
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: James B
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Sophomore
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
       - avatar: /student_avatar.svg
@@ -265,17 +265,17 @@ content_blocks:
           en: >-
             "As a professor I highly recommend giving this app a shot so you can
             focus on the lecture."
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         name: 
           en: Charles
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
         grade: 
           en: Professor
-          zh-hk: 
+          zh_hk: 
           fr: 
           sp:  
 ---

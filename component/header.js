@@ -132,7 +132,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                                     onChange={handleOnChange}
                                     options={[
                                         {value: 'en', label:"English"},
-                                        {value: 'zh-hk', label:"Traditional Chinese"},
+                                        {value: 'zh_hk', label:"Traditional Chinese"},
                                         {value: 'sp', label:"Spanish"},
                                         {value: 'fr', label:"French"}
                                     ]}
