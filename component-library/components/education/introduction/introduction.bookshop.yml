@@ -35,3 +35,11 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  description.en:
+    type: textarea
+  description.zh_hk:
+    type: textarea
+  description.fr:
+    type: textarea
+  description.sp:
+    type: textarea
