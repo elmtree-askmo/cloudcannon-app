@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { APP_URL } from '@/constant/app.constant';
 import mixpanel from 'mixpanel-browser';
 
-export default function BlogHeader({content, block}){
+export default function BlogHeader({content, block, language='en'}){
 
     const handleSignUp = (e)=>{
         e.preventDefault();
@@ -16,8 +16,8 @@ export default function BlogHeader({content, block}){
     return (
         <div className={styles['blogHeader-container']}>
             <div className={styles['blogHeader-center-container']}>
-                <h3>{block.contentTitle}</h3>
-                <p>{block.description}</p>
+                <h3>{block.contentTitle[language] || block.contentTitle['en'] }</h3>
+                <p>{block.description[language] || block.description['en'] }</p>
                 {/* <div className={styles['sign-up-today-container']}>
                     <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign Up Today</Link>
                 </div> */}

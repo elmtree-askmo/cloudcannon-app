@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Blog({page, posts}) {
+export default function Blog({page, posts, language='en'}) {
 
   const blocks = page.data.content_blocks;
 
@@ -28,7 +28,7 @@ export default function Blog({page, posts}) {
     </Head>
     {
       blocks.map((item, index)=>{
-        return renderComponent(item._bookshop_name, index, item, posts)
+        return renderComponent(item._bookshop_name, index, item, posts, language)
       })
     }
   </>

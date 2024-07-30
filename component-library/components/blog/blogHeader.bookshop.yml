@@ -10,11 +10,28 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Blog Header Section
-  contentTitle: Blog
-  description: Explore trends in AI, study tips, and all things QuickTakes in our blog!
+  contentTitle: 
+    en: Blog
+    zh_hk:
+    fr:
+    sp:
+  description: 
+    en: >-
+        Explore trends in AI, study tips, and all things QuickTakes in our blog!
+    zh_hk:
+    fr:
+    sp:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  description.en:
+    type: textarea
+  description.zh_hk:
+    type: textarea
+  description.fr:
+    type: textarea
+  description.sp:
+    type: textarea
