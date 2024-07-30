@@ -24,6 +24,8 @@ export default function Header({ pathname, theme, language, setLanguage }) {
 
     const HIDE_APP_BANNER_TIME = 1000 * 60 * 60; //1hour
 
+    const data = navData[language]? navData[language]:navData['en'];
+
     const hanldeOpenForm = (e)=>{
         e.preventDefault();
         setOpenContact(true);
@@ -75,7 +77,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
     }
 
     const renderNav = ()=>{
-        return navData[language].items.map((item, index)=>{
+        return data.items.map((item, index)=>{
             switch(item.type){
                 case "Link":
                     return (
@@ -107,7 +109,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                 <div className={styles['main-container']}>
                     <div className={styles['logo-container']} onClick={handleClickLogo}>
                         <Image
-                            src={navData[language].logo}
+                            src={data.logo}
                             alt="Logo"
                             className="logo"
                             width={168}
@@ -125,8 +127,8 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                         {
                             theme === 'b2c' &&
                             <div className={styles['signup-login-container']}>
-                                <Link href="" className={styles["login-button"]} onClick={handleLogin}>{navData[language].login}</Link>
-                                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >{navData[language].signUp}</Link>
+                                <Link href="" className={styles["login-button"]} onClick={handleLogin}>{data.login}</Link>
+                                <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >{data.signUp}</Link>
                                 <Select 
                                     defaultValue={language}
                                     onChange={handleOnChange}
@@ -182,12 +184,12 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                     </div>
                     <div className={styles["drawer-container"]}>
                         {
-                            navData[language].hamburgerMenu.map((item, index)=>(
+                            data.hamburgerMenu.map((item, index)=>(
                                 <Link href={item.link} key={index} onClick={()=>{ setOpenMenu(false)}}>{item.label}</Link>
                             ))
                         }
-                        <Link href="" onClick={handleLogin}>{navData[language].login}</Link>
-                        <Link href="" onClick={handleSignUp}>{navData[language].signUp}</Link>
+                        <Link href="" onClick={handleLogin}>{data.login}</Link>
+                        <Link href="" onClick={handleSignUp}>{data.signUp}</Link>
                     </div>
                 </Drawer>
 
