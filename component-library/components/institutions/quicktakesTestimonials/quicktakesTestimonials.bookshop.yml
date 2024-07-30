@@ -10,23 +10,48 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Institutions testimonials section
-  contentTitle: QuickTakes Testimonials
-  description: Don't just take our word for it. See what students are saying about QuickTakes.
+  contentTitle: 
+    en: QuickTakes Testimonials
+    zh_hk: 
+    fr:
+    sp:
+  description: 
+    en: >-
+      Don't just take our word for it. See what students are saying about
+      QuickTakes.
+    zh_hk: 
+    fr:
+    sp:
   items:
     - name: Jeremy
-      content: This is such a great app. ADHD makes lectures really difficult to get through and retain material, but QuickTakes makes the process a whole lot easier.
+      content: 
+        en: >-
+          This is such a great app. ADHD makes lectures really difficult to get
+          through and retain material, but QuickTakes makes the process a whole
+          lot easier.
+        zh_hk: 
+        fr:
+        sp:
       avatar: /insititutions/avatar.svg
-    - name: Owen
-      content: The extensive functionality blows my mind! This is not work, it's a masterpiece. It even translates on-the-fly too. WOW! 😀 What a bonus for my English-only friends, and my Spanish (ELL) wife too! 
-      avatar: /insititutions/avatar2.svg
-    - name: Alexis
-      content: I started using QuickTakes to record what the teacher was saying, and I must say that this works PERFECTLY.
-      avatar: /insititutions/avatar3.svg
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  content:
+  description.en:
+    type: textarea
+  description.zh_hk:
+    type: textarea
+  description.fr:
+    type: textarea
+  description.sp:
+    type: textarea
+  items[*].content.en:
+    type: textarea
+  items[*].content.zh_hk:
+    type: textarea
+  items[*].content.fr:
+    type: textarea
+  items[*].content.sp:
     type: textarea

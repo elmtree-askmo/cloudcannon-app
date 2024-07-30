@@ -10,26 +10,57 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Institutions features section
-  contentTitle: QuickTakes Features
-  description: From a full transcript of a recording or audio/video file to flashcards for studying with intent, QuickTakes has all the learning tools students need to be academically successful.
+  contentTitle: 
+    en: QuickTakes Features
+    zh_hk: 
+    fr:
+    sp:
+  description: 
+    en: >-
+      From a full transcript of a recording or audio/video file to flashcards
+      for studying with intent, QuickTakes has all the learning tools students
+      need to be academically successful.
+    zh_hk: 
+    fr: 
+    sp:
+  buttonTxt:
+    en: Go to QuickTakes
+    zh_hk: 
+    fr: 
+    sp:
   items:
-    - title: Transcript
-      content: All of your class notes in one place, don’t miss a word of the lecture, more actively participate in class
+    - title: 
+        en: Transcript
+        zh_hk: 
+        fr:
+        sp:
+      content: 
+        en: >-
+          All of your class notes in one place, don’t miss a word of the
+          lecture, more actively participate in class
+        zh_hk: 
+        fr:
+        sp:
       image: /insititutions/transcript.svg
-    - title: Study guide
-      content: Organize your notes quickly and effectively to help you study smarter and learn better
-      image: /insititutions/studyGuide.svg
-    - title: AI Chatbot
-      content: Ask subject-relevant questions to your AI sidekick
-      image: /insititutions/chatBot.svg
-    - title: Flashcards
-      content: Show what you know & deepen understanding of key concepts + terms
-      image: /insititutions/flashcards.svg
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  content:
+  description.en:
+    type: textarea
+  description.zh_hk:
+    type: textarea
+  description.fr:
+    type: textarea
+  description.sp:
+    type: textarea
+  items[*].content.en:
+    type: textarea
+  items[*].content.zh_hk:
+    type: textarea
+  items[*].content.fr:
+    type: textarea
+  items[*].content.sp:
     type: textarea

@@ -94,22 +94,22 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} />)
             break;
         case "institutions/institutionsBanner":
-            targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         case "institutions/briefing":
-            targetComponent = (<Briefing key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<Briefing key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         case "institutions/empowerToSucceed":
-            targetComponent = (<EmpowerToSucceed key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<EmpowerToSucceed key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         case "institutions/licensingAndSubscriptions":
-            targetComponent = (<LicensingAndSubscriptions key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<LicensingAndSubscriptions key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         case "institutions/quicktakesFeatures":
-            targetComponent = (<QuicktakesFeatures key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<QuicktakesFeatures key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         case "institutions/quicktakesTestimonials":
-            targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block} />)
+            targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block}  language={language} />)
             break;
         default:
             targetComponent = null;

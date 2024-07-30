@@ -154,7 +154,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                     {
                         theme === 'b2b' &&
                         <div className={styles['signup-login-container']}>
-                            <Link href="#" className={styles["sign-up-button"]} onClick={hanldeOpenForm} >Contact Us</Link>
+                            <Link href="#" className={styles["sign-up-button"]} onClick={hanldeOpenForm} >{data.contactUs}</Link>
                         </div>
                     }
                 </div>

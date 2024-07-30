@@ -10,7 +10,7 @@ import SlideArrowLeft from '@/public/slide-arrow-left';
 import SlideArrowRight from '@/public/slide-arrow-right';
 import { Autoplay } from 'swiper/modules';
 
-export default function QuicktakesTestimonials({block}){
+export default function QuicktakesTestimonials({block, language='en'}){
     const [swiper, setSwiper] = useState(null);
     // useEffect(()=>{
     //     if(swiper && swiper.initialized){
@@ -22,8 +22,8 @@ export default function QuicktakesTestimonials({block}){
     return (
         <div className={styles['institutions-testimonials-container']}>
             <div className={styles['institutions-testimonials-center-container']}>
-                <h2>{block.contentTitle}</h2>
-                <p>{block.description}</p>
+                <h2>{block.contentTitle[language] || block.contentTitle['en'] }</h2>
+                <p>{block.description[language] || block.description['en'] }</p>
                 <div className={styles['institutions-testimonials-swiper-box']}>
                     <Swiper
                         autoplay={true}
@@ -50,7 +50,7 @@ export default function QuicktakesTestimonials({block}){
                                     <div className={styles['slide-item-content']}>
                                         <div><img src={item.avatar} /></div>
                                         <span>{item.name}</span>
-                                        <p>{item.content} </p>
+                                        <p>{item.content[language] || item.content['en']} </p>
                                     </div>
                                 </SwiperSlide>
                             ))

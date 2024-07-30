@@ -3,11 +3,13 @@ import { Button, Input, Modal, message } from "antd";
 import axios from "axios";
 import { useState } from "react";
 import styles from './contactForm.module.css';
-
-export default function ContactForm({open, onCancel}){
+import navData from '../data/nav.json';
+export default function ContactForm({open, onCancel, language='en'}){
     const [email, setEmail] = useState('');
     const [name, setName] = useState('');
     const [description, setDescription] = useState('');
+
+    const data = navData[language]?.contactForm? navData[language]?.contactForm:navData['en']?.contactForm;
 
     const resetForm = ()=>{
         setEmail('');
@@ -58,16 +60,16 @@ export default function ContactForm({open, onCancel}){
         >
             <div className={`${styles["contact-form-container"]} ${styles["students"]}`}>
                 <form onSubmit={handleSubmit} >
-                    <div>Contact Us</div>
-                    <span className={styles.formlabel}>Name</span>
-                    <Input className={styles.customInput} placeholder="Name" name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
-                    <span className={styles.formlabel}>Email</span>
-                    <Input className={styles.customInput} placeholder="Email" name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
-                    <span className={styles.formlabel}>Subject</span>
-                    <Input className={styles.customInput} placeholder="Subject" name="subject" value="QuickTakes Institution Info Request"  disabled/>
-                    <span className={styles.formlabel}>Message</span>
-                    <Input className={styles.customInput} placeholder="Message" name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
-                    <Button type="primary" className={!name||!email||!description? [styles.disabled, styles.send]: styles.send} htmlType="submit" >Send Email</Button>
+                    <div>{data.contactUs}</div>
+                    <span className={styles.formlabel}>{data.name}</span>
+                    <Input className={styles.customInput} placeholder={data.name} name="name" value={name} onChange={(e)=>{setName(e.target.value)}} />
+                    <span className={styles.formlabel}>{data.email}</span>
+                    <Input className={styles.customInput} placeholder={data.email} name="email" value={email} onChange={(e)=>{setEmail(e.target.value)}} />
+                    <span className={styles.formlabel}>{data.subject}</span>
+                    <Input className={styles.customInput} placeholder={data.subject} name="subject" value={data.subjectValue}  disabled/>
+                    <span className={styles.formlabel}>{data.message}</span>
+                    <Input className={styles.customInput} placeholder={data.message} name="description" value={description} onChange={(e)=>{setDescription(e.target.value)}} />
+                    <Button type="primary" className={!name||!email||!description? [styles.disabled, styles.send]: styles.send} htmlType="submit" >{data.sendEmail}</Button>
                 </form>
             </div>
         </Modal>

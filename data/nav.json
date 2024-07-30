@@ -4,6 +4,7 @@
 		"logo_light":"/quicktakesIcon_new_light.svg",
 		"signUp":"Sign Up",
 		"login":"Login",
+		"contactUs":"Contact Us",
 		"hamburgerMenu":[
 			{
 				"label": "About Us",
@@ -96,6 +97,15 @@
 				]
 			}
 		},
+		"contactForm":{
+			"contactUs":"Contact Us",
+			"name":"Name",
+			"email":"Email",
+			"subject":"Subject",
+			"message":"Message",
+			"sendEmail":"Send Email",
+			"subjectValue":"QuickTakes Institution Info Request"
+		},
 		"_inputs": {
 			"logo": {
 				"type": "image"
@@ -107,6 +117,7 @@
 		"logo_light":"/quicktakesIcon_new_light.svg",
 		"signUp":"注册",
 		"login":"登录",
+		"contactUs":"联系我们",
 		"hamburgerMenu":[
 			{
 				"label": "关于我们",
@@ -199,6 +210,15 @@
 				]
 			}
 		},
+		"contactForm":{
+			"contactUs":"联系我们",
+			"name":"姓名",
+			"email":"邮箱",
+			"subject":"科目",
+			"message":"消息",
+			"sendEmail":"发送邮件",
+			"subjectValue":"QuickTakes信息请求"
+		},
 		"_inputs": {
 			"logo": {
 				"type": "image"
@@ -210,6 +230,7 @@
 		"logo_light":"/quicktakesIcon_new_light.svg",
 		"signUp":"Sign Up",
 		"login":"Login",
+		"contactUs":"Contact Us",
 		"hamburgerMenu":[
 			{
 				"label": "About Us",
@@ -302,6 +323,15 @@
 				]
 			}
 		},
+		"contactForm":{
+			"contactUs":"Contact Us",
+			"name":"Name",
+			"email":"Email",
+			"subject":"Subject",
+			"message":"Message",
+			"sendEmail":"Send Email",
+			"subjectValue":"QuickTakes Institution Info Request"
+		},
 		"_inputs": {
 			"logo": {
 				"type": "image"
@@ -313,6 +343,7 @@
 		"logo_light":"/quicktakesIcon_new_light.svg",
 		"signUp":"Sign Up",
 		"login":"Login",
+		"contactUs":"Contact Us",
 		"hamburgerMenu":[
 			{
 				"label": "About Us",
@@ -404,6 +435,15 @@
 					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
 				]
 			}
+		},
+		"contactForm":{
+			"contactUs":"Contact Us",
+			"name":"Name",
+			"email":"Email",
+			"subject":"Subject",
+			"message":"Message",
+			"sendEmail":"Send Email",
+			"subjectValue":"QuickTakes Institution Info Request"
 		},
 		"_inputs": {
 			"logo": {

@@ -10,8 +10,23 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Institutions Banner section
-  contentTitle: Revolutionizing Accessibility in the Classroom with AI
-  subTitle: Ensure students of all abilities and backgrounds can succeed academically with QuickTakes AI-generated study aids.
+  contentTitle: 
+    en: Revolutionizing Accessibility in the Classroom with AI
+    zh_hk: 
+    fr: 
+    sp:
+  subTitle: 
+    en: >-
+      Ensure students of all abilities and backgrounds can succeed academically
+      with QuickTakes AI-generated study aids.
+    zh_hk: 
+    fr: 
+    sp:
+  buttonTxt:
+    en: Contact Us
+    zh_hk: 
+    fr: test
+    sp:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
