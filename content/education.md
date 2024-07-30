@@ -3,20 +3,37 @@ title: AI Education
 content_blocks:
   - _bookshop_name: education/introduction
     title: Education introduction Section
-    contentTitle: AI in Education
-    description: >-
-      The world of AI in education is new and exciting with high potential to
-      help students and educators more effectively learn and educate. AI in
-      education is also fraught with concerns about how to deploy in meaningful
-      ways that include guardrails and best practices. What are the implications
-      for the next generation of students and educators? How do we maintain
-      checks and balances, or avoid de-skilling? These just some of the
-      questions on the mind thought-leaders in the AI edtech space. Check out
-      some books and articles below that our staff believes will help educate
-      those interested in AI and its promise for education.
+    contentTitle: 
+      en: AI in Education
+      zh_hk:
+      fr: test
+      sp:
+    description: 
+      en: >-
+        The world of AI in education is new and exciting with high potential to
+        help students and educators more effectively learn and educate. AI in
+        education is also fraught with concerns about how to deploy in meaningful
+        ways that include guardrails and best practices. What are the implications
+        for the next generation of students and educators? How do we maintain
+        checks and balances, or avoid de-skilling? These just some of the
+        questions on the mind thought-leaders in the AI edtech space. Check out
+        some books and articles below that our staff believes will help educate
+        those interested in AI and its promise for education.
+      zh_hk:
+      fr: test
+      sp:
   - _bookshop_name: education/bookmentions
     title: Education Book Mentions Section
-    contentTitle: Book Mentions
+    contentTitle: 
+      en: Book Mentions
+      zh_hk:
+      fr: test
+      sp:
+    buttonTxt:
+      en: Read More
+      zh_hk:
+      fr: test
+      sp:
     items:
       - image: /bookmentions.png
         title: >-
@@ -52,7 +69,16 @@ content_blocks:
           https://mitpress.mit.edu/9780262536196/building-the-intentional-university/
   - _bookshop_name: education/media
     title: Education Media Section
-    contentTitle: Media
+    contentTitle: 
+      en: Media
+      zh_hk:
+      fr: test
+      sp:
+    buttonTxt:
+      en: Read More
+      zh_hk:
+      fr: test
+      sp:
     items:
       - image: /media.png
         title: >-

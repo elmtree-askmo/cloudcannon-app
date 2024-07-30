@@ -70,13 +70,13 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "education/introduction":
-            targetComponent = (<Introduction key={index} content={educationContent} block={block} />)
+            targetComponent = (<Introduction key={index} content={educationContent} block={block}  language={language} />)
             break;
         case "education/bookmentions":
-            targetComponent = (<BookMentions key={index} content={educationContent} block={block} />)
+            targetComponent = (<BookMentions key={index} content={educationContent} block={block}  language={language} />)
             break;
         case "education/media":
-            targetComponent = (<Media key={index} content={educationContent} block={block} />)
+            targetComponent = (<Media key={index} content={educationContent} block={block}  language={language} />)
             break;
         case "plans/intro":
             targetComponent = (<Intro key={index} content={pricingContent} block={block} language={language} />)

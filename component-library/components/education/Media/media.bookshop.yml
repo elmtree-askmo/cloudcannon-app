@@ -10,7 +10,16 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Education Media Section
-  contentTitle: Media
+  contentTitle: 
+    en: Media
+    zh_hk:
+    fr: test
+    sp:
+  buttonTxt:
+    en: Read More
+    zh_hk:
+    fr: test
+    sp:
   items: 
     - image: /media.png
       title: "2023 AI in Education Wrapped: A timeline of landmark moments and pivotal developments that transformed AI in Education in 2023"

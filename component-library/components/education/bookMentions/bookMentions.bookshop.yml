@@ -10,7 +10,16 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Education Book Mentions Section
-  contentTitle: Book Mentions
+  contentTitle: 
+    en: Book Mentions
+    zh_hk:
+    fr: test
+    sp:
+  buttonTxt:
+    en: Read More
+    zh_hk:
+    fr: test
+    sp:
   items: 
     - image: /bookmentions.png
       title: "Brave New Words: How AI Will Revolutionize Education (and Why That's a Good Thing) Book"

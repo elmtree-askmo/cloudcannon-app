@@ -2,7 +2,7 @@ import mixpanel from 'mixpanel-browser';
 import styles from '../../styles/education.module.css';
 import Link from 'next/link';
 
-export default function BookMentions({content, block}){
+export default function BookMentions({content, block, language='en'}){
     const handleRedirect = (e, item)=>{
         e.preventDefault();
         mixpanel.track("MarketingPage_EducationResources", { title: item.title, category: "bookMentions" }, {send_immediately:true}, ()=>{
@@ -12,7 +12,7 @@ export default function BookMentions({content, block}){
     return (
         <div className={styles['bookmentions-container']}>
             <div className={styles['bookmentions-center-container']}>
-                <h3>{block.contentTitle}</h3>
+                <h3>{block.contentTitle[language] || block.contentTitle['en']}</h3>
                 <div className={styles['bookmentions-list-container']}>
                     {
                         block.items.map((item,index)=>(
@@ -25,7 +25,7 @@ export default function BookMentions({content, block}){
                                     </div>
                                 </div>
                                 <div className={styles['bookmentions-read-more-button-container']}>
-                                    <Link className={styles['bookmentions-read-more-button']} href="#" onClick={(e)=>handleRedirect(e,item)}>Read More</Link>
+                                    <Link className={styles['bookmentions-read-more-button']} href="#" onClick={(e)=>handleRedirect(e,item)}>{block.buttonTxt[language] || block.buttonTxt['en']}</Link>
                                 </div>
                             </div>
                         ))
