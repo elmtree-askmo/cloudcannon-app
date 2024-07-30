@@ -63,7 +63,11 @@ content_blocks:
         image: /vision.png
   - _bookshop_name: about-us/foundingTeam
     title: Founding Team section
-    contentTitle: Founding Team
+    contentTitle: 
+      en: Founding Team
+      zh_hk:
+      fr: test
+      sp:
     members:
       - avatar: /images/photo-Garwin.webp
         name: Garwin Chan

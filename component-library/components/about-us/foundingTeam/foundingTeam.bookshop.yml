@@ -10,7 +10,11 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Founding Team section
-  contentTitle: Founding Team
+  contentTitle: 
+    en: Founding Team
+    zh_hk:
+    fr: test
+    sp:
   members: 
     - avatar: /images/photo-Garwin.webp
       name: Garwin Chan
