@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function FAQ({page}) {
+export default function FAQ({page, language='en'}) {
 
   const blocks = page.data.content_blocks;
 
@@ -27,7 +27,7 @@ export default function FAQ({page}) {
     </Head>
     {
       blocks.map((item, index)=>{
-        return renderComponent(item._bookshop_name, index, item)
+        return renderComponent(item._bookshop_name, index, item, null, language)
       })
     }
   </>

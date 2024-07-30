@@ -52,7 +52,7 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<Slideshow key={index} content={homeContent} block={block} language={language} />)
             break;
         case "faq/questionSection":
-            targetComponent = (<List key={index} content={questionsList} block={block} />)
+            targetComponent = (<List key={index} content={questionsList} block={block} language={language} />)
             break;
         case "about-us/aboutEdkey":
             targetComponent = (<AboutEdkey key={index} content={aboutUsContent} block={block} language={language} />)
