@@ -11,75 +11,40 @@ spec:
 blueprint:
   title: Plans Section
   items: 
-    - label: Free
+    - label: 
+        en: Free
+        zh_hk:
+        fr:
+        sp:
       itemActiveStyle: false
-      minutesLabel: 90 min
-      description: weekly recording time
-      remark: Reloads weekly
+      minutesLabel: 
+        en: 90 min
+        zh_hk:
+        fr:
+        sp:
+      description: 
+        en: weekly recording time
+        zh_hk:
+        fr:
+        sp:
+      remark: 
+        en: Reloads weekly
+        zh_hk:
+        fr:
+        sp:
       supportAbility:
-        - label: PDF upload
-          description: Unlimited at no cost
+        - label: 
+            en: PDF upload
+            zh_hk:
+            fr:
+            sp:
+          description: 
+            en: Unlimited at no cost
+            zh_hk:
+            fr:
+            sp:
           activeStyle: false
-        - label: Video/Audio file upload
-          description: Part of free 90 min
-          activeStyle: false
-        - label: Youtube URL upload
-          description: Part of free 90 min
-          activeStyle: false
-    - label: Boost
-      itemActiveStyle: true
-      minutesLabel: 90 min
-      description: One time purchase
-      remark: Good for 1 month
-      supportAbility:
-        - label: 90 minutes of free recording time
-          description: Reloads weekly
-          activeStyle: true
-        - label: PDF upload
-          description: Unlimited at no cost
-          activeStyle: true
-        - label: Video/Audio file upload
-          description: Part of free 90 min
-          activeStyle: true
-        - label: Youtube URL upload
-          description: Part of free 90 min
-          activeStyle: true
-    - label: Lite
-      itemActiveStyle: true
-      minutesLabel: 120 min
-      description: weekly recording time
-      remark: Reloads weekly
-      supportAbility:
-        - label: 90 minutes of free recording time
-          description: Reloads weekly
-          activeStyle: true
-        - label: PDF upload
-          description: Unlimited at no cost
-          activeStyle: true
-        - label: Video/Audio file upload
-          description: Part of free 90 min
-          activeStyle: true
-        - label: Youtube URL upload
-          description: Part of free 90 min
-          activeStyle: true
-    - label: Premium
-      itemActiveStyle: true
-      minutesLabel: 1,110 min
-      description: One time purchase
-      remark: Good for 1 month
-      supportAbility:
-        - label: 90 minutes of free recording time
-          description: Reloads weekly
-          activeStyle: true
-        - label: PDF upload
-          description: Unlimited at no cost
-          activeStyle: true
-        - label: Video/Audio file upload
-          description: Part of free 90 min
-          activeStyle: true
-        - label: Youtube URL upload
-          description: Part of free 90 min
-          activeStyle: true
+    
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:

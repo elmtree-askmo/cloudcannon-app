@@ -10,11 +10,33 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Plans introduction Section
-  contentTitle: Plans
-  description: At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options for your convenience whether you rely on QuickTakes everyday or less often.
+  contentTitle: 
+    en: Plans
+    zh_hk:
+    fr:
+    sp:
+  description: 
+    en: >-
+      At QuickTakes, we are committed to keeping cutting-edge technology in
+      education accessible to all, which is why we will always offer a free
+      version of the service to our users. We have multiple subscription options
+      available in 3 and 6 month increments whether you rely on QuickTakes
+      everyday or less often. To purchase sign into QuickTakes (on the web or
+      via the mobile apps) and go to the Store tab.
+    zh_hk:
+    fr:
+    sp:
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  description.en:
+    type: textarea
+  description.zh_hk:
+    type: textarea
+  description.fr:
+    type: textarea
+  description.sp:
+    type: textarea
