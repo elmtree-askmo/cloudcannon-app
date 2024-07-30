@@ -4,7 +4,7 @@ import { Button, Carousel } from 'antd';
 import SlideArrowLeft from '@/public/slide-arrow-left';
 import SlideArrowRight from '@/public/slide-arrow-right';
 
-export default function FoundingTeam({content, block}){
+export default function FoundingTeam({content, block, language='en'}){
   const carouselRef = useRef();
   const [curSlide, setCurSlide] = useState(0);
   const handleAfterChange = (curNum)=>{
@@ -62,7 +62,7 @@ export default function FoundingTeam({content, block}){
     return (
         <div className={styles['founding-team-container']}>
           <div className={styles['founding-team-center-container']}>
-            <h3>{block.contentTitle}</h3>
+            <h3>{block.contentTitle[language] || block.contentTitle['en']}</h3>
             <div className={styles['founding-flex']}>
               {block.members.map((item, key) => {
                 const { avatar, name, title, description } = item
@@ -89,7 +89,7 @@ export default function FoundingTeam({content, block}){
                             </div>
                             <div className={styles['founding-carousel-item-content']}>
                               <h5>{item.name}</h5>
-                              <p className={`members_${index} member-intro`} >{item.description}</p>
+                              <p className={`members_${index} member-intro`} >{item.description[language] || item.description['en']}</p>
                               {/* <Button type={"ghost"} className={styles.viewMore} onClick={(e)=>handleViewMore(index,e)} >View More <SlideArrowLeft className={styles.arrow} /></Button> */}
                               <span className={styles.viewMore} onClick={e=>handleViewMore(index, e)}>View More </span>
                             </div>

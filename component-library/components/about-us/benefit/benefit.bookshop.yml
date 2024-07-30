@@ -11,15 +11,31 @@ spec:
 blueprint:
   title: Benefit section
   items: 
-    - title: Mission
-      description: Our mission is to help all learners reach their full academic potential through new technologies.
+    - title: 
+        en: Mission
+        zh_hk:
+        fr: test
+        sp:
+      description:
+        en: >-
+          Our mission is to help all learners reach their full academic
+          potential through new technologies.
+        zh_hk:
+        fr: test
+        sp:
       image: /mission.png
-    - title: Vision
-      description: We aim to democratize education in ways that allow all students to succeed via personalized learning and AI-enhanced educational tools. 
-      image: /vision.png
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
+  items[*].description.en:
+    type: textarea
+  items[*].description.zh_hk:
+    type: textarea
+  items[*].description.fr:
+    type: textarea
+  items[*].description.sp:
+    type: textarea
+    

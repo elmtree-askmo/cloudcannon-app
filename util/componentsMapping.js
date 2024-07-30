@@ -55,19 +55,19 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<List key={index} content={questionsList} block={block} />)
             break;
         case "about-us/aboutEdkey":
-            targetComponent = (<AboutEdkey key={index} content={aboutUsContent} block={block} />)
+            targetComponent = (<AboutEdkey key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "about-us/foundingTeam":
-            targetComponent = (<FoundingTeam key={index} content={aboutUsContent} block={block} />)
+            targetComponent = (<FoundingTeam key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "about-us/experience":
-            targetComponent = (<Experience key={index} content={aboutUsContent} block={block} />)
+            targetComponent = (<Experience key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "about-us/benefit":
-            targetComponent = (<Benefit key={index} content={aboutUsContent} block={block} />)
+            targetComponent = (<Benefit key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "about-us/partnerships":
-            targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} />)
+            targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "education/introduction":
             targetComponent = (<Introduction key={index} content={educationContent} block={block} />)

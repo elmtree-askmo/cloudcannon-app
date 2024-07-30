@@ -10,6 +10,11 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Experience section
+  contentTitle: 
+    en:
+    zh_hk:
+    fr:
+    sp:
   items:
     - image: ./logo/edmodo.svg
     - image: ./logo/redbird.svg

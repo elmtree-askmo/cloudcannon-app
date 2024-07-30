@@ -10,9 +10,23 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Partnerships section
-  contentTitle: Partnerships
-  description: Interested in working with us? Email us at ${email} for business development and job opportunities.
-  buttontxt: Email Us
+  contentTitle: 
+    en: Partnerships
+    zh_hk:
+    fr:
+    sp:
+  description: 
+    en: >-
+      Interested in working with us? Email us at ${email} for business
+      development and job opportunities.
+    zh_hk:
+    fr: test
+    sp:
+  buttontxt: 
+    en: Email Us
+    zh_hk:
+    fr: test
+    sp:
   email: info@edkey.com
 
 # Overrides any fields in the blueprint when viewing this component in the component browser
@@ -20,5 +34,15 @@ preview:
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs:
-  description:
+  description.en:
     comment: use ${email} to replace the exact email address in this content and enter the exact email in the email field
+    type: textarea
+  description.zh_hk:
+    comment: use ${email} to replace the exact email address in this content and enter the exact email in the email field
+    type: textarea
+  description.fr:
+    comment: use ${email} to replace the exact email address in this content and enter the exact email in the email field
+    type: textarea
+  description.sp:
+    comment: use ${email} to replace the exact email address in this content and enter the exact email in the email field
+    type: textarea

@@ -9,7 +9,7 @@ import Filer from '@cloudcannon/filer';
 import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
-export default function AboutUs({page}) {
+export default function AboutUs({page, language='en'}) {
   const blocks = page.data.content_blocks;
   useEffect(()=>{
     mixpanel.track("MarketingPage_AboutUs")
@@ -24,7 +24,7 @@ export default function AboutUs({page}) {
       <div className={styles['about-us']}>
         {
           blocks.map((item, index)=>{
-            return renderComponent(item._bookshop_name, index, item)
+            return renderComponent(item._bookshop_name, index, item, null, language)
           })
         }
       </div>
