@@ -29,6 +29,7 @@ collections_config:
     _enabled_editors:
       - visual
   blog:
+    title: Blog(EN)
     path: content/posts
     output: true
     url: '/blog/[slug]'
@@ -38,7 +39,7 @@ collections_config:
     schemas:
       default:
         path: schemas/post.md
-  posts:
+  blog_zh_hk:
     title: Blog(ZH-HK)
     path: content/posts_zh_hk
     output: true
@@ -49,8 +50,8 @@ collections_config:
     schemas:
       default:
         path: schemas/post.md
-  posts:
-    title: Blog(French)
+  blog_fr:
+    title: Blog(FR)
     path: content/posts_fr
     output: true
     url: '/blog/[slug]'
