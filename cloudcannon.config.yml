@@ -39,8 +39,19 @@ collections_config:
       default:
         path: schemas/post.md
   posts:
-    title: CN Blog
+    title: Blog(ZH-HK)
     path: content/posts_zh_hk
+    output: true
+    url: '/blog/[slug]'
+    _enabled_editors:
+      - content
+      - visual
+    schemas:
+      default:
+        path: schemas/post.md
+  posts:
+    title: Blog(French)
+    path: content/posts_fr
     output: true
     url: '/blog/[slug]'
     _enabled_editors:
