@@ -79,6 +79,9 @@ _structures: {}
 _editables: {}
 data_config: {}
 collection_groups:
+  - heading: Pages
+    collections:
+      - pages
   - heading: Blogging
     collections:
       - posts
