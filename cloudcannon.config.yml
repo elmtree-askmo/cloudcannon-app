@@ -38,7 +38,7 @@ collections_config:
     schemas:
       default:
         path: schemas/post.md
-  blog_zh_hk:
+  posts:
     path: content/posts_zh_hk
     output: true
     url: '/blog/[slug]'
