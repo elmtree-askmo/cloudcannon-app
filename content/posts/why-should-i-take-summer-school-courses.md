@@ -3,6 +3,8 @@ _schema: default
 date: 2024-07-17T13:00:00Z
 title: Why should I take summer school courses?
 article_title: Why should I take summer school courses?
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 description: >-
   School is out for summer - or is it? Explore the benefits of taking summer
   courses in college!

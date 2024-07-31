@@ -3,6 +3,8 @@ _schema: default
 date: 2024-07-08T18:00:00Z
 title: ' AI Innovation at SCU: Spotlight on Michael Iwashima'
 article_title: ' AI Innovation at SCU: Spotlight on Michael Iwashima'
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 description: >-
   QuickTakes talks with Michael Iwashima, a Santa Clara University student and
   founder of the AI Collaborate club. 

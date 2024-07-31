@@ -38,11 +38,34 @@ export default function Blog({page, posts, language='en'}) {
 export async function getStaticProps(){
   const page = await filer.getItem('blog.md');
   const posts = await filer.getItems('posts', { excerpt: true, sortKey: 'date'});
+  let posts_zh_hk = null;
+  try{
+    posts_zh_hk = await filer.getItems('posts_zh_hk', { excerpt: true, sortKey: 'date'});
+  }catch{
+
+  }
+  let posts_fr = null;
+  try{
+    posts_fr = await filer.getItems('posts_fr', { excerpt: true, sortKey: 'date'});
+  }catch{
+
+  }
+  let posts_sp = null;
+  try{
+    posts_sp = await filer.getItems('posts_sp', { excerpt: true, sortKey: 'date'});
+  }catch{
+
+  }
   return{
     props:{
       pageTitle:"Blog",
       page,
-      posts: JSON.parse(JSON.stringify(posts))
+      posts: {
+        en: JSON.parse(JSON.stringify(posts)),
+        zh_hk: JSON.parse(JSON.stringify(posts_zh_hk)),
+        fr: JSON.parse(JSON.stringify(posts_fr)),
+        sp: JSON.parse(JSON.stringify(posts_sp)),
+      }
     }
   }
 }

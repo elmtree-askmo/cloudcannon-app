@@ -11,8 +11,9 @@ export default function Post({page, language}){
     useEffect(() => {
         mixpanel.track("MarketingPage_Article", { title: page.data.title });
       }, [])
-
+      
     const pageData = page[language]? page[language] : page['en'];
+
     return (
         <>
             <Head>
@@ -30,7 +31,7 @@ export default function Post({page, language}){
                         {pageData.data.article_title}
                     </h2>
                     <p className={styles["blog-content-description"]}>{pageData.data.description}</p>
-                    <span className={styles["blog-content-date"]}>Posted on {moment(pageData.data?.date).format('MMM DD, YYYY')}</span>
+                    <span className={styles["blog-content-date"]}>{pageData.data.post_on_text} {moment(pageData.data?.date).format(pageData.data.date_format ||'MMM DD, YYYY')}</span>
                     <div className={styles["blog-featured-image"]}><img src={pageData.data.featuredImg.image} /></div>
                 </div>
             </div>
@@ -56,9 +57,24 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	const page = await filer.getItem(`${params.slug}.md`, { folder: 'posts' });
-    const page_zh_hk = await filer.getItem(`${params.slug}.md`, { folder: 'posts_zh_hk' });
-    const page_fr = await filer.getItem(`${params.slug}.md`, { folder: 'posts_fr' });
-    const page_sp = await filer.getItem(`${params.slug}.md`, { folder: 'posts_sp' });
+    let page_zh_hk = null;
+    try{
+        page_zh_hk = await filer.getItem(`${params.slug}.md`, { folder: 'posts_zh_hk' });
+    }catch{
+        
+    }
+    let page_fr = null;
+    try{
+        page_fr = await filer.getItem(`${params.slug}.md`, { folder: 'posts_fr' });
+    }catch{
+
+    }
+    let page_sp = null;
+    try{
+        page_sp = await filer.getItem(`${params.slug}.md`, { folder: 'posts_sp' });
+    }catch{
+
+    }
     
 	return {
 		props: {

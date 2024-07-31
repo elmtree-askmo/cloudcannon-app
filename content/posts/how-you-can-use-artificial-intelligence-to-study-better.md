@@ -3,6 +3,8 @@ _schema: default
 date: 2024-06-03T17:00:00Z
 title: How You Can Use Artificial Intelligence to Study Better
 article_title: How You Can Use Artificial Intelligence to Study Better
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 description: >-
   Students have more opportunities than ever to use AI to their advantage - read
   our blog to learn more!

@@ -3,6 +3,8 @@ _schema: default
 date: 2024-07-29T15:00:00Z
 title: 5 Tips for a 5-star QuickTakes Experience
 article_title: 5 Tips for a 5-star QuickTakes Experience
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 description: >-
   Whether you are just getting started with QuickTakes or are a seasoned
   veteran, check out our tips on how to make the most of our service.

@@ -2,7 +2,10 @@
 _schema: default
 date: 2024-05-31T00:00:00Z
 title: The QuickTakes Blog is Live!
-description: 'Celebrate the launch of the new QuickTakes blog with us! '
+article_title: 测试测试测试!
+date_format: YYYY年MM月DD日
+post_on_text: 发布于
+description: '测试测试测试'
 seo:
   title: QuickTakes launches their blog! | AI in ed tech
   page_description: >-
