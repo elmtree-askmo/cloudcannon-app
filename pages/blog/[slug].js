@@ -27,7 +27,7 @@ export default function Post({page, language}){
                 <div className={styles['blog-content-center-container']}>
                     <h2 className={styles["blog-content-title"]}>
                         <Link href="/blog" className={styles["blog-back-btn"]} ><img src="/backIcon.svg" /></Link>
-                        {pageData.data.title}
+                        {pageData.data.article_title}
                     </h2>
                     <p className={styles["blog-content-description"]}>{pageData.data.description}</p>
                     <span className={styles["blog-content-date"]}>Posted on {moment(pageData.data?.date).format('MMM DD, YYYY')}</span>

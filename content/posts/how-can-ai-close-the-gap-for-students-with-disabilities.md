@@ -2,6 +2,7 @@
 _schema: default
 date: 2024-06-17T17:00:00Z
 title: How can AI close the gap for students with disabilities?
+article_title: How can AI close the gap for students with disabilities?
 description: >-
   AI poses the potential to make learning more accessible for students with
   disabilities by transcending current outdated solutions and offering more

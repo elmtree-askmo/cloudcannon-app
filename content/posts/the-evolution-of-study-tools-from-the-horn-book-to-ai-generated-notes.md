@@ -2,6 +2,7 @@
 _schema: default
 date: 2024-06-27T18:00:00Z
 title: 'The Evolution of Study Tools: From the Horn-Book to AI Generated Notes'
+article_title: 'The Evolution of Study Tools: From the Horn-Book to AI Generated Notes'
 description: >-
   Study tools have evolved greatly over the years. Let's take a look back and
   see the progression from archaic tools to modern-day AI. 

@@ -2,6 +2,7 @@
 _schema: default
 date: 2024-05-31T00:00:00Z
 title: The QuickTakes Blog is Live!
+article_title: The QuickTakes Blog is Live!
 description: 'Celebrate the launch of the new QuickTakes blog with us! '
 seo:
   title: QuickTakes launches their blog! | AI in ed tech
