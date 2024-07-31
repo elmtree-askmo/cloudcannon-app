@@ -5,12 +5,13 @@ import { Button } from 'antd';
 
 export default function BlogList({content, block, posts, language='en'}){
     console.log(posts)
+    const postData = posts[language]? posts[language] : posts['en'];
     return (
         <div className={styles['blogList-container']}>
             <div className={styles['blogList-center-container']}>
                 <div className={styles['blogList-list-container']}>
                     {
-                        posts.map((item, index)=>(
+                        postData.map((item, index)=>(
                             <Link href={`/blog/${item.slug}`} className={styles['blogList-list-item']} key={index}>
                                 <div><img src={item.data?.featuredImg?.image} alt={item.data?.featuredImg?.image_alt} /></div>
                                 <h3>{item.data?.title}</h3>
