@@ -7,37 +7,36 @@ import mixpanel from "mixpanel-browser";
 import { useEffect } from "react";
 
 const filer = new Filer({ path: 'content' });
-export default function Post({page, language, page_zh}){
+export default function Post({page, language}){
     useEffect(() => {
         mixpanel.track("MarketingPage_Article", { title: page.data.title });
       }, [])
 
-    console.log(page_zh)
-    
+    const pageData = page[language]? page[language] : page['en'];
     return (
         <>
             <Head>
-                <title>{page.data.seo.title || page.data.title}</title>
-                <meta name="description" property="og:description" key="description" content={page.data.seo.page_description || page.data.description} />
+                <title>{pageData.data.seo.title || pageData.data.title}</title>
+                <meta name="description" property="og:description" key="description" content={pageData.data.seo.page_description || pageData.data.description} />
                 {
-                    page.data.seo.page_keywords &&
-                    <meta name="keywords" property="og:keywords" key="keywords" content={page.data.seo.page_keywords} />
+                    pageData.data.seo.page_keywords &&
+                    <meta name="keywords" property="og:keywords" key="keywords" content={pageData.data.seo.page_keywords} />
                 }
             </Head>
             <div className={styles['blog-content-container']}>
                 <div className={styles['blog-content-center-container']}>
                     <h2 className={styles["blog-content-title"]}>
                         <Link href="/blog" className={styles["blog-back-btn"]} ><img src="/backIcon.svg" /></Link>
-                        {page.data.title}
+                        {pageData.data.title}
                     </h2>
-                    <p className={styles["blog-content-description"]}>{page.data.description}</p>
-                    <span className={styles["blog-content-date"]}>Posted on {moment(page.data?.date).format('MMM DD, YYYY')}</span>
-                    <div className={styles["blog-featured-image"]}><img src={page.data.featuredImg.image} /></div>
+                    <p className={styles["blog-content-description"]}>{pageData.data.description}</p>
+                    <span className={styles["blog-content-date"]}>Posted on {moment(pageData.data?.date).format('MMM DD, YYYY')}</span>
+                    <div className={styles["blog-featured-image"]}><img src={pageData.data.featuredImg.image} /></div>
                 </div>
             </div>
             <div className={styles['blog-content-article-container']}>
                 <div className={styles['blog-content-article-center-container']}>
-                    <div className={styles["blog-content-editor-container"]} dangerouslySetInnerHTML={{__html:page.content_html}}></div>
+                    <div className={styles["blog-content-editor-container"]} dangerouslySetInnerHTML={{__html:pageData.content_html}}></div>
                 </div>
             </div>
         </>
@@ -57,12 +56,18 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
 	const page = await filer.getItem(`${params.slug}.md`, { folder: 'posts' });
-    // const page_zh = await filer.getItem(`${params.slug}.zh-hk.md`, { folder: 'posts' });
+    const page_zh_hk = await filer.getItem(`${params.slug}.md`, { folder: 'posts_zh_hk' });
+    const page_fr = await filer.getItem(`${params.slug}.md`, { folder: 'posts_fr' });
+    const page_sp = await filer.getItem(`${params.slug}.md`, { folder: 'posts_sp' });
     
 	return {
 		props: {
-			page: JSON.parse(JSON.stringify(page)),
-            // page_zh: JSON.parse(JSON.stringify(page_zh)),
+			page: {
+                en: JSON.parse(JSON.stringify(page)),
+                zh_hk:JSON.parse(JSON.stringify(page_zh_hk)),
+                fr:JSON.parse(JSON.stringify(page_fr)),
+                sp:JSON.parse(JSON.stringify(page_sp)),
+            }
 		}
 	};
 }
