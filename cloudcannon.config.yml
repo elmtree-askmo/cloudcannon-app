@@ -28,7 +28,7 @@ collections_config:
     icon: wysiwyg
     _enabled_editors:
       - visual
-  blog:
+  blog: 
     title: Blog(EN)
     path: content/posts
     output: true
@@ -78,6 +78,14 @@ _select_data: {}
 _structures: {}
 _editables: {}
 data_config: {}
+collection_groups:
+  - heading: Blogging
+    collections:
+      - posts
+      - blog
+      - blog_zh_hk
+      - blog_fr
+      - blog_sp
 source_editor:
   tab_size: 2
   show_gutter: true
