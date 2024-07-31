@@ -1,6 +1,6 @@
 ---
 date: 
-title: 
+file_name: 
 description: 
 seo:
   title:
