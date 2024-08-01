@@ -33,7 +33,7 @@ import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
 
 
-export default function renderComponent(key, index, block, posts, language){
+export default function renderComponent(key, index, block, posts, language, mergedPosts){
     let targetComponent ;
     switch (key) {
         case "home/banner":
@@ -91,7 +91,7 @@ export default function renderComponent(key, index, block, posts, language){
             targetComponent = (<BlogHeader key={index} content={blogContent} block={block} language={language} />)
             break;
         case "blog/blogList":
-            targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} language={language} />)
+            targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
             break;
         case "institutions/institutionsBanner":
             targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block}  language={language} />)

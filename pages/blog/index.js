@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Blog({page, posts, language='en'}) {
+export default function Blog({page, language='en', mergedPosts}) {
 
   const blocks = page.data.content_blocks;
 
@@ -28,7 +28,7 @@ export default function Blog({page, posts, language='en'}) {
     </Head>
     {
       blocks.map((item, index)=>{
-        return renderComponent(item._bookshop_name, index, item, posts, language)
+        return renderComponent(item._bookshop_name, index, item, mergedPosts, language)
       })
     }
   </>
@@ -56,16 +56,47 @@ export async function getStaticProps(){
   }catch{
 
   }
+  let mergedPosts = [];
+    posts.forEach(item=>{
+      mergedPosts.push({en:item})
+    });
+  let fallbackSlugs = posts.map(item=>item.slug);
+  if(posts_zh_hk){
+    posts_zh_hk.forEach(item => {
+        const index = fallbackSlugs.indexOf(item.slug);
+        if(index !== -1){
+          mergedPosts[index]['zh_hk'] = item
+        }
+    });
+  }
+  if(posts_fr){
+    posts_fr.forEach(item => {
+        const index = fallbackSlugs.indexOf(item.slug);
+        if(index !== -1){
+          mergedPosts[index]['fr'] = item
+        }
+    });
+  }
+  if(posts_sp){
+    posts_sp.forEach(item => {
+        const index = fallbackSlugs.indexOf(item.slug);
+        if(index !== -1){
+          mergedPosts[index]['sp'] = item
+        }
+    });
+  }
+
   return{
     props:{
       pageTitle:"Blog",
       page,
-      posts: {
-        en: JSON.parse(JSON.stringify(posts)),
-        zh_hk: JSON.parse(JSON.stringify(posts_zh_hk)),
-        fr: JSON.parse(JSON.stringify(posts_fr)),
-        sp: JSON.parse(JSON.stringify(posts_sp)),
-      }
+      // posts: {
+      //   en: JSON.parse(JSON.stringify(posts)),
+      //   zh_hk: JSON.parse(JSON.stringify(posts_zh_hk)),
+      //   fr: JSON.parse(JSON.stringify(posts_fr)),
+      //   sp: JSON.parse(JSON.stringify(posts_sp)),
+      // },
+      mergedPosts:JSON.parse(JSON.stringify(mergedPosts))
     }
   }
 }
