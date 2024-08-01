@@ -34,6 +34,7 @@ collections_config:
     output: true
     url: '/blog/[slug]'
     icon: article
+    disable_add_folder: true
     _enabled_editors:
       - content
       - visual
@@ -46,6 +47,7 @@ collections_config:
     output: true
     url: '/blog/[slug]'
     icon: article
+    disable_add_folder: true
     _enabled_editors:
       - content
       - visual
@@ -58,6 +60,7 @@ collections_config:
     output: true
     url: '/blog/[slug]'
     icon: article
+    disable_add_folder: true
     _enabled_editors:
       - content
       - visual
@@ -70,6 +73,7 @@ collections_config:
     output: true
     url: '/blog/[slug]'
     icon: article
+    disable_add_folder: true
     _enabled_editors:
       - content
       - visual
