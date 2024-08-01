@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./header.module.css";
-import { Drawer, Dropdown, Select} from "antd";
+import { Drawer, Dropdown, Select, Button} from "antd";
 import { useEffect, useState } from "react";
 import { APP_URL } from "../constant/app.constant";
 import { useRouter } from "next/navigation";
@@ -10,7 +10,7 @@ import mixpanel from "mixpanel-browser";
 import { isMobile } from "react-device-detect";
 import SmartBanner from "./smartBanner";
 import navData from '../data/nav.json';
-import { DownOutlined } from "@ant-design/icons";
+import { DownOutlined, GlobalOutlined } from "@ant-design/icons";
 import ContactForm from "./contactForm";
 import HeaderArrow from "@/public/headerArrow";
 
@@ -25,6 +25,23 @@ export default function Header({ pathname, theme, language, setLanguage }) {
     const HIDE_APP_BANNER_TIME = 1000 * 60 * 60; //1hour
 
     const data = navData[language]? navData[language]:navData['en'];
+
+    const handleClickLanguage = ({key})=>{
+        localStorage.setItem("language",key);
+        setLanguage(key)
+    }
+
+    const menuProps = {
+        items:[
+            {key: 'en', label:"English"},
+            {key: 'zh_hk', label:"Traditional Chinese"},
+            {key: 'sp', label:"Spanish"},
+            {key: 'fr', label:"French"}
+        ],
+        onClick: handleClickLanguage
+    }
+
+    
 
     const hanldeOpenForm = (e)=>{
         e.preventDefault();
@@ -94,10 +111,6 @@ export default function Header({ pathname, theme, language, setLanguage }) {
             }
         })
     }
-    const handleOnChange=(e)=>{
-        localStorage.setItem("language",e);
-        setLanguage(e)
-    }
 
     return (
         <>
@@ -124,21 +137,17 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                             }
                             
                         </div>
+                        <Dropdown menu={menuProps} trigger={["click"]} className={styles.language} placement="bottomRight">
+                            <Button icon={<GlobalOutlined style={{fontSize:24, color:'#fff'}} />} shape="circle" type="ghost"/>
+                        </Dropdown>
                         {
                             theme === 'b2c' &&
                             <div className={styles['signup-login-container']}>
                                 <Link href="" className={styles["login-button"]} onClick={handleLogin}>{data.login}</Link>
                                 <Link href="" className={styles["sign-up-button"]} onClick={handleSignUp} >{data.signUp}</Link>
-                                <Select 
-                                    defaultValue={language}
-                                    onChange={handleOnChange}
-                                    options={[
-                                        {value: 'en', label:"English"},
-                                        {value: 'zh_hk', label:"Traditional Chinese"},
-                                        {value: 'sp', label:"Spanish"},
-                                        {value: 'fr', label:"French"}
-                                    ]}
-                                />
+                                {/* <Dropdown menu={menuProps} trigger={["click"]} >
+                                    <Button icon={<GlobalOutlined style={{fontSize:24, color:'#fff'}} />} shape="circle" type="ghost"/>
+                                </Dropdown> */}
                             </div>
                         }
                         <Image
@@ -157,6 +166,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
                             <Link href="#" className={styles["sign-up-button"]} onClick={hanldeOpenForm} >{data.contactUs}</Link>
                         </div>
                     }
+                    
                 </div>
 
                 <Drawer
