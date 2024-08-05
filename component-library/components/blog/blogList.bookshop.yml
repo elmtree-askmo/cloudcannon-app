@@ -10,11 +10,6 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Blog List Section
-  dateTxt:
-    en: Posted on
-    zh_hk:
-    fr: 
-    sp:
   buttonTxt:
     en: View More
     zh_hk:

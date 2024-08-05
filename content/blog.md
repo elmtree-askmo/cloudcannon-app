@@ -16,11 +16,6 @@ content_blocks:
       sp:
   - _bookshop_name: blog/blogList
     title: Blog List Section
-    dateTxt:
-      en: Posted on
-      zh_hk:
-      fr: test
-      sp:
     buttonTxt:
       en: View More
       zh_hk:
