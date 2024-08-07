@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2024-06-07T12:00:00Z
-title: How can flashcards help me prepare for a test?
+title: How Can Flashcards Help Me Prepare for a Test?
 description: >-
   Flashcards are an effective test preparation method, and QuickTakes now offers
   them on app and web!
