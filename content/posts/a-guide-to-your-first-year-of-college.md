@@ -16,7 +16,7 @@ seo:
     college guide, career development, higher education 
 author: QuickTakes
 featuredImg:
-  image:
+  image: /uploads/guide-to-your-first-year-of-college-blog-1.png
   image_alt: college freshman woman
 ---
 You made it! You’ve been accepted into college, and now the road begins. It is a time filled with so many mixed feelings - excitement to be done with high school, nervousness to leave family and friends behind, curiosity for all you will learn, fear to move to a new place. At QuickTakes (an app made *for* college students!) we have all been to college in different eras and different places around the world. Below, we’ll explore some tips on how to embrace your first year of college and all it has to offer.
