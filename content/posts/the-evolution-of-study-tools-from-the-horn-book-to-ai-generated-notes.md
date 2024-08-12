@@ -84,3 +84,7 @@ QuickTakes is one of the applications that has developed as a part of this movem
 What do you think the next study tool will look like?
 
 &nbsp;
+
+*Are you a medical student? Check out our friend,* <a href="https://www.lecturio.com/" title="Lecturio" target="_blank" rel="noopener"><em>Lecturio</em></a>*'s, blog on '*<a href="https://www.lecturio.com/blog/Choosing-the-Best-Study-Tools-as-a-Medical-Student/" title="Best study tools for medical students" target="_blank" rel="noopener"><em>Choosing the Best Study Tools as a Medical Student' </em></a>*for techniques that help you study smarter, not harder!*
+
+&nbsp;
