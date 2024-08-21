@@ -16,72 +16,72 @@ content_blocks:
     items:
       - label: Free
         itemActiveStyle: false
-        minutesLabel: 90 min
-        description: weekly recording time
-        remark: Reloads weekly
+        minutesLabel: 6 Hours
+        description: monthly recording time
+        remark: Reloads monthly
         supportAbility:
           - label: PDF upload
             description: Unlimited at no cost
             activeStyle: false
           - label: Video/Audio file upload
-            description: Part of free 90 min
+            description: Part of free time
             activeStyle: false
           - label: Youtube URL upload
-            description: Part of free 90 min
+            description: Part of free time
             activeStyle: false
       - label: Boost
         itemActiveStyle: true
-        minutesLabel: 120 min
+        minutesLabel: 2 Hours
         description: One time purchase
         remark: Good for 1 month
         supportAbility:
-          - label: 90 minutes of free recording time
-            description: Reloads weekly
+          - label: 2 hours of additional recording time
+            description: One-time purchase
             activeStyle: true
           - label: PDF upload
             description: Unlimited at no cost
             activeStyle: true
           - label: Video/Audio file upload
-            description: Part of free 90 min
+            description: Part of free & Boost time
             activeStyle: true
           - label: Youtube URL upload
-            description: Part of free 90 min
+            description: Part of free and Boost time
             activeStyle: true
       - label: Lite
         itemActiveStyle: true
-        minutesLabel: 120 min
-        description: weekly recording time
-        remark: Reloads weekly
+        minutesLabel: 6 Hours
+        description: Additional monthly recording time
+        remark: Reloads monthly
         supportAbility:
-          - label: 90 minutes of free recording time
-            description: Reloads weekly
+          - label: 6 hours of free recording time
+            description: Reloads monthly
             activeStyle: true
           - label: PDF upload
             description: Unlimited at no cost
             activeStyle: true
           - label: Video/Audio file upload
-            description: Part of free 90 min
+            description: Part of free & Lite time
             activeStyle: true
           - label: Youtube URL upload
-            description: Part of free 90 min
+            description: Part of free & Lite time
             activeStyle: true
       - label: Premium
         itemActiveStyle: true
-        minutesLabel: 1,110 min
-        description: weekly recording time
-        remark: Reloads weekly
+        minutesLabel: 74 Hours
+        description: Additional monthly recording time
+        remark: Reloads monthly
         supportAbility:
-          - label: 90 minutes of free recording time
-            description: Reloads weekly
+          - label: 6 hours of free recording time
+            description: Reloads monthly
             activeStyle: true
           - label: PDF upload
             description: Unlimited at no cost
             activeStyle: true
           - label: Video/Audio file upload
-            description: Part of free 90 min
+            description: Part of free & Premium time
             activeStyle: true
           - label: Youtube URL upload
-            description: Part of free 90 min
+            description: Part of free & Premium time
             activeStyle: true
   - _bookshop_name: plans/contact
     title: Plans contact Section
