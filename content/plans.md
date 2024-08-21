@@ -8,9 +8,9 @@ content_blocks:
       At QuickTakes, we are committed to keeping cutting-edge technology in
       education accessible to all, which is why we will always offer a free
       version of the service to our users. We have multiple subscription options
-      available in 3 and 6 month increments whether you rely on QuickTakes
-      everyday or less often. To purchase sign into QuickTakes (on the web or
-      via the mobile apps) and go to the Store tab.
+      available in one, three and six month increments whether you rely on
+      QuickTakes everyday or less often. To purchase sign into QuickTakes (on
+      the web or via the mobile apps) and go to the Store tab.
   - _bookshop_name: plans/pricing
     title: Plans Section
     items:
