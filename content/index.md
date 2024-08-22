@@ -80,7 +80,7 @@ content_blocks:
       title: Chat in Real Time
       description: >-
         Get subject-relevant questions answered 24/7 by your personalized AI
-        sidekick chatbot.
+        companion chatbot.
   - _bookshop_name: home/slideshow
     title: Home Testmonials Section
     contentTitle: Supercharge Your Lecture Notes
