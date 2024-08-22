@@ -17,7 +17,7 @@ content_blocks:
       - label: Free
         itemActiveStyle: false
         minutesLabel: 6 Hours
-        description: monthly recording time
+        description: Monthly recording time
         remark: Reloads monthly
         supportAbility:
           - label: PDF upload
