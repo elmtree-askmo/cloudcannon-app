@@ -49,7 +49,7 @@ content_blocks:
             activeStyle: true
       - label: Lite
         itemActiveStyle: true
-        minutesLabel: 6 Hours
+        minutesLabel: 20 Hours
         description: Additional monthly recording time
         remark: Reloads monthly
         supportAbility:
