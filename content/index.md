@@ -24,7 +24,7 @@ content_blocks:
           have an effective way to study for exams and finals.
         image: /get-better-grades-now.png
         reverse: true
-      - title: Chat & Learn with Your Dedicated AI Sidekick, 24/7
+      - title: Chat & Learn with Your Dedicated AI Companion, 24/7
         description: >-
           Need a question answered but can’t get time with your professor? Query
           your AI companion chatbot to discuss topics, get more detailed
