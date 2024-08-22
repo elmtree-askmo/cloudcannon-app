@@ -60,7 +60,7 @@ content_blocks:
   - _bookshop_name: home/howItWorks
     title: Home How It Works Section
     contentTitle: How It Works
-    image: /howItWorks.png
+    image: /uploads/qt-image-1.png
     leftSideContent_a:
       title: Personalize Studying
       description: >-
