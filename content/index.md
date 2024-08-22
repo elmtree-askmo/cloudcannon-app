@@ -4,7 +4,7 @@ content_blocks:
   - _bookshop_name: home/banner
     title: Home Banner section
     contentTitle: "\_Study Smarter, Learn Faster"
-    subTitle: Supercharge learning with your personalized AI study sidekick
+    subTitle: Supercharge learning with your personalized AI study companion
     buttonTxt: Sign Up Today
   - _bookshop_name: home/landscape
     title: Home benefit Section
@@ -20,14 +20,14 @@ content_blocks:
       - title: Get Better Grades Now
         description: >-
           Upload pre-recorded audio and video files, Youtube URLs and PDFs and
-          let your personalized AI sidekick organize all your materials so you
+          let your personalized AI companion organize all your materials so you
           have an effective way to study for exams and finals.
         image: /get-better-grades-now.png
         reverse: true
       - title: Chat & Learn with Your Dedicated AI Sidekick, 24/7
         description: >-
           Need a question answered but can’t get time with your professor? Query
-          your AI Sidekick chatbot to discuss topics, get more detailed
+          your AI companion chatbot to discuss topics, get more detailed
           explanations and develop in-depth understanding of all your class
           materials.
         image: /chat-learn-with-ai.png
