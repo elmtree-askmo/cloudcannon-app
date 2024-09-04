@@ -7,6 +7,7 @@ import { APP_URL, X_API_KEY, appStoreLink, googlePlayLink } from "../constant/ap
 import navData from '../data/nav.json';
 import Image from "next/image";
 import mixpanel from "mixpanel-browser";
+import { SpotifyOutlined } from "@ant-design/icons";
 
 
 export default function Footer({theme}){
@@ -84,6 +85,9 @@ export default function Footer({theme}){
                                 </Link>
                                 <Link href="https://www.youtube.com/@Edkey_QuickTakes" target="_blank" >
                                     <img src="/socialmedia/youtube.svg" />
+                                </Link>
+                                <Link href="https://open.spotify.com/user/317iuopw7yk2ncum6bq4otwpzmo4?si=51d9c112b7f84e72" target="_blank">
+                                    <SpotifyOutlined style={{fontSize:22, color:"#fff"}} />
                                 </Link>
                             </div>
                         </div>
