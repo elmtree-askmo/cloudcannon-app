@@ -83,18 +83,6 @@ content_blocks:
           real-world problems and deliver exceptional value to customers. A
           visionary thinker with a track record of driving growth and delivering
           cutting-edge solutions at Oracle and Netscape.
-      - avatar: /images/photo-Ale.webp
-        name: Alé Di Mare
-        title: Head of Engineering
-        description: >-
-          Alejandro Di Mare, is a seasoned head of engineering with 15 years of
-          experience in edtech. He runs Edkey’s engineering team focused on
-          artificial intelligence, large language models, and software/systems
-          architecture as well as mobile development. Previously he was the
-          first engineer at Edmodo and played a pivotal role in Edmodo’s
-          development that grew to more than 150 million students and teachers
-          across the globe. Alejandro earned his BS from the University of Costa
-          Rica.
       - avatar: /images/photo-Darian.webp
         name: Darian Patchin
         title: Head of Go-to-Market
