@@ -49,7 +49,7 @@ content_blocks:
             activeStyle: true
       - label: Lite
         itemActiveStyle: true
-        minutesLabel: 20 Hours
+        minutesLabel: 14 Hours
         description: Additional monthly recording time
         remark: Reloads monthly
         supportAbility:
@@ -67,7 +67,7 @@ content_blocks:
             activeStyle: true
       - label: Premium
         itemActiveStyle: true
-        minutesLabel: 74 Hours
+        minutesLabel: 80 Hours
         description: Additional monthly recording time
         remark: Reloads monthly
         supportAbility:
