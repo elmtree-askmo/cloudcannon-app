@@ -126,40 +126,12 @@ content_blocks:
         title: Head of Product Development
         description: 
           en: >-
-            An accomplished technology leader with over 25 years of experience in
-            product development, engineering, and operations. Proven expertise in
-            designing and delivering innovative software solutions, leveraging
-            emerging technologies like AI, machine learning, and natural language
-            processing. Co-founded multiple startups in E-Commerce, social media,
-            mobile applications, educational solutions. Adept at leading
-            cross-functional teams, driving product strategy, and optimizing user
-            experiences. Passionate about creating impactful products that solve
-            real-world problems and deliver exceptional value to customers. A
-            visionary thinker with a track record of driving growth and delivering
-            cutting-edge solutions at Oracle and Netscape.
+            An accomplished technology leader with over 25 years of experience in product development, engineering, and operations. Proven expertise in designing and delivering innovative software solutions, leveraging emerging technologies like AI, machine learning, and natural language processing. Co-founded multiple startups in E-Commerce, social media, mobile applications, educational solutions. Adept at leading cross-functional teams, driving product strategy, and optimizing user experiences. Passionate about creating impactful products that solve real-world problems and deliver exceptional value to customers. A visionary thinker with a track record of driving growth and delivering cutting-edge solutions at Oracle and Netscape.
           zh_hk: >-
             Jame Ku是一位在產品開發、工程和營運方面擁有超過 25 年經驗的傑出技術領導者。他在設計和提供創新軟體解決方案、利用人工智能、機器學習和自然語言處理等新興技術方面擁有深厚的專業知識。此外，他曾在電子商務、社群媒體、行動應用程式、教育解決方案等領域共同創立多家初創公司。擅長領導跨功能團隊，推動產品策略，優化使用者體驗，熱衷於創造有影響力的產品，以解決現實世界的問題，並為客戶提供卓越的價值。他亦是個具有遠見的人，曾在 Oracle 和 Netscape 工作，推動公司成長並提供尖端解決方案。
           fr: 
           sp: >-
             Un líder tecnológico consumado con más de 25 años de experiencia en desarrollo de productos, ingeniería y operaciones. Experiencia comprobada en el diseño y entrega de soluciones de software innovadoras, aprovechando tecnologías emergentes como la inteligencia artificial, el aprendizaje automático y el procesamiento del lenguaje natural. Cofundé múltiples startups en comercio electrónico, redes sociales, aplicaciones móviles y soluciones educativas. Experto en liderar equipos multifuncionales, impulsar la estrategia de productos y optimizar las experiencias de los usuarios. Apasionado por crear productos impactantes que resuelvan problemas del mundo real y brinden un valor excepcional a los clientes. Un pensador visionario con un historial de impulsar el crecimiento y ofrecer soluciones de vanguardia en Oracle y Netscape.
-      - avatar: /images/photo-Ale.webp
-        name: Alé Di Mare
-        title: Head of Engineering
-        description: 
-          en: >-
-            Alejandro Di Mare, is a seasoned head of engineering with 15 years of
-            experience in edtech. He runs Edkey’s engineering team focused on
-            artificial intelligence, large language models, and software/systems
-            architecture as well as mobile development. Previously he was the
-            first engineer at Edmodo and played a pivotal role in Edmodo’s
-            development that grew to more than 150 million students and teachers
-            across the globe. Alejandro earned his BS from the University of Costa
-            Rica.
-          zh_hk: >-
-            Alejandro Di Mare 是一位經驗豐富的工程師主管，在教育科技領域擁有 15 年的經驗。他負責Edkey 的工程團隊，專注於人工智能、大型語言模型、軟體/系統架構以及行動開發。在此之前，他是 Edmodo 的第一位工程師，在 Edmodo 的發展過程中扮演了舉足輕重的角色，使 Edmodo 在全球各地的學生和教師人數成長到超過 1 億 5 千萬人。Alejandro 擁有哥斯達黎加大學的學士學位。
-          fr: 
-          sp: >-
-            Alejandro Di Mare, es un experimentado jefe de ingeniería con 15 años de experiencia en tecnología educativa. Dirige el equipo de ingeniería de Edkey centrado en inteligencia artificial, grandes modelos de lenguaje y arquitectura de software/sistemas, así como desarrollo móvil. Anteriormente, fue el primer ingeniero en Edmodo y desempeñó un papel fundamental en el desarrollo de Edmodo, que creció hasta contar con más de 150 millones de estudiantes y profesores en todo el mundo. Alejandro obtuvo su licenciatura en la Universidad de Costa Rica.
       - avatar: /images/photo-Darian.webp
         name: Darian Patchin
         title: Head of Go-to-Market

@@ -9,7 +9,7 @@ content_blocks:
       fr: 
       sp: "\_Estudie de forma más inteligente, aprenda más rápido"
     subTitle: 
-      en: Supercharge learning with your personalized AI study sidekick
+      en: Supercharge learning with your personalized AI study companion
       zh_hk: 個人化AI助手 提高學習效率
       fr: 
       sp: Potencia el aprendizaje con tu compañero de estudio de IA personalizado
@@ -45,9 +45,7 @@ content_blocks:
           sp: Obtenga mejores calificaciones ahora
         description: 
           en: >-
-            Upload pre-recorded audio and video files, Youtube URLs and PDFs and
-            let your personalized AI sidekick organize all your materials so you
-            have an effective way to study for exams and finals.
+            Upload pre-recorded audio and video files, Youtube URLs and PDFs and let your personalized AI companion organize all your materials so you have an effective way to study for exams and finals.
           zh_hk: >-
             上傳預先錄製的音訊和視訊檔案、YouTube URL 和 PDF，讓您的個人化 AI 助理整理您的所有資料，以更有效的學習方式準備考試及測驗。
           fr: 
@@ -56,16 +54,13 @@ content_blocks:
         image: /get-better-grades-now.png
         reverse: true
       - title:
-          en: Chat & Learn with Your Dedicated AI Sidekick, 24/7
+          en: Chat & Learn with Your Dedicated AI Companion, 24/7
           zh_hk: 全天候與您專屬的 AI 助手聊天和學習(全年無休)
           fr: 
           sp: Chatea y aprende con tu compañero de IA dedicado, 24 horas al día, 7 días a la semana
         description:
           en: >-
-            Need a question answered but can’t get time with your professor? Query
-            your AI Sidekick chatbot to discuss topics, get more detailed
-            explanations and develop in-depth understanding of all your class
-            materials.
+            Need a question answered but can’t get time with your professor? Query your AI companion chatbot to discuss topics, get more detailed explanations and develop in-depth understanding of all your class materials.
           zh_hk: >-
             有疑問但教授未能及時解答嗎?可以先向您的 AI 助手聊天機器人查詢,討論主題，獲得更詳細的解釋,並深入理解課堂內容。
           fr: 
@@ -109,7 +104,7 @@ content_blocks:
       zh_hk: 如何運作
       fr: 
       sp: Como funciona
-    image: /howItWorks.png
+    image: /uploads/qt-image-1.png
     leftSideContent_a:
       title: 
         en: Personalize Studying
@@ -165,9 +160,7 @@ content_blocks:
         sp: Chatea en tiempo real
       description: 
         en: >-
-          Get subject-relevant questions answered 24/7 by your personalized AI
-          sidekick chatbot.
-          studying, powered by AI.
+          Get subject-relevant questions answered 24/7 by your personalized AI companion chatbot.
         zh_hk: >-
           即時透過您的個人化 AI 助理聊天機器人全天候解答與主題相關的問題。
           學習，由人工智慧驅動。

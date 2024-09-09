@@ -81,6 +81,7 @@
 }
 .howItWorks-content-box{
   max-width: 415px;
+  flex:1
 }
 .howItWorks-image-container{
   margin: 0 56px;
@@ -441,6 +442,7 @@
     max-width: 100%;
     width: 100%;
     order: 3;
+    flex: unset;
   }
   .howItWorks-text-container h4{
     font-size: 24px;

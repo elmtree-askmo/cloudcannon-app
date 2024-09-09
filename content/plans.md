@@ -10,12 +10,7 @@ content_blocks:
       sp: Planes
     description: 
       en: >-
-        At QuickTakes, we are committed to keeping cutting-edge technology in
-        education accessible to all, which is why we will always offer a free
-        version of the service to our users. We have multiple subscription options
-        available in 3 and 6 month increments whether you rely on QuickTakes
-        everyday or less often. To purchase sign into QuickTakes (on the web or
-        via the mobile apps) and go to the Store tab.
+        At QuickTakes, we are committed to keeping cutting-edge technology in education accessible to all, which is why we will always offer a free version of the service to our users. We have multiple subscription options available in one, three and six month increments whether you rely on QuickTakes everyday or less often. To purchase sign into QuickTakes (on the web or via the mobile apps) and go to the Store tab.
       zh_hk: >-
         QuickTakes 致力於讓所有人都能獲得尖端的教育技術，所以我們將一直向用戶提供免費版本的服務。無論您的使用頻率如何，我們提供多種以 3 個月和 6 個月為增量的訂閱選項。若要購買，請登入 QuickTakes（透過網頁或應用程式）並前往「商店」標識。
       fr: 
@@ -36,17 +31,17 @@ content_blocks:
           sp: Gratis
         itemActiveStyle: false
         minutesLabel: 
-          en: 90 min
+          en: 6 Hours
           zh_hk: 90分鐘
           fr: 
           sp: 90 minutos
         description: 
-          en: weekly recording time
+          en: Monthly recording time
           zh_hk: 每週錄音時間
           fr: 
           sp: tiempo de grabación semanal
         remark: 
-          en: Reloads weekly
+          en: Reloads monthly
           zh_hk: 每週重新加載
           fr: 
           sp: recargas semanales
@@ -68,7 +63,7 @@ content_blocks:
               fr: 
               sp: Carga de archivos de vídeo/audio
             description: 
-              en: Part of free 90 min
+              en: Part of free time
               zh_hk: 免費使用 90 分鐘的部分
               fr: 
               sp: Parte de gratis 90 min
@@ -79,7 +74,7 @@ content_blocks:
               fr:  
               sp: Subir URL de Youtube
             description: 
-              en: Part of free 90 min
+              en: Part of free time
               zh_hk: 免費使用 90 分鐘的部分
               fr:  
               sp: Parte de gratis 90 min
@@ -91,7 +86,7 @@ content_blocks:
           sp: Aumentar
         itemActiveStyle: true
         minutesLabel: 
-          en: 120 min
+          en: 2 Hours
           zh_hk: 120分鐘
           fr: 
           sp: 120 minutos
@@ -107,12 +102,12 @@ content_blocks:
           sp: Bueno para 1 mes
         supportAbility:
           - label: 
-              en: 90 minutes of free recording time
+              en: 2 hours of additional recording time
               zh_hk: 90 分鐘免費錄音時間
               fr:
               sp: 90 minutos de tiempo de grabación gratuito
             description: 
-              en: Reloads weekly
+              en: One-time purchase
               zh_hk: 每週重新加載
               fr: 
               sp: Recargas semanales
@@ -134,7 +129,7 @@ content_blocks:
               fr:
               sp: Carga de archivos de vídeo/audio
             description: 
-              en: Part of free 90 min
+              en: Part of free & Boost time
               zh_hk: 免費使用 90 分鐘的部分
               fr:
               sp: Parte de 90 minutos gratis
@@ -145,7 +140,7 @@ content_blocks:
               fr: 
               sp: Subir URL de Youtube
             description: 
-              en: Part of free 90 min
+              en: Part of free and Boost time
               zh_hk: 免費使用 90 分鐘的部分
               fr:
               sp: Parte de 90 minutos gratis
@@ -157,28 +152,28 @@ content_blocks:
           sp: Lite
         itemActiveStyle: true
         minutesLabel: 
-          en: 120 min
+          en: 20 Hours
           zh_hk: 120分鐘
           fr:
           sp: 120 minutos
         description: 
-          en: weekly recording time
+          en: Additional monthly recording time
           zh_hk: 每週錄音時間
           fr:
           sp: tiempo de grabación semanal
         remark: 
-          en: Reloads weekly
+          en: Reloads monthly
           zh_hk: 每週重新加載
           fr:
           sp: recargas semanales
         supportAbility:
           - label: 
-              en: 90 minutes of free recording time
+              en: 6 hours of free recording time
               zh_hk: 90 分鐘免費錄音時間
               fr:
               sp: 90 minutos de tiempo de grabación gratuito
             description: 
-              en: Reloads weekly
+              en: Reloads monthly
               zh_hk: 每週重新加載
               fr:
               sp: recargas semanales
@@ -200,7 +195,7 @@ content_blocks:
               fr:
               sp: Carga de archivos de vídeo/audio
             description: 
-              en: Part of free 90 min
+              en: Part of free & Lite time
               zh_hk: 免費使用 90 分鐘的部分
               fr:
               sp: Parte de 90 minutos gratis
@@ -211,7 +206,7 @@ content_blocks:
               fr:
               sp: Subir URL de Youtube
             description: 
-              en: Part of free 90 min
+              en: Part of free & Lite time
               zh_hk: 免費使用 90 分鐘的部分
               fr:
               sp: Parte de 90 minutos gratis
@@ -223,28 +218,28 @@ content_blocks:
           sp: Superior
         itemActiveStyle: true
         minutesLabel: 
-          en: 1,110 min
+          en: 74 Hours
           zh_hk: 1,110 分鐘
           fr:
           sp: 1.110 minutos
         description: 
-          en: weekly recording time
+          en: Additional monthly recording time
           zh_hk: 每週錄音時間
           fr:
           sp: tiempo de grabación semanal
         remark: 
-          en: Reloads weekly
+          en: Reloads monthly
           zh_hk: 每週重新加載
           fr:
           sp: recargas semanales
         supportAbility:
           - label: 
-              en: 90 minutes of free recording time
+              en: 6 hours of free recording time
               zh_hk: 90 分鐘免費錄音時間
               fr: 
               sp: 90 minutos de tiempo de grabación gratuito
             description: 
-              en: Reloads weekly
+              en: Reloads monthly
               zh_hk: 每週重新加載
               fr:
               sp: recargas semanales
@@ -266,7 +261,7 @@ content_blocks:
               fr:
               sp: Carga de archivos de vídeo/audio
             description: 
-              en: Part of free 90 min
+              en: Part of free & Premium time
               zh_hk: 部分免費 90 分鐘
               fr:
               sp: Parte de 90 minutos gratis
@@ -277,7 +272,7 @@ content_blocks:
               fr:
               sp: Subir URL de Youtube
             description: 
-              en: Part of free 90 min
+              en: Part of free & Premium time
               zh_hk: 免費使用 90 分鐘的部分
               fr:
               sp: Parte de 90 minutos gratis

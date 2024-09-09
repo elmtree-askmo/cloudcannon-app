@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2024-07-17T13:00:00Z
-title: Why should I take summer school courses?
+title: Why Should I Take Summer School Courses?
 article_title: Why should I take summer school courses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
