@@ -10,6 +10,11 @@ spec:
 # Defines the structure of this component, as well as the default values
 blueprint:
   title: Plans Section
+  buttonTxt: 
+    en: Sign Up Today
+    zh_hk:
+    fr:
+    sp:
   items: 
     - label: 
         en: Free

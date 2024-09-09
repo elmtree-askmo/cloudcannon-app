@@ -5,9 +5,9 @@ content_blocks:
     title: Education introduction Section
     contentTitle: 
       en: AI in Education
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: 人工智能在教育領域的應用
+      fr: 
+      sp: IA en la educación
     description: 
       en: >-
         The world of AI in education is new and exciting with high potential to
@@ -19,21 +19,23 @@ content_blocks:
         questions on the mind thought-leaders in the AI edtech space. Check out
         some books and articles below that our staff believes will help educate
         those interested in AI and its promise for education.
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: >-
+        人工智能在教育是一個全新且令人期待的領域,它有很大的潛力來幫助學生和教育工作者更有效學習和教育。但人工智能在教育的應用也飽受關注 - 如何更有效落實，其中包括必要的保障措施和最佳實踐。這對下一代的學生和教育工作者有何影響?我們該如何維持平衡AI的運用或避免技術水準降低?這些正是人工智能在教育科技領域應用時大家所關注的問題。我們認為以下的書籍和文章有助大家了解人工智慧在教育領域的應用及其好處。
+      fr: 
+      sp: >-
+        El mundo de la IA en la educación es nuevo y apasionante y tiene un gran potencial para ayudar a los estudiantes y educadores a aprender y educar de manera más efectiva. La IA en la educación también está plagada de preocupaciones sobre cómo implementarla de manera significativa que incluya barreras de seguridad y mejores prácticas. ¿Cuáles son las implicaciones? para la próxima generación de estudiantes y educadores? ¿Cómo mantenemos controles y equilibrios o evitamos la pérdida de cualificación? Estas son solo algunas de las preguntas que se plantean los líderes de opinión en el espacio de la tecnología educativa de IA. Consulte algunos libros y artículos a continuación que nuestro personal cree que ayudarán a educar a aquellos interesados en la IA y su promesa para la educación.
   - _bookshop_name: education/bookmentions
     title: Education Book Mentions Section
     contentTitle: 
       en: Book Mentions
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: 推薦書籍
+      fr: 
+      sp: Menciones de libros
     buttonTxt:
       en: Read More
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: 閱讀更多
+      fr: 
+      sp: Leer más
     items:
       - image: /bookmentions.png
         title: >-
@@ -71,14 +73,14 @@ content_blocks:
     title: Education Media Section
     contentTitle: 
       en: Media
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: 媒體
+      fr: 
+      sp: Medios de comunicación
     buttonTxt:
       en: Read More
-      zh_hk:
-      fr: test
-      sp:
+      zh_hk: 閱讀更多
+      fr: 
+      sp: Leer más
     items:
       - image: /media.png
         title: >-

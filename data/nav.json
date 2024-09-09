@@ -116,15 +116,15 @@
 		"logo": "/quicktakesIcon_new.svg",
 		"logo_light":"/quicktakesIcon_new_light.svg",
 		"signUp":"注册",
-		"login":"登录",
-		"contactUs":"联系我们",
+		"login":"登入",
+		"contactUs":"聯絡我們",
 		"hamburgerMenu":[
 			{
-				"label": "关于我们",
+				"label": "關於我們",
 				"link": "/quicktakes-about-us"
 			},
 			{
-				"label": "常见问题",
+				"label": "常見問題",
 				"link": "/faq"
 			},
 			{
@@ -136,28 +136,28 @@
 				"link": "/blog"
 			},
 			{
-				"label": "计划",
+				"label": "訂閱計劃",
 				"link": "/plans"
 			},
 			{
-				"label": "机构",
+				"label": "機構",
 				"link": "/institutions"
 			}
 		],
 		"items": [
 			{
 				"link": "/quicktakes-about-us",
-				"text": "关于我们",
+				"text": "關於我們",
 				"type": "Link"
 			},
 			{
 				"link": "",
-				"text": "资源",
+				"text": "資源",
 				"type": "DropDown",
 				"list":[
 					{
 						"link":"/faq",
-						"label":"常见问题"
+						"label":"常見問題"
 					},
 					{
 						"link":"/education",
@@ -167,7 +167,7 @@
 			},
 			{
 				"link": "/institutions",
-				"text": "机构",
+				"text": "機構",
 				"type": "Link"
 			},
 			{
@@ -177,26 +177,26 @@
 			},
 			{
 				"link": "/plans",
-				"text": "计划",
+				"text": "訂閱計劃",
 				"type": "Link"
 			}
 		],
 		"footerNav":{
-			"slogan": "Study Smarter, Learn Faster",
-			"button_label":"Sign Up Today",
+			"slogan": "聰明學習,快速掌握",
+			"button_label":"立即登記",
 			"downloadQuicktake":"下载Quicktakes",
 			"quicktakesNav":{
 				"label": "QuickTakes",
 				"map":[
-					{ "label":"关于我们", "link":"/quicktakes-about-us"},
-					{ "label":"机构", "link":"/institutions"},
-					{ "label":"计划", "link":"/plans"}
+					{ "label":"關於我們", "link":"/quicktakes-about-us"},
+					{ "label":"機構", "link":"/institutions"},
+					{ "label":"訂閱計劃", "link":"/plans"}
 				]
 			},
 			"resourcesNav":{
 				"label":"Resources",
 				"map":[
-					{ "label":"常见问题", "link":"/faq"},
+					{ "label":"常見問題", "link":"/faq"},
 					{ "label":"AI教育", "link":"/education"},
 					{ "label":"博客", "link":"/blog"}
 				]
@@ -204,20 +204,20 @@
 			"supportNav":{
 				"label":"Support",
 				"map":[
-					{ "label":"联系我们", "link":"mailto:info@edkey.com"},
-					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
-					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+					{ "label":"聯絡我們", "link":"mailto:info@edkey.com"},
+					{ "label":"服務條款", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"私隱政策", "link":"https://app.quicktakes.io/privacy-policy"}
 				]
 			}
 		},
 		"contactForm":{
-			"contactUs":"联系我们",
+			"contactUs":"聯絡我們",
 			"name":"姓名",
-			"email":"邮箱",
+			"email":"電郵",
 			"subject":"科目",
-			"message":"消息",
-			"sendEmail":"发送邮件",
-			"subjectValue":"QuickTakes信息请求"
+			"message":"信息",
+			"sendEmail":"發送",
+			"subjectValue":"QuickTakes信息"
 		},
 		"_inputs": {
 			"logo": {
@@ -341,20 +341,20 @@
 	"sp":{
 		"logo": "/quicktakesIcon_new.svg",
 		"logo_light":"/quicktakesIcon_new_light.svg",
-		"signUp":"Sign Up",
-		"login":"Login",
-		"contactUs":"Contact Us",
+		"signUp":"Inscribirse",
+		"login":"Acceso",
+		"contactUs":"Contacta con nosotros",
 		"hamburgerMenu":[
 			{
-				"label": "About Us",
+				"label": "Sobre nosotros",
 				"link": "/quicktakes-about-us"
 			},
 			{
-				"label": "FAQ",
+				"label": "Preguntas frecuentes",
 				"link": "/faq"
 			},
 			{
-				"label": "AI in Education",
+				"label": "IA en la educación",
 				"link": "/education"
 			},
 			{
@@ -362,38 +362,38 @@
 				"link": "/blog"
 			},
 			{
-				"label": "Plans",
+				"label": "Planes",
 				"link": "/plans"
 			},
 			{
-				"label": "Institutions",
+				"label": "Instituciones",
 				"link": "/institutions"
 			}
 		],
 		"items": [
 			{
 				"link": "/quicktakes-about-us",
-				"text": "About Us",
+				"text": "Sobre nosotros",
 				"type": "Link"
 			},
 			{
 				"link": "",
-				"text": "Resources",
+				"text": "Recursos",
 				"type": "DropDown",
 				"list":[
 					{
 						"link":"/faq",
-						"label":"FAQ"
+						"label":"Preguntas frecuentes"
 					},
 					{
 						"link":"/education",
-						"label":"AI in Education"
+						"label":"IA en la educación"
 					}
 				]
 			},
 			{
 				"link": "/institutions",
-				"text": "Institutions",
+				"text": "Instituciones",
 				"type": "Link"
 			},
 			{
@@ -403,47 +403,47 @@
 			},
 			{
 				"link": "/plans",
-				"text": "Plans",
+				"text": "Planes",
 				"type": "Link"
 			}
 		],
 		"footerNav":{
-			"slogan": "Study Smarter, Learn Faster",
-			"button_label":"Sign Up Today",
-			"downloadQuicktake":"Download QuickTakes!",
+			"slogan": "Estudie de forma más inteligente, aprenda más rápido",
+			"button_label":"Regístrate hoy",
+			"downloadQuicktake":"D¡Descarga QuickTakes!",
 			"quicktakesNav":{
 				"label": "QuickTakes",
 				"map":[
-					{ "label":"About Us", "link":"/quicktakes-about-us"},
-					{ "label":"Institutions", "link":"/institutions"},
-					{ "label":"Plans", "link":"/plans"}
+					{ "label":"Sobre nosotros", "link":"/quicktakes-about-us"},
+					{ "label":"Instituciones", "link":"/institutions"},
+					{ "label":"Planes", "link":"/plans"}
 				]
 			},
 			"resourcesNav":{
-				"label":"Resources",
+				"label":"Recursos",
 				"map":[
-					{ "label":"FAQ", "link":"/faq"},
-					{ "label":"AI in Education", "link":"/education"},
+					{ "label":"Preguntas frecuentes", "link":"/faq"},
+					{ "label":"IA en la educación", "link":"/education"},
 					{ "label":"Blog", "link":"/blog"}
 				]
 			},
 			"supportNav":{
-				"label":"Support",
+				"label":"Apoyo",
 				"map":[
-					{ "label":"Contact", "link":"mailto:info@edkey.com"},
-					{ "label":"Terms of Service", "link":"https://app.quicktakes.io/terms"},
-					{ "label":"Privacy Policy", "link":"https://app.quicktakes.io/privacy-policy"}
+					{ "label":"Contacto", "link":"mailto:info@edkey.com"},
+					{ "label":"Términos de servicio", "link":"https://app.quicktakes.io/terms"},
+					{ "label":"política de privacidad", "link":"https://app.quicktakes.io/privacy-policy"}
 				]
 			}
 		},
 		"contactForm":{
-			"contactUs":"Contact Us",
-			"name":"Name",
-			"email":"Email",
-			"subject":"Subject",
-			"message":"Message",
-			"sendEmail":"Send Email",
-			"subjectValue":"QuickTakes Institution Info Request"
+			"contactUs":"Contacta con nosotros",
+			"name":"Nombre",
+			"email":"Correo electrónico",
+			"subject":"Sujeto",
+			"message":"Mensaje",
+			"sendEmail":"Enviar correo electrónico",
+			"subjectValue":"Solicitud de información institucional QuickTakes"
 		},
 		"_inputs": {
 			"logo": {

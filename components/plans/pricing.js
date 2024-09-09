@@ -39,7 +39,7 @@ export default function Pricing({content, block, language='en'}){
                     }
                 </div>
                 <div className={styles.signup}>
-                    <Link href="#" onClick={handleSignUp} >Sign Up Today</Link>
+                    <Link href="#" onClick={handleSignUp} >{block.buttonTxt[language] || block.buttonTxt['en']}</Link>
                 </div>
             </div>
         </div>

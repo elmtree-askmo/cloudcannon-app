@@ -31,7 +31,8 @@
 .institutions-banner-btn{
     all: unset;
     display: block;
-    width: 150px;
+    /* width: 150px; */
+    padding: 0 24px;
     height: 54px;
     border-radius: 60px;
     text-align: center;
