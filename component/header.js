@@ -36,7 +36,7 @@ export default function Header({ pathname, theme, language, setLanguage }) {
             {key: 'en', label:"English"},
             {key: 'zh_hk', label:"Traditional Chinese"},
             {key: 'sp', label:"Spanish"},
-            {key: 'fr', label:"French"}
+            // {key: 'fr', label:"French"}
         ],
         onClick: handleClickLanguage
     }
