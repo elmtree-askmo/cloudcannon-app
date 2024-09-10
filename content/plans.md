@@ -44,17 +44,17 @@ content_blocks:
         itemActiveStyle: false
         minutesLabel:
           en: 6 Hours
-          zh_hk: 90分鐘
+          zh_hk: 6 小時
           fr:
-          sp: 90 minutos
+          sp: 6 horas
         description:
           en: Monthly recording time
-          zh_hk: 每週錄音時間
+          zh_hk: 每月錄音時間
           fr:
           sp: tiempo de grabación semanal
         remark:
           en: Reloads monthly
-          zh_hk: 每週重新加載
+          zh_hk: 每月重新加載
           fr:
           sp: recargas semanales
         supportAbility:
@@ -76,9 +76,9 @@ content_blocks:
               sp: Carga de archivos de vídeo/audio
             description:
               en: Part of free time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 免費使用6小時
               fr:
-              sp: Parte de gratis 90 min
+              sp: Parte de free
             activeStyle: false
           - label:
               en: Youtube URL upload
@@ -87,9 +87,9 @@ content_blocks:
               sp: Subir URL de Youtube
             description:
               en: Part of free time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 免費使用6小時
               fr:
-              sp: Parte de gratis 90 min
+              sp: Parte de free
             activeStyle: false
       - label:
           en: Boost
@@ -99,9 +99,9 @@ content_blocks:
         itemActiveStyle: true
         minutesLabel:
           en: 2 Hours
-          zh_hk: 120分鐘
+          zh_hk: 2小時
           fr:
-          sp: 120 minutos
+          sp: 2 horas
         description:
           en: One time purchase
           zh_hk: 逐次購買
@@ -115,14 +115,14 @@ content_blocks:
         supportAbility:
           - label:
               en: 2 hours of additional recording time
-              zh_hk: 90 分鐘免費錄音時間
+              zh_hk: 2小時免費錄音時間
               fr:
-              sp: 90 minutos de tiempo de grabación gratuito
+              sp: 2 horas de tiempo de grabación gratuito
             description:
               en: One-time purchase
-              zh_hk: 每週重新加載
+              zh_hk: 逐次購買
               fr:
-              sp: Recargas semanales
+              sp: Compra única
             activeStyle: true
           - label:
               en: PDF upload
@@ -142,9 +142,9 @@ content_blocks:
               sp: Carga de archivos de vídeo/audio
             description:
               en: Part of free & Boost time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 包括在免費使用 6小時及增值時間
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Boost time
             activeStyle: true
           - label:
               en: Youtube URL upload
@@ -153,9 +153,9 @@ content_blocks:
               sp: Subir URL de Youtube
             description:
               en: Part of free and Boost time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 包括在免費使用 6小時及增值時間
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Boost time
             activeStyle: true
       - label:
           en: Lite
@@ -165,30 +165,30 @@ content_blocks:
         itemActiveStyle: true
         minutesLabel:
           en: 14 Hours
-          zh_hk: 120分鐘
+          zh_hk: 14小時
           fr:
-          sp: 120 minutos
+          sp: 14 horas
         description:
           en: Additional monthly recording time
-          zh_hk: 每週錄音時間
+          zh_hk: 每月錄音時間
           fr:
-          sp: tiempo de grabación semanal
+          sp: Tiempo de grabación mensual
         remark:
           en: Reloads monthly
-          zh_hk: 每週重新加載
+          zh_hk: 每月重新加載
           fr:
-          sp: recargas semanales
+          sp: Recarga mensual
         supportAbility:
           - label:
               en: 6 hours of free recording time
-              zh_hk: 90 分鐘免費錄音時間
+              zh_hk: 6小時免費錄音時間
               fr:
-              sp: 90 minutos de tiempo de grabación gratuito
+              sp: 6 horas de tiempo de grabación gratuito
             description:
               en: Reloads monthly
-              zh_hk: 每週重新加載
+              zh_hk: 每月重新加載
               fr:
-              sp: recargas semanales
+              sp: Recarga mensual
             activeStyle: true
           - label:
               en: PDF upload
@@ -208,9 +208,9 @@ content_blocks:
               sp: Carga de archivos de vídeo/audio
             description:
               en: Part of free & Lite time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 包括在免費使用6小時及輕用量版
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Lite time
             activeStyle: true
           - label:
               en: Youtube URL upload
@@ -219,9 +219,9 @@ content_blocks:
               sp: Subir URL de Youtube
             description:
               en: Part of free & Lite time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 包括在免費使用6小時及輕用量版
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Lite time
             activeStyle: true
       - label:
           en: Premium
@@ -231,30 +231,30 @@ content_blocks:
         itemActiveStyle: true
         minutesLabel:
           en: 80 Hours
-          zh_hk: 1,110 分鐘
+          zh_hk: 80小時
           fr:
-          sp: 1.110 minutos
+          sp: 80 horas
         description:
           en: Additional monthly recording time
-          zh_hk: 每週錄音時間
+          zh_hk: 每月錄音時間
           fr:
-          sp: tiempo de grabación semanal
+          sp: Tiempo de grabación mensual
         remark:
           en: Reloads monthly
-          zh_hk: 每週重新加載
+          zh_hk: 每月重新加載
           fr:
-          sp: recargas semanales
+          sp: Recarga mensual
         supportAbility:
           - label:
               en: 6 hours of free recording time
-              zh_hk: 90 分鐘免費錄音時間
+              zh_hk: 6小時免費錄音時間
               fr:
-              sp: 90 minutos de tiempo de grabación gratuito
+              sp: 6 horas de tiempo de grabación gratuito
             description:
               en: Reloads monthly
-              zh_hk: 每週重新加載
+              zh_hk: 每月重新加載
               fr:
-              sp: recargas semanales
+              sp: Recarga mensual
             activeStyle: true
           - label:
               en: PDF upload
@@ -274,9 +274,9 @@ content_blocks:
               sp: Carga de archivos de vídeo/audio
             description:
               en: Part of free & Premium time
-              zh_hk: 部分免費 90 分鐘
+              zh_hk: 包括在免費使用6小時及高用量版
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Premium time
             activeStyle: true
           - label:
               en: Youtube URL upload
@@ -285,9 +285,9 @@ content_blocks:
               sp: Subir URL de Youtube
             description:
               en: Part of free & Premium time
-              zh_hk: 免費使用 90 分鐘的部分
+              zh_hk: 包括在免費使用6小時及高用量版
               fr:
-              sp: Parte de 90 minutos gratis
+              sp: Parte de free & Premium time
             activeStyle: true
   - _bookshop_name: plans/contact
     title: Plans contact Section
