@@ -211,6 +211,24 @@ content_blocks:
           sp: >-
             Empecé a usar QuickTakes para registrar lo que decía el profesor y debo decir que funciona PERFECTAMENTE
         avatar: /insititutions/avatar3.svg
+      - name: Parvin
+        content: 
+          en: >-
+            This is one of the best apps I've found to help in my studies so far!
+          zh_hk: 到現時為止，這是對我的學習最有幫助的應用程式之一！
+          fr:
+          sp: >-
+            ¡Esta es una de las mejores aplicaciones que he encontrado para ayudarme en mis estudios hasta ahora!
+        avatar: /insititutions/avatar4.svg
+      - name: carl
+        content: 
+          en: >-
+            A Tool every student or professional must have…and you can ask questions if you need more help.
+          zh_hk: 每個學生或專業人士都必須擁有的工具…您還可以提出問題以得到更多的幫助。
+          fr:
+          sp: >-
+            Una herramienta que todo estudiante o profesional debe tener... y puedes hacer preguntas si necesitas más ayuda.
+        avatar: /insititutions/avatar5.svg
   - _bookshop_name: institutions/licensingAndSubscriptions
     title: institutions subscription
     contentTitle: 
