@@ -2,9 +2,12 @@
 _schema: default
 date: 2024-09-05T14:00:00Z
 title: 'The Pomodoro Technique: Productive College Studying'
+article_title: 'The Pomodoro Technique: Productive College Studying'
 description: >-
   Explore the proven time management method, the 'Pomodoro Technique', with
   QuickTakes.
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 seo:
   title: Study Techniques for College Students | Pomodoro Method
   page_description: >-
