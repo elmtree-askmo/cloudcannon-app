@@ -37,7 +37,7 @@ content_blocks:
             學習材料！專心聆聽老師講課，我們的人工智能超強學習筆記app將為您生成課後溫習所需的筆記。
           fr:
           sp: >-
-            ¡Graba tu conferencia completa para recuperar tu QuickTake generado
+            Graba tu conferencia completa para recuperar tu QuickTake generado
             por IA! Mientras se concentra en escuchar su conferencia, siéntase
             seguro de que tendrá el respaldo que necesita con notas de estudio
             supercargadas desarrolladas por IA.
