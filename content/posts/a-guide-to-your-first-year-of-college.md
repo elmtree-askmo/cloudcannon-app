@@ -2,9 +2,12 @@
 _schema: default
 date: 2024-08-07T13:00:00Z
 title: A Guide to Your First Year of College
+article_title: A Guide to Your First Year of College
 description: >-
   QuickTakes has the tips you need for how to make the most out of your first
   year of college and utilize the resources at your disposal.
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 seo:
   title: Making the most of your first/freshman year of college
   page_description: >-

@@ -2,9 +2,12 @@
 _schema: default
 date: 2024-08-28T11:00:00Z
 title: Navigating the Transition from High School to College
+article_title: Navigating the Transition from High School to College
 description: >-
   Explore the differences between high school and college with QuickTakes! Get
   excited and prepared for your transition to higher education.
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 seo:
   title: Off to College | Differences Between High School, University
   page_description: >-

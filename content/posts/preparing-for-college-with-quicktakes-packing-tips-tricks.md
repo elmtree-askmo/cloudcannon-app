@@ -2,9 +2,12 @@
 _schema: default
 date: 2024-08-19T14:00:00Z
 title: 'Preparing for College with QuickTakes: Packing Tips & Tricks'
+article_title: 'Preparing for College with QuickTakes: Packing Tips & Tricks'
 description: >-
   Incoming Stanford Senior and QuickTakes intern, Devyani Gonzalez, gives her
   tips for packing for college and making it a successful school year!
+date_format: MMM DD, YYYY
+post_on_text: Posted on
 seo:
   title: College Packing List | Off to College | University Life
   page_description: >-
