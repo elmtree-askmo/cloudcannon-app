@@ -6,7 +6,7 @@ article_title: How to Get the Best Experience when Studying Abroad
 description: >
   Studying abroad poses many great opportunities to students, like learning a
   new language and traveling. Make the most of your experience with our tips!
-date_format: MMM DD/YYYY
+date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
   title: Study abroad tips | Experience as a foreign exchange student
