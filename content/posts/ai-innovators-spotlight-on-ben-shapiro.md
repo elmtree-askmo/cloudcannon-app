@@ -36,8 +36,6 @@ His goals of turning his ideas into profitable ventures and surrounding himself 
 
 Ben believes that students should absolutely utilize AI, but they must do so mindfully. In general, AI helps people do things faster, and sometimes even better. However, the output of any AI tool, such as an LLM, should still be viewed as a draft—something that requires fact-checking, proofreading, and editing to become unique, accurate, and refined. This process is crucial for maintaining quality and developing critical thinking skills.
 
-&nbsp;
-
 When using AI to learn a topic, students should first ask themselves whether they need a deep, first-principles understanding or just a high-level overview. Without mastering the fundamentals, it becomes difficult to truly innovate. True innovation stems from a deep understanding of how a system works, enabling students to improve or integrate it with other technologies.
 
 Ben also points out that AI is making education more accessible. Today, everyone already has access to 1:1 tutoring through tools like ChatGPT, Khanmigo, or Duolingo Max, making personalized learning more affordable and scalable than ever before. Educational institutions have a responsibility to teach students how to effectively integrate AI into their personal and professional workflows, while also covering critical areas like data privacy, security, and ethics.
