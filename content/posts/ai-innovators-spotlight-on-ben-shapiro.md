@@ -19,7 +19,7 @@ seo:
     college, university
 author: QuickTakes
 featuredImg:
-  image: /uploads/ben-shap-blog.jpg
+  image: /uploads/ben-shap-blog-1000-x-250-px.jpg
   image_alt: Ben Shapiro in space
 ---
 Artificial intelligence has been all anyone is talking about in the last few years, but did you know that it’s been around for much longer than most of us have thought? [Ben Shapiro](https://www.linkedin.com/in/benshapyro/), a young entrepreneur based in Southern California, began working with AI in 2019, focusing on smart homes, assistants, and automation. Today he leverages Large Language Models (LLMs), agents, and custom Machine Learning (ML) models to speed up his personal and professional workflows.
