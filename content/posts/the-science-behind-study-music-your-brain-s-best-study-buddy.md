@@ -23,7 +23,7 @@ featuredImg:
   image: /uploads/study-music-blog.jpg
   image_alt: woman in college studying with headphones on
 ---
-Ever wondered why that [lo-fi](https://open.spotify.com/playlist/2Vth9F7BbTxAIcLvWME3qh?si=3M_LlEz0Rd64ll-aGcye5A) playlist helps you power through lengthy study sessions? Or why classical music seems to make complex problems feel more manageable? Below, QuickTakes dives into the fascinating world of study music and how it can transform your academic performance.
+Ever wondered why that <a href="https://open.spotify.com/playlist/2Vth9F7BbTxAIcLvWME3qh?si=3M_LlEz0Rd64ll-aGcye5A" target="_blank" rel="noopener">lo-fi</a> playlist helps you power through lengthy study sessions? Or why classical music seems to make complex problems feel more manageable? Below, QuickTakes dives into the fascinating world of study music and how it can transform your academic performance.
 
 ### **Why Music Matters for Studying**
 
@@ -37,14 +37,14 @@ Research has shown that the right kind of music can:
 
 ### **Best Types of Study Music**
 
-1\. [Classical Music](https://open.spotify.com/playlist/3LQz6b09G2EXgwfxhJ0Y6s?si=tbkY8-XxQ-CU06xjPW44jA): The Mozart Effect
+1\. <a href="https://open.spotify.com/playlist/3LQz6b09G2EXgwfxhJ0Y6s?si=tbkY8-XxQ-CU06xjPW44jA" target="_blank" rel="noopener">Classical Music</a>: The Mozart Effect
 
 * What: Compositions from Mozart, Bach, Beethoven
 * Why it works: Complex enough to stimulate your brain, but not distracting
 * Best for: Mathematical problems, analytical thinking
 * Pro tip: Start with Mozart's Piano Sonatas or Bach's Brandenburg Concertos
 
-2\. [Lo-fi Beats](https://open.spotify.com/playlist/5kLz273qow2Hz7JY2JB6ZX?si=5WNKFdUKRQyJNzVrp_xrPw)
+2\. <a href="https://open.spotify.com/playlist/5kLz273qow2Hz7JY2JB6ZX?si=5WNKFdUKRQyJNzVrp_xrPw" target="_blank" rel="noopener">Lo-fi Beats</a>
 
 * What: Soft electronic music with repetitive patterns
 * Why it works: Creates a consistent acoustic environment without vocal distractions
@@ -76,7 +76,7 @@ Research has shown that the right kind of music can:
 
 1\. Match Music to Your Task
 
-* Reading: Choose [music without lyrics](https://open.spotify.com/playlist/2mrx0lk8GSQxjCPwLcnK7X)
+* Reading: Choose <a href="https://open.spotify.com/playlist/2mrx0lk8GSQxjCPwLcnK7X" target="_blank" rel="noopener">music without lyrics</a>
 * Writing: Ambient or nature sounds
 * Math: Classical or electronic music with regular patterns
 * Memorization: Consistent, repetitive beats
@@ -164,4 +164,4 @@ Start with our suggestions, but don't be afraid to adjust and experiment until y
 
 Remember: The best study music is the one that helps you focus without becoming the focus itself.
 
-*<br>Download QuickTakes on the Apple App Store and Google Play Store, or sign up online at QuickTakes.io. Check out the* [*QuickTakes Spotify*](https://open.spotify.com/user/317iuopw7yk2ncum6bq4otwpzmo4?si=5159bd0ff957425a) *for curated study playlists across genres!*
+*<br>Download QuickTakes on the Apple App Store and Google Play Store, or sign up online at QuickTakes.io. Check out the* <a href="https://open.spotify.com/user/317iuopw7yk2ncum6bq4otwpzmo4?si=5159bd0ff957425a" target="_blank" rel="noopener"><em>QuickTakes Spotify</em></a> *for curated study playlists across genres!*
