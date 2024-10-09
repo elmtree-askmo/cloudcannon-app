@@ -25,6 +25,7 @@ export default function App({ Component, pageProps }) {
   const [language, setLanguage] = useState('en');
   const AppComponent = CloudCannonConnect(Component);
   const HeaderComponent = CloudCannonConnect(Header);
+  const [utmParams, setUtmParams] = useState(null);
 
   useEffect(()=>{
     const lang = localStorage.getItem('language')
@@ -34,6 +35,14 @@ export default function App({ Component, pageProps }) {
       setLanguage('en');
     }
   },[])
+
+  useEffect(()=>{
+    if(!router.isReady) return;
+    const { query } = router;
+    if (Object.keys(query).length > 0){
+      setUtmParams(query)
+    }
+  },[router.isReady, router.query])
 
   const renderLayout = ()=>(
       <>
@@ -79,9 +88,9 @@ export default function App({ Component, pageProps }) {
         </Script>
         <Script src="https://www.googleoptimize.com/optimize.js?id=OPT-KQRJT68"></Script>
         <div>
-          <HeaderComponent pathname={pathname} theme={theme()} setLanguage={setLanguage} language={language} />
-          <AppComponent {...pageProps} setLanguage={setLanguage} language={language}/>
-          <Footer theme={theme()} language={language} />
+          <HeaderComponent pathname={pathname} theme={theme()} setLanguage={setLanguage} language={language}  utmParams={utmParams} />
+          <AppComponent {...pageProps} setLanguage={setLanguage} language={language} utmParams={utmParams} />
+          <Footer theme={theme()} language={language}  utmParams={utmParams} />
         </div>
       </>
     )

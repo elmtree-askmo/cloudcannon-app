@@ -5,11 +5,16 @@ import { Button } from 'antd';
 import Link from 'next/link';
 import { useEffect } from 'react';
 
-export default function Banner({content, block, language="en"}){
+export default function Banner({content, block, language="en", utmParams=null}){
     const handleSignUpNow = ()=>{
-        mixpanel.track("MarketingPage_SignUp", { placement: 'homeBanner' }, {send_immediately:true}, ()=>{
-          window.location.href = `https://${APP_URL}/signup`;
-        })
+      let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
+      if(utmParams){
+        const search = new URLSearchParams(utmParams).toString();
+        deeplink = `${deeplink}?${search}`;
+      }
+      mixpanel.track("MarketingPage_SignUp", { placement: 'homeBanner' }, {send_immediately:true}, ()=>{
+        window.location.href = deeplink;
+      })
     }
     
     return (
