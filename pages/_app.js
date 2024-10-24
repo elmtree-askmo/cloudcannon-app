@@ -39,6 +39,7 @@ export default function App({ Component, pageProps }) {
   useEffect(()=>{
     if(!router.isReady) return;
     const { query } = router;
+    console.log('query test', query)
     if (Object.keys(query).length > 0){
       setUtmParams(query)
     }
