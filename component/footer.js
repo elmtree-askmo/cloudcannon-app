@@ -10,7 +10,7 @@ import mixpanel from "mixpanel-browser";
 import { SpotifyOutlined } from "@ant-design/icons";
 
 
-export default function Footer({theme, language='en'}){
+export default function Footer({theme, language='en', utmParams=null}){
     const [openContact, setOpenContact] = useState(false);
 
     const [email, setEmail] = useState('');
@@ -56,8 +56,13 @@ export default function Footer({theme, language='en'}){
     }
 
     const handleSignUp = () => {
+        let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
+        if(utmParams){
+            const search = new URLSearchParams(utmParams).toString();
+            deeplink = `${deeplink}?${search}`;
+        }
         mixpanel.track(`MarketingPage_SignUp`, { placement: 'footerMenu' }, {send_immediately:true}, ()=>{
-            window.location.href = `https://${APP_URL}/signup`
+            window.location.href = deeplink;
         })
     }
 

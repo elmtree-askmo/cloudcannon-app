@@ -11,7 +11,7 @@ import renderComponent from '@/util/componentsMapping';
 
 const filer = new Filer({path: 'content'})
 
-export default function Education({page, language}) {
+export default function Education({page, language, utmParams}) {
 
   const blocks = page.data.content_blocks;
 
@@ -27,7 +27,7 @@ export default function Education({page, language}) {
     </Head>
     {
       blocks.map((item, index)=>{
-        return renderComponent(item._bookshop_name, index, item, null, language)
+        return renderComponent(item._bookshop_name, index, item, null, language, null, utmParams)
       })
     }
   </>

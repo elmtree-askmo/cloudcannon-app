@@ -3,11 +3,16 @@ import styles from '../../styles/pricing.module.css';
 import { APP_URL } from '@/constant/app.constant';
 import mixpanel from 'mixpanel-browser';
 
-export default function Pricing({content, block, language='en'}){
+export default function Pricing({content, block, language='en', utmParams=null}){
     const handleSignUp = (e)=>{
         e.preventDefault();
+        let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
+        if(utmParams){
+            const search = new URLSearchParams(utmParams).toString();
+            deeplink = `${deeplink}?${search}`;
+        }
         mixpanel.track("MarketingPage_SignUp", { placement: 'plansPage' }, {send_immediately:true}, ()=>{
-          window.location.href = `https://${APP_URL}/signup`;
+          window.location.href = deeplink;
         })
     }
 
