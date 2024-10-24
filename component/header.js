@@ -14,7 +14,7 @@ import { DownOutlined, GlobalOutlined } from "@ant-design/icons";
 import ContactForm from "./contactForm";
 import HeaderArrow from "@/public/headerArrow";
 
-export default function Header({ pathname, theme, language, setLanguage }) {
+export default function Header({ pathname, theme, language, setLanguage, utmParams=null }) {
     const router = useRouter();
 
     const [openMenu, setOpenMenu] = useState(false);
@@ -50,8 +50,13 @@ export default function Header({ pathname, theme, language, setLanguage }) {
 
     const handleSignUp = () => {
         // console.log(eventPrefix + 'Click Sign Up')
+        let deeplink = process.env.NEXT_PUBLIC_UTM_DEEPLINK;
+        if(utmParams){
+            const search = new URLSearchParams(utmParams).toString();
+            deeplink = `${deeplink}?${search}`;
+        }
         mixpanel.track(`MarketingPage_SignUp`, { placement: 'headerMenu' }, {send_immediately:true}, ()=>{
-            window.location.href = `https://${APP_URL}/signup`
+            window.location.href = deeplink;
         } )
     }
     const handleLogin = () => {

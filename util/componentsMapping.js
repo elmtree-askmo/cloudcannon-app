@@ -33,11 +33,11 @@ import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
 
 
-export default function renderComponent(key, index, block, posts, language, mergedPosts){
+export default function renderComponent(key, index, block, posts, language, mergedPosts, utmParams){
     let targetComponent ;
     switch (key) {
         case "home/banner":
-            targetComponent = (<Banner key={index} content={homeContent} block={block} language={language} />)
+            targetComponent = (<Banner key={index} content={homeContent} block={block} language={language} utmParams={utmParams} />)
             break;
         case "home/landscape":
             targetComponent = (<Landscape key={index} content={homeContent} block={block} language={language} />)
@@ -46,7 +46,7 @@ export default function renderComponent(key, index, block, posts, language, merg
             targetComponent = (<Schools key={index} content={homeContent} block={block} language={language} />)
             break;
         case "home/howItWorks":
-            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} language={language} />)
+            targetComponent = (<HowItWorks key={index} content={homeContent} block={block} language={language} utmParams={utmParams} />)
             break;
         case "home/slideshow":
             targetComponent = (<Slideshow key={index} content={homeContent} block={block} language={language} />)
@@ -82,7 +82,7 @@ export default function renderComponent(key, index, block, posts, language, merg
             targetComponent = (<Intro key={index} content={pricingContent} block={block} language={language} />)
             break;
         case "plans/pricing":
-            targetComponent = (<Pricing key={index} content={pricingContent} block={block} language={language} />)
+            targetComponent = (<Pricing key={index} content={pricingContent} block={block} language={language} utmParams={utmParams} />)
             break;
         case "plans/contact":
             targetComponent = (<Contact key={index} content={pricingContent} block={block} language={language} />)
