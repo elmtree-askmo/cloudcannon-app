@@ -4,6 +4,9 @@ date: 2024-11-13T17:30:00Z
 title: A Senior’s Guide to Preparing for Finals
 article_title: A Senior’s Guide to Preparing for Finals
 description: >
+  By Devyani Gonzalez
+
+
   For college students, finals season is always around the corner, regardless of
   whether your school runs on semesters, trimesters, or quarters. Make this
   intense season more manageable and maybe even a little bit less stressful.
