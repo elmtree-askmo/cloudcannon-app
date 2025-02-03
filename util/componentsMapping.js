@@ -31,6 +31,8 @@ import EmpowerToSucceed from '../components/institutions/empowerToSucceed';
 import LicensingAndSubscriptions from '../components/institutions/licensingAndSubscriptions';
 import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
+import TopQuestionHeader from '../components/top-questions/header';
+import TopQuestionsList from '../components/top-questions/list';
 
 
 export default function renderComponent(key, index, block, posts, language, mergedPosts, utmParams){
@@ -110,6 +112,12 @@ export default function renderComponent(key, index, block, posts, language, merg
             break;
         case "institutions/quicktakesTestimonials":
             targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block}  language={language} />)
+            break;
+        case "top-questions/header":
+            targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
+            break;
+        case "top-questions/list":
+            targetComponent = (<TopQuestionsList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
             break;
         default:
             targetComponent = null;
