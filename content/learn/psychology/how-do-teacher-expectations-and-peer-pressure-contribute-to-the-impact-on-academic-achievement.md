@@ -1,0 +1,26 @@
+---
+_schema: default
+id: 164194
+date: 2025-01-28
+title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+article_title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+date_format: MMM DD, YYYY
+post_on_text: Posted on
+seo:
+  title: QuickTakes | Psychology
+  page_description: >-
+    This content discusses how teacher expectations and peer pressure influence academic achievement, particularly in adolescent girls, highlighting concepts such as motivation, self-esteem, gender stereotypes, and the impact of social dynamics.
+  page_keywords: >-
+    teacher expectations, academic achievement, peer pressure, self-esteem, motivation, self-fulfilling prophecy, gender stereotypes, adolescent girls, relational crises, social dynamics, cultural norms, educational outcomes
+author: QuickTakes
+question: >-
+    How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+answer: >-
+    Teacher expectations and peer pressure are significant factors that contribute to academic achievement, particularly in the context of adolescent girls and the relational crises they may face.\n\n### Teacher Expectations\n\n1. **Influence on Motivation and Self-Esteem**: High teacher expectations can foster a positive learning environment that enhances students' motivation and self-esteem. When teachers believe in their students' capabilities and set challenging goals, it instills confidence and encourages students to strive for higher academic performance. This belief can lead to a growth mindset, where students view challenges as opportunities for development rather than obstacles (Lloyd, 2021).\n\n2. **Self-Fulfilling Prophecy**: The concept of a self-fulfilling prophecy is crucial here. When teachers hold positive expectations for their students, it can lead to improved academic outcomes. Conversely, if teachers have low expectations, students may internalize these beliefs, which can hinder their performance. Research indicates that teacher expectations can have a substantial impact on academic achievement, with a meta-analysis by Hattie showing an average effect size of $d = 0.58$, indicating a significant correlation between teacher beliefs and student outcomes.\n\n3. **Long-Term Effects**: The impact of teacher expectations can persist over time. For instance, students labeled as "late bloomers" can experience significant gains in academic performance when teachers maintain positive expectations for them, even if those expectations were initially unfounded. This highlights the importance of teacher perceptions in shaping long-term educational trajectories.\n\n4. **Gender Stereotypes**: Teacher expectations can also be influenced by gender stereotypes, which may lead to biased assessments of students' abilities. Studies have shown that teachers may have different expectations for boys and girls, affecting their academic performance, particularly in subjects like STEM. This bias can create a self-fulfilling prophecy where students internalize these expectations, potentially limiting their achievements and aspirations (Tiedemann, 2000).\n\n### Peer Pressure\n\n1. **Social Dynamics**: Peer pressure plays a critical role in shaping students' academic behaviors and attitudes. Adolescents are particularly sensitive to their peers' opinions, which can influence their motivation to succeed academically. Positive peer influences can encourage academic engagement, while negative peer pressure can lead to disengagement and lower academic performance.\n\n2. **Cultural and Socialization Factors**: The internalization of cultural stereotypes and societal norms can be reinforced by peer interactions. For example, if a peer group devalues academic achievement or promotes stereotypes about gender roles, this can adversely affect an individual's motivation and self-esteem, leading to poorer academic outcomes.\n\n3. **Resistance to Disconnection**: Adolescent girls, in particular, may experience a relational crisis where they feel pressured to conform to peer expectations at the expense of their academic goals. This can lead to a loss of voice and agency, impacting their self-esteem and psychological well-being. The resistance to disconnection from peers can create a conflict between maintaining social relationships and pursuing academic success.\n\n### Conclusion\n\nIn summary, both teacher expectations and peer pressure significantly impact academic achievement. High teacher expectations can foster a supportive learning environment that enhances student motivation and self-esteem, while negative peer influences can undermine academic performance. Understanding these dynamics is crucial for educators and policymakers aiming to create equitable and supportive educational environments that promote positive outcomes for all students, particularly those facing relational crises.
+subject: Psychology
+file_name: how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement.md
+url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+score: -1.0
+---
+
+&nbsp;
