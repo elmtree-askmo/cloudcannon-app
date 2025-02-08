@@ -122,6 +122,12 @@ export default function renderComponent(key, index, block, posts, language, merg
         case "top-questions/subjects":
             targetComponent = (<TopQuestionsSubjectsList key={index} content={blogContent} block={block} posts={posts} language={language} />)
             break;
+        case "top-questions/header":
+            targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
+            break;
+        case "top-questions/list":
+            targetComponent = (<TopQuestionsList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
+            break;
         default:
             targetComponent = null;
             break;
