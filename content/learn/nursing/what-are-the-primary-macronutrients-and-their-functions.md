@@ -1,0 +1,26 @@
+---
+_schema: default
+id: 169718
+date: 2025-02-05
+title: What are the primary macronutrients and their functions?
+article_title: What are the primary macronutrients and their functions?
+date_format: MMM DD, YYYY
+post_on_text: Posted on
+seo:
+  title: QuickTakes | Nursing
+  page_description: >-
+    This content explores the primary macronutrients—carbohydrates, proteins, and fats—detailing their functions in the body, sources, and the importance of maintaining a balanced diet.
+  page_keywords: >-
+    macronutrients, carbohydrates, proteins, fats, energy source, tissue repair, enzyme functions, hormone regulation, dietary sources, balanced diet
+author: QuickTakes
+question: >-
+    What are the primary macronutrients and their functions?
+answer: >-
+    The primary macronutrients are carbohydrates, proteins, and fats, each serving distinct and essential functions in the body:\n\n1. **Carbohydrates**:\n   - **Function**: Carbohydrates are the body's primary energy source. They are broken down into glucose, which is used by cells for energy. Carbohydrates also play a role in the proper functioning of the brain and central nervous system.\n   - **Sources**: Common sources include grains (like rice, wheat, and oats), fruits, vegetables, and legumes.\n\n2. **Proteins**:\n   - **Function**: Proteins are crucial for building and repairing tissues, including muscles, skin, and organs. They also serve as enzymes that catalyze biochemical reactions, and some proteins function as hormones that regulate various bodily functions.\n   - **Sources**: Good sources of protein include meat, fish, eggs, dairy products, legumes, nuts, and seeds.\n\n3. **Fats**:\n   - **Function**: Fats provide a concentrated source of energy and are important for the absorption of fat-soluble vitamins (A, D, E, and K). They also play a critical role in hormone production and maintaining cell membrane integrity.\n   - **Sources**: Healthy fat sources include avocados, nuts, seeds, olive oil, and fatty fish, while saturated and trans fats should be limited.\n\nA balanced diet should include an appropriate ratio of these macronutrients to meet individual energy and health needs, ensuring optimal growth, metabolism, and overall bodily functions.
+subject: Nursing
+file_name: what-are-the-primary-macronutrients-and-their-functions.md
+url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+score: -1.0
+---
+
+&nbsp;

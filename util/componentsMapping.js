@@ -31,12 +31,12 @@ import EmpowerToSucceed from '../components/institutions/empowerToSucceed';
 import LicensingAndSubscriptions from '../components/institutions/licensingAndSubscriptions';
 import QuicktakesFeatures from '../components/institutions/quicktakesFeatures';
 import QuicktakesTestimonials from '../components/institutions/quicktakesTestimonials';
-import TopQuestionHeader from '../components/top-questions/header';
-import TopQuestionsList from '../components/top-questions/list';
+import TopQuestionHeader from '../components/learn/header';
+import TopQuestionsList from '../components/learn/list';
+import TopQuestionsSubjectsList from '@/components/learn/subjects';
 
-
-export default function renderComponent(key, index, block, posts, language, mergedPosts, utmParams){
-    let targetComponent ;
+export default function renderComponent(key, index, block, posts, language, mergedPosts, utmParams) {
+    let targetComponent;
     switch (key) {
         case "home/banner":
             targetComponent = (<Banner key={index} content={homeContent} block={block} language={language} utmParams={utmParams} />)
@@ -72,13 +72,13 @@ export default function renderComponent(key, index, block, posts, language, merg
             targetComponent = (<Partnerships key={index} content={aboutUsContent} block={block} language={language} />)
             break;
         case "education/introduction":
-            targetComponent = (<Introduction key={index} content={educationContent} block={block}  language={language} />)
+            targetComponent = (<Introduction key={index} content={educationContent} block={block} language={language} />)
             break;
         case "education/bookmentions":
-            targetComponent = (<BookMentions key={index} content={educationContent} block={block}  language={language} />)
+            targetComponent = (<BookMentions key={index} content={educationContent} block={block} language={language} />)
             break;
         case "education/media":
-            targetComponent = (<Media key={index} content={educationContent} block={block}  language={language} />)
+            targetComponent = (<Media key={index} content={educationContent} block={block} language={language} />)
             break;
         case "plans/intro":
             targetComponent = (<Intro key={index} content={pricingContent} block={block} language={language} />)
@@ -96,22 +96,31 @@ export default function renderComponent(key, index, block, posts, language, merg
             targetComponent = (<BlogList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
             break;
         case "institutions/institutionsBanner":
-            targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<InstitutionsBanner key={index} content={institutionsContent} block={block} language={language} />)
             break;
         case "institutions/briefing":
-            targetComponent = (<Briefing key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<Briefing key={index} content={institutionsContent} block={block} language={language} />)
             break;
         case "institutions/empowerToSucceed":
-            targetComponent = (<EmpowerToSucceed key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<EmpowerToSucceed key={index} content={institutionsContent} block={block} language={language} />)
             break;
         case "institutions/licensingAndSubscriptions":
-            targetComponent = (<LicensingAndSubscriptions key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<LicensingAndSubscriptions key={index} content={institutionsContent} block={block} language={language} />)
             break;
         case "institutions/quicktakesFeatures":
-            targetComponent = (<QuicktakesFeatures key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<QuicktakesFeatures key={index} content={institutionsContent} block={block} language={language} />)
             break;
         case "institutions/quicktakesTestimonials":
-            targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block}  language={language} />)
+            targetComponent = (<QuicktakesTestimonials key={index} content={institutionsContent} block={block} language={language} />)
+            break;
+        case "top-questions/header":
+            targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
+            break;
+        case "top-questions/list":
+            targetComponent = (<TopQuestionsList key={index} content={blogContent} block={block} posts={posts} language={language} mergedPosts={mergedPosts} />)
+            break;
+        case "top-questions/subjects":
+            targetComponent = (<TopQuestionsSubjectsList key={index} content={blogContent} block={block} posts={posts} language={language} />)
             break;
         case "top-questions/header":
             targetComponent = (<TopQuestionHeader key={index} content={blogContent} block={block} language={language} />)
