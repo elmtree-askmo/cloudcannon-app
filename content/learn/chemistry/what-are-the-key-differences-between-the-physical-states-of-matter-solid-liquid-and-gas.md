@@ -2,8 +2,8 @@
 _schema: default
 id: 162044
 date: 2025-01-24
-title: What are the key differences between the physical states of matter: solid, liquid, and gas?
-article_title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+title: "What are the key differences between the physical states of matter: solid, liquid, and gas"?
+article_title: "What are the key differences between the physical states of matter: solid, liquid, and gas"?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
