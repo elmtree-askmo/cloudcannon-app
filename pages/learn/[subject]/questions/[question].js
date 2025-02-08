@@ -74,13 +74,6 @@ export default function TopQuestion({ page, subject, subjectTitle, language = "e
               <div className={styles["anwser-shadow-title"]}>Create a free account or sign in to view full answer.</div>
               <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >View Answer</Link>
             </div>
-
-          {/* <div className={styles["anwser-shadow"]}>
-              <div className={styles["anwser-shadow-content"]}>
-                <div className={styles["anwser-shadow-title"]}>Create a free account or sign in to view full answer.</div>
-                <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >View Answer</Link>
-              </div>
-            </div> */}
         </div>
       </div>
     </>
@@ -117,13 +110,19 @@ export async function getStaticProps({ params }) {
 
   const currtentSubject = TOP_QUESTIONS_SUBJECTS.find(item => item.key === subject);
 
-  const filePath = `learn/${currtentSubject.key}/${question}.md`;
+  const filePath = `learn/${currtentSubject?.key}/${question}.md`;
   const pageData = await filer.getItem(filePath);
+
+  if (!pageData) {
+    return {
+      notFound: true,
+    };
+  }
 
   return {
     props: {
-      subject: currtentSubject.key,
-      subjectTitle: currtentSubject.title,
+      subject: currtentSubject?.key,
+      subjectTitle: currtentSubject?.title,
       page: {
         en: JSON.parse(JSON.stringify(pageData)),
       }

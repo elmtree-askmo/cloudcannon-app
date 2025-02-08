@@ -11,7 +11,7 @@ import styles from '../../../styles/learn.module.css';
 
 const filer = new Filer({ path: 'content' });
 
-export default function LearnSubjest({ subject, title, pages, language }) {
+export default function LearnSubjest({ subject, title, pages, language = "en" }) {
 
   return <>
     <Head>
@@ -59,7 +59,7 @@ export async function getStaticProps({ params }) {
 
   const currtentSubject = TOP_QUESTIONS_SUBJECTS.find(item => item.key === subject);
 
-  const folderPath = `learn/${currtentSubject.key}`;
+  const folderPath = `learn/${currtentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
   const filteredFiles = files.filter(file => !file.includes('.DS_Store'));
 
@@ -67,17 +67,24 @@ export async function getStaticProps({ params }) {
     filteredFiles.map(async (file) => {
       const filePath = `${folderPath}/${file}.md`;
       const pageData = await filer.getItem(filePath);
+
+      if (!pageData) {
+        return;
+      }
+
       return {
         en: JSON.parse(JSON.stringify(pageData)),
       };
     })
   );
 
+  const validPagesData = pagesData.filter(item => item !== undefined);
+
   return {
     props: {
-      subject: currtentSubject.key,
-      title: currtentSubject.title,
-      pages: pagesData,
+      subject: currtentSubject?.key,
+      title: currtentSubject?.title,
+      pages: validPagesData,
     }
   };
 }
