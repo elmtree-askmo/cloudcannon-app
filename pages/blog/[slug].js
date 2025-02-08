@@ -46,7 +46,6 @@ export default function Post({page, language}){
 
 export async function getStaticPaths() {
 	const slugs = (await filer.listItemSlugs('posts')).map((slug) => ({ params: { slug } }));
-    console.log('slugs',slugs)
 	const ignored = {
 	};
 	return {

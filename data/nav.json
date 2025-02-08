@@ -23,6 +23,10 @@
 				"link": "/blog"
 			},
 			{
+				"label": "Q & A",
+				"link": "/learn"
+			},
+			{
 				"label": "Plans",
 				"link": "/plans"
 			},
@@ -60,6 +64,11 @@
 			{
 				"link": "/blog",
 				"text": "Blog",
+				"type": "Link"
+			},
+			{
+				"link": "/learn",
+				"text": "Q & A",
 				"type": "Link"
 			},
 			{
