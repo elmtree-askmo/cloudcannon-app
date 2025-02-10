@@ -49,7 +49,7 @@ export default function TopQuestion({ page, subject, subjectTitle, language = "e
           <div className={styles["learn-question-info"]}>
             <Link href={`/learn/${subject}`} className={styles["back-btn"]} ><img src="/backIcon.svg" /></Link>
             <div>
-              <div className={styles["learn-question-tag"]}>question</div>
+              <div className={styles["learn-question-tag"]}>Question</div>
               <h2 className={styles["learn-question-title"]}>
                 {pageData.data.title}
               </h2>
