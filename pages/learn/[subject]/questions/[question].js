@@ -7,17 +7,17 @@ import { useEffect } from "react";
 
 // markdown
 import ReactMarkdown from 'react-markdown';
-// import remarkMath from 'remark-math';
-// import rehypeKatex from 'rehype-katex';
-// import remarkGfm from 'remark-gfm';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import remarkGfm from 'remark-gfm';
 
 import { TOP_QUESTIONS_SUBJECTS } from '../../../../constant/topQuestions.contant';
 import { APP_URL } from "../../../../constant/app.constant";
 import styles from '../../../../styles/learn.module.css';
-// import 'katex/dist/katex.min.css';
+import 'katex/dist/katex.min.css';
 
 const filer = new Filer({ path: 'content' });
-export default function TopQuestion({ page, subject, subjectTitle, language = "en" }) {
+export default function TopQuestion({ page, subject, subjectTitle, question, language = "en" }) {
 
   useEffect(() => {
     mixpanel.track("MarketingPage_TopQuestions", { title: page.data.title });
@@ -38,11 +38,27 @@ export default function TopQuestion({ page, subject, subjectTitle, language = "e
     <>
       <Head>
         <title>{pageData.data.seo.title || pageData.data.title}</title>
-        <meta name="description" property="og:description" key="description" content={pageData.data.seo.page_description || pageData.data.description} />
-        {
-          pageData.data.seo.page_keywords &&
-          <meta name="keywords" property="og:keywords" key="keywords" content={pageData.data.seo.page_keywords} />
-        }
+        
+        {/* 基础 Meta 标签 */}
+        <meta name="description" content={pageData.data.seo.page_description || pageData.data.description} />
+        <meta name="keywords" content={pageData.data.seo.page_keywords} />
+        
+        {/* Open Graph 标签 */}
+        <meta property="og:title" content={pageData.data.seo.title || pageData.data.title} />
+        <meta property="og:description" content={pageData.data.seo.page_description || pageData.data.description} />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={`https://${APP_URL}/learn/${subject}/questions/${question}`} />
+        <meta property="og:image" content={pageData.data.seo.image || "/default-og-image.jpg"} />
+        
+        {/* Twitter 卡片标签 */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={pageData.data.seo.title || pageData.data.title} />
+        <meta name="twitter:description" content={pageData.data.seo.page_description || pageData.data.description} />
+        <meta name="twitter:image" content={pageData.data.seo.image || "/default-og-image.jpg"} />
+        
+        {/* 其他重要 Meta 标签 */}
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href={`${process.env.NEXT_PUBLIC_SITE_URL}/learn/${subject}/questions/${question}`} />
       </Head>
       <header className={styles['learn-subjects-header-container']}>
         <div className={styles['learn-subjects-center-container']}>
@@ -65,15 +81,18 @@ export default function TopQuestion({ page, subject, subjectTitle, language = "e
           <div className={styles["learn-answer-editor-container"]}>
             <ReactMarkdown
               children={formattedAnswer}
-              // remarkPlugins={[remarkMath, remarkGfm]}
-              // rehypePlugins={[rehypeKatex]}
+              remarkPlugins={[remarkMath, remarkGfm]}
+              rehypePlugins={[rehypeKatex]}
             />
-            <div className={styles["learn-answer-blur"]}></div>
+            {/* <div className={styles["learn-answer-blur"]}></div> */}
           </div>
           <div className={styles["anwser-shadow-content"]}>
-              <div className={styles["anwser-shadow-title"]}>Create a free account or sign in to view full answer.</div>
-              <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >View Answer</Link>
-            </div>
+            <div className={styles["anwser-shadow-title"]}>Create a free account to access personalized Q&A!</div>
+            <Link className={styles['sign-up-today']} href="#" onClick={handleSignUp} >Sign up</Link>
+            <Link href={`/learn/${subject}`} className={styles['back-to-subjects']}>
+              Explore more {subjectTitle} questions →
+            </Link>
+          </div>
         </div>
       </div>
     </>
@@ -122,6 +141,7 @@ export async function getStaticProps({ params }) {
   return {
     props: {
       subject: currtentSubject?.key,
+      question,
       subjectTitle: currtentSubject?.title,
       page: {
         en: JSON.parse(JSON.stringify(pageData)),
