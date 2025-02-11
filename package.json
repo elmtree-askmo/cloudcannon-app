@@ -25,6 +25,7 @@
     "rehype-katex": "^7.0.1",
     "remark-gfm": "^4.0.0",
     "remark-math": "^6.0.0",
+    "sitemap": "^8.0.0",
     "smartbanner.js": "^1.21.0",
     "swiper": "^11.1.4"
   }

@@ -33,7 +33,7 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
           {
             pages.map((item, index) => (
               <Link className={styles["question-item"]} href={`/learn/${subject}/questions/${item.en.data.file_name.replace('.md', '')}`} key={index}>
-                <div className={styles["question-item-tag"]}>question</div>
+                <div className={styles["question-item-tag"]}>Question</div>
                 <h3 className={styles["question-item-name"]}>{item.en.data.question}</h3>
                 <div className={styles["question-item-btn"]}>View Answer</div>
               </Link>
