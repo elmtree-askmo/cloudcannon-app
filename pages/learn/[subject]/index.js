@@ -61,6 +61,12 @@ export async function getStaticProps({ params }) {
 
   const folderPath = `learn/${currtentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
+  console.log('files', files);
+  if (!files) {
+    return {
+      notFound: true,
+    };
+  }
   const filteredFiles = files.filter(file => !file.includes('.DS_Store'));
 
   const pagesData = await Promise.all(
