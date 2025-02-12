@@ -29,7 +29,7 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 
   const handleSignUp = (e) => {
     e.preventDefault();
-    mixpanel.track("MarketingPage_SignUp", { placement: 'Q & A' }, { send_immediately: true }, () => {
+    mixpanel.track("MarketingPage_SignUp", { placement: 'Q&A' }, { send_immediately: true }, () => {
       window.location.href = `https://${APP_URL}/signup`;
     })
   }
