@@ -95,11 +95,11 @@
       "button_label": "Sign Up Today",
       "downloadQuicktake": "Download QuickTakes!",
       "quicktakesNav": {
-        "label": "QuickTakes",
+        "label": "Features",
         "map": [
           {
-            "label": "About Us",
-            "link": "/quicktakes-about-us"
+            "label": "Learners",
+            "link": "/"
           },
           {
             "label": "Institutions",
@@ -115,25 +115,25 @@
         "label": "Resources",
         "map": [
           {
-            "label": "FAQ",
-            "link": "/faq"
-          },
-          {
-            "label": "AI in Education",
-            "link": "/education"
+            "label": "Q&A Library",
+            "link": "/learn"
           },
           {
             "label": "Blog",
             "link": "/blog"
+          },
+          {
+            "label": "Help",
+            "link": "/faq"
           }
         ]
       },
       "supportNav": {
-        "label": "Support",
+        "label": "About",
         "map": [
           {
-            "label": "Contact",
-            "link": "mailto:info@edkey.com"
+            "label": "Company",
+            "link": "/quicktakes-about-us"
           },
           {
             "label": "Terms of Service",
