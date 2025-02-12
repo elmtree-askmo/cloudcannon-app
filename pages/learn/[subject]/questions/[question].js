@@ -34,8 +34,8 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
     })
   }
 
-  const title = pageData.data.title;
-  const seoTitle = `${title}`;
+  // const title = pageData.data.seo.title || pageData.data.title;
+  const seoTitle = `${pageData.data.seo.title} | ${pageData.data.title}`;
   const seoDescriptio = pageData.data.seo.page_description || pageData.data.description;
 
   return (
