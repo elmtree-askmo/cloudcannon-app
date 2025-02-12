@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    An overview of essential technical skills and tools for medical professions, along with diverse career opportunities available in the healthcare field.
+    Explore the essential technical skills and tools in medical professions, along with diverse career opportunities available in the healthcare field.
   page_keywords: >-
-    medical professions, technical skills, healthcare, clinical skills, diagnostic skills, surgical skills, medical tools, career opportunities, physicians, nurses, medical technologists, pharmacists, physical therapists, mental health professionals, medical researchers, healthcare technology
+    medical professions, technical skills, medical tools, clinical skills, diagnostic skills, surgical skills, healthcare career opportunities, physicians, nurses, medical technologists, pharmacists, physical therapists, medical researchers, mental health professionals
 author: QuickTakes
 question: >-
     What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
@@ -24,11 +24,11 @@ file_name: what-technical-skills-and-tools-are-essential-for-medical-professions
 url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 score: -1.0
 related_article1:
-    id: 168501
+    id: 168512
     title: >-
-        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+        What are the characteristics of systematic work preferences, and what career options are available for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-available-for-individuals-with-these-preferences
 related_article2:
     id: 168501
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
 related_article3:
-    id: 168508
+    id: 168499
     title: >-
-        What are the key responsibilities and skills required for success in food service careers?
+        What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
 related_article4:
-    id: 168506
+    id: 168504
     title: >-
-        What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-financial-planning-and-analysis-and-how-do-they-relate-to-job-titles-in-the-financial-sector
-related_article5:
-    id: 168508
-    title: >-
-        What are the key responsibilities and skills required for success in food service careers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
+        What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
 ---
 
 &nbsp;

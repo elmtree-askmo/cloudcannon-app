@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the relationship between overlapping neural circuits for empathy and aggression and how the endocrine system influences emotional regulation, highlighting the roles of hormones like testosterone, cortisol, and serotonin.
+    Exploration of how overlapping neural circuits for empathy and aggression, alongside endocrine system influences, impact emotional regulation and moral decision-making.
   page_keywords: >-
-    neural circuits, empathy, aggression, emotional regulation, endocrine system, testosterone, cortisol, serotonin, moral reasoning, amygdala, orbitofrontal cortex, psychopathy, hormonal influence
+    empathy, aggression, emotional regulation, neural circuits, endocrine system, testosterone, cortisol, serotonin, moral reasoning, amygdala, orbitofrontal cortex, hormonal influence, psychopathy, moral behavior
 author: QuickTakes
 question: >-
     How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
@@ -24,35 +24,35 @@ file_name: how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-w
 url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 score: -1.0
 related_article1:
-    id: 164015
+    id: 164017
     title: >-
-        How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
 related_article2:
+    id: 164017
+    title: >-
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
+related_article3:
     id: 164014
     title: >-
         What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
-related_article3:
-    id: 164012
-    title: >-
-        What are the characteristics of empathy that make it myopic, selective, and fleeting?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
 related_article4:
-    id: 164013
+    id: 164017
     title: >-
-        How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+        How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
 related_article5:
-    id: 164023
+    id: 164014
     title: >-
-        What is the role of testosterone in emotion regulation, and how does it interact with cortisol and serotonin?
+        What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-testosterone-in-emotion-regulation-and-how-does-it-interact-with-cortisol-and-serotonin
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
 ---
 
 &nbsp;

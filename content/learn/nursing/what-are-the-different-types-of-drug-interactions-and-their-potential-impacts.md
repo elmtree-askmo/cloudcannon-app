@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses different types of drug interactions including pharmacokinetic and pharmacodynamic interactions, their potential impacts, and the implications for patient safety and therapeutic outcomes.
+    An overview of the different types of drug interactions, including pharmacokinetic, pharmacodynamic, drug-food, and drug-disease interactions, and their potential impacts on therapeutic outcomes and patient safety.
   page_keywords: >-
-    drug interactions, pharmacokinetic interactions, absorption interactions, distribution interactions, metabolism interactions, excretion interactions, pharmacodynamic interactions, additive effects, synergistic effects, antagonistic effects, drug-food interactions, drug-disease interactions, therapeutic outcomes, patient safety, polypharmacy, healthcare providers, medication management
+    drug interactions, pharmacokinetic interactions, absorption interactions, metabolism interactions, pharmacodynamic interactions, drug-food interactions, drug-disease interactions, therapeutic outcomes, patient safety, adverse effects, polypharmacy
 author: QuickTakes
 question: >-
     What are the different types of drug interactions and their potential impacts?
@@ -24,35 +24,23 @@ file_name: what-are-the-different-types-of-drug-interactions-and-their-potential
 url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 score: -1.0
 related_article1:
-    id: 166472
+    id: 166460
     title: >-
-        What is the focus of palliative care in pharmacotherapeutics?
+        What are the phases of drug metabolism and their significance?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
 related_article2:
-    id: 166457
+    id: 166460
     title: >-
-        What is the first-pass effect and how does it impact drug bioavailability?
+        What are the phases of drug metabolism and their significance?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
 related_article3:
-    id: 166454
-    title: >-
-        How do storage conditions affect the stability of pharmaceutical formulations?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
-related_article4:
-    id: 166459
-    title: >-
-        How does protein binding affect drug distribution and efficacy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
-related_article5:
     id: 166471
     title: >-
         How does empiric treatment differ from definitive treatment in infection management?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 ---
 
 &nbsp;

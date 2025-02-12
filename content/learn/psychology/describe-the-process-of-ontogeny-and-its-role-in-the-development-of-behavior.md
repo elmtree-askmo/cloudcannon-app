@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the process of ontogeny and its significant role in shaping behavior through maturation, learning, social interactions, and environmental influences in animals.
+    Ontogeny is the process of individual development from conception to maturity, playing a key role in shaping an animal's behavior through maturation, learning, social interactions, and environmental influences, which ultimately enhance fitness and survival.
   page_keywords: >-
-    ontogeny, development, behavior, maturation, learning, social interactions, environmental influences, animal behavior, behavioral ecology, conservation biology
+    ontogeny, development, behavior, maturation, learning, social interactions, environmental influences, animal behavior, behavioral adaptations, fitness, survival, biological maturation, social structures, behavioral ecology, conservation biology
 author: QuickTakes
 question: >-
     Describe the process of ontogeny and its role in the development of behavior.
@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 related_article2:
-    id: 165313
+    id: 165303
     title: >-
-        How do early experiences influence the development of behavior in animals?
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 related_article3:
-    id: 165305
+    id: 165294
     title: >-
-        What is stabilizing selection and how does it affect a population?
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 related_article4:
-    id: 165290
+    id: 165303
     title: >-
-        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 related_article5:
-    id: 165299
+    id: 165303
     title: >-
-        Identify and describe the sources of genetic variation.
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 ---
 
 &nbsp;

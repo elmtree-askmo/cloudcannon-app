@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the key differences between participant observation and interviews in qualitative research, focusing on data collection methods, the nature of data, researcher involvement, flexibility, and data analysis techniques.
+    This content outlines the key differences between participant observation and interviews as qualitative research methods, highlighting their approaches, data types, researcher roles, flexibility, and analysis techniques.
   page_keywords: >-
-    participant observation, interviews, qualitative research, data collection, nature of data, researcher involvement, flexibility, data analysis, thematic analysis, qualitative methods
+    participant observation, interviews, qualitative research methods, data collection, nature of data, researcher involvement, flexibility, structure, data analysis, social interactions, qualitative analysis techniques
 author: QuickTakes
 question: >-
     What are the key differences between participant observation and interviews in qualitative research?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-differences-between-participant-observation-and-inte
 url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
 score: -1.0
 related_article1:
+    id: 163664
+    title: >-
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
+related_article2:
     id: 163672
     title: >-
         How does primary data collection differ from secondary data analysis in research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
-related_article2:
-    id: 163670
-    title: >-
-        What is the historical context of settler colonialism and its impact on Indigenous communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 related_article3:
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article4:
     id: 163669
     title: >-
         How do race, class, and gender influence social relations and outcomes of social processes?
     subject: Sociology
     url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
-related_article4:
-    id: 163661
-    title: >-
-        How do social inequalities manifest within social hierarchies?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 related_article5:
-    id: 163666
+    id: 163663
     title: >-
-        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
     subject: Sociology
-    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 ---
 
 &nbsp;

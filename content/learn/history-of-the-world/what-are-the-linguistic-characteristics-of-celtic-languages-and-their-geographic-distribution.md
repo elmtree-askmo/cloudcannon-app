@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160376
-date: 2025-01-24
+id: 159871
+date: 2025-01-23
 title: >-
     What are the linguistic characteristics of Celtic languages and their geographic distribution?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the linguistic characteristics of Celtic languages and their geographic distribution, highlighting their unique phonetic features, grammatical structures, and the regions where they are spoken.
+    This content discusses the linguistic characteristics and geographic distribution of Celtic languages, focusing on their phonetics, grammar, and the regions where they are spoken.
   page_keywords: >-
-    Celtic languages, Goidelic, Brythonic, linguistic characteristics, phonetic features, grammatical structure, VSO word order, initial consonant mutations, morphology, substratum influence, geographic distribution, Irish, Scottish Gaelic, Manx, Welsh, Cornish, Breton, Insular Celtic, Continental Celtic, language revival, cultural identity
+    Celtic languages, linguistic characteristics, geographic distribution, Goidelic, Brythonic, phonetic features, initial consonant mutations, grammatical structure, verb-subject-object, morphology, inflectional systems, Insular Celtic, Continental Celtic, Irish, Scottish Gaelic, Manx, Welsh, Cornish, Breton, cultural identity, Indo-European language family
 author: QuickTakes
 question: >-
     What are the linguistic characteristics of Celtic languages and their geographic distribution?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution.md
 url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
-score: 9.0
+score: -1.0
 related_article1:
+    id: 159870
+    title: >-
+        How did the La Tène Culture expand and settle in new regions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+related_article2:
+    id: 159876
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+related_article3:
+    id: 159892
+    title: >-
+        How did the Celts interact with Romans in notable conflicts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+related_article4:
+    id: 159892
+    title: >-
+        How did the Celts interact with Romans in notable conflicts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+related_article5:
     id: 159868
     title: >-
         What are the defining decorative styles of La Tène Culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
-related_article2:
-    id: 159862
-    title: >-
-        What are the main characteristics of Halstatt Culture's art and material goods?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
-related_article3:
-    id: 160183
-    title: >-
-        How have the Celts contributed to European heritage and modern perceptions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article4:
-    id: 160380
-    title: >-
-        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
-related_article5:
-    id: 159901
-    title: >-
-        What were the distinctive physical and behavioral traits of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Exploring the significant health implications associated with being classified as overweight or obese, including risks of chronic diseases, mental health impacts, and other related health issues.
+    This content discusses the various health implications of being classified as overweight or obese, including chronic diseases, mental health effects, and other associated health risks.
   page_keywords: >-
-    overweight, obesity, health risks, chronic diseases, type 2 diabetes, cardiovascular diseases, cancer risk, metabolic syndrome, mental health, sleep apnea, joint problems, hormonal imbalances, health implications
+    overweight, obese, health implications, chronic diseases, type 2 diabetes, cardiovascular disease, cancer risk, metabolic syndrome, mental health, sleep apnea, joint problems, hormonal imbalances, health risks, weight management, quality of life
 author: QuickTakes
 question: >-
     What are the health implications of being classified as overweight or obese?
@@ -24,35 +24,35 @@ file_name: what-are-the-health-implications-of-being-classified-as-overweight-or
 url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 score: -1.0
 related_article1:
-    id: 169711
+    id: 169704
     title: >-
-        What is the difference between the sympathetic and parasympathetic nervous systems?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+        What is the structure of a multiple choice question in an exam format?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article2:
-    id: 169713
+    id: 169718
     title: >-
-        What is the composition of urine in terms of nitrogenous waste?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+        What are the primary macronutrients and their functions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-macronutrients-and-their-functions
 related_article3:
-    id: 169725
+    id: 169704
     title: >-
-        What is the normal BMI range for adults?
+        What is the structure of a multiple choice question in an exam format?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article4:
-    id: 169728
+    id: 169704
     title: >-
-        How does osteoporosis affect bone density and fracture risk?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
+        What is the structure of a multiple choice question in an exam format?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article5:
-    id: 169724
+    id: 169704
     title: >-
-        What is referred pain and what are some common examples?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+        What is the structure of a multiple choice question in an exam format?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 ---
 
 &nbsp;

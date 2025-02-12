@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The influence of positivism on quantitative research, emphasizing objectivity, empirical evidence, statistical analysis, hypothesis testing, and generalizability in research methodologies.
+    Explores the influence of positivism on quantitative research, emphasizing objectivity, empirical observation, hypothesis testing, and statistical analysis in seeking universal truths.
   page_keywords: >-
-    positivism, quantitative research, objective reality, empirical evidence, statistical analysis, hypothesis testing, generalizability, reductionism, research methodologies, scientific method
+    positivism, quantitative research, objective reality, empirical evidence, statistical analysis, hypothesis testing, generalizability, reductionism, scientific method, research methodologies
 author: QuickTakes
 question: >-
     How does positivism influence quantitative research?
@@ -24,35 +24,35 @@ file_name: how-does-positivism-influence-quantitative-research.md
 url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 score: -1.0
 related_article1:
-    id: 163689
+    id: 163693
     title: >-
-        What is the process of inductive reasoning, and how is it applied in qualitative research?
+        What is holism, and why is it important in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
 related_article2:
-    id: 163685
+    id: 163686
     title: >-
-        What is the process of coding and thematic analysis in qualitative data analysis?
+        How is statistical analysis used in quantitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 related_article3:
-    id: 163683
+    id: 163679
     title: >-
-        What are some common qualitative data collection methods?
+        What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 related_article4:
-    id: 163686
+    id: 163675
     title: >-
-        How is statistical analysis used in quantitative data analysis?
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article5:
-    id: 163686
+    id: 163687
     title: >-
-        How is statistical analysis used in quantitative data analysis?
+        What is the importance of formulating research questions from a research problem?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 ---
 
 &nbsp;

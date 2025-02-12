@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    An analysis of how tariffs have influenced Canada-US trade relations, detailing economic impacts such as increased consumer prices, employment effects, trade barriers, and the potential for political tensions and long-term changes in trade agreements.
+    This content discusses the significant impacts of tariffs on Canada-US trade relations, analyzing trade barriers, consumer prices, employment effects, economic interconnectedness, political dynamics, and long-term economic consequences.
   page_keywords: >-
-    tariffs, Canada-US trade relations, economic impact, trade barriers, consumer prices, employment, auto industry, economic interconnectedness, political tensions, trade agreements, NAFTA, USMCA, inflation, cross-border supply chains, protectionist policies
+    tariffs, Canada-US trade relations, economic consequences, trade barriers, consumer prices, employment impact, economic interconnectedness, political dynamics, long-term consequences, NAFTA, USMCA, protectionist policies
 author: QuickTakes
 question: >-
     How have tariffs affected Canada-US trade relations and what are the economic consequences?
@@ -24,35 +24,35 @@ file_name: how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-e
 url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 score: -1.0
 related_article1:
-    id: 168356
+    id: 168354
     title: >-
-        In what ways do tariffs influence the cost of goods and consumer prices?
+        What impact did NAFTA have on the car industry and job security in North America?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 related_article2:
-    id: 168352
+    id: 168368
     title: >-
-        What are some examples of forced social changes, and how do they impact daily life?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+        How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Economics
+    url: /learn/economics/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 related_article3:
-    id: 168360
+    id: 168361
     title: >-
-        How do technological advancements change communication and lead to technological dependency?
+        What are the ethical concerns associated with artificial intelligence and job displacement?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 related_article4:
-    id: 168364
+    id: 168365
     title: >-
-        How do historical religious and ethnic tensions impact community dynamics?
+        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
 related_article5:
-    id: 168373
+    id: 168354
     title: >-
-        How do global health concerns, such as pandemics, influence future preparedness strategies?
+        What impact did NAFTA have on the car industry and job security in North America?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 ---
 
 &nbsp;

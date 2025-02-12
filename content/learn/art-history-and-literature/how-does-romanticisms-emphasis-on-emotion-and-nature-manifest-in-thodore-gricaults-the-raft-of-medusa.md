@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The content explores how Romanticism's focus on emotion and nature is vividly expressed in Théodore Géricault's painting, The Raft of Medusa, highlighting emotional intensity, the power of nature, themes of heroism and individualism, dramatic composition, and social critique.
+    This content explores how Romanticism's emphasis on emotion and nature is demonstrated in Théodore Géricault's painting, The Raft of Medusa, highlighting themes of emotional intensity, nature's power, heroism, individualism, and social critique.
   page_keywords: >-
-    Romanticism, emotion, individualism, nature, Théodore Géricault, The Raft of Medusa, emotional intensity, dramatic composition, sublime, human struggle, heroism, social commentary, 19th century art
+    Romanticism, emotion, nature, Théodore Géricault, The Raft of Medusa, emotional intensity, heroic struggle, individualism, sublime, dramatic composition, social commentary
 author: QuickTakes
 question: >-
     How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa.md
 url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165966
+    id: 165979
     title: >-
-        How did the Pre-Raphaelite movement oppose the academic style of its time?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article2:
-    id: 165977
+    id: 165973
     title: >-
-        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 related_article3:
-    id: 165975
+    id: 165979
     title: >-
-        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article4:
-    id: 165969
+    id: 165979
     title: >-
-        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article5:
-    id: 165971
+    id: 165973
     title: >-
-        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 ---
 
 &nbsp;

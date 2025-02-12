@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains how concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane, critical for action potentials and neuronal signaling.
+    This content discusses the influence of concentration gradients and electrostatic pressure on ion movement across the neuronal membrane, highlighting their roles in establishing membrane potential and facilitating neuronal signaling.
   page_keywords: >-
-    ion movement, neuronal membrane, concentration gradients, electrostatic pressure, action potential, resting potential, sodium ions, potassium ions, diffusion, electrostatic force, voltage-gated channels, depolarization, repolarization, neuronal signaling, membrane potential
+    concentration gradient, electrostatic pressure, ion movement, neuronal membrane, membrane potential, sodium ions, potassium ions, diffusion, action potential, depolarization, resting potential, voltage-gated channels, repolarization, sodium-potassium pump
 author: QuickTakes
 question: >-
     How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane.md
 url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
 score: -1.0
-related_article1:
-    id: 164818
-    title: >-
-        How do ion concentration differences contribute to the resting potential of a neuron?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
-related_article2:
-    id: 164830
-    title: >-
-        How does synaptic transmission occur and what role do neurotransmitters play in this process?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
-related_article3:
-    id: 164825
-    title: >-
-        What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
-related_article4:
-    id: 164820
-    title: >-
-        What is the threshold for an action potential and what are the refractory periods?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
-related_article5:
-    id: 164829
-    title: >-
-        What types of ion channels are involved in action potentials and how do they regulate ion flow?
-    subject: Psychology
-    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
+
 ---
 
 &nbsp;

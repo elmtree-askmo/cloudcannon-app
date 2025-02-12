@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Medication reconciliation is vital during patient admission and discharge for ensuring accurate medication lists, preventing adverse drug interactions, maintaining continuity of care, enhancing patient safety, and providing patient education.
+    Medication reconciliation is vital during patient admission and discharge to ensure accurate medication lists, prevent adverse drug interactions, maintain continuity of care, enhance patient safety, and provide patient education.
   page_keywords: >-
-    medication reconciliation, patient admission, patient discharge, medication errors, adverse drug interactions, continuity of care, patient safety, patient education, healthcare quality
+    medication reconciliation, patient admission, discharge, accuracy of medication lists, prevention of adverse drug interactions, continuity of care, patient safety, patient education, medication errors, healthcare delivery
 author: QuickTakes
 question: >-
     Why is medication reconciliation important during patient admission and discharge?
@@ -24,35 +24,35 @@ file_name: why-is-medication-reconciliation-important-during-patient-admission-a
 url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 score: -1.0
 related_article1:
-    id: 166489
+    id: 166505
     title: >-
-        What is the primary purpose of trough level monitoring in antibiotics?
+        How do different drug formulations impact drug absorption and bioavailability?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 related_article2:
-    id: 166503
+    id: 166508
     title: >-
-        What is the importance of randomized controlled trials in clinical research?
+        What is a black box warning and what are its implications for prescribers?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 related_article3:
-    id: 166490
+    id: 166505
     title: >-
-        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+        How do different drug formulations impact drug absorption and bioavailability?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 related_article4:
-    id: 166494
+    id: 166508
     title: >-
-        Explain the concept of drug-receptor interactions in pharmacodynamics.
+        What is a black box warning and what are its implications for prescribers?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 related_article5:
-    id: 166490
+    id: 166508
     title: >-
-        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+        What is a black box warning and what are its implications for prescribers?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 ---
 
 &nbsp;

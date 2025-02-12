@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content outlines the primary responsibilities of student nurses in patient care, including accountability, supervision, basic patient care tasks, monitoring vital signs, patient assessment, medication administration, effective communication, adherence to professional standards, continuous learning, and collaboration within healthcare teams.
+    This content outlines the primary responsibilities of student nurses in patient care, emphasizing their roles in accountability, basic patient care, medication administration, communication, and professional development.
   page_keywords: >-
-    student nurses, patient care, responsibilities, accountability, delegation, supervision, basic patient care, vital signs monitoring, patient assessment, medication administration, communication, professional responsibility, continuous learning, teamwork
+    student nurses, patient care, responsibilities, accountability, delegation, basic patient care, vital signs, patient assessment, medication administration, communication, professional responsibility, continuous learning, healthcare team
 author: QuickTakes
 question: >-
     What are the primary responsibilities of student nurses in patient care?
@@ -24,35 +24,29 @@ file_name: what-are-the-primary-responsibilities-of-student-nurses-in-patient-ca
 url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
 score: -1.0
 related_article1:
-    id: 169553
+    id: 169582
     title: >-
-        What is the definition of delegation in healthcare, and why is it important?
+        How do patient care standards ensure patient safety and accountability?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 related_article2:
-    id: 169555
+    id: 169573
     title: >-
-        What are the key principles of accountability in healthcare practice?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article3:
-    id: 169578
+    id: 169559
     title: >-
-        How does communication impact delegation and accountability?
+        What is the NMC Code, and how does it apply to registered nurses?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 related_article4:
-    id: 169575
+    id: 169573
     title: >-
-        What are the different roles within a healthcare team, and how do they interact?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
-related_article5:
-    id: 169580
-    title: >-
-        How does supervision support student nurses in fulfilling their responsibilities?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 ---
 
 &nbsp;

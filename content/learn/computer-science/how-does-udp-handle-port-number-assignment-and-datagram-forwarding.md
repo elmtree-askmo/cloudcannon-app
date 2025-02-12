@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how the User Datagram Protocol (UDP) handles port number assignment and datagram forwarding, emphasizing its connectionless nature and efficiency in data transmission.
+    This content explains how the User Datagram Protocol (UDP) manages port number assignment and datagram forwarding, highlighting its connectionless nature and efficiency for certain applications.
   page_keywords: >-
-    UDP, User Datagram Protocol, port number assignment, datagram forwarding, source port selection, destination port, receiving datagrams, forwarding to applications, socket pairs, communication, data transmission, live video streaming, VoIP
+    UDP, port number assignment, datagram forwarding, connectionless protocol, source port, destination port, socket pairs, application communication, data transmission, VoIP, live video streaming
 author: QuickTakes
 question: >-
     How does UDP handle port number assignment and datagram forwarding?
@@ -24,29 +24,29 @@ file_name: how-does-udp-handle-port-number-assignment-and-datagram-forwarding.md
 url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 score: -1.0
 related_article1:
-    id: 165767
+    id: 165776
     title: >-
-        How does the transport layer handle segmenting and reassembling data?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article2:
-    id: 165765
+    id: 165779
     title: >-
-        How does the transport layer ensure logical communication between applications?
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article3:
-    id: 165780
+    id: 165766
     title: >-
-        What is the role of the length and checksum fields in the UDP header?
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article4:
-    id: 165770
+    id: 165776
     title: >-
-        What are the basic operations of the TCP protocol in managing data transmission?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article5:
     id: 165774
     title: >-

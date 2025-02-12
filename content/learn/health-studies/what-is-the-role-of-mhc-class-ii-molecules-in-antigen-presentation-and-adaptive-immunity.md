@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    MHC Class II molecules are crucial for antigen presentation and the activation of CD4+ helper T cells, playing a pivotal role in adaptive immunity and coordinating the immune response.
+    MHC Class II molecules play a critical role in antigen presentation and the activation of CD4+ T cells, facilitating a coordinated adaptive immune response and contributing to immunological memory.
   page_keywords: >-
-    MHC Class II, antigen presentation, CD4+ T cells, adaptive immunity, antigen-presenting cells, cytokines, immune response, immunological memory, T cell activation, humoral immunity, cellular immunity, tissue transplantation
+    MHC Class II, antigen presentation, adaptive immunity, CD4+ T cells, antigen-presenting cells, T cell activation, cytokines, immunological memory, immune response, tissue transplantation
 author: QuickTakes
 question: >-
     What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-an
 url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 score: -1.0
 related_article1:
-    id: 165881
+    id: 165878
     title: >-
-        What mechanisms are involved in the sustained immune response during secondary exposure?
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 related_article2:
-    id: 165876
-    title: >-
-        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
-related_article3:
-    id: 165873
-    title: >-
-        What is the process of memory cell formation in the humoral immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-response
-related_article4:
-    id: 165865
-    title: >-
-        What is the role of Toll-Like Receptors in the activation of innate immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
-related_article5:
     id: 165864
     title: >-
         How does the NF Kappa B pathway contribute to immune cell activation?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+related_article3:
+    id: 165863
+    title: >-
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
+related_article4:
+    id: 165863
+    title: >-
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
+related_article5:
+    id: 165868
+    title: >-
+        How do B cells and T cells differ in their roles within the immune system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
 ---
 
 &nbsp;

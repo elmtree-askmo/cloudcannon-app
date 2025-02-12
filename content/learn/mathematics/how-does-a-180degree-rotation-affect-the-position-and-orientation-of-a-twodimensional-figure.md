@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A detailed explanation of how a 180-degree rotation affects the position, orientation, and symmetry of a two-dimensional figure, including examples and mathematical transformation rules.
+    This content explains how a 180-degree rotation affects the position and orientation of a two-dimensional figure, covering transformation rules, effects on symmetry, and examples.
   page_keywords: >-
-    180-degree rotation, two-dimensional figure, position change, orientation change, symmetry, quadrant movement, transformation rule, geometry, coordinates
+    180-degree rotation, two-dimensional figure, position change, orientation change, rotational symmetry, transformation rule, geometry, computer graphics, quadrants, coordinates
 author: QuickTakes
 question: >-
     How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure.md
 url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
 score: -1.0
-related_article1:
-    id: 162100
-    title: >-
-        What remains unchanged in a geometric figure after a rotation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
-related_article2:
-    id: 162095
-    title: >-
-        How do coordinates change when a point is rotated 180 degrees around the origin?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-180-degrees-around-the-origin
-related_article3:
-    id: 162103
-    title: >-
-        What observable patterns occur in quadrant shifts during rotations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
-related_article4:
-    id: 162101
-    title: >-
-        How does the origin function as a central point in rotations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
-related_article5:
-    id: 162105
-    title: >-
-        How do the initial and final quadrant positions of a figure change after a rotation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+
 ---
 
 &nbsp;

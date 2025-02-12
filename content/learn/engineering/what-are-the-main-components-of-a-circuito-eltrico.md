@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content explains the main components of an electric circuit, including bipoles, voltage sources, branches, nodes, loops, meshes, and other electrical components, highlighting their roles and importance.
+    This content provides an overview of the main components of an electric circuit, including definitions and functions of various elements such as bipoles, nodes, branches, voltage sources, and more, essential for understanding and designing electrical circuits.
   page_keywords: >-
-    electric circuit, bipole, voltage source, electric current, conductors, electrical components, branch, node, loop, mesh, electric power, circuit analysis
+    electric circuit, bipole, voltage source, electric current, conductors, electrical components, mesh, node, loop, power, branch
 author: QuickTakes
 question: >-
     What are the main components of a circuito elétrico?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-components-of-a-circuito-eltrico.md
 url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 score: -1.0
 related_article1:
-    id: 169842
+    id: 169828
     title: >-
-        How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Physics
+    url: /learn/physics/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 related_article2:
-    id: 169837
+    id: 169838
     title: >-
-        State Kirchhoff's Current Law and provide an analogy to explain it.
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 related_article3:
-    id: 169839
+    id: 169836
     title: >-
-        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+        Describe the analogy between potência elétrica and an electric shower.
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 related_article4:
-    id: 169831
+    id: 169826
     title: >-
-        What is tensão elétrica and how is it measured?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Physics
+    url: /learn/physics/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 related_article5:
-    id: 169830
+    id: 169838
     title: >-
-        How does a malha differ from a laço in terms of internal paths?
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 ---
 
 &nbsp;

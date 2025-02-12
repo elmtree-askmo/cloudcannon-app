@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content explores how societal norms have historically influenced healthcare practices, leading to biases and disparities, and discusses their ongoing impact on access to care, patient experiences, and the importance of cultural competence in modern healthcare.
+    This content discusses how societal norms have historically influenced healthcare practices, affecting gender roles, aging perceptions, and stigma around sexuality, and examines their ongoing impact on healthcare access, quality, and inclusivity today.
   page_keywords: >-
-    societal norms, healthcare practices, gender roles, aging care, stigma, sexual orientation, access to care, microaggressions, inclusivity, cultural competence, ethical frameworks, disparities in healthcare, patient experiences
+    societal norms, healthcare practices, historical influence, gender roles, elderly care, stigma, access to care, microaggressions, inclusivity, cultural competence, ethical frameworks, health disparities, systemic biases
 author: QuickTakes
 question: >-
     How have societal norms historically influenced healthcare practices, and what is their impact today?
@@ -24,11 +24,11 @@ file_name: how-have-societal-norms-historically-influenced-healthcare-practices-
 url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 score: -1.0
 related_article1:
-    id: 169594
+    id: 169590
     title: >-
-        How do socio-economic factors influence access to healthcare services and health outcomes?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article2:
     id: 169590
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Nursing
     url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article3:
-    id: 169598
+    id: 169593
     title: >-
-        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+        What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 related_article4:
-    id: 169583
+    id: 169590
     title: >-
-        What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
-related_article5:
-    id: 169595
-    title: >-
-        Why is cultural competence important in nursing, and how can it be improved through training and education?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 ---
 
 &nbsp;

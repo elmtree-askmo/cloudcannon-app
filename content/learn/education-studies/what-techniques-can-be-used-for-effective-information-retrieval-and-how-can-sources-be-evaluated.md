@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 160479
+id: 160357
 date: 2025-01-24
 title: >-
     What techniques can be used for effective information retrieval, and how can sources be evaluated?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses techniques for effective information retrieval and methods for evaluating sources, essential for academic success and research integrity.
+    Learn techniques for effective information retrieval and methods for evaluating sources to enhance research quality.
   page_keywords: >-
-    information retrieval, source evaluation, academic databases, search strategies, keywords, Boolean operators, advanced search techniques, credible sources, relevance, accuracy, authority, purpose, timeliness, SIFT method, SCAAN test, evaluating sources
+    information retrieval, source evaluation, academic databases, search strategies, keywords, Boolean operators, advanced search techniques, types of sources, evaluating sources, relevance, accuracy, authority, purpose, timeliness, SIFT method, SCAAN test
 author: QuickTakes
 question: >-
     What techniques can be used for effective information retrieval, and how can sources be evaluated?
@@ -24,35 +24,35 @@ file_name: what-techniques-can-be-used-for-effective-information-retrieval-and-h
 url: /learn/education-studies/questions/what-techniques-can-be-used-for-effective-information-retrieval-and-how-can-sources-be-evaluated
 score: -1.0
 related_article1:
-    id: 159984
+    id: 159980
     title: >-
-        What principles should be considered in curriculum design to align with learning outcomes and incorporate diverse perspectives?
+        What are the main learning theories, and how can they be applied to enhance the educational experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-align-with-learning-outcomes-and-incorporate-diverse-perspectives
+    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-enhance-the-educational-experience
 related_article2:
-    id: 160283
+    id: 160308
     title: >-
-        Why are elective modules important, and how can they contribute to a student's education?
+        What are some techniques for developing critical thinking skills, and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-contribute-to-a-students-education
+    url: /learn/education-studies/questions/what-are-some-techniques-for-developing-critical-thinking-skills-and-why-are-they-important
 related_article3:
-    id: 160364
+    id: 160323
     title: >-
-        What role does educational psychology play in understanding student behavior and enhancing learning environments?
+        What are the key elements of preparing for a presentation, and how can they improve delivery?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-they-improve-delivery
 related_article4:
-    id: 160004
+    id: 160135
     title: >-
-        What are some effective note-making techniques, and how do they help in organizing information?
+        How do digital and traditional note-making methods compare, and what are the advantages of each?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-notemaking-techniques-and-how-do-they-help-in-organizing-information
+    url: /learn/education-studies/questions/how-do-digital-and-traditional-notemaking-methods-compare-and-what-are-the-advantages-of-each
 related_article5:
-    id: 160068
+    id: 159958
     title: >-
-        How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
+        How can students apply metacognition to evaluate and adjust their learning strategies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-knowledge-be-applied-in-realworld-contexts-and-what-role-do-problemsolving-skills-play
+    url: /learn/education-studies/questions/how-can-students-apply-metacognition-to-evaluate-and-adjust-their-learning-strategies
 ---
 
 &nbsp;

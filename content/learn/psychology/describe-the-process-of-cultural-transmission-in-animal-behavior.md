@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Cultural transmission in animal behavior is the process by which animals acquire behaviors and information through social learning and teaching, enhancing survival and contributing to behavioral diversity.
+    Cultural transmission in animal behavior involves the passing of information and skills through social learning and teaching, significantly influencing behavioral evolution and diversity.
   page_keywords: >-
-    cultural transmission, animal behavior, social learning, teaching, Great Tit, behavior spread, behavioral diversity, observational studies, evolutionary biology, knowledge sharing
+    cultural transmission, animal behavior, social learning, teaching, Great Tit, behavior evolution, observational studies, behavioral diversity, mechanisms of transmission, skills sharing
 author: QuickTakes
 question: >-
     Describe the process of cultural transmission in animal behavior.
@@ -24,35 +24,35 @@ file_name: describe-the-process-of-cultural-transmission-in-animal-behavior.md
 url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 score: -1.0
 related_article1:
-    id: 165300
+    id: 165312
     title: >-
-        Why is genetic variation important for evolution?
+        Describe the process of ontogeny and its role in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 related_article2:
-    id: 165298
+    id: 165304
     title: >-
-        What is the difference between phenotype and genotype, and how do they relate to natural selection?
+        Describe the process of directional selection and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 related_article3:
-    id: 165315
+    id: 165299
     title: >-
-        How does individual variation in hunting strategies affect fitness and survival?
+        Identify and describe the sources of genetic variation.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 related_article4:
-    id: 165300
+    id: 165293
     title: >-
-        Why is genetic variation important for evolution?
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article5:
-    id: 165296
+    id: 165304
     title: >-
-        How do variation and heritability contribute to differential survival in natural selection?
+        Describe the process of directional selection and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 ---
 
 &nbsp;

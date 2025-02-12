@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Qualitative research paradigms focus on understanding subjective experiences, using textual data, and exploring complex social phenomena through inductive reasoning and contextual analysis.
+    An overview of key characteristics of qualitative research paradigms, highlighting its focus on subjective experiences, types of data, and the ethical considerations involved in the research process.
   page_keywords: >-
-    qualitative research, research paradigms, subjective experiences, data type, contextual understanding, inductive reasoning, exploratory nature, depth of understanding, social constructivism, ethical considerations
+    qualitative research, characteristics, subjective experiences, data type, contextual understanding, inductive reasoning, exploratory nature, depth over breadth, social constructivism, ethical considerations
 author: QuickTakes
 question: >-
     What are the key characteristics of qualitative research paradigms?
@@ -24,35 +24,35 @@ file_name: what-are-the-key-characteristics-of-qualitative-research-paradigms.md
 url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 score: -1.0
 related_article1:
-    id: 163692
+    id: 163678
     title: >-
-        How does objective knowledge contribute to quantitative research?
+        How does inductive reasoning play a role in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 related_article2:
-    id: 163675
+    id: 163688
     title: >-
-        What is the difference between objective and subjective knowledge in epistemology?
+        What ethical considerations must be taken into account in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 related_article3:
-    id: 163691
+    id: 163694
     title: >-
-        How does subjective knowledge contribute to qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
+        What is naturalism, and why is it important in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
 related_article4:
-    id: 163690
+    id: 163679
     title: >-
-        What is the process of deductive reasoning, and how is it applied in quantitative research?
+        What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 related_article5:
-    id: 163674
+    id: 163678
     title: >-
-        How does positivism differ from social constructivism in terms of ontology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
+        How does inductive reasoning play a role in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    Homogeneous mixtures are characterized by uniform composition, indistinguishable components, and inability to be physically separated, making them distinct from heterogeneous mixtures.
+    Homogeneous mixtures are characterized by uniform composition, indistinguishable components, and inability to be separated by physical methods, making them distinct from heterogeneous mixtures.
   page_keywords: >-
-    homogeneous mixtures, characteristics, uniform composition, indistinguishable components, physical separation, solutions, examples, consistent appearance
+    homogeneous mixtures, uniform composition, indistinguishable components, physical separation, solutions, examples of homogeneous mixtures, consistent appearance, molecular level mixture
 author: QuickTakes
 question: >-
     What are the characteristics of homogeneous mixtures?
@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 score: -1.0
 related_article1:
-    id: 161819
+    id: 161884
     title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+        Provide examples of compounds and their chemical formulas.
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 related_article2:
-    id: 161717
+    id: 161712
     title: >-
-        What is the definition of matter in terms of mass and volume?
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 related_article3:
+    id: 161715
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article4:
     id: 161882
     title: >-
         How are chemical formulas used to represent compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
-related_article4:
-    id: 161877
-    title: >-
-        How are pure substances classified in the context of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 related_article5:
-    id: 161714
+    id: 161884
     title: >-
-        Provide an example of a heterogeneous mixture and explain its characteristics.
+        Provide examples of compounds and their chemical formulas.
     subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 ---
 
 &nbsp;

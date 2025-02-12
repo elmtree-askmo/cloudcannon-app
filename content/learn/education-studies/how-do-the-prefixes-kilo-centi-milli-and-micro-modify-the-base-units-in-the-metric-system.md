@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content explains how prefixes in the metric system modify base units, detailing kilo, centi, milli, and micro, along with their specific factors and examples.
+    This content explains how the prefixes kilo, centi, milli, and micro modify base units in the metric system, detailing the powers of ten each prefix represents and providing examples for clarity.
   page_keywords: >-
-    metric system,prefixes,kilo,centi,milli,micro,base units,measurement,conversion,powers of ten
+    metric system,kilo,centi,milli,micro,base units,powers of ten,measurement,conversion,scientific context,unit scaling
 author: QuickTakes
 question: >-
     How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
@@ -24,35 +24,23 @@ file_name: how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-
 url: /learn/education-studies/questions/how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-in-the-metric-system
 score: -1.0
 related_article1:
-    id: 165416
+    id: 165432
     title: >-
-        What are the base units of mass, length, and volume in the metric system?
+        How are negative exponents used in expressing small numbers in scientific notation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-base-units-of-mass-length-and-volume-in-the-metric-system
+    url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article2:
-    id: 165426
+    id: 165432
     title: >-
-        What are the volume ranges for P20, P200, and P1000 mechanical pipettes?
+        How are negative exponents used in expressing small numbers in scientific notation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-volume-ranges-for-p20-p200-and-p1000-mechanical-pipettes
+    url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 related_article3:
-    id: 165418
+    id: 165432
     title: >-
-        What is the basic formula for converting units, and how is the conversion factor used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-basic-formula-for-converting-units-and-how-is-the-conversion-factor-used
-related_article4:
-    id: 165423
-    title: >-
-        Why is it important to zero a scale before weighing, and how does it affect accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
-related_article5:
-    id: 165419
-    title: >-
-        Describe the train track method for unit conversion and how it compares to the basic conversion method.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-train-track-method-for-unit-conversion-and-how-it-compares-to-the-basic-conversion-method
+        How are negative exponents used in expressing small numbers in scientific notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 ---
 
 &nbsp;

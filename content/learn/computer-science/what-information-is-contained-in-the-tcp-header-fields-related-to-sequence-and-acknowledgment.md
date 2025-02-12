@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content discusses the key fields in the TCP header related to sequence and acknowledgment, which are vital for ensuring reliable data transmission and maintaining the integrity and order of data.
+    This content explains the critical fields in the TCP header related to sequence and acknowledgment, highlighting their roles in ensuring reliable and ordered data transmission.
   page_keywords: >-
-    TCP header, sequence number, acknowledgment number, reliable transmission, data integrity, ordered delivery, data reassembly, transmission control protocol, retransmission, connection-oriented protocol
+    TCP, sequence number, acknowledgment number, TCP header, data transmission, reliable communication, ordered delivery, data integrity, connection-oriented protocol, retransmission
 author: QuickTakes
 question: >-
     What information is contained in the TCP header fields related to sequence and acknowledgment?
@@ -24,35 +24,35 @@ file_name: what-information-is-contained-in-the-tcp-header-fields-related-to-seq
 url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 score: -1.0
 related_article1:
-    id: 165777
+    id: 165774
     title: >-
-        How do socket pairs facilitate communication between devices?
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 related_article2:
-    id: 165769
+    id: 165776
     title: >-
-        How does data segmentation enable multiple conversations in network communication?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article3:
-    id: 165785
+    id: 165782
     title: >-
-        How does UDP handle port number assignment and datagram forwarding?
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article4:
-    id: 165781
+    id: 165776
     title: >-
-        How does the TCP communication process establish and terminate sessions?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article5:
-    id: 165770
+    id: 165782
     title: >-
-        What are the basic operations of the TCP protocol in managing data transmission?
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 ---
 
 &nbsp;

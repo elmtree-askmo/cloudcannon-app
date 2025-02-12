@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content discusses the various types of transformations that can be applied to functions, including translations, reflections, stretches, compressions, and their combinations, which are crucial for understanding function graphs.
+    This content explains the different types of transformations that can be applied to functions including translations, reflections, stretches and compressions, and the combination of multiple transformations.
   page_keywords: >-
-    transformations, functions, translations, shifts, reflections, stretches, compressions, horizontal shifts, vertical shifts, horizontal compression, vertical compression, combining transformations, graph manipulation, square root functions, quadratic functions
+    transformations of functions, translations, shifts, reflections, vertical shifts, horizontal shifts, vertical stretch, horizontal compression, function behavior, graph manipulation
 author: QuickTakes
 question: >-
     What are the different types of transformations that can be applied to functions?
@@ -24,35 +24,23 @@ file_name: what-are-the-different-types-of-transformations-that-can-be-applied-t
 url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 score: -1.0
 related_article1:
-    id: 168403
+    id: 168402
     title: >-
-        What are parent functions, and can you give an example of a quadratic parent function?
+        How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 related_article2:
-    id: 168415
+    id: 168402
     title: >-
-        What are the general rules for function transformations, including reflection?
+        How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 related_article3:
-    id: 168407
+    id: 168409
     title: >-
-        How do you evaluate a function at a specific point using a graph?
+        How do you plot a quadratic function on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
-related_article4:
-    id: 168416
-    title: >-
-        What are the specific rules for reflecting a function over the x-axis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
-related_article5:
-    id: 168407
-    title: >-
-        How do you evaluate a function at a specific point using a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the different types of natural selection: directional, stabilizing, and disruptive selection, and explains how each type influences allele frequencies and evolutionary processes in populations.
+    This content provides an overview of the different types of natural selection—directional, stabilizing, and disruptive—and their effects on allele frequencies in a population, illustrating how these mechanisms influence evolution, traits, and biodiversity.
   page_keywords: >-
-    natural selection,directional selection,stabilizing selection,disruptive selection,allele frequencies,evolution,phenotypes,fitness,genetic diversity,adaptive traits,species evolution
+    natural selection, directional selection, stabilizing selection, disruptive selection, allele frequencies, evolution, extreme phenotypes, average phenotypes, genetic diversity, species adaptation, ecological niches, speciation
 author: QuickTakes
 question: >-
     What are the different types of selection, and how do they affect allele frequencies in a population?
@@ -24,35 +24,35 @@ file_name: what-are-the-different-types-of-selection-and-how-do-they-affect-alle
 url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 score: -1.0
 related_article1:
+    id: 166386
+    title: >-
+        Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article2:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article3:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article4:
     id: 166394
     title: >-
         How do vertebrate organ systems interact to influence animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
-related_article2:
-    id: 166384
-    title: >-
-        Explain the relationship between phenotype and genotype and their influence on behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
-related_article3:
-    id: 166388
-    title: >-
-        How do phylogenetic trees help in understanding evolutionary relationships among species?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
-related_article4:
-    id: 166379
-    title: >-
-        Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
 related_article5:
-    id: 166387
+    id: 166394
     title: >-
-        What is heritability, and how is it studied in behavioral traits?
+        How do vertebrate organ systems interact to influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The Homeric Hymns are a collection of ancient Greek hymns that celebrate deities, featuring key structural elements such as invocation, narrative, cult establishment, conclusion, and choral performance, offering insights into Greek religious practices and cultural values.
+    The Homeric Hymns are a collection of ancient Greek hymns celebrating various deities, featuring key structural elements such as invocation, narrative, cult establishment, conclusion, and choral performance, reflecting the religious practices and cultural significance of Greek mythology.
   page_keywords: >-
-    Homeric Hymns, ancient Greek hymns, structural elements, invocation, narrative, cult establishment, conclusion, choral performance, mythology, Greek pantheon
+    Homeric Hymns, ancient Greek hymns, deities, invocation, narrative, cult establishment, conclusion, choral performance, Greek pantheon, worship, religious practices, cultural values
 author: QuickTakes
 question: >-
     What are the key structural elements of the Homeric Hymns?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: what-are-the-key-structural-elements-of-the-homeric-hymns.md
 url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163906
-    title: >-
-        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
-related_article2:
-    id: 163889
-    title: >-
-        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
-related_article3:
     id: 163891
     title: >-
         How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article2:
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+related_article3:
+    id: 163899
+    title: >-
+        Describe a literary technique commonly used in ancient Greek literature and its purpose.
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
 related_article4:
-    id: 163904
+    id: 163905
     title: >-
-        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 related_article5:
-    id: 163904
+    id: 163901
     title: >-
-        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+        How do character epithets function within Greek mythology, and why are they significant?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 ---
 
 &nbsp;

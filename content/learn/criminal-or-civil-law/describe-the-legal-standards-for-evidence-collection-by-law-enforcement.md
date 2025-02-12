@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Criminal or Civil Law
   page_description: >-
-    An overview of the legal standards governing evidence collection by law enforcement in the United States, including the Fourth Amendment protections, requirements for warrants, and considerations for privacy rights.
+    This content outlines the legal standards governing evidence collection by law enforcement, focusing on constitutional protections, the necessity of warrants, and various legal doctrines such as exigent circumstances and consent searches.
   page_keywords: >-
-    Fourth Amendment,warrants,exigent circumstances,consent searches,plain view doctrine,search incident to arrest,production orders,subpoenas,DNA collection,reasonable grounds,privacy rights,Charter of Rights and Freedoms,law enforcement standards,evidence collection,constitutional protections
+    legal standards,evidence collection,law enforcement,Fourth Amendment,warrants,exigent circumstances,consent searches,plain view doctrine,search incident to arrest,DNA collection,reasonable grounds,privacy rights,Charter remedies
 author: QuickTakes
 question: >-
     Describe the legal standards for evidence collection by law enforcement.
@@ -24,17 +24,17 @@ file_name: describe-the-legal-standards-for-evidence-collection-by-law-enforceme
 url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
 score: -1.0
 related_article1:
-    id: 162001
+    id: 161997
     title: >-
-        What constitutes exigent circumstances in legal terms?
+        What is the legal framework governing search and seizure?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 related_article2:
-    id: 162010
+    id: 161999
     title: >-
-        What are the legal requirements for conducting searches under law enforcement powers?
+        Define investigative detention and its legal standards.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article3:
     id: 161995
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
 related_article4:
-    id: 162008
+    id: 161997
     title: >-
-        What are Charter remedies and how do they apply in court interpretations?
+        What is the legal framework governing search and seizure?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
-related_article5:
-    id: 162000
-    title: >-
-        Discuss the application of common law in modern investigative detention.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 ---
 
 &nbsp;

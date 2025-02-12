@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the primary environmental impacts of human activities such as deforestation and pollution, highlighting effects on biodiversity, climate change, and ecosystem health.
+    This content discusses the significant environmental impacts of human activities, particularly focusing on deforestation and pollution, highlighting issues such as loss of biodiversity, climate change, and habitat destruction.
   page_keywords: >-
-    deforestation, pollution, environmental impacts, biodiversity loss, climate change, soil erosion, air pollution, water pollution, soil contamination, habitat destruction, ecosystem disruption, extreme weather events, ocean acidification, sustainable practices
+    deforestation, pollution, environmental impacts, loss of biodiversity, climate change, soil erosion, air pollution, water pollution, soil contamination, habitat destruction, ecosystem functions, extreme weather events, ocean acidification, sustainable practices
 author: QuickTakes
 question: >-
     What are the primary environmental impacts of human activities like deforestation and pollution?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution.md
 url: /learn/history-of-the-world/questions/what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166215
-    title: >-
-        What are the primary benefits of using iClicker technology in educational settings?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
-related_article2:
-    id: 166223
-    title: >-
-        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
-related_article3:
-    id: 166226
-    title: >-
-        How can stress management techniques improve mental health?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
-related_article4:
-    id: 166225
-    title: >-
-        What are the main components of physical health that contribute to overall well-being?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
-related_article5:
     id: 166241
     title: >-
         What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
+related_article2:
+    id: 166213
+    title: >-
+        What were the key developments in the historical context of Arabic studies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
+related_article3:
+    id: 166223
+    title: >-
+        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
+related_article4:
+    id: 166237
+    title: >-
+        What are the main components involved in constructing historical narratives?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
+related_article5:
+    id: 166215
+    title: >-
+        What are the primary benefits of using iClicker technology in educational settings?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Archaeological evidence uses various artifacts and sites like the Temple of Artemis Orthia and black-figure pottery to enhance our understanding of Spartan society, its social structure, culture, and daily life.
+    This content explores the archaeological evidence that enriches our understanding of Spartan society, including findings from pottery, temples, urban planning, inscriptions, military history, and pre-classical discoveries.
   page_keywords: >-
-    Spartan society, archaeological evidence, black-figure pottery, Temple of Artemis Orthia, urban planning, inscriptions, Messenian Wars, Mycenaean palace, artifacts, cultural practices, social structure
+    Spartan society, archaeological evidence, black-figure pottery, Temple of Artemis Orthia, Eurotas Valley, urban planning, inscriptions, Messenian Wars, Mycenaean, ancient Sparta
 author: QuickTakes
 question: >-
     What archaeological evidence supports our understanding of Spartan society?
@@ -22,37 +22,25 @@ answer: >-
 subject: History of the World
 file_name: what-archaeological-evidence-supports-our-understanding-of-spartan-society.md
 url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163570
+    id: 163574
     title: >-
-        What was the significance of the Lycurgan Constitution in shaping Spartan society?
+        What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
+    url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
 related_article2:
-    id: 163572
+    id: 163574
     title: >-
-        What role did the Spartan Acropolis play in the city-state's religious and political life?
+        What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
+    url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
 related_article3:
     id: 163574
     title: >-
         What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
-related_article4:
-    id: 163577
-    title: >-
-        How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
-related_article5:
-    id: 163581
-    title: >-
-        Explain the purpose and structure of the Spartan agoge.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
 ---
 
 &nbsp;

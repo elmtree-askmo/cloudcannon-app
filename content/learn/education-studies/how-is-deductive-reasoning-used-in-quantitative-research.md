@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Deductive reasoning is a logical process in quantitative research that involves formulating hypotheses, collecting data, testing those hypotheses, and drawing conclusions based on statistical analysis, ultimately contributing to established knowledge.
+    Deductive reasoning is a critical component of quantitative research, aiding in the formulation of hypotheses, data collection, statistical analysis, and conclusion drawing, thus contributing to knowledge development in a structured way.
   page_keywords: >-
-    deductive reasoning, quantitative research, hypothesis formulation, data collection, testing hypothesis, statistical analysis, scientific method, empirical data, cause-and-effect relationships, generalizable findings
+    deductive reasoning, quantitative research, hypotheses, data collection, statistical analysis, conclusions, scientific method, empirical data, cause-and-effect relationships, test theories
 author: QuickTakes
 question: >-
     How is deductive reasoning used in quantitative research?
@@ -24,35 +24,35 @@ file_name: how-is-deductive-reasoning-used-in-quantitative-research.md
 url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
 score: -1.0
 related_article1:
-    id: 163692
+    id: 163675
     title: >-
-        How does objective knowledge contribute to quantitative research?
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article2:
-    id: 163682
+    id: 163676
     title: >-
-        What are the key elements of a research design?
+        How do ontology and epistemology influence research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 related_article3:
-    id: 163696
+    id: 163687
     title: >-
-        How does positivism influence quantitative research?
+        What is the importance of formulating research questions from a research problem?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 related_article4:
-    id: 163696
+    id: 163686
     title: >-
-        How does positivism influence quantitative research?
+        How is statistical analysis used in quantitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 related_article5:
-    id: 163685
+    id: 163687
     title: >-
-        What is the process of coding and thematic analysis in qualitative data analysis?
+        What is the importance of formulating research questions from a research problem?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 ---
 
 &nbsp;

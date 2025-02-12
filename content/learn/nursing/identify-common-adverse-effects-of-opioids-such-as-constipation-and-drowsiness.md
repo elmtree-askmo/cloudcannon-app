@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses the common adverse effects of opioids including constipation, respiratory depression, sedation, nausea, vomiting, and other related side effects.
+    This content discusses the common adverse effects of opioid medications, including constipation, respiratory depression, sedation, nausea, and other effects.
   page_keywords: >-
-    opioids,constipation,respiratory depression,sedation,drowsiness,nausea,vomiting,dizziness,dry mouth,tolerance,dependence
+    opioids, adverse effects, constipation, respiratory depression, sedation, dizziness, nausea, vomiting, dry mouth, tolerance, dependence
 author: QuickTakes
 question: >-
     Identify common adverse effects of opioids, such as constipation and drowsiness.
@@ -24,35 +24,23 @@ file_name: identify-common-adverse-effects-of-opioids-such-as-constipation-and-d
 url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
 score: -1.0
 related_article1:
-    id: 166450
+    id: 166449
     title: >-
-        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 related_article2:
-    id: 166445
+    id: 166448
     title: >-
-        Explain the function of agonist medications in enhancing receptor activity.
+        What are the potential adverse effects of narcotic medications on the central nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 related_article3:
     id: 166449
     title: >-
         How are controlled substances categorized based on their potential for abuse?
     subject: Nursing
     url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
-related_article4:
-    id: 166442
-    title: >-
-        Differentiate between opioid and non-opioid analgesics.
-    subject: Nursing
-    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
-related_article5:
-    id: 166448
-    title: >-
-        What are the potential adverse effects of narcotic medications on the central nervous system?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 ---
 
 &nbsp;

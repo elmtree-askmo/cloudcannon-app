@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Urbicide refers to the systematic destruction of urban environments as a form of political violence, highlighting its focus on urbanity, political context, cultural implications, and its relation to genocide.
+    Urbicide is a concept that refers to the deliberate destruction of urban environments, emphasizing political violence and the erasure of cultural diversity.
   page_keywords: >-
-    urbicide, urban destruction, political violence, ethnic nationalism, cultural erasure, urban identity, genocide, conflict studies, built environment, historical narratives
+    urbicide, urban destruction, political violence, ethnic nationalism, cultural erasure, urban identity, territorial conflict, built environment, genocide, social significance, heritage, conflict studies
 author: QuickTakes
 question: >-
     How does urbicide differ conceptually from other forms of destruction?
@@ -23,36 +23,7 @@ subject: Sociology
 file_name: how-does-urbicide-differ-conceptually-from-other-forms-of-destruction.md
 url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
 score: -1.0
-related_article1:
-    id: 169211
-    title: >-
-        What are the political implications of house-burning in post-war Bosnia?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
-related_article2:
-    id: 169206
-    title: >-
-        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
-related_article3:
-    id: 169214
-    title: >-
-        What are the ontopolitical claims related to ethnic nationalism and identity?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
-related_article4:
-    id: 169208
-    title: >-
-        What are the political stakes of urbicide in the context of agonism and antagonism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
-related_article5:
-    id: 169206
-    title: >-
-        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+
 ---
 
 &nbsp;

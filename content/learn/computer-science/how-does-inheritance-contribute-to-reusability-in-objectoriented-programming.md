@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Inheritance is a key concept in OOP that enhances reusability by allowing subclasses to inherit attributes and methods from superclasses, promote extensibility, reduce redundancy, and support polymorphism, leading to more maintainable and efficient software.
+    Inheritance in object-oriented programming (OOP) enhances software reusability by allowing subclasses to inherit methods and attributes from superclasses, enabling code reuse, extensibility, reduction of redundancy, and supporting polymorphism for flexible, maintainable software development.
   page_keywords: >-
-    inheritance,reusability,object-oriented programming,OOP,code reuse,extensibility,reduction of redundancy,polymorphism,software development,code organization
+    inheritance, reusability, object-oriented programming, OOP, code reuse, extensibility, reduction of redundancy, polymorphism, class hierarchy, software development
 author: QuickTakes
 question: >-
     How does inheritance contribute to reusability in object-oriented programming?
@@ -24,35 +24,35 @@ file_name: how-does-inheritance-contribute-to-reusability-in-objectoriented-prog
 url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 score: -1.0
 related_article1:
-    id: 168607
+    id: 168608
     title: >-
-        What is modular programming and how does it enhance reusability?
+        What is encapsulation in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article2:
-    id: 168592
+    id: 168606
     title: >-
-        How can you use the math module to calculate the square root of a number?
+        Why is software reusability important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
 related_article3:
-    id: 168595
+    id: 168608
     title: >-
-        How do local variables differ from global variables in terms of accessibility?
+        What is encapsulation in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article4:
-    id: 168596
+    id: 168602
     title: >-
-        What is the purpose of using the try...except statement in Python?
+        What is the purpose of raising exceptions in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
 related_article5:
-    id: 168594
+    id: 168593
     title: >-
-        What is the effect of defining a variable inside a function in terms of scope?
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 ---
 
 &nbsp;

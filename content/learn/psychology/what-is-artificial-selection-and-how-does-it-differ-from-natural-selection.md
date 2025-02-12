@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains the differences between artificial selection and natural selection, highlighting how artificial selection is driven by human choices while natural selection is influenced by environmental pressures affecting survival and reproduction.
+    Artificial selection is the human-driven breeding process for specific traits, contrasting with natural selection, which is guided by environmental pressures and leads to evolutionary changes in populations.
   page_keywords: >-
-    artificial selection, natural selection, evolution, breeding, domesticated species, traits, human intervention, environmental pressures, differential survival, reproductive success, adaptations, fitness, selective breeding
+    artificial selection, natural selection, evolution, breeding, domesticated species, traits, human intervention, environmental pressures, survival, reproductive success
 author: QuickTakes
 question: >-
     What is artificial selection and how does it differ from natural selection?
@@ -24,35 +24,35 @@ file_name: what-is-artificial-selection-and-how-does-it-differ-from-natural-sele
 url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 score: -1.0
 related_article1:
-    id: 165295
+    id: 165293
     title: >-
-        List and explain Darwin’s four postulates of natural selection.
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article2:
-    id: 165288
+    id: 165293
     title: >-
-        How can understanding animal behavior be applied in research?
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article3:
-    id: 165287
+    id: 165301
     title: >-
-        What is the definition of animal behavior and why is it important to study?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+        How do environmental factors influence animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-environmental-factors-influence-animal-behavior
 related_article4:
-    id: 165300
+    id: 165304
     title: >-
-        Why is genetic variation important for evolution?
+        Describe the process of directional selection and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 related_article5:
-    id: 165292
+    id: 165312
     title: >-
-        How does natural selection contribute to the foundation of animal behavior?
+        Describe the process of ontogeny and its role in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 ---
 
 &nbsp;

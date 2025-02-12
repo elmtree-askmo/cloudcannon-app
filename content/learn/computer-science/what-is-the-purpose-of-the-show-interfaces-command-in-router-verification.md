@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    The 'show interfaces' command is utilized in routers to display detailed statistics and operational status for all interfaces, aiding in network performance assessment, troubleshooting, and configuration verification.
+    The 'show interfaces' command is vital for displaying detailed interface statistics and operational status on a router, aiding network administrators in monitoring performance, verifying configurations, and troubleshooting connectivity issues.
   page_keywords: >-
-    show interfaces, router command, interface statistics, network troubleshooting, operational status, traffic analysis, configuration verification, router verification, network performance, bandwidth, MTU
+    router verification, show interfaces command, interface status, interface statistics, network troubleshooting, interface performance, bandwidth analysis, operational status, error counts, configuration verification
 author: QuickTakes
 question: >-
     What is the purpose of the 'show interfaces' command in router verification?
@@ -24,35 +24,23 @@ file_name: what-is-the-purpose-of-the-show-interfaces-command-in-router-verifica
 url: /learn/computer-science/questions/what-is-the-purpose-of-the-show-interfaces-command-in-router-verification
 score: -1.0
 related_article1:
-    id: 165668
+    id: 165678
     title: >-
-        What command is used to configure the device name on a router?
+        How do you secure console access on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-is-used-to-configure-the-device-name-on-a-router
+    url: /learn/computer-science/questions/how-do-you-secure-console-access-on-a-router
 related_article2:
-    id: 165670
+    id: 165684
     title: >-
-        What is the purpose of configuring SSH access on a router?
+        What is the significance of monitoring link status in network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-configuring-ssh-access-on-a-router
+    url: /learn/computer-science/questions/what-is-the-significance-of-monitoring-link-status-in-network-management
 related_article3:
-    id: 165680
+    id: 165678
     title: >-
-        Which command provides a brief overview of the status of all interfaces on a router?
+        How do you secure console access on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/which-command-provides-a-brief-overview-of-the-status-of-all-interfaces-on-a-router
-related_article4:
-    id: 165671
-    title: >-
-        How do you encrypt plaintext passwords on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-encrypt-plaintext-passwords-on-a-router
-related_article5:
-    id: 165680
-    title: >-
-        Which command provides a brief overview of the status of all interfaces on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/which-command-provides-a-brief-overview-of-the-status-of-all-interfaces-on-a-router
+    url: /learn/computer-science/questions/how-do-you-secure-console-access-on-a-router
 ---
 
 &nbsp;

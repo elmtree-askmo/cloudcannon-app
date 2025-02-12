@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content describes the electrical characteristics of an ideal inductor in a sinusoidal AC regime, focusing on inductive reactance, voltage-current relationships, phase shifts, impedance, and the behavior of inductors in AC circuits.
+    This content discusses the electrical characteristics of an ideal inductor in a sinusoidal AC regime, including inductive reactance, voltage-current relationship, phase shift, impedance, and the behavior of inductors in circuits.
   page_keywords: >-
-    ideal inductor, electrical characteristics, sinusoidal AC regime, inductive reactance, voltage-current relationship, phase shift, impedance, total opposition, current flow, power in inductive circuits, reactive power, complex power
+    inductor, ideal inductor, sinusoidal AC, inductive reactance, voltage-current relationship, phase shift, impedance, reactive power, Lenz's Law, complex power
 author: QuickTakes
 question: >-
     Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
@@ -30,11 +30,11 @@ related_article1:
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 related_article2:
-    id: 169854
+    id: 169861
     title: >-
-        How is power factor correction achieved in electrical systems?
+        How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 related_article3:
     id: 169846
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Engineering
     url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
 related_article4:
-    id: 169850
+    id: 169861
     title: >-
-        What is the difference between a node and a loop in circuit analysis?
+        How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article5:
+    id: 169861
+    title: >-
+        How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 ---
 
 &nbsp;

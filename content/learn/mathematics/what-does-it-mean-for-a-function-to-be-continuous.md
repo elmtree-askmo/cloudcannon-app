@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the concept of continuity for functions in mathematics, detailing the conditions that must be met for a function to be considered continuous, and highlights its importance in calculus.
+    A function is continuous if it can be graphed without breaks, jumps, or holes, satisfying three specific conditions related to its limits and values.
   page_keywords: >-
-    continuous function, definition of continuity, limits, domain, discontinuous function, calculus, mathematical continuity, graph without breaks, smooth functions, function value, limit existing, mathematical applications
+    continuity, continuous function, breaks, jumps, holes, domain, limit, calculus, mathematical functions, smooth behavior, predictable behavior, conditions for continuity
 author: QuickTakes
 question: >-
     What does it mean for a function to be continuous?
@@ -24,35 +24,29 @@ file_name: what-does-it-mean-for-a-function-to-be-continuous.md
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 score: -1.0
 related_article1:
-    id: 163755
+    id: 163761
     title: >-
-        How do the domain and range of cube root functions compare to those of square root functions?
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 related_article2:
-    id: 163772
+    id: 163748
     title: >-
-        Which quadrants are typically covered by cube root graphs?
+        What steps are involved in graphing a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 related_article3:
-    id: 163755
+    id: 163761
     title: >-
-        How do the domain and range of cube root functions compare to those of square root functions?
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 related_article4:
-    id: 163755
+    id: 163761
     title: >-
-        How do the domain and range of cube root functions compare to those of square root functions?
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
-related_article5:
-    id: 163783
-    title: >-
-        Why are cube root functions considered continuous functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how a host address in an IPv4 network is represented in binary, detailing the conversion of decimal IP addresses into a 32-bit binary format, the significance of octets, and the role of subnet masks.
+    This content explains how a host address in an IPv4 network is represented in binary, detailing the format, octets, and the role of the subnet mask in identifying network and host portions.
   page_keywords: >-
-    IPv4, host address, binary representation, binary number system, octets, subnet mask, network portion, host portion, IP address, decimal to binary
+    host address, representation, binary, IPv4, bits, octets, subnet mask, network, routing, subnetting
 author: QuickTakes
 question: >-
     How is a host address represented using a combination of 0s and 1s?
@@ -24,35 +24,35 @@ file_name: how-is-a-host-address-represented-using-a-combination-of-0s-and-1s.md
 url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 score: -1.0
 related_article1:
-    id: 165712
+    id: 165717
     title: >-
-        What is a network address and how is it represented when the host portion is all 0s?
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
+    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 related_article2:
-    id: 165718
+    id: 165717
     title: >-
-        What are the configuration steps for static IP address assignment?
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 related_article3:
-    id: 165711
+    id: 165721
     title: >-
-        Explain the concept of a subnet prefix and its notation in dotted decimal format.
+        What is the role of the network portion in hierarchical IP addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 related_article4:
-    id: 165706
+    id: 165710
     title: >-
-        How do you convert a binary number to a decimal number? Provide an example.
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article5:
-    id: 165708
+    id: 165721
     title: >-
-        Describe the 32-bit structure of an IPv4 address and its division into octets.
+        What is the role of the network portion in hierarchical IP addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 ---
 
 &nbsp;

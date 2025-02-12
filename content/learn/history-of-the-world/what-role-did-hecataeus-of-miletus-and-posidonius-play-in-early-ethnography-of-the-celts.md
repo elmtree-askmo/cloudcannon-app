@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160380
-date: 2025-01-24
+id: 159880
+date: 2025-01-23
 title: >-
     What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Hecataeus of Miletus and Posidonius significantly contributed to the early ethnography of the Celts, documenting their society, customs, and cultural traits, thereby influencing Greek and Roman perceptions.
+    Hecataeus of Miletus and Posidonius were key figures in the early ethnography of the Celts, providing significant insights into their society, customs, and cultural traits through systematic documentation and analytical research.
   page_keywords: >-
-    Hecataeus of Miletus, Posidonius, early ethnography, Celts, Greek historians, cultural characteristics, societal structure, Periegesis, Stoic philosopher, tribal characteristics, ethnographic accounts, historical narratives, Strabo, Celtic customs, cultural practices
+    Hecataeus of Miletus, Posidonius, early ethnography, Celts, society, customs, cultural characteristics, Periegesis, historical narratives, Greek understanding, Stoic philosopher, tribal characteristics, cultural traits, systematic documentation, analytical approach, ethnographic writings
 author: QuickTakes
 question: >-
     What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts.md
 url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
-score: 8.5
+score: -1.0
 related_article1:
-    id: 159914
+    id: 159871
     title: >-
-        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article2:
-    id: 159902
+    id: 159925
     title: >-
-        How have the Celts contributed to European heritage and modern perceptions?
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article3:
-    id: 160382
+    id: 159870
     title: >-
-        What was the tribal organization and social hierarchy in Celtic society?
+        How did the La Tène Culture expand and settle in new regions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
 related_article4:
-    id: 160392
+    id: 159857
     title: >-
-        What were the distinctive physical and behavioral traits of the Celts?
+        What are the distinctive pottery styles associated with the Beaker People and Corded Ware People?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-distinctive-pottery-styles-associated-with-the-beaker-people-and-corded-ware-people
 related_article5:
-    id: 160386
+    id: 159926
     title: >-
-        What were the primary military tactics and weaponry used by the Celts?
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The first pass effect is a pharmacokinetic phenomenon where a drug's concentration is reduced in the liver before reaching systemic circulation, impacting its efficacy and bioavailability.
+    The first pass effect is a pharmacokinetic phenomenon that reduces the concentration of orally administered drugs as they are metabolized by the liver before reaching systemic circulation, impacting drug efficacy and bioavailability.
   page_keywords: >-
-    first pass effect, pharmacokinetics, drug metabolism, liver, bioavailability, oral administration, systemic circulation, therapeutic efficacy, enzyme activity, dosing considerations
+    first pass effect, pharmacokinetics, drug metabolism, liver, oral drugs, bioavailability, therapeutic effects, dosing considerations, pharmacology, hepatic metabolism
 author: QuickTakes
 question: >-
     Explain the mechanism of the first pass effect and its impact on drug efficacy.
@@ -24,35 +24,35 @@ file_name: explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug
 url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 score: -1.0
 related_article1:
-    id: 166438
+    id: 166426
     title: >-
-        What is a black box warning, and what is its purpose in pharmacology?
+        Define bioavailability and identify two factors that influence it.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 related_article2:
-    id: 166427
+    id: 166436
     title: >-
-        What are the phases of biotransformation, and how do they contribute to drug metabolism?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
+        List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Medicine
+    url: /learn/medicine/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 related_article3:
-    id: 166430
+    id: 166426
     title: >-
-        How is the peak level of a drug measured, and why is it clinically relevant?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-the-peak-level-of-a-drug-measured-and-why-is-it-clinically-relevant
+        Define bioavailability and identify two factors that influence it.
+    subject: Medicine
+    url: /learn/medicine/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 related_article4:
-    id: 166429
+    id: 166436
     title: >-
-        What are adverse effects, and what strategies can be used to manage them?
+        List the routes of drug excretion and discuss one factor that affects excretion.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 related_article5:
-    id: 166437
+    id: 166436
     title: >-
-        What are the types of drug interactions, and what are their clinical implications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+        List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Medicine
+    url: /learn/medicine/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 ---
 
 &nbsp;

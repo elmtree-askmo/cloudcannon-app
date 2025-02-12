@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how peer and parental influences differ in their impact on moral reasoning, highlighting the roles of egalitarian relationships among peers and different parenting styles.
+    This content discusses the contrasting and complementary roles of peer and parental influences on moral reasoning, detailing how peer interactions foster critical thinking while parenting styles significantly shape moral understanding and development.
   page_keywords: >-
-    peer influence, parental influence, moral reasoning, moral development, parenting styles, induction style, egalitarian relationships, Piaget, Kohlberg, discipline approaches, moral standards, empathy, critical thinking
+    peer influence, parental influence, moral reasoning, moral development, parenting styles, egalitarian relationships, Piaget, Kohlberg, moral dilemmas, critical thinking, inductive discipline, power assertion, love withdrawal, internal moral standards, moral framework, negotiation, empathy, children, moral growth
 author: QuickTakes
 question: >-
     In what ways do peer and parental influences differ in their impact on moral reasoning?
@@ -24,35 +24,35 @@ file_name: in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-o
 url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 score: -1.0
 related_article1:
-    id: 164137
-    title: >-
-        What role does power assertion play in parenting, and how does it impact moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
-related_article2:
     id: 164142
     title: >-
         What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article2:
+    id: 164134
+    title: >-
+        How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
 related_article3:
-    id: 164150
+    id: 164142
     title: >-
-        What are the potential emotional consequences of overemphasizing control in parental influence?
+        What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 related_article4:
-    id: 164139
+    id: 164138
     title: >-
-        According to Piaget, how do peer interactions influence moral development?
+        How does love withdrawal as a parenting technique influence a child's moral development?
     subject: Psychology
-    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
 related_article5:
-    id: 164139
+    id: 164142
     title: >-
-        According to Piaget, how do peer interactions influence moral development?
+        What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
-    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 ---
 
 &nbsp;

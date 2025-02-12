@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Footnotes and references are essential in academic writing for tracing sources, giving credit to original authors, avoiding plagiarism, adhering to citation styles, and enhancing the credibility of scholarly work.
+    Footnotes and references are crucial in academic writing for tracing sources, giving credit to authors, avoiding plagiarism, following citation styles, and enhancing the credibility of scholarly work.
   page_keywords: >-
-    footnotes, references, academic writing, citations, scholarly integrity, plagiarism, citation styles, academic credibility, intellectual property, Chicago Manual of Style
+    footnotes, references, academic writing, citations, tracing sources, giving credit, avoiding plagiarism, citation styles, credibility, academic integrity
 author: QuickTakes
 question: >-
     What is the importance of footnotes and references in academic writing?
@@ -24,35 +24,29 @@ file_name: what-is-the-importance-of-footnotes-and-references-in-academic-writin
 url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 score: -1.0
 related_article1:
-    id: 170043
-    title: >-
-        How did the role of women in food collection impact hunting and gathering societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
-related_article2:
-    id: 170034
-    title: >-
-        How should quotations be incorporated into writing assignments to support arguments effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
-related_article3:
-    id: 170053
-    title: >-
-        What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
-related_article4:
-    id: 170035
-    title: >-
-        What are the differences between online resources and print articles when citing sources in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
-related_article5:
     id: 170040
     title: >-
         What is the difference between quoting and paraphrasing when engaging with primary source documents?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+related_article2:
+    id: 170040
+    title: >-
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+related_article3:
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
+related_article4:
+    id: 170041
+    title: >-
+        How does Voice Thread technology enhance student engagement and facilitate discussion in class?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-voice-thread-technology-enhance-student-engagement-and-facilitate-discussion-in-class
 ---
 
 &nbsp;

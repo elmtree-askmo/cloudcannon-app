@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160392
-date: 2025-01-24
+id: 159901
+date: 2025-01-23
 title: >-
     What were the distinctive physical and behavioral traits of the Celts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Exploration of the distinctive physical and behavioral traits of the Celts, an ancient Indo-European people, highlighting their appearance, social structures, warrior society, cultural complexity, and religious beliefs.
+    The distinctive physical and behavioral traits of the Celts, highlighting their unique appearance, warrior culture, complex social structures, and rich cultural traditions.
   page_keywords: >-
-    Celts, physical traits, behavioral traits, ancient Indo-European, hair color, eye color, warrior culture, social structure, cultural complexity, role of women, religious beliefs, ancient history, Celtic heritage
+    Celts, physical traits, behavioral traits, hair color, eye color, warrior society, social structure, clothing, cultural complexity, role of women, religious beliefs, ancient history, Celtic culture
 author: QuickTakes
 question: >-
     What were the distinctive physical and behavioral traits of the Celts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts.md
 url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
-score: 9.0
+score: -1.0
 related_article1:
-    id: 160374
-    title: >-
-        What are the defining decorative styles of La Tène Culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
-related_article2:
-    id: 160175
+    id: 159890
     title: >-
         How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+related_article2:
+    id: 159862
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
 related_article3:
-    id: 160178
+    id: 159868
     title: >-
-        What were the key trading centers in Celtic trade networks?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+        What are the defining decorative styles of La Tène Culture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article4:
-    id: 160369
+    id: 159926
     title: >-
-        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 related_article5:
-    id: 159900
+    id: 159883
     title: >-
-        What impact did natural resources and landscapes have on Celtic society?
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-impact-did-natural-resources-and-landscapes-have-on-celtic-society
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 ---
 
 &nbsp;

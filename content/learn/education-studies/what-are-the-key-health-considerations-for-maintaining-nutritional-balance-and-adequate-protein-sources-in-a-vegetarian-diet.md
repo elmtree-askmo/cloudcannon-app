@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 162571
+id: 162269
 date: 2025-01-25
 title: >-
     What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet, including diverse protein sources, recommended protein intake, balanced nutrition, nutrient pairing, health benefits, and potential deficiencies.
+    Key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet, focusing on diverse protein sources, recommended intake, balanced diet, nutrient absorption, and potential deficiencies.
   page_keywords: >-
-    vegetarian diet, nutritional balance, protein sources, plant-based proteins, amino acid profile, recommended protein intake, balanced diet, nutrient pairing, health benefits, nutritional deficiencies, vitamin B12, iron, calcium, omega-3 fatty acids, dietary planning
+    vegetarian diet, nutritional balance, protein sources, amino acids, diverse protein, EFSA recommendations, balanced diet, nutrient pairing, health benefits, plant-based diet, nutritional deficiencies, vitamin B12, iron, calcium, omega-3 fatty acids, dietary planning
 author: QuickTakes
 question: >-
     What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
@@ -24,11 +24,11 @@ file_name: what-are-the-key-health-considerations-for-maintaining-nutritional-ba
 url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
 score: -1.0
 related_article1:
-    id: 162567
+    id: 162259
     title: >-
-        How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 related_article2:
     id: 162259
     title: >-
@@ -36,23 +36,17 @@ related_article2:
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 related_article3:
-    id: 162257
+    id: 162259
     title: >-
-        How does word choice, including loaded language, impact the point of view presented in a text?
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 related_article4:
-    id: 162257
+    id: 162260
     title: >-
-        How does word choice, including loaded language, impact the point of view presented in a text?
+        What is the purpose of using different text structures, such as cause-and-effect or compare and contrast, in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
-related_article5:
-    id: 162562
-    title: >-
-        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-different-text-structures-such-as-causeandeffect-or-compare-and-contrast-in-writing
 ---
 
 &nbsp;

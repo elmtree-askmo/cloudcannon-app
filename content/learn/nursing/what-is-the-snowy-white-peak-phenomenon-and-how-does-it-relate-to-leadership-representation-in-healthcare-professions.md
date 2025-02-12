@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The 'Snowy White Peak' phenomenon highlights the lack of ethnic minority representation in senior healthcare leadership roles, illustrating systemic barriers and the need for diversity to address health disparities.
+    The 'Snowy White Peak' phenomenon illustrates the lack of ethnic minority representation in senior healthcare leadership roles, highlighting systemic barriers and the consequences of this absence on health equity and organizational culture.
   page_keywords: >-
-    Snowy White Peak, leadership representation, healthcare, ethnic minorities, NHS, diversity in healthcare, systemic barriers, health disparities, inclusive culture, minority populations
+    Snowy White Peak, leadership representation, healthcare, ethnic minorities, NHS, diversity, health disparities, organizational culture, systemic barriers, patient needs
 author: QuickTakes
 question: >-
     What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
@@ -24,35 +24,35 @@ file_name: what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-lea
 url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 score: -1.0
 related_article1:
-    id: 169599
+    id: 169590
     title: >-
-        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article2:
-    id: 169584
+    id: 169590
     title: >-
-        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article3:
-    id: 169592
+    id: 169590
     title: >-
-        How does institutional racism affect healthcare access for ethnic minorities?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article4:
-    id: 169584
+    id: 169600
     title: >-
-        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+        How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 related_article5:
-    id: 169596
+    id: 169590
     title: >-
-        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 ---
 
 &nbsp;

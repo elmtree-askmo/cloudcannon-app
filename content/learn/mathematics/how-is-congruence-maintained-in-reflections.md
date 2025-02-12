@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 162912
+id: 162411
 date: 2025-01-25
 title: >-
     How is congruence maintained in reflections?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how congruence is maintained in reflections through isometric transformations, the line of reflection, the change in orientation, and the preservation of distances and angles.
+    This content explains how congruence is maintained in reflections through isometric transformations, discussing key aspects like the line of reflection, orientation changes, and the preservation of distances and angles.
   page_keywords: >-
-    congruence, reflections, isometric transformations, line of reflection, orientation, coordinates, distance preservation, geometric figures, lateral inversion, mirror image
+    congruence, reflections, isometric transformations, line of reflection, orientation, distances, geometrical figures, coordinates, lateral inversion, angles
 author: QuickTakes
 question: >-
     How is congruence maintained in reflections?
@@ -24,35 +24,35 @@ file_name: how-is-congruence-maintained-in-reflections.md
 url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 score: -1.0
 related_article1:
-    id: 162519
+    id: 162523
     title: >-
-        What are opposite coordinates in the context of reflections?
+        How does the position and orientation of a figure change after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 related_article2:
-    id: 162891
+    id: 162523
     title: >-
-        In what way does a reflection affect the distance between points?
+        How does the position and orientation of a figure change after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 related_article3:
-    id: 162530
+    id: 162409
     title: >-
-        What misunderstandings might arise regarding symmetry in reflections?
+        How can orientation changes lead to confusion in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 related_article4:
-    id: 162636
+    id: 162393
     title: >-
-        What similarities exist between original and reflected figures?
+        What is vertical symmetry in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 related_article5:
-    id: 162401
+    id: 162384
     title: >-
-        How do reflections impact other polygons?
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-impact-other-polygons
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 ---
 
 &nbsp;

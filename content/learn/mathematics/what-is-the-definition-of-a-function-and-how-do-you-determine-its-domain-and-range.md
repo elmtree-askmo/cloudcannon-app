@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content provides a comprehensive definition of a function, explains how to determine its domain and range, and offers examples to illustrate the concepts.
+    This content discusses the definition of a function in mathematics, how to determine its domain and range, including identifying restrictions on inputs and analyzing outputs through various methods such as graphing and calculus.
   page_keywords: >-
-    function, definition, domain, range, unique mapping, ordered pairs, input values, output values, restrictions, interval notation, set notation, graphing, calculus, polynomial functions, rational functions, critical points, limits
+    function, definition, domain, range, mathematical relation, input output, ordered pairs, restrictions, square roots, division by zero, set notation, interval notation, graphing, behavior of functions, critical points, calculus
 author: QuickTakes
 question: >-
     What is the definition of a function and how do you determine its domain and range?
@@ -24,35 +24,35 @@ file_name: what-is-the-definition-of-a-function-and-how-do-you-determine-its-dom
 url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 score: -1.0
 related_article1:
-    id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
-related_article2:
-    id: 168337
-    title: >-
-        State the Fundamental Theorem of Calculus and explain its significance.
-    subject: Mathematics
-    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
-related_article3:
-    id: 168329
-    title: >-
-        What are the limit laws and how are they used to calculate limits?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
-related_article4:
-    id: 168336
-    title: >-
-        How do you approximate the area under a curve using definite integrals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
-related_article5:
     id: 168330
     title: >-
         Describe the geometric interpretation of a derivative.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article2:
+    id: 168338
+    title: >-
+        What is a partial derivative and how is it calculated for functions of several variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+related_article3:
+    id: 168328
+    title: >-
+        Explain the concept of one-sided limits and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+related_article4:
+    id: 168342
+    title: >-
+        What are the methods for calculating the volume of a solid in calculus?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+related_article5:
+    id: 168337
+    title: >-
+        State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 ---
 
 &nbsp;

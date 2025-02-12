@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Ed Emshwiller's entry into science fiction art began in the early 1950s, characterized by his surrealism and modernism. Notable early works include 'Relics of an Extinct Race,' 'Love,' and 'Granny Won’t Knit,' which blended inventive visual storytelling with themes of technology and societal issues, influencing future generations of science fiction artists.
+    Ed Emshwiller's work in science fiction art began in the early 1950s, featuring notable works like 'Relics of an Extinct Race' and 'Love', blending surrealism with themes of technology and human experience.
   page_keywords: >-
-    Ed Emshwiller, science fiction art, early works, Galaxy magazine, Fantasy and Science Fiction, surrealism, modernism, innovative illustration, relics of an extinct race, love cover, granny won't knit, vibrant colors, dynamic compositions, futuristic landscapes, social issues, artistic techniques, human experience, contemporary influence
+    Ed Emshwiller, science fiction art, early works, Galaxy magazine, Fantasy and Science Fiction, surrealism, modernism, vibrant colors, imaginative narratives, futuristic landscapes, art history, illustration community
 author: QuickTakes
 question: >-
     How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
@@ -22,37 +22,8 @@ answer: >-
 subject: Art History and Literature
 file_name: how-did-ed-emshwillers-work-in-science-fiction-art-begin-and-what-were-some-of-his-notable-early-works.md
 url: /learn/art-history-and-literature/questions/how-did-ed-emshwillers-work-in-science-fiction-art-begin-and-what-were-some-of-his-notable-early-works
-score: 8.5
-related_article1:
-    id: 170130
-    title: >-
-        In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-surrealism-influence-ed-emshwillers-cover-art-and-how-does-it-compare-to-other-artists-of-the-time
-related_article2:
-    id: 170136
-    title: >-
-        What contributions did Ed Emshwiller make to cinema and video art, and what are some notable works in experimental film?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-contributions-did-ed-emshwiller-make-to-cinema-and-video-art-and-what-are-some-notable-works-in-experimental-film
-related_article3:
-    id: 170131
-    title: >-
-        How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-ed-emshwiller-incorporate-modernist-techniques-into-his-art-and-what-role-did-dynamic-contrasts-play-in-his-work
-related_article4:
-    id: 170137
-    title: >-
-        How has Ed Emshwiller's work been recognized and collected, and what influence has he had on future generations of artists?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-ed-emshwillers-work-been-recognized-and-collected-and-what-influence-has-he-had-on-future-generations-of-artists
-related_article5:
-    id: 170136
-    title: >-
-        What contributions did Ed Emshwiller make to cinema and video art, and what are some notable works in experimental film?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-contributions-did-ed-emshwiller-make-to-cinema-and-video-art-and-what-are-some-notable-works-in-experimental-film
+score: -1.0
+
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A counter-example is an instance that disproves a general statement, crucial in logical reasoning for testing argument validity and identifying inconsistencies between premises and conclusions.
+    A counter-example is an instance that disproves a general statement, crucial in logical reasoning for testing argument validity and relationships between propositions.
   page_keywords: >-
-    counter-example, logical reasoning, disproving propositions, validity of arguments, inconsistency, logical analysis, truth tables, propositional logic, mathematics, philosophy
+    counter-example, logical reasoning, disproving propositions, validity of arguments, logical equivalence, premises, conclusion, inconsistency, truth tables, mathematical logic, philosophical arguments, propositional logic
 author: QuickTakes
 question: >-
     What is a counter-example, and why is it important in logical reasoning?
@@ -24,35 +24,35 @@ file_name: what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 score: -1.0
 related_article1:
-    id: 170252
+    id: 170238
     title: >-
-        Provide an example of a contradiction and explain its characteristics.
-    subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+        What distinguishes a proposition from a non-proposition?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-distinguishes-a-proposition-from-a-nonproposition
 related_article2:
-    id: 170252
+    id: 170244
     title: >-
-        Provide an example of a contradiction and explain its characteristics.
+        Define negation and provide its truth table.
     subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
 related_article3:
-    id: 170257
+    id: 170236
     title: >-
-        What is the importance of planning and structure in constructing truth tables?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+        How does propositional logic connect to computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-propositional-logic-connect-to-computing
 related_article4:
     id: 170236
     title: >-
         How does propositional logic connect to computing?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-propositional-logic-connect-to-computing
 related_article5:
-    id: 170247
+    id: 170236
     title: >-
-        Describe the exclusive-or operator and its application in propositions.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+        How does propositional logic connect to computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-propositional-logic-connect-to-computing
 ---
 
 &nbsp;

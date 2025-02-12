@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores the significant impact of Zionism on archaeological practices and museum curation in Jerusalem, highlighting the construction of historical narratives, the role of curators, and the political implications of cultural heritage management.
+    This content explores the profound influence of Zionism on archaeological practices and museum curation in Jerusalem, examining how historical narratives are constructed, artifacts are selected, and the political implications of cultural heritage management.
   page_keywords: >-
-    Zionism, archaeology, museum curation, Jerusalem, historical narrative, Jewish heritage, political context, exhibition practices, cultural property, heritage destruction, ideological influence, Palestine Archaeological Museum, Israel Museum, national identity, historical interpretation
+    Zionism, archaeology, museum curation, Jerusalem, Jewish historical narrative, political context, Israel Museum, Palestine Archaeological Museum, historical interpretation, cultural heritage, exhibitions, cultural dominance, heritage destruction
 author: QuickTakes
 question: >-
     How does Zionism influence archaeological practices and museum curation in Jerusalem?
@@ -22,37 +22,8 @@ answer: >-
 subject: History of the World
 file_name: how-does-zionism-influence-archaeological-practices-and-museum-curation-in-jerusalem.md
 url: /learn/history-of-the-world/questions/how-does-zionism-influence-archaeological-practices-and-museum-curation-in-jerusalem
-score: 9.0
-related_article1:
-    id: 168989
-    title: >-
-        How does Western influence affect archaeological practices in the Middle East?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-western-influence-affect-archaeological-practices-in-the-middle-east
-related_article2:
-    id: 168990
-    title: >-
-        What are the political implications of archaeology in the Middle East?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-political-implications-of-archaeology-in-the-middle-east
-related_article3:
-    id: 168995
-    title: >-
-        What are the economic and political motivations behind heritage destruction?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
-related_article4:
-    id: 168998
-    title: >-
-        How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-palestine-archaeological-museum-shift-its-focus-from-religious-to-cultural-narratives
-related_article5:
-    id: 168995
-    title: >-
-        What are the economic and political motivations behind heritage destruction?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
+score: -1.0
+
 ---
 
 &nbsp;

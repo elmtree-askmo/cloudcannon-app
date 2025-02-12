@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content describes directional selection, a key process in evolutionary biology, explaining how environmental pressures influence the frequency of advantageous traits in populations through examples such as finch beak size during droughts.
+    An overview of directional selection in evolutionary biology, including its process and an example involving finch beak size in response to environmental pressures.
   page_keywords: >-
-    directional selection, evolutionary biology, trait variation, environmental pressure, natural selection, survival, reproduction, finches, beak size, Galápagos Islands, adaptation, phenotype, genetic variation
+    directional selection,evolutionary biology,trait variation,natural selection,beak size,finches,environmental pressure,survival advantage,Galápagos Islands
 author: QuickTakes
 question: >-
     Describe the process of directional selection and provide an example.
@@ -24,35 +24,29 @@ file_name: describe-the-process-of-directional-selection-and-provide-an-example.
 url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 165297
+    id: 165312
     title: >-
-        Define fitness in the context of natural selection and explain its importance.
+        Describe the process of ontogeny and its role in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 related_article2:
+    id: 165308
+    title: >-
+        Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+related_article3:
     id: 165306
     title: >-
         Explain disruptive selection and its potential impact on a species.
     subject: Psychology
     url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
-related_article3:
-    id: 165301
-    title: >-
-        How do environmental factors influence animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
 related_article4:
-    id: 165302
+    id: 165312
     title: >-
-        Explain the interaction between genetic factors and environmental influences on behavior.
+        Describe the process of ontogeny and its role in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
-related_article5:
-    id: 165288
-    title: >-
-        How can understanding animal behavior be applied in research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 ---
 
 &nbsp;

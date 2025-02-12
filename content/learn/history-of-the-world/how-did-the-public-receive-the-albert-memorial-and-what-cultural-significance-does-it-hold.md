@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Albert Memorial, unveiled in 1872 and commissioned by Queen Victoria, holds cultural significance as a tribute to Prince Albert, embodying Victorian ideals through its intricate design and grand scale, representing learning and innovation in 19th-century society.
+    The Albert Memorial, unveiled in 1872 and commissioned by Queen Victoria, received a largely positive public reception and reflects important cultural significance associated with the Victorian era and Prince Albert's legacy.
   page_keywords: >-
-    Albert Memorial, Queen Victoria, Prince Albert, public reception, cultural significance, Victorian era, Gothic Revival, Sir George Gilbert Scott, Kensington Gardens, Royal Albert Hall, Great Exhibition, monument, artistic aspirations, historical tribute, cultural exchange, societal impact
+    Albert Memorial, public reception, cultural significance, Queen Victoria, Prince Albert, Victorian era, design critiques, Sir George Gilbert Scott, Gothic Revival, Kensington Gardens, Royal Albert Hall, Great Exhibition, artistic aspirations, cultural contribution, statue collection
 author: QuickTakes
 question: >-
     How did the public receive the Albert Memorial, and what cultural significance does it hold?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold.md
 url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165925
+    id: 165937
     title: >-
-        How did the Great Exhibition serve as a display of imperial power and colonial narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article2:
-    id: 165926
-    title: >-
-        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
-related_article3:
-    id: 165932
-    title: >-
-        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
-related_article4:
-    id: 165931
-    title: >-
-        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
-related_article5:
     id: 165924
     title: >-
         What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
+related_article3:
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
+related_article4:
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
+related_article5:
+    id: 165927
+    title: >-
+        How was the Crystal Palace received by the public during the Great Exhibition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 ---
 
 &nbsp;

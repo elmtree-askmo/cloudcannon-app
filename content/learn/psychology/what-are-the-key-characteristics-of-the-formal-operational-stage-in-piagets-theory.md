@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of the key characteristics of the formal operational stage in Piaget's theory, highlighting cognitive advancements such as abstract thinking, hypothetical deductive reasoning, and metacognition.
+    The formal operational stage in Piaget's theory marks a significant cognitive advancement characterized by abstract thinking, hypothetical deductive reasoning, and complex problem-solving skills starting from around age 12.
   page_keywords: >-
-    formal operational stage, Piaget's theory, cognitive development, abstract thinking, hypothetical deductive reasoning, propositional thought, adolescent egocentrism, complex problem solving, metacognition, critical thinking, reasoning abilities
+    formal operational stage, Piaget, cognitive development, abstract thinking, hypothetical deductive reasoning, propositional thought, adolescent egocentrism, complex problem solving, metacognition, critical thinking
 author: QuickTakes
 question: >-
     What are the key characteristics of the formal operational stage in Piaget's theory?
@@ -30,29 +30,11 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article2:
-    id: 168001
+    id: 168003
     title: >-
-        List and briefly describe the stages of cognitive development according to Piaget.
+        How does deferred imitation challenge Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
-related_article3:
-    id: 168002
-    title: >-
-        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
-related_article4:
-    id: 168009
-    title: >-
-        What is the Information Processing Theory, and how does it differ from Piaget's approach?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
-related_article5:
-    id: 168002
-    title: >-
-        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
 ---
 
 &nbsp;

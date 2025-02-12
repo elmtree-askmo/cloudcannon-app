@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses the ethical considerations in medication management for nurses, highlighting responsibilities such as patient advocacy, informed consent, confidentiality, professional integrity, competence, collaboration, cultural sensitivity, and risk management.
+    This content discusses the ethical considerations in medication management for nurses, including patient advocacy, informed consent, confidentiality, professional integrity, competence, collaboration, cultural sensitivity, and risk management. It emphasizes the importance of these principles for ensuring patient safety and quality care.
   page_keywords: >-
     ethical considerations, medication management, nurses, patient advocacy, informed consent, confidentiality, professional integrity, competence, accountability, collaboration, communication, cultural sensitivity, risk management
 author: QuickTakes
@@ -30,29 +30,11 @@ related_article1:
     subject: Nursing
     url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
 related_article2:
-    id: 169733
+    id: 169734
     title: >-
-        What are the key risks associated with IV medication administration?
+        How do you calculate the number of drops per minute for an IV infusion?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
-related_article3:
-    id: 169736
-    title: >-
-        What are the potential legal consequences of medication errors in nursing?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
-related_article4:
-    id: 169733
-    title: >-
-        What are the key risks associated with IV medication administration?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
-related_article5:
-    id: 169731
-    title: >-
-        What is the formula for calculating oral medication dosage?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
+    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
 ---
 
 &nbsp;

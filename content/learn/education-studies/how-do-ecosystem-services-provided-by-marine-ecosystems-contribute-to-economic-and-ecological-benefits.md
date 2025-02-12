@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the various ecosystem services provided by marine ecosystems, including their economic and ecological benefits. It explores provisioning, regulating, cultural, and supporting services and the importance of sustainable management to preserve these critical resources.
+    This content discusses the various ecosystem services provided by marine ecosystems, highlighting their contributions to economic and ecological benefits, including food sources, coastal protection, recreational opportunities, and biodiversity support.
   page_keywords: >-
-    ecosystem services, marine ecosystems, economic benefits, ecological benefits, provisioning services, regulating services, cultural services, supporting services, biodiversity, sustainable management, climate regulation, food security, coastal protection, conservation, overfishing, pollution, fisheries, aquaculture
+    ecosystem services, marine ecosystems, economic benefits, ecological benefits, provisioning services, regulating services, cultural services, supporting services, biodiversity, coastal protection, climate regulation, tourism, food security, conservation, sustainable management, ecological balance
 author: QuickTakes
 question: >-
     How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
@@ -24,35 +24,35 @@ file_name: how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to
 url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
 score: -1.0
 related_article1:
-    id: 168152
+    id: 168153
     title: >-
-        What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-why-is-repeatability-important-in-science
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article2:
-    id: 168154
+    id: 168153
     title: >-
-        What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article3:
-    id: 168159
+    id: 168157
     title: >-
-        How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+        What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
 related_article4:
-    id: 168159
+    id: 168153
     title: >-
-        How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article5:
-    id: 168149
+    id: 168153
     title: >-
-        How do local and global impacts of human activities differ in the context of the Anthropocene?
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 ---
 
 &nbsp;

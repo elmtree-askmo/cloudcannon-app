@@ -1,98 +1,78 @@
 export const TOP_QUESTIONS_SUBJECTS = [
   {
-    "title": "Architecture",
-    "key": "architecture"
+      "title": "Accounting and Finance",
+      "key": "accounting-and-finance"
   },
   {
-    "title": "Art History and Literature",
-    "key": "art-history-and-literature"
+      "title": "Art History and Literature",
+      "key": "art-history-and-literature"
   },
   {
-    "title": "Biochemistry",
-    "key": "biochemistry"
+      "title": "Biotechnology",
+      "key": "biotechnology"
   },
   {
-    "title": "Biology",
-    "key": "biology"
+      "title": "Business and Management",
+      "key": "business-and-management"
   },
   {
-    "title": "Biotechnology",
-    "key": "biotechnology"
+      "title": "Chemistry",
+      "key": "chemistry"
   },
   {
-    "title": "Chemistry",
-    "key": "chemistry"
+      "title": "Computer Science",
+      "key": "computer-science"
   },
   {
-    "title": "Computer Science",
-    "key": "computer-science"
+      "title": "Criminal or Civil Law",
+      "key": "criminal-or-civil-law"
   },
   {
-    "title": "Criminal or Civil Law",
-    "key": "criminal-or-civil-law"
+      "title": "Economics",
+      "key": "economics"
   },
   {
-    "title": "Economics",
-    "key": "economics"
+      "title": "Education Studies",
+      "key": "education-studies"
   },
   {
-    "title": "Education Studies",
-    "key": "education-studies"
+      "title": "Engineering",
+      "key": "engineering"
   },
   {
-    "title": "Engineering",
-    "key": "engineering"
+      "title": "Health Studies",
+      "key": "health-studies"
   },
   {
-    "title": "Environmental Science",
-    "key": "environmental-science"
+      "title": "History of the World",
+      "key": "history-of-the-world"
   },
   {
-    "title": "Health Studies",
-    "key": "health-studies"
+      "title": "Mathematics",
+      "key": "mathematics"
   },
   {
-    "title": "History of the World",
-    "key": "history-of-the-world"
+      "title": "Medicine",
+      "key": "medicine"
   },
   {
-    "title": "Marine Biology",
-    "key": "marine-biology"
+      "title": "Nursing",
+      "key": "nursing"
   },
   {
-    "title": "Mathematics",
-    "key": "mathematics"
+      "title": "Philosophy and Greek Myths",
+      "key": "philosophy-and-greek-myths"
   },
   {
-    "title": "Medicine",
-    "key": "medicine"
+      "title": "Physics",
+      "key": "physics"
   },
   {
-    "title": "Nursing",
-    "key": "nursing"
+      "title": "Psychology",
+      "key": "psychology"
   },
   {
-    "title": "Others",
-    "key": "others"
+      "title": "Sociology",
+      "key": "sociology"
   },
-  {
-    "title": "Philosophy and Greek Myths",
-    "key": "philosophy-and-greek-myths"
-  },
-  {
-    "title": "Politics",
-    "key": "politics"
-  },
-  {
-    "title": "Psychology",
-    "key": "psychology"
-  },
-  {
-    "title": "Science",
-    "key": "science"
-  },
-  {
-    "title": "Sociology",
-    "key": "sociology"
-  }
-]
+  ]

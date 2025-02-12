@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Overview of regulations and storage requirements for controlled drugs highlighting the legal framework, compliance protocols, documentation, and effective management to ensure patient safety and prevent misuse.
+    Understanding the regulations and storage requirements for controlled drugs is essential for healthcare facilities to ensure patient safety, compliance with legal laws, and effective management of medications.
   page_keywords: >-
-    controlled drugs, regulations, storage requirements, patient safety, healthcare compliance, Misuse of Drugs Act, documentation, secure storage, environmental conditions, monitoring, training and education, medication management
+    controlled drugs, regulations, storage requirements, patient safety, legal framework, compliance, documentation, secure storage, environmental conditions, monitoring, training, healthcare professionals, medication management
 author: QuickTakes
 question: >-
     What are the regulations and storage requirements for controlled drugs?
@@ -24,35 +24,29 @@ file_name: what-are-the-regulations-and-storage-requirements-for-controlled-drug
 url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 score: -1.0
 related_article1:
-    id: 169747
+    id: 169766
     title: >-
-        What are some management strategies for common bowel and bladder disorders?
+        What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 related_article2:
-    id: 169767
+    id: 169745
     title: >-
-        How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+        What are the nutritional requirements and hydration standards for maintaining health?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article3:
-    id: 169750
+    id: 169766
     title: >-
-        What are the symptoms and treatment options for common mental health disorders?
+        What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 related_article4:
-    id: 169751
+    id: 169745
     title: >-
-        What role do counseling techniques and support systems play in mental health patient support?
+        What are the nutritional requirements and hydration standards for maintaining health?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
-related_article5:
-    id: 169759
-    title: >-
-        How can adverse drug reactions be identified and managed effectively?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    A comparison of local and global variables in Python, focusing on their accessibility and scope within functions and the overall program.
+    This content explains the differences in accessibility between local and global variables in Python, highlighting their scope and how they are managed within functions.
   page_keywords: >-
-    local variables, global variables, accessibility, scope, Python, programming, variable management, function, variable definition
+    local variables,global variables,accessibility,scope,Python programming,variable management,function scope
 author: QuickTakes
 question: >-
     How do local variables differ from global variables in terms of accessibility?
@@ -24,35 +24,35 @@ file_name: how-do-local-variables-differ-from-global-variables-in-terms-of-acces
 url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
 score: -1.0
 related_article1:
-    id: 168599
+    id: 168593
     title: >-
-        How can you provide default values for function parameters in Python?
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article2:
-    id: 168589
+    id: 168591
     title: >-
-        What is the syntax for defining a function in Python?
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article3:
-    id: 168602
-    title: >-
-        What is the purpose of raising exceptions in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
-related_article4:
     id: 168589
     title: >-
         What is the syntax for defining a function in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
-related_article5:
-    id: 168607
+related_article4:
+    id: 168592
     title: >-
-        What is modular programming and how does it enhance reusability?
+        How can you use the math module to calculate the square root of a number?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+related_article5:
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

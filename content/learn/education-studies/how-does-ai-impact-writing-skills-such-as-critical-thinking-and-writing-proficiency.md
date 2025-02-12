@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the impact of AI on writing skills, highlighting the balance between enhancing writing efficiency and the potential diminishment of critical thinking and writing proficiency.
+    This content explores the impact of AI on writing skills, emphasizing the importance of balancing AI assistance with the development of critical thinking and writing proficiency.
   page_keywords: >-
-    AI impact, writing skills, critical thinking, writing proficiency, writing efficiency, grammar checkers, content generators, cognitive processes, ethical concerns, academic integrity, originality, plagiarism, educational context, independent writing, AI tools, academic success, personal growth
+    AI, writing skills, critical thinking, writing proficiency, grammar checkers, content generators, writing efficiency, cognitive processes, academic integrity, plagiarism, educational contexts, original work, AI tools, ethical concerns
 author: QuickTakes
 question: >-
     How does AI impact writing skills such as critical thinking and writing proficiency?
@@ -24,29 +24,29 @@ file_name: how-does-ai-impact-writing-skills-such-as-critical-thinking-and-writi
 url: /learn/education-studies/questions/how-does-ai-impact-writing-skills-such-as-critical-thinking-and-writing-proficiency
 score: -1.0
 related_article1:
-    id: 168165
+    id: 168170
     title: >-
-        What are the psychological mechanisms that suggest animals have interior lives?
+        How does the 'They Say, I Say' framework assist in analyzing arguments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
+    url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
 related_article2:
-    id: 168179
+    id: 168168
     title: >-
-        What are the expectations and guidelines for writing assignments like personal and argumentative essays?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-expectations-and-guidelines-for-writing-assignments-like-personal-and-argumentative-essays
+        How does the stream of consciousness technique help in exploring topics during the writing process?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-stream-of-consciousness-technique-help-in-exploring-topics-during-the-writing-process
 related_article3:
-    id: 168164
+    id: 168168
     title: >-
-        How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
+        How does the stream of consciousness technique help in exploring topics during the writing process?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-stream-of-consciousness-technique-help-in-exploring-topics-during-the-writing-process
 related_article4:
-    id: 168174
+    id: 168170
     title: >-
-        How do pets provide emotional support and non-judgmental companionship to humans?
+        How does the 'They Say, I Say' framework assist in analyzing arguments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-pets-provide-emotional-support-and-nonjudgmental-companionship-to-humans
+    url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
 related_article5:
     id: 168170
     title: >-

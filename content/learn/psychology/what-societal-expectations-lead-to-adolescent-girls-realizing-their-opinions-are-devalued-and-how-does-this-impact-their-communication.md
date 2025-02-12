@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores how societal expectations lead adolescent girls to realize their opinions are devalued, the impact on their communication styles, and the importance of supportive interventions to help them reclaim their voices.
+    This content explores how societal expectations contribute to adolescent girls' realization that their opinions are devalued, impacting their communication and self-expression, and suggests supportive interventions to empower them.
   page_keywords: >-
-    societal expectations, adolescent girls, communication, cultural norms, loss of voice, relational crisis, assertiveness, self-expression, psychological vulnerability, supportive interventions
+    societal expectations, adolescent girls, devalued opinions, cultural norms, traditional femininity, communication styles, relational crisis, self-expression, psychological vulnerability, empowerment
 author: QuickTakes
 question: >-
     What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
@@ -24,23 +24,35 @@ file_name: what-societal-expectations-lead-to-adolescent-girls-realizing-their-o
 url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 score: -1.0
 related_article1:
-    id: 164197
+    id: 164188
     title: >-
-        How do family involvement and educational interventions play a role in resisting disconnection?
+        How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 related_article2:
-    id: 164196
+    id: 164188
     title: >-
-        What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+        How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
     subject: Psychology
-    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 related_article3:
     id: 164192
     title: >-
         In what ways do cultural stereotypes impact women's self-perception and peer relationships?
     subject: Psychology
     url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
+related_article4:
+    id: 164199
+    title: >-
+        What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
+related_article5:
+    id: 164188
+    title: >-
+        How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 ---
 
 &nbsp;

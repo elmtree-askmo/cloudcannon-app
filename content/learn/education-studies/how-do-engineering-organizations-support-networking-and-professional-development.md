@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses how engineering organizations support networking and professional development through various avenues such as networking events, professional resources, advocacy for standards, community engagement, collaborations, and scholarship opportunities.
+    Engineering organizations support networking and professional development through networking opportunities, training programs, advocacy, and community engagement, enhancing careers and industry standards.
   page_keywords: >-
-    engineering organizations, networking opportunities, professional development, training programs, advocacy, community engagement, scholarships, innovative collaborations, career advancement, skills enhancement
+    engineering organizations, networking opportunities, professional development, training programs, certifications, community engagement, advocacy, innovative collaborations, scholarships, funding opportunities
 author: QuickTakes
 question: >-
     How do engineering organizations support networking and professional development?
@@ -24,35 +24,35 @@ file_name: how-do-engineering-organizations-support-networking-and-professional-
 url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 score: -1.0
 related_article1:
-    id: 166704
+    id: 166696
     title: >-
-        What are the equilibrium conditions in statics?
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article2:
-    id: 166698
+    id: 166696
     title: >-
-        How is the conservation of energy principle applied in rigid body dynamics?
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article3:
-    id: 166721
+    id: 166693
     title: >-
-        How do engineering conferences and workshops contribute to professional growth?
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 related_article4:
-    id: 166703
+    id: 166693
     title: >-
-        What are some engineering applications of torque?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+        How does the right-hand rule help determine the direction of a vector cross product?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 related_article5:
-    id: 166706
+    id: 166713
     title: >-
-        Describe the principle of conservation of energy and its significance in engineering systems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
+        How do consulting companies impact the engineering industry?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-companies-impact-the-engineering-industry
 ---
 
 &nbsp;

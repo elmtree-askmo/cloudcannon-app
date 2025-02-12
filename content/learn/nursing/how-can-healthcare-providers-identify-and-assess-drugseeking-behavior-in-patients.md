@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Strategies for healthcare providers to identify and assess drug-seeking behavior in patients, focusing on observational techniques, patient history evaluations, and effective communication.
+    This content discusses how healthcare providers can identify and assess drug-seeking behavior in patients through observational techniques, patient history evaluations, standardized assessment tools, and ethical considerations.
   page_keywords: >-
-    drug-seeking behavior, healthcare providers, patient history, observational techniques, addiction assessment, pain management, prescription monitoring, patient-centered communication, ethical considerations, withdrawal symptoms, doctor shopping, pain assessment tools
+    drug-seeking behavior, healthcare providers, patient assessment, prescription monitoring, substance use history, pain management strategies, patient communication, ethical considerations, withdrawal symptoms, doctor shopping
 author: QuickTakes
 question: >-
     How can healthcare providers identify and assess drug-seeking behavior in patients?
@@ -23,30 +23,7 @@ subject: Nursing
 file_name: how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients.md
 url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
 score: -1.0
-related_article1:
-    id: 169799
-    title: >-
-        What measures can be taken to ensure patient safety in pain management?
-    subject: Nursing
-    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
-related_article2:
-    id: 169789
-    title: >-
-        Explain how the Numerical Rating Scale is used in pain assessment.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
-related_article3:
-    id: 169797
-    title: >-
-        What is the holistic approach to pain management, and why is it important?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
-related_article4:
-    id: 169789
-    title: >-
-        Explain how the Numerical Rating Scale is used in pain assessment.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
+
 ---
 
 &nbsp;

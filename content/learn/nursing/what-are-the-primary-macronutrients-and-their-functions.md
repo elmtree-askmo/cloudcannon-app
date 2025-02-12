@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content explores the primary macronutrients—carbohydrates, proteins, and fats—detailing their functions in the body, sources, and the importance of maintaining a balanced diet.
+    An overview of the primary macronutrients: carbohydrates, proteins, and fats, along with their functions, sources, and importance in a balanced diet.
   page_keywords: >-
-    macronutrients, carbohydrates, proteins, fats, energy source, tissue repair, enzyme functions, hormone regulation, dietary sources, balanced diet
+    macronutrients, carbohydrates, proteins, fats, energy source, tissue repair, hormones, diet, healthy eating, nutrients, body functions
 author: QuickTakes
 question: >-
     What are the primary macronutrients and their functions?
@@ -27,32 +27,26 @@ related_article1:
     id: 169722
     title: >-
         What are the health impacts of sleep deprivation?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-health-impacts-of-sleep-deprivation
 related_article2:
-    id: 169716
+    id: 169704
     title: >-
-        How do the fallopian tubes facilitate fertilization?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+        What is the structure of a multiple choice question in an exam format?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article3:
-    id: 169716
+    id: 169705
     title: >-
-        How do the fallopian tubes facilitate fertilization?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+        What equipment and materials are required for an IT suite examination?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 related_article4:
-    id: 169714
+    id: 169709
     title: >-
-        How does the esophagus use peristaltic waves to function?
+        What role do the pulmonary artery and vein play in blood circulation?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
-related_article5:
-    id: 169728
-    title: >-
-        How does osteoporosis affect bone density and fracture risk?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163345
+id: 163078
 date: 2025-01-26
 title: >-
     What are the limitations of using crude rates in epidemiological studies?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    An analysis of the limitations of using crude rates in epidemiological studies, highlighting issues such as lack of adjustment for confounding variables, misleading comparisons, and difficulties in reflecting true disease burden.
+    This content discusses the limitations of using crude rates in epidemiological studies, highlighting issues such as lack of adjustment for confounding variables, misleading comparisons, health disparities, and the need for adjusted rates.
   page_keywords: >-
-    crude rates, epidemiology, confounding variables, demographic factors, health disparities, disease burden, adjusted rates, public health interventions, age structure, population comparison
+    crude rates, epidemiological studies, limitations, confounding variables, demographic factors, disease frequency, health disparities, adjusted rates, public health, population health
 author: QuickTakes
 question: >-
     What are the limitations of using crude rates in epidemiological studies?
@@ -24,35 +24,35 @@ file_name: what-are-the-limitations-of-using-crude-rates-in-epidemiological-stud
 url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163077
-    title: >-
-        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
-related_article2:
-    id: 163287
+    id: 163245
     title: >-
         How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+related_article2:
+    id: 163066
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 related_article3:
-    id: 163238
+    id: 163065
     title: >-
-        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
+    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 related_article4:
-    id: 163226
+    id: 163072
     title: >-
-        Why is the denominator important in measures of disease frequency, and how can it vary?
+        What is the relationship between prevalence, incidence rate, and disease duration?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary
+    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
 related_article5:
-    id: 163061
+    id: 163069
     title: >-
-        What is the difference between fixed and dynamic populations in epidemiology?
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 ---
 
 &nbsp;

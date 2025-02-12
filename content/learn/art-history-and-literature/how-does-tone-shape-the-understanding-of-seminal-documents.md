@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content discusses how tone influences the understanding of seminal documents by affecting emotional resonance, establishing authority, ensuring clarity, reflecting historical context, and utilizing rhetorical strategies.
+    This content explores how tone shapes the understanding of seminal documents, highlighting its role in emotional resonance, authority establishment, clarity, historical context, and rhetorical strategies.
   page_keywords: >-
-    tone, seminal documents, emotional resonance, authority, clarity, historical context, rhetorical strategies, Lincoln, King, Gettysburg Address, Letter from Birmingham Jail, Declaration of Independence, civil rights, communication, perception, understanding
+    tone, seminal documents, emotional resonance, authority, clarity, historical context, rhetorical strategies, audience perception, message interpretation, Lincoln, King, Declaration of Independence, civil rights, persuasive language, understanding texts
 author: QuickTakes
 question: >-
     How does tone shape the understanding of seminal documents?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: how-does-tone-shape-the-understanding-of-seminal-documents.md
 url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
-score: 9.0
+score: -1.0
 related_article1:
-    id: 168579
-    title: >-
-        What is the tone of the Gettysburg Address, and how does it contribute to its message?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
-related_article2:
-    id: 168574
-    title: >-
-        How do allusions in historical texts enhance meaning and context?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
-related_article3:
-    id: 168575
-    title: >-
-        What is the role of logical appeals (logos) in the argumentation of seminal documents?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
-related_article4:
-    id: 168572
-    title: >-
-        How does word choice in seminal documents affect tone and meaning?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
-related_article5:
     id: 168573
     title: >-
         What role does sentence structure play in influencing a reader's understanding of seminal documents?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
+related_article2:
+    id: 168567
+    title: >-
+        What historical context surrounds the Gettysburg Address and its impact on American history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-historical-context-surrounds-the-gettysburg-address-and-its-impact-on-american-history
+related_article3:
+    id: 168567
+    title: >-
+        What historical context surrounds the Gettysburg Address and its impact on American history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-historical-context-surrounds-the-gettysburg-address-and-its-impact-on-american-history
+related_article4:
+    id: 168571
+    title: >-
+        What are the legal and social perspectives of justice as depicted in seminal texts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
+related_article5:
+    id: 168568
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 ---
 
 &nbsp;

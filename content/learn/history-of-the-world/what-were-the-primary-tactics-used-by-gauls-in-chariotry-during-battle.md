@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content discusses the primary tactics used by the Gauls in chariotry during battle, highlighting their strategies including mobility, initial ranged attacks, dismounted combat, and psychological warfare.
+    This content explores the primary battle tactics employed by the Gauls in chariotry, highlighting their use of mobility, initial ranged attacks, and hand-to-hand combat, along with their social structure and psychological strategies.
   page_keywords: >-
-    Gauls, chariotry, tactics, warfare, mobility, ranged attacks, hand-to-hand combat, chariot configuration, dismounted combat, social structure, psychological warfare, single combat, trophy display
+    Gauls, chariotry tactics, battlefield tactics, two-horse chariots, mobility, initial ranged attacks, hand-to-hand combat, social structure, psychological warfare, single combat challenges, trophy display, warrior culture
 author: QuickTakes
 question: >-
     What were the primary tactics used by Gauls in chariotry during battle?
@@ -22,19 +22,19 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle.md
 url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
-score: 8.5
+score: -1.0
 related_article1:
-    id: 166077
+    id: 166086
     title: >-
-        What strategies did Gauls employ during the initial engagement in battle using chariots?
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article2:
-    id: 166088
+    id: 166086
     title: >-
-        Explain the class structure of Gaulish society and the roles of free men and warriors.
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-class-structure-of-gaulish-society-and-the-roles-of-free-men-and-warriors
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article3:
     id: 166086
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article4:
-    id: 166078
+    id: 166086
     title: >-
-        Identify the main types of weapons used by the Gauls and their characteristics.
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article5:
-    id: 166076
+    id: 166086
     title: >-
-        Describe the design and function of Gaulish chariots.
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-design-and-function-of-gaulish-chariots
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 ---
 
 &nbsp;

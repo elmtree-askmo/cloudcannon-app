@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The Great Exhibition of 1851 utilized exhibits from colonized regions to showcase colonial wealth, reinforce stereotypes, misrepresent cultures, and legitimize British imperial power, shaping perceptions of colonialism and impacting cultural narratives.
+    The role of exhibits from colonized regions in the Great Exhibition of 1851 highlights the complexities of colonial power dynamics and cultural representation, reinforcing stereotypes and legitimizing British imperialism.
   page_keywords: >-
-    Great Exhibition, colonized regions, colonial wealth, exploitation, cultural representation, stereotypes, cultural appropriation, political implications, British imperial power, legacy of colonial narratives
+    Great Exhibition, colonized regions, colonial wealth, British imperialism, cultural representation, stereotypes, cultural appropriation, misrepresentation, political implications, legacy of colonial narratives
 author: QuickTakes
 question: >-
     What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
@@ -22,31 +22,25 @@ answer: >-
 subject: History of the World
 file_name: what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition.md
 url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165929
+    id: 165932
     title: >-
-        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
+    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 related_article2:
-    id: 165933
-    title: >-
-        What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
-related_article3:
     id: 165921
     title: >-
         How did the Great Exhibition impact technological advancements in society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
-related_article4:
-    id: 165938
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
+related_article3:
+    id: 165927
     title: >-
-        How has the Fons Americanus been interpreted and critiqued by the public and critics?
+        How was the Crystal Palace received by the public during the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
+    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 ---
 
 &nbsp;

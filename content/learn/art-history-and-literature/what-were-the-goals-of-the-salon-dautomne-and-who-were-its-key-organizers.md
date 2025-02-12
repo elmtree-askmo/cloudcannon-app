@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The Salon d’Automne, established in 1903, aimed to promote modern art and facilitate acceptance of new artistic ideas, showcasing diverse styles like Fauvism and Cubism while allowing artists such as Henri Matisse to present their work uniquely.
+    The Salon d’Automne, founded in 1903, aimed to promote modern art and provide a platform for contemporary styles including Fauvism and Cubism, facilitating the acceptance of new artistic ideas through the involvement of key figures like Félix Vallotton, Gaston Bachelard, and Henri Matisse.
   page_keywords: >-
-    Salon d’Automne, goals, contemporary art, inclusive platform, modern art, Fauvism, Cubism, Félix Vallotton, Gaston Bachelard, Henri Matisse, 20th-century art
+    Salon d’Automne, contemporary art, Fauvism, Cubism, modern art, Félix Vallotton, Gaston Bachelard, Henri Matisse, 20th-century art movements, art exhibition
 author: QuickTakes
 question: >-
     What were the goals of the Salon d’Automne, and who were its key organizers?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers.md
 url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165948
+    id: 165941
     title: >-
-        How did the Salon des Independantes contribute to the promotion of diverse art styles?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article2:
-    id: 165950
+    id: 165961
     title: >-
-        How did the Salon d’Automne support the development of Cubism?
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-dautomne-support-the-development-of-cubism
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article3:
-    id: 165942
+    id: 165941
     title: >-
-        How did alternative exhibitions impact the development of new art styles?
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article4:
-    id: 165945
+    id: 165946
     title: >-
-        Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
 related_article5:
-    id: 165952
+    id: 165946
     title: >-
-        How did Claude Monet influence the Impressionist movement?
+        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
 ---
 
 &nbsp;

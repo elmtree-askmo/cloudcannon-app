@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the differences between automatic and controlled processing in relation to unconscious and conscious processes in psychology, highlighting their characteristics and implications for cognitive functioning.
+    This content explains the differences between automatic and controlled processing in relation to unconscious and conscious cognitive processes, highlighting their characteristics, examples, and implications for psychology.
   page_keywords: >-
-    automatic processing, controlled processing, unconscious processes, conscious processes, cognitive functioning, psychology, habitual tasks, cognitive resources, mental fatigue, flexibility, implicit biases, critical thinking, problem-solving, learning, cognitive development
+    automatic processing, controlled processing, cognitive functioning, unconscious processes, conscious processes, characteristics, effortless, habitual, intentionality, resource-intensive, flexible, implicit biases, critical thinking, problem-solving, cognitive development
 author: QuickTakes
 question: >-
     What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes.md
 url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 score: -1.0
-related_article1:
-    id: 164418
-    title: >-
-        What is the difference between independent and dependent variables in experimental methods?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
-related_article2:
-    id: 164428
-    title: >-
-        How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
-related_article3:
-    id: 164432
-    title: >-
-        What impact does cortisol have on memory and learning during stress?
-    subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
-related_article4:
-    id: 164438
-    title: >-
-        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
-    subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
-related_article5:
-    id: 164425
-    title: >-
-        How does stress affect cortisol levels and cognitive performance?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+
 ---
 
 &nbsp;

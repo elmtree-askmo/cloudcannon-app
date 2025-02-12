@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    The voltage drop across a resistor is crucial for circuit performance, impacting power delivery, efficiency, heat generation, circuit design, and safety in electrical systems.
+    This content discusses the impact of voltage drop across a resistor on electrical circuit performance, including its effects on power delivery, efficiency, heat generation, circuit design, and safety.
   page_keywords: >-
-    voltage drop, resistor, circuit performance, Ohm's Law, power delivery, efficiency, heat generation, circuit design, safety
+    voltage drop, resistor, circuit performance, Ohm's Law, power delivery, efficiency, heat generation, circuit design, safety, electrical circuits
 author: QuickTakes
 question: >-
     How does the voltage drop across a resistor affect circuit performance?
@@ -24,35 +24,35 @@ file_name: how-does-the-voltage-drop-across-a-resistor-affect-circuit-performanc
 url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
 score: -1.0
 related_article1:
-    id: 167947
-    title: >-
-        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
-related_article2:
-    id: 167938
-    title: >-
-        What is Ohm's Law and how is it used to calculate current in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
-related_article3:
-    id: 167943
-    title: >-
-        How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
-related_article4:
     id: 167941
     title: >-
         Describe Kirchhoff's Voltage Law and its application in circuit analysis.
-    subject: Engineering
-    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
-related_article5:
-    id: 167943
+    subject: Physics
+    url: /learn/physics/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
+related_article2:
+    id: 167940
     title: >-
-        How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+        What is the formula for calculating electrical power in a circuit, and what are its units?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
+related_article3:
+    id: 167938
+    title: >-
+        What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Physics
+    url: /learn/physics/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article4:
+    id: 167942
+    title: >-
+        What is the difference between power absorbed and power delivered in resistors?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
+related_article5:
+    id: 167947
+    title: >-
+        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
 ---
 
 &nbsp;

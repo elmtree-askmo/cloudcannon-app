@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This guide explains how to convert a quadratic equation from vertex form to standard form through a systematic process involving expansion and multiplication.
+    This content explains how to convert a quadratic equation from vertex form to standard form with step-by-step instructions and an example.
   page_keywords: >-
-    quadratic equation, vertex form, standard form, conversion, expand, multiply, polynomial, mathematics, algebra, example
+    quadratic equation, vertex form, standard form, convert, algebra, expand, vertex, mathematical process, example, polynomial
 author: QuickTakes
 question: >-
     How do you convert a quadratic equation from vertex form to standard form?
@@ -24,35 +24,35 @@ file_name: how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-
 url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 score: -1.0
 related_article1:
-    id: 163736
+    id: 163729
     title: >-
-        How does symmetry simplify graph analysis?
+        Describe the key features of a quadratic function graph.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-symmetry-simplify-graph-analysis
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 related_article2:
-    id: 163733
+    id: 163735
     title: >-
-        Explain the process of solving quadratic equations.
+        What is the significance of intercepts and vertex in graphing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 related_article3:
-    id: 163739
-    title: >-
-        How can real-world applications of functions be used in business modeling?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
-related_article4:
-    id: 163737
-    title: >-
-        Compare the graphs of linear and non-linear functions.
-    subject: Mathematics
-    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
-related_article5:
     id: 163734
     title: >-
         How is the average rate of change calculated for a function?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article4:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article5:
+    id: 163729
+    title: >-
+        Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 ---
 
 &nbsp;

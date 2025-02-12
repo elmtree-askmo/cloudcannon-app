@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the crucial role of the absence of empathy and guilt in psychopathic behavior, exploring how these emotional deficits influence actions and relationships, leading to antisocial behavior and societal consequences.
+    The absence of empathy and guilt in psychopathy plays a crucial role in shaping behavior, leading to manipulative actions, disregard for social norms, and significant societal impacts.
   page_keywords: >-
-    psychopathy, empathy, guilt, antisocial behavior, emotional deficits, manipulation, societal impact, criminal behavior, remorse, punishment insensitivity
+    psychopathy, empathy, guilt, antisocial behavior, emotional deficits, manipulation, societal impact, criminal behavior, rehabilitation, emotional consequences
 author: QuickTakes
 question: >-
     What role does the absence of empathy and guilt play in psychopathic behavior?
@@ -30,24 +30,12 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 related_article2:
-    id: 163631
+    id: 163632
     title: >-
-        What are the cultural and social criteria used to define abnormal behavior?
+        How does the statistical model of abnormal behavior differ from the medical model?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 related_article3:
-    id: 163630
-    title: >-
-        How do neurodevelopmental disorders influence the juvenile antisocial brain?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
-related_article4:
-    id: 163637
-    title: >-
-        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
-related_article5:
     id: 163637
     title: >-
         What is the societal impact of antisocial behavior in terms of economic and emotional burden?

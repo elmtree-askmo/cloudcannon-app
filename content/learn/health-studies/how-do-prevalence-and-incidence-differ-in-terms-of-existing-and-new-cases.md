@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163335
+id: 163071
 date: 2025-01-26
 title: >-
     How do prevalence and incidence differ in terms of existing and new cases?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Prevalence and incidence are key epidemiological concepts that differ in measuring existing and new cases of diseases, crucial for understanding public health dynamics and resource allocation.
+    This content explains the differences between prevalence and incidence in epidemiology, focusing on existing versus new cases, their definitions, timeframes, interpretations, and provides an illustrative example.
   page_keywords: >-
-    prevalence, incidence, epidemiology, existing cases, new cases, health status, population health, disease measurement, healthcare planning, disease burden
+    prevalence, incidence, epidemiology, existing cases, new cases, health status, disease burden, healthcare planning, disease spread, public health
 author: QuickTakes
 question: >-
     How do prevalence and incidence differ in terms of existing and new cases?
@@ -24,35 +24,35 @@ file_name: how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-c
 url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 score: -1.0
 related_article1:
-    id: 163229
+    id: 163238
     title: >-
-        Why is it crucial to use the correct denominator when calculating a proportion?
+        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
 related_article2:
-    id: 163341
+    id: 163238
     title: >-
-        How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
+    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
 related_article3:
-    id: 163330
+    id: 163238
     title: >-
-        Why is it crucial to use the correct denominator when calculating a proportion?
+        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
 related_article4:
-    id: 163240
+    id: 163070
     title: >-
-        How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
+        Explain the concept of person-time in the context of incidence rate calculation.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
+    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
 related_article5:
-    id: 163066
+    id: 163245
     title: >-
-        Why is it crucial to use the correct denominator when calculating a proportion?
+        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 ---
 
 &nbsp;

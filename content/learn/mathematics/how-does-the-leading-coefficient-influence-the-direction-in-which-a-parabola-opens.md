@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The leading coefficient in a quadratic function influences the direction in which the parabola opens (upwards or downwards) and affects its width.
+    The leading coefficient in a quadratic function determines whether the parabola opens upwards or downwards and influences the width of the parabola.
   page_keywords: >-
-    leading coefficient, parabola, opens upwards, opens downwards, quadratic function, vertex, minimum point, maximum point, width of parabola
+    leading coefficient, parabola, opens upwards, opens downwards, quadratic function, maximum point, minimum point, vertex, width of parabola, absolute value, steepness, orientation
 author: QuickTakes
 question: >-
     How does the leading coefficient influence the direction in which a parabola opens?
@@ -23,36 +23,7 @@ subject: Mathematics
 file_name: how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens.md
 url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
 score: -1.0
-related_article1:
-    id: 163752
-    title: >-
-        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
-related_article2:
-    id: 163749
-    title: >-
-        Describe the basic steps for graphing a quadratic function.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-basic-steps-for-graphing-a-quadratic-function
-related_article3:
-    id: 163743
-    title: >-
-        How does the leading coefficient affect the shape and direction of a parabola?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
-related_article4:
-    id: 163752
-    title: >-
-        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
-related_article5:
-    id: 163745
-    title: >-
-        How can you determine the vertex of a parabola from a quadratic equation in standard form?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
+
 ---
 
 &nbsp;

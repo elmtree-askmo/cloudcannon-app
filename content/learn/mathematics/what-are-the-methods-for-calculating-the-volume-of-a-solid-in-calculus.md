@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    An overview of various methods in calculus for calculating the volume of solids, including double and triple integrals, cylindrical and spherical coordinates, and techniques for solids of revolution such as disk, washer, and shell methods.
+    This content discusses various methods for calculating the volume of solids in calculus, including double and triple integrals, cylindrical and spherical coordinates, as well as techniques for solids of revolution like the disk, washer, and shell methods.
   page_keywords: >-
-    volume calculation, calculus, double integrals, triple integrals, cylindrical coordinates, spherical coordinates, disk method, washer method, shell method, solids of revolution
+    volume, solid, calculus, double integrals, triple integrals, cylindrical coordinates, spherical coordinates, disk method, washer method, shell method, integration, symmetry
 author: QuickTakes
 question: >-
     What are the methods for calculating the volume of a solid in calculus?
@@ -24,35 +24,35 @@ file_name: what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculu
 url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 score: -1.0
 related_article1:
-    id: 168334
+    id: 168335
     title: >-
-        Explain the concept of a definite integral and its geometric interpretation.
+        What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article2:
+    id: 168340
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article3:
     id: 168333
     title: >-
         What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
-related_article3:
-    id: 168330
-    title: >-
-        Describe the geometric interpretation of a derivative.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 related_article4:
-    id: 168331
+    id: 168339
     title: >-
-        What is the product rule for derivatives and how is it applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+        Differentiate between scalar fields and vector fields with examples.
+    subject: Physics
+    url: /learn/physics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 related_article5:
-    id: 168328
+    id: 168332
     title: >-
-        Explain the concept of one-sided limits and provide an example.
+        How do you calculate the instantaneous rate of change of a function at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---
 
 &nbsp;

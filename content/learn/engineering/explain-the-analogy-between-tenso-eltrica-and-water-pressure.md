@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content explains the analogy between electric voltage and water pressure, illustrating how both act as driving forces in their respective systems and how they interact with resistance.
+    This content explains the analogy between electric voltage and water pressure, highlighting how voltage drives current in electrical circuits similar to how water pressure pushes water through pipes.
   page_keywords: >-
-    tensão elétrica, water pressure, electric voltage, plumbing, current flow, resistance, Ohm's Law, volts, electrical circuits, hydraulic analogy
+    tensão elétrica, electric voltage, water pressure, electrical circuits, current flow, potential difference, plumbing system, resistance, Ohm's Law, voltage analogy, driving force, electricity principles
 author: QuickTakes
 question: >-
     Explain the analogy between tensão elétrica and water pressure.
@@ -24,35 +24,29 @@ file_name: explain-the-analogy-between-tenso-eltrica-and-water-pressure.md
 url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 score: -1.0
 related_article1:
-    id: 169834
-    title: >-
-        How can corrente elétrica be compared to a hydraulic system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
-related_article2:
-    id: 169825
-    title: >-
-        What is a bipolo elétrico and what are some examples of it?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
-related_article3:
     id: 169826
     title: >-
         How can a bipolo elétrico be compared to a plumbing system?
+    subject: Physics
+    url: /learn/physics/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article2:
+    id: 169836
+    title: >-
+        Describe the analogy between potência elétrica and an electric shower.
+    subject: Physics
+    url: /learn/physics/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
+related_article3:
+    id: 169841
+    title: >-
+        What are the main components of a circuito elétrico?
     subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 related_article4:
-    id: 169840
+    id: 169838
     title: >-
-        How does resistência affect the flow of corrente in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
-related_article5:
-    id: 169830
-    title: >-
-        How does a malha differ from a laço in terms of internal paths?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+    subject: Physics
+    url: /learn/physics/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 ---
 
 &nbsp;

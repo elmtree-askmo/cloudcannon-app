@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how social interactions influence cognitive development according to Piaget's theory and critiques, emphasizing the roles of peer interactions, adult guidance, and cultural context in shaping cognitive abilities.
+    This content discusses how social interactions influence cognitive development according to Piaget, highlighting the role of peer interactions, adult guidance, cultural context, and moral development.
   page_keywords: >-
-    social interactions, cognitive development, Piaget, peer interactions, adult influence, cultural context, Vygotsky, moral development, assimilation, accommodation
+    social interactions, cognitive development, Piaget, peer interactions, adult influence, cultural context, Vygotsky, moral reasoning, assimilation, accommodation
 author: QuickTakes
 question: >-
     How do social interactions influence cognitive development according to Piaget?
@@ -24,23 +24,23 @@ file_name: how-do-social-interactions-influence-cognitive-development-according-
 url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 score: -1.0
 related_article1:
-    id: 168004
+    id: 168002
     title: >-
-        Explain the concept of conservation skills and their role in Piaget's theory.
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article2:
-    id: 167996
+    id: 168002
     title: >-
-        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article3:
-    id: 168008
+    id: 168002
     title: >-
-        Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
-    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article4:
     id: 167994
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 related_article5:
-    id: 167998
+    id: 167994
     title: >-
-        Define ecocentrism and its components, such as the imaginary audience and personal fable.
+        What are the key characteristics of the formal operational stage in Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 ---
 
 &nbsp;

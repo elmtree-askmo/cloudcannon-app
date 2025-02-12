@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn how to create custom exceptions in Python by subclassing the built-in Exception class, adding attributes, and handling errors gracefully.
+    Learn how to create custom exceptions in Python by subclassing the Exception class, adding custom attributes, raising exceptions, and handling errors gracefully.
   page_keywords: >-
-    custom exceptions, Python, subclassing, Exception class, error handling, InvalidAgeException, raise statement, try except block, organize exceptions, out of stock, e-commerce
+    custom exceptions, Python, Exception class, error handling, subclassing, InvalidAgeException, raise statement, try...except block, best practices, OutOfStockError, e-commerce inventory system
 author: QuickTakes
 question: >-
     How can custom exceptions be created in Python?
@@ -24,35 +24,35 @@ file_name: how-can-custom-exceptions-be-created-in-python.md
 url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 score: -1.0
 related_article1:
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+related_article2:
+    id: 168601
+    title: >-
+        How can you access a function's docstring in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+related_article3:
     id: 168597
     title: >-
         How can you handle a specific error type using a try...except block?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
-related_article2:
-    id: 168588
-    title: >-
-        How does object-oriented programming contribute to software reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
-related_article3:
-    id: 168595
-    title: >-
-        How do local variables differ from global variables in terms of accessibility?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
 related_article4:
-    id: 168590
+    id: 168602
     title: >-
-        How do you call a function with parameters in Python?
+        What is the purpose of raising exceptions in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
 related_article5:
-    id: 168599
+    id: 168587
     title: >-
-        How can you provide default values for function parameters in Python?
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 ---
 
 &nbsp;

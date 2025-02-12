@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses how epistemological claims influence knowledge production in research, affecting the nature of knowledge, research design, data collection methods, interpretation of findings, and ethical considerations.
+    This content explores how epistemological claims shape knowledge production in research, influencing aspects like research design, methodology, data collection, interpretation of findings, and ethical considerations. It highlights the impact of different epistemological perspectives on knowledge validity and social processes.
   page_keywords: >-
-    epistemology, knowledge production, research methodology, qualitative research, quantitative research, constructivism, positivism, data collection, research ethics, social justice, interpretation of findings
+    epistemology, knowledge production, research methodology, qualitative research, quantitative research, interpretation of findings, ethical considerations, social justice, constructivism, positivism
 author: QuickTakes
 question: >-
     How do epistemological claims influence knowledge production in research?
@@ -24,35 +24,35 @@ file_name: how-do-epistemological-claims-influence-knowledge-production-in-resea
 url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
 score: -1.0
 related_article1:
-    id: 163670
-    title: >-
-        What is the historical context of settler colonialism and its impact on Indigenous communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
-related_article2:
     id: 163671
     title: >-
         What are the key components of a research strategy in methodology?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
-related_article3:
-    id: 163659
+related_article2:
+    id: 163662
     title: >-
-        How does thematic analysis differ from coding in qualitative data analysis?
+        What role does critical criminology play in understanding the criminalization of Indigenous people?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
+    url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
+related_article3:
+    id: 163662
+    title: >-
+        What role does critical criminology play in understanding the criminalization of Indigenous people?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
 related_article4:
     id: 163672
     title: >-
         How does primary data collection differ from secondary data analysis in research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 related_article5:
-    id: 163661
+    id: 163669
     title: >-
-        How do social inequalities manifest within social hierarchies?
+        How do race, class, and gender influence social relations and outcomes of social processes?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 ---
 
 &nbsp;

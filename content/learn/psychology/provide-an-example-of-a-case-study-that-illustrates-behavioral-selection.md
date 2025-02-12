@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    A notable case study illustrating behavioral selection through the long-term experiment on Russian foxes, focusing on selective breeding for tameness and its implications on behavior and genetics.
+    This case study details the long-term experiment on Russian foxes that illustrates behavioral selection through selective breeding for tameness, showcasing the impact of selective pressures on behavior and physical traits.
   page_keywords: >-
-    behavioral selection,russian foxes,selective breeding,tameness,animal behavior,phenotypic changes,domestication,evolution,genetics,Institute of Cytology and Genetics
+    Russian foxes, behavioral selection, selective breeding, tameness, Vulpes vulpes, Institute of Cytology and Genetics, domestication, genetics, phenotypic changes, evolution
 author: QuickTakes
 question: >-
     Provide an example of a case study that illustrates behavioral selection.
@@ -24,35 +24,35 @@ file_name: provide-an-example-of-a-case-study-that-illustrates-behavioral-select
 url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 score: -1.0
 related_article1:
-    id: 165307
+    id: 165312
     title: >-
-        How does behavioral selection influence animal populations?
+        Describe the process of ontogeny and its role in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 related_article2:
-    id: 165301
+    id: 165294
     title: >-
-        How do environmental factors influence animal behavior?
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 related_article3:
-    id: 165289
+    id: 165293
     title: >-
-        What are Tinbergen's four questions and how do they help in studying animal behavior?
+        What role does individual learning play in the development of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 related_article4:
-    id: 165290
+    id: 165306
     title: >-
-        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+        Explain disruptive selection and its potential impact on a species.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 related_article5:
-    id: 165298
+    id: 165294
     title: >-
-        What is the difference between phenotype and genotype, and how do they relate to natural selection?
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 ---
 
 &nbsp;

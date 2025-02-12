@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the primary roles of the prefrontal cortex in behavior and working memory, highlighting its importance in decision-making, executive functions, and social interactions.
+    This content discusses the critical roles of the prefrontal cortex in decision-making and working memory, emphasizing its impact on behavior, cognitive functions, and personality changes following damage.
   page_keywords: >-
-    prefrontal cortex, decision-making, working memory, executive functions, social behavior, cognitive flexibility, personality changes, impulsive behavior, cognitive tasks, information processing
+    prefrontal cortex, behavior, working memory, decision-making, cognitive functions, executive functions, social behavior, cognitive flexibility, personality changes, impulse control
 author: QuickTakes
 question: >-
     What are the primary roles of the prefrontal cortex in behavior and working memory?
@@ -24,11 +24,11 @@ file_name: what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-w
 url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 score: -1.0
 related_article1:
-    id: 170525
+    id: 170532
     title: >-
-        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+        What are the primary symptoms of Parkinson's disease, and what treatments are available?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
 related_article2:
     id: 170527
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Psychology
     url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 related_article3:
-    id: 170526
+    id: 170527
     title: >-
-        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
     subject: Psychology
-    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 related_article4:
-    id: 170542
+    id: 170530
     title: >-
-        What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article5:
-    id: 170529
+    id: 170530
     title: >-
-        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 ---
 
 &nbsp;

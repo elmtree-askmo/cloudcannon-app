@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Human activities significantly impact the environment through pollution, habitat destruction, and climate change, while conservation efforts focus on protected areas, sustainable practices, and community engagement to preserve biodiversity.
+    Human activities greatly impact the environment, causing pollution, habitat destruction, and climate change. Conservation efforts such as protected areas, sustainable practices, and community engagement aim to mitigate these impacts and preserve biodiversity.
   page_keywords: >-
-    human activities, environmental impact, pollution, habitat destruction, climate change, overfishing, invasive species, conservation efforts, protected areas, sustainable practices, ecological restoration, legislation, community engagement, research, biodiversity
+    environmental impact, human activities, conservation efforts, pollution, habitat destruction, climate change, overfishing, resource depletion, invasive species, hydrological changes, protected areas, sustainable practices, restoration projects, legislation, community engagement, research and monitoring
 author: QuickTakes
 question: >-
     How do human activities impact the environment and what are some conservation efforts?
@@ -24,35 +24,35 @@ file_name: how-do-human-activities-impact-the-environment-and-what-are-some-cons
 url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
 score: -1.0
 related_article1:
-    id: 166206
+    id: 166199
     title: >-
-        How do structural adaptations enhance an organism's survival in its environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+        What are the main components of the human cardiovascular system and their functions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 related_article2:
-    id: 166206
+    id: 166193
     title: >-
-        How do structural adaptations enhance an organism's survival in its environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+        How does natural selection lead to adaptations in species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-selection-lead-to-adaptations-in-species
 related_article3:
-    id: 166201
+    id: 166190
     title: >-
-        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
+        Describe the structure of DNA and its role in genetic inheritance.
+    subject: Medicine
+    url: /learn/medicine/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
 related_article4:
-    id: 166211
+    id: 166199
     title: >-
-        What are the main components of the visual system in sensory systems?
+        What are the main components of the human cardiovascular system and their functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 related_article5:
-    id: 166189
+    id: 166193
     title: >-
-        How do red blood cells and white blood cells differ in structure and function?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+        How does natural selection lead to adaptations in species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-selection-lead-to-adaptations-in-species
 ---
 
 &nbsp;

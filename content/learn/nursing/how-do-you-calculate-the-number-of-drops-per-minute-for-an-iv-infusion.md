@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Learn how to calculate the number of drops per minute for IV infusion using the volume of infusion, drop factor, and infusion time.
+    This content explains how to calculate the number of drops per minute for an IV infusion, detailing the formula, steps, and importance of accurate calculations in patient care.
   page_keywords: >-
-    IV infusion, drops per minute, calculation, volume of infusion, drop factor, drip set, formula, patient safety, medication administration
+    IV infusion, drops per minute, calculate IV rate, drop factor, infusion volume, IV drip set, medical calculations, patient care, fluid administration, nursing procedure
 author: QuickTakes
 question: >-
     How do you calculate the number of drops per minute for an IV infusion?
@@ -24,23 +24,23 @@ file_name: how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusio
 url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
 score: -1.0
 related_article1:
-    id: 169733
+    id: 169738
     title: >-
-        What are the key risks associated with IV medication administration?
+        What are the ethical considerations in medication management for nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 related_article2:
-    id: 169735
+    id: 169738
     title: >-
-        What information is essential to understand on a drug label for calculating drug concentration?
+        What are the ethical considerations in medication management for nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 related_article3:
-    id: 169732
+    id: 169738
     title: >-
-        How do you calculate the drop rate for an IV infusion?
+        What are the ethical considerations in medication management for nurses?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 related_article4:
     id: 169738
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 related_article5:
-    id: 169735
+    id: 169738
     title: >-
-        What information is essential to understand on a drug label for calculating drug concentration?
+        What are the ethical considerations in medication management for nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains how Alzheimer's disease leads to attention deficits and memory impairment through neurodegenerative processes that affect brain structures and cognitive functions.
+    This content explores how Alzheimer's disease causes attention deficits and memory impairment through neurodegenerative changes, affecting brain structures and cognitive functions.
   page_keywords: >-
-    Alzheimer's disease, attention deficits, memory impairment, neurodegenerative changes, amyloid plaques, tau tangles, hippocampus, prefrontal cortex, selective attention, divided attention, vigilance, anterograde amnesia, retrograde amnesia, cognitive impairment, executive functioning, language difficulties, stages of Alzheimer's, cognitive decline
+    Alzheimer's disease, attention deficits, memory impairment, neurodegeneration, amyloid plaques, tau tangles, hippocampus, prefrontal cortex, cognitive functions, selective attention, divided attention, sustained attention, anterograde amnesia, retrograde amnesia, executive functioning, language difficulties, stages of Alzheimer's
 author: QuickTakes
 question: >-
     How does Alzheimer's disease lead to attention deficits and memory impairment?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 score: -1.0
-related_article1:
-    id: 164766
-    title: >-
-        How does TMS-induced disruption of the visual cortex affect attention and behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
-related_article2:
-    id: 164769
-    title: >-
-        What is the role of the visual cortex in determining reaction times during attention tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
-related_article3:
-    id: 164749
-    title: >-
-        How does attention allocation affect performance in divided attention tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
-related_article4:
-    id: 164767
-    title: >-
-        What are phosphenes, and how are they related to TMS studies of attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
-related_article5:
-    id: 164746
-    title: >-
-        How does scene schema influence visual search in selective attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160499
-date: 2025-01-24
+id: 160092
+date: 2025-01-23
 title: >-
     How do place and space contribute to regional analysis and regional attributes?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses how place and space contribute to regional analysis by defining unique regional characteristics, examining cultural and economic influences, exploring spatial interactions, and assessing the impact of globalization on regional identities and disparities.
+    This content discusses how place and space are essential in regional analysis, emphasizing their roles in defining regional characteristics, economic influences, spatial interactions, and the impact of globalization on regional identities.
   page_keywords: >-
-    place, space, regional analysis, human geography, regional attributes, cultural influences, economic influences, spatial organization, globalization, regional disparities, development, socio-cultural context, regional identity
+    place, space, regional analysis, regional attributes, human geography, cultural characteristics, economic characteristics, spatial organization, globalization, regional disparities, socio-cultural context
 author: QuickTakes
 question: >-
     How do place and space contribute to regional analysis and regional attributes?
@@ -24,35 +24,35 @@ file_name: how-do-place-and-space-contribute-to-regional-analysis-and-regional-a
 url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 score: -1.0
 related_article1:
-    id: 160631
+    id: 160228
     title: >-
-        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+        Explain the concept of time-space compression and its impact on global connectivity.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 related_article2:
-    id: 160493
+    id: 160082
     title: >-
-        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 related_article3:
+    id: 160228
+    title: >-
+        Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article4:
+    id: 160077
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Economics
+    url: /learn/economics/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article5:
     id: 160233
     title: >-
         How do population distribution and cultural landscapes define human systems in geographic settings?
     subject: Sociology
     url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
-related_article4:
-    id: 160565
-    title: >-
-        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
-related_article5:
-    id: 160564
-    title: >-
-        What is the significance of population distribution and cultural landscapes in human systems?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses how self-awareness impacts decision-making processes, particularly in high-stress environments like healthcare, emphasizing emotional regulation, objective self-assessment, and interpersonal relationships.
+    This content discusses how self-awareness affects decision-making processes, particularly in healthcare, by enhancing emotional regulation, promoting objective self-assessment, enabling informed choices, identifying strengths and weaknesses, and improving interpersonal relationships.
   page_keywords: >-
-    self-awareness, decision-making, emotional regulation, healthcare, objective self-assessment, informed decisions, personal growth, interpersonal relationships, stress management, professional development
+    self-awareness, decision-making, emotional regulation, healthcare, objective self-assessment, informed choices, personal strengths, interpersonal relationships, stress management, professional development
 author: QuickTakes
 question: >-
     How does self-awareness affect decision-making processes?
@@ -24,35 +24,23 @@ file_name: how-does-selfawareness-affect-decisionmaking-processes.md
 url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 score: -1.0
 related_article1:
-    id: 169816
+    id: 169802
     title: >-
-        What is the relationship between self-concept and personal growth?
+        What is the definition of self-reflection and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 related_article2:
-    id: 169807
+    id: 169811
     title: >-
-        How does managing emotions impact decision making?
+        How can reflection models be applied to enhance professional values?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 related_article3:
-    id: 169821
+    id: 169811
     title: >-
-        What are the differences between verbal and non-verbal communication?
+        How can reflection models be applied to enhance professional values?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
-related_article4:
-    id: 169820
-    title: >-
-        What strategies can improve decision-making skills?
-    subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
-related_article5:
-    id: 169804
-    title: >-
-        What is the role of introspection in developing self-awareness?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 ---
 
 &nbsp;

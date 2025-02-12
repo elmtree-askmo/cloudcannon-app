@@ -13,7 +13,7 @@ seo:
   page_description: >-
     This content discusses the three main approaches to studying animal behavior: conceptual, theoretical, and empirical approaches, highlighting their methodologies and significance in understanding animal interactions.
   page_keywords: >-
-    animal behavior, conceptual approaches, theoretical approaches, empirical approaches, research methods, behavioral science, observational studies, experimental methods, evolutionary advantages, data collection
+    animal behavior, conceptual approaches, theoretical approaches, empirical approaches, research methods, observational studies, experimental studies, mathematical models, behavior prediction, evolutionary advantages
 author: QuickTakes
 question: >-
     What are the three main approaches to studying animal behavior?
@@ -24,35 +24,29 @@ file_name: what-are-the-three-main-approaches-to-studying-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 score: -1.0
 related_article1:
-    id: 166415
+    id: 166414
     title: >-
-        Compare artificial selection with natural selection in terms of process and outcomes.
+        How does migration impact genetic diversity and population dynamics?
     subject: Psychology
-    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
 related_article2:
-    id: 166420
+    id: 166400
     title: >-
-        Discuss the role of development in shaping animal behavior.
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 related_article3:
-    id: 166416
+    id: 166403
     title: >-
-        Explain the differences between directional, stabilizing, and disruptive selection.
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 related_article4:
-    id: 166412
+    id: 166414
     title: >-
-        Describe the role of mutation in genetic variation and evolution.
+        How does migration impact genetic diversity and population dynamics?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
-related_article5:
-    id: 166422
-    title: >-
-        What are the fitness benefits of group hunting in animals?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
 ---
 
 &nbsp;

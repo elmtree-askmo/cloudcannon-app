@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of the three types of natural selection: directional selection, stabilizing selection, and disruptive selection, including definitions and examples of each.
+    This content explains the three types of natural selection: directional selection, stabilizing selection, and disruptive selection, detailing their definitions, examples, and effects on population traits and evolution.
   page_keywords: >-
-    natural selection, directional selection, stabilizing selection, disruptive selection, evolution, phenotypes, genetic diversity, adaptive traits, industrial revolution, peppered moth, human birth weight, African seedcracker birds, speciation, fitness, evolution mechanisms
+    natural selection, directional selection, stabilizing selection, disruptive selection, evolution, phenotype, genetic diversity, adaptive traits, peppered moth, human birth weight, African seedcracker birds
 author: QuickTakes
 question: >-
     Identify and explain the three types of natural selection.
@@ -24,35 +24,35 @@ file_name: identify-and-explain-the-three-types-of-natural-selection.md
 url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 score: -1.0
 related_article1:
-    id: 166412
+    id: 166400
     title: >-
-        Describe the role of mutation in genetic variation and evolution.
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 related_article2:
-    id: 166402
+    id: 166405
     title: >-
-        What is cultural transmission and how does it affect animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+        Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 related_article3:
-    id: 166401
+    id: 166405
     title: >-
-        Describe the role of learning in animal behavior and its impact on adaptation.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+        Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 related_article4:
-    id: 166399
+    id: 166400
     title: >-
-        Differentiate between proximate and ultimate explanations in animal behavior.
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 related_article5:
-    id: 166411
+    id: 166418
     title: >-
-        Explain how environmental factors can influence animal behavior and interact with genetics.
+        How does phylogeny contribute to our understanding of evolutionary history?
     subject: Psychology
-    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
 ---
 
 &nbsp;

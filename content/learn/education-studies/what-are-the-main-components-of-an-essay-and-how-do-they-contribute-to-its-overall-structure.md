@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the main components of an essay, including the introduction, thesis statement, body paragraphs, evidence, and conclusion, explaining how each contributes to the overall structure and effectiveness of the essay.
+    This content outlines the main components of an essay, including the introduction, thesis statement, body paragraphs, evidence, and conclusion, explaining their roles in the overall structure and effectiveness of the essay.
   page_keywords: >-
-    essay components,introduction,thesis statement,body paragraphs,evidence,conclusion,structure,writing,critical thinking
+    essay components,introduction,thesis statement,body paragraphs,evidence,conclusion,reflection,critical thinking,essay structure
 author: QuickTakes
 question: >-
     What are the main components of an essay, and how do they contribute to its overall structure?
@@ -27,32 +27,32 @@ related_article1:
     id: 170003
     title: >-
         Why is it important to make essays relevant to others, and how can personal experience contribute to this?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-make-essays-relevant-to-others-and-how-can-personal-experience-contribute-to-this
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-it-important-to-make-essays-relevant-to-others-and-how-can-personal-experience-contribute-to-this
 related_article2:
-    id: 170004
-    title: >-
-        What are the characteristics of formal academic essays, and why is it important to adhere to academic standards?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-formal-academic-essays-and-why-is-it-important-to-adhere-to-academic-standards
-related_article3:
     id: 169996
     title: >-
         What is clustering in writing, and how does it combine brainstorming and organizing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-clustering-in-writing-and-how-does-it-combine-brainstorming-and-organizing
+related_article3:
+    id: 169999
+    title: >-
+        How can setting writing goals improve your writing process and address dissatisfaction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-setting-writing-goals-improve-your-writing-process-and-address-dissatisfaction
 related_article4:
-    id: 170003
+    id: 170004
     title: >-
-        Why is it important to make essays relevant to others, and how can personal experience contribute to this?
+        What are the characteristics of formal academic essays, and why is it important to adhere to academic standards?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-make-essays-relevant-to-others-and-how-can-personal-experience-contribute-to-this
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-formal-academic-essays-and-why-is-it-important-to-adhere-to-academic-standards
 related_article5:
-    id: 169992
+    id: 170004
     title: >-
-        What are some effective brainstorming techniques to generate ideas and overcome writer's block?
+        What are the characteristics of formal academic essays, and why is it important to adhere to academic standards?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-brainstorming-techniques-to-generate-ideas-and-overcome-writers-block
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-formal-academic-essays-and-why-is-it-important-to-adhere-to-academic-standards
 ---
 
 &nbsp;

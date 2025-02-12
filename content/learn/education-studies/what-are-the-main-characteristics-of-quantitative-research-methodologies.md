@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the main characteristics of quantitative research methodologies, highlighting aspects such as objective measurement, statistical analysis, hypothesis testing, and the aim for generalizability in research findings.
+    This content outlines the main characteristics of quantitative research methodologies, highlighting features such as objective measurement, statistical analysis, and hypothesis testing that distinguish them from qualitative approaches.
   page_keywords: >-
-    quantitative research, methodologies, objective measurement, positivism, statistical analysis, hypothesis testing, generalizability, data collection, patterns, deductive reasoning
+    quantitative research, methodologies, objective measurement, positivist ontology, statistical analysis, hypothesis testing, generalizability, structured data collection, relationships and patterns, deductive reasoning
 author: QuickTakes
 question: >-
     What are the main characteristics of quantitative research methodologies?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-characteristics-of-quantitative-research-methodolog
 url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 score: -1.0
 related_article1:
-    id: 163678
+    id: 163688
     title: >-
-        How does inductive reasoning play a role in qualitative research?
+        What ethical considerations must be taken into account in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 related_article2:
-    id: 163680
-    title: >-
-        How is deductive reasoning used in quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
-related_article3:
-    id: 163674
-    title: >-
-        How does positivism differ from social constructivism in terms of ontology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
-related_article4:
     id: 163675
     title: >-
         What is the difference between objective and subjective knowledge in epistemology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
-related_article5:
-    id: 163693
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+related_article3:
+    id: 163682
     title: >-
-        What is holism, and why is it important in qualitative research?
+        What are the key elements of a research design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+related_article4:
+    id: 163673
+    title: >-
+        What is ontology, and why is it important in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
+related_article5:
+    id: 163687
+    title: >-
+        What is the importance of formulating research questions from a research problem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 ---
 
 &nbsp;

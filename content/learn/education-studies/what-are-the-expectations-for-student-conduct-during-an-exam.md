@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the key expectations for student conduct during an exam, including academic integrity, respectful behavior, following instructions, communication protocols, punctuality, handling personal items, and maintaining focus.
+    This content outlines the expectations for student conduct during exams, emphasizing academic integrity, respectful behavior, adherence to instructions, communication protocols, punctuality, policies regarding personal items, and the importance of focus and concentration.
   page_keywords: >-
-    student conduct, exam expectations, academic integrity, respectful behavior, exam instructions, communication, punctuality, personal items, focus and concentration
+    exam conduct, student expectations, academic integrity, respectful behavior, following instructions, effective communication, punctuality, personal items policy, focus and concentration
 author: QuickTakes
 question: >-
     What are the expectations for student conduct during an exam?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: what-are-the-expectations-for-student-conduct-during-an-exam.md
 url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
 score: -1.0
-related_article1:
-    id: 168232
-    title: >-
-        What roles do invigilators play in supervising an exam?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
-related_article2:
-    id: 168233
-    title: >-
-        What criteria are used in the grading rubric for assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
-related_article3:
-    id: 168232
-    title: >-
-        What roles do invigilators play in supervising an exam?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
-related_article4:
-    id: 168233
-    title: >-
-        What criteria are used in the grading rubric for assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
-related_article5:
-    id: 168227
-    title: >-
-        What should be included in pre-exam announcements to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+
 ---
 
 &nbsp;

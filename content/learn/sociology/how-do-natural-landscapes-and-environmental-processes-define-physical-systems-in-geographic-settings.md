@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160510
-date: 2025-01-24
+id: 160102
+date: 2025-01-23
 title: >-
     How do natural landscapes and environmental processes define physical systems in geographic settings?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content explores how natural landscapes and environmental processes shape physical systems within geographic settings, influencing human activities, resource distribution, and community development.
+    This content discusses how natural landscapes and environmental processes shape physical systems in geographic settings, influencing human activities, resource distribution, and sustainability.
   page_keywords: >-
-    natural landscapes, environmental processes, physical systems, geographic settings, climate, geology, ecosystems, human activities, landforms, agriculture, erosion, sedimentation, hydrological cycles, urbanization, biodiversity, environmental management, sustainable development, resource management
+    natural landscapes, environmental processes, physical systems, geographic settings, climate, geology, ecosystems, human activities, spatial organization, erosion, sedimentation, hydrological cycles, landscape formation, urbanization, biodiversity, sustainable development, resource management, interconnectedness, environmental management
 author: QuickTakes
 question: >-
     How do natural landscapes and environmental processes define physical systems in geographic settings?
@@ -24,35 +24,35 @@ file_name: how-do-natural-landscapes-and-environmental-processes-define-physical
 url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 score: -1.0
 related_article1:
-    id: 160223
+    id: 160082
     title: >-
-        How do physical geography and human geography contribute to spatial organization?
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 related_article2:
-    id: 160539
+    id: 160104
     title: >-
-        What are the major approaches in human geography for understanding spatial organization?
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 related_article3:
-    id: 160223
+    id: 160100
     title: >-
-        How do physical geography and human geography contribute to spatial organization?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Economics
+    url: /learn/economics/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 related_article4:
-    id: 160564
+    id: 160088
     title: >-
-        What is the significance of population distribution and cultural landscapes in human systems?
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 related_article5:
-    id: 160493
+    id: 160082
     title: >-
-        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 ---
 
 &nbsp;

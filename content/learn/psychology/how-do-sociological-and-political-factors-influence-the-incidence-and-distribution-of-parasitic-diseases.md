@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how sociological and political factors influence the incidence and distribution of parasitic diseases, highlighting the effects of socioeconomic status, governance, environmental policies, cultural practices, and public health systems.
+    Exploration of how sociological and political factors affect the incidence and distribution of parasitic diseases, focusing on aspects like socioeconomic status, governance, and public health infrastructure.
   page_keywords: >-
-    sociological factors, political factors, parasitic diseases, socioeconomic status, healthcare access, political stability, governance, environmental policies, cultural practices, public health infrastructure, globalization, research funding, disease prevention, healthcare disparities
+    sociological factors, political factors, parasitic diseases, socioeconomic status, political stability, governance, public health, environmental policies, cultural practices, globalization, research funding, healthcare access
 author: QuickTakes
 question: >-
     How do sociological and political factors influence the incidence and distribution of parasitic diseases?
@@ -24,35 +24,29 @@ file_name: how-do-sociological-and-political-factors-influence-the-incidence-and
 url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 score: -1.0
 related_article1:
-    id: 165838
+    id: 165848
     title: >-
-        How do pharmacological interventions target parasite pathways in drug design?
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article2:
-    id: 165843
+    id: 165839
     title: >-
-        What are the ecological consequences of habitat disruption caused by parasites?
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article3:
-    id: 165829
+    id: 165839
     title: >-
-        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article4:
-    id: 165855
+    id: 165839
     title: >-
-        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
-related_article5:
-    id: 165849
-    title: >-
-        What are parasitoids and how do they differ from other parasitic insects?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+        What molecular techniques are advancing research in parasitology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 ---
 
 &nbsp;

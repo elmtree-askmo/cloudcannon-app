@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Prototype drugs in the anti-inflammatory category provide essential reference points for new drug development, shaping therapeutic benchmarks, pharmacokinetic considerations, and guiding innovation to improve safety and efficacy.
+    Prototype drugs in the anti-inflammatory category serve as crucial reference points for the development of newer medications by establishing benchmarks for therapeutic action, guiding pharmacokinetic and pharmacodynamic considerations, identifying potential adverse effects, and encouraging innovation in drug design.
   page_keywords: >-
-    prototype drugs, anti-inflammatory drugs, drug development, pharmacokinetics, pharmacodynamics, therapeutic action, adverse effects, NSAIDs, innovation, drug comparisons
+    prototype drugs, anti-inflammatory drugs, therapeutic action, pharmacokinetics, pharmacodynamics, adverse effects, drug development, NSAIDs, aspirin, ibuprofen, COX-2 inhibitors, drug class comparisons, innovation, drug efficacy
 author: QuickTakes
 question: >-
     How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
@@ -24,17 +24,17 @@ file_name: how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-refe
 url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 score: -1.0
 related_article1:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article2:
     id: 166441
     title: >-
         What role do mu receptors play in pain relief mechanisms?
     subject: Nursing
     url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
-related_article2:
-    id: 166443
-    title: >-
-        What is the mechanism of action for common anti-inflammatory drugs?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
 related_article3:
     id: 166449
     title: >-
@@ -42,17 +42,17 @@ related_article3:
     subject: Nursing
     url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 related_article4:
-    id: 166446
+    id: 166441
     title: >-
-        What distinguishes mild agonist medications from strong agonist medications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+        What role do mu receptors play in pain relief mechanisms?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
 related_article5:
     id: 166449
     title: >-
         How are controlled substances categorized based on their potential for abuse?
-    subject: Nursing
-    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+    subject: Medicine
+    url: /learn/medicine/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 ---
 
 &nbsp;

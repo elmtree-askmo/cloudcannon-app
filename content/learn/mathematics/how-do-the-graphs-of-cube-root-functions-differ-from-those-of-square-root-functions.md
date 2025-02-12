@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the differences between cube root functions and square root functions, focusing on their domains, ranges, symmetry, graph shapes, and behaviors at extremes.
+    This content explains the differences between cube root functions and square root functions, focusing on their domains, ranges, graph shapes, symmetry, and behavior at extremes.
   page_keywords: >-
-    cube root functions, square root functions, domain, range, graph differences, symmetry, behavior, mathematical properties, increasing functions, real numbers
+    cube root function, square root function, domain, range, graph shape, symmetry, behavior, mathematical properties, continuous function, increasing function
 author: QuickTakes
 question: >-
     How do the graphs of cube root functions differ from those of square root functions?
@@ -24,35 +24,35 @@ file_name: how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-
 url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 score: -1.0
 related_article1:
-    id: 163751
+    id: 163780
     title: >-
-        What are the domain and range characteristics of cube root functions?
+        What does it mean for a function to be continuous?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 related_article2:
-    id: 163759
+    id: 163780
     title: >-
-        Why do cube root functions lack minimum and maximum values?
+        What does it mean for a function to be continuous?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 related_article3:
-    id: 163771
+    id: 163748
     title: >-
-        What is the shape and direction of a typical cube root graph?
+        What steps are involved in graphing a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 related_article4:
-    id: 163772
+    id: 163748
     title: >-
-        Which quadrants are typically covered by cube root graphs?
+        What steps are involved in graphing a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 related_article5:
-    id: 163779
+    id: 163748
     title: >-
-        How do reflections across axes transform cube root functions?
+        What steps are involved in graphing a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 ---
 
 &nbsp;

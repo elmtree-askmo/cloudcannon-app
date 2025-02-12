@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the expectations and guidelines for writing personal and argumentative essays, highlighting their purposes, styles, structures, and general writing principles for effective academic assignments.
+    This content outlines the expectations and guidelines for writing personal and argumentative essays, highlighting their purposes, styles, structures, and general writing principles.
   page_keywords: >-
-    writing, personal essays, argumentative essays, guidelines, structure, expectations, critical thinking, originality, emotional connection, persuasive writing
+    personal essays, argumentative essays, essay writing guidelines, narrative-driven writing, emotional connection, thesis statement, persuasive writing, critical thinking, originality, academic integrity
 author: QuickTakes
 question: >-
     What are the expectations and guidelines for writing assignments like personal and argumentative essays?
@@ -24,35 +24,35 @@ file_name: what-are-the-expectations-and-guidelines-for-writing-assignments-like
 url: /learn/education-studies/questions/what-are-the-expectations-and-guidelines-for-writing-assignments-like-personal-and-argumentative-essays
 score: -1.0
 related_article1:
-    id: 168164
+    id: 168176
     title: >-
-        How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
+        How do narrative techniques like storytelling and scene recreation enhance writing?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-narrative-techniques-like-storytelling-and-scene-recreation-enhance-writing
 related_article2:
-    id: 168173
+    id: 168170
     title: >-
-        What is the importance of connecting personal stories to broader issues in investigative writing?
+        How does the 'They Say, I Say' framework assist in analyzing arguments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-connecting-personal-stories-to-broader-issues-in-investigative-writing
+    url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
 related_article3:
-    id: 168171
+    id: 168175
     title: >-
-        What is the significance of generative writing in the creative process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-generative-writing-in-the-creative-process
+        What are the ethical considerations involved in the human-animal connection?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-ethical-considerations-involved-in-the-humananimal-connection
 related_article4:
-    id: 168173
+    id: 168163
     title: >-
-        What is the importance of connecting personal stories to broader issues in investigative writing?
+        What are the key components of an effective attendance policy in a classroom setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-connecting-personal-stories-to-broader-issues-in-investigative-writing
+    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-attendance-policy-in-a-classroom-setting
 related_article5:
-    id: 168172
+    id: 168165
     title: >-
-        How does the definition of an essay as an 'attempt' influence its structure and purpose?
+        What are the psychological mechanisms that suggest animals have interior lives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-definition-of-an-essay-as-an-attempt-influence-its-structure-and-purpose
+    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
 ---
 
 &nbsp;

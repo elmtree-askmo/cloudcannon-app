@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    An explanation of broadcast domains and the role of routers in managing them, focusing on how routers separate networks and control broadcast message propagation.
+    This content explains what a broadcast domain is, how devices communicate within it, and the significant role routers play in managing these domains to control network traffic.
   page_keywords: >-
-    broadcast domain, routers, network traffic, local area network, LAN, broadcast messages, network management, traffic control, network segmentation, security
+    broadcast domain, routers, network traffic, local area network, broadcast messages, network management, network performance, broadcast traffic, security, network segmentation
 author: QuickTakes
 question: >-
     What is a broadcast domain and how do routers affect them?
@@ -24,35 +24,35 @@ file_name: what-is-a-broadcast-domain-and-how-do-routers-affect-them.md
 url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 score: -1.0
 related_article1:
-    id: 165736
+    id: 165729
     title: >-
-        What strategies can be used to minimize unused addresses in a subnet?
+        What are the differences between common subnet masks such as /8, /16, and /24?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
+    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
 related_article2:
-    id: 165734
-    title: >-
-        What role do security policies play in managing network traffic between subnets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
-related_article3:
-    id: 165734
-    title: >-
-        What role do security policies play in managing network traffic between subnets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
-related_article4:
     id: 165723
     title: >-
         How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
-related_article5:
-    id: 165736
+related_article3:
+    id: 165735
     title: >-
-        What strategies can be used to minimize unused addresses in a subnet?
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
+    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
+related_article4:
+    id: 165729
+    title: >-
+        What are the differences between common subnet masks such as /8, /16, and /24?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
+related_article5:
+    id: 165735
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 ---
 
 &nbsp;

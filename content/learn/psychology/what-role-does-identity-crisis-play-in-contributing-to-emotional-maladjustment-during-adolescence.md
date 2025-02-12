@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the role of identity crisis in emotional maladjustment during adolescence, explaining Erik Erikson's theory of psychosocial development, James Marcia's identity statuses, and the impact of identity exploration on emotional well-being.
+    This content explores the impact of identity crisis on emotional maladjustment during adolescence, highlighting Erik Erikson's and James Marcia's theories on identity formation and the various statuses adolescents can experience.
   page_keywords: >-
-    identity crisis, adolescence, emotional maladjustment, self-discovery, Erik Erikson, psychosocial development, identity formation, identity statuses, identity diffusion, identity foreclosure, identity moratorium, identity achievement, emotional instability, psychological issues, G. Stanley Hall, storm and stress, mental health support
+    identity crisis, emotional maladjustment, adolescence, identity formation, self-discovery, Erik Erikson, psychosocial development, identity statuses, identity diffusion, identity foreclosure, identity moratorium, identity achievement, emotional instability, confusion, mental health, G. Stanley Hall, storm and stress, psychological issues, support
 author: QuickTakes
 question: >-
     What role does identity crisis play in contributing to emotional maladjustment during adolescence?
@@ -24,35 +24,11 @@ file_name: what-role-does-identity-crisis-play-in-contributing-to-emotional-mala
 url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 score: -1.0
 related_article1:
-    id: 164125
+    id: 164124
     title: >-
-        Why are support systems crucial in addressing psychological issues in adolescents?
+        What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
-related_article2:
-    id: 164120
-    title: >-
-        How does identity foreclosure differ from identity achievement in Marcia's framework?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
-related_article3:
-    id: 164122
-    title: >-
-        How does Hall's concept of 'storm and stress' relate to emotional maladjustment in adolescence?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
-related_article4:
-    id: 164120
-    title: >-
-        How does identity foreclosure differ from identity achievement in Marcia's framework?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
-related_article5:
-    id: 164117
-    title: >-
-        Why is adolescence considered a critical stage in Erikson's theory of identity development?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 ---
 
 &nbsp;

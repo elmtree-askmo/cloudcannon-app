@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Phylogeny contributes to our understanding of evolutionary history by illustrating species relationships and their divergence from common ancestors through phylogenetic trees, helping examine adaptations and behavioral evolution.
+    Phylogeny aids the understanding of evolutionary history by illustrating species relationships, tracing evolutionary lineages, analyzing adaptations, and studying behavioral evolution through phylogenetic trees.
   page_keywords: >-
-    phylogeny,evolutionary history,phylogenetic trees,species relationships,evolutionary pathways,common ancestors,adaptation,trait evolution,behavioral evolution,genetic analysis,morphological data,fitness,natural selection
+    phylogeny, evolutionary history, species relationships, phylogenetic trees, common ancestors, evolutionary lineages, adaptation, behavioral evolution, Tinbergen's questions, genetic analysis, morphological data, evolutionary pathways, natural selection, evolutionary traits
 author: QuickTakes
 question: >-
     How does phylogeny contribute to our understanding of evolutionary history?
@@ -24,35 +24,23 @@ file_name: how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-hi
 url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
 score: -1.0
 related_article1:
-    id: 166402
+    id: 166400
     title: >-
-        What is cultural transmission and how does it affect animal behavior?
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 related_article2:
-    id: 166397
+    id: 166406
     title: >-
-        What are the key components of animal behavior as defined in the course?
+        What are the three main approaches to studying animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 related_article3:
-    id: 166402
+    id: 166400
     title: >-
-        What is cultural transmission and how does it affect animal behavior?
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
-related_article4:
-    id: 166416
-    title: >-
-        Explain the differences between directional, stabilizing, and disruptive selection.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
-related_article5:
-    id: 166420
-    title: >-
-        Discuss the role of development in shaping animal behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 ---
 
 &nbsp;

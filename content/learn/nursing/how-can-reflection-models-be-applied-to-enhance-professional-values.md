@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses how reflection models can enhance professional values through structured reflection, ethical decision-making, continuous learning, feedback integration, and the development of empathy and cultural competence.
+    This content discusses the application of reflection models to enhance professional values, focusing on structured reflection, identifying personal values, ethical decision-making, continuous improvement, feedback integration, and building empathy.
   page_keywords: >-
-    reflection models, professional values, structured reflection, Gibbs' Reflective Cycle, Johns' Model of Reflection, ethical decision-making, continuous learning, feedback integration, empathy, cultural competence
+    reflection models, professional values, Gibbs' Reflective Cycle, Johns' Model of Reflection, ethical decision-making, continuous learning, feedback integration, empathy, cultural competence, self-assessment, personal development
 author: QuickTakes
 question: >-
     How can reflection models be applied to enhance professional values?
@@ -24,35 +24,35 @@ file_name: how-can-reflection-models-be-applied-to-enhance-professional-values.m
 url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 score: -1.0
 related_article1:
-    id: 169818
+    id: 169803
     title: >-
-        What techniques can be used for self-assessment to identify personal strengths?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 related_article2:
-    id: 169809
+    id: 169802
     title: >-
-        Why is empathy important in understanding others?
+        What is the definition of self-reflection and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 related_article3:
-    id: 169814
+    id: 169819
     title: >-
-        What steps can be taken to enhance cultural competence?
+        How does self-awareness affect decision-making processes?
     subject: Nursing
-    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 related_article4:
-    id: 169816
+    id: 169803
     title: >-
-        What is the relationship between self-concept and personal growth?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 related_article5:
-    id: 169821
+    id: 169819
     title: >-
-        What are the differences between verbal and non-verbal communication?
+        How does self-awareness affect decision-making processes?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 ---
 
 &nbsp;

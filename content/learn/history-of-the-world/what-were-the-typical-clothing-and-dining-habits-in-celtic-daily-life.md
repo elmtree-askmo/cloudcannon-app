@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160383
-date: 2025-01-24
+id: 159886
+date: 2025-01-23
 title: >-
     What were the typical clothing and dining habits in Celtic daily life?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Explore the typical clothing and dining habits of Celtic daily life, highlighting their cultural identity, social structures, and communal practices.
+    An overview of typical clothing and dining habits in Celtic daily life, reflecting their culture, social structure, and connections to the land.
   page_keywords: >-
-    Celtic clothing, Celtic dining habits, tunic, trousers, cloak, communal meals, feasting, local ingredients, vegetable dyes, social structure, cultural identity, brooch, torc, armor
+    Celtic clothing, daily life, tunic, trousers, cloak, mantle, fabrics, colors, accessory, dining habits, communal meals, cooking methods, ingredients, social events, feasting, cultural practices, Celtic society
 author: QuickTakes
 question: >-
     What were the typical clothing and dining habits in Celtic daily life?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life.md
 url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
-score: 9.0
+score: -1.0
 related_article1:
-    id: 160388
+    id: 159890
     title: >-
-        What were the key trading centers in Celtic trade networks?
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 related_article2:
-    id: 160390
+    id: 159876
     title: >-
-        What were the geographic locations of major Celtic tribes?
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes
+    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
 related_article3:
-    id: 159902
+    id: 159925
     title: >-
-        How have the Celts contributed to European heritage and modern perceptions?
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article4:
-    id: 159907
+    id: 159873
     title: >-
-        What are the main characteristics of Halstatt Culture's art and material goods?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
+        How have Celtic languages influenced modern European languages?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article5:
-    id: 159892
+    id: 159853
     title: >-
-        How did the Celts interact with Romans in notable conflicts?
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 ---
 
 &nbsp;

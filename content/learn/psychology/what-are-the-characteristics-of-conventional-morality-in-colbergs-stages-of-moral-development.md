@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of the characteristics of conventional morality in Lawrence Kohlberg's stages of moral development, focusing on the importance of social approval, adherence to laws, and conformity to societal expectations.
+    This content discusses the characteristics of conventional morality in Lawrence Kohlberg's stages of moral development, detailing the features of the Good Boy/Good Girl orientation and Law and Order orientation.
   page_keywords: >-
-    Kohlberg, moral development, conventional morality, good boy/good girl orientation, law and order orientation, social approval, interpersonal relationships, adherence to rules, authority, duty, conformity, rule-following, societal norms, moral reasoning
+    Kohlberg's theory, moral development, conventional morality, Good Boy/Good Girl orientation, social approval, interpersonal relationships, Law and Order orientation, adherence to rules, authority, duty, conformity, social perspective, moral reasoning, societal norms
 author: QuickTakes
 question: >-
     What are the characteristics of conventional morality in Colberg's stages of moral development?
@@ -24,35 +24,35 @@ file_name: what-are-the-characteristics-of-conventional-morality-in-colbergs-sta
 url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
 score: -1.0
 related_article1:
-    id: 164221
+    id: 164217
     title: >-
-        Explain the stages of post morality in Colberg's theory.
+        How did Colberg study moral reasoning, and what were his key findings?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 related_article2:
-    id: 164228
+    id: 164230
     title: >-
-        What cultural biases are present in Colberg's theory of moral development?
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
-    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 related_article3:
-    id: 164221
+    id: 164230
     title: >-
-        Explain the stages of post morality in Colberg's theory.
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 related_article4:
-    id: 164229
+    id: 164217
     title: >-
-        How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+        How did Colberg study moral reasoning, and what were his key findings?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 related_article5:
-    id: 164228
+    id: 164217
     title: >-
-        What cultural biases are present in Colberg's theory of moral development?
+        How did Colberg study moral reasoning, and what were his key findings?
     subject: Psychology
-    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 ---
 
 &nbsp;

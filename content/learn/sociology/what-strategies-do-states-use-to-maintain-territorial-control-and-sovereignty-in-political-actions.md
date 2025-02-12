@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160628
-date: 2025-01-24
+id: 160085
+date: 2025-01-23
 title: >-
     What strategies do states use to maintain territorial control and sovereignty in political actions?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the various strategies employed by states to maintain territorial control and sovereignty, including self-governance, legal frameworks, military defense, and diplomatic relations.
+    This content discusses the strategies used by states to maintain territorial control and sovereignty, including self-governance, legal frameworks, military defense, and diplomatic relationships.
   page_keywords: >-
-    territorial control, sovereignty, self-governance, legal frameworks, territorial integrity, military defense, diplomatic relations, border patrols, exclusionary practices, national identity, ideological promotion, use of force, geopolitical context
+    self-governance, legal frameworks, territorial integrity, military defense, diplomatic relations, territorial control mechanisms, exclusionary practices, cultural promotion, use of force
 author: QuickTakes
 question: >-
     What strategies do states use to maintain territorial control and sovereignty in political actions?
@@ -24,35 +24,35 @@ file_name: what-strategies-do-states-use-to-maintain-territorial-control-and-sov
 url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 score: -1.0
 related_article1:
-    id: 160209
+    id: 160084
     title: >-
-        How do economic forces and political actions influence urban transformations in human geography?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+        Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Economics
+    url: /learn/economics/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
 related_article2:
-    id: 160220
+    id: 160228
     title: >-
-        How do urban planning and socio-economic changes affect spatial dynamics in cities?
+        Explain the concept of time-space compression and its impact on global connectivity.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 related_article3:
-    id: 160560
+    id: 160081
     title: >-
-        What are the local impacts of cultural exchange and economic integration due to time-space compression?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Economics
+    url: /learn/economics/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
 related_article4:
-    id: 160103
+    id: 160092
     title: >-
-        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+        How do place and space contribute to regional analysis and regional attributes?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 related_article5:
-    id: 160563
+    id: 160083
     title: >-
-        How do natural landscapes and environmental processes shape physical systems in geographic settings?
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content describes how play, particularly make-believe or symbolic play, contributes to social cognition development in children, emphasizing role exploration, understanding mental states, social interactions, and emotional regulation.
+    This content discusses how play, particularly symbolic and make-believe play, contributes to the development of social cognition in children, highlighting the roles of role exploration, understanding mental states, and social interactions.
   page_keywords: >-
-    play, children's development, social cognition, make-believe play, symbolic play, role exploration, mental states, theory of mind, social interaction, cooperative play, cognitive development, emotional regulation, Vygotsky, Zone of Proximal Development, symbolic representation
+    play, social cognition, child development, make-believe play, symbolic play, role exploration, mental states, theory of mind, social skills, empathy, cognitive development, Vygotsky, Zone of Proximal Development, emotional regulation
 author: QuickTakes
 question: >-
     How does play contribute to social cognition development in children?
@@ -30,17 +30,17 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 related_article2:
-    id: 167980
+    id: 167970
     title: >-
-        How does empathy and perspective taking contribute to interpersonal understanding?
+        What is the Theory of Mind and why is it significant in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 related_article3:
-    id: 167980
+    id: 167970
     title: >-
-        How does empathy and perspective taking contribute to interpersonal understanding?
+        What is the Theory of Mind and why is it significant in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 related_article4:
     id: 167972
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
 related_article5:
-    id: 167982
+    id: 167970
     title: >-
-        How do cognitive processes differentiate between true and false beliefs?
+        What is the Theory of Mind and why is it significant in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 ---
 
 &nbsp;

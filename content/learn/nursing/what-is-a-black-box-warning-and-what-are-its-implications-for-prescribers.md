@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    A black box warning is a serious warning by the FDA indicating significant risks associated with a drug, impacting prescribers' decision-making, patient monitoring, education, documentation, and legal responsibilities.
+    A black box warning is the most serious safety warning issued by the FDA for drugs, indicating significant risks and implications for prescribers regarding patient safety, informed decision-making, and legal responsibilities.
   page_keywords: >-
-    black box warning, FDA, drug safety, serious risks, prescriber implications, patient monitoring, patient education, documentation, legal considerations, ethical considerations
+    black box warning, FDA, drug safety, prescribers, informed decision-making, patient monitoring, patient education, documentation, legal implications, ethical considerations, adverse effects, risk assessment
 author: QuickTakes
 question: >-
     What is a black box warning and what are its implications for prescribers?
@@ -24,35 +24,23 @@ file_name: what-is-a-black-box-warning-and-what-are-its-implications-for-prescri
 url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 score: -1.0
 related_article1:
-    id: 166502
+    id: 166490
     title: >-
-        What are the requirements for drug labeling under FDA regulations?
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 related_article2:
-    id: 166502
+    id: 166496
     title: >-
-        What are the requirements for drug labeling under FDA regulations?
+        Describe the phases of clinical trials and their significance in drug development.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 related_article3:
-    id: 166498
+    id: 166505
     title: >-
-        How do biologic drugs contribute to the treatment of immune-related disorders?
+        How do different drug formulations impact drug absorption and bioavailability?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
-related_article4:
-    id: 166507
-    title: >-
-        How do healthcare providers monitor adverse effects to ensure drug safety?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
-related_article5:
-    id: 166500
-    title: >-
-        What are the implications of the Controlled Substance Act for healthcare providers?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 ---
 
 &nbsp;

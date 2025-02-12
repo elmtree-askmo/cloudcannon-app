@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    The NF-kappa B pathway is crucial for immune cell activation, regulating gene expression involved in inflammation, cytokine production, and the function of various immune cells, including macrophages, T cells, and B cells.
+    The NF-kappa B pathway is crucial for immune cell activation, regulating inflammatory responses and cytokine production through gene expression and influencing various immune cell types.
   page_keywords: >-
-    NF-kappa B, immune cell activation, transcription factor, pro-inflammatory cytokines, immune response, cytokine production, macrophages, T cells, B cells, gene expression, inflammatory signals, immune memory
+    NF-kappa B, immune cell activation, cytokines, inflammation, transcription factor, immune response, macrophages, T cells, B cells, gene expression, cell signaling, immune memory
 author: QuickTakes
 question: >-
     How does the NF Kappa B pathway contribute to immune cell activation?
@@ -24,35 +24,35 @@ file_name: how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation.
 url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
 score: -1.0
 related_article1:
-    id: 165875
+    id: 165861
     title: >-
-        What is the significance of clonal expansion in immune memory?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
+    subject: Medicine
+    url: /learn/medicine/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 related_article2:
-    id: 165876
+    id: 165863
     title: >-
-        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
 related_article3:
-    id: 165875
+    id: 165861
     title: >-
-        What is the significance of clonal expansion in immune memory?
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
+    url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 related_article4:
-    id: 165859
+    id: 165861
     title: >-
-        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
+    url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 related_article5:
-    id: 165871
+    id: 165879
     title: >-
-        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 ---
 
 &nbsp;

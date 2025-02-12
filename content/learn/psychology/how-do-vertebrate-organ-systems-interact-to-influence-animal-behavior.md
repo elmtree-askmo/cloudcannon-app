@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the complex interactions between vertebrate organ systems and their significant influence on animal behavior, highlighting how these systems contribute to physiological processes that shape responses to environmental challenges.
+    This content explores how vertebrate organ systems interact to influence animal behavior, detailing the roles of the nervous, endocrine, circulatory, respiratory, and digestive systems in shaping responses to environmental stimuli and challenges.
   page_keywords: >-
-    vertebrate organ systems, animal behavior, nervous system, endocrine system, circulatory system, respiratory system, digestive system, sensory input, hormonal regulation, physiological responses, seasonal behaviors, stress responses, adaptation
+    vertebrate organ systems, animal behavior, nervous system, endocrine system, circulatory system, respiratory system, digestive system, sensory input, hormonal regulation, physiological responses, homeostasis, survival, reproductive success, migration, hibernation, stress responses
 author: QuickTakes
 question: >-
     How do vertebrate organ systems interact to influence animal behavior?
@@ -30,29 +30,29 @@ related_article1:
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 related_article2:
-    id: 166390
+    id: 166385
     title: >-
-        What is convergent evolution, and how does it affect phenotypic traits?
+        What are the different types of selection, and how do they affect allele frequencies in a population?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 related_article3:
-    id: 166396
+    id: 166381
     title: >-
-        How does the nervous system coordinate body functions to produce behavioral responses?
+        What are the different types of learning, and how do they impact animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 related_article4:
-    id: 166393
+    id: 166385
     title: >-
-        What are the effects of sensory input and integration on animal behavior?
+        What are the different types of selection, and how do they affect allele frequencies in a population?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 related_article5:
-    id: 166390
+    id: 166385
     title: >-
-        What is convergent evolution, and how does it affect phenotypic traits?
+        What are the different types of selection, and how do they affect allele frequencies in a population?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 ---
 
 &nbsp;

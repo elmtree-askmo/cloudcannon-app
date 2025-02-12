@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Tacitus' 'Agricola' is a pivotal work that combines biography, military history, and cultural commentary, shedding light on the Roman conquest of Britain and critiques of imperialism.
+    Tacitus' 'Agricola' is a crucial work exploring Roman conquest of Britain, featuring a biographical account of Gnaeus Julius Agricola, military campaigns, and commentary on imperialism and cultural interactions.
   page_keywords: >-
-    Tacitus, Agricola, Roman history, biography, military campaigns, Roman conquest of Britain, cultural commentary, imperialism, primary sources, Roman-British relations, significance
+    Tacitus, Agricola, Roman history, biography, military campaigns, Roman conquest of Britain, cultural commentary, imperialism, moral critique, historical significance, Gnaeus Julius Agricola, Roman Britain, Caledonians, Battle of Mons Graupius, civilization versus barbarism, historical sources, military history, cultural interactions, indigenous cultures
 author: QuickTakes
 question: >-
     Analyze the structure and historical significance of Tacitus' 'Agricola'.
@@ -22,37 +22,8 @@ answer: >-
 subject: History of the World
 file_name: analyze-the-structure-and-historical-significance-of-tacitus-agricola.md
 url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
-score: 9.5
-related_article1:
-    id: 170187
-    title: >-
-        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
-related_article2:
-    id: 170175
-    title: >-
-        What are the historical theories regarding the origins and identity of the Pictish culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
-related_article3:
-    id: 170187
-    title: >-
-        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
-related_article4:
-    id: 170170
-    title: >-
-        What were the tactical elements and historical significance of the Battle of Mons Graupius?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
-related_article5:
-    id: 170175
-    title: >-
-        What are the historical theories regarding the origins and identity of the Pictish culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+score: -1.0
+
 ---
 
 &nbsp;

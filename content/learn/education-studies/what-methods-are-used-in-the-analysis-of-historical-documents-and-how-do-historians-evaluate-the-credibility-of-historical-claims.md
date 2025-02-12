@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the various methods historians use to analyze historical documents and assess the credibility of historical claims. It covers documentary research, oral histories, sociological methods, and critical evaluation techniques.
+    This content discusses various methods used by historians in the analysis of historical documents, as well as approaches for evaluating the credibility of historical claims.
   page_keywords: >-
-    historical document analysis, credibility, documentary research, oral history, event structure analysis, network analysis, quantitative data analysis, authenticity, bias, contextual evaluation, cross-referencing, critical analysis, historiography
+    historical document analysis, methods of historical research, credibility of historical claims, archival research, oral history, biographical methods, event structure analysis, network analysis, quantitative data analysis, cross-referencing sources, contextual evaluation, authenticity and reliability, bias and perspective, critical analysis of language
 author: QuickTakes
 question: >-
     What methods are used in the analysis of historical documents, and how do historians evaluate the credibility of historical claims?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims.md
 url: /learn/education-studies/questions/what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims
 score: -1.0
-related_article1:
-    id: 168145
-    title: >-
-        How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-bias-in-historical-documents-be-identified-and-what-strategies-can-historians-use-to-address-it-in-their-studies
-related_article2:
-    id: 168144
-    title: >-
-        In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
-related_article3:
-    id: 168143
-    title: >-
-        How do oral traditions serve as historical sources, and what are their limitations in terms of reliability and bias?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-oral-traditions-serve-as-historical-sources-and-what-are-their-limitations-in-terms-of-reliability-and-bias
-related_article4:
-    id: 168138
-    title: >-
-        What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-an-event-and-historical-knowledge-and-how-do-historians-act-as-storytellers-in-constructing-narratives
-related_article5:
-    id: 168146
-    title: >-
-        What role do material conditions play in shaping historical narratives, and how do they influence historical events?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-material-conditions-play-in-shaping-historical-narratives-and-how-do-they-influence-historical-events
+
 ---
 
 &nbsp;

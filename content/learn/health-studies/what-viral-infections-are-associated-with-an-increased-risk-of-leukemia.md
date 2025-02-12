@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the viral infections associated with an increased risk of leukemia, including HIV, Epstein-Barr Virus, and Human Papillomavirus, and the mechanisms by which they contribute to the disease.
+    This content discusses viral infections such as HIV, EBV, and HPV that are associated with an increased risk of leukemia, exploring their mechanisms and implications for cancer risk.
   page_keywords: >-
-    viral infections, leukemia risk, HIV, Epstein-Barr virus, EBV, Human Papillomavirus, HPV, cancer, immunosuppression, hematological cancers, chronic inflammation, immune system dysregulation, oncogenic effects, preventive measures
+    viral infections, leukemia, HIV, Epstein-Barr Virus, Burkitt lymphoma, Hodgkin lymphoma, Human Papillomavirus, cancer risk, immunosuppression, oncogenic effects
 author: QuickTakes
 question: >-
     What viral infections are associated with an increased risk of leukemia?
@@ -24,35 +24,35 @@ file_name: what-viral-infections-are-associated-with-an-increased-risk-of-leukem
 url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
 score: -1.0
 related_article1:
-    id: 166290
+    id: 166315
     title: >-
-        How does pancytopenia manifest in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+        What are the causes and symptoms of leukopenia and neutropenia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 related_article2:
-    id: 166290
+    id: 166313
     title: >-
-        How does pancytopenia manifest in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article3:
-    id: 166312
+    id: 166306
     title: >-
-        How does monoclonal antibody therapy work in treating lymphoma?
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 related_article4:
-    id: 166299
+    id: 166305
     title: >-
-        What systemic symptoms are commonly observed in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 related_article5:
-    id: 166289
+    id: 166309
     title: >-
-        What are the key changes in the bone marrow associated with leukemia pathophysiology?
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 ---
 
 &nbsp;

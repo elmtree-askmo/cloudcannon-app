@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content explains the difference between objective and subjective knowledge in epistemology, illustrating their characteristics, ontological foundations, and implications for research methodologies.
+    The content explains the fundamental differences between objective and subjective knowledge in epistemology, highlighting their implications on research methodologies, ontological perspectives, and epistemological frameworks.
   page_keywords: >-
-    objective knowledge, subjective knowledge, epistemology, positivism, social constructivism, quantitative research, qualitative research, ontology, epistemology distinction, research methodologies
+    objective knowledge, subjective knowledge, epistemology, qualitative research, quantitative research, positivism, social constructivism, ontology, epistemology in research, research methodologies, empirical evidence, personal experience, contextual knowledge
 author: QuickTakes
 question: >-
     What is the difference between objective and subjective knowledge in epistemology?
@@ -24,35 +24,35 @@ file_name: what-is-the-difference-between-objective-and-subjective-knowledge-in-
 url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 score: -1.0
 related_article1:
-    id: 163676
-    title: >-
-        How do ontology and epistemology influence research methodology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
-related_article2:
-    id: 163692
-    title: >-
-        How does objective knowledge contribute to quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
-related_article3:
     id: 163679
     title: >-
         What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article2:
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+related_article3:
+    id: 163676
+    title: >-
+        How do ontology and epistemology influence research methodology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 related_article4:
-    id: 163680
+    id: 163694
     title: >-
-        How is deductive reasoning used in quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+        What is naturalism, and why is it important in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
 related_article5:
-    id: 163684
+    id: 163679
     title: >-
-        What are some common quantitative data collection methods?
+        What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Explores the main goals of decolonial processes in relation to reconciliation and land ownership, focusing on Indigenous sovereignty, recognition of land rights, addressing historical injustices, and promoting social justice.
+    This content explores the main goals of decolonial processes particularly in the context of reconciliation and land ownership, emphasizing the restoration of Indigenous rights, recognition of land, and promotion of social equity.
   page_keywords: >-
-    decolonial processes, reconciliation, land ownership, Indigenous sovereignty, land rights, historical injustices, Indigenous knowledge, social justice, equity, ethical research
+    decolonial processes,reconciliation,land ownership,Indigenous sovereignty,land rights,Indigenous knowledge,social justice,ethical research,historical injustices
 author: QuickTakes
 question: >-
     What are the main goals of decolonial processes in the context of reconciliation and land ownership?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-goals-of-decolonial-processes-in-the-context-of-rec
 url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 score: -1.0
 related_article1:
-    id: 163670
+    id: 163671
     title: >-
-        What is the historical context of settler colonialism and its impact on Indigenous communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
+        What are the key components of a research strategy in methodology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
 related_article2:
-    id: 163661
+    id: 163663
     title: >-
-        How do social inequalities manifest within social hierarchies?
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 related_article3:
-    id: 163666
-    title: >-
-        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
-    subject: Sociology
-    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
-related_article4:
     id: 163671
     title: >-
         What are the key components of a research strategy in methodology?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
-related_article5:
+related_article4:
     id: 163665
     title: >-
         How do epistemological claims influence knowledge production in research?
     subject: Sociology
     url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+related_article5:
+    id: 163662
+    title: >-
+        What role does critical criminology play in understanding the criminalization of Indigenous people?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
 ---
 
 &nbsp;

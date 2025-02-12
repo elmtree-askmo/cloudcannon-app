@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    An overview of routine duties and responsibilities in business administration roles, covering administrative tasks, organizational duties, financial management, project management, HR functions, strategic planning, and compliance.
+    This content outlines the routine duties and responsibilities associated with business administration roles, including administrative tasks, organizational duties, financial management, project management, human resources functions, strategic planning, and compliance.
   page_keywords: >-
-    business administration, duties, responsibilities, organizational tasks, administrative tasks, financial management, project management, human resources, strategic planning, compliance, reporting
+    business administration, routine duties, organizational tasks, administrative responsibilities, financial management, project management, human resources, compliance, strategic planning, communication skills
 author: QuickTakes
 question: >-
     What are the routine duties and responsibilities associated with business administration roles?
@@ -24,35 +24,35 @@ file_name: what-are-the-routine-duties-and-responsibilities-associated-with-busi
 url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
 score: -1.0
 related_article1:
-    id: 168494
+    id: 168491
     title: >-
-        What are the career opportunities available in the medical field?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+        What are the primary job roles and responsibilities in the food service industry?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 related_article2:
-    id: 168496
-    title: >-
-        What are the key components of persuasive communication, and how can they be applied in career paths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
-related_article3:
-    id: 168501
-    title: >-
-        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
-related_article4:
     id: 168491
     title: >-
         What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
-related_article5:
-    id: 168508
+related_article3:
+    id: 168509
     title: >-
-        What are the key responsibilities and skills required for success in food service careers?
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
+related_article4:
+    id: 168490
+    title: >-
+        What skills are essential for managerial roles in business administration?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-skills-are-essential-for-managerial-roles-in-business-administration
+related_article5:
+    id: 168504
+    title: >-
+        What are the essential qualities of assertiveness in the workplace, and how can they be developed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
+    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
 ---
 
 &nbsp;

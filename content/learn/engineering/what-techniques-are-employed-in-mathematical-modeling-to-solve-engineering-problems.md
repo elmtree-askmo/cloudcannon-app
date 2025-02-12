@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content discusses techniques in mathematical modeling used to solve engineering problems, highlighting the formulation of equations, computational tools, numerical methods, optimization strategies, validation processes, and the integration of multidisciplinary knowledge.
+    This content discusses various techniques in mathematical modeling used by engineers to solve complex engineering problems, including formulation of equations, computational simulation, numerical methods, optimization, validation, and integration of knowledge from multiple engineering disciplines.
   page_keywords: >-
     mathematical modeling, engineering problems, formulation of equations, computational tools, numerical methods, optimization techniques, validation, iterative refinement, trigonometry, geometry, multidisciplinary knowledge
 author: QuickTakes
@@ -24,35 +24,35 @@ file_name: what-techniques-are-employed-in-mathematical-modeling-to-solve-engine
 url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 score: -1.0
 related_article1:
-    id: 166671
+    id: 166662
     title: >-
-        How is mathematical modeling used for predictive analysis and system simulation in engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Physics
+    url: /learn/physics/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 related_article2:
-    id: 166657
+    id: 166656
     title: >-
-        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+        What are the essential components of a free body diagram, and how do they aid in problem-solving?
     subject: Engineering
-    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 related_article3:
-    id: 166657
+    id: 166656
     title: >-
-        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+        What are the essential components of a free body diagram, and how do they aid in problem-solving?
     subject: Engineering
-    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 related_article4:
-    id: 166671
+    id: 166658
     title: >-
-        How is mathematical modeling used for predictive analysis and system simulation in engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+        How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 related_article5:
-    id: 166667
+    id: 166662
     title: >-
-        What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 ---
 
 &nbsp;

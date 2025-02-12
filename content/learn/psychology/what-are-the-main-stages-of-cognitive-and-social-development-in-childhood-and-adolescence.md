@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Explore the main stages of cognitive and social development in childhood and adolescence as proposed by Piaget and Erikson, focusing on cognitive growth and psychosocial development.
+    This content outlines the stages of cognitive and social development in childhood and adolescence, based on the theories of Jean Piaget and Erik Erikson, highlighting key developmental milestones and their implications.
   page_keywords: >-
-    cognitive development, social development, Piaget, Erikson, childhood stages, adolescence stages, sensorimotor stage, preoperational stage, concrete operational stage, formal operational stage, trust vs mistrust, autonomy vs shame, initiative vs guilt, industry vs inferiority, identity vs role confusion
+    cognitive development, social development, childhood, adolescence, Piaget, Erikson, sensorimotor stage, preoperational stage, concrete operational stage, formal operational stage, trust vs. mistrust, autonomy vs. shame and doubt, initiative vs. guilt, industry vs. inferiority, identity vs. role confusion
 author: QuickTakes
 question: >-
     What are the main stages of cognitive and social development in childhood and adolescence?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-stages-of-cognitive-and-social-development-in-child
 url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 score: -1.0
 related_article1:
-    id: 167701
+    id: 167706
     title: >-
-        How does classical conditioning differ from operant conditioning?
+        What is the role of sensory perception in influencing human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 related_article2:
-    id: 167710
+    id: 167684
     title: >-
-        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+        What are some challenges in defining normalcy in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
 related_article3:
-    id: 167710
+    id: 167692
     title: >-
-        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+        What are the core principles of Cognitive Behavioral Therapy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 related_article4:
-    id: 167699
+    id: 167703
     title: >-
-        What statistical techniques are commonly used in data analysis for psychological studies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+        How do group dynamics influence social behavior and leadership?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 related_article5:
-    id: 167699
+    id: 167703
     title: >-
-        What statistical techniques are commonly used in data analysis for psychological studies?
+        How do group dynamics influence social behavior and leadership?
     subject: Psychology
-    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 ---
 
 &nbsp;

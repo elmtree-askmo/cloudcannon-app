@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Task switching involves cognitive processes that allow individuals to shift attention between tasks, influenced by cognitive load and factors such as cognitive flexibility, working memory, and frontal lobe functions.
+    This content discusses the mechanisms involved in task switching, such as cognitive flexibility and frontal lobe functions, and explores how cognitive load affects task switching capabilities and performance.
   page_keywords: >-
-    task switching, cognitive load, cognitive flexibility, frontal lobe, inhibition of distractions, working memory, mental fatigue, task complexity, performance, multitasking
+    task switching, cognitive load, cognitive flexibility, frontal lobe, inhibition of distractions, working memory, mental fatigue, task complexity, strategies for management, multitasking
 author: QuickTakes
 question: >-
     What mechanisms are involved in task switching, and how does cognitive load affect it?
@@ -24,35 +24,17 @@ file_name: what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 score: -1.0
 related_article1:
-    id: 164550
+    id: 164554
     title: >-
-        What are the main components of executive function, and how do they contribute to cognitive processes?
+        How do visual and auditory processing contribute to sensory processing in cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 related_article2:
-    id: 164555
+    id: 164554
     title: >-
-        What is the relationship between cognitive load and task switching?
+        How do visual and auditory processing contribute to sensory processing in cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
-related_article3:
-    id: 164556
-    title: >-
-        How do the superior and inferior parietal lobes differ in function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
-related_article4:
-    id: 164544
-    title: >-
-        How do the default mode network and potential control network contribute to attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
-related_article5:
-    id: 164548
-    title: >-
-        What distinguishes feature search from conjunction search in visual search tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 ---
 
 &nbsp;

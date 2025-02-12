@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how to adjust reinforcement schedules based on learner progress in differential reinforcement, providing strategies and methods for effective behavior modification.
+    This content discusses how to adjust reinforcement schedules based on learner progress in differential reinforcement, including strategies like modifying intervals, changing reinforcement frequency, utilizing different types of reinforcement, data analysis, and maintaining communication with the learner.
   page_keywords: >-
-    reinforcement schedules, differential reinforcement, behavior modification, DRO, DRI, DRA, DRL, data collection, performance criteria, feedback, communication, behavior analysis
+    reinforcement schedules, differential reinforcement, behavior modification, DRO, DRI, DRA, DRL, behavior analysis, performance criteria, feedback, communication, data collection, generalization
 author: QuickTakes
 question: >-
     How can reinforcement schedules be adjusted based on progress in differential reinforcement?
@@ -24,35 +24,35 @@ file_name: how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-diff
 url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 score: -1.0
 related_article1:
-    id: 169311
+    id: 169324
     title: >-
-        What is shaping and why is it important in behavior development?
+        What is extinction in behavior modification and what effect does it have on behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 related_article2:
-    id: 169314
-    title: >-
-        What is differential reinforcement and what is its primary purpose?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
-related_article3:
-    id: 169323
-    title: >-
-        What is positive reinforcement and how does it aid in behavior shaping?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
-related_article4:
     id: 169321
     title: >-
         What are the main tools and techniques used in behavior analysis?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
-related_article5:
-    id: 169323
+related_article3:
+    id: 169321
     title: >-
-        What is positive reinforcement and how does it aid in behavior shaping?
+        What are the main tools and techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article4:
+    id: 169324
+    title: >-
+        What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+related_article5:
+    id: 169318
+    title: >-
+        Why is measuring the duration of behavior relevant to behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 ---
 
 &nbsp;

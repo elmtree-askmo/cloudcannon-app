@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses common qualitative data collection methods such as interviews, focus groups, participant observation, ethnography, and content analysis, along with their applications and strengths.
+    An overview of common qualitative data collection methods, including interviews, focus groups, participant observation, ethnography, and content analysis, each with its strengths and applications in research.
   page_keywords: >-
-    qualitative data collection, interviews, focus groups, participant observation, ethnography, content analysis, research methods, data collection methods, qualitative research, social dynamics
+    qualitative data collection, interviews, focus groups, participant observation, ethnography, content analysis, research methods, qualitative research, social dynamics, cultural practices
 author: QuickTakes
 question: >-
     What are some common qualitative data collection methods?
@@ -24,35 +24,35 @@ file_name: what-are-some-common-qualitative-data-collection-methods.md
 url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 score: -1.0
 related_article1:
-    id: 163677
+    id: 163685
     title: >-
-        What are the key characteristics of qualitative research paradigms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
+        What is the process of coding and thematic analysis in qualitative data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
 related_article2:
-    id: 163682
+    id: 163674
     title: >-
-        What are the key elements of a research design?
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 related_article3:
-    id: 163681
+    id: 163688
     title: >-
-        Why is research design important in the research process?
+        What ethical considerations must be taken into account in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
+    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 related_article4:
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article5:
     id: 163678
     title: >-
         How does inductive reasoning play a role in qualitative research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
-related_article5:
-    id: 163696
-    title: >-
-        How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 ---
 
 &nbsp;

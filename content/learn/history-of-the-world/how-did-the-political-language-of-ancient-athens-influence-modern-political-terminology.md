@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The political language of ancient Athens significantly influences modern political terminology, including concepts such as democracy, civic responsibilities, and deliberative practices, rooted in ancient Greek philosophy.
+    The influence of ancient Athenian political language on modern political terminology encompasses etymological roots, the concept of democracy, deliberative terminology, philosophical underpinnings by thinkers like Plato and Aristotle, and the notion of civic responsibilities.
   page_keywords: >-
-    ancient Athens, political language, modern political terminology, democracy, politics, civic engagement, deliberation, philosophy, citizenship, governance
+    ancient Athens, political language, modern terminology, democracy, civic engagement, political philosophy, governance, Aristotle, Plato, citizenship, deliberation, Athenian democracy, polis, political systems, civic responsibilities
 author: QuickTakes
 question: >-
     How did the political language of ancient Athens influence modern political terminology?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology.md
 url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
-score: 9.5
+score: -1.0
 related_article1:
-    id: 166037
+    id: 166036
     title: >-
-        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article2:
-    id: 166017
+    id: 166036
     title: >-
-        What was the historical significance of Athens as an urban center in ancient times?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article3:
-    id: 166024
-    title: >-
-        What was the purpose of the Council of 500 in the governance of Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
-related_article4:
-    id: 166023
-    title: >-
-        Who were the Archons, and what was their function in Athenian political institutions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
-related_article5:
     id: 166022
     title: >-
         What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
+related_article4:
+    id: 166036
+    title: >-
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 ---
 
 &nbsp;

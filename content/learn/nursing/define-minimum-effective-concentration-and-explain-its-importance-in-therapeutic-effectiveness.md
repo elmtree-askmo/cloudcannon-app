@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Minimum effective concentration (MEC) is the lowest drug level required for therapeutic effects, crucial for ensuring effective treatment, guiding dosing, and enhancing patient safety.
+    Minimum effective concentration (MEC) is the lowest concentration of a drug needed to achieve therapeutic effects, crucial for dosing, monitoring, and patient safety in pharmacology.
   page_keywords: >-
     minimum effective concentration,MEC,therapeutic effectiveness,drug concentration,pharmacology,therapeutic efficacy,dosing regimens,monitoring drug levels,patient safety,subtherapeutic dosing
 author: QuickTakes
@@ -24,23 +24,23 @@ file_name: define-minimum-effective-concentration-and-explain-its-importance-in-
 url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 score: -1.0
 related_article1:
-    id: 166503
+    id: 166499
     title: >-
-        What is the importance of randomized controlled trials in clinical research?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+        What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 related_article2:
-    id: 166507
+    id: 166508
     title: >-
-        How do healthcare providers monitor adverse effects to ensure drug safety?
+        What is a black box warning and what are its implications for prescribers?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 related_article3:
-    id: 166506
+    id: 166504
     title: >-
-        What are the differences between generic and trade names of drugs?
+        Why is medication reconciliation important during patient admission and discharge?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 related_article4:
     id: 166510
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Nursing
     url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
 related_article5:
-    id: 166509
+    id: 166496
     title: >-
-        What are the advantages and disadvantages of oral and parenteral medication administration routes?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+        Describe the phases of clinical trials and their significance in drug development.
+    subject: Medicine
+    url: /learn/medicine/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 ---
 
 &nbsp;

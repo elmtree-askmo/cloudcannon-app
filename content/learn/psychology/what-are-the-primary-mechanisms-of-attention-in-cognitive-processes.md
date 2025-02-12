@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explores the primary mechanisms of attention in cognitive processes, including selective, divided, sustained, top-down, and bottom-up attention, as well as attention networks and their significance in information processing and cognitive disorders.
+    This content discusses the primary mechanisms of attention in cognitive processes, including selective, divided, sustained, top-down, and bottom-up attention, as well as attention networks. It highlights their importance in information processing, learning, and performance.
   page_keywords: >-
-    Selective Attention, Divided Attention, Sustained Attention, Top-Down Attention, Bottom-Up Attention, Attention Networks, cognitive processes, information processing, attentional mechanisms, cognitive psychology
+    attention mechanisms, selective attention, divided attention, sustained attention, top-down attention, bottom-up attention, attention networks, cognitive processes, information processing, cognitive resources, attentional deficits
 author: QuickTakes
 question: >-
     What are the primary mechanisms of attention in cognitive processes?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: what-are-the-primary-mechanisms-of-attention-in-cognitive-processes.md
 url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
 score: -1.0
-related_article1:
-    id: 164684
-    title: >-
-        What are the key methods used in experimental design for neuroscience research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
-related_article2:
-    id: 164673
-    title: >-
-        Describe the stages involved in memory processes.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
-related_article3:
-    id: 164692
-    title: >-
-        How are cognitive disorders diagnosed and treated?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
-related_article4:
-    id: 164677
-    title: >-
-        How does language processing relate to cognitive functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
-related_article5:
-    id: 164683
-    title: >-
-        What role do subconscious processes play in influencing behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+
 ---
 
 &nbsp;

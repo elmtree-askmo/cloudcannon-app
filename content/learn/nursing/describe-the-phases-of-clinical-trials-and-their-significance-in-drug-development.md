@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    An overview of the phases of clinical trials in drug development, highlighting the objectives and significance of each phase in ensuring safety and effectiveness of new treatments.
+    This content provides a detailed overview of the phases of clinical trials, emphasizing their objectives and significance in the drug development process.
   page_keywords: >-
-    clinical trials, drug development, Phase 1, Phase 2, Phase 3, safety, efficacy, dosage, side effects, post-marketing surveillance, regulatory approval, pharmacokinetics, treatment regimen, standard treatments, adverse effects
+    clinical trials, drug development, Phase 1, Phase 2, Phase 3, safety, efficacy, dosage, side effects, pharmacokinetics, regulatory approval, post-marketing surveillance
 author: QuickTakes
 question: >-
     Describe the phases of clinical trials and their significance in drug development.
@@ -27,32 +27,32 @@ related_article1:
     id: 166508
     title: >-
         What is a black box warning and what are its implications for prescribers?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 related_article2:
-    id: 166504
+    id: 166510
     title: >-
-        Why is medication reconciliation important during patient admission and discharge?
+        How do pharmacokinetic and pharmacodynamic interactions differ?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
 related_article3:
-    id: 166499
+    id: 166491
     title: >-
-        What is the Controlled Substance Act and how does it classify narcotics?
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 related_article4:
-    id: 166504
+    id: 166490
     title: >-
-        Why is medication reconciliation important during patient admission and discharge?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 related_article5:
-    id: 166513
+    id: 166507
     title: >-
-        Why is patient education important in medication adherence and safety?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
 ---
 
 &nbsp;

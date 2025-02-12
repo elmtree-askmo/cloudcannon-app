@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The primary motor cortex is essential for executing voluntary movements, located in the precentral gyrus of the frontal lobe, responsible for sending muscle signals and interacting with the basal ganglia for refined motor control.
+    The primary motor cortex is essential for executing voluntary movements and controlling motor functions, with interaction from the basal ganglia for movement refinement and coordination.
   page_keywords: >-
-    primary motor cortex,motor control,voluntary movements,precentral gyrus,frontal lobe,corticospinal tract,decussation,somatotopic organization,homunculus,basal ganglia,motor commands,motor planning,motor execution,motor behaviors
+    primary motor cortex,motor control,voluntary movements,precentral gyrus,corticospinal tract,decussation,somatotopic organization,homunculus,basal ganglia,motor planning
 author: QuickTakes
 question: >-
     What is the role of the primary motor cortex in motor control?
@@ -24,35 +24,35 @@ file_name: what-is-the-role-of-the-primary-motor-cortex-in-motor-control.md
 url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 score: -1.0
 related_article1:
-    id: 170466
+    id: 170465
     title: >-
-        How do dorsal and ventral orientations differ in brain anatomy?
+        What is the role of synaptic transmission in neurophysiology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
 related_article2:
-    id: 170473
+    id: 170465
     title: >-
-        How do short-term and long-term memory systems differ in the limbic system?
+        What is the role of synaptic transmission in neurophysiology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
 related_article3:
-    id: 170461
-    title: >-
-        How do gyri and sulci contribute to brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
-related_article4:
-    id: 170485
-    title: >-
-        What are the key stages of prenatal and postnatal neurodevelopment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
-related_article5:
     id: 170483
     title: >-
         What are the components of a reflex arc in neural pathways?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+related_article4:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article5:
+    id: 170475
+    title: >-
+        What are the causes and symptoms of an epidural hematoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 ---
 
 &nbsp;

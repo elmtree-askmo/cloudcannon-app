@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160646
-date: 2025-01-24
+id: 160235
+date: 2025-01-23
 title: >-
     Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    A discussion on Doreen Massey's contributions to the concepts of time-space compression and place dynamics, highlighting the impacts of globalization, social inequalities, and the evolving nature of places in human geography.
+    Doreen Massey's theoretical contributions to time-space compression and place dynamics significantly reshaped the understanding of space and social interactions in the context of globalization, emphasizing the interconnectedness of places and the dynamic nature of spatial relationships.
   page_keywords: >-
-    Doreen Massey,time-space compression,place dynamics,geography,globalization,social inequality,connectivity,communication,local identities,global processes,multiplicity of narratives
+    Doreen Massey,time-space compression,place dynamics,human geography,globalization,connectivity,technology,social inequalities,global sense of place,place evolution,social relations
 author: QuickTakes
 question: >-
     Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
@@ -24,35 +24,35 @@ file_name: discuss-doreen-masseys-theoretical-contributions-to-timespace-compres
 url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 score: -1.0
 related_article1:
-    id: 160085
+    id: 160079
     title: >-
-        What strategies do states use to maintain territorial control and sovereignty in political actions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 related_article2:
-    id: 160077
+    id: 160088
     title: >-
-        How do economic forces and political actions influence urban transformations in human geography?
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 related_article3:
-    id: 160504
+    id: 160086
     title: >-
-        How do political geography and state control relate to borders and boundaries in territoriality?
+        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 related_article4:
-    id: 160564
+    id: 160079
     title: >-
-        What is the significance of population distribution and cultural landscapes in human systems?
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 related_article5:
-    id: 160223
+    id: 160233
     title: >-
-        How do physical geography and human geography contribute to spatial organization?
+        How do population distribution and cultural landscapes define human systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 160258
+id: 159925
 date: 2025-01-23
 title: >-
     What were the geographic locations of major Celtic tribes and their natural resources?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content provides an overview of the geographic locations of major Celtic tribes across Europe, detailing the natural resources they utilized, including agricultural land, metals, and trade goods, and how these factors influenced their economies and interactions with neighboring cultures.
+    This content explores the geographic locations of major Celtic tribes across Europe and their natural resources, detailing the economic activities and interactions with neighboring cultures.
   page_keywords: >-
-    Celtic tribes, geographic locations, Gauls, Britons, Gaels, Celtiberians, Boii, Galatians, Belgae, natural resources, agriculture, trade, metals, iron, gold, silver, timber, coastal fishing, bog iron, limestone, fortified settlements, oppida, economic activities
+    Celtic tribes, geographic locations, Gauls, Britons, Gaels, Celtiberians, Boii, Galatians, Belgae, natural resources, agriculture, metals, trade networks, ancient Europe
 author: QuickTakes
 question: >-
     What were the geographic locations of major Celtic tribes and their natural resources?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources.md
 url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
-score: 8.5
+score: -1.0
 related_article1:
-    id: 160379
+    id: 159886
     title: >-
-        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article2:
-    id: 159901
+    id: 159857
     title: >-
-        What were the distinctive physical and behavioral traits of the Celts?
+        What are the distinctive pottery styles associated with the Beaker People and Corded Ware People?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-distinctive-pottery-styles-associated-with-the-beaker-people-and-corded-ware-people
 related_article3:
-    id: 159925
+    id: 159892
     title: >-
-        What were the geographic locations of major Celtic tribes and their natural resources?
+        How did the Celts interact with Romans in notable conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
+    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
 related_article4:
-    id: 160380
+    id: 159873
     title: >-
-        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
+        How have Celtic languages influenced modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
+    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article5:
-    id: 159903
+    id: 159871
     title: >-
-        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The British National Formulary (BNF) is a crucial resource in the UK healthcare system, providing essential information on prescribing and managing medications to ensure safety and effectiveness in patient care.
+    The British National Formulary (BNF) is a crucial resource in the UK healthcare system that provides comprehensive information on medication prescribing, dispensing, and administration, ensuring patient safety and supporting healthcare professionals in clinical practice.
   page_keywords: >-
-    British National Formulary, BNF, medication information, prescribing, dispensing, administration of medications, healthcare professionals, drug interactions, patient safety, clinical decision-making, education, training, pharmacology, medication management
+    British National Formulary, BNF, medication information, prescribing, dispensing, clinical practice, healthcare professionals, patient safety, standardization, drug interactions, dosage, education, pharmacology, guidelines, evidence-based decision-making
 author: QuickTakes
 question: >-
     What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
@@ -24,35 +24,29 @@ file_name: what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-
 url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 score: -1.0
 related_article1:
-    id: 169763
+    id: 169745
     title: >-
-        What are patient group directions, and how are they applied in clinical practice?
+        What are the nutritional requirements and hydration standards for maintaining health?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article2:
-    id: 169765
+    id: 169745
     title: >-
-        Why is medication adherence important, and what strategies can improve it?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
+        What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article3:
-    id: 169764
+    id: 169745
     title: >-
-        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
+        What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article4:
     id: 169757
     title: >-
         What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
-related_article5:
-    id: 169750
-    title: >-
-        What are the symptoms and treatment options for common mental health disorders?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 ---
 
 &nbsp;

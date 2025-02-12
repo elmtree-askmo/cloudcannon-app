@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Explore how pain tolerance varies among individuals due to psychological, cultural, biological, and experiential factors, including the impact of health and substance use on pain perception.
+    This content explores the variability of pain tolerance among individuals and the psychological, cultural, biological, and experiential factors contributing to differences in pain perception and tolerance.
   page_keywords: >-
-    pain tolerance, individual variability, psychological factors, cultural influences, social support, biological factors, genetic predisposition, previous pain experiences, physical condition, health status, age factors, substance use, pain management strategies
+    pain tolerance, individual variability, psychological factors, cultural influences, biological factors, genetic factors, previous pain experiences, physical condition, age factors, substance use
 author: QuickTakes
 question: >-
     How does pain tolerance vary among individuals and what factors contribute to this variability?
@@ -24,29 +24,35 @@ file_name: how-does-pain-tolerance-vary-among-individuals-and-what-factors-contr
 url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 score: -1.0
 related_article1:
-    id: 166473
+    id: 166477
     title: >-
-        What is the primary purpose of empiric treatment in clinical practice?
+        What are the key differences between biologic drugs and traditional drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 related_article2:
-    id: 166482
+    id: 166480
     title: >-
-        What are the potential fetal risks associated with Category D and X drugs?
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 related_article3:
-    id: 166474
+    id: 166477
     title: >-
-        How does definitive treatment differ from empiric treatment in terms of timing and application?
+        What are the key differences between biologic drugs and traditional drugs?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 related_article4:
-    id: 166482
+    id: 166477
     title: >-
-        What are the potential fetal risks associated with Category D and X drugs?
+        What are the key differences between biologic drugs and traditional drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article5:
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

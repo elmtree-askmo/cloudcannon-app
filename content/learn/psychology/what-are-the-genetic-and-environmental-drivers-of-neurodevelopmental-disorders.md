@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of the genetic and environmental drivers of neurodevelopmental disorders, highlighting heritability, specific genes, prenatal factors, and socio-economic influences.
+    An overview of the genetic and environmental drivers of neurodevelopmental disorders, emphasizing the interplay between genetic predispositions and environmental influences on cognitive and emotional functioning.
   page_keywords: >-
-    genetic factors, environmental factors, neurodevelopmental disorders, heritability, candidate genes, gene-environment interactions, prenatal influences, early childhood experiences, socioeconomic status, cultural influences, emotional regulation, cognitive development
+    neurodevelopmental disorders, genetic factors, environmental factors, heritability, autism spectrum disorder, attention-deficit/hyperactivity disorder, gene-environment interactions, prenatal influences, adverse childhood experiences, socioeconomic status, cultural influences, emotional development, cognitive development, prevention strategies, treatment strategies
 author: QuickTakes
 question: >-
     What are the genetic and environmental drivers of neurodevelopmental disorders?
@@ -24,35 +24,35 @@ file_name: what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 score: -1.0
 related_article1:
-    id: 164035
+    id: 164026
     title: >-
-        What are the behavioral and cognitive implications of neurodevelopmental disorders?
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 related_article2:
-    id: 164024
-    title: >-
-        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
-related_article3:
-    id: 164024
-    title: >-
-        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
-related_article4:
     id: 164037
     title: >-
         What are the implications of trait impulsivity on reward-related brain activity?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
-related_article5:
-    id: 164033
+related_article3:
+    id: 164028
     title: >-
-        How can brain data be utilized to predict antisocial behavior?
+        What is the role of amygdala hyporesponsiveness in affective processing deficits?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
+    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
+related_article4:
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article5:
+    id: 164037
+    title: >-
+        What are the implications of trait impulsivity on reward-related brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 ---
 
 &nbsp;

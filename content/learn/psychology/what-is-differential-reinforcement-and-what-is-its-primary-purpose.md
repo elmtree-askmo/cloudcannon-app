@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Differential reinforcement is a behavioral principle focusing on reinforcing specific behaviors to increase desired actions and decrease undesired ones, utilized in educational and therapeutic contexts.
+    Differential reinforcement is a behavioral principle aimed at increasing desired behaviors and decreasing undesired ones through selective reinforcement techniques. It includes strategies such as DRA, DRI, DRL, and DRO.
   page_keywords: >-
-    differential reinforcement, behavior modification, DRA, DRI, DRL, DRO, educational settings, therapeutic settings, positive reinforcement, behavior analysis
+    differential reinforcement, behavior modification, reinforcement strategies, DRA, DRI, DRL, DRO, positive behavior, educational settings, therapeutic settings
 author: QuickTakes
 question: >-
     What is differential reinforcement and what is its primary purpose?
@@ -24,35 +24,35 @@ file_name: what-is-differential-reinforcement-and-what-is-its-primary-purpose.md
 url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
 score: -1.0
 related_article1:
-    id: 169328
+    id: 169329
     title: >-
-        What are some common data collection techniques used in behavior analysis?
+        How does learning history impact current behavior and what considerations should be made in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 related_article2:
-    id: 169311
+    id: 169330
     title: >-
-        What is shaping and why is it important in behavior development?
+        What are some common behavior shaping techniques and how are they selected?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 related_article3:
-    id: 169313
+    id: 169324
     title: >-
-        What are the key steps involved in the shaping process?
+        What is extinction in behavior modification and what effect does it have on behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 related_article4:
-    id: 169328
+    id: 169329
     title: >-
-        What are some common data collection techniques used in behavior analysis?
+        How does learning history impact current behavior and what considerations should be made in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 related_article5:
-    id: 169313
+    id: 169318
     title: >-
-        What are the key steps involved in the shaping process?
+        Why is measuring the duration of behavior relevant to behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 ---
 
 &nbsp;

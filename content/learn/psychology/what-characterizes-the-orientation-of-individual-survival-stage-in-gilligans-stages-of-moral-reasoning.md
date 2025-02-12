@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The 'Orientation of Individual Survival' stage in Carol Gilligan's model of moral reasoning is characterized by a focus on self-interest where individuals prioritize their own needs and desires, often leading to egocentric decision making and serving as a foundational phase for moral development.
+    The 'Orientation of Individual Survival' stage in Gilligan's moral reasoning model focuses on self-interest, emphasizing self-centeredness, personal needs, and minimal consideration for others, marking a crucial phase in early moral development.
   page_keywords: >-
-    Orientation of Individual Survival, Carol Gilligan, stages of moral reasoning, self-interest, self-centeredness, personal needs, egocentric perspective, moral development, early moral reasoning, consideration for others
+    Orientation of Individual Survival, Carol Gilligan, moral reasoning, self-interest, self-centeredness, personal needs, egocentric, moral development, personal growth
 author: QuickTakes
 question: >-
     What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
@@ -24,35 +24,35 @@ file_name: what-characterizes-the-orientation-of-individual-survival-stage-in-gi
 url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 score: -1.0
 related_article1:
-    id: 164213
-    title: >-
-        What is the significance of early adolescence in the context of moral development according to Gilligan?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
-related_article2:
-    id: 164208
-    title: >-
-        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
-related_article3:
     id: 164211
     title: >-
         What do studies with no or small gender differences suggest about Gilligan's theory?
     subject: Psychology
     url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article2:
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article3:
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 related_article4:
-    id: 164205
+    id: 164211
     title: >-
-        What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+        What do studies with no or small gender differences suggest about Gilligan's theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
 related_article5:
-    id: 164201
+    id: 164204
     title: >-
-        What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 ---
 
 &nbsp;

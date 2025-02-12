@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Art during the 19th and early 20th centuries reflected social issues and contributed to social movements, addressing themes of class, gender roles, urbanization, and cultural discourse.
+    This content discusses the relationship between art and social issues during the 19th and early 20th centuries, exploring how art reflected societal challenges and contributed to social movements.
   page_keywords: >-
-    19th century, early 20th century, art, social issues, social movements, Victorian era, Realism, commentary, urbanization, modernity, gender roles, suffrage movement, cultural discourse, class struggle
+    art, social issues, social movements, 19th century, early 20th century, Victorian era, Realism, urbanization, modernity, women's rights, class struggle, cultural discourse
 author: QuickTakes
 question: >-
     In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
@@ -22,13 +22,13 @@ answer: >-
 subject: Art History and Literature
 file_name: in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries.md
 url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
-score: 9.0
+score: -1.0
 related_article1:
-    id: 160113
+    id: 160109
     title: >-
-        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 related_article2:
     id: 159832
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article3:
+    id: 159838
+    title: >-
+        How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+related_article4:
+    id: 160115
+    title: >-
+        What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+related_article5:
     id: 160109
     title: >-
         What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
-related_article4:
-    id: 159842
-    title: >-
-        How did queer art develop in modern society, and who were some key figures and movements in this area?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
-related_article5:
-    id: 159851
-    title: >-
-        In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 ---
 
 &nbsp;

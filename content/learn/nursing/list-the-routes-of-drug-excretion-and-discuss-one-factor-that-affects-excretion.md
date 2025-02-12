@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content discusses the primary routes of drug excretion including renal, biliary, pulmonary, cutaneous, and salivary excretion, and emphasizes how renal function affects the efficacy of drug clearance and potential toxicity.
+    Discussion on the primary routes of drug excretion, including renal, biliary, pulmonary, cutaneous, and salivary routes, and the impact of renal function on drug clearance and toxicity.
   page_keywords: >-
-    drug excretion, renal excretion, biliary excretion, pulmonary excretion, cutaneous excretion, salivary excretion, renal function, drug clearance, kidney function, pharmacokinetics, toxicity, chronic kidney disease
+    drug excretion, renal excretion, biliary excretion, pulmonary excretion, cutaneous excretion, salivary excretion, renal function, clearance, chronic kidney disease, medication dosing
 author: QuickTakes
 question: >-
     List the routes of drug excretion and discuss one factor that affects excretion.
@@ -30,29 +30,29 @@ related_article1:
     subject: Nursing
     url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 related_article2:
-    id: 166432
+    id: 166425
     title: >-
-        What factors affect drug metabolism, and what are the clinical implications of these factors?
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 related_article3:
-    id: 166437
+    id: 166425
     title: >-
-        What are the types of drug interactions, and what are their clinical implications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Medicine
+    url: /learn/medicine/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 related_article4:
-    id: 166429
-    title: >-
-        What are adverse effects, and what strategies can be used to manage them?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
-related_article5:
     id: 166433
     title: >-
         Explain the role of systemic circulation in drug distribution.
+    subject: Medicine
+    url: /learn/medicine/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
+related_article5:
+    id: 166425
+    title: >-
+        Explain the mechanism of the first pass effect and its impact on drug efficacy.
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 ---
 
 &nbsp;

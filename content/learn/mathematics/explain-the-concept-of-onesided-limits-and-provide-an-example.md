@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the concept of one-sided limits in calculus, including definitions, the importance of left-hand and right-hand limits, and provides an example with a piecewise function to illustrate how these limits can differ at points of discontinuity.
+    This content explains one-sided limits in calculus, detailing how to evaluate them using a piecewise function example, illustrating left-hand and right-hand limits, and concluding the behavior of the function at points of discontinuity.
   page_keywords: >-
-    one-sided limits, left-hand limit, right-hand limit, discontinuity, limit definition, function behavior, mathematical limits, calculus example
+    one-sided limits, left-hand limit, right-hand limit, continuity, piecewise function, limit evaluation, function behavior, discontinuity, approach from left, approach from right
 author: QuickTakes
 question: >-
     Explain the concept of one-sided limits and provide an example.
@@ -36,23 +36,23 @@ related_article2:
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article3:
-    id: 168339
+    id: 168331
     title: >-
-        Differentiate between scalar fields and vector fields with examples.
+        What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article4:
+    id: 168326
+    title: >-
+        How do you compose two functions and what are the properties of composite functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+related_article5:
     id: 168337
     title: >-
         State the Fundamental Theorem of Calculus and explain its significance.
     subject: Mathematics
     url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
-related_article5:
-    id: 168340
-    title: >-
-        What is the definition of a continuous function and what are the types of discontinuities?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 ---
 
 &nbsp;

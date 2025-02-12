@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Consulting companies significantly influence the engineering industry by providing expertise, enhancing project management, driving technology adoption, focusing on sustainability, conducting risk assessments, and adapting to market demands, thereby ensuring successful engineering outcomes.
+    Consulting companies significantly impact the engineering industry by providing expertise, improving project management efficiency, facilitating technology adoption, promoting sustainability, conducting risk assessments, adapting to market changes, and enhancing talent management.
   page_keywords: >-
-    consulting companies, engineering industry, project management, technology adoption, sustainability, risk assessment, market adaptation, expertise, talent management
+    consulting companies, engineering industry, expertise, project management, technology adoption, sustainability, risk assessment, market adaptation, talent management
 author: QuickTakes
 question: >-
     How do consulting companies impact the engineering industry?
@@ -24,35 +24,35 @@ file_name: how-do-consulting-companies-impact-the-engineering-industry.md
 url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
 score: -1.0
 related_article1:
-    id: 166703
+    id: 166693
     title: >-
-        What are some engineering applications of torque?
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 related_article2:
+    id: 166693
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+related_article3:
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
+    subject: Physics
+    url: /learn/physics/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
+related_article4:
+    id: 166693
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
+    subject: Physics
+    url: /learn/physics/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+related_article5:
     id: 166701
     title: >-
         Explain the concept of torque and its importance in engineering.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
-related_article3:
-    id: 166719
-    title: >-
-        How do engineering organizations support networking and professional development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
-related_article4:
-    id: 166695
-    title: >-
-        How are position vectors used in 3D vector analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
-related_article5:
-    id: 166707
-    title: >-
-        What factors affect energy transfer and efficiency in engineering systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
 ---
 
 &nbsp;

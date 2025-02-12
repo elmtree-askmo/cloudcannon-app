@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 163320
+id: 162989
 date: 2025-01-26
 title: >-
     What are the primary purposes of public health surveillance?
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Public health surveillance is a crucial practice that monitors disease trends, identifies outbreaks, evaluates health interventions, informs policy, guides research, and enhances public health education.
+    The primary purposes of public health surveillance include monitoring disease trends, identifying outbreaks, evaluating interventions, informing policy and practice, guiding research, and supporting public health education.
   page_keywords: >-
-    public health surveillance, disease trends, outbreak identification, intervention evaluation, health policy, epidemiological research, public health education, population health
+    public health, surveillance, monitoring disease trends, identifying outbreaks, evaluating interventions, informing policy, guiding research, public health education
 author: QuickTakes
 question: >-
     What are the primary purposes of public health surveillance?
@@ -24,35 +24,35 @@ file_name: what-are-the-primary-purposes-of-public-health-surveillance.md
 url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 score: -1.0
 related_article1:
-    id: 163318
+    id: 162979
     title: >-
-        What is the difference between an outbreak and an epidemic?
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article2:
-    id: 163324
+    id: 162991
     title: >-
-        How is the Pearson correlation coefficient used in epidemiology?
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 related_article3:
-    id: 163206
+    id: 162991
     title: >-
-        What does a Pearson correlation coefficient indicate in epidemiological studies?
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 related_article4:
-    id: 162990
+    id: 162987
     title: >-
-        What is an ecological study and what is its primary focus in epidemiology?
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article5:
-    id: 163314
+    id: 163323
     title: >-
-        Why are age-adjusted rates important in epidemiological studies?
+        What is the difference between positive and negative associations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 ---
 
 &nbsp;

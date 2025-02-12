@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160638
-date: 2025-01-24
+id: 160227
+date: 2025-01-23
 title: >-
     How do political geography and state control relate to borders and boundaries in territoriality?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Exploration of the relationship between political geography, state control, borders, and boundaries within territoriality, highlighting aspects like sovereignty, identity, and conflict.
+    This content explores the intricate connections between political geography, state control, borders, and boundaries in territoriality, highlighting how these elements influence sovereignty, identity, and spatial relationships.
   page_keywords: >-
-    political geography,state control,borders,territoriality,sovereignty,territorial boundaries,physical boundaries,abstract boundaries,identity,nationalism,conflict,contested spaces,zoning laws,urban development
+    political geography,state control,borders,boundaries,territoriality,sovereignty,territorial control,national boundaries,identity,conflict,urban environments,spatial relationships,zoning laws
 author: QuickTakes
 question: >-
     How do political geography and state control relate to borders and boundaries in territoriality?
@@ -24,35 +24,35 @@ file_name: how-do-political-geography-and-state-control-relate-to-borders-and-bo
 url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 score: -1.0
 related_article1:
-    id: 160626
+    id: 160079
+    title: >-
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+related_article2:
+    id: 160076
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article3:
+    id: 160080
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article4:
+    id: 160099
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article5:
+    id: 160083
     title: >-
         How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
     url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
-related_article2:
-    id: 160100
-    title: >-
-        How do trade relations and global supply chains illustrate economic networks in global interdependence?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
-related_article3:
-    id: 160561
-    title: >-
-        How do trade relations and global supply chains contribute to global interdependence?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
-related_article4:
-    id: 160549
-    title: >-
-        How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
-    subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
-related_article5:
-    id: 160104
-    title: >-
-        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

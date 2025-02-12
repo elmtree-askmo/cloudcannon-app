@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    The historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' lies in its detailed examination of Athenian democracy and political institutions, providing insights into the reforms that shaped governance, influential democratic practices, and the evolution of political structures in ancient Athens.
+    The 'Constitution of the Athenians' by Pseudo-Aristotle provides a detailed examination of Athenian democracy, its political institutions, key reforms, and the evolution of political practices in ancient Athens, serving as a vital historical source for understanding democratic governance.
   page_keywords: >-
-    Pseudo-Aristotle, Constitution of the Athenians, Athenian democracy, political institutions, Assembly, Council of 500, reforms, Solon, Cleisthenes, democratic practices, Radical Democracy, historical context, political evolution, primary source, ancient Greece
+    Pseudo-Aristotle, Constitution of the Athenians, Athenian democracy, political institutions, Assembly, Council of 500, Solon, Cleisthenes, political reforms, democratic practices, historical context, Radical Democracy, ancient Greece, primary source, governance
 author: QuickTakes
 question: >-
     What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
@@ -22,37 +22,31 @@ answer: >-
 subject: History of the World
 file_name: what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy.md
 url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
-score: 9.0
+score: -1.0
 related_article1:
-    id: 163971
+    id: 163977
     title: >-
-        How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article2:
-    id: 163974
+    id: 163977
     title: >-
-        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article3:
-    id: 163961
+    id: 163977
     title: >-
-        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article4:
-    id: 163961
+    id: 163977
     title: >-
-        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
-related_article5:
-    id: 163974
-    title: >-
-        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 ---
 
 &nbsp;

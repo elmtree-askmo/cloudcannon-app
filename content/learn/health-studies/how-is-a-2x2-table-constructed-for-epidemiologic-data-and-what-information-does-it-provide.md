@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    A 2x2 table is a fundamental tool in epidemiology used to summarize the relationship between exposure and disease status, enabling calculations of risk ratios, risk differences, and disease frequency among different groups.
+    A 2x2 table in epidemiology summarizes the relationship between exposure and disease status, allowing for the calculation of association measures like risk ratios and differences, essential for analyzing health outcomes.
   page_keywords: >-
-    2x2 table, epidemiology, exposure, disease status, risk ratios, risk differences, disease frequency, prevalence, incidence, statistical analysis
+    2x2 table, epidemiology, exposure, disease status, data organization, risk ratios, risk differences, disease frequency, prevalence rates, incidence rates, statistical analysis, chi-square test
 author: QuickTakes
 question: >-
     How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
@@ -24,31 +24,31 @@ file_name: how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-inform
 url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
 score: -1.0
 related_article1:
-    id: 163227
+    id: 163073
     title: >-
-        What is the significance of measuring disease frequency over a consistent time interval?
+        How is person-years of observation calculated, and why is it important in dynamic populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
+    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 related_article2:
-    id: 163325
-    title: >-
-        What is the difference between fixed and dynamic populations in epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
-related_article3:
-    id: 163346
-    title: >-
-        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
-related_article4:
-    id: 163335
+    id: 163071
     title: >-
         How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
+related_article3:
+    id: 163068
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
+related_article4:
+    id: 163077
+    title: >-
+        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
 related_article5:
-    id: 163234
+    id: 163071
     title: >-
         How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The Malnutrition Universal Screening Tool (MUST) is a screening tool that identifies adults at risk of malnutrition through a five-step process, including BMI calculation and assessment of weight loss and acute disease impact, ultimately aiding in nutritional management and improved patient care.
+    The Malnutrition Universal Screening Tool (MUST) is a standardized screening tool used to identify adults at risk of malnutrition, employing a five-step process involving BMI calculation, weight loss assessment, and management planning to enhance patient care.
   page_keywords: >-
-    Malnutrition Universal Screening Tool, MUST, nutritional assessment, BMI calculation, weight loss assessment, acute disease impact, risk score, management plan, healthcare professionals, malnutrition risk, patient outcomes, clinical settings
+    Malnutrition, Universal Screening Tool, MUST, nutritional assessment, BMI calculation, weight loss assessment, acute disease impact, risk score, management plan, healthcare, patient outcomes, nutritional support, standardized approach, early identification
 author: QuickTakes
 question: >-
     What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
@@ -24,35 +24,23 @@ file_name: what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-
 url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
 score: -1.0
 related_article1:
-    id: 169777
+    id: 169781
     title: >-
-        What are the World Health Organization's recommendations regarding sugar and fat intake?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
+        What are the causes and consequences of undernutrition, and which populations are most at risk?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 related_article2:
-    id: 169769
+    id: 169786
     title: >-
-        How do the World Health Organization guidelines influence nutrition and hydration practices?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 related_article3:
-    id: 169786
+    id: 169781
     title: >-
-        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+        What are the causes and consequences of undernutrition, and which populations are most at risk?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
-related_article4:
-    id: 169775
-    title: >-
-        What are the nutritional benefits of including dairy in the diet?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
-related_article5:
-    id: 169786
-    title: >-
-        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 ---
 
 &nbsp;

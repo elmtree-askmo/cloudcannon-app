@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    A comprehensive guide on determining the number of hosts required per subnet, calculating subnet masks, and implementing efficient address allocation methods for optimal network performance.
+    A systematic approach to determine the number of hosts required per subnet, calculate the subnet mask, and efficiently allocate IP addresses, ensuring optimized network performance and resource utilization.
   page_keywords: >-
-    subnetting, hosts, subnet mask, address allocation, IP address, usable hosts, private addresses, public addresses, network management, efficient allocation
+    subnetting, hosts, subnet mask, address allocation, usable hosts, IP addresses, network addressing, binary calculations, private IP addresses, public IP addresses
 author: QuickTakes
 question: >-
     How do you determine the number of hosts required per subnet and allocate addresses efficiently?
@@ -24,30 +24,24 @@ file_name: how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allo
 url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 score: -1.0
 related_article1:
-    id: 165733
+    id: 165726
     title: >-
-        How does subnetting contribute to reducing broadcast traffic and improving network performance?
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article2:
-    id: 165722
+    id: 165726
     title: >-
-        What are the main components of an IPv4 address structure?
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-ipv4-address-structure
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article3:
-    id: 165736
+    id: 165726
     title: >-
-        What strategies can be used to minimize unused addresses in a subnet?
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article4:
-    id: 165724
-    title: >-
-        What is the primary purpose of subnetting in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
-related_article5:
     id: 165729
     title: >-
         What are the differences between common subnet masks such as /8, /16, and /24?

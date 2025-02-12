@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    Strong induction is applied to solve the Coin Change Problem by proving that any amount of money can be formed with specific coin denominations through base cases and inductive reasoning.
+    This content explains the application of strong induction to solve the Coin Change Problem, demonstrating how to prove that amounts of money can be formed using specific denominations of coins.
   page_keywords: >-
-    strong induction, Coin Change Problem, proof technique, base cases, inductive hypothesis, inductive step, coin denominations, amount formation, 2-cent coins, 5-cent coins, integer amounts, money formation
+    strong induction, Coin Change Problem, proof technique, 2-cent coins, 5-cent coins, base cases, inductive hypothesis, inductive step, combination of coins, integer amounts
 author: QuickTakes
 question: >-
     In what way is strong induction applied to solve the Coin Change Problem?
@@ -30,11 +30,11 @@ related_article1:
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 related_article2:
-    id: 170704
+    id: 170694
     title: >-
-        How is Big O Notation used to measure algorithm efficiency?
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 related_article3:
     id: 170694
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 related_article4:
-    id: 170688
+    id: 170694
     title: >-
-        How does the assumption of all values before n play a role in strong induction?
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
-related_article5:
-    id: 170697
-    title: >-
-        Provide an example of a base case in the Coin Change Problem.
-    subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 ---
 
 &nbsp;

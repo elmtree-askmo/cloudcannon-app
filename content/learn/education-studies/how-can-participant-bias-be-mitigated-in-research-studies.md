@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses various methods to mitigate participant bias in research studies, including blinding, control groups, randomization, and more.
+    This content outlines effective strategies to mitigate participant bias in research studies, including the use of blinding, control groups, randomization, and standardized procedures to enhance the validity of research outcomes.
   page_keywords: >-
-    participant bias, research studies, blinding, control groups, randomization, clear instructions, anonymity, pilot testing, standardized procedures, debriefing
+    participant bias, mitigation strategies, blinding, control groups, randomization, clear instructions, anonymity, pilot testing, standardized procedures, debriefing
 author: QuickTakes
 question: >-
     How can participant bias be mitigated in research studies?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: how-can-participant-bias-be-mitigated-in-research-studies.md
 url: /learn/education-studies/questions/how-can-participant-bias-be-mitigated-in-research-studies
 score: -1.0
-related_article1:
-    id: 165116
-    title: >-
-        What are some common pitfalls in reporting experimental outcomes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
-related_article2:
-    id: 165119
-    title: >-
-        How does color perception influence consumer behavior in marketing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
-related_article3:
-    id: 165111
-    title: >-
-        What is the difference between continuous and categorical variables?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
-related_article4:
-    id: 165117
-    title: >-
-        What is the importance of pilot testing in questionnaire design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-pilot-testing-in-questionnaire-design
-related_article5:
-    id: 165098
-    title: >-
-        How can independent variables be manipulated to impact experimental outcomes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+
 ---
 
 &nbsp;

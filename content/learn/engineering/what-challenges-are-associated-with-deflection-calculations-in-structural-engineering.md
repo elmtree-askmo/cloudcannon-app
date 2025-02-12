@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    Overview of the challenges faced in deflection calculations within structural engineering, encompassing material properties, load variability, geometric considerations, boundary conditions, and compliance with regulatory standards.
+    Deflection calculations in structural engineering face challenges related to material properties, load variability, geometric considerations, boundary conditions, environmental factors, complex load interactions, regulatory compliance, and the need for innovative design solutions.
   page_keywords: >-
     deflection calculations, structural engineering, material properties, load variability, geometric considerations, boundary conditions, environmental factors, complex load interactions, regulatory compliance, innovative design solutions
 author: QuickTakes
@@ -24,35 +24,35 @@ file_name: what-challenges-are-associated-with-deflection-calculations-in-struct
 url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 score: -1.0
 related_article1:
-    id: 169373
+    id: 169372
     title: >-
-        In what ways can architecture evoke emotions and create sensory experiences?
+        How do advanced materials contribute to technical developments in architecture?
     subject: Engineering
-    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
 related_article2:
-    id: 169364
+    id: 169363
     title: >-
-        What is the significance of blending and overlapping colors in spatial design?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+        How can color be used as a tool in architecture to impact emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
 related_article3:
-    id: 169366
+    id: 169363
     title: >-
-        What role does natural light play in environmental design, particularly in courtyard integration?
-    subject: Engineering
-    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
+        How can color be used as a tool in architecture to impact emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
 related_article4:
     id: 169363
     title: >-
         How can color be used as a tool in architecture to impact emotions?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
 related_article5:
-    id: 169361
+    id: 169372
     title: >-
-        How does the integration of color enhance architectural design?
+        How do advanced materials contribute to technical developments in architecture?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Explore various tools and methods for evaluating skills and values in career decision-making, including self-assessment questionnaires, interest and aptitude surveys, and skills matchers to enhance self-awareness and improve career choices.
+    Explore various tools and methods available for evaluating skills and values in career decision-making, including self-assessment questionnaires, interest and aptitude surveys, and skills matching tools.
   page_keywords: >-
-    career decision-making, skills evaluation, values assessment, self-assessment questionnaires, interest surveys, aptitude surveys, skills matcher, work values exploration, personal strengths, career interests, self-awareness, emotional qualities, adaptability, resilience
+    career decision-making, skills evaluation, values assessment, self-assessment questionnaires, interest surveys, aptitude surveys, skills matcher, career exploration, work values, personal strengths, emotional qualities, adaptability, resilience
 author: QuickTakes
 question: >-
     What tools are available for evaluating skills and values in career decision-making?
@@ -24,35 +24,35 @@ file_name: what-tools-are-available-for-evaluating-skills-and-values-in-career-d
 url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
 score: -1.0
 related_article1:
+    id: 168447
+    title: >-
+        What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article2:
+    id: 168436
+    title: >-
+        How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article3:
+    id: 168447
+    title: >-
+        What careers are suitable for Analysts and Diplomats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article4:
     id: 168439
     title: >-
         What role does humor play in personality development?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
-related_article2:
-    id: 168444
-    title: >-
-        How do Holland Codes categorize work personalities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
-related_article3:
-    id: 168435
-    title: >-
-        What is the purpose of online personality questionnaires?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
-related_article4:
-    id: 168442
-    title: >-
-        What are the inherited traits associated with introversion and extroversion?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
 related_article5:
-    id: 168441
+    id: 168447
     title: >-
-        How does seeking entertainment and solitude affect lifestyle choices?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
+        What careers are suitable for Analysts and Diplomats?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-careers-are-suitable-for-analysts-and-diplomats
 ---
 
 &nbsp;

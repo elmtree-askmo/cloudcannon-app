@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the common systemic symptoms observed in leukemia patients, including fatigue, frequent infections, easy bruising, anemia, lymphadenopathy, and organ enlargement, highlighting the impact of leukemia on overall health.
+    Systemic symptoms commonly observed in leukemia patients include fatigue, frequent infections, easy bruising and bleeding, anemia, lymphadenopathy, splenomegaly, hepatomegaly, and pancytopenia, stemming from bone marrow failure and leukemia cell infiltration.
   page_keywords: >-
-    leukemia, systemic symptoms, fatigue, weakness, frequent infections, easy bruising, bleeding, anemia, lymphadenopathy, splenomegaly, hepatomegaly, pancytopenia, bone marrow failure
+    leukemia, systemic symptoms, fatigue, weakness, frequent infections, easy bruising, bleeding, anemia, lymphadenopathy, splenomegaly, hepatomegaly, pancytopenia, bone marrow failure, hematologic system
 author: QuickTakes
 question: >-
     What systemic symptoms are commonly observed in leukemia patients?
@@ -24,35 +24,35 @@ file_name: what-systemic-symptoms-are-commonly-observed-in-leukemia-patients.md
 url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 score: -1.0
 related_article1:
-    id: 166300
+    id: 166304
     title: >-
-        How does organ infiltration present in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
+        What are the distinguishing characteristics of Hodgkin's lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
 related_article2:
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
+related_article3:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+related_article4:
+    id: 166295
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
+related_article5:
     id: 166318
     title: >-
         What is the significance of the Philadelphia chromosome in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
-related_article3:
-    id: 166301
-    title: >-
-        What is the goal of the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
-related_article4:
-    id: 166289
-    title: >-
-        What are the key changes in the bone marrow associated with leukemia pathophysiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
-related_article5:
-    id: 166307
-    title: >-
-        How do solid tumors form in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 ---
 
 &nbsp;

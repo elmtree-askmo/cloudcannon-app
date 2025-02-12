@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn how to use the math module in Python to calculate the square root of a number using the math.sqrt() function, and handle potential ValueErrors.
+    Learn how to calculate the square root of a number in Python using the math module's sqrt function, along with error handling for negative numbers.
   page_keywords: >-
-    math module, square root, Python, math.sqrt(), calculate square root, ValueError, exception handling, non-negative number, math domain error
+    math module, square root, math.sqrt(), Python, error handling, ValueError, non-negative number, function, import, try-except block
 author: QuickTakes
 question: >-
     How can you use the math module to calculate the square root of a number?
@@ -24,35 +24,35 @@ file_name: how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-num
 url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
 score: -1.0
 related_article1:
+    id: 168605
+    title: >-
+        How can you import and use a module in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
+related_article2:
     id: 168594
     title: >-
         What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
-related_article2:
-    id: 168590
-    title: >-
-        How do you call a function with parameters in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article3:
-    id: 168591
+    id: 168596
     title: >-
-        Name two common functions available in Python's math module.
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article4:
-    id: 168587
+    id: 168603
     title: >-
-        What are the benefits of using functions in software development?
+        How can custom exceptions be created in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 related_article5:
-    id: 168587
+    id: 168600
     title: >-
-        What are the benefits of using functions in software development?
+        What is a function docstring and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Exploration of how urbanization and technological advancements during the Industrial Revolution influenced modern art, focusing on new themes, techniques, and social issues.
+    This content explores the impact of urbanization and technological advancements on modern art during the Industrial Revolution, highlighting how these changes influenced themes, materials, and artistic expression.
   page_keywords: >-
-    urbanization, technological advancements, modern art, Industrial Revolution, Realism, Impressionism, artistic expression, social issues, political context, Vincent van Gogh, Claude Monet, Gustave Courbet, art movements, new materials, tube paints, en plein air, traditional institutions, social consciousness, contemporary life
+    urbanization, technological advancements, modern art, Industrial Revolution, Realism, Impressionism, social issues, artistic expression, new materials, photography, academic art, Vincent van Gogh, Paul Cézanne, Gustave Courbet, Édouard Manet, en plein air
 author: QuickTakes
 question: >-
     How did urbanization and technological advancements impact modern art during the Industrial Revolution?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution.md
 url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
-score: 9.5
+score: -1.0
 related_article1:
-    id: 165976
+    id: 165979
     title: >-
-        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article2:
-    id: 165970
+    id: 165979
     title: >-
-        How did artists respond to political systems through their depiction of social realities?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article3:
-    id: 165971
+    id: 165977
     title: >-
-        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 related_article4:
-    id: 165978
+    id: 165979
     title: >-
-        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article5:
-    id: 165973
+    id: 165977
     title: >-
-        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 ---
 
 &nbsp;

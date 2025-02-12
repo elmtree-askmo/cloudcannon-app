@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Exploration of constitutional symptoms associated with lymphoma, including fever, night sweats, weight loss, and fatigue, which are crucial for early detection and diagnosis.
+    Constitutional symptoms associated with lymphoma include fever, night sweats, weight loss, and fatigue, which are key for early detection and diagnosis of the disease.
   page_keywords: >-
-    constitutional symptoms, lymphoma, fever, night sweats, weight loss, fatigue, lymphadenopathy, abdominal swelling, early detection, treatment
+    lymphoma, constitutional symptoms, fever, night sweats, weight loss, fatigue, lymphadenopathy, diagnosis, early detection, patient outcomes
 author: QuickTakes
 question: >-
     What constitutional symptoms are associated with lymphoma?
@@ -24,35 +24,35 @@ file_name: what-constitutional-symptoms-are-associated-with-lymphoma.md
 url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 score: -1.0
 related_article1:
-    id: 166303
+    id: 166313
     title: >-
-        What is the purpose of the maintenance phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article2:
-    id: 166317
+    id: 166312
     title: >-
-        What is the mechanism of action of chemotherapy in cancer treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+        How does monoclonal antibody therapy work in treating lymphoma?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
 related_article3:
-    id: 166290
+    id: 166313
     title: >-
-        How does pancytopenia manifest in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+        What are the common causes and symptoms of anemia?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article4:
-    id: 166295
+    id: 166298
     title: >-
-        What are the primary risk factors for developing leukemia related to radiation exposure?
+        What are the symptoms of bone marrow overcrowding in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
+    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 related_article5:
-    id: 166299
+    id: 166301
     title: >-
-        What systemic symptoms are commonly observed in leukemia patients?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
+        What is the goal of the induction phase in leukemia treatment?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 ---
 
 &nbsp;

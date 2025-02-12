@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the effects of damage to the occipital lobe on visual pathways, including various visual impairments such as vision loss, hemianopia, visual agnosia, and impacts on sensory integration.
+    This content discusses the effects of damage to the occipital lobe on visual pathways, detailing various visual impairments such as vision loss, hemianopia, visual agnosia, and scotomas, and explains the importance of the occipital lobe in visual information processing.
   page_keywords: >-
-    occipital lobe, visual pathways, vision loss, hemianopia, visual agnosia, scotomas, blindsight, sensory integration, what pathway, where pathway
+    occipital lobe, visual pathways, vision loss, hemianopia, visual agnosia, scotomas, blindsight, visual processing, what pathway, where pathway, cortical blindness, object recognition, spatial awareness, sensory integration, visual field
 author: QuickTakes
 question: >-
     How does damage to the occipital lobe affect visual pathways?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-does-damage-to-the-occipital-lobe-affect-visual-pathways.md
 url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
 score: -1.0
-related_article1:
-    id: 164658
-    title: >-
-        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
-related_article2:
-    id: 164658
-    title: >-
-        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
-related_article3:
-    id: 164653
-    title: >-
-        How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
-related_article4:
-    id: 164654
-    title: >-
-        What is the portable magnification factor and why is it important in visual perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
-related_article5:
-    id: 164650
-    title: >-
-        What are the symptoms of hemianopia and how does it affect daily life?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+
 ---
 
 &nbsp;

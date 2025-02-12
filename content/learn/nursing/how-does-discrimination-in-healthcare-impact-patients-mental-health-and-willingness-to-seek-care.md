@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Discrimination in healthcare affects patients' mental health and willingness to seek care by increasing stress and anxiety, causing loss of trust in healthcare providers, creating emotional and psychological distress, perpetuating societal stigma, contributing to healthcare disparities, and resulting in fragmented health systems.
+    This content discusses how discrimination in healthcare affects patients' mental health and their willingness to seek care, highlighting issues such as increased stress, loss of trust, emotional impact, societal stigma, healthcare disparities, and the need for culturally competent care.
   page_keywords: >-
-    discrimination, healthcare, mental health, stress, anxiety, trust, marginalized groups, LGBTQ+, stigma, healthcare disparities, emotional impact, cultural competency, societal norms, healthcare access, fragmented systems
+    discrimination, healthcare impact, mental health, patient care, stress and anxiety, loss of trust, emotional distress, societal norms, healthcare disparities, cultural competence, LGBTQ+ rights, marginalized populations, stigma, access to care
 author: QuickTakes
 question: >-
     How does discrimination in healthcare impact patients' mental health and willingness to seek care?
@@ -24,35 +24,35 @@ file_name: how-does-discrimination-in-healthcare-impact-patients-mental-health-a
 url: /learn/nursing/questions/how-does-discrimination-in-healthcare-impact-patients-mental-health-and-willingness-to-seek-care
 score: -1.0
 related_article1:
-    id: 169653
+    id: 169652
     title: >-
-        What systemic barriers do marginalized groups face in accessing healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+        What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 related_article2:
-    id: 169652
+    id: 169645
     title: >-
-        What societal changes have occurred in the legal and social context of transgender issues?
-    subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 related_article3:
-    id: 169651
+    id: 169645
     title: >-
-        Who are some notable figures in the history of transgender advocacy?
-    subject: Nursing
-    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 related_article4:
-    id: 169654
-    title: >-
-        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
-related_article5:
     id: 169652
     title: >-
         What societal changes have occurred in the legal and social context of transgender issues?
-    subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article5:
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 ---
 
 &nbsp;

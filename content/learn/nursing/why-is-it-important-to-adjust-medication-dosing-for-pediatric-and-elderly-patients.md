@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    The importance of adjusting medication dosing for pediatric and elderly patients due to physiological and pharmacological variations affecting drug metabolism, the higher risk of adverse effects, and the need for individualized treatment to ensure safety and effectiveness.
+    This content discusses the importance of adjusting medication dosing for pediatric and elderly patients, highlighting their unique physiological characteristics, the risk of adverse drug reactions, and the necessity for individualized treatment plans.
   page_keywords: >-
-    medication dosing,pediatric patients,elderly patients,physiological differences,pharmacological factors,drug metabolism,adverse effects,therapeutic efficacy,individualized treatment,polypharmacy
+    medication dosing, pediatric patients, elderly patients, pharmacology, physiology, drug metabolism, therapeutic efficacy, adverse effects, polypharmacy, individualized treatment
 author: QuickTakes
 question: >-
     Why is it important to adjust medication dosing for pediatric and elderly patients?
@@ -24,17 +24,17 @@ file_name: why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-eld
 url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 score: -1.0
 related_article1:
-    id: 166479
+    id: 166488
     title: >-
-        What physiological variables must be considered when administering medication to patients?
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
     subject: Nursing
-    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article2:
-    id: 166477
+    id: 166481
     title: >-
-        What are the key differences between biologic drugs and traditional drugs?
+        What are Category D and X drugs, and why are they significant in pregnancy?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
 related_article3:
     id: 166488
     title: >-
@@ -42,11 +42,17 @@ related_article3:
     subject: Nursing
     url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article4:
-    id: 166482
+    id: 166488
     title: >-
-        What are the potential fetal risks associated with Category D and X drugs?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article5:
+    id: 166475
+    title: >-
+        What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
 ---
 
 &nbsp;

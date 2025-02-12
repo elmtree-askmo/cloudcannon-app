@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the age range and significance of the sensorimotor stage in Piaget's theory of cognitive development, highlighting its role in forming mental representations and the development of object permanence.
+    The sensorimotor stage in Piaget's cognitive development theory spans from birth to approximately two years of age, focusing on learning through sensory experiences and motor actions.
   page_keywords: >-
-    Piaget, cognitive development, sensorimotor stage, age range, birth to two years, sensory experiences, motor actions, object permanence, cognitive abilities, substages, mental representations, make-believe play, symbolic play
+    sensorimotor stage,cognitive development,Piaget,age range,birth to two years,infants,developmental psychology,sensory experiences,motor actions,object permanence,mental representations,substage,make-believe play,symbolic play
 author: QuickTakes
 question: >-
     What is the age range for the sensorimotor stage in cognitive development?
@@ -24,35 +24,29 @@ file_name: what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-develop
 url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 score: -1.0
 related_article1:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article2:
     id: 168096
     title: >-
         What distinguishes secondary circular reactions from primary circular reactions?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
-related_article2:
-    id: 168106
-    title: >-
-        How do sensory input and motor actions contribute to cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
 related_article3:
-    id: 168099
+    id: 168107
     title: >-
-        What is the significance of tertiary circular reactions in cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 related_article4:
-    id: 168099
+    id: 168096
     title: >-
-        What is the significance of tertiary circular reactions in cognitive development?
+        What distinguishes secondary circular reactions from primary circular reactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
-related_article5:
-    id: 168104
-    title: >-
-        What is make-believe play, and why is it important for cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 ---
 
 &nbsp;

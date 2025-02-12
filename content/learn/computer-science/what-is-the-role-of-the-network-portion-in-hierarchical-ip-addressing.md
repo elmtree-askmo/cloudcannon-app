@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    The network portion of an IPv4 address is crucial for hierarchical IP addressing, facilitating efficient routing, subnetting, and management of internet traffic.
+    The network portion of an IPv4 address is crucial for hierarchical IP addressing, enabling efficient routing, subnetting, and overall management of internet traffic.
   page_keywords: >-
-    network portion, hierarchical IP addressing, IPv4 address, routing, subnetting, subnet mask, network identification, address aggregation, routing efficiency, network management
+    network portion, hierarchical IP addressing, IPv4 address, routing, subnetting, subnet mask, aggregation, routing efficiency, addressing types, network management
 author: QuickTakes
 question: >-
     What is the role of the network portion in hierarchical IP addressing?
@@ -24,23 +24,23 @@ file_name: what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 score: -1.0
 related_article1:
-    id: 165716
+    id: 165710
     title: >-
-        Define broadcast addressing and provide an example scenario where it is used.
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article2:
-    id: 165714
+    id: 165710
     title: >-
-        Describe the representation of a broadcast address when the host portion is all 1s.
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article3:
-    id: 165717
+    id: 165710
     title: >-
-        What is multicast addressing and how does it differ from unicast and broadcast addressing?
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article4:
     id: 165717
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 related_article5:
-    id: 165714
+    id: 165713
     title: >-
-        Describe the representation of a broadcast address when the host portion is all 1s.
+        How is a host address represented using a combination of 0s and 1s?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 ---
 
 &nbsp;

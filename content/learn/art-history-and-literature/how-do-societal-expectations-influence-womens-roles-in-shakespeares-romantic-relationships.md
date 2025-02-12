@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content explores how societal expectations influence women's roles in Shakespeare's romantic relationships, highlighting the tension between societal norms and individual agency through complex female characters.
+    Analysis of how societal expectations shape women's roles in Shakespeare's romantic relationships, highlighting contrasts between characters, themes of agency, and critique of patriarchal norms.
   page_keywords: >-
-    Shakespeare, societal expectations, women's roles, romantic relationships, Elizabethan era, obedience, submission, Beatrice, Hero, class distinction, resistance, agency, emotional complexity, critique, gender norms
+    societal expectations, women's roles, Shakespeare, romantic relationships, Elizabethan era, obedience, chastity, Beatrice, Hero, class distinction, agency, resistance, autonomy, emotional complexity, critique of norms
 author: QuickTakes
 question: >-
     How do societal expectations influence women's roles in Shakespeare's romantic relationships?
@@ -22,37 +22,8 @@ answer: >-
 subject: Art History and Literature
 file_name: how-do-societal-expectations-influence-womens-roles-in-shakespeares-romantic-relationships.md
 url: /learn/art-history-and-literature/questions/how-do-societal-expectations-influence-womens-roles-in-shakespeares-romantic-relationships
-score: 9.0
-related_article1:
-    id: 161900
-    title: >-
-        What methods can be used to understand a character's motivations in a text?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
-related_article2:
-    id: 161900
-    title: >-
-        What methods can be used to understand a character's motivations in a text?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
-related_article3:
-    id: 161893
-    title: >-
-        What are the key components of constructing a strong thesis statement in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
-related_article4:
-    id: 161894
-    title: >-
-        Why is close reading essential in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
-related_article5:
-    id: 161893
-    title: >-
-        What are the key components of constructing a strong thesis statement in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
+score: -1.0
+
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Social constructivism influences qualitative research by emphasizing the subjective construction of reality, prioritizing individual experiences, and recognizing the importance of context and ethical engagement in the research process.
+    Social constructivism influences qualitative research by emphasizing the subjective construction of reality, highlighting the importance of context, and requiring ethical engagement with participants.
   page_keywords: >-
-    social constructivism, qualitative research, subjective experiences, ontological perspective, epistemology, methodological approaches, context, participant interaction, trust and rapport, ethical considerations
+    social constructivism, qualitative research, subjective experiences, ontology, epistemology, methodologies, context, ethical considerations, participant interaction, meaning construction
 author: QuickTakes
 question: >-
     How does social constructivism influence qualitative research?
@@ -24,35 +24,35 @@ file_name: how-does-social-constructivism-influence-qualitative-research.md
 url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
 score: -1.0
 related_article1:
-    id: 163674
+    id: 163676
     title: >-
-        How does positivism differ from social constructivism in terms of ontology?
+        How do ontology and epistemology influence research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 related_article2:
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article3:
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+related_article4:
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article5:
     id: 163681
     title: >-
         Why is research design important in the research process?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
-related_article3:
-    id: 163693
-    title: >-
-        What is holism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
-related_article4:
-    id: 163673
-    title: >-
-        What is ontology, and why is it important in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
-related_article5:
-    id: 163696
-    title: >-
-        How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 ---
 
 &nbsp;

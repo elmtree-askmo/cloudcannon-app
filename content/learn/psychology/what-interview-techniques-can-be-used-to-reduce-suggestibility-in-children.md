@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses various interview techniques aimed at reducing suggestibility in children during interviews, highlighting open-ended questions, a comfortable atmosphere, narrative recall, and other methods to enhance the accuracy of children's testimony.
+    Explores effective interview techniques to reduce suggestibility in children, including open-ended questions, supportive environments, and cognitive interviewing methods to enhance the accuracy of children's eyewitness testimony.
   page_keywords: >-
-    interview techniques, suggestibility, children, open-ended questions, comfortable environment, narrative recall, cognitive interview, minimize misinformation, reassurance, interviewer training
+    interview techniques, suggestibility in children, open-ended questions, comfortable environment, narrative recall, cognitive interview technique, minimize misinformation, interviewer training, eyewitness testimony, child development
 author: QuickTakes
 question: >-
     What interview techniques can be used to reduce suggestibility in children?
@@ -24,35 +24,35 @@ file_name: what-interview-techniques-can-be-used-to-reduce-suggestibility-in-chi
 url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 score: -1.0
 related_article1:
-    id: 168028
+    id: 168018
     title: >-
-        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article2:
-    id: 168027
+    id: 168031
     title: >-
-        How can misinformation be avoided during interviews with children?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 related_article3:
-    id: 168015
+    id: 168018
     title: >-
-        How does the misinformation effect impact memory recall?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article4:
-    id: 168014
+    id: 168018
     title: >-
-        What is the reverse developmental trend in memory accuracy?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article5:
-    id: 168024
+    id: 168031
     title: >-
-        How does cognitive development impact memory recall?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 ---
 
 &nbsp;

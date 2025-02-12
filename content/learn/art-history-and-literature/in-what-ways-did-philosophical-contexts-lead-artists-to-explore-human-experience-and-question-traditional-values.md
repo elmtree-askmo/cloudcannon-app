@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    This content discusses how various philosophical movements, such as existentialism and romanticism, have influenced artists to explore human experience and challenge traditional values, particularly in the 19th and early 20th centuries.
+    This content discusses how various philosophical movements, including existentialism and romanticism, have influenced artists to explore human experience and challenge traditional values through their works, particularly during the 19th and early 20th centuries.
   page_keywords: >-
-    existentialism, romanticism, social consciousness, modernity, secularization, abstraction, subjectivity, human experience, traditional values, artistic expression
+    philosophy, human experience, traditional values, existentialism, romanticism, social consciousness, modernity, secularization, abstraction, subjectivity
 author: QuickTakes
 question: >-
     In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
@@ -22,37 +22,19 @@ answer: >-
 subject: Art History and Literature
 file_name: in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values.md
 url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165967
+    id: 165977
     title: >-
-        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 related_article2:
-    id: 165969
+    id: 165973
     title: >-
-        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
-related_article3:
-    id: 165974
-    title: >-
-        How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
-related_article4:
-    id: 165975
-    title: >-
-        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
-related_article5:
-    id: 165976
-    title: >-
-        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 ---
 
 &nbsp;

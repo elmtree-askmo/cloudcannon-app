@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains the difference between life satisfaction and happiness within the context of well-being, highlighting their distinct characteristics and how they reflect an individual's subjective experience.
+    This content discusses the distinct concepts of life satisfaction and happiness within the context of well-being, highlighting how life satisfaction is a stable cognitive evaluation while happiness reflects immediate emotional experiences.
   page_keywords: >-
-    life satisfaction,happiness,well-being,subjective experience,cognitive assessment,emotional experience,life evaluation,personal goals,relationships,stability,transient emotions
+    life satisfaction,happiness,well-being,subjective experience,cognitive assessment,emotional experience,personal goals,transient feelings,life evaluation
 author: QuickTakes
 question: >-
     What is the difference between life satisfaction and happiness in the context of well-being?
@@ -24,35 +24,35 @@ file_name: what-is-the-difference-between-life-satisfaction-and-happiness-in-the
 url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
 score: -1.0
 related_article1:
-    id: 168878
+    id: 168890
     title: >-
-        What is the narrative fallacy and how does it affect our understanding of past events?
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article2:
-    id: 168888
+    id: 168890
     title: >-
-        What is the disposition effect and how does it affect investment decisions?
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article3:
-    id: 168887
+    id: 168882
     title: >-
-        How do sunk costs influence decision-making in terms of attendance and financial decisions?
+        Under what conditions can expert intuition be considered trustworthy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 related_article4:
-    id: 168886
+    id: 168890
     title: >-
-        Describe the premortem strategy and its purpose in decision-making.
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article5:
-    id: 168881
+    id: 168880
     title: >-
-        Why are statistical predictions often more reliable than clinical predictions?
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 ---
 
 &nbsp;

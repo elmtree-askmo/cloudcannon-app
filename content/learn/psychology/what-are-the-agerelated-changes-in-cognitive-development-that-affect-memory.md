@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This text discusses the impact of age-related changes on cognitive development, focusing on how these changes affect memory in both older adults and children, including declines in working memory, processing speed, and memory retrieval.
+    This content discusses age-related changes in cognitive development that affect memory, highlighting the decline in working memory, processing speed, and memory retrieval in older adults, as well as the suggestibility and evolving cognitive capabilities in children.
   page_keywords: >-
-    age-related changes,cognitive development,memory,working memory decline,processing speed,memory retrieval difficulties,suggestibility in children,cognitive development stages,circadian rhythms,memory performance
+    age-related changes, cognitive development, memory, working memory decline, processing speed, memory retrieval, suggestibility, cognitive development stages, circadian rhythms, episodic memory, semantic memory, children's memory, cognitive skills, age-appropriate strategies
 author: QuickTakes
 question: >-
     What are the age-related changes in cognitive development that affect memory?
@@ -24,35 +24,35 @@ file_name: what-are-the-agerelated-changes-in-cognitive-development-that-affect-
 url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 score: -1.0
 related_article1:
-    id: 168022
+    id: 168031
     title: >-
-        How are false memories generated from suggestive information?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 related_article2:
-    id: 168028
+    id: 168021
     title: >-
-        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+        What interview techniques can be used to reduce suggestibility in children?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 related_article3:
-    id: 168012
+    id: 168018
     title: >-
-        What are the developmental trends in age-related differences in memory?
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article4:
-    id: 168023
+    id: 168031
     title: >-
-        What role do age and knowledge play in the formation of false memories?
+        What have studies revealed about the reliability of children's eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 related_article5:
-    id: 168011
+    id: 168021
     title: >-
-        How does age affect the accuracy of eyewitness testimony?
+        What interview techniques can be used to reduce suggestibility in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 ---
 
 &nbsp;

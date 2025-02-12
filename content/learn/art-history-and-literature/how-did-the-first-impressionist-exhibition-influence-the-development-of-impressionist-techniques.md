@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    The First Impressionist Exhibition of 1874 played a crucial role in shaping Impressionist techniques, promoting new approaches to light, color, and subject matter, and laying the foundation for modern art.
+    The First Impressionist Exhibition of 1874 significantly influenced the development of Impressionist techniques, showcasing new methods of painting that emphasized light and color, fostering a community of artists, and shifting focus to everyday subjects.
   page_keywords: >-
-    First Impressionist Exhibition, Impressionism, Claude Monet, Edgar Degas, light effects, color techniques, plein air painting, loose brushwork, color theory, everyday subjects, modern art, artistic norms, Salon des Indépendants, avant-garde art, Post-Impressionism, Cubism
+    Impressionism, First Impressionist Exhibition, Claude Monet, Edgar Degas, modern art, artistic techniques, light, color, plein air painting, loose brushwork, color theory, everyday subjects, avant-garde art, Post-Impressionism, Cubism
 author: QuickTakes
 question: >-
     How did the First Impressionist Exhibition influence the development of Impressionist techniques?
@@ -22,37 +22,31 @@ answer: >-
 subject: Art History and Literature
 file_name: how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques.md
 url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
-score: 9.5
+score: -1.0
 related_article1:
-    id: 165956
+    id: 165943
     title: >-
-        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article2:
-    id: 165942
+    id: 165949
     title: >-
-        How did alternative exhibitions impact the development of new art styles?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article3:
-    id: 165944
+    id: 165949
     title: >-
-        In what ways did the Salon des Refusés promote avant-garde art?
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article4:
-    id: 165944
+    id: 165960
     title: >-
-        In what ways did the Salon des Refusés promote avant-garde art?
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
-related_article5:
-    id: 165942
-    title: >-
-        How did alternative exhibitions impact the development of new art styles?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how the compressed format of IPv6 addresses works, including the omission of leading zeros and the use of double colon notation to represent contiguous zeros, making the addresses simpler and easier to read.
+    This content explains how the compressed format of IPv6 addresses works, detailing techniques like the omission of leading zeros and the use of double colon to simplify the representation of these lengthy 128-bit addresses.
   page_keywords: >-
-    IPv6, compressed format, address representation, leading zeros, double colon notation, hextets, hexadecimal, IPv6 compression, address notation, simplification
+    IPv6, address compression, leading zeros, double colon, hextet, hexadecimal digits, contiguous zeros, notation rules, network addressing
 author: QuickTakes
 question: >-
     How does the compressed format of IPv6 addresses work?
@@ -24,29 +24,35 @@ file_name: how-does-the-compressed-format-of-ipv6-addresses-work.md
 url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 score: -1.0
 related_article1:
-    id: 165739
+    id: 165755
     title: >-
-        Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+        How does the dual stack technique facilitate IPv6 coexistence with IPv4?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
+    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 related_article2:
-    id: 165754
-    title: >-
-        What are the characteristics of a Unique Local Address (ULA) in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
-related_article3:
     id: 165744
     title: >-
         Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
-related_article4:
-    id: 165762
+related_article3:
+    id: 165763
     title: >-
-        What is the rule for omitting leading zeros in IPv6 address notation?
+        When is the double colon notation used in IPv6 addresses, and what is its limitation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
+    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
+related_article4:
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
+related_article5:
+    id: 165758
+    title: >-
+        How is static IPv6 address configuration performed on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
 ---
 
 &nbsp;

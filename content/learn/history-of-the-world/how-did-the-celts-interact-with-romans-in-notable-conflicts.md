@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160387
-date: 2025-01-24
+id: 159892
+date: 2025-01-23
 title: >-
     How did the Celts interact with Romans in notable conflicts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    An overview of the interactions between the Celts and Romans, focusing on notable conflicts, military campaigns led by Julius Caesar, and the resistance of Celtic tribes, culminating in the Roman conquest of Celtic territories.
+    The interactions between the Celts and Romans were marked by notable conflicts, particularly during the Roman expansion into Gaul, including significant events such as Julius Caesar's military campaigns and the revolt of Vercingetorix.
   page_keywords: >-
-    Celts, Romans, Julius Caesar, Gallic Wars, conflicts, military campaigns, Vercingetorix, Alesia, Celtic tribes, Bibracte, Celtiberians, Roman expansion, trade, cultural exchange, military tactics, territorial expansion
+    Celts, Romans, conflicts, Julius Caesar, Gaul, Gallic Wars, Battle of Bibracte, Vercingetorix, Siege of Alesia, Celtic warfare, Celtiberians, Roman expansion, military tactics, cultural exchanges, economic competition
 author: QuickTakes
 question: >-
     How did the Celts interact with Romans in notable conflicts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-did-the-celts-interact-with-romans-in-notable-conflicts.md
 url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
-score: 9.0
+score: -1.0
 related_article1:
+    id: 159853
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+related_article2:
     id: 159862
     title: >-
         What are the main characteristics of Halstatt Culture's art and material goods?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
-related_article2:
-    id: 159921
-    title: >-
-        What were the primary military tactics and weaponry used by the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 related_article3:
-    id: 160381
+    id: 159853
     title: >-
-        How did Diodorus Siculus and Athenaeus describe Celtic customs?
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 related_article4:
-    id: 160369
+    id: 159925
     title: >-
-        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article5:
-    id: 160182
+    id: 159890
     title: >-
-        What were the distinctive physical and behavioral traits of the Celts?
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Explores the causes and consequences of undernutrition, highlighting vulnerable populations and the public health implications of inadequate nutrient intake.
+    Overview of undernutrition, its causes and consequences, and identification of high-risk populations, highlighting the importance of addressing this public health issue.
   page_keywords: >-
-    undernutrition, causes of undernutrition, consequences of undernutrition, at-risk populations, dietary intake, nutritional needs, chronic illnesses, mental health, public health issue, older adults, children, pregnant women, low-income populations
+    undernutrition, causes of undernutrition, consequences of undernutrition, vulnerable populations, dietary intake, nutritional needs, chronic illness, mental health, physical health, cognitive impairment, older adults, children, pregnant women, low-income populations, public health issue
 author: QuickTakes
 question: >-
     What are the causes and consequences of undernutrition, and which populations are most at risk?
@@ -24,35 +24,23 @@ file_name: what-are-the-causes-and-consequences-of-undernutrition-and-which-popu
 url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 score: -1.0
 related_article1:
-    id: 169778
+    id: 169786
     title: >-
-        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 related_article2:
-    id: 169785
+    id: 169786
     title: >-
-        What is food fortification, and how does it support nutritional needs?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 related_article3:
-    id: 169784
+    id: 169779
     title: >-
-        How can cultural and religious considerations impact individual dietary needs in patient care?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
-related_article4:
-    id: 169783
-    title: >-
-        What are the symptoms of dehydration, and which populations are most at risk?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
-related_article5:
-    id: 169783
-    title: >-
-        What are the symptoms of dehydration, and which populations are most at risk?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+        What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
 ---
 
 &nbsp;

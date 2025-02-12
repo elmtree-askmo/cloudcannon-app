@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses the impact of emotional appeal (pathos) in speeches, outlining how it connects with the audience, motivates action, enhances persuasion, creates urgency, and fosters unity among listeners.
+    Emotional appeal significantly influences audiences during speeches by fostering connection, motivating action, enhancing persuasion, creating a sense of urgency, and promoting unity.
   page_keywords: >-
-    emotional appeal, pathos, audience engagement, motivation to act, persuasive power, urgency, shared purpose, connection, storytelling, social issues, empathy, decision-making
+    emotional appeal,pathos,audience connection,motivation to act,persuasion,urgency,unity,speech impact
 author: QuickTakes
 question: >-
     How can emotional appeal impact an audience during a speech?
@@ -24,35 +24,29 @@ file_name: how-can-emotional-appeal-impact-an-audience-during-a-speech.md
 url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 score: -1.0
 related_article1:
-    id: 168550
+    id: 168552
     title: >-
-        What techniques can be used to manage disagreement respectfully in a discussion?
+        How do diverse perspectives enrich discussions and encourage open-mindedness?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
+    url: /learn/education-studies/questions/how-do-diverse-perspectives-enrich-discussions-and-encourage-openmindedness
 related_article2:
-    id: 168548
+    id: 168534
     title: >-
-        How can reasoning enhance the credibility of a speech?
+        What are the key elements of providing constructive criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-providing-constructive-criticism
 related_article3:
-    id: 168540
+    id: 168532
     title: >-
-        Why is it important to incorporate diverse perspectives in discussions?
+        Why is it important to identify and understand your audience before delivering a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
+    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
 related_article4:
-    id: 168530
+    id: 168536
     title: >-
-        What are some common rhetorical strategies used in speeches?
+        What are the main elements of persuasion in speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
-related_article5:
-    id: 168553
-    title: >-
-        What strategies can be employed for conflict resolution while maintaining respectful dialogue?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
+    url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
 ---
 
 &nbsp;

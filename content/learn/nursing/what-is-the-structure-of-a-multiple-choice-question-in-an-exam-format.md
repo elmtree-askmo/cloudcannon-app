@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content outlines the structure of a multiple-choice question in an exam format, detailing the components such as the stem, options, and additional exam conditions.
+    The structure of a multiple choice question in an exam format includes a stem, options, and guidelines for student conduct, designed to assess knowledge effectively.
   page_keywords: >-
-    multiple choice, exam format, MCQ structure, question stem, answer options, correct answer, distractors, assessment, identification verification, closed-book exam
+    multiple choice question, MCQ, exam format, stem, options, correct answer, distractors, closed-book conditions, identification requirements, allowed items, assessment, knowledge evaluation
 author: QuickTakes
 question: >-
     What is the structure of a multiple choice question in an exam format?
@@ -24,35 +24,29 @@ file_name: what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 score: -1.0
 related_article1:
-    id: 169723
+    id: 169709
     title: >-
-        How is chronic pain defined and managed?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
+        What role do the pulmonary artery and vein play in blood circulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 related_article2:
+    id: 169709
+    title: >-
+        What role do the pulmonary artery and vein play in blood circulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+related_article3:
     id: 169722
     title: >-
         What are the health impacts of sleep deprivation?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
-related_article3:
-    id: 169710
-    title: >-
-        How do dendrites and axons function in nerve cells?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-health-impacts-of-sleep-deprivation
 related_article4:
-    id: 169728
+    id: 169709
     title: >-
-        How does osteoporosis affect bone density and fracture risk?
+        What role do the pulmonary artery and vein play in blood circulation?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
-related_article5:
-    id: 169725
-    title: >-
-        What is the normal BMI range for adults?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 ---
 
 &nbsp;

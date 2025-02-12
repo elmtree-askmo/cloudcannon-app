@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how reflecting a quadratic function over the x-axis transforms its graph, including the mathematical representation, visual effects, and changes in function characteristics.
+    This content explains how reflecting a quadratic function over the x-axis transforms its graph upside down, changing its orientation while retaining the x-coordinates of points.
   page_keywords: >-
-    reflection, x-axis, quadratic function, transformation, negation, outputs, parabola, maximum, minimum, orientation, graph, symmetry, characteristics
+    reflection, x-axis, transformation, quadratic function, graph inversion, mathematical representation, negation of outputs, parabola, vertex, maximum point, minimum point, graphical representation
 author: QuickTakes
 question: >-
     How does a reflection over the x-axis transform a quadratic function?
@@ -24,35 +24,29 @@ file_name: how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function.m
 url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
 score: -1.0
 related_article1:
-    id: 168406
+    id: 168402
     title: >-
-        What is the role of input-output tables in evaluating function models?
+        How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 related_article2:
-    id: 168402
+    id: 168397
     title: >-
-        How do you mathematically represent a vertical reflection of a function?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article3:
-    id: 168402
+    id: 168409
     title: >-
-        How do you mathematically represent a vertical reflection of a function?
+        How do you plot a quadratic function on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 related_article4:
-    id: 168400
+    id: 168397
     title: >-
-        How can you identify opposite outputs in a table comparison for reflections?
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
-related_article5:
-    id: 168408
-    title: >-
-        What is the difference between the outputs of an original function and its transformed version?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content discusses two common functions available in Python's math module: math.ceil and math.floor, explaining their purpose and providing examples.
+    This content describes two common functions in Python's math module: math.ceil for rounding up and math.floor for rounding down.
   page_keywords: >-
-    Python, math module, math.ceil, math.floor, rounding functions, programming, mathematical operations
+    math module, math.ceil, math.floor, rounding functions, Python, mathematical operations, Python math, ceil function, floor function
 author: QuickTakes
 question: >-
     Name two common functions available in Python's math module.
@@ -24,29 +24,29 @@ file_name: name-two-common-functions-available-in-pythons-math-module.md
 url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 score: -1.0
 related_article1:
-    id: 168603
+    id: 168605
     title: >-
-        How can custom exceptions be created in Python?
+        How can you import and use a module in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 related_article2:
-    id: 168597
+    id: 168606
     title: >-
-        How can you handle a specific error type using a try...except block?
+        Why is software reusability important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
 related_article3:
-    id: 168603
+    id: 168601
     title: >-
-        How can custom exceptions be created in Python?
+        How can you access a function's docstring in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 related_article4:
-    id: 168592
+    id: 168594
     title: >-
-        How can you use the math module to calculate the square root of a number?
+        What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 related_article5:
     id: 168602
     title: >-

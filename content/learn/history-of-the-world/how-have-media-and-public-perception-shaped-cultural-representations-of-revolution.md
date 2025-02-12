@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores how media and public perception influence cultural representations of revolution through documentation, art, and social media, impacting historical narratives and public understanding.
+    An exploration of how media and public perception impact cultural representations of revolution, highlighting the roles of documentation, social media, and framing in shaping public understanding and historical narratives.
   page_keywords: >-
-    media influence, public perception, cultural representation, revolution, art, literature, film, social media, historical narratives, gender roles, global solidarity, political narratives, documentation, empathy, cultural institutions
+    media, public perception, cultural representations, revolution, documentation, representation, social media, global solidarity, political narratives, art, literature, film, gender roles, historical narratives, empathy, mobilization, emotional responses
 author: QuickTakes
 question: >-
     How have media and public perception shaped cultural representations of revolution?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-have-media-and-public-perception-shaped-cultural-representations-of-revolution.md
 url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
-score: 8.5
+score: -1.0
 related_article1:
-    id: 169012
+    id: 169020
     title: >-
-        Who were some key figures in the Mexican Revolution, and what were their contributions?
+        How are historical events represented in cultural narratives within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article2:
-    id: 169015
+    id: 169020
     title: >-
-        What cultural understandings are associated with revolutionary movements?
+        How are historical events represented in cultural narratives within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article3:
-    id: 169021
+    id: 169020
     title: >-
-        What role do cultural understandings play in architectural spaces?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
+        How are historical events represented in cultural narratives within architecture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article4:
-    id: 169016
+    id: 169020
     title: >-
-        How can buildings serve as symbols of revolutionary movements?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
+        How are historical events represented in cultural narratives within architecture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article5:
-    id: 169019
+    id: 169020
     title: >-
-        How did women strategically use architecture during revolutionary movements?
+        How are historical events represented in cultural narratives within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 ---
 
 &nbsp;

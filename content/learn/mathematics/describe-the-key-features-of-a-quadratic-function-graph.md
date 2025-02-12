@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content describes the key features of a quadratic function graph, including its shape, vertex, axis of symmetry, intercepts, and the effects of the coefficient on its behavior.
+    The key features of a quadratic function graph include its parabolic shape, vertex, axis of symmetry, y-intercept, x-intercepts, and the influence of the coefficient 'a' on its direction of opening and range.
   page_keywords: >-
-    quadratic function, parabola, vertex, axis of symmetry, y-intercept, x-intercepts, roots, direction of opening, range, symmetry
+    quadratic function, graph, parabola, vertex, axis of symmetry, y-intercept, x-intercepts, roots, discriminant, direction of opening, range, symmetry
 author: QuickTakes
 question: >-
     Describe the key features of a quadratic function graph.
@@ -24,29 +24,29 @@ file_name: describe-the-key-features-of-a-quadratic-function-graph.md
 url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 score: -1.0
 related_article1:
-    id: 163738
+    id: 163735
     title: >-
-        What is the importance of symmetry in quadratic functions?
+        What is the significance of intercepts and vertex in graphing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 related_article2:
-    id: 163739
+    id: 163730
     title: >-
-        How can real-world applications of functions be used in business modeling?
+        How do you convert a quadratic equation from vertex form to standard form?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 related_article3:
-    id: 163737
+    id: 163735
     title: >-
-        Compare the graphs of linear and non-linear functions.
+        What is the significance of intercepts and vertex in graphing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 related_article4:
-    id: 163739
+    id: 163734
     title: >-
-        How can real-world applications of functions be used in business modeling?
+        How is the average rate of change calculated for a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
 related_article5:
     id: 163735
     title: >-

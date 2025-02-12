@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    This content discusses the analogy between electric power (potência elétrica) and electric showers, highlighting their relationship with energy consumption, efficiency, and user experience.
+    The analogy between potência elétrica and an electric shower highlights the relationship between electrical power, energy consumption, and effectiveness in heating water and operating appliances.
   page_keywords: >-
-    potência elétrica, electric power, electric shower, energy consumption, efficiency, thermal energy, power rating, kilowatt-hours, user experience, performance
+    potência elétrica, electric shower, energy consumption, efficiency, power rating, electrical appliances, thermal energy, kilowatt-hours, user experience, performance
 author: QuickTakes
 question: >-
     Describe the analogy between potência elétrica and an electric shower.
@@ -24,35 +24,35 @@ file_name: describe-the-analogy-between-potncia-eltrica-and-an-electric-shower.m
 url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 score: -1.0
 related_article1:
-    id: 169835
+    id: 169826
     title: >-
-        What is potência elétrica and how is it calculated?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Physics
+    url: /learn/physics/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 related_article2:
-    id: 169839
+    id: 169838
     title: >-
-        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 related_article3:
-    id: 169829
+    id: 169832
     title: >-
-        Define a laço and explain how it differs from a malha in an electrical circuit.
-    subject: Engineering
-    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+        Explain the analogy between tensão elétrica and water pressure.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 related_article4:
-    id: 169825
+    id: 169828
     title: >-
-        What is a bipolo elétrico and what are some examples of it?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Physics
+    url: /learn/physics/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 related_article5:
-    id: 169825
+    id: 169832
     title: >-
-        What is a bipolo elétrico and what are some examples of it?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+        Explain the analogy between tensão elétrica and water pressure.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 ---
 
 &nbsp;

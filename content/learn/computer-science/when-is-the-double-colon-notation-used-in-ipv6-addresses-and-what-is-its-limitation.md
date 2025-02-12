@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains the use of double colon notation in IPv6 addresses for simplifying representation by replacing contiguous segments of zeros, and discusses the limitation of using the double colon only once in an address to avoid ambiguity.
+    The double colon notation in IPv6 is used to simplify the representation of addresses by replacing contiguous segments of zeros, but it can only be used once in an address to avoid ambiguity.
   page_keywords: >-
-    IPv6, double colon notation, address representation, zeros compression, hextets, limitations, hexadecimal format
+    IPv6, double colon notation, address representation, hexadecimals, hextets, contiguous zeros, zero compression, limitations, address readability, networking
 author: QuickTakes
 question: >-
     When is the double colon notation used in IPv6 addresses, and what is its limitation?
@@ -24,35 +24,35 @@ file_name: when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-
 url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
 score: -1.0
 related_article1:
-    id: 165740
+    id: 165761
     title: >-
-        How is an IPv6 address represented in terms of length and notation?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article2:
-    id: 165753
+    id: 165755
     title: >-
-        What is the role of the Global Routing Prefix in IPv6 subnetting?
+        How does the dual stack technique facilitate IPv6 coexistence with IPv4?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
+    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 related_article3:
-    id: 165749
+    id: 165761
     title: >-
-        What is the EUI-64 method in the context of IPv6 addressing?
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article4:
-    id: 165741
+    id: 165755
     title: >-
-        What is the purpose of using a double colon in IPv6 address notation?
+        How does the dual stack technique facilitate IPv6 coexistence with IPv4?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 related_article5:
-    id: 165741
+    id: 165744
     title: >-
-        What is the purpose of using a double colon in IPv6 address notation?
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 ---
 
 &nbsp;

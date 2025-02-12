@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses the modern implications of neocolonial practices, highlighting economic dependency, exploitation by multinational corporations, cultural domination, and the effects of globalization on developing nations.
+    This content discusses the modern implications of neocolonial practices focusing on economic influence, highlighting the roles of multinational corporations, economic dependency, cultural implications, and the effects of globalization on developing nations.
   page_keywords: >-
-    neocolonialism,economic influence,multinational corporations,economic dependency,resource exploitation,foreign investment,cultural domination,globalization,inequality,developing nations,foreign aid,local economies
+    neocolonialism, economic influence, multinational corporations, economic dependency, exploitation, cultural domination, globalization, economic inequalities, foreign investment, developing nations
 author: QuickTakes
 question: >-
     What are the modern implications of neocolonial practices in terms of economic influence?
@@ -24,35 +24,29 @@ file_name: what-are-the-modern-implications-of-neocolonial-practices-in-terms-of
 url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 score: -1.0
 related_article1:
-    id: 165992
+    id: 165982
     title: >-
-        In what ways do media and entertainment influence cultural connectivity on a global scale?
+        How has technological integration influenced contemporary globalization?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 related_article2:
-    id: 165990
+    id: 165985
     title: >-
-        What is the significance of global production networks in commodity chains?
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 related_article3:
-    id: 165984
+    id: 165985
     title: >-
-        What role did the Industrial Revolution play in the historical development of the world system?
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 related_article4:
-    id: 165991
+    id: 165985
     title: >-
-        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
-related_article5:
-    id: 165989
-    title: >-
-        How do multinational corporations exert economic power through global operations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 ---
 
 &nbsp;

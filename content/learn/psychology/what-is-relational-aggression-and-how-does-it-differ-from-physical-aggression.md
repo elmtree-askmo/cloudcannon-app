@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the concept of relational aggression, how it differs from physical aggression, and explores the nature of harm, gender differences, and developmental context in both forms of aggression.
+    Relational aggression is a type of aggression involving harm through social manipulation rather than physical force, contrasting with physical aggression, which involves direct bodily harm. This content explores the differences in nature, gender expression, and developmental context of both types of aggression.
   page_keywords: >-
-    relational aggression, physical aggression, social relationships, emotional harm, manipulation, rumor spreading, social exclusion, gender differences, developmental context, peer relationships, aggression types, social standing
+    relational aggression, physical aggression, social relationships, emotional harm, manipulation, rumors, social exclusion, gender differences, developmental context, social dynamics
 author: QuickTakes
 question: >-
     What is relational aggression, and how does it differ from physical aggression?
@@ -24,35 +24,17 @@ file_name: what-is-relational-aggression-and-how-does-it-differ-from-physical-ag
 url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 score: -1.0
 related_article1:
-    id: 168134
+    id: 168116
     title: >-
-        What recent trends indicate a decline in gender stereotypes?
+        How do spatial visualization abilities differ between males and females?
     subject: Psychology
-    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 related_article2:
-    id: 168136
+    id: 168116
     title: >-
-        What impact do gender stereotypes have on career choices, particularly in math-related fields?
+        How do spatial visualization abilities differ between males and females?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
-related_article3:
-    id: 168123
-    title: >-
-        How do cultural variations impact the gender gap in self-esteem?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
-related_article4:
-    id: 168130
-    title: >-
-        How do parental expectations contribute to gender role stereotypes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
-related_article5:
-    id: 168118
-    title: >-
-        What patterns of physical aggression are typically observed in early childhood?
-    subject: Psychology
-    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    Hypothesis testing in epidemiology is a systematic process for evaluating statistical claims about population parameters, involving the formulation of null and alternative hypotheses, statistical testing, data analysis, and decision-making to inform public health practices.
+    This content describes the detailed process of hypothesis testing in epidemiology, including the formulation of null and alternative hypotheses, selection of statistical tests, data collection, analysis, and the significance of p-values in determining research conclusions.
   page_keywords: >-
-    hypothesis testing, epidemiology, null hypothesis, alternative hypothesis, statistical claim, sample data, statistical test, p-value, disease incidence, public health, evidence-based decision making
+    hypothesis testing, epidemiology, null hypothesis, alternative hypothesis, statistical test, p-value, data collection, public health, evidence-based decision-making
 author: QuickTakes
 question: >-
     What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
@@ -24,35 +24,35 @@ file_name: what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are
 url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
 score: -1.0
 related_article1:
-    id: 162972
+    id: 162957
     title: >-
-        What are the main sources of epidemiologic data, and how do they contribute to public health research?
+        What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-sources-of-epidemiologic-data-and-how-do-they-contribute-to-public-health-research
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
 related_article2:
-    id: 163013
+    id: 162961
     title: >-
-        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article3:
-    id: 163015
+    id: 162977
     title: >-
-        How do income and education function as social determinants of health?
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-income-and-education-function-as-social-determinants-of-health
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 related_article4:
-    id: 162960
+    id: 162956
     title: >-
-        How can the validity and causality of associations be evaluated in epidemiologic investigations?
+        How have key figures and milestones influenced the historical development of epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 related_article5:
-    id: 163016
+    id: 162956
     title: >-
-        What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+        How have key figures and milestones influenced the historical development of epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 ---
 
 &nbsp;

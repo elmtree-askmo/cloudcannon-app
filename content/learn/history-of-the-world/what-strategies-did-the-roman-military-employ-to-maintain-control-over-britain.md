@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Explore the strategies employed by the Roman military to maintain control over Britain, including infrastructure development, road construction, disciplined tactics, supply management, local tribe pacification, and cultural integration.
+    The strategies employed by the Roman military to maintain control over Britain included the construction of military infrastructure, extensive road networks, reliable supply lines, effective military tactics, pacification of local tribes, cultural integration, and centralized governance.
   page_keywords: >-
-    Roman military, control over Britain, military infrastructure, forts, garrisons, road construction, supply lines, military tactics, local tribes, pacification, cultural integration, Romanization, provincial governance
+    Roman military, Britain, military strategies, control, infrastructure, forts, road construction, supply lines, military tactics, local tribes, Romanization, provincial governance
 author: QuickTakes
 question: >-
     What strategies did the Roman military employ to maintain control over Britain?
@@ -22,13 +22,13 @@ answer: >-
 subject: History of the World
 file_name: what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain.md
 url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
-score: 9.0
+score: -1.0
 related_article1:
-    id: 166116
+    id: 166113
     title: >-
-        What were the consequences of the withdrawal of Roman troops from Britain?
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article2:
     id: 166113
     title: >-
@@ -36,23 +36,11 @@ related_article2:
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article3:
-    id: 166108
+    id: 166110
     title: >-
-        How did Roman religious practices integrate with Celtic traditions in Britain?
+        In what ways did Roman culture influence the development of a Romano-British identity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
-related_article4:
-    id: 166116
-    title: >-
-        What were the consequences of the withdrawal of Roman troops from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
-related_article5:
-    id: 166117
-    title: >-
-        How has Roman Britain influenced modern British culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
+    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
 ---
 
 &nbsp;

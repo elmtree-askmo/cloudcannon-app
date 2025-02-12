@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses common behavior shaping techniques used in educational and therapeutic contexts, including reinforcement of successive approximations and differential reinforcement, and outlines factors for selecting appropriate techniques.
+    This content discusses common behavior shaping techniques used in behavior analysis, including reinforcement of successive approximations, differential reinforcement, prompting and fading, modeling, and task analysis. It also explains how these techniques are selected based on individual needs, target behavior complexity, behavior dimensions, effective reinforcers, and flexibility in monitoring progress.
   page_keywords: >-
-    behavior shaping, reinforcement techniques, educational settings, therapeutic settings, differential reinforcement, prompting, modeling, task analysis, individual needs, target behavior
+    behavior shaping techniques, reinforcement, successive approximations, differential reinforcement, prompting, fading, modeling, task analysis, selection of shaping techniques, educational settings, therapeutic settings, individualized approach, behavior analysis, positive behavior change
 author: QuickTakes
 question: >-
     What are some common behavior shaping techniques and how are they selected?
@@ -24,35 +24,35 @@ file_name: what-are-some-common-behavior-shaping-techniques-and-how-are-they-sel
 url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 score: -1.0
 related_article1:
-    id: 169323
+    id: 169318
     title: >-
-        What is positive reinforcement and how does it aid in behavior shaping?
+        Why is measuring the duration of behavior relevant to behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 related_article2:
-    id: 169322
+    id: 169329
     title: >-
-        How are behavior change procedures implemented and monitored?
+        How does learning history impact current behavior and what considerations should be made in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 related_article3:
-    id: 169312
+    id: 169321
     title: >-
-        How do successive approximations contribute to shaping behavior?
+        What are the main tools and techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 related_article4:
-    id: 169326
+    id: 169325
     title: >-
-        What are the steps involved in skill acquisition and how does reinforcement play a role?
+        How are target behaviors identified and why are they crucial in behavior programs?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+    url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 related_article5:
-    id: 169317
+    id: 169315
     title: >-
-        How is frequency measured in behavior tracking and why is it important?
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 ---
 
 &nbsp;

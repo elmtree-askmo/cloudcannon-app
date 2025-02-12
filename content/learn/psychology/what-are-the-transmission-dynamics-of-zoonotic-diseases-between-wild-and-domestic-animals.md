@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This document explores the complex transmission dynamics of zoonotic diseases between wild and domestic animals, highlighting the roles of environmental factors, host specificity, and public health implications.
+    An overview of the transmission dynamics of zoonotic diseases between wild and domestic animals, highlighting the complex interactions, environmental influences, and public health implications.
   page_keywords: >-
-    zoonotic diseases, transmission dynamics, wild animals, domestic animals, sylvatic cycle, urban cycle, environmental conditions, host specificity, life cycles, One Health approach, public health, vaccination programs, disease surveillance, ecological interactions, disease risk, parasite transmission
+    zoonotic diseases, transmission dynamics, wild animals, domestic animals, sylvatic cycle, urban cycle, environmental factors, land use, deforestation, climate change, host specificity, life cycles, public health, One Health approach, vaccination programs, surveillance, ecological interactions
 author: QuickTakes
 question: >-
     What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
@@ -24,23 +24,23 @@ file_name: what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-
 url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 score: -1.0
 related_article1:
-    id: 165835
+    id: 165848
     title: >-
-        Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article2:
-    id: 165842
+    id: 165839
     title: >-
-        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article3:
-    id: 165828
+    id: 165830
     title: >-
-        What are the different types of parasites and how do they differ in their relationships with hosts?
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 related_article4:
     id: 165848
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Psychology
     url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article5:
-    id: 165845
+    id: 165848
     title: >-
-        What modern technological advancements are being applied in parasitology research?
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 ---
 
 &nbsp;

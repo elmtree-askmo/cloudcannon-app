@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The right-hand rule is a technique used to determine the direction of the resulting vector from the cross product of two vectors in a three-dimensional space. It involves using the right hand to visualize the relationship between the vectors.
+    The right-hand rule is a mnemonic that helps determine the direction of the vector resulting from the cross product of two vectors in three-dimensional space, indicating the resulting vector's orientation in applications such as physics and engineering.
   page_keywords: >-
-    right-hand rule,cross product,vectors,three-dimensional space,vector direction,mnemonic,torque,angular momentum
+    right-hand rule,cross product,vector direction,mnemonic,three-dimensional space,vector A,vector B,perpendicular vectors,torque,angular momentum,physics,engineering
 author: QuickTakes
 question: >-
     How does the right-hand rule help determine the direction of a vector cross product?
@@ -24,35 +24,35 @@ file_name: how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-
 url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 score: -1.0
 related_article1:
-    id: 166720
+    id: 166716
     title: >-
-        What types of events do engineering organizations typically host?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+        What are some current trends in artificial intelligence research?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-current-trends-in-artificial-intelligence-research
 related_article2:
-    id: 166719
+    id: 166716
     title: >-
-        How do engineering organizations support networking and professional development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+        What are some current trends in artificial intelligence research?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-current-trends-in-artificial-intelligence-research
 related_article3:
-    id: 166714
+    id: 166716
     title: >-
-        What are the current job market trends for consulting opportunities in engineering?
+        What are some current trends in artificial intelligence research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
+    url: /learn/education-studies/questions/what-are-some-current-trends-in-artificial-intelligence-research
 related_article4:
-    id: 166718
+    id: 166696
     title: >-
-        What benefits do professional engineering societies offer to their members?
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article5:
-    id: 166715
+    id: 166713
     title: >-
-        What skills and qualifications are typically required for consulting roles in engineering?
+        How do consulting companies impact the engineering industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
 ---
 
 &nbsp;

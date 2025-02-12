@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Essential safe practices for medication administration to ensure patient safety and effective healthcare delivery, focusing on the five rights, allergy checks, storage, error reporting, and adherence to national guidelines.
+    This content outlines the crucial safe practices for medication administration, emphasizing the Five Rights, allergy checks, proper storage, and the importance of reporting errors to enhance patient safety in healthcare.
   page_keywords: >-
-    medication administration,safe practices,patient safety,five rights,allergy checks,expiry dates,proper storage,reporting errors,nursing responsibilities,safety protocols,national guidelines,evidence-based recommendations
+    medication administration,safety practices,Five Rights,Right Patient,Right Drug,Right Dose,Right Route,Right Time,allergy checks,expiry dates,proper storage,reporting errors,nursing responsibilities,national guidelines,safety protocols,patient safety,healthcare delivery
 author: QuickTakes
 question: >-
     What are the safe practices for medication administration?
@@ -24,11 +24,11 @@ file_name: what-are-the-safe-practices-for-medication-administration.md
 url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 score: -1.0
 related_article1:
-    id: 169565
+    id: 169573
     title: >-
-        How is competence defined and assessed in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article2:
     id: 169582
     title: >-
@@ -36,23 +36,23 @@ related_article2:
     subject: Nursing
     url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 related_article3:
-    id: 169574
+    id: 169573
     title: >-
-        How does supervision aid in effective risk management?
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article4:
-    id: 169567
+    id: 169559
     title: >-
-        What is the role of professional responsibility in medication administration?
+        What is the NMC Code, and how does it apply to registered nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 related_article5:
-    id: 169572
+    id: 169573
     title: >-
-        How does patient assessment contribute to ensuring patient safety?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 ---
 
 &nbsp;

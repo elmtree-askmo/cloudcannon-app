@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160382
-date: 2025-01-24
+id: 159883
+date: 2025-01-23
 title: >-
     What was the tribal organization and social hierarchy in Celtic society?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    An overview of the tribal organization and social hierarchy in Celtic society, highlighting the roles of nobles, warriors, commoners, and the significance of kinship and clan structures.
+    Celtic society had a complex tribal organization and hierarchy characterized by distinct classes including nobles, warriors, and commoners, with significant roles for women and strong kinship ties.
   page_keywords: >-
-    Celtic society, tribal organization, social hierarchy, kinship, nobles, warriors, commoners, chieftains, clan structures, hostages, Boudicca
+    Celtic society, tribal organization, social hierarchy, nobles, chieftains, warriors, commoners, women in Celtic society, kinship, clan structures, hostage exchange, Gaelic Ireland
 author: QuickTakes
 question: >-
     What was the tribal organization and social hierarchy in Celtic society?
@@ -22,33 +22,33 @@ answer: >-
 subject: History of the World
 file_name: what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society.md
 url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159903
+    id: 159886
     title: >-
-        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article2:
-    id: 160259
+    id: 159880
     title: >-
-        How did geography influence the cultural development and migration patterns of the Celts?
+        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
 related_article3:
-    id: 159913
+    id: 159871
     title: >-
-        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article4:
-    id: 160259
+    id: 159902
     title: >-
-        How did geography influence the cultural development and migration patterns of the Celts?
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article5:
-    id: 160260
+    id: 159901
     title: >-
         What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains how changes in pH influence the concentration of hydroxide ions in a solution through the relationships between pH, pOH, and ion concentrations.
+    Explains how changes in pH influence the concentration of hydroxide ions in a solution through the relationships between pH, pOH, and ion concentrations.
   page_keywords: >-
-    pH, hydroxide ions, concentration, acidic, basic, pOH, relationship, chemistry, hydronium ions, pH scale, logarithm
+    pH, hydroxide ions, concentration, pOH, acidic solution, basic solution, hydronium ions, log formula, relationship, chemical equilibrium
 author: QuickTakes
 question: >-
     How does a change in pH influence the concentration of hydroxide ions in a solution?
@@ -23,36 +23,7 @@ subject: Chemistry
 file_name: how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution.md
 url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
 score: -1.0
-related_article1:
-    id: 167114
-    title: >-
-        What are the polar characteristics of water molecules and how do they interact with ions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
-related_article2:
-    id: 167121
-    title: >-
-        Compare the pH levels of human blood and soda in terms of proton concentration.
-    subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
-related_article3:
-    id: 167126
-    title: >-
-        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
-related_article4:
-    id: 167122
-    title: >-
-        Describe the role of the bicarbonate buffer system in regulating blood pH.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
-related_article5:
-    id: 167126
-    title: >-
-        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
+
 ---
 
 &nbsp;

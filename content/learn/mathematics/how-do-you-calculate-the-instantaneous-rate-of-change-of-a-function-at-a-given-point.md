@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to calculate the instantaneous rate of change of a function at a given point using the derivative, including an example with a detailed step-by-step process.
+    This content explains how to calculate the instantaneous rate of change of a function at a specific point using the derivative and provides a step-by-step guide with an example.
   page_keywords: >-
-    instantaneous rate of change, derivative, function, limit, slope of tangent line, mathematical definition, f'(x), h approaches zero, calculate, example, differentiable function
+    instantaneous rate of change, derivative, function, slope of tangent line, calculating derivatives, limit definition, average rate of change, mathematical formula, differentiation, example calculation
 author: QuickTakes
 question: >-
     How do you calculate the instantaneous rate of change of a function at a given point?
@@ -24,35 +24,35 @@ file_name: how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-a
 url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 score: -1.0
 related_article1:
-    id: 168329
+    id: 168340
     title: >-
-        What are the limit laws and how are they used to calculate limits?
+        What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 related_article2:
-    id: 168342
+    id: 168331
     title: >-
-        What are the methods for calculating the volume of a solid in calculus?
+        What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article3:
-    id: 168342
+    id: 168338
     title: >-
-        What are the methods for calculating the volume of a solid in calculus?
+        What is a partial derivative and how is it calculated for functions of several variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 related_article4:
-    id: 168327
+    id: 168340
     title: >-
-        What is the formal definition of a limit and how is it notated?
+        What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 related_article5:
-    id: 168339
+    id: 168337
     title: >-
-        Differentiate between scalar fields and vector fields with examples.
+        State the Fundamental Theorem of Calculus and explain its significance.
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 ---
 
 &nbsp;

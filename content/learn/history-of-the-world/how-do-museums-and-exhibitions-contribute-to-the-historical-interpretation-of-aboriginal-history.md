@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    Museums and exhibitions significantly impact the interpretation of Aboriginal history by curating artifacts, constructing narratives, promoting public engagement, and fostering decolonization efforts, ensuring diverse Indigenous perspectives are recognized.
+    This content discusses how museums and exhibitions contribute to the historical interpretation of Aboriginal history by shaping narratives, selecting artifacts, promoting education, and engaging in decolonization efforts.
   page_keywords: >-
-    museums, exhibitions, Aboriginal history, historical interpretation, artifacts, narratives, decolonization, public engagement, education, reconciliation
+    museums, exhibitions, Aboriginal history, historical interpretation, artifact selection, narrative construction, decolonization, public engagement, education, contested spaces, Indigenous perspectives, reconciliation efforts
 author: QuickTakes
 question: >-
     How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
@@ -22,19 +22,19 @@ answer: >-
 subject: History of the World
 file_name: how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history.md
 url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
-score: 9.0
+score: -1.0
 related_article1:
-    id: 169034
+    id: 169038
     title: >-
-        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 related_article2:
-    id: 169030
+    id: 169038
     title: >-
-        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 related_article3:
     id: 169038
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 related_article4:
-    id: 169031
+    id: 169038
     title: >-
-        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
-related_article5:
-    id: 169031
-    title: >-
-        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 ---
 
 &nbsp;

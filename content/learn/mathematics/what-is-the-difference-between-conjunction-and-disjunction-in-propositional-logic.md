@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the differences between conjunction and disjunction in propositional logic, including definitions, truth tables, examples, and key differences in their logical interpretations.
+    This content explains the fundamental differences between conjunction and disjunction in propositional logic, detailing their definitions, truth tables, examples, and key differences in truth conditions.
   page_keywords: >-
-    conjunction, disjunction, propositional logic, truth table, logical operators, logical statements, truth conditions, logical 'and', logical 'or', logical expressions, A ∧ B, A ∨ B
+    conjunction, disjunction, propositional logic, logic operators, truth table, logical expressions, truth conditions, logical and, logical or
 author: QuickTakes
 question: >-
     What is the difference between conjunction and disjunction in propositional logic?
@@ -24,35 +24,35 @@ file_name: what-is-the-difference-between-conjunction-and-disjunction-in-proposi
 url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 score: -1.0
 related_article1:
-    id: 170198
+    id: 170199
     title: >-
-        What are the key logical operators to recognize when translating English into propositional logic?
+        How do you determine the correct order of variables in a logical expression?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
 related_article2:
-    id: 170192
+    id: 170197
     title: >-
-        Explain the concept of exclusive-or and how it differs from regular disjunction.
+        How do you identify atomic propositions when translating English sentences into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
+    url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
 related_article3:
+    id: 170199
+    title: >-
+        How do you determine the correct order of variables in a logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+related_article4:
     id: 170188
     title: >-
         What are some common examples of ambiguity in language, and how can logic help resolve them?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
-related_article4:
-    id: 170189
-    title: >-
-        Why is context important when translating English sentences into propositional logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 related_article5:
-    id: 170196
+    id: 170188
     title: >-
-        What is a bi-conditional, and how is it used to express equivalence in logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 ---
 
 &nbsp;

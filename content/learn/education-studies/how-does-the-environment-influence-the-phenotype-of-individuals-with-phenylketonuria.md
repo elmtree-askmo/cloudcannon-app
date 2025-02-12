@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    Explore how environmental factors, particularly diet, influence the phenotype of individuals with phenylketonuria (PKU), a genetic disorder characterized by phenylalanine accumulation and its management.
+    This content discusses how environmental factors, especially diet, influence the phenotype of individuals with phenylketonuria (PKU), highlighting the importance of managing phenylalanine levels through dietary interventions.
   page_keywords: >-
-    environment, phenotype, phenylketonuria, PKU, dietary influence, phenylalanine hydroxylase, cognitive development, dietary management, genetic disorder, neurological issues
+    environment, phenotype, phenylketonuria, PKU, diet, genetics, neurological issues, phenylalanine, dietary management, early diagnosis, cognitive development, physical development
 author: QuickTakes
 question: >-
     How does the environment influence the phenotype of individuals with phenylketonuria?
@@ -24,35 +24,29 @@ file_name: how-does-the-environment-influence-the-phenotype-of-individuals-with-
 url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 score: -1.0
 related_article1:
-    id: 167805
+    id: 167789
     title: >-
-        What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 related_article2:
-    id: 167799
+    id: 167785
     title: >-
-        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
+    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
 related_article3:
-    id: 167788
+    id: 167789
     title: >-
-        How do genetic mutations contribute to genetic variation?
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 related_article4:
-    id: 167792
+    id: 167789
     title: >-
-        How does incomplete dominance differ from complete dominance?
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
-related_article5:
-    id: 167787
-    title: >-
-        What are the main sources of genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 ---
 
 &nbsp;

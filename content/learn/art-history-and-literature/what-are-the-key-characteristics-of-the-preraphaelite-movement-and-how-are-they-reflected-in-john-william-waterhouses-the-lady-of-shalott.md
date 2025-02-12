@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Explore the key characteristics of the Pre-Raphaelite movement and how they are reflected in John William Waterhouse's painting The Lady of Shalott, showcasing detail, color, and narrative depth.
+    This text explores the key characteristics of the Pre-Raphaelite movement and their reflection in John William Waterhouse's painting 'The Lady of Shalott', emphasizing themes such as detail, color, emotional depth, and symbolism.
   page_keywords: >-
-    Pre-Raphaelite movement, John William Waterhouse, The Lady of Shalott, characteristics, attention to detail, vibrant colors, complex compositions, emotional themes, symbolism, literary inspiration
+    Pre-Raphaelite, John William Waterhouse, The Lady of Shalott, attention to detail, vibrant color palette, complex compositions, emotional themes, symbolism, rejection of industrialization, 19th century art, Tennyson, literary inspiration, narrative depth
 author: QuickTakes
 question: >-
     What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
@@ -22,37 +22,25 @@ answer: >-
 subject: Art History and Literature
 file_name: what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott.md
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
-score: 9.0
+score: -1.0
 related_article1:
-    id: 165964
+    id: 165977
     title: >-
-        In what ways did artists intellectually engage with industrial innovations and societal changes?
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 related_article2:
-    id: 165975
+    id: 165979
     title: >-
-        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article3:
-    id: 165967
+    id: 165977
     title: >-
-        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
-related_article4:
-    id: 165966
-    title: >-
-        How did the Pre-Raphaelite movement oppose the academic style of its time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
-related_article5:
-    id: 165965
-    title: >-
-        What are the key characteristics of Realism and how do they differ from Romanticism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 ---
 
 &nbsp;

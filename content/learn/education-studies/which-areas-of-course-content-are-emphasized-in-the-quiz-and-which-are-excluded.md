@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The quiz focuses on assessing student knowledge based on major content areas and learning objectives, while potentially excluding material not covered or aligned with these objectives.
+    Analysis of quiz content emphasis and exclusions, focusing on alignment with learning objectives and covered material, while considering aspects of student assessments and feedback.
   page_keywords: >-
-    quiz, course content, emphasized areas, excluded areas, learning objectives, student outcomes, assessment alignment, formative assessments
+    quiz, course content, emphasized areas, excluded areas, student knowledge, learning objectives, assessment alignment, formative assessments, feedback loop, course material
 author: QuickTakes
 question: >-
     Which areas of course content are emphasized in the quiz, and which are excluded?
@@ -23,36 +23,7 @@ subject: Education Studies
 file_name: which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded.md
 url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
 score: -1.0
-related_article1:
-    id: 169265
-    title: >-
-        What key topics are covered in lecture materials, and what supplementary information is provided?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
-related_article2:
-    id: 169263
-    title: >-
-        What identification is required for the test, and what items are prohibited?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
-related_article3:
-    id: 169254
-    title: >-
-        What are the two formats for answering definition questions, and how do they differ?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
-related_article4:
-    id: 169250
-    title: >-
-        How are the total marks distributed across different sections of the quiz?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
-related_article5:
-    id: 169256
-    title: >-
-        What are the requirements for completeness and support in short essay answers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
+
 ---
 
 &nbsp;

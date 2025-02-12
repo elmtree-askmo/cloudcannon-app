@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Exploration of historical approaches to treating psychosis before modern medication and the challenges faced by contemporary treatments, including efficacy, side effects, and stigma.
+    An overview of historical approaches to treating psychosis, including lobotomy and confinement, and the challenges faced by modern treatments, such as medication efficacy and stigma.
   page_keywords: >-
-    psychosis, historical treatments, lobotomy, restraint, confinement, trepanation, bloodletting, antipsychotic medications, medication efficacy, mental health stigma, access to care, comprehensive care
+    psychosis,treatment history,modern challenges,psychotropic medication,antipsychotic drugs,mental health stigma,lobotomy,restraint,trepanation,access to care,side effects,comprehensive care
 author: QuickTakes
 question: >-
     What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
@@ -24,35 +24,35 @@ file_name: what-were-some-historical-approaches-to-treating-psychosis-before-mod
 url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 score: -1.0
 related_article1:
-    id: 170537
+    id: 170523
     title: >-
-        What is diffusion tensor imaging, and how is it used to study brain connectivity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+        How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    subject: Medicine
+    url: /learn/medicine/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
 related_article2:
-    id: 170525
+    id: 170530
     title: >-
-        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article3:
-    id: 170544
+    id: 170530
     title: >-
-        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article4:
-    id: 170534
+    id: 170530
     title: >-
-        How does the cerebellum contribute to motor coordination and cognitive functions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article5:
-    id: 170524
+    id: 170530
     title: >-
-        Who developed the lobotomy procedure, and what recognition did they receive for it?
-    subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 ---
 
 &nbsp;

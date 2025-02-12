@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    The product rule is a calculus method for finding the derivative of the product of two differentiable functions. It states that the derivative can be calculated as the derivative of the first function multiplied by the second, plus the first function multiplied by the derivative of the second.
+    The product rule in calculus is used to find the derivative of the product of two functions, defined by the formula d/dx(uv) = u'v + uv'. This guide explains the product rule and provides an example with functions x^2 and sin(x), demonstrating how to identify, differentiate, and substitute into the product rule.
   page_keywords: >-
-    product rule, derivatives, calculus, u(x), v(x), differentiation, functions, example, application, x^2, sin(x)
+    product rule, derivatives, calculus, function, differentiation, u(x), v(x), example, apply product rule, x^2, sin(x), derivative, product of functions
 author: QuickTakes
 question: >-
     What is the product rule for derivatives and how is it applied?
@@ -24,35 +24,29 @@ file_name: what-is-the-product-rule-for-derivatives-and-how-is-it-applied.md
 url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 score: -1.0
 related_article1:
-    id: 168335
-    title: >-
-        What is the substitution rule in integration and when is it used?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
-related_article2:
-    id: 168332
-    title: >-
-        How do you calculate the instantaneous rate of change of a function at a given point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
-related_article3:
     id: 168329
     title: >-
         What are the limit laws and how are they used to calculate limits?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article2:
+    id: 168333
+    title: >-
+        What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article3:
+    id: 168328
+    title: >-
+        Explain the concept of one-sided limits and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 related_article4:
-    id: 168336
+    id: 168333
     title: >-
-        How do you approximate the area under a curve using definite integrals?
+        What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
-related_article5:
-    id: 168337
-    title: >-
-        State the Fundamental Theorem of Calculus and explain its significance.
-    subject: Mathematics
-    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 ---
 
 &nbsp;

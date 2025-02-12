@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content discusses how tariffs influence the cost of goods and consumer prices, detailing their effects on import costs, domestic industries, retaliatory trade actions, consumer behavior, inflationary pressures, and long-term economic implications.
+    This content discusses how tariffs influence the cost of goods and consumer prices, including their effects on importers, domestic industries, trade wars, consumer behavior, inflation, and long-term economic changes.
   page_keywords: >-
-    tariffs, import taxes, consumer prices, cost of goods, domestic industries, trade wars, inflation, consumer behavior, economic effects, trade dynamics
+    tariffs, cost of goods, consumer prices, import taxes, domestic industries, trade wars, inflation, economic impact, consumer behavior, market dynamics
 author: QuickTakes
 question: >-
     In what ways do tariffs influence the cost of goods and consumer prices?
@@ -24,35 +24,35 @@ file_name: in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-pric
 url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 score: -1.0
 related_article1:
-    id: 168354
-    title: >-
-        What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
-related_article2:
-    id: 168364
-    title: >-
-        How do historical religious and ethnic tensions impact community dynamics?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
-related_article3:
-    id: 168355
-    title: >-
-        How have tariffs affected Canada-US trade relations and what are the economic consequences?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
-related_article4:
     id: 168361
     title: >-
         What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Business and Management
+    url: /learn/business-and-management/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article2:
+    id: 168366
+    title: >-
+        How does urban development influence infrastructure changes and livability in communities?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
-related_article5:
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article3:
     id: 168362
     title: >-
         How does industrialization contribute to global warming, and what are the future predictions?
     subject: Sociology
     url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article4:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168371
+    title: >-
+        What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 ---
 
 &nbsp;

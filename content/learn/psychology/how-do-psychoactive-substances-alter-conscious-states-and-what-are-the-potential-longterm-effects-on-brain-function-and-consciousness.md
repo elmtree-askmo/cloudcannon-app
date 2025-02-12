@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how psychoactive substances alter conscious states through neurotransmitter modulation and altered neural connectivity, along with potential long-term effects on brain function such as cognitive decline and mental health disorders.
+    This content explores how psychoactive substances alter conscious states through neurotransmitter modulation and affects brain function and cognition, including long-term consequences such as cognitive decline and mental health disorders.
   page_keywords: >-
-    psychoactive substances, conscious states, neurotransmitter systems, brain function, long-term effects, mood, cognition, perception, addiction, mental health, cognitive decline, structural changes, hallucinogens, stimulants, depressants, altered states of consciousness, neurobiology
+    psychoactive substances, consciousness, neurotransmitter systems, brain function, cognitive decline, hallucinogens, stimulants, depressants, mental health disorders, altered perceptions, long-term effects, addiction, withdrawal symptoms, structural brain changes
 author: QuickTakes
 question: >-
     How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness.md
 url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
 score: -1.0
-related_article1:
-    id: 164850
-    title: >-
-        What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
-related_article2:
-    id: 164834
-    title: >-
-        Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
-    subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
-related_article3:
-    id: 164840
-    title: >-
-        How do thalamocortical interactions facilitate conscious perception through signal integration?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
-related_article4:
-    id: 164852
-    title: >-
-        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
-related_article5:
-    id: 164835
-    title: >-
-        How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+
 ---
 
 &nbsp;

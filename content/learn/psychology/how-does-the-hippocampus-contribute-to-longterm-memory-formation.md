@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The hippocampus is essential for long-term memory formation, playing a key role in encoding, consolidation, and spatial navigation, while interacting with other brain structures.
+    The hippocampus is essential for the formation of long-term memories, facilitating the encoding and consolidation of information, spatial navigation, and interactions with other brain structures, such as the amygdala.
   page_keywords: >-
-    hippocampus,long-term memory,short-term memory,encoding,consolidation,spatial memory,neuroplasticity,amygdala,anterograde amnesia,brain structures
+    hippocampus,long-term memory,short-term memory,encoding,consolidation,spatial navigation,amygdala,neuroplasticity,anterograde amnesia,Alzheimer's disease
 author: QuickTakes
 question: >-
     How does the hippocampus contribute to long-term memory formation?
@@ -24,35 +24,11 @@ file_name: how-does-the-hippocampus-contribute-to-longterm-memory-formation.md
 url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 score: -1.0
 related_article1:
-    id: 170574
+    id: 170567
     title: >-
-        How does Alzheimer's disease impact the hippocampus and long-term memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
-related_article2:
-    id: 170592
-    title: >-
-        How do materialistic perspectives explain consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
-related_article3:
-    id: 170584
-    title: >-
-        How does the olfactory bulb process sensory input related to smell?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
-related_article4:
-    id: 170594
-    title: >-
-        How do genetic and environmental factors contribute to schizophrenia?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
-related_article5:
-    id: 170576
-    title: >-
-        What is the role of the prefrontal cortex in working memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+        What role does the thalamus play in sensory input processing?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
 ---
 
 &nbsp;

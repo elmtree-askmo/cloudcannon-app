@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses how altruistic tendencies influence INFPs in their humanitarian values and interpersonal relationships, highlighting their empathy, idealism, and the balance needed to maintain their well-being.
+    This content discusses the impact of altruistic tendencies on INFPs, highlighting how their empathy and idealism shape their humanitarian values and the dynamics of their relationships.
   page_keywords: >-
-    INFP, altruism, humanitarian values, relationship dynamics, empathy, idealism, emotional depth, social justice, creative expression, volunteer work, activism, counseling, education, emotional sensitivity, support, boundaries, burnout
+    INFP, altruism, humanitarian values, relationship dynamics, empathy, idealism, social justice, volunteer work, creative expression, emotional depth, authenticity, boundaries, sensitivity, self-reflection, well-being
 author: QuickTakes
 question: >-
     Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
@@ -24,17 +24,17 @@ file_name: discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitari
 url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
 score: -1.0
 related_article1:
-    id: 170630
+    id: 170626
     title: >-
-        In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
     subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 related_article2:
-    id: 170619
+    id: 170626
     title: >-
-        What are the key personality traits of an INFP, and how do they manifest in their behavior?
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 related_article3:
     id: 170626
     title: >-
@@ -42,17 +42,11 @@ related_article3:
     subject: Psychology
     url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 related_article4:
-    id: 170624
+    id: 170626
     title: >-
-        Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
-related_article5:
-    id: 170620
-    title: >-
-        How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 ---
 
 &nbsp;

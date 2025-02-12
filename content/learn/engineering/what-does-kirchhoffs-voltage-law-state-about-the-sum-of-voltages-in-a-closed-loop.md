@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    Kirchhoff's Voltage Law (KVL) states that the sum of the voltages around any closed loop in a circuit is equal to zero, ensuring energy conservation within electrical circuits.
+    Kirchhoff's Voltage Law states that the sum of the electrical potential differences around any closed loop in a circuit is zero, indicating energy conservation and aiding in circuit analysis.
   page_keywords: >-
-    Kirchhoff's Voltage Law, KVL, electrical potential, closed loop, circuit analysis, voltage conservation, mesh analysis, voltage drop, energy conservation, electrical circuits
+    Kirchhoff's Voltage Law, KVL, electrical potential differences, closed loop, circuit analysis, voltage, energy conservation, mesh analysis, components, polarity
 author: QuickTakes
 question: >-
     What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
@@ -24,29 +24,29 @@ file_name: what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a
 url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 score: -1.0
 related_article1:
-    id: 169827
+    id: 169836
     title: >-
-        What constitutes a circuito elétrico and how does it function?
+        Describe the analogy between potência elétrica and an electric shower.
     subject: Engineering
-    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 related_article2:
-    id: 169829
+    id: 169832
     title: >-
-        Define a laço and explain how it differs from a malha in an electrical circuit.
+        Explain the analogy between tensão elétrica and water pressure.
     subject: Engineering
-    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 related_article3:
-    id: 169829
-    title: >-
-        Define a laço and explain how it differs from a malha in an electrical circuit.
-    subject: Engineering
-    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
-related_article4:
     id: 169826
     title: >-
         How can a bipolo elétrico be compared to a plumbing system?
+    subject: Physics
+    url: /learn/physics/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article4:
+    id: 169828
+    title: >-
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
     subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
 related_article5:
     id: 169839
     title: >-

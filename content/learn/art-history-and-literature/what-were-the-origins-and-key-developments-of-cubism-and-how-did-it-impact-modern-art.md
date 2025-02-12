@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Art History and Literature
   page_description: >-
-    Cubism, a pioneering art movement founded by Picasso and Braque, reshaped modern art through its unique approaches to perspective and representation, influencing numerous subsequent art movements and creative practices.
+    Cubism, a revolutionary art movement led by Pablo Picasso and Georges Braque, transformed modern art by challenging traditional perspectives and emphasizing abstraction through key developments such as Analytical and Synthetic Cubism.
   page_keywords: >-
-    Cubism, Pablo Picasso, Georges Braque, Analytical Cubism, Synthetic Cubism, modern art, abstract art, artistic conventions, geometric shapes, collage, influence, linear perspective, art movements, creativity, 20th century art
+    Cubism, Pablo Picasso, Georges Braque, Analytical Cubism, Synthetic Cubism, modern art, abstraction, geometric shapes, art movements, perspective, mixed media, collage, influence of African art, Cycladic art, Futurism, Constructivism, Surrealism, Abstract Expressionism, Minimalism, cultural reflection
 author: QuickTakes
 question: >-
     What were the origins and key developments of Cubism, and how did it impact modern art?
@@ -22,37 +22,37 @@ answer: >-
 subject: Art History and Literature
 file_name: what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art.md
 url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159849
-    title: >-
-        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
-related_article2:
     id: 159839
     title: >-
         In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+related_article2:
+    id: 159843
+    title: >-
+        In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
 related_article3:
-    id: 159837
+    id: 160115
     title: >-
-        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
+        What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
+    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
 related_article4:
-    id: 159842
+    id: 159832
     title: >-
-        How did queer art develop in modern society, and who were some key figures and movements in this area?
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article5:
-    id: 160112
+    id: 159838
     title: >-
-        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
+        How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
 ---
 
 &nbsp;

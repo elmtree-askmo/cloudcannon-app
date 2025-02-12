@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Split-brain patients provide insights into hemispheric specialization in language processing, showcasing the distinct roles of the left and right hemispheres in verbal and non-verbal cognitive functions.
+    Split-brain patients reveal hemispheric specialization in language processing, showcasing the distinct roles of the left hemisphere in verbal communication and the right hemisphere in non-verbal tasks.
   page_keywords: >-
-    split-brain patients, hemispheric specialization, language processing, corpus callosum, left hemisphere, right hemisphere, Broca's aphasia, Wernicke's aphasia, visual field processing, auditory processing, cognitive functions, verbal communication, non-verbal tasks
+    split-brain patients, hemispheric specialization, language processing, corpus callosum, left hemisphere, right hemisphere, Broca's aphasia, Wernicke's aphasia, cognitive functions, behavioral observations, visual information, auditory processing, language tasks, cognitive abilities
 author: QuickTakes
 question: >-
     How do split-brain patients demonstrate hemispheric specialization in language processing?
@@ -23,36 +23,7 @@ subject: Psychology
 file_name: how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing.md
 url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
 score: -1.0
-related_article1:
-    id: 164890
-    title: >-
-        Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
-related_article2:
-    id: 164896
-    title: >-
-        What factors influence the recovery of language impairments following brain damage?
-    subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
-related_article3:
-    id: 164888
-    title: >-
-        How does a within-subject design help reduce statistical noise in research studies?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies
-related_article4:
-    id: 164895
-    title: >-
-        How does the brain process auditory information differently in the left and right hemispheres?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
-related_article5:
-    id: 164892
-    title: >-
-        What role does Broca's area play in language production, and what are the effects of its damage?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
+
 ---
 
 &nbsp;

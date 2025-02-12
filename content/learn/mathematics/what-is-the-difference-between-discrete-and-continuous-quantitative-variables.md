@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the difference between discrete and continuous quantitative variables, detailing their characteristics, examples, and how they are measured or counted.
+    Understanding the distinction between discrete and continuous quantitative variables, focusing on their characteristics, examples, and implications in data measurement.
   page_keywords: >-
-    discrete variables, continuous variables, quantitative variables, countable, measurable, whole numbers, fractions, examples, height, weight, temperature, number of students, variables comparison
+    discrete variables, continuous variables, quantitative variables, countable, measured, whole numbers, fractions, decimals
 author: QuickTakes
 question: >-
     What is the difference between discrete and continuous quantitative variables?
@@ -24,35 +24,35 @@ file_name: what-is-the-difference-between-discrete-and-continuous-quantitative-v
 url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
 score: -1.0
 related_article1:
-    id: 170275
+    id: 170278
     title: >-
-        How do descriptive statistics differ from inferential statistics in terms of their purpose?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
+        What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
 related_article2:
+    id: 170283
+    title: >-
+        What distinguishes an observational study from a designed experiment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article3:
+    id: 170283
+    title: >-
+        What distinguishes an observational study from a designed experiment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article4:
     id: 170279
     title: >-
         Define a parameter and a statistic in the context of statistical analysis.
     subject: Mathematics
     url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
-related_article3:
-    id: 170283
-    title: >-
-        What distinguishes an observational study from a designed experiment?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
-related_article4:
-    id: 170282
-    title: >-
-        Describe the concept of distribution in statistics and its importance.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 related_article5:
-    id: 170277
+    id: 170278
     title: >-
-        Explain the concept of a simple random sample and its importance in statistics.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+        What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
 ---
 
 &nbsp;

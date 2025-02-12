@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    A tautology is a statement in propositional logic that is universally true regardless of the truth values of its components. This content explains what a tautology is, how to identify it using truth tables and logical equivalencies, and provides examples.
+    A tautology is a logical statement that is always true regardless of the truth values of its components. This content explains how to identify a tautology using truth tables, logical equivalencies, and counter-examples.
   page_keywords: >-
-    tautology, propositional logic, logic, truth values, logical statement, truth table, logical equivalencies, counter-example, logical reasoning, foundational truths
+    tautology, logical statement, always true, propositional logic, truth values, truth table, logical equivalencies, counter-example, foundational truths, logical reasoning, logical expressions, truth assignments
 author: QuickTakes
 question: >-
     What is a tautology, and how can it be identified?
@@ -24,35 +24,35 @@ file_name: what-is-a-tautology-and-how-can-it-be-identified.md
 url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 score: -1.0
 related_article1:
-    id: 170245
+    id: 170253
     title: >-
-        How is conjunction applied in logical propositions?
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article2:
-    id: 170242
+    id: 170238
     title: >-
-        How do you construct a truth table for a given logical expression?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+        What distinguishes a proposition from a non-proposition?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-distinguishes-a-proposition-from-a-nonproposition
 related_article3:
-    id: 170245
+    id: 170253
     title: >-
-        How is conjunction applied in logical propositions?
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article4:
-    id: 170257
+    id: 170248
     title: >-
-        What is the importance of planning and structure in constructing truth tables?
+        What is the implication operator, and how are hypothesis and conclusion related?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
 related_article5:
-    id: 170240
+    id: 170243
     title: >-
-        List and describe the common logical operators used in propositional logic.
+        What is the role of order of precedence in resolving logical operators?
     subject: Mathematics
-    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 ---
 
 &nbsp;

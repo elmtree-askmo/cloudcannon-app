@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses common causes of prompt dependency in educational settings and suggests prevention strategies to foster learner independence.
+    This content discusses the causes of prompt dependency in educational settings and offers strategies for prevention, emphasizing the importance of fading prompts, individualizing instruction, and encouraging self-management among learners.
   page_keywords: >-
-    prompt dependency, causes of prompt dependency, prompt fading, intrusive prompts, individualized instruction, errorless learning, prompt hierarchy, self-management, independent responses, educational strategies
+    prompt dependency, education, fading prompts, intrusive prompts, individualization, errorless learning, prevention strategies, prompt hierarchy, self-management, reinforcement, learner independence
 author: QuickTakes
 question: >-
     What are some common causes of prompt dependency, and how can it be prevented?
@@ -24,35 +24,35 @@ file_name: what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-pr
 url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 score: -1.0
 related_article1:
-    id: 169352
+    id: 169346
     title: >-
-        How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
+        How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
 related_article2:
-    id: 169358
+    id: 169354
     title: >-
-        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+        What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
 related_article3:
-    id: 169348
+    id: 169355
     title: >-
-        What techniques are used in teaching new skills, and how do prompting and fading play a role?
-    subject: Psychology
-    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+        Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Health Studies
+    url: /learn/health-studies/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 related_article4:
-    id: 169359
+    id: 169340
     title: >-
-        How can assistive devices and communication systems foster independence in learning?
+        How does observational learning contribute to social development, and what role does imitation play?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 related_article5:
-    id: 169338
+    id: 169346
     title: >-
-        What are the types of augmentative communication, and how might they impact verbal language development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
+        How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
 ---
 
 &nbsp;

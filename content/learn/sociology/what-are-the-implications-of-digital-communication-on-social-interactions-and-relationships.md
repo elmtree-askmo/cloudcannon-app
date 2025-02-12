@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    This content explores the implications of digital communication on social interactions and relationships, discussing both positive aspects like global connectivity and negative effects such as reduced social skills and privacy concerns.
+    This content explores the implications of digital communication on social interactions and relationships, highlighting both positive aspects such as global connectivity and challenges such as reduced social skills and privacy concerns.
   page_keywords: >-
-    digital communication,social interactions,relationships,communication channels,global reach,technological dependency,social skills,privacy concerns,ethical issues
+    digital communication,social interactions,relationships,communication channels,global reach,technological dependency,social skills,privacy concerns,ethical issues,face-to-face communication
 author: QuickTakes
 question: >-
     What are the implications of digital communication on social interactions and relationships?
@@ -24,35 +24,35 @@ file_name: what-are-the-implications-of-digital-communication-on-social-interact
 url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 score: -1.0
 related_article1:
-    id: 168359
-    title: >-
-        What are the cultural tensions that arise from immigration, and how do they affect local communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
-related_article2:
-    id: 168365
-    title: >-
-        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
-    subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
-related_article3:
     id: 168357
     title: >-
         What strategies might governments employ in response to tariff impositions?
     subject: Sociology
     url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article2:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article3:
+    id: 168369
+    title: >-
+        What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
 related_article4:
-    id: 168368
+    id: 168355
     title: >-
-        How does wealth distribution affect economic inequality and what government policies address this issue?
+        How have tariffs affected Canada-US trade relations and what are the economic consequences?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 related_article5:
-    id: 168359
+    id: 168364
     title: >-
-        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+        How do historical religious and ethnic tensions impact community dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 ---
 
 &nbsp;

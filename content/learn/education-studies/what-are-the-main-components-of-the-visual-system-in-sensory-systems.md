@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    The visual system is a key component of the sensory systems, comprising eyes, retina, optic nerve, and various brain structures like the LGN and visual cortex, responsible for processing and interpreting visual information.
+    The visual system is a complex network of components including eyes, retina, optic nerve, and various brain structures that process and interpret visual information for understanding our surroundings.
   page_keywords: >-
-    eyes, retina, optic nerve, optic chiasm, optic tract, lateral geniculate nucleus, LGN, optic radiation, visual cortex, visual association cortex, sensory systems, visual information processing, photoreceptors, rods, cones, visual perception
+    visual system, sensory systems, eyes, retina, optic nerve, optic chiasm, optic tract, lateral geniculate nucleus, optic radiation, visual cortex, visual association cortex, photoreceptors, rods, cones, visual processing, brain, light detection
 author: QuickTakes
 question: >-
     What are the main components of the visual system in sensory systems?
@@ -24,35 +24,35 @@ file_name: what-are-the-main-components-of-the-visual-system-in-sensory-systems.
 url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
 score: -1.0
 related_article1:
-    id: 166212
+    id: 166193
     title: >-
-        How is blood circulation regulated in the cardiovascular system?
+        How does natural selection lead to adaptations in species?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
+    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
 related_article2:
-    id: 166183
+    id: 166190
     title: >-
-        How do carbohydrates and proteins differ in their roles within the body?
+        Describe the structure of DNA and its role in genetic inheritance.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
+    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
 related_article3:
-    id: 166189
+    id: 166190
     title: >-
-        How do red blood cells and white blood cells differ in structure and function?
+        Describe the structure of DNA and its role in genetic inheritance.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
 related_article4:
-    id: 166201
+    id: 166193
     title: >-
-        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
+        How does natural selection lead to adaptations in species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-selection-lead-to-adaptations-in-species
 related_article5:
-    id: 166204
+    id: 166199
     title: >-
-        How do phylogenetic trees help in understanding evolutionary relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+        What are the main components of the human cardiovascular system and their functions?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 ---
 
 &nbsp;

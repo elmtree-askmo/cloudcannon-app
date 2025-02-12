@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Engineering
   page_description: >-
-    Power factor correction improves efficiency in electrical systems by using methods like capacitor banks, synchronous condensers, and active power factor correction, reducing costs and enhancing voltage stability.
+    Power factor correction enhances efficiency in electrical systems by using techniques like capacitor banks, synchronous condensers, and active power factor correction to improve power factor and reduce energy costs.
   page_keywords: >-
-    power factor correction, electrical systems, industrial efficiency, capacitor banks, synchronous condensers, phase advancers, active power factor correction, load management, energy costs, voltage stability, reactive power, active power, apparent power
+    power factor correction, electrical systems, active power, apparent power, capacitor banks, synchronous condensers, phase advancers, active power factor correction, load management, energy efficiency, voltage stability, resistive losses
 author: QuickTakes
 question: >-
     How is power factor correction achieved in electrical systems?
@@ -24,35 +24,35 @@ file_name: how-is-power-factor-correction-achieved-in-electrical-systems.md
 url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 score: -1.0
 related_article1:
-    id: 169845
+    id: 169858
     title: >-
-        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+        What is the role of power factor in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 related_article2:
-    id: 169859
+    id: 169853
     title: >-
-        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+        Explain the concept of active and reactive power in electrical circuits.
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 related_article3:
-    id: 169851
-    title: >-
-        How do Kirchhoff's laws assist in the analysis of electrical circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
-related_article4:
     id: 169843
     title: >-
         What are the basic postulates and conventions used in the analysis of DC circuits?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
-related_article5:
-    id: 169861
+related_article4:
+    id: 169850
     title: >-
-        How are phasor diagrams used in the analysis of RLC circuits?
+        What is the difference between a node and a loop in circuit analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+related_article5:
+    id: 169847
+    title: >-
+        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    subject: Physics
+    url: /learn/physics/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
 ---
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160379
-date: 2025-01-24
+id: 159878
+date: 2025-01-23
 title: >-
     How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    A comprehensive analysis of how ancient Greek philosophers and historians Xenophon, Plato, and Aristotle described the Celts in their writings, emphasizing their martial qualities, societal characteristics, and the context of their interactions with Greek culture.
+    Xenophon, Plato, and Aristotle provided various insights into the Celts through their writings, emphasizing their martial characteristics and societal structures in ancient Greek thought.
   page_keywords: >-
-    Xenophon, Plato, Aristotle, Celts, ancient Greece, history, mercenaries, warriors, philosophy, customs, societal organization, martial characteristics
+    Xenophon, Plato, Aristotle, Celts, ancient Greece, accounts, descriptions, mercenaries, philosophy, societal structures, martial qualities, ethnographic observations
 author: QuickTakes
 question: >-
     How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts.md
 url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
-score: 8.5
+score: -1.0
 related_article1:
-    id: 159914
+    id: 159868
     title: >-
-        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
+        What are the defining decorative styles of La Tène Culture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article2:
-    id: 159905
+    id: 159901
     title: >-
-        What are the distinctive pottery styles associated with the Beaker People and Corded Ware People?
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-distinctive-pottery-styles-associated-with-the-beaker-people-and-corded-ware-people
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article3:
-    id: 159917
+    id: 159886
     title: >-
-        What was the tribal organization and social hierarchy in Celtic society?
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article4:
-    id: 159920
+    id: 159866
     title: >-
-        How did Celtic architectural styles reflect their settlement patterns?
+        How did the Halstatt Culture transition into the La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
 related_article5:
-    id: 160371
+    id: 159891
     title: >-
-        How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
+        What were the primary military tactics and weaponry used by the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-differ-from-other-contemporary-cultures
+    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 ---
 
 &nbsp;

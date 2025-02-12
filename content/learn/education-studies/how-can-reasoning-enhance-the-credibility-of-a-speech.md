@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content discusses how reasoning enhances the credibility of a speech by structuring arguments logically, using evidence, establishing the speaker's authority, addressing counterarguments, and engaging the audience.
+    This content discusses how reasoning enhances the credibility of a speech through logical structure, the use of evidence, and establishing speaker authority, while addressing counterarguments and engaging the audience.
   page_keywords: >-
-    reasoning, credibility, speech, logical structure, evidence, ethos, counterarguments, audience engagement, persuasive speech, critical thinking
+    reasoning, credibility, speech, logical structure, evidence, ethos, counterarguments, engagement, persuasive speech, emotional appeals, logical arguments, trust, critical thinking
 author: QuickTakes
 question: >-
     How can reasoning enhance the credibility of a speech?
@@ -24,35 +24,35 @@ file_name: how-can-reasoning-enhance-the-credibility-of-a-speech.md
 url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
 score: -1.0
 related_article1:
-    id: 168529
-    title: >-
-        How does syntax contribute to persuasion in speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
-related_article2:
-    id: 168539
-    title: >-
-        How can active listening enhance understanding during a critique?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-active-listening-enhance-understanding-during-a-critique
-related_article3:
-    id: 168540
-    title: >-
-        Why is it important to incorporate diverse perspectives in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
-related_article4:
     id: 168534
     title: >-
         What are the key elements of providing constructive criticism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-elements-of-providing-constructive-criticism
-related_article5:
-    id: 168533
+related_article2:
+    id: 168532
     title: >-
-        What techniques can be used to engage an audience effectively?
+        Why is it important to identify and understand your audience before delivering a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-engage-an-audience-effectively
+    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
+related_article3:
+    id: 168537
+    title: >-
+        How can a speaker align their content with the purpose of their speech?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
+related_article4:
+    id: 168549
+    title: >-
+        What are the characteristics of a collegial discussion?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
+related_article5:
+    id: 168537
+    title: >-
+        How can a speaker align their content with the purpose of their speech?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
 ---
 
 &nbsp;

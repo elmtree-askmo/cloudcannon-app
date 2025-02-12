@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    Exploring the key components of emotional intelligence in nursing, including self-awareness, self-regulation, social awareness, and relationship management, and their significance in enhancing patient care and overall well-being of healthcare professionals.
+    This content explains the key components of emotional intelligence in nursing, highlighting its importance for patient care, communication, teamwork, stress management, and cultural competency.
   page_keywords: >-
-    emotional intelligence,nursing,self-awareness,self-regulation,social awareness,relationship management,patient care,communication,teamwork,stress management,resilience,cultural competency
+    emotional intelligence, nursing, self-awareness, self-regulation, social awareness, relationship management, patient care, effective communication, teamwork, stress management, resilience, cultural competency
 author: QuickTakes
 question: >-
     What are the key components of emotional intelligence and why are they important in nursing?
@@ -24,23 +24,23 @@ file_name: what-are-the-key-components-of-emotional-intelligence-and-why-are-the
 url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
 score: -1.0
 related_article1:
-    id: 169549
+    id: 169547
     title: >-
-        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+        Why is continuous learning important for professional development in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 related_article2:
-    id: 169541
+    id: 169546
     title: >-
-        What role does empathy play in providing compassionate care to patients?
+        How can building rapport with patients enhance communication and patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 related_article3:
-    id: 169549
+    id: 169546
     title: >-
-        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+        How can building rapport with patients enhance communication and patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 related_article4:
     id: 169547
     title: >-
@@ -48,11 +48,11 @@ related_article4:
     subject: Nursing
     url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 related_article5:
-    id: 169543
+    id: 169546
     title: >-
-        What are some effective stress reduction techniques that nurses can use to manage stress?
+        How can building rapport with patients enhance communication and patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 ---
 
 &nbsp;

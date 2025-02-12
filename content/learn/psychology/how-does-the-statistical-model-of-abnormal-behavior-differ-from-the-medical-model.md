@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content explains the differences between the statistical model and the medical model of abnormal behavior, focusing on their definitions of abnormality, approaches to understanding mental health disorders, and methods of diagnosis and treatment.
+    This content explains the differences between the statistical model and medical model of abnormal behavior, focusing on their definitions of abnormality, methodologies, and implications for understanding and treating mental health disorders.
   page_keywords: >-
-    statistical model, abnormal behavior, medical model, mental health disorders, definition of abnormality, statistical rarity, quantitative approach, objective guidelines, biological origins, mental disorders, genetic factors, neurological factors, biochemical factors, medical interventions, standardized diagnosis, DSM, ICD
+    statistical model, abnormal behavior, medical model, mental health disorders, definition of abnormality, statistical rarity, quantitative approach, objective guidelines, biological origins, mental disorders, biological factors, genetic influences, neurological factors, biochemical factors, standardized diagnosis, DSM, ICD
 author: QuickTakes
 question: >-
     How does the statistical model of abnormal behavior differ from the medical model?
@@ -24,35 +24,35 @@ file_name: how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-m
 url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 score: -1.0
 related_article1:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article2:
     id: 163637
     title: >-
         What is the societal impact of antisocial behavior in terms of economic and emotional burden?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
-related_article2:
-    id: 163642
-    title: >-
-        What are the developmental aspects of empathy and guilt in childhood?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
 related_article3:
-    id: 163636
+    id: 163637
     title: >-
-        How prevalent is psychopathy in the general population compared to the incarcerated population?
-    subject: Psychology
-    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 related_article4:
-    id: 163635
+    id: 163641
     title: >-
-        What are the key signs of psychopathy related to lack of empathy and guilt?
+        What role does the absence of empathy and guilt play in psychopathic behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 related_article5:
-    id: 163631
+    id: 163637
     title: >-
-        What are the cultural and social criteria used to define abnormal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 ---
 
 &nbsp;

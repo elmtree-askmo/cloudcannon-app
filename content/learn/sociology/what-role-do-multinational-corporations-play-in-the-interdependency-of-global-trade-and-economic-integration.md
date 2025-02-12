@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Sociology
   page_description: >-
-    Multinational corporations significantly influence global trade and economic integration through their extensive supply chains, investments, and impact on policies, while also facing challenges related to inequality and environmental issues.
+    Multinational corporations play a crucial role in global trade and economic integration by facilitating trade through supply chains, investing in foreign markets, forming global commodity chains, influencing policy, and contributing to cultural exchange, while also facing criticism for inequality and environmental issues.
   page_keywords: >-
-    multinational corporations, global trade, economic integration, supply chains, investment, economic growth, commodity chains, trade policy, cultural exchange, globalization, inequality, environmental impact
+    multinational corporations, global trade, economic integration, interdependency, supply chains, investment, economic growth, global commodity chains, policy influence, cultural exchange, globalization, inequality, environmental degradation, trade relationships, technology transfer
 author: QuickTakes
 question: >-
     What role do multinational corporations play in the interdependency of global trade and economic integration?
@@ -24,35 +24,23 @@ file_name: what-role-do-multinational-corporations-play-in-the-interdependency-o
 url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 score: -1.0
 related_article1:
-    id: 163863
+    id: 163868
     title: >-
-        How have multinational corporations contributed to contemporary globalization since 1945?
-    subject: Sociology
-    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
+        What was the significance of the slave trade in the context of colonialism and specialized production?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
 related_article2:
-    id: 163870
+    id: 163862
     title: >-
-        What role do multinational corporations play in the emergence of global markets and economic integration?
+        What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 related_article3:
-    id: 163867
+    id: 163868
     title: >-
-        How did European exploration impact global trade routes and resource control?
+        What was the significance of the slave trade in the context of colonialism and specialized production?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
-related_article4:
-    id: 163870
-    title: >-
-        What role do multinational corporations play in the emergence of global markets and economic integration?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
-related_article5:
-    id: 163860
-    title: >-
-        What are the key characteristics of capitalism, and how does it influence global markets?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+    url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
 ---
 
 &nbsp;

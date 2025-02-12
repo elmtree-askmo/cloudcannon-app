@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This content outlines the key nutritional requirements and hydration standards necessary for maintaining health, including details on macronutrients and micronutrients, the importance of hydration, and guidelines provided by the World Health Organization.
+    This content discusses the key nutritional requirements and hydration standards necessary for maintaining health, including macronutrients, micronutrients, fluid intake guidelines, and the importance of hydration, highlighting WHO recommendations and age considerations.
   page_keywords: >-
-    nutritional requirements, hydration standards, balanced diet, macronutrients, micronutrients, vitamins, minerals, fluid intake, dehydration signs, World Health Organization guidelines, health maintenance, dietary needs, nutrition education, hydration importance
+    nutrition, hydration, balanced diet, macronutrients, micronutrients, vitamins, minerals, fluid intake, dehydration, WHO guidelines, health standards, dietary needs, healthy eating, wellness, calories, hydration importance
 author: QuickTakes
 question: >-
     What are the nutritional requirements and hydration standards for maintaining health?
@@ -24,35 +24,23 @@ file_name: what-are-the-nutritional-requirements-and-hydration-standards-for-mai
 url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 score: -1.0
 related_article1:
-    id: 169760
+    id: 169757
     title: >-
-        What are the national guidelines for healthcare regulations, and how are they implemented?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 related_article2:
-    id: 169762
+    id: 169757
     title: >-
-        What are the requirements for proper medication storage, including temperature control and security measures?
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 related_article3:
-    id: 169763
+    id: 169757
     title: >-
-        What are patient group directions, and how are they applied in clinical practice?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
-related_article4:
-    id: 169742
-    title: >-
-        What are the key developmental stages in lifespan development, and how do they impact health?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
-related_article5:
-    id: 169751
-    title: >-
-        What role do counseling techniques and support systems play in mental health patient support?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 ---
 
 &nbsp;

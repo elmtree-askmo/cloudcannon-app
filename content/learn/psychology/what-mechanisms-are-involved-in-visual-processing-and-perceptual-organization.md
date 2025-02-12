@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content provides a detailed overview of the mechanisms involved in visual processing and perceptual organization, focusing on the brain's pathways, attention mechanisms, and Gestalt principles.
+    An overview of the mechanisms involved in visual processing and perceptual organization, detailing pathways in the brain, types of attention, and Gestalt principles guiding how we interpret visual stimuli.
   page_keywords: >-
-    visual processing, perceptual organization, occipital lobe, ventral stream, dorsal stream, attention mechanisms, bottom-up processing, top-down processing, Gestalt principles, closure, pragnanz, proximity, similarity, continuity, inclusiveness
+    visual processing, perceptual organization, occipital lobe, ventral stream, dorsal stream, attention mechanisms, bottom-up processing, top-down processing, Gestalt principles, closure, good figure, proximity, similarity, continuity, inclusiveness
 author: QuickTakes
 question: >-
     What mechanisms are involved in visual processing and perceptual organization?
@@ -24,29 +24,17 @@ file_name: what-mechanisms-are-involved-in-visual-processing-and-perceptual-orga
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 score: -1.0
 related_article1:
-    id: 165009
+    id: 165010
     title: >-
-        What are the origins and key studies related to the concept of depth of processing?
+        How do different experimental approaches contribute to our understanding of depth of processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
 related_article2:
-    id: 165014
+    id: 165010
     title: >-
-        How do experimental design and data analysis contribute to cognitive psychology research?
+        How do different experimental approaches contribute to our understanding of depth of processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
-related_article3:
-    id: 165009
-    title: >-
-        What are the origins and key studies related to the concept of depth of processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
-related_article4:
-    id: 165013
-    title: >-
-        What are the core concepts of cognitive psychology related to perception and attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
 ---
 
 &nbsp;

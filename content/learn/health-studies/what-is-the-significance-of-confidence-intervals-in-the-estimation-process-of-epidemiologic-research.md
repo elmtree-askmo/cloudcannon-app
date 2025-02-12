@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Health Studies
   page_description: >-
-    This content discusses the role and significance of confidence intervals in epidemiologic research, emphasizing their importance in estimating population parameters, indicating statistical significance, understanding variability and uncertainty, assessing clinical relevance, guiding future research, and enhancing communication of findings.
+    Confidence intervals are crucial in epidemiologic research, providing a range of values to estimate population parameters, indicating statistical significance, understanding variability and uncertainty, and assisting in the communication of findings.
   page_keywords: >-
-    confidence intervals, epidemiologic research, estimation process, population parameters, statistical significance, variability, uncertainty, clinical relevance, future research, communication of findings
+    confidence intervals, epidemiologic research, population parameters, statistical significance, variability, uncertainty, clinical relevance, future research, communication of findings
 author: QuickTakes
 question: >-
     What is the significance of confidence intervals in the estimation process of epidemiologic research?
@@ -24,35 +24,35 @@ file_name: what-is-the-significance-of-confidence-intervals-in-the-estimation-pr
 url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 score: -1.0
 related_article1:
-    id: 162958
+    id: 162959
     title: >-
-        How do political and economic factors serve as environmental and societal determinants of health?
+        What are the main components of the PICO framework in clinical research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
 related_article2:
-    id: 163017
-    title: >-
-        How is the PICO framework used to structure clinical research questions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
-related_article3:
-    id: 162973
+    id: 162961
     title: >-
         What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+related_article3:
+    id: 162956
+    title: >-
+        How have key figures and milestones influenced the historical development of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 related_article4:
-    id: 163011
+    id: 163020
     title: >-
-        What is the definition of epidemiology and how does it apply to public health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
+        How do random and systematic sampling methods differ in biostatistics?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
 related_article5:
-    id: 162955
+    id: 162957
     title: >-
-        What is the primary focus of epidemiology in terms of disease frequency and distribution?
+        What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    This content discusses the influence of circadian rhythms on problem-solving task performance in older and younger adults, highlighting differences in optimal performance times and the implications for cognitive assessments and scheduling.
+    This content explores the effects of circadian rhythms on problem-solving task performance in older and younger adults, highlighting optimal performance times and implications for cognitive assessments and task scheduling.
   page_keywords: >-
-    circadian rhythms, problem-solving performance, older adults, younger adults, cognitive tasks, peak performance times, synchrony effect, cognitive assessment, optimal learning, productivity
+    circadian rhythms, problem-solving tasks, cognitive performance, older adults, younger adults, peak performance times, synchrony effect, cognitive tasks, optimal performance, morning performance, evening performance, age-related differences, scheduling tasks, cognitive assessments
 author: QuickTakes
 question: >-
     How do circadian rhythms affect problem-solving task performance in older versus younger adults?
@@ -24,35 +24,35 @@ file_name: how-do-circadian-rhythms-affect-problemsolving-task-performance-in-ol
 url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
 score: -1.0
 related_article1:
-    id: 168075
+    id: 168072
     title: >-
-        What are the age-related differences in morning versus evening performance for cognitive tasks?
+        How does language acquisition affect the development of personal memories in young children?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 related_article2:
-    id: 168067
+    id: 168072
     title: >-
-        What is the synchrony effect and how does it relate to age-related circadian differences?
+        How does language acquisition affect the development of personal memories in young children?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 related_article3:
+    id: 168072
+    title: >-
+        How does language acquisition affect the development of personal memories in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+related_article4:
     id: 168070
     title: >-
         How do memorable life events during adulthood influence personal identity development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
-related_article4:
-    id: 168071
-    title: >-
-        Why is adolescence considered important for memory recall and adult identity formation?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
 related_article5:
-    id: 168067
+    id: 168072
     title: >-
-        What is the synchrony effect and how does it relate to age-related circadian differences?
+        How does language acquisition affect the development of personal memories in young children?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 ---
 
 &nbsp;

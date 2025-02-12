@@ -11,7 +11,7 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Education Studies
   page_description: >-
-    This content outlines the essential skills required for conducting independent research, including critical thinking, effective communication, time management, adaptability, and understanding of ethical considerations.
+    This content outlines the essential skills needed for conducting independent research, including critical thinking, communication, time management, and ethical considerations.
   page_keywords: >-
     critical thinking, independent research skills, communication skills, time management, adaptability, lifelong learning, methodological rigor, analytical skills, networking, ethical considerations
 author: QuickTakes
@@ -30,29 +30,29 @@ related_article1:
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 related_article2:
-    id: 165888
+    id: 165895
     title: >-
-        Why is critical thinking considered essential in education, particularly in the arts and humanities?
+        How do the arts and humanities contribute to cultural understanding and societal critique?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
+    url: /learn/education-studies/questions/how-do-the-arts-and-humanities-contribute-to-cultural-understanding-and-societal-critique
 related_article3:
-    id: 165884
+    id: 165892
     title: >-
-        What are the key stages of academic progression in a university setting?
+        What are the key components of effective academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 related_article4:
-    id: 165896
+    id: 165885
     title: >-
-        What is the role of archaeology and history in understanding material artefacts?
+        Why are transferable skills such as critical thinking and communication important in a university environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/why-are-transferable-skills-such-as-critical-thinking-and-communication-important-in-a-university-environment
 related_article5:
-    id: 165896
+    id: 165898
     title: >-
-        What is the role of archaeology and history in understanding material artefacts?
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
 ---
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 _schema: default
-id: 161940
+id: 161757
 date: 2025-01-24
 title: >-
     Explain the physical change that occurs when aluminum foil is crumbled.
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content explains the physical change that occurs when aluminum foil is crumbled, highlighting the alteration in shape and form without a change in chemical composition.
+    This content explains the physical change that occurs when aluminum foil is crumbled, highlighting the change in shape without altering its chemical composition.
   page_keywords: >-
-    aluminum foil, physical change, crumbling, shape change, chemical composition, reversible process, material identity, atomic structure
+    aluminum foil, physical change, crumbling, chemical composition, transformation, shape change, reversible process, material identity
 author: QuickTakes
 question: >-
     Explain the physical change that occurs when aluminum foil is crumbled.
@@ -24,35 +24,35 @@ file_name: explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumble
 url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 score: -1.0
 related_article1:
-    id: 162038
+    id: 161752
     title: >-
-        What is the role of chemical change indicators in identifying precipitation reactions?
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article2:
-    id: 161943
+    id: 161970
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article3:
+    id: 161751
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article4:
+    id: 161760
     title: >-
         How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
-related_article3:
-    id: 161975
-    title: >-
-        What happens during the state transition from liquid to solid?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
-related_article4:
-    id: 162027
-    title: >-
-        How does the appearance of a substance relate to its physical properties?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 related_article5:
-    id: 161985
+    id: 161752
     title: >-
-        Describe the physical change that occurs when aluminum foil is crumbled.
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 ---
 
 &nbsp;

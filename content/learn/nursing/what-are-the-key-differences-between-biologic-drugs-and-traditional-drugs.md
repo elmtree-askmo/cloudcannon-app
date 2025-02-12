@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Nursing
   page_description: >-
-    This article summarizes the key differences between biologic drugs and traditional drugs, highlighting their source, manufacturing processes, mechanisms of action, complexity, costs, regulatory considerations, and associated side effects.
+    This content outlines the key differences between biologic drugs and traditional drugs, focusing on aspects such as their source, manufacturing, mechanisms of action, complexity, cost, regulatory issues, and potential side effects.
   page_keywords: >-
-    biologic drugs, traditional drugs, differences, manufacturing process, complexity, mechanism of action, cost, regulatory considerations, side effects
+    biologic drugs, traditional drugs, key differences, source and composition, manufacturing process, mechanism of action, complexity, cost, regulatory considerations, side effects
 author: QuickTakes
 question: >-
     What are the key differences between biologic drugs and traditional drugs?
@@ -24,35 +24,29 @@ file_name: what-are-the-key-differences-between-biologic-drugs-and-traditional-d
 url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 score: -1.0
 related_article1:
-    id: 166474
+    id: 166488
     title: >-
-        How does definitive treatment differ from empiric treatment in terms of timing and application?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article2:
-    id: 166480
+    id: 166488
     title: >-
-        Why is it important to adjust medication dosing for pediatric and elderly patients?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article3:
-    id: 166487
-    title: >-
-        What factors can influence an individual's pain threshold?
-    subject: Nursing
-    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
-related_article4:
-    id: 166485
-    title: >-
-        How does opioid tolerance affect pain management strategies?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
-related_article5:
     id: 166480
     title: >-
         Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article4:
+    id: 166481
+    title: >-
+        What are Category D and X drugs, and why are they significant in pregnancy?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains the domain and range characteristics of square root functions, highlighting the importance of non-negative input and output values in mathematics.
+    The domain and range characteristics of square root functions indicate that the domain is [0, ∞) for non-negative x-values and the range is [0, ∞) for non-negative y-values, fundamental for understanding their behavior in mathematics.
   page_keywords: >-
-    square root functions, domain, range, non-negative numbers, mathematical properties, graphing square root functions, real numbers, function definition
+    domain, range, square root functions, characteristics, mathematical behavior, non-negative numbers, x-values, y-values, graphing, properties
 author: QuickTakes
 question: >-
     What are the domain and range characteristics of square root functions?
@@ -24,35 +24,23 @@ file_name: what-are-the-domain-and-range-characteristics-of-square-root-function
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 score: -1.0
 related_article1:
-    id: 163811
+    id: 163825
     title: >-
-        What are the different types of slopes a function can have?
+        What are the implications of different types of slopes on function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 related_article2:
-    id: 163807
+    id: 163822
     title: >-
-        What is the formula for calculating the average rate of change of a function?
+        What implications do positive and negative rates of change have for function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 related_article3:
     id: 163822
     title: >-
         What implications do positive and negative rates of change have for function behavior?
     subject: Mathematics
     url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
-related_article4:
-    id: 163823
-    title: >-
-        How can key features of a function be identified from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
-related_article5:
-    id: 163808
-    title: >-
-        How can the average rate of change be calculated using a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 ---
 
 &nbsp;

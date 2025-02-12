@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    Learn the syntax for defining a function in Python, including the use of the 'def' keyword, parameters, and the structure of the function body.
+    This content explains the syntax for defining a function in Python, including the use of the 'def' keyword, function naming, parameters, indentation, and provides a practical example.
   page_keywords: >-
-    Python, function definition, syntax, def keyword, parameters, function body, code reuse, example, docstring, programming
+    Python, function definition, def keyword, syntax, parameters, indentation, function body, docstring, code reuse, programming
 author: QuickTakes
 question: >-
     What is the syntax for defining a function in Python?
@@ -24,35 +24,35 @@ file_name: what-is-the-syntax-for-defining-a-function-in-python.md
 url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 score: -1.0
 related_article1:
-    id: 168597
+    id: 168606
     title: >-
-        How can you handle a specific error type using a try...except block?
+        Why is software reusability important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
 related_article2:
-    id: 168607
+    id: 168608
     title: >-
-        What is modular programming and how does it enhance reusability?
+        What is encapsulation in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article3:
-    id: 168592
+    id: 168603
     title: >-
-        How can you use the math module to calculate the square root of a number?
+        How can custom exceptions be created in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 related_article4:
-    id: 168609
+    id: 168587
     title: >-
-        How does inheritance contribute to reusability in object-oriented programming?
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 related_article5:
-    id: 168597
+    id: 168605
     title: >-
-        How can you handle a specific error type using a try...except block?
+        How can you import and use a module in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains how to approximate the area under a curve using definite integrals, detailing the method of partitioning intervals, selecting sample points, calculating areas of rectangles, and taking limits to achieve the exact value.
+    This content explains the method of approximating the area under a curve using definite integrals, detailing the steps involved from selecting a function and interval to calculating areas using rectangles and obtaining the exact area through integration.
   page_keywords: >-
-    area under a curve, definite integrals, approximation, integration, mathematical functions, calculus, rectangles, limit, sample points, illustration, example, numerical approximation
+    area under the curve, definite integrals, integration, function f(x), partition intervals, sample points, rectangle area, sum areas, limit of n, calculus, approximation technique
 author: QuickTakes
 question: >-
     How do you approximate the area under a curve using definite integrals?
@@ -24,35 +24,35 @@ file_name: how-do-you-approximate-the-area-under-a-curve-using-definite-integral
 url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 score: -1.0
 related_article1:
-    id: 168326
+    id: 168340
     title: >-
-        How do you compose two functions and what are the properties of composite functions?
+        What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 related_article2:
-    id: 168331
+    id: 168335
     title: >-
-        What is the product rule for derivatives and how is it applied?
+        What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article3:
-    id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
-related_article4:
     id: 168330
     title: >-
         Describe the geometric interpretation of a derivative.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
-related_article5:
-    id: 168331
+related_article4:
+    id: 168340
     title: >-
-        What is the product rule for derivatives and how is it applied?
+        What is the definition of a continuous function and what are the types of discontinuities?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article5:
+    id: 168332
+    title: >-
+        How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---
 
 &nbsp;

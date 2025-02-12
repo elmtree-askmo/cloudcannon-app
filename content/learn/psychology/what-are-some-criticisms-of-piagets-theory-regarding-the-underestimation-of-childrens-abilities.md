@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    An overview of criticisms against Piaget's theory of cognitive development, particularly focusing on the underestimation of children's cognitive and moral abilities and the impact of social, cultural, and methodological factors.
+    An overview of the criticisms of Piaget's theory of cognitive development, focusing on the underestimation of children's cognitive and moral abilities, the role of social interactions, and the influence of cultural factors.
   page_keywords: >-
-    Piaget, cognitive development, children's abilities, criticisms, moral reasoning, deferred imitation, conservation skills, social interaction, cultural influences, methodological limitations
+    Piaget, theory, cognitive development, criticisms, children's abilities, moral reasoning, deferred imitation, conservation skills, social interaction, cultural influences, methodological limitations, cognitive growth
 author: QuickTakes
 question: >-
     What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
@@ -24,35 +24,29 @@ file_name: what-are-some-criticisms-of-piagets-theory-regarding-the-underestimat
 url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 score: -1.0
 related_article1:
-    id: 167997
-    title: >-
-        Explain propositional thought and its significance in the formal operational stage.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
-related_article2:
-    id: 167995
-    title: >-
-        How does abstract thinking manifest in the formal operational stage?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
-related_article3:
     id: 168005
     title: >-
         How do social interactions influence cognitive development according to Piaget?
     subject: Psychology
     url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+related_article2:
+    id: 168003
+    title: >-
+        How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+related_article3:
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 related_article4:
-    id: 167999
+    id: 167994
     title: >-
-        How does the concept of the imaginary audience relate to adolescent behavior?
+        What are the key characteristics of the formal operational stage in Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
-related_article5:
-    id: 167999
-    title: >-
-        How does the concept of the imaginary audience relate to adolescent behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 ---
 
 &nbsp;

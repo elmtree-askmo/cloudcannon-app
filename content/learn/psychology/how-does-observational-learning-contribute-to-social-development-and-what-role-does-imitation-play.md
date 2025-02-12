@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    Exploring the impact of observational learning and imitation on social development, including its importance in acquiring social norms and addressing challenges for individuals with Autism Spectrum Disorder.
+    This content explores the significance of observational learning and imitation in social development, highlighting their roles in acquiring social skills and addressing challenges for individuals with Autism Spectrum Disorder.
   page_keywords: >-
-    observational learning, social development, imitation, social norms, communication skills, emotional regulation, social interactions, Autism Spectrum Disorder, social skills, modeling behaviors
+    observational learning, social development, imitation, social skills, communication, emotional regulation, social norms, Autism Spectrum Disorder, social interactions, children, behavior modeling
 author: QuickTakes
 question: >-
     How does observational learning contribute to social development, and what role does imitation play?
@@ -24,35 +24,35 @@ file_name: how-does-observational-learning-contribute-to-social-development-and-
 url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 score: -1.0
 related_article1:
-    id: 169342
-    title: >-
-        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
-    subject: Psychology
-    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
-related_article2:
-    id: 169339
-    title: >-
-        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
-related_article3:
-    id: 169337
-    title: >-
-        Discuss the pros and cons of errorless learning compared to trial and error learning.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
-related_article4:
-    id: 169335
-    title: >-
-        Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
-related_article5:
     id: 169348
     title: >-
         What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article2:
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article3:
+    id: 169357
+    title: >-
+        How can individualized education plans and technology be used as intervention strategies for learning disabilities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-individualized-education-plans-and-technology-be-used-as-intervention-strategies-for-learning-disabilities
+related_article4:
+    id: 169355
+    title: >-
+        Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Health Studies
+    url: /learn/health-studies/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+related_article5:
+    id: 169343
+    title: >-
+        Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
     subject: Psychology
-    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
 ---
 
 &nbsp;

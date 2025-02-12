@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 160384
-date: 2025-01-24
+id: 159888
+date: 2025-01-23
 title: >-
     What are the key features of Celtic metalwork and jewelry?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | History of the World
   page_description: >-
-    This content explores the key features of Celtic metalwork and jewelry, highlighting its techniques, motifs, symbolism, and cultural significance in ancient Celtic society.
+    Explore the key features of Celtic metalwork and jewelry, including intricate designs, rich symbolism, and advanced craftsmanship that reflect ancient Celtic cultural identity.
   page_keywords: >-
-    Celtic metalwork, jewelry, intricate designs, symbolism, craftsmanship, Celtic knots, La Tène style, Tara Brooch, Broighter Collar, cultural significance, historical artifacts, ancient Celtic societies
+    Celtic metalwork, jewelry, intricate designs, craftsmanship, symbols, motifs, Celtic Knot, La Tène style, cultural significance, Tara Brooch, Broighter Collar, animal motifs, plant motifs, metalworking techniques, Irish Bronze Age, historical examples, enduring appeal
 author: QuickTakes
 question: >-
     What are the key features of Celtic metalwork and jewelry?
@@ -22,37 +22,37 @@ answer: >-
 subject: History of the World
 file_name: what-are-the-key-features-of-celtic-metalwork-and-jewelry.md
 url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
-score: 9.0
+score: -1.0
 related_article1:
-    id: 159926
+    id: 159890
     title: >-
-        How did geography influence the cultural development and migration patterns of the Celts?
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 related_article2:
-    id: 159924
+    id: 159886
     title: >-
-        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article3:
-    id: 160250
+    id: 159878
     title: >-
-        What was the tribal organization and social hierarchy in Celtic society?
+        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
 related_article4:
-    id: 160178
+    id: 159902
     title: >-
-        What were the key trading centers in Celtic trade networks?
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article5:
-    id: 160376
+    id: 159890
     title: >-
-        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Mathematics
   page_description: >-
-    This content explains limit laws in calculus, their application for efficiently calculating limits of functions, including direct substitution and handling indeterminate forms.
+    Limit laws are fundamental rules used in calculus to evaluate limits for functions efficiently, allowing for calculations without lengthy procedures, especially useful for polynomials and rational functions.
   page_keywords: >-
-    limit laws, calculus, evaluation of limits, Direct Substitution Property, Sum Law, Product Law, Quotient Law, Constant Multiple Law, Squeeze Theorem, indeterminate forms, simplification
+    limit laws, calculus, limits, Direct Substitution, Sum Law, Difference Law, Product Law, Quotient Law, Constant Multiple Law, Squeeze Theorem, evaluating limits, polynomial functions, rational functions
 author: QuickTakes
 question: >-
     What are the limit laws and how are they used to calculate limits?
@@ -24,35 +24,35 @@ file_name: what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits.md
 url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 score: -1.0
 related_article1:
-    id: 168331
-    title: >-
-        What is the product rule for derivatives and how is it applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
-related_article2:
     id: 168334
     title: >-
         Explain the concept of a definite integral and its geometric interpretation.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-concept-of-a-definite-integral-and-its-geometric-interpretation
-related_article3:
+related_article2:
     id: 168339
     title: >-
         Differentiate between scalar fields and vector fields with examples.
+    subject: Physics
+    url: /learn/physics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article3:
+    id: 168335
+    title: >-
+        What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article4:
-    id: 168333
+    id: 168330
     title: >-
-        What is the equation of a tangent line to a curve at a given point?
+        Describe the geometric interpretation of a derivative.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 related_article5:
-    id: 168328
+    id: 168331
     title: >-
-        Explain the concept of one-sided limits and provide an example.
+        What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 ---
 
 &nbsp;

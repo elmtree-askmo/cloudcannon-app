@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Computer Science
   page_description: >-
-    This content explains how TCP (Transmission Control Protocol) guarantees ordered delivery and handles data loss through mechanisms like sequence numbers, acknowledgments, retransmission, flow control, and congestion control.
+    This content explains how TCP guarantees ordered delivery and manages data loss through mechanisms such as sequence numbers, acknowledgment, retransmission, flow control, and congestion control.
   page_keywords: >-
-    TCP, ordered delivery, data loss, sequence numbers, acknowledgment, retransmission, flow control, congestion control, reliable transmission, network protocols
+    TCP, ordered delivery, data loss, sequence numbers, acknowledgment, retransmission, flow control, congestion control, reliable transmission, TCP mechanisms
 author: QuickTakes
 question: >-
     How does TCP guarantee ordered delivery and handle data loss?
@@ -24,35 +24,35 @@ file_name: how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss.md
 url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 score: -1.0
 related_article1:
-    id: 165772
+    id: 165782
     title: >-
-        What are the key features of the UDP protocol that differentiate it from TCP?
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article2:
-    id: 165787
+    id: 165776
     title: >-
-        How does TCP handle congestion control using timers and algorithms?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article3:
-    id: 165766
+    id: 165776
     title: >-
-        What are the main responsibilities of the transport layer in data communication?
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article4:
+    id: 165776
+    title: >-
+        What is the purpose of port numbers in managing multiple separate communications?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
+related_article5:
     id: 165766
     title: >-
         What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
-related_article5:
-    id: 165775
-    title: >-
-        What mechanisms does TCP use for flow control and congestion avoidance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 ---
 
 &nbsp;

@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Psychology
   page_description: >-
-    The shift in psychiatry from group to individual-level inferences improves the precision of mental health diagnostics and prognostics, leading to personalized care and better outcomes while addressing the complexities of mental health conditions.
+    The impact of the paradigm shift in psychiatry from group to individual-level inferences significantly enhances the precision of diagnostics and prognostics, allowing for personalized mental health care that addresses the unique complexities of each patient.
   page_keywords: >-
-    paradigm shift, psychiatry, group to individual-level inferences, diagnostics, prognostics, personalized diagnostics, big data, statistical methods, interdisciplinary collaboration, heterogeneity, ethical considerations, mental health disorders
+    paradigm shift, psychiatry, individual-level inferences, diagnostics, prognostics, personalized healthcare, machine learning, big data, interdisciplinary collaboration, mental health disorders, ethical considerations, treatment plans, heterogeneity, neuroscience, psychology, genetics, privacy concerns
 author: QuickTakes
 question: >-
     How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
@@ -24,35 +24,35 @@ file_name: how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallev
 url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
 score: -1.0
 related_article1:
-    id: 164075
-    title: >-
-        How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
-related_article2:
-    id: 164083
-    title: >-
-        How does brain morphology contribute to a transdiagnostic approach in mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
-related_article3:
-    id: 164075
-    title: >-
-        How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
-related_article4:
-    id: 164083
-    title: >-
-        How does brain morphology contribute to a transdiagnostic approach in mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
-related_article5:
     id: 164072
     title: >-
         How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
     subject: Psychology
     url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article2:
+    id: 164072
+    title: >-
+        How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article3:
+    id: 164081
+    title: >-
+        What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article4:
+    id: 164081
+    title: >-
+        What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article5:
+    id: 164078
+    title: >-
+        How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
 ---
 
 &nbsp;

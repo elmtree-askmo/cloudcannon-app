@@ -1,7 +1,7 @@
 ---
 _schema: default
-id: 168322
-date: 2025-02-03
+id: 157480
+date: 2025-01-22
 title: >-
     What are the structural differences between monosaccharides and polysaccharides?
 article_title: >-
@@ -11,9 +11,9 @@ post_on_text: Posted on
 seo:
   title: QuickTakes | Chemistry
   page_description: >-
-    This content discusses the structural differences between monosaccharides and polysaccharides, detailing their definitions, chemical structures, examples, and their functional roles in biological systems.
+    This content discusses the structural and functional differences between monosaccharides, the simplest carbohydrates, and polysaccharides, which are complex carbohydrates formed by multiple monosaccharide units.
   page_keywords: >-
-    monosaccharides, polysaccharides, carbohydrates, chemical structure, sugar units, energy storage, glucose, fructose, galactose, starch, cellulose, glycogen, chitin, glycosidic bonds, hydroxyl groups, carbonyl group, structural differences, functional differences
+    monosaccharides, polysaccharides, carbohydrates, structural differences, sugar units, glucose, fructose, galactose, glycosidic bonds, energy storage, cellulose, chitin, energy source, biological functions, chemical structure
 author: QuickTakes
 question: >-
     What are the structural differences between monosaccharides and polysaccharides?
@@ -24,35 +24,23 @@ file_name: what-are-the-structural-differences-between-monosaccharides-and-polys
 url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
 score: -1.0
 related_article1:
-    id: 168310
+    id: 157484
     title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
+        How do valence electrons influence chemical behavior and bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
 related_article2:
-    id: 168310
+    id: 157484
     title: >-
-        What are the three main subatomic particles in an atom and their respective charges?
+        How do valence electrons influence chemical behavior and bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
 related_article3:
-    id: 168314
+    id: 157484
     title: >-
-        What causes the polar nature of a water molecule?
+        How do valence electrons influence chemical behavior and bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article4:
-    id: 168317
-    title: >-
-        How does water's kinetic energy contribute to temperature moderation?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
-related_article5:
-    id: 168315
-    title: >-
-        How do hydrogen bonds form between water molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-behavior-and-bonding
 ---
 
 &nbsp;
