@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna.md
 url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
 score: -1.0
+related_article1:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
+related_article2:
+    id: 166877
+    title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article3:
+    id: 166871
+    title: What are Chargoff’s rules, and how do they apply to DNA base pairing?
+    subject: Biology
+    url: /learn/biology/questions/what-are-chargoffs-rules-and-how-do-they-apply-to-dna-base-pairing
+related_article4:
+    id: 166872
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article5:
+    id: 166871
+    title: What are Chargoff’s rules, and how do they apply to DNA base pairing?
+    subject: Biology
+    url: /learn/biology/questions/what-are-chargoffs-rules-and-how-do-they-apply-to-dna-base-pairing
 ---
 
 &nbsp;

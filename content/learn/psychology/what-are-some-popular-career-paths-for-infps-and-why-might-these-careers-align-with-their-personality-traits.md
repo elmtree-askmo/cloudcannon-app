@@ -21,6 +21,21 @@ subject: Psychology
 file_name: what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits.md
 url: /learn/psychology/questions/what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits
 score: -1.0
+related_article1:
+    id: 170622
+    title: Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article2:
+    id: 170632
+    title: How do INFPs typically navigate personal and professional relationship dynamics, and what challenges might they face?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-navigate-personal-and-professional-relationship-dynamics-and-what-challenges-might-they-face
+related_article3:
+    id: 170621
+    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
 ---
 
 &nbsp;

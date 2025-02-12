@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-functional-imaging-contribute-to-cognitive-research.md
 url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 score: -1.0
+related_article1:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article2:
+    id: 164347
+    title: What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article3:
+    id: 164348
+    title: Describe the process of patient preparation for an MRI scan.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
+related_article4:
+    id: 164351
+    title: How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article5:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
 ---
 
 &nbsp;

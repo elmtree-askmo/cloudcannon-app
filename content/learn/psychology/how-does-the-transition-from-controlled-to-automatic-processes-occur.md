@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-transition-from-controlled-to-automatic-processes-occur.md
 url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
 score: -1.0
+related_article1:
+    id: 164559
+    title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+related_article2:
+    id: 164556
+    title: How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article3:
+    id: 164562
+    title: What are the key characteristics of automatic processes compared to controlled processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+related_article4:
+    id: 164553
+    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article5:
+    id: 164552
+    title: How do automatic and controlled processes differ in neural networks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
 ---
 
 &nbsp;

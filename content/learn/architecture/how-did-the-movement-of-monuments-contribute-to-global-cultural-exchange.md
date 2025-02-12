@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange.md
 url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
 score: -1.0
+related_article1:
+    id: 169078
+    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
+related_article2:
+    id: 169069
+    title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
+related_article3:
+    id: 169076
+    title: What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article4:
+    id: 169076
+    title: What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article5:
+    id: 169078
+    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
 ---
 
 &nbsp;

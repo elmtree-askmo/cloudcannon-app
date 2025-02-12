@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping.md
 url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 score: -1.0
+related_article1:
+    id: 169321
+    title: What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article2:
+    id: 169322
+    title: How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article3:
+    id: 169311
+    title: What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article4:
+    id: 169322
+    title: How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article5:
+    id: 169328
+    title: What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 ---
 
 &nbsp;

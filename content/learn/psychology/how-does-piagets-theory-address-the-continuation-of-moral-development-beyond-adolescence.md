@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence.md
 url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
 score: -1.0
+related_article1:
+    id: 164156
+    title: What distinguishes the autonomous stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
+related_article2:
+    id: 164153
+    title: What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article3:
+    id: 164152
+    title: How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
+related_article4:
+    id: 164152
+    title: How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
+related_article5:
+    id: 164156
+    title: What distinguishes the autonomous stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
 ---
 
 &nbsp;

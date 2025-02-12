@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-mathematically-represent-a-vertical-reflection-of-a-function.md
 url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 score: -1.0
+related_article1:
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article2:
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+related_article3:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article4:
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article5:
+    id: 168412
+    title: How do you plot points on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 ---
 
 &nbsp;

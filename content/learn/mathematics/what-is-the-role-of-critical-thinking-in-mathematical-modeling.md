@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-critical-thinking-in-mathematical-modeling.md
 url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
 score: -1.0
+related_article1:
+    id: 163734
+    title: How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article2:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article3:
+    id: 163736
+    title: How does symmetry simplify graph analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-simplify-graph-analysis
+related_article4:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163741
+    title: How do innovations impact business growth modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
 ---
 
 &nbsp;

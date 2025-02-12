@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x.md
 url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 score: -1.0
+related_article1:
+    id: 163721
+    title: What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
+related_article2:
+    id: 163724
+    title: Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article3:
+    id: 163712
+    title: How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article4:
+    id: 163720
+    title: Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article5:
+    id: 163718
+    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
 ---
 
 &nbsp;

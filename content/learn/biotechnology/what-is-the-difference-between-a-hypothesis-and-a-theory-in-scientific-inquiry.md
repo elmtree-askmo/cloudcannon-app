@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry.md
 url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
 score: -1.0
+related_article1:
+    id: 167600
+    title: What evidence supports the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+related_article2:
+    id: 167593
+    title: How do eukaryotic cells differ from prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
+related_article3:
+    id: 167597
+    title: What is the structure and function of the nucleus in eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+related_article4:
+    id: 167600
+    title: What evidence supports the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+related_article5:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
 ---
 
 &nbsp;

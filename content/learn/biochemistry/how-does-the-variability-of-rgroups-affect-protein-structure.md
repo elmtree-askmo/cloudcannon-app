@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: how-does-the-variability-of-rgroups-affect-protein-structure.md
 url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 score: -1.0
+related_article1:
+    id: 167238
+    title: What is the significance of quaternary structure in proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
+related_article2:
+    id: 167248
+    title: What are the common structural features of amino acids?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
+related_article3:
+    id: 167243
+    title: How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+related_article4:
+    id: 167243
+    title: How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+related_article5:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
 ---
 
 &nbsp;

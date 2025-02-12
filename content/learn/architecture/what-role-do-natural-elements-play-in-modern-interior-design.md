@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-role-do-natural-elements-play-in-modern-interior-design.md
 url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 score: -1.0
+related_article1:
+    id: 169402
+    title: How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
+related_article2:
+    id: 169416
+    title: What resources are available for interior designers seeking job opportunities and professional development?
+    subject: Architecture
+    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+related_article3:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article4:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article5:
+    id: 169415
+    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
 ---
 
 &nbsp;

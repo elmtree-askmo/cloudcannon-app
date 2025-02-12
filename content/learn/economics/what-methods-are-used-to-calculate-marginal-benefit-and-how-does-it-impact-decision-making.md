@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making.md
 url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
 score: -1.0
+related_article1:
+    id: 170854
+    title: How does the interpretation of the cost curve affect economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
+related_article2:
+    id: 170846
+    title: What is cost-benefit analysis and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
+related_article3:
+    id: 170861
+    title: What strategies can be used to maximize benefits and what challenges might arise?
+    subject: Economics
+    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
+related_article4:
+    id: 170859
+    title: Explain the concept of central prices theory and its role in market equilibrium.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
+related_article5:
+    id: 170860
+    title: How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
 ---
 
 &nbsp;

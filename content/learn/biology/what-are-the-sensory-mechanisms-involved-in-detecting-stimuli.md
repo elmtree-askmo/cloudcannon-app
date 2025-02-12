@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-sensory-mechanisms-involved-in-detecting-stimuli.md
 url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
 score: -1.0
+related_article1:
+    id: 166921
+    title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+related_article2:
+    id: 166927
+    title: What are the methods and sources of nutrient acquisition in organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
+related_article3:
+    id: 166926
+    title: What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article4:
+    id: 166909
+    title: What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+related_article5:
+    id: 166934
+    title: What factors influence differential reproductive success in natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
 ---
 
 &nbsp;

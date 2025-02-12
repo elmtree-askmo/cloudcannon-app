@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs.md
 url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 score: -1.0
+related_article1:
+    id: 169316
+    title: What is the topography of behavior and why is it significant in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+related_article2:
+    id: 169315
+    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article3:
+    id: 169315
+    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article4:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
 ---
 
 &nbsp;

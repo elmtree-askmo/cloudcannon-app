@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning.md
 url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
 score: -1.0
+related_article1:
+    id: 169347
+    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+related_article2:
+    id: 169354
+    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+related_article3:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article4:
+    id: 169354
+    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+related_article5:
+    id: 169338
+    title: What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 ---
 
 &nbsp;

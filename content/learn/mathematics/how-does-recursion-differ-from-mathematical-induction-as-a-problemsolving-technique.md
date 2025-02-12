@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique.md
 url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
 score: -1.0
+related_article1:
+    id: 170748
+    title: What is the formula for the sum of a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
+related_article2:
+    id: 170754
+    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article3:
+    id: 170743
+    title: How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
+related_article4:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-early-language-exposure-important-for-vocabulary-and-grammar-development.md
 url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
 score: -1.0
+related_article1:
+    id: 164418
+    title: What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article2:
+    id: 164435
+    title: How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article3:
+    id: 164418
+    title: What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article4:
+    id: 164419
+    title: How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+related_article5:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

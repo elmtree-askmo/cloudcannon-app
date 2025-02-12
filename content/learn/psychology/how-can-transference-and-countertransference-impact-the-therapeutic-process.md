@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-transference-and-countertransference-impact-the-therapeutic-process.md
 url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
 score: -1.0
+related_article1:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article2:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+related_article3:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article4:
+    id: 163024
+    title: What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article5:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-phases-of-drug-metabolism-and-their-significance.md
 url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
 score: -1.0
+related_article1:
+    id: 166464
+    title: What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article2:
+    id: 166464
+    title: What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article3:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article4:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article5:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
 ---
 
 &nbsp;

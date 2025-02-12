@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-nucleic-acids-play-in-information-storage-and-protein-synthesis.md
 url: /learn/biology/questions/what-role-do-nucleic-acids-play-in-information-storage-and-protein-synthesis
 score: -1.0
+related_article1:
+    id: 166875
+    title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+related_article2:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article3:
+    id: 166873
+    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+related_article4:
+    id: 166877
+    title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article5:
+    id: 166873
+    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
 ---
 
 &nbsp;

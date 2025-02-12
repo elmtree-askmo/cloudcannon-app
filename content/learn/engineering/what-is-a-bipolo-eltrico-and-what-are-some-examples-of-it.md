@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it.md
 url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
 score: -1.0
+related_article1:
+    id: 169838
+    title: What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+    subject: Engineering
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
+related_article2:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article3:
+    id: 169827
+    title: What constitutes a circuito elétrico and how does it function?
+    subject: Engineering
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+related_article4:
+    id: 169831
+    title: What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article5:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 ---
 
 &nbsp;

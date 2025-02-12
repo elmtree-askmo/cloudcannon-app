@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits.md
 url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
 score: -1.0
+related_article1:
+    id: 164029
+    title: How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
+related_article2:
+    id: 164032
+    title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article3:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article4:
+    id: 164025
+    title: How do genetic risk factors and environmental triggers interact during specific developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
+related_article5:
+    id: 164036
+    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
 ---
 
 &nbsp;

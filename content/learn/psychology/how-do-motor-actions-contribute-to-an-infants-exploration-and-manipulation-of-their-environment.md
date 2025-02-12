@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment.md
 url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
 score: -1.0
+related_article1:
+    id: 168083
+    title: What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article2:
+    id: 168083
+    title: What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article3:
+    id: 168080
+    title: How do secondary circular reactions differ from primary circular reactions in terms of object interaction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-secondary-circular-reactions-differ-from-primary-circular-reactions-in-terms-of-object-interaction
+related_article4:
+    id: 168080
+    title: How do secondary circular reactions differ from primary circular reactions in terms of object interaction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-secondary-circular-reactions-differ-from-primary-circular-reactions-in-terms-of-object-interaction
+related_article5:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
 ---
 
 &nbsp;

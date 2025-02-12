@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-legal-consequences-of-medication-errors-in-nursing.md
 url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
 score: -1.0
+related_article1:
+    id: 169730
+    title: How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article2:
+    id: 169737
+    title: How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article3:
+    id: 169737
+    title: How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article4:
+    id: 169731
+    title: What is the formula for calculating oral medication dosage?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
+related_article5:
+    id: 169731
+    title: What is the formula for calculating oral medication dosage?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
 ---
 
 &nbsp;

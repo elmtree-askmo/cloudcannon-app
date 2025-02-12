@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation.md
 url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
 score: -1.0
+related_article1:
+    id: 164835
+    title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+related_article2:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article3:
+    id: 164840
+    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+related_article4:
+    id: 164848
+    title: What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
+related_article5:
+    id: 164837
+    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
 ---
 
 &nbsp;

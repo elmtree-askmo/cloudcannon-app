@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-center-of-rotation-and-why-is-it-important-in-transformations.md
 url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
 score: -1.0
+related_article1:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article2:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+related_article3:
+    id: 162500
+    title: What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article4:
+    id: 162233
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162233
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

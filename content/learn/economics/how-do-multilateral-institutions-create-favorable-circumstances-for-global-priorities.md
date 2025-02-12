@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities.md
 url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
 score: -1.0
+related_article1:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article2:
+    id: 159683
+    title: How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+related_article3:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article4:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article5:
+    id: 159681
+    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
 ---
 
 &nbsp;

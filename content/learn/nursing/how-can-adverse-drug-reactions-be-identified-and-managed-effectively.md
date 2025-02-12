@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-adverse-drug-reactions-be-identified-and-managed-effectively.md
 url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 score: -1.0
+related_article1:
+    id: 169753
+    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article2:
+    id: 169752
+    title: What are the key legal aspects of medicines management that nurses must be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
+related_article3:
+    id: 169758
+    title: What are common causes of medication errors, and how can they be prevented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
+related_article4:
+    id: 169740
+    title: How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
+related_article5:
+    id: 169767
+    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea.md
 url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
 score: -1.0
+related_article1:
+    id: 166194
+    title: How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article2:
+    id: 166177
+    title: What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article3:
+    id: 166181
+    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+related_article4:
+    id: 166197
+    title: How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 ---
 
 &nbsp;

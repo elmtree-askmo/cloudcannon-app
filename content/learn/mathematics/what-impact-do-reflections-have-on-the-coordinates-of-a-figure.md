@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-impact-do-reflections-have-on-the-coordinates-of-a-figure.md
 url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 score: -1.0
+related_article1:
+    id: 162749
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article2:
+    id: 162633
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article3:
+    id: 162684
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article4:
+    id: 162912
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article5:
+    id: 162529
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 ---
 
 &nbsp;

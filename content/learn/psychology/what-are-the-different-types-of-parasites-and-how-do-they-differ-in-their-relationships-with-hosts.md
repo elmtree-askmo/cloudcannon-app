@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts.md
 url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
 score: -1.0
+related_article1:
+    id: 165855
+    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article2:
+    id: 165840
+    title: What are the clinical implications of identifying parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
+related_article3:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165841
+    title: How does the immune response contribute to the pathological effects of parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
+related_article5:
+    id: 165846
+    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

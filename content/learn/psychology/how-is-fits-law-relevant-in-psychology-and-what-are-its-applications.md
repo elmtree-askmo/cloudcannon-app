@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-fits-law-relevant-in-psychology-and-what-are-its-applications.md
 url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
 score: -1.0
+related_article1:
+    id: 165219
+    title: What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article2:
+    id: 165223
+    title: What is the word length effect and how does it impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
+related_article3:
+    id: 165209
+    title: How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article4:
+    id: 165210
+    title: What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article5:
+    id: 165222
+    title: What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 ---
 
 &nbsp;

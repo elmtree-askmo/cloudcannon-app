@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples.md
 url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
 score: -1.0
+related_article1:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article2:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article3:
+    id: 164913
+    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
+related_article4:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article5:
+    id: 164901
+    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
 ---
 
 &nbsp;

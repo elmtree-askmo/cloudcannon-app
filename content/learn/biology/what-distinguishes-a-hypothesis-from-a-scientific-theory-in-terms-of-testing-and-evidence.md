@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence.md
 url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
 score: -1.0
+related_article1:
+    id: 166930
+    title: How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article2:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article3:
+    id: 166915
+    title: What are the different types of reproduction, and why is reproduction crucial for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-is-reproduction-crucial-for-species-continuity
+related_article4:
+    id: 166931
+    title: What are the sensory mechanisms involved in detecting stimuli?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
+related_article5:
+    id: 166926
+    title: What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
 ---
 
 &nbsp;

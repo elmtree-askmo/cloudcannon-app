@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-generic-and-trade-names-of-drugs.md
 url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 score: -1.0
+related_article1:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article2:
+    id: 166502
+    title: What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+related_article3:
+    id: 166498
+    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article4:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article5:
+    id: 166501
+    title: What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension.md
 url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 score: -1.0
+related_article1:
+    id: 167146
+    title: How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+related_article2:
+    id: 167143
+    title: What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article3:
+    id: 167149
+    title: How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article4:
+    id: 167150
+    title: What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article5:
+    id: 167152
+    title: What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction.md
 url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
 score: -1.0
+related_article1:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article2:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article3:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article4:
+    id: 169214
+    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article5:
+    id: 169210
+    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
 ---
 
 &nbsp;

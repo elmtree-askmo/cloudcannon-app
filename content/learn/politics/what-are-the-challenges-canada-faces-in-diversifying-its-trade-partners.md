@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners.md
 url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
 score: -1.0
+related_article1:
+    id: 165621
+    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
+related_article2:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article3:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+related_article4:
+    id: 165625
+    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+related_article5:
+    id: 165624
+    title: Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 ---
 
 &nbsp;

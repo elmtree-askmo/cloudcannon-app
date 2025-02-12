@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories.md
 url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
 score: -1.0
+related_article1:
+    id: 170031
+    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
+related_article2:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article3:
+    id: 170013
+    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+related_article4:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+related_article5:
+    id: 170024
+    title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 ---
 
 &nbsp;

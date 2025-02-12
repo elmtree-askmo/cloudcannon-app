@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility.md
 url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
 score: -1.0
+related_article1:
+    id: 167214
+    title: What techniques are used for molecular structure identification, and how can they be applied to biomolecule classification and function prediction?
+    subject: Biology
+    url: /learn/biology/questions/what-techniques-are-used-for-molecular-structure-identification-and-how-can-they-be-applied-to-biomolecule-classification-and-function-prediction
+related_article2:
+    id: 167207
+    title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
+related_article3:
+    id: 167202
+    title: What is the difference between saturated and unsaturated fatty acids in terms of molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
+related_article4:
+    id: 167214
+    title: What techniques are used for molecular structure identification, and how can they be applied to biomolecule classification and function prediction?
+    subject: Biology
+    url: /learn/biology/questions/what-techniques-are-used-for-molecular-structure-identification-and-how-can-they-be-applied-to-biomolecule-classification-and-function-prediction
+related_article5:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
 ---
 
 &nbsp;

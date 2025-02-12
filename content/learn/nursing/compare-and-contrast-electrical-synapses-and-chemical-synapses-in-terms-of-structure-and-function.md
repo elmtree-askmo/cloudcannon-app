@@ -21,6 +21,31 @@ subject: Nursing
 file_name: compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function.md
 url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
 score: -1.0
+related_article1:
+    id: 170607
+    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article2:
+    id: 170610
+    title: How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
+related_article3:
+    id: 170615
+    title: What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article4:
+    id: 170611
+    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
+related_article5:
+    id: 170610
+    title: How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 ---
 
 &nbsp;

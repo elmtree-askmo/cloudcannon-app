@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar.md
 url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 score: -1.0
+related_article1:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article2:
+    id: 164386
+    title: What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article3:
+    id: 164392
+    title: Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article4:
+    id: 164392
+    title: Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article5:
+    id: 164395
+    title: What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 ---
 
 &nbsp;

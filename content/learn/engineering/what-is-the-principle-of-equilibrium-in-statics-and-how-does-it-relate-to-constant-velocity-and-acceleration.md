@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration.md
 url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
 score: -1.0
+related_article1:
+    id: 166646
+    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article2:
+    id: 166643
+    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article3:
+    id: 166650
+    title: What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article4:
+    id: 166650
+    title: What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article5:
+    id: 166645
+    title: What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
 ---
 
 &nbsp;

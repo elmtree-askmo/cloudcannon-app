@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why.md
 url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
 score: -1.0
+related_article1:
+    id: 168706
+    title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article2:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article3:
+    id: 168698
+    title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article4:
+    id: 168701
+    title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
+related_article5:
+    id: 168707
+    title: What are the advantages of using modern cutting tools for external and groove machining?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
 ---
 
 &nbsp;

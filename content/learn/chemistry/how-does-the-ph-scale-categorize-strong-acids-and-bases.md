@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-ph-scale-categorize-strong-acids-and-bases.md
 url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
 score: -1.0
+related_article1:
+    id: 166995
+    title: How does the marine carbonate system help regulate ocean pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
+related_article2:
+    id: 166990
+    title: What is capillary action and how does it relate to adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
+related_article3:
+    id: 166987
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 166996
+    title: What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article5:
+    id: 166990
+    title: What is capillary action and how does it relate to adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
 ---
 
 &nbsp;

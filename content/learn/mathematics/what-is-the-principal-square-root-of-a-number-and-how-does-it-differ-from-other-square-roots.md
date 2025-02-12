@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots.md
 url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 score: -1.0
+related_article1:
+    id: 163714
+    title: What are the characteristics of the graph of y = √x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
+related_article2:
+    id: 163716
+    title: What is an inverse function, and how can it be graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+related_article3:
+    id: 163723
+    title: What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+related_article4:
+    id: 163714
+    title: What are the characteristics of the graph of y = √x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
+related_article5:
+    id: 163721
+    title: What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
 ---
 
 &nbsp;

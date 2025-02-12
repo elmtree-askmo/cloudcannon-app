@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water.md
 url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 score: -1.0
+related_article1:
+    id: 167431
+    title: What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article2:
+    id: 167433
+    title: Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article3:
+    id: 167428
+    title: How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article4:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article5:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
 ---
 
 &nbsp;

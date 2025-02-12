@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-procedures-are-essential-for-preventing-hospitalacquired-infections.md
 url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
 score: -1.0
+related_article1:
+    id: 169677
+    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
+related_article2:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article3:
+    id: 169667
+    title: What are the best practices for safe medication prescription and administration to avoid errors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+related_article4:
+    id: 169664
+    title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article5:
+    id: 169669
+    title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
 ---
 
 &nbsp;

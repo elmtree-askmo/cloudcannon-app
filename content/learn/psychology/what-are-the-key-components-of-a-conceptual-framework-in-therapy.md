@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-a-conceptual-framework-in-therapy.md
 url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
 score: -1.0
+related_article1:
+    id: 163024
+    title: What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article2:
+    id: 163031
+    title: How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article3:
+    id: 163042
+    title: How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
+related_article4:
+    id: 163031
+    title: How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article5:
+    id: 163042
+    title: How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-carbon-reservoirs-in-the-carbon-cycle.md
 url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170367
+    title: How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+related_article2:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article3:
+    id: 170374
+    title: Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article4:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article5:
+    id: 170366
+    title: Explain the role of ATP in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
 ---
 
 &nbsp;

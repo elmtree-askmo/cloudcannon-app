@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-mechanism-of-emulsification-and-its-importance-in-digestion.md
 url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
 score: -1.0
+related_article1:
+    id: 168825
+    title: What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article2:
+    id: 168818
+    title: How do epithelial cells interact with micelles during lipid absorption?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+related_article3:
+    id: 168818
+    title: How do epithelial cells interact with micelles during lipid absorption?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+related_article4:
+    id: 168821
+    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article5:
+    id: 168825
+    title: What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
 ---
 
 &nbsp;

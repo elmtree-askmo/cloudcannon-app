@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks.md
 url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
 score: -1.0
+related_article1:
+    id: 160546
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article2:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article3:
+    id: 160228
+    title: Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article4:
+    id: 160540
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article5:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
 ---
 
 &nbsp;

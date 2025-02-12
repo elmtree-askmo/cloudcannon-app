@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-gfp-used-to-study-protein-localization-in-cells.md
 url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
 score: -1.0
+related_article1:
+    id: 170946
+    title: How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article2:
+    id: 170951
+    title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
+related_article3:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article4:
+    id: 170954
+    title: What are the main advantages and limitations of light microscopy compared to electron microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
+related_article5:
+    id: 170940
+    title: What are the key structural differences between bacterial and eukaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
 ---
 
 &nbsp;

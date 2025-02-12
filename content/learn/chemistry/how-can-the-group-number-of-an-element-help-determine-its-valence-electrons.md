@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-can-the-group-number-of-an-element-help-determine-its-valence-electrons.md
 url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
 score: -1.0
+related_article1:
+    id: 166857
+    title: What characteristics make alkali metals highly reactive?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
+related_article2:
+    id: 166858
+    title: Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
+related_article3:
+    id: 166857
+    title: What characteristics make alkali metals highly reactive?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
+related_article4:
+    id: 166855
+    title: Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article5:
+    id: 166864
+    title: How does the reactivity of alkali metals change as you move down the group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-alkali-metals-change-as-you-move-down-the-group
 ---
 
 &nbsp;

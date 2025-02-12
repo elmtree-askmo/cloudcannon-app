@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction.md
 url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 score: -1.0
+related_article1:
+    id: 169467
+    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+related_article2:
+    id: 169467
+    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+related_article3:
+    id: 169466
+    title: Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article4:
+    id: 169473
+    title: What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article5:
+    id: 169467
+    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
 ---
 
 &nbsp;

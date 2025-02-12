@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: what-is-the-result-of-multiplying-two-negative-numbers.md
 url: /learn/mathematics/questions/what-is-the-result-of-multiplying-two-negative-numbers
 score: -1.0
+related_article1:
+    id: 162117
+    title: How do you solve a linear equation in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
+related_article2:
+    id: 162113
+    title: What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
+related_article3:
+    id: 162104
+    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+related_article4:
+    id: 162111
+    title: How do you perform multiplication with negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
 ---
 
 &nbsp;

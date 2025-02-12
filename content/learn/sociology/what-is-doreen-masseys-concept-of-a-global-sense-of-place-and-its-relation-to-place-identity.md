@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity.md
 url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
 score: -1.0
+related_article1:
+    id: 160088
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article2:
+    id: 160230
+    title: How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+related_article3:
+    id: 160638
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160512
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article5:
+    id: 160565
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

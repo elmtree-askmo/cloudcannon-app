@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: how-do-molecular-chaperones-assist-in-protein-folding.md
 url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article2:
+    id: 167243
+    title: How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+related_article3:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article4:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article5:
+    id: 167239
+    title: Identify the basic components of an amino acid and their roles.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
 ---
 
 &nbsp;

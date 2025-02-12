@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-are-stem-skills-important-for-students-studying-organic-chemistry.md
 url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 score: -1.0
+related_article1:
+    id: 165238
+    title: What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
+related_article2:
+    id: 165241
+    title: What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article3:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article4:
+    id: 165232
+    title: What role does molecular visualization play in understanding organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
+related_article5:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
 ---
 
 &nbsp;

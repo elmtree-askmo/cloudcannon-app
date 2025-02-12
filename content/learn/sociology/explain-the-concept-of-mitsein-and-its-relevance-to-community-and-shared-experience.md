@@ -21,6 +21,26 @@ subject: Sociology
 file_name: explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience.md
 url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
 score: -1.0
+related_article1:
+    id: 169211
+    title: What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article2:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+related_article3:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article4:
+    id: 169211
+    title: What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
 ---
 
 &nbsp;

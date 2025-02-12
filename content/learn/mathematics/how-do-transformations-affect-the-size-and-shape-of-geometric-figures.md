@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-size-and-shape-of-geometric-figures.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 score: -1.0
+related_article1:
+    id: 162602
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article2:
+    id: 162241
+    title: What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+related_article3:
+    id: 162500
+    title: What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article4:
+    id: 162245
+    title: How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article5:
+    id: 162236
+    title: Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-gas-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 161989
+    title: What is the significance of the state of matter in determining physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
+related_article2:
+    id: 161977
+    title: Describe the process and result of the reaction between silver ions and chloride ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
+related_article3:
+    id: 162041
+    title: What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article4:
+    id: 162014
+    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+related_article5:
+    id: 162024
+    title: What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 ---
 
 &nbsp;

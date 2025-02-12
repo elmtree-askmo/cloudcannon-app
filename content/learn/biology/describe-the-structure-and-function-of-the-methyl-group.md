@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-and-function-of-the-methyl-group.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 score: -1.0
+related_article1:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article2:
+    id: 167398
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article3:
+    id: 167409
+    title: What is the structure and function of the amino group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
+related_article4:
+    id: 167405
+    title: How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+related_article5:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
 ---
 
 &nbsp;

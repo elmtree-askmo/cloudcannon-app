@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
 score: -1.0
+related_article1:
+    id: 170418
+    title: Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
+related_article2:
+    id: 170418
+    title: Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
+related_article3:
+    id: 170400
+    title: What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
+related_article4:
+    id: 170411
+    title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
+related_article5:
+    id: 170408
+    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 ---
 
 &nbsp;

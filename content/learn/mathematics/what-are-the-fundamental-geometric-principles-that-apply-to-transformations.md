@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-fundamental-geometric-principles-that-apply-to-transformations.md
 url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 score: -1.0
+related_article1:
+    id: 164922
+    title: What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article2:
+    id: 164927
+    title: How can dimensional analysis be applied to solve geometric problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+related_article3:
+    id: 164925
+    title: How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+related_article4:
+    id: 164921
+    title: How can the dimensions of a square be altered to form a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+related_article5:
+    id: 164925
+    title: How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
 ---
 
 &nbsp;

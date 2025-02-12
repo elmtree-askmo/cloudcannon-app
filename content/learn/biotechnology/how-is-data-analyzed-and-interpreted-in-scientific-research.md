@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-is-data-analyzed-and-interpreted-in-scientific-research.md
 url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
 score: -1.0
+related_article1:
+    id: 167597
+    title: What is the structure and function of the nucleus in eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+related_article2:
+    id: 167595
+    title: What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+related_article3:
+    id: 167599
+    title: How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+related_article4:
+    id: 167583
+    title: How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article5:
+    id: 167591
+    title: Why is homeostasis important for living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
 ---
 
 &nbsp;

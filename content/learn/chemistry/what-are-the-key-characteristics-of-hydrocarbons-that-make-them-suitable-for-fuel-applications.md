@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications.md
 url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 score: -1.0
+related_article1:
+    id: 167050
+    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+related_article2:
+    id: 167042
+    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article3:
+    id: 167037
+    title: Why is the hydroxyl group considered polar and hydrophilic?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+related_article4:
+    id: 167052
+    title: What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+related_article5:
+    id: 167035
+    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 ---
 
 &nbsp;

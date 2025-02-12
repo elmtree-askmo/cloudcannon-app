@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-main-differences-between-light-microscopy-and-electron-microscopy.md
 url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
 score: -1.0
+related_article1:
+    id: 170962
+    title: What are the primary types of macromolecules, and what are their basic functions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
+related_article2:
+    id: 170964
+    title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
+related_article3:
+    id: 170963
+    title: How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
+related_article4:
+    id: 170959
+    title: How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article5:
+    id: 170957
+    title: How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
 ---
 
 &nbsp;

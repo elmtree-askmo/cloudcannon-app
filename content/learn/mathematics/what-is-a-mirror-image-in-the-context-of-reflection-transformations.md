@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-mirror-image-in-the-context-of-reflection-transformations.md
 url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
 score: -1.0
+related_article1:
+    id: 162605
+    title: What is a mirror image in the context of reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
+related_article2:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+related_article3:
+    id: 162251
+    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+related_article4:
+    id: 162241
+    title: What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+related_article5:
+    id: 162236
+    title: Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
 ---
 
 &nbsp;

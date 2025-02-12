@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors.md
 url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 score: -1.0
+related_article1:
+    id: 166636
+    title: What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+related_article2:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article3:
+    id: 166639
+    title: What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
+related_article4:
+    id: 166638
+    title: What are the main types of fluids and what forces act on them?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+related_article5:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 ---
 
 &nbsp;

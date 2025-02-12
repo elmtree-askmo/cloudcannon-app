@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-steps-involved-in-graphing-a-square-root-function.md
 url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
 score: -1.0
+related_article1:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article2:
+    id: 163799
+    title: How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article3:
+    id: 163804
+    title: What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article4:
+    id: 163806
+    title: What are the general characteristics of function graphs in terms of shape and behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+related_article5:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-parasites-manipulate-host-behavior-to-enhance-transmission.md
 url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
 score: -1.0
+related_article1:
+    id: 165822
+    title: What factors contribute to the distribution and abundance of parasites in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
+related_article2:
+    id: 165815
+    title: Describe the concept of epidemiology in the context of parasite ecology.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
+related_article3:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article4:
+    id: 165825
+    title: What are the differences between asexual and sexual reproduction in parasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+related_article5:
+    id: 165814
+    title: What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-three-main-stages-of-cellular-respiration.md
 url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170304
+    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article2:
+    id: 170297
+    title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
+related_article3:
+    id: 170304
+    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article4:
+    id: 170301
+    title: How do producers and consumers contribute to energy flow in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+related_article5:
+    id: 170302
+    title: What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
 ---
 
 &nbsp;

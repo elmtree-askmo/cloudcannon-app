@@ -21,6 +21,31 @@ subject: Psychology
 file_name: provide-an-example-of-a-case-study-that-illustrates-behavioral-selection.md
 url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 score: -1.0
+related_article1:
+    id: 165298
+    title: What is the difference between phenotype and genotype, and how do they relate to natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
+related_article2:
+    id: 165297
+    title: Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+related_article3:
+    id: 165300
+    title: Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article4:
+    id: 165305
+    title: What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article5:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
 ---
 
 &nbsp;

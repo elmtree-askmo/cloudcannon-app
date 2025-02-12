@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns.md
 url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
 score: -1.0
+related_article1:
+    id: 163846
+    title: How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article2:
+    id: 163843
+    title: What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article3:
+    id: 163847
+    title: What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article4:
+    id: 163834
+    title: What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article5:
+    id: 163840
+    title: How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 ---
 
 &nbsp;

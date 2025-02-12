@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-electronegativity-influence-chemical-bonding.md
 url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167068
+    title: What are the characteristics of carbon that make it versatile in forming organic molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
+related_article2:
+    id: 167069
+    title: How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article3:
+    id: 167065
+    title: What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article4:
+    id: 167067
+    title: What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article5:
+    id: 167061
+    title: What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 ---
 
 &nbsp;

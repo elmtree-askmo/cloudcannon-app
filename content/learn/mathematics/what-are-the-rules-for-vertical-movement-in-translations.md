@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-rules-for-vertical-movement-in-translations.md
 url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
 score: -1.0
+related_article1:
+    id: 162283
+    title: How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article2:
+    id: 162286
+    title: How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article3:
+    id: 162544
+    title: How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article4:
+    id: 162277
+    title: How do you apply combined translations to a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-geometric-figure
+related_article5:
+    id: 162276
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
 ---
 
 &nbsp;

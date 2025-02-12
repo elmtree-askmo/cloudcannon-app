@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders.md
 url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 score: -1.0
+related_article1:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article2:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article3:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article4:
+    id: 167696
+    title: What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article5:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 ---
 
 &nbsp;

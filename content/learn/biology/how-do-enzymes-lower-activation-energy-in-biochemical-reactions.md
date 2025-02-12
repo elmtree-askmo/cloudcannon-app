@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-enzymes-lower-activation-energy-in-biochemical-reactions.md
 url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
 score: -1.0
+related_article1:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article2:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article3:
+    id: 169953
+    title: What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article4:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article5:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
 ---
 
 &nbsp;

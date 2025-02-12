@@ -21,6 +21,26 @@ subject: Biology
 file_name: describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds.md
 url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 score: -1.0
+related_article1:
+    id: 170980
+    title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
+related_article2:
+    id: 170987
+    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+related_article3:
+    id: 170988
+    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170994
+    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 ---
 
 &nbsp;

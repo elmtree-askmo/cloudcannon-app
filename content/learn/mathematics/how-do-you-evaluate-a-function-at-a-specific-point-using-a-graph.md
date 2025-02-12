@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph.md
 url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
 score: -1.0
+related_article1:
+    id: 168410
+    title: What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+related_article2:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article3:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article4:
+    id: 168417
+    title: What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+related_article5:
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
 ---
 
 &nbsp;

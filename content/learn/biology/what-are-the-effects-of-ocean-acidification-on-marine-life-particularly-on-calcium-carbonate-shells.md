@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells.md
 url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
 score: -1.0
+related_article1:
+    id: 167575
+    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+related_article2:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article3:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article4:
+    id: 167571
+    title: What is the significance of polar covalent bonds in the chemical structure of water?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
+related_article5:
+    id: 167575
+    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 ---
 
 &nbsp;

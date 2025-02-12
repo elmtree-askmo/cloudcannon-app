@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases.md
 url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
 score: -1.0
+related_article1:
+    id: 164078
+    title: How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article2:
+    id: 164073
+    title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article3:
+    id: 164080
+    title: How can predictive policing be applied in the context of mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
+related_article4:
+    id: 164073
+    title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article5:
+    id: 164076
+    title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
 ---
 
 &nbsp;

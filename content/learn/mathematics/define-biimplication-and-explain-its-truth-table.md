@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-biimplication-and-explain-its-truth-table.md
 url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
 score: -1.0
+related_article1:
+    id: 170252
+    title: Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article2:
+    id: 170247
+    title: Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article3:
+    id: 170247
+    title: Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article4:
+    id: 170252
+    title: Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article5:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-electron-removal-in-the-ionization-process.md
 url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 score: -1.0
+related_article1:
+    id: 162034
+    title: Describe the process of shaving wood and its classification as a physical change.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
+related_article2:
+    id: 161973
+    title: What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+related_article3:
+    id: 161966
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article4:
+    id: 161948
+    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+related_article5:
+    id: 162017
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-human-activities-contribute-to-climate-change-through-carbon-emissions-and-what-are-some-mitigation-strategies.md
 url: /learn/chemistry/questions/how-do-human-activities-contribute-to-climate-change-through-carbon-emissions-and-what-are-some-mitigation-strategies
 score: -1.0
+related_article1:
+    id: 170397
+    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article2:
+    id: 170415
+    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article3:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article4:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article5:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 ---
 
 &nbsp;

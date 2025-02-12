@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory.md
 url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
 score: -1.0
+related_article1:
+    id: 164212
+    title: How do studies confirming gender differences support Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
+related_article2:
+    id: 164202
+    title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
+related_article3:
+    id: 164206
+    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+related_article4:
+    id: 164213
+    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
+related_article5:
+    id: 164201
+    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
 ---
 
 &nbsp;

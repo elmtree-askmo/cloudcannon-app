@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-replication-important-in-research-and-what-challenges-might-arise.md
 url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 score: -1.0
+related_article1:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article2:
+    id: 165066
+    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
+related_article3:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article4:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article5:
+    id: 165084
+    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 ---
 
 &nbsp;

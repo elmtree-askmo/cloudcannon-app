@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-speech-fluency-and-verbal-abilities-differ-between-genders.md
 url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
 score: -1.0
+related_article1:
+    id: 168109
+    title: What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+related_article2:
+    id: 168137
+    title: How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article3:
+    id: 168119
+    title: How do gender differences manifest in physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
+related_article4:
+    id: 168122
+    title: What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article5:
+    id: 168119
+    title: How do gender differences manifest in physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
 ---
 
 &nbsp;

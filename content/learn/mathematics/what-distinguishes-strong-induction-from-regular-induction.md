@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-distinguishes-strong-induction-from-regular-induction.md
 url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
 score: -1.0
+related_article1:
+    id: 170719
+    title: What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
+related_article2:
+    id: 170712
+    title: How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
+related_article3:
+    id: 170707
+    title: What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+related_article4:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article5:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 ---
 
 &nbsp;

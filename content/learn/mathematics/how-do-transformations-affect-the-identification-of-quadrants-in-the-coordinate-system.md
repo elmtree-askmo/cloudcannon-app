@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
 score: -1.0
+related_article1:
+    id: 162245
+    title: How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article2:
+    id: 162487
+    title: What is the significance of the center of rotation in a rotational transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
+related_article3:
+    id: 162251
+    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+related_article4:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article5:
+    id: 162235
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 ---
 
 &nbsp;

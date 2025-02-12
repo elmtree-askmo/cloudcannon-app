@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-determine-the-specificity-and-selectivity-of-channel-proteins.md
 url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 score: -1.0
+related_article1:
+    id: 167186
+    title: How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article2:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article3:
+    id: 167196
+    title: Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
+related_article4:
+    id: 167188
+    title: Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article5:
+    id: 167188
+    title: Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
 ---
 
 &nbsp;

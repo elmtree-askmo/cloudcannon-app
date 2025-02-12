@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures.md
 url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 score: -1.0
+related_article1:
+    id: 169357
+    title: How can individualized education plans and technology be used as intervention strategies for learning disabilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-individualized-education-plans-and-technology-be-used-as-intervention-strategies-for-learning-disabilities
+related_article2:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+related_article3:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+related_article4:
+    id: 169352
+    title: How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
+related_article5:
+    id: 169358
+    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 ---
 
 &nbsp;

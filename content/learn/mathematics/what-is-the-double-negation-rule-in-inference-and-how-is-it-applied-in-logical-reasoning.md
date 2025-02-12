@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170234
+    title: Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article2:
+    id: 170224
+    title: How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+related_article3:
+    id: 170231
+    title: What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article4:
+    id: 170226
+    title: Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170223
+    title: What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation.md
 url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
 score: -1.0
+related_article1:
+    id: 164014
+    title: What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
+related_article2:
+    id: 164014
+    title: What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
+related_article3:
+    id: 164021
+    title: What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
+related_article4:
+    id: 164021
+    title: What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
 ---
 
 &nbsp;

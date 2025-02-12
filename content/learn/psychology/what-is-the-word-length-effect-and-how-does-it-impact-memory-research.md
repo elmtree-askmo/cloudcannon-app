@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-word-length-effect-and-how-does-it-impact-memory-research.md
 url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
 score: -1.0
+related_article1:
+    id: 165211
+    title: What are the main features and benefits of using Google Scholar for academic research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
+related_article2:
+    id: 165221
+    title: What techniques can be used for effective abstract analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+related_article3:
+    id: 165208
+    title: What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+related_article4:
+    id: 165218
+    title: What is semantic analysis and how does it enhance data interpretation in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
+related_article5:
+    id: 165215
+    title: What are the common steps involved in conducting a literature review?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-steps-involved-in-conducting-a-literature-review
 ---
 
 &nbsp;

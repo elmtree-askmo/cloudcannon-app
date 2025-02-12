@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ.md
 url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 164864
+    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
+related_article2:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article3:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article4:
+    id: 164867
+    title: What evidence supports the functional specialization of the brain in object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+related_article5:
+    id: 164861
+    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
 ---
 
 &nbsp;

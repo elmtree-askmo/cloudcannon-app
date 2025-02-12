@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-domain-and-range-of-a-linear-function.md
 url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 score: -1.0
+related_article1:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article2:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article3:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article4:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article5:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
 ---
 
 &nbsp;

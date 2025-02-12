@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways.md
 url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 score: -1.0
+related_article1:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article2:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article3:
+    id: 170491
+    title: Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+related_article4:
+    id: 170499
+    title: How does synaptic plasticity contribute to neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
+related_article5:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 ---
 
 &nbsp;

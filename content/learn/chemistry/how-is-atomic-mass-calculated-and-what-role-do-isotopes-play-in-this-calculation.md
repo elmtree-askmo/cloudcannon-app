@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation.md
 url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 score: -1.0
+related_article1:
+    id: 167564
+    title: What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article2:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article3:
+    id: 167568
+    title: How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
+related_article4:
+    id: 167557
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167558
+    title: List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 ---
 
 &nbsp;

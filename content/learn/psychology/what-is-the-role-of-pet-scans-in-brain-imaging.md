@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-pet-scans-in-brain-imaging.md
 url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 score: -1.0
+related_article1:
+    id: 164675
+    title: How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article2:
+    id: 164672
+    title: What are the primary mechanisms of attention in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
+related_article3:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article4:
+    id: 164675
+    title: How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article5:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
 ---
 
 &nbsp;

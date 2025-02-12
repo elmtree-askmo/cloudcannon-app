@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play.md
 url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
 score: -1.0
+related_article1:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article2:
+    id: 166341
+    title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article3:
+    id: 166340
+    title: Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article4:
+    id: 166341
+    title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article5:
+    id: 166350
+    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
 ---
 
 &nbsp;

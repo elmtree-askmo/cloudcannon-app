@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play.md
 url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
 score: -1.0
+related_article1:
+    id: 167505
+    title: How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
+related_article2:
+    id: 167519
+    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
+related_article3:
+    id: 167509
+    title: Why is analyzing results crucial in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/why-is-analyzing-results-crucial-in-the-scientific-method
+related_article4:
+    id: 167519
+    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
+related_article5:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 ---
 
 &nbsp;

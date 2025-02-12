@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism.md
 url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
 score: -1.0
+related_article1:
+    id: 165989
+    title: How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article2:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
+related_article3:
+    id: 165990
+    title: What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+related_article4:
+    id: 165990
+    title: What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+related_article5:
+    id: 165992
+    title: In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
 ---
 
 &nbsp;

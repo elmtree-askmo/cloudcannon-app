@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle.md
 url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170409
+    title: How do human activities contribute to climate change through carbon emissions, and what are some mitigation strategies?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-human-activities-contribute-to-climate-change-through-carbon-emissions-and-what-are-some-mitigation-strategies
+related_article2:
+    id: 170411
+    title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
+related_article3:
+    id: 170417
+    title: What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
+related_article4:
+    id: 170416
+    title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+related_article5:
+    id: 170408
+    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 ---
 
 &nbsp;

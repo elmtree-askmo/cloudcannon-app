@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle.md
 url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170342
+    title: What are the differences between chemical energy and light energy in ecosystems, and how are they converted?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-chemical-energy-and-light-energy-in-ecosystems-and-how-are-they-converted
+related_article2:
+    id: 170339
+    title: What is the role of nitrogen in the atmosphere, and how does it interact with the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nitrogen-in-the-atmosphere-and-how-does-it-interact-with-the-carbon-cycle
+related_article3:
+    id: 170335
+    title: What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article4:
+    id: 170337
+    title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-purposes-of-theories-in-psychotherapy.md
 url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
 score: -1.0
+related_article1:
+    id: 163029
+    title: Why is empirical support crucial for the validity of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+related_article2:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article3:
+    id: 163026
+    title: What are the key components of a conceptual framework in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
+related_article4:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article5:
+    id: 163027
+    title: How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 ---
 
 &nbsp;

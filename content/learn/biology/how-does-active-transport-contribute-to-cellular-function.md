@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-active-transport-contribute-to-cellular-function.md
 url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
 score: -1.0
+related_article1:
+    id: 168905
+    title: Define concentration gradient and its importance in active transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
+related_article2:
+    id: 168899
+    title: What are the main types of active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
+related_article3:
+    id: 168901
+    title: What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article4:
+    id: 168906
+    title: How does ATP utilization differ between active and passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+related_article5:
+    id: 168902
+    title: Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
 ---
 
 &nbsp;

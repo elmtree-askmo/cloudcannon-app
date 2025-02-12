@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection.md
 url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
 score: -1.0
+related_article1:
+    id: 170914
+    title: Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
+related_article2:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article3:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article4:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article5:
+    id: 170919
+    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-common-features-of-exchange-surfaces-that-enhance-their-efficiency.md
 url: /learn/biology/questions/what-are-the-common-features-of-exchange-surfaces-that-enhance-their-efficiency
 score: -1.0
+related_article1:
+    id: 168779
+    title: How do environmental conditions affect the rate of transpiration in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
+related_article2:
+    id: 168780
+    title: What are xerophytes and how are they adapted to dry environments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
+related_article3:
+    id: 168768
+    title: Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
+related_article4:
+    id: 168771
+    title: Why do multicellular organisms require specialized systems for gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
+related_article5:
+    id: 168780
+    title: What are xerophytes and how are they adapted to dry environments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
 ---
 
 &nbsp;

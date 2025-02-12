@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-structural-differences-between-monosaccharides-and-polysaccharides.md
 url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
 score: -1.0
+related_article1:
+    id: 168318
+    title: What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+related_article2:
+    id: 168314
+    title: What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article3:
+    id: 168311
+    title: How do electron orbitals relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+related_article4:
+    id: 168312
+    title: What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
+related_article5:
+    id: 168323
+    title: How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 ---
 
 &nbsp;

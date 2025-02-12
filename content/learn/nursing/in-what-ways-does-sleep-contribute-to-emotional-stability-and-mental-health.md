@@ -21,6 +21,26 @@ subject: Nursing
 file_name: in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health.md
 url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
 score: -1.0
+related_article1:
+    id: 169702
+    title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
+related_article2:
+    id: 169690
+    title: What are the primary causes and symptoms of insomnia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
+related_article3:
+    id: 169702
+    title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
+related_article4:
+    id: 169694
+    title: What are some non-pharmacological interventions that can improve sleep quality, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-nonpharmacological-interventions-that-can-improve-sleep-quality-and-how-do-they-work
 ---
 
 &nbsp;

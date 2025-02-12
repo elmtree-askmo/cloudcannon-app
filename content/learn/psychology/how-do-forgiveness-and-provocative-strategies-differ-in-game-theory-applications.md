@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications.md
 url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 score: -1.0
+related_article1:
+    id: 171010
+    title: What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+related_article2:
+    id: 171015
+    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+related_article3:
+    id: 171008
+    title: How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article4:
+    id: 170997
+    title: What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+related_article5:
+    id: 171012
+    title: How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 ---
 
 &nbsp;

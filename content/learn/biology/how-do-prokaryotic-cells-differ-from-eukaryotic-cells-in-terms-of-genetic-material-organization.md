@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization.md
 url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
 score: -1.0
+related_article1:
+    id: 167808
+    title: How do genetic resemblance and variation contribute to the study of genetics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
+related_article2:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article3:
+    id: 167825
+    title: What are the main sources of genetic variation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
+related_article4:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article5:
+    id: 167828
+    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 ---
 
 &nbsp;

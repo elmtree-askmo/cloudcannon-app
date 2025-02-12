@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-comparative-advantage-and-how-does-it-affect-trade-policies.md
 url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
 score: -1.0
+related_article1:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article2:
+    id: 169921
+    title: What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article3:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article4:
+    id: 169934
+    title: What are some common pricing strategies, and how do they impact sales and revenue?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+related_article5:
+    id: 169932
+    title: Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

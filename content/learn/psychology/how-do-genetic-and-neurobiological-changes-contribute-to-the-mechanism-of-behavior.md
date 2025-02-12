@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior.md
 url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
 score: -1.0
+related_article1:
+    id: 165292
+    title: How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article2:
+    id: 165287
+    title: What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article3:
+    id: 165311
+    title: What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article4:
+    id: 165308
+    title: Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+related_article5:
+    id: 165304
+    title: Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 ---
 
 &nbsp;

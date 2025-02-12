@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare.md
 url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
 score: -1.0
+related_article1:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article2:
+    id: 169655
+    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article3:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article4:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article5:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

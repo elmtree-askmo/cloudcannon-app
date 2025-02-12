@@ -21,6 +21,31 @@ subject: Psychology
 file_name: according-to-piaget-how-do-peer-interactions-influence-moral-development.md
 url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 score: -1.0
+related_article1:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article2:
+    id: 164134
+    title: How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article3:
+    id: 164145
+    title: How do negotiation skills in peer relationships contribute to moral problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving
+related_article4:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article5:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
 ---
 
 &nbsp;

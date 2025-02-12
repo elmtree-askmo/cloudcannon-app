@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-impact-other-polygons.md
 url: /learn/mathematics/questions/how-do-reflections-impact-other-polygons
 score: -1.0
+related_article1:
+    id: 162522
+    title: What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article2:
+    id: 162384
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article3:
+    id: 162910
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article4:
+    id: 162915
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article5:
+    id: 162632
+    title: How do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biology
 file_name: explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory.md
 url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
 score: -1.0
+related_article1:
+    id: 165286
+    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article2:
+    id: 165284
+    title: What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+related_article3:
+    id: 165284
+    title: What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+related_article4:
+    id: 165282
+    title: Describe the types of behavioral responses animals may have to environmental changes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-are-base-cases-important-in-the-fibonacci-sequence.md
 url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
 score: -1.0
+related_article1:
+    id: 170693
+    title: Describe how normal induction can be applied to the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
+related_article2:
+    id: 170700
+    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+related_article3:
+    id: 170699
+    title: What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article4:
+    id: 170705
+    title: What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article5:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
 ---
 
 &nbsp;

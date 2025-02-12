@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-key-features-of-a-function-be-identified-from-its-graph.md
 url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
 score: -1.0
+related_article1:
+    id: 163811
+    title: What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article2:
+    id: 163826
+    title: How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article3:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article4:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article5:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 ---
 
 &nbsp;

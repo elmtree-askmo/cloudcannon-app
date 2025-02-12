@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected.md
 url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
 score: -1.0
+related_article1:
+    id: 162152
+    title: How does reflecting a point across the x-axis affect its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
+related_article2:
+    id: 162142
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162299
+    title: What is the definition of a translation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-translation-in-geometry
+related_article4:
+    id: 162142
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162163
+    title: What is the algebraic representation of translating a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis.md
 url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170439
+    title: Explain the unique properties of carbon that make it vital for biological processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
+related_article2:
+    id: 170422
+    title: How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article3:
+    id: 170427
+    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
+related_article4:
+    id: 170424
+    title: What are carbon sinks, and how do they function within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
+related_article5:
+    id: 170432
+    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
 ---
 
 &nbsp;

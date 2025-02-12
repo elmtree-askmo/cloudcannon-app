@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method.md
 url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 score: -1.0
+related_article1:
+    id: 168878
+    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article2:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article3:
+    id: 168888
+    title: What is the disposition effect and how does it affect investment decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+related_article4:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+related_article5:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 ---
 
 &nbsp;

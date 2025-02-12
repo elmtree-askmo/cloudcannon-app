@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-electrical-potential-and-why-is-it-important-in-circuits.md
 url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
 score: -1.0
+related_article1:
+    id: 167937
+    title: How is voltage distributed across resistors in a series circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
+related_article2:
+    id: 167948
+    title: What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
+related_article3:
+    id: 167947
+    title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article4:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article5:
+    id: 167940
+    title: What is the formula for calculating electrical power in a circuit, and what are its units?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
 ---
 
 &nbsp;

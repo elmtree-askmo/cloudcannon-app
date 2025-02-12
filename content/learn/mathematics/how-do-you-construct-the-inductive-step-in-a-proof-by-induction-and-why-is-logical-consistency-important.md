@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important.md
 url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
 score: -1.0
+related_article1:
+    id: 170730
+    title: What is the coin change problem, and why is it significant in algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+related_article2:
+    id: 170732
+    title: What are the basic concepts of set theory, and how do operations on sets function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
+related_article3:
+    id: 170722
+    title: What are the basic principles of proof by induction and how are they applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs
+related_article4:
+    id: 170736
+    title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article5:
+    id: 170727
+    title: What are the fundamental concepts of mathematical induction, and how did it historically develop?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
 ---
 
 &nbsp;

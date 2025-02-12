@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system.md
 url: /learn/psychology/questions/how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system
 score: -1.0
+related_article1:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article2:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article3:
+    id: 164047
+    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article4:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article5:
+    id: 164050
+    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 ---
 
 &nbsp;

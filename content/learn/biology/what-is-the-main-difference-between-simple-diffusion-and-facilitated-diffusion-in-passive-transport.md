@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport.md
 url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
 score: -1.0
+related_article1:
+    id: 167170
+    title: What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article2:
+    id: 167168
+    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+related_article3:
+    id: 167168
+    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+related_article4:
+    id: 167169
+    title: Compare the energy requirements of passive and active transport methods.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
+related_article5:
+    id: 167168
+    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
 ---
 
 &nbsp;

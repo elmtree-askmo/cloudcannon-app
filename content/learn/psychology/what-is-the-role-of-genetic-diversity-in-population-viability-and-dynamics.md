@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics.md
 url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
 score: -1.0
+related_article1:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article2:
+    id: 170914
+    title: Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
+related_article3:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article4:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article5:
+    id: 170920
+    title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
 ---
 
 &nbsp;

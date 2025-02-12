@@ -21,6 +21,31 @@ subject: Science
 file_name: why-is-it-important-to-keep-constants-in-an-experiment.md
 url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
 score: -1.0
+related_article1:
+    id: 163349
+    title: What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
+related_article2:
+    id: 163348
+    title: How does a hypothesis differ from a prediction in scientific research?
+    subject: Science
+    url: /learn/science/questions/how-does-a-hypothesis-differ-from-a-prediction-in-scientific-research
+related_article3:
+    id: 163353
+    title: How can statistical analysis be used to support or reject a hypothesis?
+    subject: Science
+    url: /learn/science/questions/how-can-statistical-analysis-be-used-to-support-or-reject-a-hypothesis
+related_article4:
+    id: 163355
+    title: Why is the peer review process crucial in scientific communication?
+    subject: Science
+    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
+related_article5:
+    id: 163354
+    title: What are the possible outcomes when forming conclusions from experimental results?
+    subject: Science
+    url: /learn/science/questions/what-are-the-possible-outcomes-when-forming-conclusions-from-experimental-results
 ---
 
 &nbsp;

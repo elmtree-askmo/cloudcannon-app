@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity.md
 url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
 score: -1.0
+related_article1:
+    id: 167043
+    title: What role does resonance stability play in the properties of carboxyl groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
+related_article2:
+    id: 167045
+    title: Why is the amino group important in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+related_article3:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article4:
+    id: 167036
+    title: Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+related_article5:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 ---
 
 &nbsp;

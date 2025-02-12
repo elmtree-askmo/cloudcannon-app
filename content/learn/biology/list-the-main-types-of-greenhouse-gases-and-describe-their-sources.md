@@ -21,6 +21,26 @@ subject: Biology
 file_name: list-the-main-types-of-greenhouse-gases-and-describe-their-sources.md
 url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
 score: -1.0
+related_article1:
+    id: 170438
+    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+related_article2:
+    id: 170421
+    title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article3:
+    id: 170432
+    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+related_article4:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
 ---
 
 &nbsp;

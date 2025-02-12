@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-parietal-lobe-in-spatial-awareness.md
 url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 score: -1.0
+related_article1:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article2:
+    id: 170576
+    title: What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article3:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article4:
+    id: 170591
+    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article5:
+    id: 170581
+    title: What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
 score: -1.0
+related_article1:
+    id: 164581
+    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article2:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+related_article3:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article4:
+    id: 164571
+    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 ---
 
 &nbsp;

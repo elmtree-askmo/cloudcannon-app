@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals.md
 url: /learn/biology/questions/how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals
 score: -1.0
+related_article1:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article2:
+    id: 170378
+    title: How does carbon dioxide contribute to the process of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis
+related_article3:
+    id: 170377
+    title: What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+related_article4:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article5:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
 ---
 
 &nbsp;

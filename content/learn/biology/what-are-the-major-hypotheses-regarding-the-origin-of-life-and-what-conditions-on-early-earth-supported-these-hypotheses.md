@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses.md
 url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
 score: -1.0
+related_article1:
+    id: 167765
+    title: What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article2:
+    id: 167760
+    title: What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article3:
+    id: 167745
+    title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article4:
+    id: 167759
+    title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
+related_article5:
+    id: 167755
+    title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-truth-tables-be-used-to-determine-logical-equivalency.md
 url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 score: -1.0
+related_article1:
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article2:
+    id: 170216
+    title: How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article3:
+    id: 170207
+    title: How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article4:
+    id: 170201
+    title: What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+related_article5:
+    id: 170215
+    title: What is the structure of propositional arguments and how are hypotheses involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-challenges-of-global-dependencies-in-supply-chains-particularly-concerning-resource-availability-and-production-delays.md
 url: /learn/sociology/questions/what-are-the-challenges-of-global-dependencies-in-supply-chains-particularly-concerning-resource-availability-and-production-delays
 score: -1.0
+related_article1:
+    id: 163623
+    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article2:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article3:
+    id: 163624
+    title: How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article4:
+    id: 163617
+    title: What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+related_article5:
+    id: 163617
+    title: What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics.md
 url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
 score: -1.0
+related_article1:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article2:
+    id: 170836
+    title: What are competitive interactions, and how do they relate to rational choice theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
+related_article3:
+    id: 170843
+    title: How does Nash Equilibrium apply to competitive interactions in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+related_article4:
+    id: 170841
+    title: In behavioral ecology, how do interactions in populations affect strategy evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/in-behavioral-ecology-how-do-interactions-in-populations-affect-strategy-evolution
+related_article5:
+    id: 170844
+    title: What is the importance of optimal strategies in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
 ---
 
 &nbsp;

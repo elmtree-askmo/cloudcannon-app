@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important.md
 url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 168296
+    title: Explain how negative exponents are simplified and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
+related_article2:
+    id: 168305
+    title: What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article3:
+    id: 168303
+    title: Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article4:
+    id: 168297
+    title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
+related_article5:
+    id: 168297
+    title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
 ---
 
 &nbsp;

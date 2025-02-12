@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces.md
 url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
 score: -1.0
+related_article1:
+    id: 169360
+    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+related_article2:
+    id: 169372
+    title: How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article3:
+    id: 169360
+    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+related_article4:
+    id: 169363
+    title: How can color be used as a tool in architecture to impact emotions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
+related_article5:
+    id: 169361
+    title: How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
 ---
 
 &nbsp;

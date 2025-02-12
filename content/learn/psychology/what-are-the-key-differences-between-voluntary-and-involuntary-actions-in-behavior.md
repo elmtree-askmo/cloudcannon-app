@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
 score: -1.0
+related_article1:
+    id: 170892
+    title: How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article2:
+    id: 170887
+    title: What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article3:
+    id: 170882
+    title: What challenges are associated with measuring quantitative traits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
+related_article4:
+    id: 170891
+    title: What are the adaptive strategies in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
+related_article5:
+    id: 170888
+    title: How do fitness trade-offs affect resource allocation in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
 ---
 
 &nbsp;

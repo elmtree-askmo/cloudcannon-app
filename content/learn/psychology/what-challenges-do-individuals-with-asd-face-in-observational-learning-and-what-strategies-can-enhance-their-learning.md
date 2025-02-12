@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning.md
 url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
 score: -1.0
+related_article1:
+    id: 169342
+    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article2:
+    id: 169336
+    title: What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article3:
+    id: 169342
+    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article4:
+    id: 169337
+    title: Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article5:
+    id: 169355
+    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 ---
 
 &nbsp;

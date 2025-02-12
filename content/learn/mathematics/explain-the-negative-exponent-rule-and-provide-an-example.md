@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-negative-exponent-rule-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 163787
+    title: What are the key differences between the equations of linear and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article2:
+    id: 163778
+    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
+related_article3:
+    id: 163763
+    title: What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article4:
+    id: 163769
+    title: What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article5:
+    id: 163789
+    title: Describe a method for solving real-world problems using exponential models.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
 ---
 
 &nbsp;

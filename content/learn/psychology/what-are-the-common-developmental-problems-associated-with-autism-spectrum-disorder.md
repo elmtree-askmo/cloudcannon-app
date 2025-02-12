@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder.md
 url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 score: -1.0
+related_article1:
+    id: 168120
+    title: What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article2:
+    id: 168111
+    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article3:
+    id: 168126
+    title: What are the gender differences in prenatal and perinatal vulnerability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+related_article4:
+    id: 168123
+    title: How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article5:
+    id: 168125
+    title: What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 ---
 
 &nbsp;

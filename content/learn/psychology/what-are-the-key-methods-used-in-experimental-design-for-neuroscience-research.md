@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research.md
 url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 score: -1.0
+related_article1:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+related_article2:
+    id: 164675
+    title: How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article3:
+    id: 164676
+    title: What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+related_article4:
+    id: 164680
+    title: What are the effects of emotional disorders on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
+related_article5:
+    id: 164679
+    title: How does emotion influence cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
 ---
 
 &nbsp;

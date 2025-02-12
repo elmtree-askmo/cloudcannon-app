@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development.md
 url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
 score: -1.0
+related_article1:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article2:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article3:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article4:
+    id: 164137
+    title: What role does power assertion play in parenting, and how does it impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
+related_article5:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 ---
 
 &nbsp;

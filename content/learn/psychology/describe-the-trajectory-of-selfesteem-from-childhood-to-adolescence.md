@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence.md
 url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
 score: -1.0
+related_article1:
+    id: 168111
+    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article2:
+    id: 168121
+    title: How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+related_article3:
+    id: 168125
+    title: What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article4:
+    id: 168129
+    title: How does attention deficit/hyperactivity disorder present differently in males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
+related_article5:
+    id: 168137
+    title: How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
 ---
 
 &nbsp;

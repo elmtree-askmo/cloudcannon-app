@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure.md
 url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
 score: -1.0
+related_article1:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+related_article2:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article3:
+    id: 164958
+    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article4:
+    id: 164967
+    title: How do semantic networks and language systems interact within memory systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
+related_article5:
+    id: 164961
+    title: What is the direct route to reading, and how does it relate to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
 ---
 
 &nbsp;

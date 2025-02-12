@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport.md
 url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
 score: -1.0
+related_article1:
+    id: 167158
+    title: What role do carrier proteins play in facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+related_article2:
+    id: 167164
+    title: What types of substances are typically transported via endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
+related_article3:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article4:
+    id: 167157
+    title: How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
+related_article5:
+    id: 167165
+    title: Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications.md
 url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
 score: -1.0
+related_article1:
+    id: 170023
+    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article2:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article3:
+    id: 170016
+    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
+related_article4:
+    id: 170010
+    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
+related_article5:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-normal-bmi-range-for-adults.md
 url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 score: -1.0
+related_article1:
+    id: 169726
+    title: What are the health implications of being classified as overweight or obese?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
+related_article2:
+    id: 169721
+    title: How does REM sleep affect dreaming and sleep cycles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
+related_article3:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article4:
+    id: 169709
+    title: What role do the pulmonary artery and vein play in blood circulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+related_article5:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
 ---
 
 &nbsp;

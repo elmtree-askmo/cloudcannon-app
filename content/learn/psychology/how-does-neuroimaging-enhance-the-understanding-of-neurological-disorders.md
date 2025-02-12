@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders.md
 url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
 score: -1.0
+related_article1:
+    id: 164354
+    title: What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+related_article2:
+    id: 164345
+    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
+related_article3:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article4:
+    id: 164349
+    title: What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article5:
+    id: 164358
+    title: What are the challenges associated with radiation exposure in medical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
 ---
 
 &nbsp;

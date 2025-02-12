@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-effects-of-ionization-on-the-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 score: -1.0
+related_article1:
+    id: 161977
+    title: Describe the process and result of the reaction between silver ions and chloride ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
+related_article2:
+    id: 162023
+    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article3:
+    id: 162059
+    title: What is the process of ionization and how does it affect the charge of particles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
+related_article4:
+    id: 162013
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article5:
+    id: 162017
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

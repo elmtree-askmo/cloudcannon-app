@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-iclicker-technology-enhance-class-participation.md
 url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
 score: -1.0
+related_article1:
+    id: 167475
+    title: What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article2:
+    id: 167494
+    title: What are the benefits of using interactive learning tools in education?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
+related_article3:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167494
+    title: What are the benefits of using interactive learning tools in education?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
+related_article5:
+    id: 167494
+    title: What are the benefits of using interactive learning tools in education?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
 ---
 
 &nbsp;

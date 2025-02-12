@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: list-the-criteria-used-to-determine-if-two-triangles-are-congruent.md
 url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
 score: -1.0
+related_article1:
+    id: 162130
+    title: What are the properties of a triangle that can be used to determine its congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
+related_article2:
+    id: 162133
+    title: What is the result of translating a geometric figure in terms of its shape and size?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+related_article3:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article4:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article5:
+    id: 162127
+    title: How does a reflection transformation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-transformation-affect-the-coordinates-of-a-point
 ---
 
 &nbsp;

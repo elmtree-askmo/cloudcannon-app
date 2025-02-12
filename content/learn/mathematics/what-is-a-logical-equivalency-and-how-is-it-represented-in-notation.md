@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-logical-equivalency-and-how-is-it-represented-in-notation.md
 url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
 score: -1.0
+related_article1:
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article2:
+    id: 170209
+    title: What is the purpose of counter-examples in logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
+related_article3:
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article4:
+    id: 170210
+    title: Explain the concept of negation and its application in logical statements.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+related_article5:
+    id: 170208
+    title: Define tautologies and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-tautologies-and-provide-an-example
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted.md
 url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
 score: -1.0
+related_article1:
+    id: 165365
+    title: Describe the proper procedure for setting the volume on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
+related_article2:
+    id: 165382
+    title: How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article3:
+    id: 165364
+    title: What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
+related_article4:
+    id: 165374
+    title: What are the benefits of using color-coded pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
+related_article5:
+    id: 165381
+    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-is-the-role-of-lipase-in-the-breakdown-of-lipids.md
 url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
 score: -1.0
+related_article1:
+    id: 168821
+    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article2:
+    id: 168815
+    title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+related_article3:
+    id: 168818
+    title: How do epithelial cells interact with micelles during lipid absorption?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+related_article4:
+    id: 168813
+    title: Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
 ---
 
 &nbsp;

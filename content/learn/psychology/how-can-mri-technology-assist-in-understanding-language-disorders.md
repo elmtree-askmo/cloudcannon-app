@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-mri-technology-assist-in-understanding-language-disorders.md
 url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
 score: -1.0
+related_article1:
+    id: 164602
+    title: Describe the main characteristics of connectionist models in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
+related_article2:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article3:
+    id: 164600
+    title: How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+related_article4:
+    id: 164612
+    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
+related_article5:
+    id: 164613
+    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
 ---
 
 &nbsp;

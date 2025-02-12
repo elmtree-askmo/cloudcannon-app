@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation.md
 url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 score: -1.0
+related_article1:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article2:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article3:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article4:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article5:
+    id: 167761
+    title: Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

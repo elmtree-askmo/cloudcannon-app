@@ -21,6 +21,26 @@ subject: Engineering
 file_name: what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere.md
 url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
 score: -1.0
+related_article1:
+    id: 169420
+    title: What role does façade design play in the architectural aesthetics of a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
+related_article2:
+    id: 169425
+    title: How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
+related_article3:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article4:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
 ---
 
 &nbsp;

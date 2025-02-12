@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis.md
 url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
 score: -1.0
+related_article1:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article2:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article3:
+    id: 170274
+    title: What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article4:
+    id: 170278
+    title: What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article5:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
 ---
 
 &nbsp;

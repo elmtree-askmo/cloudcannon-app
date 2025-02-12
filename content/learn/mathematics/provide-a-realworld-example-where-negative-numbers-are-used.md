@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: provide-a-realworld-example-where-negative-numbers-are-used.md
 url: /learn/mathematics/questions/provide-a-realworld-example-where-negative-numbers-are-used
 score: -1.0
+related_article1:
+    id: 162118
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+related_article2:
+    id: 162121
+    title: How are negative numbers represented, and what is their historical context?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-numbers-represented-and-what-is-their-historical-context
+related_article3:
+    id: 162102
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article4:
+    id: 162114
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article5:
+    id: 162120
+    title: Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
 ---
 
 &nbsp;

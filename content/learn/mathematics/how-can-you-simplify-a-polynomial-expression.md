@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-simplify-a-polynomial-expression.md
 url: /learn/mathematics/questions/how-can-you-simplify-a-polynomial-expression
 score: -1.0
+related_article1:
+    id: 168278
+    title: What are the basic rules of exponents, and how can they be used to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-rules-of-exponents-and-how-can-they-be-used-to-simplify-expressions-with-exponents
+related_article2:
+    id: 168276
+    title: What is the A.C method for factoring, and how is it applied to quadratic equations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-ac-method-for-factoring-and-how-is-it-applied-to-quadratic-equations
+related_article3:
+    id: 168270
+    title: How do you identify and factor out common terms in a polynomial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-and-factor-out-common-terms-in-a-polynomial
+related_article4:
+    id: 168269
+    title: What is the process of expressing a polynomial as a product of its factors?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
+related_article5:
+    id: 168271
+    title: What defines a prime number, and how can you identify prime numbers within polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
 ---
 
 &nbsp;

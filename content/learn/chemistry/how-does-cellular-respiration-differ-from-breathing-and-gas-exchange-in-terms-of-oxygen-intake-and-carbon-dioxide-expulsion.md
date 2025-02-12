@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion.md
 url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 score: -1.0
+related_article1:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article2:
+    id: 170396
+    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article3:
+    id: 170407
+    title: Compare natural and technological carbon sequestration methods, including forests, oceans, and carbon capture and storage technologies.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-natural-and-technological-carbon-sequestration-methods-including-forests-oceans-and-carbon-capture-and-storage-technologies
+related_article4:
+    id: 170412
+    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article5:
+    id: 170406
+    title: What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
 ---
 
 &nbsp;

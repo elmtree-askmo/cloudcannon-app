@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns.md
 url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
 score: -1.0
+related_article1:
+    id: 162537
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+related_article2:
+    id: 162289
+    title: How can patterns be used to predict new coordinates after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
+related_article3:
+    id: 162541
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+related_article4:
+    id: 162274
+    title: What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article5:
+    id: 162290
+    title: What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
 ---
 
 &nbsp;

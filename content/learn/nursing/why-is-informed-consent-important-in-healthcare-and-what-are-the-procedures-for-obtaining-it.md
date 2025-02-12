@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it.md
 url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
 score: -1.0
+related_article1:
+    id: 169488
+    title: How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article2:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article3:
+    id: 169489
+    title: What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article4:
+    id: 169490
+    title: What preventive measures can be implemented to prevent pressure sores?
+    subject: Nursing
+    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
+related_article5:
+    id: 169480
+    title: What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 ---
 
 &nbsp;

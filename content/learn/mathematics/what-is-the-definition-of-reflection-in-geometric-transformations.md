@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-definition-of-reflection-in-geometric-transformations.md
 url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162304
+    title: How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article2:
+    id: 162162
+    title: How do you translate a line segment on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-segment-on-the-coordinate-plane
+related_article3:
+    id: 162310
+    title: What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article4:
+    id: 162300
+    title: How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
+related_article5:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
 ---
 
 &nbsp;

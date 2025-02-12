@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-physical-geography-and-human-geography-contribute-to-spatial-organization.md
 url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 score: -1.0
+related_article1:
+    id: 160639
+    title: Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article2:
+    id: 160636
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article3:
+    id: 160554
+    title: How do physical geography and human geography interact within spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-interact-within-spatial-organization
+related_article4:
+    id: 160096
+    title: How do data collection and analysis techniques serve as practical tools in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research
+related_article5:
+    id: 160645
+    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
 ---
 
 &nbsp;

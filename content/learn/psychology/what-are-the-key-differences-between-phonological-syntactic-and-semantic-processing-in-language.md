@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 score: -1.0
+related_article1:
+    id: 164609
+    title: What are the advantages of using eye-tracking studies in human behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
+related_article2:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article3:
+    id: 164600
+    title: How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+related_article4:
+    id: 164613
+    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
+related_article5:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 ---
 
 &nbsp;

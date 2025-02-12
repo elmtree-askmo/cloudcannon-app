@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-role-of-mutation-in-genetic-variation-and-evolution.md
 url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 score: -1.0
+related_article1:
+    id: 166419
+    title: What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+related_article2:
+    id: 166400
+    title: How does natural selection contribute to the foundations of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
+related_article3:
+    id: 166421
+    title: How does the genetic component of behavior influence evolutionary processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+related_article4:
+    id: 166418
+    title: How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article5:
+    id: 166410
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

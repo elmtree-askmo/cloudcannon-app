@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-do-power-imbalances-affect-cultural-safety-in-therapy.md
 url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
 score: -1.0
+related_article1:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article2:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article3:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article4:
+    id: 163027
+    title: How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 ---
 
 &nbsp;

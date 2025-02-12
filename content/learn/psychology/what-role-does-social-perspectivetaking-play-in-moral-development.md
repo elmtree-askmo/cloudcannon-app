@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-social-perspectivetaking-play-in-moral-development.md
 url: /learn/psychology/questions/what-role-does-social-perspectivetaking-play-in-moral-development
 score: -1.0
+related_article1:
+    id: 164130
+    title: How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
+related_article2:
+    id: 164128
+    title: Describe the characteristics of pre-conventional morality.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-characteristics-of-preconventional-morality
+related_article3:
+    id: 164133
+    title: What strategies can schools use to foster moral development through a just community approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-schools-use-to-foster-moral-development-through-a-just-community-approach
+related_article4:
+    id: 164132
+    title: How does moral judgment relate to moral action, particularly at higher stages of development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-moral-judgment-relate-to-moral-action-particularly-at-higher-stages-of-development
+related_article5:
+    id: 164129
+    title: What distinguishes conventional morality from other levels of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-conventional-morality-from-other-levels-of-moral-development
 ---
 
 &nbsp;

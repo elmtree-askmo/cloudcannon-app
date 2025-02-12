@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics.md
 url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
 score: -1.0
+related_article1:
+    id: 166643
+    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article2:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+related_article3:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article4:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+related_article5:
+    id: 166642
+    title: Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
 ---
 
 &nbsp;

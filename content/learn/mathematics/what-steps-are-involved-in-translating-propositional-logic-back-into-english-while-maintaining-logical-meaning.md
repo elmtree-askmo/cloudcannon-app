@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning.md
 url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
 score: -1.0
+related_article1:
+    id: 170189
+    title: Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article2:
+    id: 170196
+    title: What is a bi-conditional, and how is it used to express equivalence in logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
+related_article3:
+    id: 170194
+    title: How does the direction of implication affect the meaning of a logical statement?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
+related_article4:
+    id: 170188
+    title: What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+related_article5:
+    id: 170191
+    title: What is the difference between conjunction and disjunction in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
 ---
 
 &nbsp;

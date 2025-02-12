@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-in-computational-skills-between-genders.md
 url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
 score: -1.0
+related_article1:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article2:
+    id: 168120
+    title: What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article3:
+    id: 168120
+    title: What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article4:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article5:
+    id: 168128
+    title: What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 ---
 
 &nbsp;

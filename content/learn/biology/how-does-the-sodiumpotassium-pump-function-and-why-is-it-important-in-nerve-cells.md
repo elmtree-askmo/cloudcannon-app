@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells.md
 url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
 score: -1.0
+related_article1:
+    id: 168942
+    title: What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
+related_article2:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article3:
+    id: 168931
+    title: How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
+related_article4:
+    id: 168939
+    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article5:
+    id: 168934
+    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
 ---
 
 &nbsp;

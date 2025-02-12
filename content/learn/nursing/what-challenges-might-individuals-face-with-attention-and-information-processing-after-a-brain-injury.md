@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury.md
 url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
 score: -1.0
+related_article1:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article2:
+    id: 164449
+    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article3:
+    id: 164456
+    title: How can cognitive rehabilitation aid in recovery after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
+related_article4:
+    id: 164450
+    title: What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
+related_article5:
+    id: 164453
+    title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 ---
 
 &nbsp;

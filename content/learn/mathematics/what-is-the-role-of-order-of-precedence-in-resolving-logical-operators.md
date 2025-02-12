@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-order-of-precedence-in-resolving-logical-operators.md
 url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 score: -1.0
+related_article1:
+    id: 170244
+    title: Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
+related_article2:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+related_article3:
+    id: 170240
+    title: List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+related_article4:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article5:
+    id: 170240
+    title: List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 ---
 
 &nbsp;

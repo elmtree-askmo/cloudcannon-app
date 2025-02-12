@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures.md
 url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 score: -1.0
+related_article1:
+    id: 162489
+    title: What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article2:
+    id: 162504
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article3:
+    id: 162606
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article4:
+    id: 162599
+    title: Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article5:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
 ---
 
 &nbsp;

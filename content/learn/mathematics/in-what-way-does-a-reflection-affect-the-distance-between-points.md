@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: in-what-way-does-a-reflection-affect-the-distance-between-points.md
 url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
 score: -1.0
+related_article1:
+    id: 162645
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article2:
+    id: 162692
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article3:
+    id: 162403
+    title: What differences in position and orientation occur after a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
+related_article4:
+    id: 162685
+    title: What happens to a point's coordinates when it is reflected across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
+related_article5:
+    id: 162408
+    title: What common misconceptions exist about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-common-misconceptions-exist-about-coordinate-changes-in-reflections
 ---
 
 &nbsp;

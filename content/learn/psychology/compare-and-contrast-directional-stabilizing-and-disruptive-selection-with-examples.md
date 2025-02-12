@@ -21,6 +21,31 @@ subject: Psychology
 file_name: compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples.md
 url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 score: -1.0
+related_article1:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article2:
+    id: 165317
+    title: Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior
+related_article3:
+    id: 165316
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article4:
+    id: 165322
+    title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article5:
+    id: 165329
+    title: Define homology and homoplasy and explain their differences with examples from animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
 ---
 
 &nbsp;

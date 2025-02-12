@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: what-are-the-effects-of-protein-denaturation-on-function.md
 url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
 score: -1.0
+related_article1:
+    id: 167247
+    title: How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+related_article2:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article3:
+    id: 167238
+    title: What is the significance of quaternary structure in proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
+related_article4:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article5:
+    id: 167248
+    title: What are the common structural features of amino acids?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 ---
 
 &nbsp;

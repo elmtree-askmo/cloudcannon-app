@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-average-rate-of-change-calculated-for-a-function.md
 url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
 score: -1.0
+related_article1:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article2:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article3:
+    id: 163733
+    title: Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article4:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article5:
+    id: 163729
+    title: Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 ---
 
 &nbsp;

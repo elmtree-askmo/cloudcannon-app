@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics.md
 url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
 score: -1.0
+related_article1:
+    id: 163784
+    title: Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+related_article2:
+    id: 163782
+    title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article3:
+    id: 163789
+    title: Describe a method for solving real-world problems using exponential models.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
+related_article4:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+related_article5:
+    id: 163784
+    title: Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
 ---
 
 &nbsp;

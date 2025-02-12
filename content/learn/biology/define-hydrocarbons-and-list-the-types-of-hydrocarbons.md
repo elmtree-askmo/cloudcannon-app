@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-hydrocarbons-and-list-the-types-of-hydrocarbons.md
 url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
 score: -1.0
+related_article1:
+    id: 167421
+    title: How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article2:
+    id: 167421
+    title: How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article3:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article4:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article5:
+    id: 167416
+    title: Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
 ---
 
 &nbsp;

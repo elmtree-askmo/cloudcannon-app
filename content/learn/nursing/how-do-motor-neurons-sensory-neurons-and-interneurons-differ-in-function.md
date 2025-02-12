@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function.md
 url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
 score: -1.0
+related_article1:
+    id: 170601
+    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article2:
+    id: 170606
+    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+related_article3:
+    id: 170600
+    title: What is the difference between the absolute and relative refractory periods in action potential propagation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
+related_article4:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article5:
+    id: 170614
+    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form.md
 url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
 score: -1.0
+related_article1:
+    id: 163841
+    title: Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article2:
+    id: 163841
+    title: Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article3:
+    id: 163836
+    title: Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+related_article4:
+    id: 163843
+    title: What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article5:
+    id: 163831
+    title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
 ---
 
 &nbsp;

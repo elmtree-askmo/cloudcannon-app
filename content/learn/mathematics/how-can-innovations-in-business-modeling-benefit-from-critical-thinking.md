@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-innovations-in-business-modeling-benefit-from-critical-thinking.md
 url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
 score: -1.0
+related_article1:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article2:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article3:
+    id: 163733
+    title: Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article4:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article5:
+    id: 163731
+    title: What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 ---
 
 &nbsp;

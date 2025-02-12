@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg.md
 url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 score: -1.0
+related_article1:
+    id: 164223
+    title: What role does social perspective taking play in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-social-perspective-taking-play-in-moral-judgments-according-to-colberg
+related_article2:
+    id: 164224
+    title: What are some criticisms of Colberg's theory regarding the moral reasoning of young children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-of-colbergs-theory-regarding-the-moral-reasoning-of-young-children
+related_article3:
+    id: 164226
+    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
+related_article4:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article5:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
 ---
 
 &nbsp;

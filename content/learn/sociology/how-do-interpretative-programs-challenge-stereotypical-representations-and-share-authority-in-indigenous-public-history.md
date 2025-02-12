@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history.md
 url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
 score: -1.0
+related_article1:
+    id: 169168
+    title: How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
+related_article2:
+    id: 169154
+    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+related_article3:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article4:
+    id: 169159
+    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article5:
+    id: 169153
+    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 ---
 
 &nbsp;

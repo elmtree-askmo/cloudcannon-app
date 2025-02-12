@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-chromosomal-crossover-contribute-to-genetic-diversity.md
 url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
 score: -1.0
+related_article1:
+    id: 167868
+    title: How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
+related_article2:
+    id: 167864
+    title: What is the role of DNA polymerase in DNA replication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
+related_article3:
+    id: 167857
+    title: What are the main differences between mitosis and meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
+related_article4:
+    id: 167868
+    title: How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
+related_article5:
+    id: 167862
+    title: What are the stages of spermatogenesis and their outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-are-force-components-resolved-in-threedimensional-space.md
 url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
 score: -1.0
+related_article1:
+    id: 166682
+    title: How is the spring constant calculated from displacement and force data?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
+related_article2:
+    id: 166675
+    title: What is the magnitude of a force vector and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+related_article3:
+    id: 166680
+    title: How do you apply equilibrium equations to solve for unknown forces?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+related_article4:
+    id: 166689
+    title: How do you solve static problems using equilibrium equations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
+related_article5:
+    id: 166684
+    title: How do you construct a free body diagram for a particle system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
 ---
 
 &nbsp;

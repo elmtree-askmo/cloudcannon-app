@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies.md
 url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
 score: -1.0
+related_article1:
+    id: 166375
+    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article2:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article3:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 166393
+    title: What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article5:
+    id: 166387
+    title: What is heritability, and how is it studied in behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 ---
 
 &nbsp;

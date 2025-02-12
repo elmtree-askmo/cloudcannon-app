@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-components-of-pharmacokinetics.md
 url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 score: -1.0
+related_article1:
+    id: 166501
+    title: What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+related_article2:
+    id: 166506
+    title: What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+related_article3:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article4:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article5:
+    id: 166489
+    title: What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-mechanisms-are-involved-in-protein-folding-pathways.md
 url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 score: -1.0
+related_article1:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article2:
+    id: 166958
+    title: What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
+related_article3:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article4:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article5:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 ---
 
 &nbsp;

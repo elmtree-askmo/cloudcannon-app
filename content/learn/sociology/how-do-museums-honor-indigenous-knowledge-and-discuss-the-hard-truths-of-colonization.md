@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization.md
 url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
 score: -1.0
+related_article1:
+    id: 169164
+    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article2:
+    id: 169163
+    title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article3:
+    id: 169169
+    title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
+related_article4:
+    id: 169157
+    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article5:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 ---
 
 &nbsp;

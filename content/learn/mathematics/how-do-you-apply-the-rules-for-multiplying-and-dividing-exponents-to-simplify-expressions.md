@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions.md
 url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
 score: -1.0
+related_article1:
+    id: 168294
+    title: What is the process for simplifying square roots, cube roots, and higher order roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
+related_article2:
+    id: 168305
+    title: What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article3:
+    id: 168296
+    title: Explain how negative exponents are simplified and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
+related_article4:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article5:
+    id: 168294
+    title: What is the process for simplifying square roots, cube roots, and higher order roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
 ---
 
 &nbsp;

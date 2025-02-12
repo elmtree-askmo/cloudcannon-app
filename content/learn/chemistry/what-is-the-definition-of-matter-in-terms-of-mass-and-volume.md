@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-definition-of-matter-in-terms-of-mass-and-volume.md
 url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 score: -1.0
+related_article1:
+    id: 161907
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article2:
+    id: 161915
+    title: Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
+related_article3:
+    id: 161905
+    title: What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article4:
+    id: 161833
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article5:
+    id: 161708
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 ---
 
 &nbsp;

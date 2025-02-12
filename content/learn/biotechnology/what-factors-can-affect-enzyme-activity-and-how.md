@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-factors-can-affect-enzyme-activity-and-how.md
 url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
 score: -1.0
+related_article1:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article2:
+    id: 166842
+    title: What is the importance of the primary structure in determining a protein's function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
+related_article3:
+    id: 166844
+    title: What interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article4:
+    id: 166836
+    title: What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article5:
+    id: 166841
+    title: Explain the process of peptide bond formation and its significance in protein structure.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
 ---
 
 &nbsp;

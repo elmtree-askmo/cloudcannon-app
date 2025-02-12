@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-significance-of-electron-orbitals-in-covalent-bond-formation.md
 url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 score: -1.0
+related_article1:
+    id: 167461
+    title: How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+related_article2:
+    id: 167464
+    title: What is the role of chemical compounds in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+related_article3:
+    id: 167455
+    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    subject: Biology
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+related_article4:
+    id: 167464
+    title: What is the role of chemical compounds in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+related_article5:
+    id: 167461
+    title: How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
 ---
 
 &nbsp;

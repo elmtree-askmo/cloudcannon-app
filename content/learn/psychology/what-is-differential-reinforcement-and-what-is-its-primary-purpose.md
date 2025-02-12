@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-differential-reinforcement-and-what-is-its-primary-purpose.md
 url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
 score: -1.0
+related_article1:
+    id: 169318
+    title: Why is measuring the duration of behavior relevant to behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+related_article2:
+    id: 169323
+    title: What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article3:
+    id: 169324
+    title: What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+related_article4:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article5:
+    id: 169317
+    title: How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 ---
 
 &nbsp;

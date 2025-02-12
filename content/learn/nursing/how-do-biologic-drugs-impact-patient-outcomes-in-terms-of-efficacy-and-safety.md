@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety.md
 url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
 score: -1.0
+related_article1:
+    id: 166479
+    title: What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article2:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article3:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article4:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article5:
+    id: 166485
+    title: How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
 ---
 
 &nbsp;

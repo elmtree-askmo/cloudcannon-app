@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-should-student-nurses-apply-the-nmc-code-in-their-practice.md
 url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
 score: -1.0
+related_article1:
+    id: 169562
+    title: How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article2:
+    id: 169563
+    title: What is the role of supervisors in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+related_article3:
+    id: 169578
+    title: How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+related_article4:
+    id: 169577
+    title: Why is effective communication important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+related_article5:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 ---
 
 &nbsp;

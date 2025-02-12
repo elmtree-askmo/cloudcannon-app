@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication.md
 url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
 score: -1.0
+related_article1:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article2:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article3:
+    id: 169481
+    title: Why is informed consent important in healthcare, and what are the procedures for obtaining it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
+related_article4:
+    id: 169488
+    title: How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
 ---
 
 &nbsp;

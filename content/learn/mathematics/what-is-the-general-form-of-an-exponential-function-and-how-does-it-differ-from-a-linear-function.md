@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function.md
 url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
 score: -1.0
+related_article1:
+    id: 163784
+    title: Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+related_article2:
+    id: 163778
+    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
+related_article3:
+    id: 163766
+    title: What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article4:
+    id: 163787
+    title: What are the key differences between the equations of linear and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article5:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
 ---
 
 &nbsp;

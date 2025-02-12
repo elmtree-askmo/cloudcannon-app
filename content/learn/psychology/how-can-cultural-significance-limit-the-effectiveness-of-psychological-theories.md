@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories.md
 url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
 score: -1.0
+related_article1:
+    id: 163028
+    title: What characteristics make a theory effective in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
+related_article2:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article3:
+    id: 163032
+    title: Why is multicultural competence important in counseling?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
+related_article4:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article5:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
 ---
 
 &nbsp;

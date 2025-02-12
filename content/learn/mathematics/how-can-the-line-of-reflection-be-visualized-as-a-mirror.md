@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-the-line-of-reflection-be-visualized-as-a-mirror.md
 url: /learn/mathematics/questions/how-can-the-line-of-reflection-be-visualized-as-a-mirror
 score: -1.0
+related_article1:
+    id: 162398
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162695
+    title: What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article3:
+    id: 162824
+    title: What role do reflections play in symmetry analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
+related_article4:
+    id: 162800
+    title: What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+related_article5:
+    id: 162800
+    title: What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
 ---
 
 &nbsp;

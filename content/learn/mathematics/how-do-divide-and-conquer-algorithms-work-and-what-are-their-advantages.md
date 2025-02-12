@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages.md
 url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 score: -1.0
+related_article1:
+    id: 170708
+    title: How does the inductive step in regular induction help in proving statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article2:
+    id: 170710
+    title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
+related_article3:
+    id: 170712
+    title: How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
+related_article4:
+    id: 170715
+    title: What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+related_article5:
+    id: 170720
+    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
 ---
 
 &nbsp;

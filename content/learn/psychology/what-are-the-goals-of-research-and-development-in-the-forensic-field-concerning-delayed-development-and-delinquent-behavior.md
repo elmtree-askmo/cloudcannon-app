@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior.md
 url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
 score: -1.0
+related_article1:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article2:
+    id: 164050
+    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
+related_article3:
+    id: 164048
+    title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
+related_article4:
+    id: 164043
+    title: What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article5:
+    id: 164049
+    title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 ---
 
 &nbsp;

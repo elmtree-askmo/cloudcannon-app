@@ -21,6 +21,31 @@ subject: Psychology
 file_name: under-what-conditions-can-expert-intuition-be-considered-trustworthy.md
 url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 score: -1.0
+related_article1:
+    id: 168895
+    title: Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+related_article2:
+    id: 168888
+    title: What is the disposition effect and how does it affect investment decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+related_article3:
+    id: 168895
+    title: Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+related_article4:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article5:
+    id: 168894
+    title: What is the availability heuristic and how does it affect decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity.md
 url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
 score: -1.0
+related_article1:
+    id: 169210
+    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
+related_article2:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article3:
+    id: 169202
+    title: What are the historical origins and development of the concept of urbicide?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
+related_article4:
+    id: 169202
+    title: What are the historical origins and development of the concept of urbicide?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
+related_article5:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 ---
 
 &nbsp;

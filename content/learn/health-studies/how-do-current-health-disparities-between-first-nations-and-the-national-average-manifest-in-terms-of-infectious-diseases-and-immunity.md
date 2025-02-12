@@ -7,7 +7,7 @@ article_title: How do current health disparities between First Nations and the n
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Health studies
+  title: QuickTakes | Health Studies
   page_description: >-
     The health disparities between First Nations and the national average in Canada highlight significant issues related to infectious diseases and immunity, driven by socio-economic factors, healthcare access, cultural identity erosion, and historical inequities.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
 answer: >-
     Current health disparities between First Nations and the national average in Canada manifest significantly in terms of infectious diseases and immunity. Historically, First Nations populations have faced devastating outbreaks of infectious diseases such as influenza, measles, and smallpox, which were introduced by European contact. These diseases had catastrophic effects because First Nations people had no prior exposure or immunity to them, leading to high mortality rates and long-term health consequences.\n\nThe ongoing health disparities can be attributed to several interrelated factors:\n\n1. **Socio-Economic Disadvantages**: First Nations communities often experience higher levels of poverty, unemployment, and lower median incomes compared to non-Indigenous populations. These socio-economic factors contribute to inadequate living conditions, limited access to healthcare, and reduced ability to maintain health-promoting behaviors, which can exacerbate the spread and impact of infectious diseases.\n\n2. **Access to Healthcare Services**: Many First Nations communities are located in remote areas, which limits access to healthcare services. This lack of access can delay diagnosis and treatment of infectious diseases, leading to worse health outcomes. Furthermore, the healthcare services that are available may not be culturally appropriate or adequately equipped to address the specific health needs of First Nations populations.\n\n3. **Cultural Identity and Traditional Knowledge**: The historical policies of colonization have systematically undermined the cultural identity and traditional knowledge systems of First Nations peoples. This disconnection from cultural practices and traditional healing methods can impact community resilience and the ability to respond effectively to health challenges, including infectious diseases.\n\n4. **Health Inequities**: The systematic and avoidable differences in health status, known as health inequities, are deeply rooted in the historical context of colonization and ongoing discrimination. These inequities manifest in higher rates of infectious diseases among First Nations populations compared to the national average, as well as poorer overall health outcomes.\n\n5. **Holistic Health Model**: The Four Worlds Institute emphasizes a holistic health model that integrates spiritual, emotional, physical, and mental health. This model recognizes the interconnectedness of health determinants and the importance of community-driven health initiatives. However, the lack of integration of these holistic approaches into mainstream public health services can lead to inadequate responses to infectious disease outbreaks.\n\nIn summary, the health disparities between First Nations and the national average in terms of infectious diseases and immunity are a complex interplay of historical injustices, socio-economic factors, limited access to healthcare, and the erosion of cultural identity. Addressing these disparities requires a comprehensive approach that includes improving access to culturally appropriate healthcare, enhancing socio-economic conditions, and integrating traditional knowledge and practices into health services.
-subject: Health studies
+subject: Health Studies
 file_name: how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity.md
 url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
 score: -1.0
+related_article1:
+    id: 163380
+    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+related_article2:
+    id: 163383
+    title: How does the transition from a traditional land-based economy to a wage-based economy affect economic sustainability for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-transition-from-a-traditional-landbased-economy-to-a-wagebased-economy-affect-economic-sustainability-for-first-nations
+related_article3:
+    id: 163377
+    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
+related_article4:
+    id: 163378
+    title: How have economic shifts contributed to socio-economic disadvantages for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-for-first-nations
+related_article5:
+    id: 163380
+    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
 ---
 
 &nbsp;

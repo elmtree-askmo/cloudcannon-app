@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports.md
 url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
 score: -1.0
+related_article1:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article2:
+    id: 167197
+    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article3:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article4:
+    id: 167185
+    title: What distinguishes active transport from passive transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
+related_article5:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 ---
 
 &nbsp;

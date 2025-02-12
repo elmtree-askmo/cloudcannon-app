@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework.md
 url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 score: -1.0
+related_article1:
+    id: 162994
+    title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article2:
+    id: 162994
+    title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article3:
+    id: 163006
+    title: How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
+related_article4:
+    id: 163009
+    title: What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
+related_article5:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
 ---
 
 &nbsp;

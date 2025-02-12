@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease.md
 url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
 score: -1.0
+related_article1:
+    id: 164407
+    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article2:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
+related_article3:
+    id: 164406
+    title: What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+related_article4:
+    id: 164413
+    title: What role does the parietal lobe play in spatial awareness and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
+related_article5:
+    id: 164408
+    title: What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications.md
 url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
+related_article1:
+    id: 163848
+    title: How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article2:
+    id: 163844
+    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+related_article3:
+    id: 163838
+    title: What are the key differences in the domain and range of exponential and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
+related_article4:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article5:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 ---
 
 &nbsp;

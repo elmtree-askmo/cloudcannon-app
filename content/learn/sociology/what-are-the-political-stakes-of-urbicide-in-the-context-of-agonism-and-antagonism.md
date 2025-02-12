@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism.md
 url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 score: -1.0
+related_article1:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article2:
+    id: 169214
+    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article3:
+    id: 169215
+    title: How does global urbanisation pose future challenges in the context of security and conflict studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article4:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+related_article5:
+    id: 169211
+    title: What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
 ---
 
 &nbsp;

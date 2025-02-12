@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-does-rigid-motion-mean-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162388
+    title: How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+related_article2:
+    id: 162629
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article3:
+    id: 162411
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162524
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article5:
+    id: 162752
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

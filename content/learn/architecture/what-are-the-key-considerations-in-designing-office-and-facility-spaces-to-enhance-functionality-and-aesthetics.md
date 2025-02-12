@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics.md
 url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
 score: -1.0
+related_article1:
+    id: 169404
+    title: How can the integration of interior and exterior spaces create depth and layers in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
+related_article2:
+    id: 169403
+    title: What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
+related_article3:
+    id: 169403
+    title: What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
+related_article4:
+    id: 169407
+    title: What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article5:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 ---
 
 &nbsp;

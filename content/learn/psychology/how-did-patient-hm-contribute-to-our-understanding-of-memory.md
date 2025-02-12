@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-did-patient-hm-contribute-to-our-understanding-of-memory.md
 url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 score: -1.0
+related_article1:
+    id: 164494
+    title: How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article2:
+    id: 164480
+    title: What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article3:
+    id: 164483
+    title: How does skill acquisition relate to implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
+related_article4:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article5:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
 ---
 
 &nbsp;

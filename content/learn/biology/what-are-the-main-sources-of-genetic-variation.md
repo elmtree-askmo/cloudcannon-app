@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-sources-of-genetic-variation.md
 url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
 score: -1.0
+related_article1:
+    id: 167809
+    title: Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article2:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article3:
+    id: 167820
+    title: What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article4:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+related_article5:
+    id: 167815
+    title: How does DNA replication ensure genetic consistency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 ---
 
 &nbsp;

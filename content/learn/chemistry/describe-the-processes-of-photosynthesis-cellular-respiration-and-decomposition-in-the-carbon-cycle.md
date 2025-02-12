@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle.md
 url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170396
+    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article2:
+    id: 170398
+    title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
+related_article3:
+    id: 170406
+    title: What is the significance of the carbon cycle as a biogeochemical cycle, and how does it interact with other cycles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-carbon-cycle-as-a-biogeochemical-cycle-and-how-does-it-interact-with-other-cycles
+related_article4:
+    id: 170415
+    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article5:
+    id: 170410
+    title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
 ---
 
 &nbsp;

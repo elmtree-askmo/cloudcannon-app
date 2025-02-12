@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-genetic-variation-important-for-evolution.md
 url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 score: -1.0
+related_article1:
+    id: 165314
+    title: What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article2:
+    id: 165305
+    title: What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article3:
+    id: 165315
+    title: How does individual variation in hunting strategies affect fitness and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+related_article4:
+    id: 165294
+    title: Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article5:
+    id: 165295
+    title: List and explain Darwin’s four postulates of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-recording-techniques-applied-in-data-collection-and-analysis.md
 url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 score: -1.0
+related_article1:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article2:
+    id: 164316
+    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
+related_article3:
+    id: 164328
+    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
+related_article4:
+    id: 164323
+    title: What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article5:
+    id: 164317
+    title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
 ---
 
 &nbsp;

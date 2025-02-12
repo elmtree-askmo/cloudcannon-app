@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: how-does-adhesion-in-water-facilitate-interaction-with-surfaces.md
 url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
 score: -1.0
+related_article1:
+    id: 167134
+    title: Explain the significance of positive and negative charges in water molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+related_article2:
+    id: 167129
+    title: What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article3:
+    id: 167138
+    title: Describe the process by which water dissolves sodium and chloride ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-by-which-water-dissolves-sodium-and-chloride-ions
+related_article4:
+    id: 167131
+    title: What are the three states of matter in which water can exist?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water.md
 url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
 score: -1.0
+related_article1:
+    id: 167132
+    title: How does the density of water differ between its liquid and solid states?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
+related_article2:
+    id: 167136
+    title: How does adhesion in water facilitate interaction with surfaces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
+related_article3:
+    id: 167138
+    title: Describe the process by which water dissolves sodium and chloride ions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-by-which-water-dissolves-sodium-and-chloride-ions
+related_article4:
+    id: 167131
+    title: What are the three states of matter in which water can exist?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
+related_article5:
+    id: 167137
+    title: Why is water considered a universal solvent and how does it interact with different molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-how-does-it-interact-with-different-molecules
 ---
 
 &nbsp;

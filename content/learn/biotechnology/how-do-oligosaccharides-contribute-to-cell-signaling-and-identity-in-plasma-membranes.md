@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes.md
 url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
 score: -1.0
+related_article1:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article2:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article4:
+    id: 167498
+    title: What are the key differences between alpha and beta glycosidic bonds?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 ---
 
 &nbsp;

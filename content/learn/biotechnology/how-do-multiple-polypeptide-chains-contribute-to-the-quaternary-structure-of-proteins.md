@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins.md
 url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166963
+    title: What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article2:
+    id: 166958
+    title: What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
+related_article3:
+    id: 166951
+    title: How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article4:
+    id: 166958
+    title: What determines the primary structure of a protein?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
+related_article5:
+    id: 166963
+    title: What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
 ---
 
 &nbsp;

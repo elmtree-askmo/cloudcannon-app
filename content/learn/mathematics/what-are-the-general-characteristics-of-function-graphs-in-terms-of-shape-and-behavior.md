@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior.md
 url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
 score: -1.0
+related_article1:
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article2:
+    id: 163794
+    title: What are the graphical implications of inverse operations on functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-implications-of-inverse-operations-on-functions
+related_article3:
+    id: 163796
+    title: How do vertical and horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
+related_article4:
+    id: 163798
+    title: What is the domain of a square root function, and how is it determined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
+related_article5:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
 ---
 
 &nbsp;

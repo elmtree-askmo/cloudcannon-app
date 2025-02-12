@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-financial-integration-affect-the-nontradable-sector-in-terms-of-domestic-capital-allocation.md
 url: /learn/economics/questions/how-does-financial-integration-affect-the-nontradable-sector-in-terms-of-domestic-capital-allocation
 score: -1.0
+related_article1:
+    id: 159658
+    title: What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration
+related_article2:
+    id: 159658
+    title: What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration
+related_article3:
+    id: 159659
+    title: How do exchange rate regime challenges pose risks to macroeconomic stability in the context of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/how-do-exchange-rate-regime-challenges-pose-risks-to-macroeconomic-stability-in-the-context-of-financial-integration
+related_article4:
+    id: 159656
+    title: What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
+related_article5:
+    id: 159653
+    title: What are the advanced banking techniques introduced by financial integration that enhance banking system efficiency?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-advanced-banking-techniques-introduced-by-financial-integration-that-enhance-banking-system-efficiency
 ---
 
 &nbsp;

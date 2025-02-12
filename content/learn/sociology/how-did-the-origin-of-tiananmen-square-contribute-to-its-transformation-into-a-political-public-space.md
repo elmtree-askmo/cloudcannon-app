@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space.md
 url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
 score: -1.0
+related_article1:
+    id: 169055
+    title: What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article2:
+    id: 169040
+    title: How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article3:
+    id: 169043
+    title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
+related_article4:
+    id: 169055
+    title: What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article5:
+    id: 169045
+    title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 ---
 
 &nbsp;

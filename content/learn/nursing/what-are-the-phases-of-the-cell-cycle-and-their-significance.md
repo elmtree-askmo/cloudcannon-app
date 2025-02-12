@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-phases-of-the-cell-cycle-and-their-significance.md
 url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
 score: -1.0
+related_article1:
+    id: 167858
+    title: How does meiosis contribute to genetic variation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+related_article2:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article3:
+    id: 167864
+    title: What is the role of DNA polymerase in DNA replication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
+related_article4:
+    id: 167865
+    title: Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article5:
+    id: 167868
+    title: How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
 ---
 
 &nbsp;

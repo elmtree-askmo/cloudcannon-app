@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-gender-differences-observed-in-mental-rotation-tasks.md
 url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 score: -1.0
+related_article1:
+    id: 168132
+    title: How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article2:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article3:
+    id: 168112
+    title: How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article4:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article5:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
 ---
 
 &nbsp;

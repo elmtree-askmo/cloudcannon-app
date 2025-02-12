@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics.md
 url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
 score: -1.0
+related_article1:
+    id: 169909
+    title: What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article2:
+    id: 169912
+    title: How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article3:
+    id: 169904
+    title: How do multinational companies influence globalization and global markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
+related_article4:
+    id: 169915
+    title: What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+related_article5:
+    id: 169914
+    title: How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
 ---
 
 &nbsp;

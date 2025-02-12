@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval.md
 url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
 score: -1.0
+related_article1:
+    id: 163709
+    title: How do positive and negative rates of change affect the behavior of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
+related_article2:
+    id: 163701
+    title: What are the characteristics of a quadratic function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-a-quadratic-functions-graph
+related_article3:
+    id: 163710
+    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+related_article4:
+    id: 163702
+    title: How can exponential functions be used in real-world modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
 ---
 
 &nbsp;

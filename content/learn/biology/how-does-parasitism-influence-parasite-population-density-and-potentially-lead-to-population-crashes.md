@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes.md
 url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
 score: -1.0
+related_article1:
+    id: 166126
+    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+related_article2:
+    id: 166129
+    title: What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+related_article3:
+    id: 166129
+    title: What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+related_article4:
+    id: 166131
+    title: What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article5:
+    id: 166133
+    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

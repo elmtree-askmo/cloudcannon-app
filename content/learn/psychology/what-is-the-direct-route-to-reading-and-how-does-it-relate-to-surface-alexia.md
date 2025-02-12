@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia.md
 url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
 score: -1.0
+related_article1:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article2:
+    id: 164958
+    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article3:
+    id: 164978
+    title: What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-deep-dyslexia-and-how-does-it-differ-from-phonological-dyslexia
+related_article4:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 ---
 
 &nbsp;

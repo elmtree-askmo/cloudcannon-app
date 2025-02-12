@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-misinformation-and-suggestibility-affect-memory-recall.md
 url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
 score: -1.0
+related_article1:
+    id: 168020
+    title: What conditions are necessary for accurate memory recall in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
+related_article2:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article3:
+    id: 168013
+    title: How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
+related_article4:
+    id: 168030
+    title: What are the developmental differences that affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+related_article5:
+    id: 168017
+    title: What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 ---
 
 &nbsp;

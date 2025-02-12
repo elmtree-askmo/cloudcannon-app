@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-doreen-masseys-theoretical-contributions-to-the-understanding-of-timespace-compression-and-place-dynamics.md
 url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-the-understanding-of-timespace-compression-and-place-dynamics
 score: -1.0
+related_article1:
+    id: 160224
+    title: What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+related_article2:
+    id: 160550
+    title: What are the key components of urbanization that drive city development and infrastructure changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
+related_article3:
+    id: 160560
+    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article4:
+    id: 160233
+    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+related_article5:
+    id: 160644
+    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
 ---
 
 &nbsp;

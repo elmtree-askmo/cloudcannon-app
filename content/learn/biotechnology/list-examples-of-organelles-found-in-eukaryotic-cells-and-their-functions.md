@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions.md
 url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
 score: -1.0
+related_article1:
+    id: 166181
+    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+related_article2:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article3:
+    id: 166174
+    title: What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
+related_article4:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 ---
 
 &nbsp;

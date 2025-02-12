@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems.md
 url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 score: -1.0
+related_article1:
+    id: 170503
+    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+related_article2:
+    id: 170517
+    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article3:
+    id: 170512
+    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article4:
+    id: 170511
+    title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
+related_article5:
+    id: 170511
+    title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
 ---
 
 &nbsp;

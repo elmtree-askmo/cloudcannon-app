@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: list-the-nitrogenous-bases-found-in-dna-and-rna.md
 url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article2:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article3:
+    id: 167641
+    title: How does the primary structure of DNA differ from that of RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article4:
+    id: 167636
+    title: What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article5:
+    id: 167636
+    title: What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-similarities-exist-between-original-and-reflected-figures.md
 url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 score: -1.0
+related_article1:
+    id: 162896
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article2:
+    id: 162904
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article3:
+    id: 162645
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162641
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article5:
+    id: 162642
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 ---
 
 &nbsp;

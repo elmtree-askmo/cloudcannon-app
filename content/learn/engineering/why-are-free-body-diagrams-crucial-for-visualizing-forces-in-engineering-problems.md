@@ -21,6 +21,31 @@ subject: Engineering
 file_name: why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems.md
 url: /learn/engineering/questions/why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems
 score: -1.0
+related_article1:
+    id: 166654
+    title: What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article2:
+    id: 166668
+    title: How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article3:
+    id: 166653
+    title: What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article4:
+    id: 166668
+    title: How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article5:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
 ---
 
 &nbsp;

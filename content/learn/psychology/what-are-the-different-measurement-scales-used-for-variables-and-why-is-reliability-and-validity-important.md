@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important.md
 url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 score: -1.0
+related_article1:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article2:
+    id: 165089
+    title: How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article3:
+    id: 165076
+    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
+related_article4:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article5:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
 ---
 
 &nbsp;

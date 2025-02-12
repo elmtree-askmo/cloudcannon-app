@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders.md
 url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
 score: -1.0
+related_article1:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article2:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article3:
+    id: 166505
+    title: How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+related_article4:
+    id: 166507
+    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article5:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 ---
 
 &nbsp;

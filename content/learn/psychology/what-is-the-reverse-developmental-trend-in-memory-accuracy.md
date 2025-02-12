@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-reverse-developmental-trend-in-memory-accuracy.md
 url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
 score: -1.0
+related_article1:
+    id: 168011
+    title: How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article2:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article3:
+    id: 168011
+    title: How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
+related_article4:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article5:
+    id: 168017
+    title: What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 ---
 
 &nbsp;

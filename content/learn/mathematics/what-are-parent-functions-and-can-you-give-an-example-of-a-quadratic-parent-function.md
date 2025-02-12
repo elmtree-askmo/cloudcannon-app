@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function.md
 url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 score: -1.0
+related_article1:
+    id: 168402
+    title: How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article2:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article3:
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+related_article4:
+    id: 168398
+    title: How does a reflection over the x-axis affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
+related_article5:
+    id: 168410
+    title: What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
 ---
 
 &nbsp;

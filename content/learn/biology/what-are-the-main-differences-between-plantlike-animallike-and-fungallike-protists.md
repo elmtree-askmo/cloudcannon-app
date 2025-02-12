@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists.md
 url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
 score: -1.0
+related_article1:
+    id: 168691
+    title: Describe the role of plasmodial slime molds in the ecosystem.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
+related_article2:
+    id: 168692
+    title: What is the basic structure of fungi, and how do hyphae contribute to their growth?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-basic-structure-of-fungi-and-how-do-hyphae-contribute-to-their-growth
+related_article3:
+    id: 168691
+    title: Describe the role of plasmodial slime molds in the ecosystem.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
+related_article4:
+    id: 168689
+    title: How do dinoflagellates contribute to marine ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
+related_article5:
+    id: 168682
+    title: In what types of environments are Archaea typically found?
+    subject: Biology
+    url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
 ---
 
 &nbsp;

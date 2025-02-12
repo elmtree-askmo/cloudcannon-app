@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities.md
 url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
 score: -1.0
+related_article1:
+    id: 162945
+    title: Explain the concept of urban density and its significance in the context of dangerous density.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
+related_article2:
+    id: 162945
+    title: Explain the concept of urban density and its significance in the context of dangerous density.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
+related_article3:
+    id: 162948
+    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article4:
+    id: 162937
+    title: How do non-state actors influence post-national networks in urban settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
+related_article5:
+    id: 162948
+    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
 ---
 
 &nbsp;

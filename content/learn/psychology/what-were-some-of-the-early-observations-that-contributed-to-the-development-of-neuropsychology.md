@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology.md
 url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
 score: -1.0
+related_article1:
+    id: 164663
+    title: What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
+related_article2:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article3:
+    id: 164667
+    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article4:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article5:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

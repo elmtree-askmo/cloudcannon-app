@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing.md
 url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
 score: -1.0
+related_article1:
+    id: 164580
+    title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article2:
+    id: 164578
+    title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article3:
+    id: 164582
+    title: How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
+related_article4:
+    id: 164580
+    title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article5:
+    id: 164582
+    title: How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
 ---
 
 &nbsp;

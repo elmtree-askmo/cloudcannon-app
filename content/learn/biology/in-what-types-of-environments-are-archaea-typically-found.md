@@ -21,6 +21,31 @@ subject: Biology
 file_name: in-what-types-of-environments-are-archaea-typically-found.md
 url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
 score: -1.0
+related_article1:
+    id: 168686
+    title: What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
+related_article2:
+    id: 168694
+    title: What are the defining characteristics of Phylum Zygomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
+related_article3:
+    id: 168690
+    title: What is the function of pseudopodia in protozoans?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+related_article4:
+    id: 168685
+    title: How do heterotrophic bacteria obtain their nutrients?
+    subject: Biology
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
+related_article5:
+    id: 168692
+    title: What is the basic structure of fungi, and how do hyphae contribute to their growth?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-basic-structure-of-fungi-and-how-do-hyphae-contribute-to-their-growth
 ---
 
 &nbsp;

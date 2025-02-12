@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-have-modern-interpretations-criticized-freuds-developmental-stages.md
 url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
 score: -1.0
+related_article1:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article2:
+    id: 170009
+    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article3:
+    id: 170023
+    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article4:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article5:
+    id: 170031
+    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century.md
 url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
 score: -1.0
+related_article1:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article2:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article3:
+    id: 170944
+    title: What are the main differences between bright field microscopy and phase contrast microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-bright-field-microscopy-and-phase-contrast-microscopy
+related_article4:
+    id: 170940
+    title: What are the key structural differences between bacterial and eukaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
+related_article5:
+    id: 170941
+    title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
 ---
 
 &nbsp;

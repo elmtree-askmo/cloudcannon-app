@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division.md
 url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
 score: -1.0
+related_article1:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article2:
+    id: 169361
+    title: How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+related_article3:
+    id: 169367
+    title: How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article4:
+    id: 169371
+    title: What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility
+related_article5:
+    id: 169367
+    title: How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
 ---
 
 &nbsp;

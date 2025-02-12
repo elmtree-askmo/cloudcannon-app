@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-a-precipitation-reaction-and-how-can-it-be-identified.md
 url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 score: -1.0
+related_article1:
+    id: 161763
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article2:
+    id: 162061
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article3:
+    id: 162038
+    title: What is the role of chemical change indicators in identifying precipitation reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
+related_article4:
+    id: 162015
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article5:
+    id: 161755
+    title: How does the reactivity of hydrogen compare to that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 ---
 
 &nbsp;

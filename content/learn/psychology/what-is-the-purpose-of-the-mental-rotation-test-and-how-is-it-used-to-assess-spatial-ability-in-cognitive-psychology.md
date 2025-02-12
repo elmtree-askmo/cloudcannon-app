@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 165192
+    title: What ethical considerations must be addressed when designing experimental studies on birth order?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
+related_article2:
+    id: 165197
+    title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
+related_article3:
+    id: 165192
+    title: What ethical considerations must be addressed when designing experimental studies on birth order?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
+related_article4:
+    id: 165205
+    title: Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
+related_article5:
+    id: 165190
+    title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing.md
 url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 score: -1.0
+related_article1:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article2:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article3:
+    id: 164051
+    title: What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
+related_article4:
+    id: 164049
+    title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
+related_article5:
+    id: 164052
+    title: How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 ---
 
 &nbsp;

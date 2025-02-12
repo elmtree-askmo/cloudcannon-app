@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs.md
 url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
 score: -1.0
+related_article1:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article2:
+    id: 169345
+    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+related_article3:
+    id: 169348
+    title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article4:
+    id: 169334
+    title: Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
+related_article5:
+    id: 169345
+    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
 ---
 
 &nbsp;

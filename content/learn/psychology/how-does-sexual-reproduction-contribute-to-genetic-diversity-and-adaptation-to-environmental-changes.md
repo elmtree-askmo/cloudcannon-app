@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes.md
 url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
 score: -1.0
+related_article1:
+    id: 171001
+    title: What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article2:
+    id: 170995
+    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article3:
+    id: 171009
+    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+related_article4:
+    id: 171012
+    title: How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article5:
+    id: 170997
+    title: What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 ---
 
 &nbsp;

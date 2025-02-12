@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment.md
 url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
 score: -1.0
+related_article1:
+    id: 164430
+    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+related_article2:
+    id: 164419
+    title: How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+related_article3:
+    id: 164429
+    title: What are the effects of socioeconomic status on brain development and social equality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
+related_article4:
+    id: 164430
+    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+related_article5:
+    id: 164428
+    title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
 ---
 
 &nbsp;

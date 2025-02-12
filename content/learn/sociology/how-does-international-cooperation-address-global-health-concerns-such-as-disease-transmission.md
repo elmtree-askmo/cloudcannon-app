@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission.md
 url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
 score: -1.0
+related_article1:
+    id: 165996
+    title: How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article2:
+    id: 165986
+    title: What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article3:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article4:
+    id: 165990
+    title: What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+related_article5:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 ---
 
 &nbsp;

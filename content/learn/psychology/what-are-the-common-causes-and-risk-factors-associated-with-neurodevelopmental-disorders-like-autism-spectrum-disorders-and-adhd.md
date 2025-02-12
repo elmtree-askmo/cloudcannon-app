@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd.md
 url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 score: -1.0
+related_article1:
+    id: 164575
+    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+related_article2:
+    id: 164571
+    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article3:
+    id: 164569
+    title: How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+related_article4:
+    id: 164581
+    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article5:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
 ---
 
 &nbsp;

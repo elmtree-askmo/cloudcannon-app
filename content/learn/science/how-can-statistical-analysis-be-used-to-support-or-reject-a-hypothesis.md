@@ -21,6 +21,31 @@ subject: Science
 file_name: how-can-statistical-analysis-be-used-to-support-or-reject-a-hypothesis.md
 url: /learn/science/questions/how-can-statistical-analysis-be-used-to-support-or-reject-a-hypothesis
 score: -1.0
+related_article1:
+    id: 163351
+    title: Why is it important to keep constants in an experiment?
+    subject: Science
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
+related_article2:
+    id: 163351
+    title: Why is it important to keep constants in an experiment?
+    subject: Science
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
+related_article3:
+    id: 163347
+    title: What are the key steps involved in the scientific method process?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-steps-involved-in-the-scientific-method-process
+related_article4:
+    id: 163351
+    title: Why is it important to keep constants in an experiment?
+    subject: Science
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
+related_article5:
+    id: 163355
+    title: Why is the peer review process crucial in scientific communication?
+    subject: Science
+    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
 ---
 
 &nbsp;

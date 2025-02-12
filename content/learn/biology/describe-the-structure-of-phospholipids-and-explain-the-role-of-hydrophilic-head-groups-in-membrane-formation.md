@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation.md
 url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
 score: -1.0
+related_article1:
+    id: 167541
+    title: How do hydrophobic tails of phospholipids impact membrane properties?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties
+related_article2:
+    id: 167539
+    title: What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+related_article3:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article4:
+    id: 167546
+    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
+related_article5:
+    id: 167554
+    title: Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
 ---
 
 &nbsp;

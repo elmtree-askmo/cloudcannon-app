@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-procedural-memory-differ-from-declarative-memory.md
 url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
 score: -1.0
+related_article1:
+    id: 164724
+    title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
+related_article2:
+    id: 164721
+    title: How do anterograde and retrograde amnesia differ in terms of memory loss?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
+related_article3:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article4:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164724
+    title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
 ---
 
 &nbsp;

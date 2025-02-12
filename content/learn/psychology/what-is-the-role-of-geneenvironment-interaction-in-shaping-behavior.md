@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior.md
 url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
 score: -1.0
+related_article1:
+    id: 170921
+    title: How do genetic relationships impact gene flow and genetic drift in populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
+related_article2:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article3:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article4:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article5:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
 ---
 
 &nbsp;

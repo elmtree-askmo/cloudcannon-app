@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones.md
 url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
 score: -1.0
+related_article1:
+    id: 170709
+    title: What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article2:
+    id: 170707
+    title: What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+related_article3:
+    id: 170720
+    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+related_article4:
+    id: 170707
+    title: What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+related_article5:
+    id: 170712
+    title: How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
 ---
 
 &nbsp;

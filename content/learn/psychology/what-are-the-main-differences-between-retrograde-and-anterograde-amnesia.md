@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-differences-between-retrograde-and-anterograde-amnesia.md
 url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 score: -1.0
+related_article1:
+    id: 164486
+    title: What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article2:
+    id: 164486
+    title: What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article3:
+    id: 164489
+    title: How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
+related_article4:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article5:
+    id: 164488
+    title: What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 ---
 
 &nbsp;

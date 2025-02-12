@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board.md
 url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
 score: -1.0
+related_article1:
+    id: 159666
+    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    subject: Economics
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
+related_article2:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article3:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article4:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article5:
+    id: 159676
+    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
 ---
 
 &nbsp;

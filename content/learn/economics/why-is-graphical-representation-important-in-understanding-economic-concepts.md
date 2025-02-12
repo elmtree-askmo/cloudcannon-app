@@ -21,6 +21,31 @@ subject: Economics
 file_name: why-is-graphical-representation-important-in-understanding-economic-concepts.md
 url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
 score: -1.0
+related_article1:
+    id: 170852
+    title: How can the benefit curve be interpreted to make economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+related_article2:
+    id: 170864
+    title: Define optimal quality determination and its importance in economic decision making.
+    subject: Economics
+    url: /learn/economics/questions/define-optimal-quality-determination-and-its-importance-in-economic-decision-making
+related_article3:
+    id: 170851
+    title: Define the benefit curve and explain the factors that influence its shape.
+    subject: Economics
+    url: /learn/economics/questions/define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape
+related_article4:
+    id: 170852
+    title: How can the benefit curve be interpreted to make economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+related_article5:
+    id: 170852
+    title: How can the benefit curve be interpreted to make economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Sociology
 file_name: discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place.md
 url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 score: -1.0
+related_article1:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article2:
+    id: 159831
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article3:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article4:
+    id: 159824
+    title: Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
 ---
 
 &nbsp;

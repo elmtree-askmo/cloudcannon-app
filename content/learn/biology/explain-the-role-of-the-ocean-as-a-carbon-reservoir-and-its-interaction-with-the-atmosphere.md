@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere.md
 url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
 score: -1.0
+related_article1:
+    id: 170423
+    title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article2:
+    id: 170426
+    title: How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
+related_article3:
+    id: 170436
+    title: Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article4:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article5:
+    id: 170439
+    title: Explain the unique properties of carbon that make it vital for biological processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
 ---
 
 &nbsp;

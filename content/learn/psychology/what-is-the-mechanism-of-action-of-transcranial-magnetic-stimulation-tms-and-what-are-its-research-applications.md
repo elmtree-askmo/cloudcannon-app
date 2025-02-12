@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications.md
 url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 score: -1.0
+related_article1:
+    id: 164322
+    title: How do attention disorders impact academic performance and social interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
+related_article2:
+    id: 164321
+    title: What are the common symptoms of attention disorders, and how are they diagnosed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
+related_article3:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article4:
+    id: 164325
+    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article5:
+    id: 164328
+    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
 ---
 
 &nbsp;

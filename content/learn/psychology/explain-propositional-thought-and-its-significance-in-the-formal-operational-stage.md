@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-propositional-thought-and-its-significance-in-the-formal-operational-stage.md
 url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 score: -1.0
+related_article1:
+    id: 167996
+    title: What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
+related_article2:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article3:
+    id: 168000
+    title: What is the personal fable, and how does it affect adolescent thinking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
+related_article4:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+related_article5:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
 ---
 
 &nbsp;

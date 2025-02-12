@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule.md
 url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
 score: -1.0
+related_article1:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article2:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article3:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article4:
+    id: 167050
+    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+related_article5:
+    id: 167042
+    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
 ---
 
 &nbsp;

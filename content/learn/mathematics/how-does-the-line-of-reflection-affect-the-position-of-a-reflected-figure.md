@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 score: -1.0
+related_article1:
+    id: 162234
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+related_article2:
+    id: 162487
+    title: What is the significance of the center of rotation in a rotational transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
+related_article3:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article4:
+    id: 162235
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
+    id: 162496
+    title: How do vertex transformations affect the orientation of triangles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
 ---
 
 &nbsp;

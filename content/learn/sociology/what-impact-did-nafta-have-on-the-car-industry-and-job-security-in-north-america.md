@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america.md
 url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 score: -1.0
+related_article1:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article2:
+    id: 168357
+    title: What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article3:
+    id: 168353
+    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article4:
+    id: 168364
+    title: How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+related_article5:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
 ---
 
 &nbsp;

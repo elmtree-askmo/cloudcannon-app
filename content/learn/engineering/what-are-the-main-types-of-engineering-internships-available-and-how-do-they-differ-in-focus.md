@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus.md
 url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
 score: -1.0
+related_article1:
+    id: 166673
+    title: How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
+related_article2:
+    id: 166672
+    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+related_article3:
+    id: 166674
+    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article4:
+    id: 166672
+    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+related_article5:
+    id: 166658
+    title: How are systems of equations used to solve equilibrium problems in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children.md
 url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 score: -1.0
+related_article1:
+    id: 168068
+    title: How does peak circadian arousal differ between older and younger adults in terms of memory performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance
+related_article2:
+    id: 168073
+    title: What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article3:
+    id: 168064
+    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+related_article4:
+    id: 168069
+    title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
+related_article5:
+    id: 168066
+    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
 ---
 
 &nbsp;

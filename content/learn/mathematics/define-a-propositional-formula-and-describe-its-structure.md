@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-a-propositional-formula-and-describe-its-structure.md
 url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
 score: -1.0
+related_article1:
+    id: 170243
+    title: What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article2:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article3:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article4:
+    id: 170237
+    title: Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article5:
+    id: 170249
+    title: Define bi-implication and explain its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
 ---
 
 &nbsp;

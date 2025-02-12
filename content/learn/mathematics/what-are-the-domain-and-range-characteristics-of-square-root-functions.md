@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-domain-and-range-characteristics-of-square-root-functions.md
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163808
+    title: How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article2:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article3:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article4:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article5:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 ---
 
 &nbsp;

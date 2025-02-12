@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-game-rules-play-in-piagets-research-on-moral-development.md
 url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
 score: -1.0
+related_article1:
+    id: 164161
+    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article2:
+    id: 164161
+    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article3:
+    id: 164152
+    title: How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
+related_article4:
+    id: 164165
+    title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
+related_article5:
+    id: 164169
+    title: How do children progress through developmental stages of moral understanding according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
 ---
 
 &nbsp;

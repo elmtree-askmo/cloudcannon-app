@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity.md
 url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 score: -1.0
+related_article1:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article2:
+    id: 167424
+    title: How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
+related_article3:
+    id: 167433
+    title: Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+related_article4:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article5:
+    id: 167427
+    title: Define cohesion and describe its mechanism in water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
 ---
 
 &nbsp;

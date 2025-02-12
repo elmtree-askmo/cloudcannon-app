@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-constitutes-a-logical-argument-and-how-is-logical-implication-involved.md
 url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
 score: -1.0
+related_article1:
+    id: 170204
+    title: Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article2:
+    id: 170214
+    title: How can logical arguments be translated from English to logical form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
+related_article3:
+    id: 170201
+    title: What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+related_article4:
+    id: 170202
+    title: How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+related_article5:
+    id: 170202
+    title: How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 ---
 
 &nbsp;

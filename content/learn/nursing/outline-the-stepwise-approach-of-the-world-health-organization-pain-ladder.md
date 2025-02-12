@@ -21,6 +21,31 @@ subject: Nursing
 file_name: outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder.md
 url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
 score: -1.0
+related_article1:
+    id: 169790
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article2:
+    id: 169795
+    title: How can physical therapy contribute to non-pharmacological pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
+related_article3:
+    id: 169793
+    title: What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
+related_article4:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article5:
+    id: 169801
+    title: What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 ---
 
 &nbsp;

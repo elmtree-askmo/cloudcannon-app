@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function.md
 url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
 score: -1.0
+related_article1:
+    id: 164740
+    title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article2:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article3:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article4:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article5:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 ---
 
 &nbsp;

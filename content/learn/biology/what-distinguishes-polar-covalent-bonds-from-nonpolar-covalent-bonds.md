@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds.md
 url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 score: -1.0
+related_article1:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article2:
+    id: 167416
+    title: Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+related_article3:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article4:
+    id: 167413
+    title: What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article5:
+    id: 167422
+    title: Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-atoms-and-describe-their-basic-structure.md
 url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
 score: -1.0
+related_article1:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article2:
+    id: 167402
+    title: Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article3:
+    id: 167420
+    title: How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
+related_article4:
+    id: 167419
+    title: What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article5:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 ---
 
 &nbsp;

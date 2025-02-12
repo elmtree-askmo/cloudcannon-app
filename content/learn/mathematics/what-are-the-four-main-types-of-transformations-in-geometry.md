@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-four-main-types-of-transformations-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
 score: -1.0
+related_article1:
+    id: 162075
+    title: Describe the difference between clockwise and counterclockwise rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article2:
+    id: 162151
+    title: What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article3:
+    id: 162078
+    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162159
+    title: What are the observable results of rotating geometric figures in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-observable-results-of-rotating-geometric-figures-in-terms-of-quadrant-transitions
+related_article5:
+    id: 162076
+    title: What is the rule for a 90 degrees clockwise rotation about the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law.md
 url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
 score: -1.0
+related_article1:
+    id: 169836
+    title: Describe the analogy between potência elétrica and an electric shower.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
+related_article2:
+    id: 169833
+    title: Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+related_article3:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article4:
+    id: 169828
+    title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+related_article5:
+    id: 169841
+    title: What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 ---
 
 &nbsp;

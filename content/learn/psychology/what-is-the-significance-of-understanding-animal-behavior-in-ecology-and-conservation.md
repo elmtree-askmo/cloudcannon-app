@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation.md
 url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 score: -1.0
+related_article1:
+    id: 166389
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article2:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article4:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article5:
+    id: 166388
+    title: How do phylogenetic trees help in understanding evolutionary relationships among species?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
 ---
 
 &nbsp;

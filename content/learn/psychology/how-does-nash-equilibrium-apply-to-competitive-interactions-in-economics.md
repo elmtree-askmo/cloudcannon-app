@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics.md
 url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
 score: -1.0
+related_article1:
+    id: 170844
+    title: What is the importance of optimal strategies in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
+related_article2:
+    id: 170844
+    title: What is the importance of optimal strategies in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
+related_article3:
+    id: 170835
+    title: Explain the concept of Nash Equilibrium in classical game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
+related_article4:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article5:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage.md
 url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 score: -1.0
+related_article1:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article2:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article3:
+    id: 167032
+    title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
+related_article4:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+related_article5:
+    id: 167029
+    title: How do carbohydrates participate in cellular communication?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-process-of-directional-selection-and-provide-an-example.md
 url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 165291
+    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article2:
+    id: 165289
+    title: What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article3:
+    id: 165308
+    title: Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+related_article4:
+    id: 165303
+    title: What is artificial selection and how does it differ from natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+related_article5:
+    id: 165305
+    title: What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 ---
 
 &nbsp;

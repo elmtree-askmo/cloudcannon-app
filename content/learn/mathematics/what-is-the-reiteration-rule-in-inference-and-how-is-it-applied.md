@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-reiteration-rule-in-inference-and-how-is-it-applied.md
 url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
 score: -1.0
+related_article1:
+    id: 170225
+    title: What is the conjunction rule in inference, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
+related_article2:
+    id: 170227
+    title: What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article3:
+    id: 170233
+    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article4:
+    id: 170234
+    title: Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170227
+    title: What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls.md
 url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
 score: -1.0
+related_article1:
+    id: 164197
+    title: How do family involvement and educational interventions play a role in resisting disconnection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+related_article2:
+    id: 164190
+    title: What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+related_article3:
+    id: 164187
+    title: What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+related_article4:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+related_article5:
+    id: 164197
+    title: How do family involvement and educational interventions play a role in resisting disconnection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
 ---
 
 &nbsp;

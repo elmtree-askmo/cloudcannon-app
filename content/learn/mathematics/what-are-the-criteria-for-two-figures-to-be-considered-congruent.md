@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-criteria-for-two-figures-to-be-considered-congruent.md
 url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 score: -1.0
+related_article1:
+    id: 162313
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article2:
+    id: 162317
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article3:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article4:
+    id: 162221
+    title: What is the significance of the order of operations in a sequence of transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+related_article5:
+    id: 162324
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 ---
 
 &nbsp;

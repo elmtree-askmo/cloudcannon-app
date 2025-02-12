@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
 score: -1.0
+related_article1:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article2:
+    id: 166830
+    title: How are phosphodiester linkages formed between nucleotides?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
+related_article3:
+    id: 166825
+    title: Describe the biological function of RNA and its location within cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+related_article4:
+    id: 166825
+    title: Describe the biological function of RNA and its location within cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+related_article5:
+    id: 166825
+    title: Describe the biological function of RNA and its location within cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant.md
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 score: -1.0
+related_article1:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article2:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article3:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article4:
+    id: 163810
+    title: Name three types of non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+related_article5:
+    id: 163810
+    title: Name three types of non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
 ---
 
 &nbsp;

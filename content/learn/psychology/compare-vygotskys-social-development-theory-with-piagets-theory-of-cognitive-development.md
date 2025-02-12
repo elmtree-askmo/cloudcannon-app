@@ -21,6 +21,31 @@ subject: Psychology
 file_name: compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development.md
 url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
 score: -1.0
+related_article1:
+    id: 167997
+    title: Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article2:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article3:
+    id: 167994
+    title: What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+related_article4:
+    id: 168002
+    title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
+related_article5:
+    id: 168005
+    title: How do social interactions influence cognitive development according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 ---
 
 &nbsp;

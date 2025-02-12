@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164677
+    title: How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article2:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article3:
+    id: 164678
+    title: What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article4:
+    id: 164694
+    title: What are the career paths available for students pursuing a neuroscience minor?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+related_article5:
+    id: 164686
+    title: What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 ---
 
 &nbsp;

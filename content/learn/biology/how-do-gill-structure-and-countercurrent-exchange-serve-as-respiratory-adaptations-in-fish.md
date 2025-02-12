@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish.md
 url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
 score: -1.0
+related_article1:
+    id: 168810
+    title: What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
+related_article2:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article3:
+    id: 168799
+    title: Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
+related_article4:
+    id: 168800
+    title: How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
+related_article5:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
 ---
 
 &nbsp;

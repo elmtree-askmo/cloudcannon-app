@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop.md
 url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 score: -1.0
+related_article1:
+    id: 169837
+    title: State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article2:
+    id: 169831
+    title: What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article3:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article4:
+    id: 169831
+    title: What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article5:
+    id: 169840
+    title: How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
 ---
 
 &nbsp;

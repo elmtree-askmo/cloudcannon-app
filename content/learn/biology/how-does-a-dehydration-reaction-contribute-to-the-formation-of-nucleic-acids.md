@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids.md
 url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article2:
+    id: 167338
+    title: How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
+related_article3:
+    id: 167327
+    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article4:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article5:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 ---
 
 &nbsp;

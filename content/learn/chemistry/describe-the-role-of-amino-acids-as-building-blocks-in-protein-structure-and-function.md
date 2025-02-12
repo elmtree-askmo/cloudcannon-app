@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function.md
 url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
 score: -1.0
+related_article1:
+    id: 167081
+    title: What factors determine the solubility of a molecule in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
+related_article2:
+    id: 167073
+    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
+related_article3:
+    id: 167084
+    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+related_article4:
+    id: 167083
+    title: What are the primary types of biomolecules and their functions in living organisms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
+related_article5:
+    id: 167078
+    title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
 ---
 
 &nbsp;

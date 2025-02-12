@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development.md
 url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 score: -1.0
+related_article1:
+    id: 166503
+    title: What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166505
+    title: How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+related_article3:
+    id: 166504
+    title: Why is medication reconciliation important during patient admission and discharge?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+related_article4:
+    id: 166511
+    title: What strategies can be used to manage drug interactions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
+related_article5:
+    id: 166505
+    title: How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
 ---
 
 &nbsp;

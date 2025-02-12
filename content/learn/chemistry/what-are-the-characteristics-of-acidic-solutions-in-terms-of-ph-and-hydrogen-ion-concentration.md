@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration
 score: -1.0
+related_article1:
+    id: 167626
+    title: Compare the pH of pure water, orange juice, and bleach.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+related_article2:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article3:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+related_article4:
+    id: 167630
+    title: Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article5:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
 ---
 
 &nbsp;

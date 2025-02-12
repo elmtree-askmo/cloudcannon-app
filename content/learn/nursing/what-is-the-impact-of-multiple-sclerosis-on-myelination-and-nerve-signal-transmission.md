@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission.md
 url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
 score: -1.0
+related_article1:
+    id: 170604
+    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
+related_article2:
+    id: 170599
+    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article3:
+    id: 170606
+    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+related_article4:
+    id: 170605
+    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+related_article5:
+    id: 170605
+    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 ---
 
 &nbsp;

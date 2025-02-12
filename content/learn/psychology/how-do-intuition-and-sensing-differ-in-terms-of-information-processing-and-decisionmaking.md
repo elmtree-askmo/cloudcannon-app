@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking.md
 url: /learn/psychology/questions/how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking
 score: -1.0
+related_article1:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article2:
+    id: 170627
+    title: What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article3:
+    id: 170623
+    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
+related_article4:
+    id: 170619
+    title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article5:
+    id: 170630
+    title: In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
 ---
 
 &nbsp;

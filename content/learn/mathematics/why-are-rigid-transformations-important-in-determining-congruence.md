@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-are-rigid-transformations-important-in-determining-congruence.md
 url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 score: -1.0
+related_article1:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article2:
+    id: 162225
+    title: What strategies can be used to match the orientation of two figures after a transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+related_article3:
+    id: 162226
+    title: How can rotation be used to adjust the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-rotation-be-used-to-adjust-the-orientation-of-a-figure
+related_article4:
+    id: 162328
+    title: How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+related_article5:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
 ---
 
 &nbsp;

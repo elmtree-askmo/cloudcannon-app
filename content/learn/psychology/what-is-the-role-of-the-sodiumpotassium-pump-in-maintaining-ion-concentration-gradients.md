@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients.md
 url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
 score: -1.0
+related_article1:
+    id: 164821
+    title: How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article2:
+    id: 164819
+    title: What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
+related_article3:
+    id: 164824
+    title: What changes occur in the membrane potential during an action potential?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
+related_article4:
+    id: 164827
+    title: How does myelination affect the speed of neural signal transmission?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+related_article5:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 ---
 
 &nbsp;

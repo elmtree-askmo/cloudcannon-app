@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior.md
 url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
 score: -1.0
+related_article1:
+    id: 165309
+    title: What is the role of phylogenetic analysis in understanding evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+related_article2:
+    id: 165294
+    title: Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article3:
+    id: 165304
+    title: Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article4:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article5:
+    id: 165298
+    title: What is the difference between phenotype and genotype, and how do they relate to natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 ---
 
 &nbsp;

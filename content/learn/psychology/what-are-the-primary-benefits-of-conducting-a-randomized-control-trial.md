@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-benefits-of-conducting-a-randomized-control-trial.md
 url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
 score: -1.0
+related_article1:
+    id: 165221
+    title: What techniques can be used for effective abstract analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+related_article2:
+    id: 165221
+    title: What techniques can be used for effective abstract analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+related_article3:
+    id: 165223
+    title: What is the word length effect and how does it impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
+related_article4:
+    id: 165224
+    title: How is FITS Law relevant in psychology and what are its applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
+related_article5:
+    id: 165214
+    title: What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
 ---
 
 &nbsp;

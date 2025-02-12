@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording.md
 url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
 score: -1.0
+related_article1:
+    id: 169465
+    title: How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+related_article2:
+    id: 169464
+    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
+related_article3:
+    id: 169465
+    title: How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+related_article4:
+    id: 169463
+    title: How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article5:
+    id: 169466
+    title: Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
 ---
 
 &nbsp;

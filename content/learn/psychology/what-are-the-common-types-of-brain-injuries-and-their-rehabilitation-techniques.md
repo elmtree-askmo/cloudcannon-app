@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques.md
 url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
 score: -1.0
+related_article1:
+    id: 164677
+    title: How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article2:
+    id: 164678
+    title: What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article3:
+    id: 164684
+    title: What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
+related_article4:
+    id: 164680
+    title: What are the effects of emotional disorders on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
+related_article5:
+    id: 164675
+    title: How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
 ---
 
 &nbsp;

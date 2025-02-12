@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability.md
 url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 score: -1.0
+related_article1:
+    id: 170350
+    title: What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
+related_article2:
+    id: 170352
+    title: How is ATP formed, and what is its role in energy transfer within cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
+related_article3:
+    id: 170351
+    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+related_article4:
+    id: 170354
+    title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 ---
 
 &nbsp;

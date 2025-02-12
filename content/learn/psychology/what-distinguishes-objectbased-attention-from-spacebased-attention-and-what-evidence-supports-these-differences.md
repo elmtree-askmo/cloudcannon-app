@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences.md
 url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
 score: -1.0
+related_article1:
+    id: 164701
+    title: What factors affect reaction time in visual search, and how does set size influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
+related_article2:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article3:
+    id: 164699
+    title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
+related_article4:
+    id: 164702
+    title: Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article5:
+    id: 164707
+    title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
 ---
 
 &nbsp;

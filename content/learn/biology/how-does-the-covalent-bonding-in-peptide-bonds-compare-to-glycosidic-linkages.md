@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages.md
 url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
 score: -1.0
+related_article1:
+    id: 165346
+    title: What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article2:
+    id: 165338
+    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+related_article3:
+    id: 165338
+    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+related_article4:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article5:
+    id: 165341
+    title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    subject: Biology
+    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
 ---
 
 &nbsp;

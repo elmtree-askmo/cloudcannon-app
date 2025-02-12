@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-happens-to-the-orientation-of-a-figure-after-a-reflection.md
 url: /learn/mathematics/questions/what-happens-to-the-orientation-of-a-figure-after-a-reflection
 score: -1.0
+related_article1:
+    id: 162752
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article2:
+    id: 162385
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article3:
+    id: 162689
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article4:
+    id: 162627
+    title: What happens when a point is reflected across both the x-axis and y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
+related_article5:
+    id: 162688
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

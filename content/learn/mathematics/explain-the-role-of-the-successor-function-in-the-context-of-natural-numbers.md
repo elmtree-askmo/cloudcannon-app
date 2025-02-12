@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers.md
 url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
 score: -1.0
+related_article1:
+    id: 170762
+    title: Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article2:
+    id: 170758
+    title: Provide an example of how the well-ordering principle can be applied in a proof.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-how-the-wellordering-principle-can-be-applied-in-a-proof
+related_article3:
+    id: 170766
+    title: Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+related_article4:
+    id: 170771
+    title: How can potential failures in the inductive process be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-potential-failures-in-the-inductive-process-be-addressed
+related_article5:
+    id: 170774
+    title: What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 ---
 
 &nbsp;

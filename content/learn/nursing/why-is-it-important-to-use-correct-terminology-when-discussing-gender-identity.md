@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity.md
 url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 score: -1.0
+related_article1:
+    id: 169656
+    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
+related_article2:
+    id: 169661
+    title: How does intersectionality affect health outcomes and care strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
+related_article3:
+    id: 169654
+    title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
+related_article4:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article5:
+    id: 169656
+    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
 ---
 
 &nbsp;

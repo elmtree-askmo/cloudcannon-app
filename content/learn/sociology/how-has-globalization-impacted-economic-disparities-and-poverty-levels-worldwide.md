@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide.md
 url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
 score: -1.0
+related_article1:
+    id: 163867
+    title: How did European exploration impact global trade routes and resource control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
+related_article2:
+    id: 163862
+    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
+related_article3:
+    id: 163863
+    title: How have multinational corporations contributed to contemporary globalization since 1945?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
+related_article4:
+    id: 163861
+    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+related_article5:
+    id: 163862
+    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 ---
 
 &nbsp;

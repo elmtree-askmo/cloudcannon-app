@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other.md
 url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 score: -1.0
+related_article1:
+    id: 162105
+    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+related_article2:
+    id: 162103
+    title: What observable patterns occur in quadrant shifts during rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
+related_article3:
+    id: 162105
+    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+related_article4:
+    id: 162105
+    title: How do the initial and final quadrant positions of a figure change after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
+related_article5:
+    id: 162100
+    title: What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
 ---
 
 &nbsp;

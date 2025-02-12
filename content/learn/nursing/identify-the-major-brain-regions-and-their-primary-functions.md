@@ -21,6 +21,31 @@ subject: Nursing
 file_name: identify-the-major-brain-regions-and-their-primary-functions.md
 url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
 score: -1.0
+related_article1:
+    id: 164733
+    title: How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article2:
+    id: 164733
+    title: How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article3:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article4:
+    id: 164734
+    title: What are Broadman's areas and how do they correlate with brain functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
+related_article5:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 ---
 
 &nbsp;

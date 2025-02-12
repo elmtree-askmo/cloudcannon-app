@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-supervision-particularly-important-for-student-nurses.md
 url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
 score: -1.0
+related_article1:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article2:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article3:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article4:
+    id: 169562
+    title: How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article5:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 ---
 
 &nbsp;

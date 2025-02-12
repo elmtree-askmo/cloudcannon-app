@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-graph-of-the-function-y--x2-and-its-key-features.md
 url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 score: -1.0
+related_article1:
+    id: 163716
+    title: What is an inverse function, and how can it be graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+related_article2:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article3:
+    id: 163716
+    title: What is an inverse function, and how can it be graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
+related_article4:
+    id: 163711
+    title: What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article5:
+    id: 163714
+    title: What are the characteristics of the graph of y = √x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
 ---
 
 &nbsp;

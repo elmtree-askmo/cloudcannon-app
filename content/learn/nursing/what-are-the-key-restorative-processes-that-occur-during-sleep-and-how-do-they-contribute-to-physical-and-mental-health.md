@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-restorative-processes-that-occur-during-sleep-and-how-do-they-contribute-to-physical-and-mental-health.md
 url: /learn/nursing/questions/what-are-the-key-restorative-processes-that-occur-during-sleep-and-how-do-they-contribute-to-physical-and-mental-health
 score: -1.0
+related_article1:
+    id: 169693
+    title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
+related_article2:
+    id: 169688
+    title: How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
+related_article3:
+    id: 169690
+    title: What are the primary causes and symptoms of insomnia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
+related_article4:
+    id: 169698
+    title: How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article5:
+    id: 169692
+    title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended
 ---
 
 &nbsp;

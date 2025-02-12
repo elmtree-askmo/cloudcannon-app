@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-mirror-image-concept-in-reflections.md
 url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 score: -1.0
+related_article1:
+    id: 162910
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article2:
+    id: 162812
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article3:
+    id: 162701
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article4:
+    id: 162753
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article5:
+    id: 162407
+    title: How does the line of reflection act as a mirror?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162164
+    title: How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+related_article2:
+    id: 162148
+    title: How do translations affect the endpoints of line segments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
+related_article3:
+    id: 162142
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162303
+    title: What is rigid motion and what are its characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
+related_article5:
+    id: 162300
+    title: How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
 ---
 
 &nbsp;

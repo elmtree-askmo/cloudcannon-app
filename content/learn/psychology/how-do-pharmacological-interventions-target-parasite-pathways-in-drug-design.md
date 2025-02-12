@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design.md
 url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
 score: -1.0
+related_article1:
+    id: 165850
+    title: How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
+related_article2:
+    id: 165851
+    title: Explain the ecological impact of microbial interactions in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+related_article3:
+    id: 165847
+    title: What are the key public health implications of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
+related_article4:
+    id: 165835
+    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+related_article5:
+    id: 165840
+    title: What are the clinical implications of identifying parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
 ---
 
 &nbsp;

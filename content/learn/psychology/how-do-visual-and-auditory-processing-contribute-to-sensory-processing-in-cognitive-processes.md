@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes.md
 url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164557
+    title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+related_article2:
+    id: 164547
+    title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+related_article3:
+    id: 164559
+    title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+related_article4:
+    id: 164564
+    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+related_article5:
+    id: 164564
+    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 ---
 
 &nbsp;

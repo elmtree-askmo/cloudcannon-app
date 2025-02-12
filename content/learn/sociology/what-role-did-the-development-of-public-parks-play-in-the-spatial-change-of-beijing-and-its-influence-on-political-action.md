@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action.md
 url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 score: -1.0
+related_article1:
+    id: 169049
+    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+related_article2:
+    id: 169042
+    title: How did Tiananmen Square evolve into a political public space over time?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
+related_article3:
+    id: 169055
+    title: What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article4:
+    id: 169051
+    title: What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+related_article5:
+    id: 169041
+    title: What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
 ---
 
 &nbsp;

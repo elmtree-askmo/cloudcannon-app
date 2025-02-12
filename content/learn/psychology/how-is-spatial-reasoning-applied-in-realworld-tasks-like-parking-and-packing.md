@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing.md
 url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 score: -1.0
+related_article1:
+    id: 165236
+    title: What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article2:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article3:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article4:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article5:
+    id: 165228
+    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
 ---
 
 &nbsp;

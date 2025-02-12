@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-language-development-influence-memory-encoding-in-young-children.md
 url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
 score: -1.0
+related_article1:
+    id: 168070
+    title: How do memorable life events during adulthood influence personal identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
+related_article2:
+    id: 168074
+    title: How does self-awareness influence memory recall and personal memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
+related_article3:
+    id: 168061
+    title: What is childhood amnesia and how does it relate to memory development in infancy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy
+related_article4:
+    id: 168067
+    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phenotypic-differences-contribute-to-variation-in-a-population.md
 url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 score: -1.0
+related_article1:
+    id: 166922
+    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+related_article2:
+    id: 166926
+    title: What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article3:
+    id: 166914
+    title: How do organisms respond to stimuli, and why is this important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
+related_article4:
+    id: 166912
+    title: How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article5:
+    id: 166934
+    title: What factors influence differential reproductive success in natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
 ---
 
 &nbsp;

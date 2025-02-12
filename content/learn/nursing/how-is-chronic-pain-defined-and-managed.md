@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-chronic-pain-defined-and-managed.md
 url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
 score: -1.0
+related_article1:
+    id: 169728
+    title: How does osteoporosis affect bone density and fracture risk?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
+related_article2:
+    id: 169714
+    title: How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article3:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article4:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article5:
+    id: 169705
+    title: What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-fmri-used-in-clinical-diagnosis.md
 url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
 score: -1.0
+related_article1:
+    id: 164237
+    title: What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article2:
+    id: 164233
+    title: What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
+related_article3:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
+related_article4:
+    id: 164237
+    title: What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article5:
+    id: 164237
+    title: What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-perceptions-of-normalcy-influence-human-behavior.md
 url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
 score: -1.0
+related_article1:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article2:
+    id: 167694
+    title: How do neurobiological processes influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
+related_article3:
+    id: 167691
+    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article4:
+    id: 167700
+    title: What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article5:
+    id: 167690
+    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 ---
 
 &nbsp;

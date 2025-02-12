@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
 score: -1.0
+related_article1:
+    id: 164556
+    title: How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article2:
+    id: 164543
+    title: What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article3:
+    id: 164551
+    title: Which brain regions are primarily involved in executive function, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
+related_article4:
+    id: 164556
+    title: How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article5:
+    id: 164562
+    title: What are the key characteristics of automatic processes compared to controlled processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
 ---
 
 &nbsp;

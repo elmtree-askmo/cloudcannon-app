@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-asymptotic-behavior-of-exponential-functions.md
 url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 score: -1.0
+related_article1:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article2:
+    id: 163819
+    title: What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+related_article3:
+    id: 163808
+    title: How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article4:
+    id: 163812
+    title: How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+related_article5:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 ---
 
 &nbsp;

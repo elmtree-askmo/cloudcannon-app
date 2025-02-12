@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-divided-attention-impact-multitasking-abilities.md
 url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
 score: -1.0
+related_article1:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article2:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+related_article3:
+    id: 164728
+    title: What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
+related_article4:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article5:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
 ---
 
 &nbsp;

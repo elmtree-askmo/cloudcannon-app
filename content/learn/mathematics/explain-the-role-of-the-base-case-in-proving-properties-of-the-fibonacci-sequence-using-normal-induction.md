@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction.md
 url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 score: -1.0
+related_article1:
+    id: 170704
+    title: How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+related_article2:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article3:
+    id: 170700
+    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+related_article4:
+    id: 170697
+    title: Provide an example of a base case in the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+related_article5:
+    id: 170700
+    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
 ---
 
 &nbsp;

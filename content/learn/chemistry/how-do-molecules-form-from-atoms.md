@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-molecules-form-from-atoms.md
 url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
 score: -1.0
+related_article1:
+    id: 166796
+    title: What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article2:
+    id: 166803
+    title: How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article3:
+    id: 166811
+    title: What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
+related_article4:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article5:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 ---
 
 &nbsp;

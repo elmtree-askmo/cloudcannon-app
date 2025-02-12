@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process.md
 url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
 score: -1.0
+related_article1:
+    id: 170735
+    title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
+related_article2:
+    id: 170726
+    title: How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+related_article3:
+    id: 170730
+    title: What is the coin change problem, and why is it significant in algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+related_article4:
+    id: 170734
+    title: Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+related_article5:
+    id: 170735
+    title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
 ---
 
 &nbsp;

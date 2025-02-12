@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-can-the-formation-of-ions-be-described-in-the-context-of-ionization.md
 url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 score: -1.0
+related_article1:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article2:
+    id: 161941
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article3:
+    id: 162039
+    title: What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article4:
+    id: 161935
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article5:
+    id: 162013
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

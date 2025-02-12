@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides.md
 url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
 score: -1.0
+related_article1:
+    id: 167028
+    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+related_article2:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article3:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article4:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article5:
+    id: 167015
+    title: What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
 ---
 
 &nbsp;

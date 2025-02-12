@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population.md
 url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
 score: -1.0
+related_article1:
+    id: 165821
+    title: Explain the concept of a natural focus of disease.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
+related_article2:
+    id: 165823
+    title: How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article3:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article4:
+    id: 165808
+    title: Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article5:
+    id: 165814
+    title: What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
 ---
 
 &nbsp;

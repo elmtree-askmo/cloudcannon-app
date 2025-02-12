@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity.md
 url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 score: -1.0
+related_article1:
+    id: 160621
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article2:
+    id: 160100
+    title: How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
+related_article3:
+    id: 160092
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article4:
+    id: 160627
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article5:
+    id: 160226
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
 ---
 
 &nbsp;

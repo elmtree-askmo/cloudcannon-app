@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics.md
 url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
 score: -1.0
+related_article1:
+    id: 169527
+    title: What role do blood vessels play in blood pressure regulation mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
+related_article2:
+    id: 169517
+    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+related_article3:
+    id: 169529
+    title: What biological factors, such as age and gender, affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
+related_article4:
+    id: 169524
+    title: What are the differences between manual and automated blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
+related_article5:
+    id: 169531
+    title: What are the health implications of inaccurate blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
 ---
 
 &nbsp;

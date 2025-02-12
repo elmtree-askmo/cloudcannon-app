@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average.md
 url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
 score: -1.0
+related_article1:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article2:
+    id: 167259
+    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+related_article3:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article4:
+    id: 167251
+    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article5:
+    id: 167260
+    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
 ---
 
 &nbsp;

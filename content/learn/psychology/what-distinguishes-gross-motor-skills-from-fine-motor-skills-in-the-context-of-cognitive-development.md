@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development.md
 url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
 score: -1.0
+related_article1:
+    id: 168084
+    title: How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article2:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article3:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article4:
+    id: 168084
+    title: How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article5:
+    id: 168091
+    title: What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 ---
 
 &nbsp;

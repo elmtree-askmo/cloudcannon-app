@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory.md
 url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
 score: -1.0
+related_article1:
+    id: 170844
+    title: What is the importance of optimal strategies in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
+related_article2:
+    id: 170842
+    title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
+related_article3:
+    id: 170839
+    title: What is the significance of interactions in populations within dynamic systems in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory
+related_article4:
+    id: 170840
+    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+related_article5:
+    id: 170837
+    title: Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
 ---
 
 &nbsp;

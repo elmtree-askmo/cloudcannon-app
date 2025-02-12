@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-eeg-used-in-the-diagnosis-of-epilepsy.md
 url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
 score: -1.0
+related_article1:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article2:
+    id: 164750
+    title: Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article3:
+    id: 164742
+    title: Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article4:
+    id: 164752
+    title: What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article5:
+    id: 164745
+    title: What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

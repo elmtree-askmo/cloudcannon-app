@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-methods-are-used-to-study-animal-behavior-in-psychology.md
 url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 score: -1.0
+related_article1:
+    id: 167706
+    title: What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
+related_article2:
+    id: 167697
+    title: How does the nature vs. nurture debate relate to determinism in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
+related_article3:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article4:
+    id: 167697
+    title: How does the nature vs. nurture debate relate to determinism in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
+related_article5:
+    id: 167689
+    title: How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
 ---
 
 &nbsp;

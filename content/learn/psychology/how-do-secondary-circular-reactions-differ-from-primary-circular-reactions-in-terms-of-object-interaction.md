@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-secondary-circular-reactions-differ-from-primary-circular-reactions-in-terms-of-object-interaction.md
 url: /learn/psychology/questions/how-do-secondary-circular-reactions-differ-from-primary-circular-reactions-in-terms-of-object-interaction
 score: -1.0
+related_article1:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article2:
+    id: 168086
+    title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
+related_article3:
+    id: 168077
+    title: What is the age range for the sensorimotor stage in Piaget's theory of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development
+related_article4:
+    id: 168083
+    title: What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article5:
+    id: 168091
+    title: What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 ---
 
 &nbsp;

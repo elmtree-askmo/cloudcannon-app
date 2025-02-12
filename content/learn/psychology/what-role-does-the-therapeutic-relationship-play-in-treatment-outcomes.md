@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes.md
 url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 score: -1.0
+related_article1:
+    id: 163027
+    title: How does eclectic practice contribute to the integration of therapeutic approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
+related_article2:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article3:
+    id: 163037
+    title: How do client demographics and background influence therapeutic outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-demographics-and-background-influence-therapeutic-outcomes
+related_article4:
+    id: 163028
+    title: What characteristics make a theory effective in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
+related_article5:
+    id: 163029
+    title: Why is empirical support crucial for the validity of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
 ---
 
 &nbsp;

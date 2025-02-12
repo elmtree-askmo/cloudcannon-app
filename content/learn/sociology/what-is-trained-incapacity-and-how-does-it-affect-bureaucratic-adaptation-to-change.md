@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change.md
 url: /learn/sociology/questions/what-is-trained-incapacity-and-how-does-it-affect-bureaucratic-adaptation-to-change
 score: -1.0
+related_article1:
+    id: 165247
+    title: What is the significance of specialization of labor in an ideal bureaucracy?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy
+related_article2:
+    id: 165246
+    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article3:
+    id: 165253
+    title: How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article4:
+    id: 165253
+    title: How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article5:
+    id: 165246
+    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
 ---
 
 &nbsp;

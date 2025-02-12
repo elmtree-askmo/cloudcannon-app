@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain.md
 url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 score: -1.0
+related_article1:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article2:
+    id: 170469
+    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+related_article3:
+    id: 170473
+    title: How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
+related_article4:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article5:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space.md
 url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
 score: -1.0
+related_article1:
+    id: 169421
+    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
+related_article2:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article3:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article4:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article5:
+    id: 169421
+    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
 ---
 
 &nbsp;

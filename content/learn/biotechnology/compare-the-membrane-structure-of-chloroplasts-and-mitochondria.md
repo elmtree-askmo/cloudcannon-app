@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: compare-the-membrane-structure-of-chloroplasts-and-mitochondria.md
 url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
 score: -1.0
+related_article1:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article2:
+    id: 170324
+    title: How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article3:
+    id: 170326
+    title: How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article4:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article5:
+    id: 170317
+    title: What is the significance of the Krebs cycle in cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-are-the-primary-sources-of-biological-energy.md
 url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 score: -1.0
+related_article1:
+    id: 167598
+    title: What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article2:
+    id: 167598
+    title: What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article3:
+    id: 167598
+    title: What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article4:
+    id: 167588
+    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
 ---
 
 &nbsp;

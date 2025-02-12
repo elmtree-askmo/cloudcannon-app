@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-proteins-considered-an-important-class-of-biomolecules.md
 url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
 score: -1.0
+related_article1:
+    id: 165350
+    title: How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article2:
+    id: 165343
+    title: How do ionic bonds form between charged R groups in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
+related_article3:
+    id: 165337
+    title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+related_article4:
+    id: 165339
+    title: Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+related_article5:
+    id: 165339
+    title: Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
 ---
 
 &nbsp;

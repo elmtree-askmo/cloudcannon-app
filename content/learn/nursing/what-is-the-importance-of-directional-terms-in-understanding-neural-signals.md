@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-importance-of-directional-terms-in-understanding-neural-signals.md
 url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
 score: -1.0
+related_article1:
+    id: 164809
+    title: How do cranial nerves differ from spinal nerves in terms of function and location?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
+related_article2:
+    id: 164794
+    title: What are the main components of the central nervous system and their primary functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+related_article3:
+    id: 164814
+    title: How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+related_article4:
+    id: 164811
+    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article5:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
 ---
 
 &nbsp;

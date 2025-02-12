@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-routes-of-drug-excretion.md
 url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
 score: -1.0
+related_article1:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article2:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article3:
+    id: 166455
+    title: What are the key factors influencing drug absorption in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
+related_article4:
+    id: 166469
+    title: How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
+related_article5:
+    id: 166455
+    title: What are the key factors influencing drug absorption in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
 ---
 
 &nbsp;

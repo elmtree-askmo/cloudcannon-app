@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation.md
 url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 score: -1.0
+related_article1:
+    id: 163611
+    title: How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article2:
+    id: 163623
+    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article3:
+    id: 163616
+    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+related_article4:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article5:
+    id: 163612
+    title: What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 ---
 
 &nbsp;

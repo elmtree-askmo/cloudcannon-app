@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-anabolic-and-catabolic-pathways-in-cellular-processes.md
 url: /learn/biology/questions/differentiate-between-anabolic-and-catabolic-pathways-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 170939
+    title: How do organisms adapt to varying levels of oxygen availability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
+related_article2:
+    id: 170929
+    title: Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article3:
+    id: 170934
+    title: Outline the steps involved in glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-steps-involved-in-glycolysis
+related_article4:
+    id: 170927
+    title: Describe the process of light absorption in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
+related_article5:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 ---
 
 &nbsp;

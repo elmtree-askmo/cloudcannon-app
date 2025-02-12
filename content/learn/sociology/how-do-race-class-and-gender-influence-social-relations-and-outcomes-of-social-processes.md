@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes.md
 url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 score: -1.0
+related_article1:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article2:
+    id: 163662
+    title: What role does critical criminology play in understanding the criminalization of Indigenous people?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
+related_article3:
+    id: 163665
+    title: How do epistemological claims influence knowledge production in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+related_article4:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article5:
+    id: 163664
+    title: What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 ---
 
 &nbsp;

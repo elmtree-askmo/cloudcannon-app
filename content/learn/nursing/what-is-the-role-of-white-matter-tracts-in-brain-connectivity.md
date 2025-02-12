@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-white-matter-tracts-in-brain-connectivity.md
 url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
 score: -1.0
+related_article1:
+    id: 164743
+    title: Describe the structure and functional organization of the cerebral cortex.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
+related_article2:
+    id: 164736
+    title: How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article3:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article4:
+    id: 164741
+    title: What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article5:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
 ---
 
 &nbsp;

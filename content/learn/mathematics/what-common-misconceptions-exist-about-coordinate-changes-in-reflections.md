@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-common-misconceptions-exist-about-coordinate-changes-in-reflections.md
 url: /learn/mathematics/questions/what-common-misconceptions-exist-about-coordinate-changes-in-reflections
 score: -1.0
+related_article1:
+    id: 162753
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article2:
+    id: 162701
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article3:
+    id: 162761
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article4:
+    id: 162400
+    title: What changes occur to quadrilaterals when reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
+related_article5:
+    id: 162618
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology.md
 url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
 score: -1.0
+related_article1:
+    id: 165285
+    title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article2:
+    id: 165274
+    title: Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article3:
+    id: 165270
+    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article4:
+    id: 165285
+    title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article5:
+    id: 165284
+    title: What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
 ---
 
 &nbsp;

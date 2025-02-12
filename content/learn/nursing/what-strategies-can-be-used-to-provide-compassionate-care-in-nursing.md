@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-provide-compassionate-care-in-nursing.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 score: -1.0
+related_article1:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article2:
+    id: 169658
+    title: What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article3:
+    id: 169654
+    title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
+related_article4:
+    id: 169645
+    title: What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
+related_article5:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 ---
 
 &nbsp;

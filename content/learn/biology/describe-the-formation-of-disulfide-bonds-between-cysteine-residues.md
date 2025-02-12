@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-formation-of-disulfide-bonds-between-cysteine-residues.md
 url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 score: -1.0
+related_article1:
+    id: 165341
+    title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    subject: Biology
+    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
+related_article2:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article3:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article4:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article5:
+    id: 165334
+    title: What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
 ---
 
 &nbsp;

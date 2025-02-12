@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas.md
 url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 score: -1.0
+related_article1:
+    id: 168962
+    title: How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
+related_article2:
+    id: 168970
+    title: How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+related_article3:
+    id: 168961
+    title: What were the main factors contributing to urban decline in the early 20th century?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
+related_article4:
+    id: 168969
+    title: What historical practices contributed to racial segregation in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
+related_article5:
+    id: 168972
+    title: How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
 ---
 
 &nbsp;

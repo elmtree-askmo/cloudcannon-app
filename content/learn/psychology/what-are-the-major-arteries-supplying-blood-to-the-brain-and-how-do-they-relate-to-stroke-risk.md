@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk.md
 url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
 score: -1.0
+related_article1:
+    id: 170545
+    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article2:
+    id: 170531
+    title: What are the components of the basal ganglia, and what role do they play in movement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
+related_article3:
+    id: 170541
+    title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
+related_article4:
+    id: 170539
+    title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+related_article5:
+    id: 170535
+    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 ---
 
 &nbsp;

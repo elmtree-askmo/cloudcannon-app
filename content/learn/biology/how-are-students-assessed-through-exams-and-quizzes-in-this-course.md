@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-students-assessed-through-exams-and-quizzes-in-this-course.md
 url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
 score: -1.0
+related_article1:
+    id: 167492
+    title: How can networking opportunities benefit biology professionals?
+    subject: Biology
+    url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
+related_article2:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article3:
+    id: 167483
+    title: What is the focus and content of lecture exams in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
+related_article4:
+    id: 167485
+    title: What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article5:
+    id: 167479
+    title: How is the D2L Learning Management System organized to facilitate course access?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 ---
 
 &nbsp;

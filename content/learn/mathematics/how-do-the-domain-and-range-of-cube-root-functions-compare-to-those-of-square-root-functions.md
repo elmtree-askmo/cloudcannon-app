@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions.md
 url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163750
+    title: How can you identify key features on the graph of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
+related_article2:
+    id: 163759
+    title: Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article3:
+    id: 163772
+    title: Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article4:
+    id: 163770
+    title: What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article5:
+    id: 163775
+    title: How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
 ---
 
 &nbsp;

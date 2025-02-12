@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development.md
 url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
 score: -1.0
+related_article1:
+    id: 164062
+    title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
+related_article2:
+    id: 164063
+    title: What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
+related_article3:
+    id: 164065
+    title: What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article4:
+    id: 164068
+    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article5:
+    id: 164062
+    title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 ---
 
 &nbsp;

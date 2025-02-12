@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction.md
 url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
 score: -1.0
+related_article1:
+    id: 170813
+    title: How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article2:
+    id: 170810
+    title: What is the role of electron transfer in oxidation and reduction reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
+related_article3:
+    id: 170810
+    title: What is the role of electron transfer in oxidation and reduction reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
+related_article4:
+    id: 170822
+    title: How do enzymes influence the energy barriers in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+related_article5:
+    id: 170820
+    title: What role do enzymes play in directing molecules through metabolic pathways?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement.md
 url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
 score: -1.0
+related_article1:
+    id: 170193
+    title: What is the role of implication in propositional logic, and how is it typically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
+related_article2:
+    id: 170190
+    title: How does negation affect the truth value of a proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
+related_article3:
+    id: 170199
+    title: How do you determine the correct order of variables in a logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+related_article4:
+    id: 170196
+    title: What is a bi-conditional, and how is it used to express equivalence in logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
+related_article5:
+    id: 170193
+    title: What is the role of implication in propositional logic, and how is it typically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
 ---
 
 &nbsp;

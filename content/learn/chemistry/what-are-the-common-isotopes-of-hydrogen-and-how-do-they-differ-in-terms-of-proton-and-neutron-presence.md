@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence.md
 url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
 score: -1.0
+related_article1:
+    id: 166820
+    title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
+related_article2:
+    id: 166821
+    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article3:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article4:
+    id: 166819
+    title: Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article5:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
 ---
 
 &nbsp;

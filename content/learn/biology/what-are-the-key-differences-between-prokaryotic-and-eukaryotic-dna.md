@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna.md
 url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
 score: -1.0
+related_article1:
+    id: 167812
+    title: What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article2:
+    id: 167817
+    title: What is the central dogma of molecular biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+related_article3:
+    id: 167829
+    title: What role does cell division play in genetic transmission?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
+related_article4:
+    id: 167821
+    title: How do amino acids determine protein structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-amino-acids-determine-protein-structure-and-function
+related_article5:
+    id: 167826
+    title: How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
 ---
 
 &nbsp;

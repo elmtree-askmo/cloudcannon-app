@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented.md
 url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 score: -1.0
+related_article1:
+    id: 163786
+    title: How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article2:
+    id: 163766
+    title: What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article3:
+    id: 163786
+    title: How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article4:
+    id: 163782
+    title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article5:
+    id: 163786
+    title: How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
 ---
 
 &nbsp;

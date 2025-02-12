@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules.md
 url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
 score: -1.0
+related_article1:
+    id: 167048
+    title: How do hydroxyl and carbonyl groups influence molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
+related_article2:
+    id: 167035
+    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article3:
+    id: 167054
+    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article4:
+    id: 167045
+    title: Why is the amino group important in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+related_article5:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 ---
 
 &nbsp;

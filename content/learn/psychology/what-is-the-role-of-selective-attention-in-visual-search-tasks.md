@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-role-of-selective-attention-in-visual-search-tasks.md
 url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 score: -1.0
+related_article1:
+    id: 164721
+    title: How do anterograde and retrograde amnesia differ in terms of memory loss?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
+related_article2:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+related_article3:
+    id: 164738
+    title: What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article4:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
 ---
 
 &nbsp;

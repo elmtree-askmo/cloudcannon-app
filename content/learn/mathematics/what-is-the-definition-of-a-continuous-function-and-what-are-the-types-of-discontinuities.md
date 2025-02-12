@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities.md
 url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 score: -1.0
+related_article1:
+    id: 168336
+    title: How do you approximate the area under a curve using definite integrals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
+related_article2:
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article3:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article4:
+    id: 168328
+    title: Explain the concept of one-sided limits and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+related_article5:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
 ---
 
 &nbsp;

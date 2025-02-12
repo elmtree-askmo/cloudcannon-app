@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation.md
 url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
 score: -1.0
+related_article1:
+    id: 167355
+    title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
+related_article2:
+    id: 167365
+    title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
+related_article3:
+    id: 167364
+    title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article4:
+    id: 167355
+    title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
+related_article5:
+    id: 167359
+    title: What roles do integral and peripheral proteins play in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
 ---
 
 &nbsp;

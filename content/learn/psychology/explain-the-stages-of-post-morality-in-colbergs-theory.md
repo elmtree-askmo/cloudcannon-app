@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-stages-of-post-morality-in-colbergs-theory.md
 url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
 score: -1.0
+related_article1:
+    id: 164217
+    title: How did Colberg study moral reasoning, and what were his key findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
+related_article2:
+    id: 164225
+    title: How does Colberg's theory address the rigidity and linearity of moral development stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
+related_article3:
+    id: 164218
+    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article4:
+    id: 164218
+    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article5:
+    id: 164230
+    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 ---
 
 &nbsp;

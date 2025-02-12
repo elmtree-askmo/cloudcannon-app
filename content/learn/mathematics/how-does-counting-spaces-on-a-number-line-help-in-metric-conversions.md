@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-counting-spaces-on-a-number-line-help-in-metric-conversions.md
 url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
 score: -1.0
+related_article1:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+related_article2:
+    id: 165415
+    title: How do you convert milligrams to grams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
+related_article3:
+    id: 165410
+    title: How do you convert meters to centimeters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
+related_article4:
+    id: 165397
+    title: What is the significance of the prefix 'deca' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
+related_article5:
+    id: 165413
+    title: What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
 ---
 
 &nbsp;

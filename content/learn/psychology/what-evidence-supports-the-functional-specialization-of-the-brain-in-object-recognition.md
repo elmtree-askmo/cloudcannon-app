@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition.md
 url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
 score: -1.0
+related_article1:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article2:
+    id: 164863
+    title: What are the main characteristics of implicit and explicit memory, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
+related_article3:
+    id: 164864
+    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
+related_article4:
+    id: 164864
+    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
+related_article5:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
 ---
 
 &nbsp;

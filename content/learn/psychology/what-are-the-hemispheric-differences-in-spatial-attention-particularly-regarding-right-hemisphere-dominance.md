@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance.md
 url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
 score: -1.0
+related_article1:
+    id: 164757
+    title: How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article2:
+    id: 164744
+    title: What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article3:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article4:
+    id: 164763
+    title: What is the involvement of the frontal lobe in memory formation related to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
+related_article5:
+    id: 164756
+    title: What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
 ---
 
 &nbsp;

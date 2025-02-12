@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-large-molecules-and-particles-transported-across-the-cell-membrane.md
 url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167188
+    title: Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article2:
+    id: 167197
+    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article3:
+    id: 167184
+    title: In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article4:
+    id: 167197
+    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article5:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 ---
 
 &nbsp;

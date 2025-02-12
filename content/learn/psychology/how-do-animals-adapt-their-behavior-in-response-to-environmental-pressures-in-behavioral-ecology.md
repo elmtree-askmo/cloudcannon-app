@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology.md
 url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 171009
+    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+related_article2:
+    id: 171011
+    title: Why are feedback mechanisms important in biological communication systems?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biological-communication-systems
+related_article3:
+    id: 170999
+    title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article4:
+    id: 171005
+    title: What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article5:
+    id: 171007
+    title: What are the defining characteristics of promiscuity in the animal kingdom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
 ---
 
 &nbsp;

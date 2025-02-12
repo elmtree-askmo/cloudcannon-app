@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals.md
 url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
 score: -1.0
+related_article1:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article2:
+    id: 169676
+    title: What are the risks associated with bedrails, and what are the alternatives to their use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
+related_article3:
+    id: 169672
+    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article4:
+    id: 169668
+    title: How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article5:
+    id: 169669
+    title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
 ---
 
 &nbsp;

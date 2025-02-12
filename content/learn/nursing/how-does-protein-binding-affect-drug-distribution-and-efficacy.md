@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-protein-binding-affect-drug-distribution-and-efficacy.md
 url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
 score: -1.0
+related_article1:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article2:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article3:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article4:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article5:
+    id: 166469
+    title: How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
 ---
 
 &nbsp;

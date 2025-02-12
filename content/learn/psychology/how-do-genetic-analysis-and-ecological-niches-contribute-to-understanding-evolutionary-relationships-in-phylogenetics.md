@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics.md
 url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 score: -1.0
+related_article1:
+    id: 165856
+    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article2:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article3:
+    id: 165852
+    title: What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article4:
+    id: 165835
+    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+related_article5:
+    id: 165837
+    title: What are some challenges associated with vector control in the spread of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
 ---
 
 &nbsp;

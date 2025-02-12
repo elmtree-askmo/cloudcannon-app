@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception.md
 url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
 score: -1.0
+related_article1:
+    id: 169401
+    title: In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article2:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+related_article3:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article4:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article5:
+    id: 169411
+    title: What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings.md
 url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
 score: -1.0
+related_article1:
+    id: 160209
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article2:
+    id: 160496
+    title: In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article3:
+    id: 160232
+    title: Describe the interaction between natural landscapes and environmental processes in physical systems.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
+related_article4:
+    id: 160642
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article5:
+    id: 160642
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd.md
 url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 score: -1.0
+related_article1:
+    id: 170590
+    title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article2:
+    id: 170592
+    title: How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article3:
+    id: 170569
+    title: How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article4:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article5:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 ---
 
 &nbsp;

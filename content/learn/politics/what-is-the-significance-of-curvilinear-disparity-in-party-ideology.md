@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-is-the-significance-of-curvilinear-disparity-in-party-ideology.md
 url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
 score: -1.0
+related_article1:
+    id: 169273
+    title: How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article2:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article3:
+    id: 169275
+    title: What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
+related_article4:
+    id: 169271
+    title: How does classical liberalism view the free market economy and competition?
+    subject: Politics
+    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+related_article5:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
 ---
 
 &nbsp;

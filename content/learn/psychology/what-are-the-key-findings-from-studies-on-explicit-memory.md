@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-findings-from-studies-on-explicit-memory.md
 url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 score: -1.0
+related_article1:
+    id: 164493
+    title: What diagnostic techniques are used for memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
+related_article2:
+    id: 164497
+    title: How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
+related_article3:
+    id: 164484
+    title: What distinguishes explicit memory from implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
+related_article4:
+    id: 164492
+    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article5:
+    id: 164504
+    title: How do emotions interact with memory, particularly in emotional memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
 ---
 
 &nbsp;

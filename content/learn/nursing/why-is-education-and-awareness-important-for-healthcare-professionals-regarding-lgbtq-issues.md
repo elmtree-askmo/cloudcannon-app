@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues.md
 url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 score: -1.0
+related_article1:
+    id: 169647
+    title: What challenges do transgender and non-binary individuals face in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
+related_article2:
+    id: 169657
+    title: How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article3:
+    id: 169656
+    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
+related_article4:
+    id: 169658
+    title: What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article5:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 ---
 
 &nbsp;

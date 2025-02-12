@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-branched-polysaccharides-from-unbranched-ones.md
 url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
 score: -1.0
+related_article1:
+    id: 167305
+    title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
+related_article2:
+    id: 167306
+    title: What distinguishes ketose from aldose monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
+related_article3:
+    id: 167301
+    title: What is the role of cellulose in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cellulose-in-plant-cell-walls
+related_article4:
+    id: 167310
+    title: What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
+related_article5:
+    id: 167296
+    title: How does hydrolysis contribute to the breakdown of polymers?
+    subject: Biology
+    url: /learn/biology/questions/how-does-hydrolysis-contribute-to-the-breakdown-of-polymers
 ---
 
 &nbsp;

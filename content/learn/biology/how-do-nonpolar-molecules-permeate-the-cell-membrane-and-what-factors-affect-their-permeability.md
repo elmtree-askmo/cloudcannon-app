@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability.md
 url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
 score: -1.0
+related_article1:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article2:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article3:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article4:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article5:
+    id: 167540
+    title: Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
 ---
 
 &nbsp;

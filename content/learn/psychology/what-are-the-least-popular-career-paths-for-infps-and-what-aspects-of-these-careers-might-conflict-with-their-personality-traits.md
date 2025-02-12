@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits.md
 url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
 score: -1.0
+related_article1:
+    id: 170626
+    title: Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article2:
+    id: 170625
+    title: How do intuition and sensing differ in terms of information processing and decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-intuition-and-sensing-differ-in-terms-of-information-processing-and-decisionmaking
+related_article3:
+    id: 170622
+    title: Explain Carl Jung's influence on personality psychology and how it relates to the understanding of INFP characteristics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
+related_article4:
+    id: 170627
+    title: What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article5:
+    id: 170628
+    title: How does emotional intelligence contribute to effective communication, particularly in handling confrontation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-contribute-to-effective-communication-particularly-in-handling-confrontation
 ---
 
 &nbsp;

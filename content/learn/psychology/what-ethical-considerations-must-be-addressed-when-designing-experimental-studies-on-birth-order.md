@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order.md
 url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
 score: -1.0
+related_article1:
+    id: 165197
+    title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
+related_article2:
+    id: 165195
+    title: What are the advantages of using a within-subject design in research, and how do counterbalancing techniques address order effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
+related_article3:
+    id: 165204
+    title: What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
+related_article4:
+    id: 165204
+    title: What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
+related_article5:
+    id: 165193
+    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
 ---
 
 &nbsp;

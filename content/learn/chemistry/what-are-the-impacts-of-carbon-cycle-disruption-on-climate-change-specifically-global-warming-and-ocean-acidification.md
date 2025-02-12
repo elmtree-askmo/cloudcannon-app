@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification.md
 url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 score: -1.0
+related_article1:
+    id: 170399
+    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article2:
+    id: 170397
+    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article3:
+    id: 170400
+    title: What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
+related_article4:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article5:
+    id: 170396
+    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
 ---
 
 &nbsp;

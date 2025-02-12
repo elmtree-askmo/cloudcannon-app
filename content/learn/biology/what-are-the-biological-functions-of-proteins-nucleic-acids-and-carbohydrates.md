@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates.md
 url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
 score: -1.0
+related_article1:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
+related_article2:
+    id: 167213
+    title: What is the structure of triacylglycerols, and what are their primary functions in energy storage and insulation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
+related_article3:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
+related_article4:
+    id: 167202
+    title: What is the difference between saturated and unsaturated fatty acids in terms of molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
+related_article5:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
 ---
 
 &nbsp;

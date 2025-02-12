@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production.md
 url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 score: -1.0
+related_article1:
+    id: 170407
+    title: Compare natural and technological carbon sequestration methods, including forests, oceans, and carbon capture and storage technologies.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-natural-and-technological-carbon-sequestration-methods-including-forests-oceans-and-carbon-capture-and-storage-technologies
+related_article2:
+    id: 170405
+    title: How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article3:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article4:
+    id: 170398
+    title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
+related_article5:
+    id: 170402
+    title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-modern-technological-advancements-are-being-applied-in-parasitology-research.md
 url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 score: -1.0
+related_article1:
+    id: 165843
+    title: What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article2:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article3:
+    id: 165834
+    title: What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article4:
+    id: 165852
+    title: What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article5:
+    id: 165832
+    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 ---
 
 &nbsp;

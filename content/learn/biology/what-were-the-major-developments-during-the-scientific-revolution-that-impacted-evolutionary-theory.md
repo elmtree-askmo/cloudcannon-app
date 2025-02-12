@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory.md
 url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
 score: -1.0
+related_article1:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article2:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article3:
+    id: 167762
+    title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+related_article4:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article5:
+    id: 167757
+    title: What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
 ---
 
 &nbsp;

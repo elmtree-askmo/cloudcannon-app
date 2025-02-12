@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-emotions-interact-with-memory-particularly-in-emotional-memory.md
 url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
 score: -1.0
+related_article1:
+    id: 164481
+    title: How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+related_article2:
+    id: 164503
+    title: What is the impact of memory loss on identity, and what coping mechanisms are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
+related_article3:
+    id: 164481
+    title: How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+related_article4:
+    id: 164490
+    title: Which brain structures are primarily involved in memory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
+related_article5:
+    id: 164501
+    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
 ---
 
 &nbsp;

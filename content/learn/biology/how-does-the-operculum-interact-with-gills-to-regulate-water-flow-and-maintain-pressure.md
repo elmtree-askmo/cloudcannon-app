@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure.md
 url: /learn/biology/questions/how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure
 score: -1.0
+related_article1:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article2:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article3:
+    id: 168752
+    title: How does the water flow mechanism contribute to oxygen extraction in aquatic environments?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
+related_article4:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article5:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
 ---
 
 &nbsp;

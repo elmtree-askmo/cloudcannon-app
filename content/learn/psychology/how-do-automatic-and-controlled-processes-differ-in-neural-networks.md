@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-automatic-and-controlled-processes-differ-in-neural-networks.md
 url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
 score: -1.0
+related_article1:
+    id: 164548
+    title: What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article2:
+    id: 164560
+    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article3:
+    id: 164545
+    title: What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article4:
+    id: 164550
+    title: What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article5:
+    id: 164547
+    title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
 ---
 
 &nbsp;

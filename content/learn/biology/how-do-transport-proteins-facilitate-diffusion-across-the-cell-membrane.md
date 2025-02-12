@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane.md
 url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article2:
+    id: 166940
+    title: What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+related_article3:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+related_article4:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+related_article5:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
 ---
 
 &nbsp;

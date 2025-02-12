@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-role-of-the-securocratic-state-in-managing-urban-security.md
 url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 score: -1.0
+related_article1:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article2:
+    id: 162950
+    title: How do three-dimensional models assist in understanding volumetric conflict environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+related_article3:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article4:
+    id: 162945
+    title: Explain the concept of urban density and its significance in the context of dangerous density.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
+related_article5:
+    id: 162946
+    title: What are urban canyons, and how do they affect military operations in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 ---
 
 &nbsp;

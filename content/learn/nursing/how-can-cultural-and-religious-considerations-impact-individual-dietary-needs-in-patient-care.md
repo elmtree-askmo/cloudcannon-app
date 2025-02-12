@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care.md
 url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
 score: -1.0
+related_article1:
+    id: 169771
+    title: How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
+related_article2:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article3:
+    id: 169769
+    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article4:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article5:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
 ---
 
 &nbsp;

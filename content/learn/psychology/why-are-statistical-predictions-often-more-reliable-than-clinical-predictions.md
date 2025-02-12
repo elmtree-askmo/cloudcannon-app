@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-are-statistical-predictions-often-more-reliable-than-clinical-predictions.md
 url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 score: -1.0
+related_article1:
+    id: 168895
+    title: Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
+related_article2:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article3:
+    id: 168892
+    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
+related_article4:
+    id: 168878
+    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article5:
+    id: 168893
+    title: How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 ---
 
 &nbsp;

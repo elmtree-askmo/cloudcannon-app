@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-components-contribute-to-the-final-grade-in-this-course.md
 url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
 score: -1.0
+related_article1:
+    id: 167470
+    title: What are the main cellular processes essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
+related_article2:
+    id: 167495
+    title: How can interactive learning tools be implemented in courses effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-interactive-learning-tools-be-implemented-in-courses-effectively
+related_article3:
+    id: 167482
+    title: What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+related_article4:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article5:
+    id: 167470
+    title: What are the main cellular processes essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies.md
 url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 score: -1.0
+related_article1:
+    id: 167689
+    title: How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article2:
+    id: 167701
+    title: How does classical conditioning differ from operant conditioning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+related_article3:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article4:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article5:
+    id: 167704
+    title: What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

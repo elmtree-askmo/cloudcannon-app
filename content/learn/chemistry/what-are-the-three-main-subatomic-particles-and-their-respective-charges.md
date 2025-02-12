@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-three-main-subatomic-particles-and-their-respective-charges.md
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 score: -1.0
+related_article1:
+    id: 167056
+    title: How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article2:
+    id: 167061
+    title: What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article3:
+    id: 167061
+    title: What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article4:
+    id: 167066
+    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article5:
+    id: 167057
+    title: What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-does-evaporation-play-in-the-cooling-effect-of-sweating.md
 url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
 score: -1.0
+related_article1:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article2:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article3:
+    id: 167146
+    title: How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+related_article4:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
+related_article5:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 ---
 
 &nbsp;

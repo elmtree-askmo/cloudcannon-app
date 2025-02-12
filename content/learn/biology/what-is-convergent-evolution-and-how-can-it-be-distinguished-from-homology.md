@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology.md
 url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
 score: -1.0
+related_article1:
+    id: 167734
+    title: Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
+related_article2:
+    id: 167734
+    title: Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
+related_article3:
+    id: 167731
+    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article4:
+    id: 167730
+    title: Explain the significance of binomial nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-binomial-nomenclature-in-taxonomy
+related_article5:
+    id: 167725
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-counterexamples-in-logical-equivalency.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
 score: -1.0
+related_article1:
+    id: 170216
+    title: How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article2:
+    id: 170203
+    title: What are the commutative laws in propositional logic and how are they applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
+related_article3:
+    id: 170211
+    title: What is double negation and how does it relate to logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
+related_article4:
+    id: 170204
+    title: Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article5:
+    id: 170213
+    title: What constitutes a logical argument and how is logical implication involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
 ---
 
 &nbsp;

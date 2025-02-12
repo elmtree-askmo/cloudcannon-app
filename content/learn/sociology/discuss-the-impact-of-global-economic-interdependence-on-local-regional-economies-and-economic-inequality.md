@@ -21,6 +21,31 @@ subject: Sociology
 file_name: discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality.md
 url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
 score: -1.0
+related_article1:
+    id: 160553
+    title: What are the main factors contributing to social inequality within social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+related_article2:
+    id: 160219
+    title: What are the key factors driving urbanization and city development in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
+related_article3:
+    id: 160625
+    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article4:
+    id: 160227
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article5:
+    id: 160089
+    title: In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
 ---
 
 &nbsp;

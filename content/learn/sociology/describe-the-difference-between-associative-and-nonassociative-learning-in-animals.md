@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-difference-between-associative-and-nonassociative-learning-in-animals.md
 url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
 score: -1.0
+related_article1:
+    id: 166338
+    title: How does the study of animal behavior contribute to our understanding of ecology?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
+related_article2:
+    id: 166338
+    title: How does the study of animal behavior contribute to our understanding of ecology?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
+related_article3:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article4:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article5:
+    id: 166342
+    title: What are Darwin's postulates, and how do they relate to natural selection?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane.md
 url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article2:
+    id: 167194
+    title: Define concentration gradients and explain their importance in membrane transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+related_article3:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article4:
+    id: 167194
+    title: Define concentration gradients and explain their importance in membrane transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+related_article5:
+    id: 167195
+    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 ---
 
 &nbsp;

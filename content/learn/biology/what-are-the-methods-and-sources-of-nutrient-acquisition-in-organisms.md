@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms.md
 url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
 score: -1.0
+related_article1:
+    id: 166926
+    title: What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article2:
+    id: 166910
+    title: Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+related_article3:
+    id: 166913
+    title: What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+related_article4:
+    id: 166920
+    title: What is the definition of evolution, and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
+related_article5:
+    id: 166909
+    title: What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
 ---
 
 &nbsp;

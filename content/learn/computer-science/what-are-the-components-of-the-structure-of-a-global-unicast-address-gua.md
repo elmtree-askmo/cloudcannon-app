@@ -7,7 +7,7 @@ article_title: What are the components of the structure of a Global Unicast Addr
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Computer science
+  title: QuickTakes | Computer Science
   page_description: >-
     The Global Unicast Address (GUA) in IPv6 is structured into three main components: Global Routing Prefix, Subnet ID, and Interface ID, allowing for unique identification and efficient routing over the internet.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What are the components of the structure of a Global Unicast Address (GUA)?
 answer: >-
     A Global Unicast Address (GUA) in IPv6 is structured to facilitate unique identification and routing over the internet. The components of a GUA can be broken down into three main parts:\n\n1. **Global Routing Prefix**: This is the first part of the GUA and is used to identify the specific network. It is typically assigned by an Internet Service Provider (ISP) and usually consists of the first 48 bits of the address. The global routing prefix allows for the hierarchical structure of the internet, enabling efficient routing.\n\n2. **Subnet ID**: Following the global routing prefix, the next 16 bits are designated for the subnet ID. This part allows organizations to create multiple subnets within their allocated address space. The subnet ID helps in organizing and managing the network by dividing it into smaller, manageable segments.\n\n3. **Interface ID**: The final 64 bits of the GUA are used for the interface ID, which uniquely identifies a specific interface on a device within the subnet. This part can be derived from the MAC address of the device using the Modified EUI-64 format or can be assigned randomly for privacy reasons.\n\nIn summary, a Global Unicast Address (GUA) is structured as follows:\n\n- **Format**: 128 bits total\n- **Global Routing Prefix**: 48 bits\n- **Subnet ID**: 16 bits\n- **Interface ID**: 64 bits\n\nAn example of a GUA is `2001:0db8:85a3:0000:0000:8a2e:0370:7334`, where:\n- `2001:0db8:85a3` represents the global routing prefix,\n- `0000` is the subnet ID,\n- `0000:8a2e:0370:7334` is the interface ID.\n\nThis structure allows GUAs to be globally unique and routable on the internet, facilitating effective communication across different networks.
-subject: Computer science
+subject: Computer Science
 file_name: what-are-the-components-of-the-structure-of-a-global-unicast-address-gua.md
 url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 score: -1.0
+related_article1:
+    id: 165747
+    title: How is a Link-Local Address (LLA) automatically created in IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
+related_article2:
+    id: 165742
+    title: Differentiate between unicast, multicast, and anycast IPv6 address types.
+    subject: Computer Science
+    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
+related_article3:
+    id: 165751
+    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+related_article4:
+    id: 165739
+    title: Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
+related_article5:
+    id: 165743
+    title: What is the recommended prefix length for IPv6 addresses and why?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
 ---
 
 &nbsp;

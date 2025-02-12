@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented.md
 url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 score: -1.0
+related_article1:
+    id: 169356
+    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article2:
+    id: 169352
+    title: How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
+related_article3:
+    id: 169338
+    title: What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
+related_article4:
+    id: 169358
+    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article5:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
 ---
 
 &nbsp;

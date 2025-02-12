@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements.md
 url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
 score: -1.0
+related_article1:
+    id: 167282
+    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
+related_article2:
+    id: 167290
+    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article3:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+related_article4:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+related_article5:
+    id: 167286
+    title: What are isotopes and how do they affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
 ---
 
 &nbsp;

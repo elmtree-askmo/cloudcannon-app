@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition.md
 url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 score: -1.0
+related_article1:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article2:
+    id: 170530
+    title: What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article3:
+    id: 170545
+    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article4:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article5:
+    id: 170537
+    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 ---
 
 &nbsp;

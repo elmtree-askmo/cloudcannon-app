@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders.md
 url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
 score: -1.0
+related_article1:
+    id: 164915
+    title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article2:
+    id: 164918
+    title: Describe the components and capacity of working memory according to Baddeley’s and Cowan’s models.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-components-and-capacity-of-working-memory-according-to-baddeleys-and-cowans-models
+related_article3:
+    id: 164908
+    title: How do frontal lobe functions relate to executive function and decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
+related_article4:
+    id: 164906
+    title: Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article5:
+    id: 164912
+    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
 ---
 
 &nbsp;

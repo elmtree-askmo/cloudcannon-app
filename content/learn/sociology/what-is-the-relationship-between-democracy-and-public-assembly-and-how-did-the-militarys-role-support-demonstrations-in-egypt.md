@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt.md
 url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
 score: -1.0
+related_article1:
+    id: 168979
+    title: Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
+related_article2:
+    id: 168979
+    title: Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
+related_article3:
+    id: 168976
+    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article4:
+    id: 168976
+    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article5:
+    id: 168980
+    title: What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
 ---
 
 &nbsp;

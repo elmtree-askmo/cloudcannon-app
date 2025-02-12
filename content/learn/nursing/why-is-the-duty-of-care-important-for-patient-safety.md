@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-the-duty-of-care-important-for-patient-safety.md
 url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 score: -1.0
+related_article1:
+    id: 169564
+    title: Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article2:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article3:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article4:
+    id: 169582
+    title: How do patient care standards ensure patient safety and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+related_article5:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 ---
 
 &nbsp;

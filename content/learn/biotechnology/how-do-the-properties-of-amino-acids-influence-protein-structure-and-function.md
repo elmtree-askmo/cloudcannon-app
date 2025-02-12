@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-the-properties-of-amino-acids-influence-protein-structure-and-function.md
 url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 score: -1.0
+related_article1:
+    id: 166846
+    title: What are the causes and effects of protein denaturation on its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
+related_article2:
+    id: 166852
+    title: What chemical properties of proteins affect their solubility and reactivity?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
+related_article3:
+    id: 166845
+    title: How do multiple polypeptide chains form a functional quaternary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
+related_article4:
+    id: 166845
+    title: How do multiple polypeptide chains form a functional quaternary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
+related_article5:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 ---
 
 &nbsp;

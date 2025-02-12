@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation.md
 url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
 score: -1.0
+related_article1:
+    id: 170876
+    title: Explain the Fisherian runaway process and its impact on trait evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
+related_article2:
+    id: 170871
+    title: How does female choosiness affect selection pressures in parental investment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
+related_article3:
+    id: 170878
+    title: How does frequency-dependent selection affect color frequency changes in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
+related_article4:
+    id: 170876
+    title: Explain the Fisherian runaway process and its impact on trait evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
+related_article5:
+    id: 170869
+    title: How does anisotropic selection influence sexual selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
 ---
 
 &nbsp;

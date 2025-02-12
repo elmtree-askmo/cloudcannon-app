@@ -21,6 +21,31 @@ subject: Psychology
 file_name: identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission.md
 url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 score: -1.0
+related_article1:
+    id: 165855
+    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article2:
+    id: 165832
+    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article3:
+    id: 165832
+    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article4:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article5:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 ---
 
 &nbsp;

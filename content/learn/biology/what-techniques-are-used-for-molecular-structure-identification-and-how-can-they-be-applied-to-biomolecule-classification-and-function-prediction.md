@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-techniques-are-used-for-molecular-structure-identification-and-how-can-they-be-applied-to-biomolecule-classification-and-function-prediction.md
 url: /learn/biology/questions/what-techniques-are-used-for-molecular-structure-identification-and-how-can-they-be-applied-to-biomolecule-classification-and-function-prediction
 score: -1.0
+related_article1:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article2:
+    id: 167213
+    title: What is the structure of triacylglycerols, and what are their primary functions in energy storage and insulation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
+related_article3:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article4:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article5:
+    id: 167212
+    title: Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-steroids-and-their-roles-in-hormonal-functions-and-as-membrane-components
 ---
 
 &nbsp;

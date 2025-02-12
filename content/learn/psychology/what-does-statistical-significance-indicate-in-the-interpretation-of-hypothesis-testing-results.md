@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results.md
 url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
 score: -1.0
+related_article1:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article2:
+    id: 165066
+    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
+related_article3:
+    id: 165079
+    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article4:
+    id: 165087
+    title: How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article5:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 ---
 
 &nbsp;

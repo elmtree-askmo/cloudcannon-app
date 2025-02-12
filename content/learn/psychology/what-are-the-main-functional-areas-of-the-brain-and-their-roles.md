@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-functional-areas-of-the-brain-and-their-roles.md
 url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 score: -1.0
+related_article1:
+    id: 164350
+    title: Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article2:
+    id: 164347
+    title: What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article3:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article4:
+    id: 164352
+    title: What is the importance of functional imaging in measuring blood flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
+related_article5:
+    id: 164350
+    title: Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
 ---
 
 &nbsp;

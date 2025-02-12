@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age.md
 url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 score: -1.0
+related_article1:
+    id: 168041
+    title: How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article2:
+    id: 168038
+    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article3:
+    id: 168045
+    title: What role does practice play in the stability of procedural memory with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
+related_article4:
+    id: 168049
+    title: What are the characteristics of implicit memory that contribute to its automaticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-characteristics-of-a-solid-and-provide-an-example.md
 url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 162031
+    title: What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+related_article2:
+    id: 162028
+    title: What are the characteristics of a liquid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+related_article3:
+    id: 161967
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 162022
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article5:
+    id: 162047
+    title: How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 ---
 
 &nbsp;

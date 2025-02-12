@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed.md
 url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
 score: -1.0
+related_article1:
+    id: 170499
+    title: How does synaptic plasticity contribute to neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
+related_article2:
+    id: 170493
+    title: How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
+related_article3:
+    id: 170491
+    title: Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+related_article4:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article5:
+    id: 170491
+    title: Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 ---
 
 &nbsp;

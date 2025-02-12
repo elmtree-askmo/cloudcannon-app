@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality.md
 url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
 score: -1.0
+related_article1:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article2:
+    id: 164914
+    title: Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+related_article3:
+    id: 164915
+    title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article4:
+    id: 164901
+    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+related_article5:
+    id: 164900
+    title: What are the key components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 ---
 
 &nbsp;

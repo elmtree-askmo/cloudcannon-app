@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-can-you-solve-for-x-using-the-isolation-method.md
 url: /learn/mathematics/questions/how-can-you-solve-for-x-using-the-isolation-method
 score: -1.0
+related_article1:
+    id: 162111
+    title: How do you perform multiplication with negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
+related_article2:
+    id: 162117
+    title: How do you solve a linear equation in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
+related_article3:
+    id: 162113
+    title: What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
+related_article4:
+    id: 162114
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
 ---
 
 &nbsp;

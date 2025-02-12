@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-modern-views-on-dualism-in-neuroscience.md
 url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 score: -1.0
+related_article1:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article2:
+    id: 167688
+    title: What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article3:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article4:
+    id: 167700
+    title: What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article5:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 ---
 
 &nbsp;

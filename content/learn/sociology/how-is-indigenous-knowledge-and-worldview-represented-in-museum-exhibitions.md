@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions.md
 url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
 score: -1.0
+related_article1:
+    id: 169154
+    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+related_article2:
+    id: 169158
+    title: How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article3:
+    id: 169162
+    title: How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article4:
+    id: 169168
+    title: How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
+related_article5:
+    id: 169170
+    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
 ---
 
 &nbsp;

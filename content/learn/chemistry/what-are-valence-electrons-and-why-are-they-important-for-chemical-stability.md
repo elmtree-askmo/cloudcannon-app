@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-valence-electrons-and-why-are-they-important-for-chemical-stability.md
 url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
 score: -1.0
+related_article1:
+    id: 167068
+    title: What are the characteristics of carbon that make it versatile in forming organic molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
+related_article2:
+    id: 167058
+    title: How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article3:
+    id: 167064
+    title: What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
+related_article4:
+    id: 167069
+    title: How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article5:
+    id: 167064
+    title: What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
 ---
 
 &nbsp;

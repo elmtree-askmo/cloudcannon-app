@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument.md
 url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
 score: -1.0
+related_article1:
+    id: 170226
+    title: Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article2:
+    id: 170221
+    title: How can counter-examples be used to demonstrate the invalidity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
+related_article3:
+    id: 170226
+    title: Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article4:
+    id: 170220
+    title: What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
+related_article5:
+    id: 170234
+    title: Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples.md
 url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
 score: -1.0
+related_article1:
+    id: 169408
+    title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+related_article2:
+    id: 169407
+    title: What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article3:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+related_article4:
+    id: 169407
+    title: What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article5:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
 ---
 
 &nbsp;

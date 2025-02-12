@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber.md
 url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
 score: -1.0
+related_article1:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article2:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article3:
+    id: 169774
+    title: Identify essential minerals and their functions in the body.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+related_article4:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article5:
+    id: 169768
+    title: What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 ---
 
 &nbsp;

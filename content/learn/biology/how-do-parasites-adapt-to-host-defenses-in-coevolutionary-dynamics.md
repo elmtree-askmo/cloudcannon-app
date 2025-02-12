@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics.md
 url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
 score: -1.0
+related_article1:
+    id: 166124
+    title: What conditions can lead to host extinction in population growth models?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
+related_article2:
+    id: 166130
+    title: How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article3:
+    id: 166131
+    title: What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article4:
+    id: 166134
+    title: What challenges are associated with modeling habitat complexity in ecological models?
+    subject: Biology
+    url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
+related_article5:
+    id: 166132
+    title: How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems.md
 url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 score: -1.0
+related_article1:
+    id: 166930
+    title: How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+related_article2:
+    id: 166917
+    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+related_article3:
+    id: 166911
+    title: What are the essential steps in designing an experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+related_article4:
+    id: 166917
+    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+related_article5:
+    id: 166913
+    title: What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-similarities-and-differences-in-relational-crises-between-genders-manifest.md
 url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
 score: -1.0
+related_article1:
+    id: 164187
+    title: What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+related_article2:
+    id: 164198
+    title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
+related_article3:
+    id: 164192
+    title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
+related_article4:
+    id: 164191
+    title: How do historical context and media influence contribute to cultural stereotypes of women?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
+related_article5:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 ---
 
 &nbsp;

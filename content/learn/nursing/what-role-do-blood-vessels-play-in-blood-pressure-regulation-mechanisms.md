@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms.md
 url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
 score: -1.0
+related_article1:
+    id: 169517
+    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+related_article2:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article3:
+    id: 169529
+    title: What biological factors, such as age and gender, affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
+related_article4:
+    id: 169526
+    title: How do heart function and blood flow contribute to blood circulation mechanics?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
+related_article5:
+    id: 169516
+    title: Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
 ---
 
 &nbsp;

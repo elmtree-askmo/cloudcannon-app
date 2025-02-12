@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health.md
 url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 score: -1.0
+related_article1:
+    id: 164525
+    title: How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article2:
+    id: 164534
+    title: How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+related_article3:
+    id: 164535
+    title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+related_article4:
+    id: 164542
+    title: How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
+related_article5:
+    id: 164534
+    title: How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
 ---
 
 &nbsp;

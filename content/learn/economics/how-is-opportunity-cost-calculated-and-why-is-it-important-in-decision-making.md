@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making.md
 url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
 score: -1.0
+related_article1:
+    id: 169930
+    title: How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+related_article2:
+    id: 169921
+    title: What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article3:
+    id: 169918
+    title: How does commodification impact the perception of labor and nature in economic terms?
+    subject: Economics
+    url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
+related_article4:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+related_article5:
+    id: 169931
+    title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
 ---
 
 &nbsp;

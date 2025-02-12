@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-behavior-change-procedures-implemented-and-monitored.md
 url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
 score: -1.0
+related_article1:
+    id: 169318
+    title: Why is measuring the duration of behavior relevant to behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+related_article2:
+    id: 169325
+    title: How are target behaviors identified and why are they crucial in behavior programs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
+related_article3:
+    id: 169324
+    title: What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+related_article4:
+    id: 169321
+    title: What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169317
+    title: How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts.md
 url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
 score: -1.0
+related_article1:
+    id: 169630
+    title: What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
+related_article2:
+    id: 169635
+    title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
+related_article3:
+    id: 169632
+    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+related_article4:
+    id: 169631
+    title: How does healthcare discrimination impact access to services and quality of care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-healthcare-discrimination-impact-access-to-services-and-quality-of-care
+related_article5:
+    id: 169637
+    title: What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
 ---
 
 &nbsp;

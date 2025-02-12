@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care.md
 url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
 score: -1.0
+related_article1:
+    id: 169499
+    title: What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
+related_article2:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article3:
+    id: 169506
+    title: What training responsibilities do employers have under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
+related_article4:
+    id: 169501
+    title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
+related_article5:
+    id: 169504
+    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 ---
 
 &nbsp;

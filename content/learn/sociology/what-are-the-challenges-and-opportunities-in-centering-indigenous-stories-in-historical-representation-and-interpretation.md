@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation.md
 url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
 score: -1.0
+related_article1:
+    id: 169161
+    title: What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
+related_article2:
+    id: 169164
+    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article3:
+    id: 169155
+    title: What role do national and tribal museums play in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+related_article4:
+    id: 169159
+    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article5:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 ---
 
 &nbsp;

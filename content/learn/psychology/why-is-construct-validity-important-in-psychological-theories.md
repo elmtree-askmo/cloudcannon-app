@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-construct-validity-important-in-psychological-theories.md
 url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
 score: -1.0
+related_article1:
+    id: 163032
+    title: Why is multicultural competence important in counseling?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
+related_article2:
+    id: 163031
+    title: How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article3:
+    id: 163040
+    title: How does the integration of therapeutic approaches enhance treatment effectiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
+related_article4:
+    id: 163031
+    title: How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article5:
+    id: 163042
+    title: How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 ---
 
 &nbsp;

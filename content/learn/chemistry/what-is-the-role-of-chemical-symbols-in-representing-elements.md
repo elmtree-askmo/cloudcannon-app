@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-chemical-symbols-in-representing-elements.md
 url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
 score: -1.0
+related_article1:
+    id: 161854
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article2:
+    id: 161734
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article3:
+    id: 161863
+    title: How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+related_article4:
+    id: 161867
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article5:
+    id: 161732
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 ---
 
 &nbsp;

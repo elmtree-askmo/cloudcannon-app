@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-tile-risk-assessment-model-evaluate-individual-capability.md
 url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
 score: -1.0
+related_article1:
+    id: 169510
+    title: What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article2:
+    id: 169513
+    title: What should be included in a visual inspection for equipment safety checks?
+    subject: Nursing
+    url: /learn/nursing/questions/what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks
+related_article3:
+    id: 169504
+    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
+related_article4:
+    id: 169505
+    title: What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
+related_article5:
+    id: 169513
+    title: What should be included in a visual inspection for equipment safety checks?
+    subject: Nursing
+    url: /learn/nursing/questions/what-should-be-included-in-a-visual-inspection-for-equipment-safety-checks
 ---
 
 &nbsp;

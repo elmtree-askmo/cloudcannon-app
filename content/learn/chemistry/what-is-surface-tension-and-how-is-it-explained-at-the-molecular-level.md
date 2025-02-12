@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level.md
 url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
 score: -1.0
+related_article1:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article2:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article3:
+    id: 167440
+    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+related_article4:
+    id: 167424
+    title: How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
+related_article5:
+    id: 167427
+    title: Define cohesion and describe its mechanism in water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
 ---
 
 &nbsp;

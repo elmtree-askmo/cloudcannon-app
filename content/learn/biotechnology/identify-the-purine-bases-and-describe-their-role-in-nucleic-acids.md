@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: identify-the-purine-bases-and-describe-their-role-in-nucleic-acids.md
 url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
 score: -1.0
+related_article1:
+    id: 166826
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article2:
+    id: 166827
+    title: Explain the importance of the sugar carbon numbering system in nucleotide structure.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-importance-of-the-sugar-carbon-numbering-system-in-nucleotide-structure
+related_article3:
+    id: 166826
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article4:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 ---
 
 &nbsp;

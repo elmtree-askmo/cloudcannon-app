@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases.md
 url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 score: -1.0
+related_article1:
+    id: 164309
+    title: How does perceptual learning contribute to object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
+related_article2:
+    id: 164297
+    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article3:
+    id: 164310
+    title: What factors influence color differentiation in the visual spectrum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article4:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article5:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

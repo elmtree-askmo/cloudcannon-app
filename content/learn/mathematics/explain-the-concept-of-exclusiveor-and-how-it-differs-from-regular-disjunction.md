@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction.md
 url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
 score: -1.0
+related_article1:
+    id: 170189
+    title: Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article2:
+    id: 170198
+    title: What are the key logical operators to recognize when translating English into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+related_article3:
+    id: 170200
+    title: What steps are involved in translating propositional logic back into English while maintaining logical meaning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
+related_article4:
+    id: 170190
+    title: How does negation affect the truth value of a proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
+related_article5:
+    id: 170189
+    title: Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-structural-components-of-a-neuron-and-their-functions.md
 url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
 score: -1.0
+related_article1:
+    id: 170618
+    title: What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
+related_article2:
+    id: 170598
+    title: How do motor neurons, sensory neurons, and interneurons differ in function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
+related_article3:
+    id: 170608
+    title: How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+related_article4:
+    id: 170614
+    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article5:
+    id: 170610
+    title: How is membrane potential measured in electrophysiological studies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 ---
 
 &nbsp;

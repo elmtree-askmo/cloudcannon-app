@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism.md
 url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
 score: -1.0
+related_article1:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article2:
+    id: 159825
+    title: What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
+related_article3:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+related_article4:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+related_article5:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
 ---
 
 &nbsp;

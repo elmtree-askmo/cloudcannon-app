@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-identifying-vertices-important-in-transformations.md
 url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 score: -1.0
+related_article1:
+    id: 162232
+    title: How do transformations affect the positions of vertices in a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+related_article2:
+    id: 162222
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article3:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article4:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article5:
+    id: 162223
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 ---
 
 &nbsp;

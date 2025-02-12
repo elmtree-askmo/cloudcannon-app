@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions.md
 url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
 score: -1.0
+related_article1:
+    id: 168986
+    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+related_article2:
+    id: 168978
+    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article3:
+    id: 168982
+    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article4:
+    id: 168982
+    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+related_article5:
+    id: 168982
+    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 ---
 
 &nbsp;

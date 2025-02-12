@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-ribose-and-deoxyribose-sugars-differ-structurally.md
 url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
 score: -1.0
+related_article1:
+    id: 167643
+    title: How do triglycerides differ from phospholipids in structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+related_article2:
+    id: 167640
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article3:
+    id: 167648
+    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article4:
+    id: 167637
+    title: Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article5:
+    id: 167640
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 ---
 
 &nbsp;

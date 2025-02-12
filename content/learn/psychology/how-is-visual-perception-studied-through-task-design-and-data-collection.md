@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-is-visual-perception-studied-through-task-design-and-data-collection.md
 url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
 score: -1.0
+related_article1:
+    id: 165241
+    title: What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article2:
+    id: 165227
+    title: How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article3:
+    id: 165228
+    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
+related_article4:
+    id: 165229
+    title: How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-the-negative-domain-excluded-in-the-principal-square-root.md
 url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
 score: -1.0
+related_article1:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article2:
+    id: 163712
+    title: How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article3:
+    id: 163717
+    title: How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+related_article4:
+    id: 163713
+    title: Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+related_article5:
+    id: 163714
+    title: What are the characteristics of the graph of y = √x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
 ---
 
 &nbsp;

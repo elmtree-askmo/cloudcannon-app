@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry.md
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
 score: -1.0
+related_article1:
+    id: 163721
+    title: What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
+related_article2:
+    id: 163715
+    title: Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article3:
+    id: 163725
+    title: Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+related_article4:
+    id: 163728
+    title: How does symmetry around the line y = x affect the graph of inverse functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
+related_article5:
+    id: 163725
+    title: Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
 ---
 
 &nbsp;

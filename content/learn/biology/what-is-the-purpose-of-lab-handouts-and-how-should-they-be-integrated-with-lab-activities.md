@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities.md
 url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
 score: -1.0
+related_article1:
+    id: 163362
+    title: Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article2:
+    id: 163362
+    title: Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article3:
+    id: 163366
+    title: How can students effectively prepare for and review lab modules?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
+related_article4:
+    id: 163357
+    title: What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
+related_article5:
+    id: 163367
+    title: What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
 ---
 
 &nbsp;

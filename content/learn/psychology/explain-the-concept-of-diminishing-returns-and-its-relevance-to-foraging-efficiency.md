@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency.md
 url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
 score: -1.0
+related_article1:
+    id: 170831
+    title: What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article2:
+    id: 170831
+    title: What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article3:
+    id: 170831
+    title: What are the trade-offs involved in resource allocation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
+related_article4:
+    id: 170823
+    title: What are the key assumptions of the Optimal Foraging Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-assumptions-of-the-optimal-foraging-theory
+related_article5:
+    id: 170827
+    title: What are the main components of a cost-benefit analysis in ecological decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
 ---
 
 &nbsp;

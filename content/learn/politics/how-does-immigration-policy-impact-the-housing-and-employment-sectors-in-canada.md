@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada.md
 url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 score: -1.0
+related_article1:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article2:
+    id: 165625
+    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+related_article3:
+    id: 165620
+    title: How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
+related_article4:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article5:
+    id: 165633
+    title: What measures can be taken to ensure fairness and public trust in electoral processes?
+    subject: Politics
+    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
 ---
 
 &nbsp;

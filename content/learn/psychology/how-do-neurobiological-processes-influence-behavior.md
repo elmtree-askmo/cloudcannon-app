@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-neurobiological-processes-influence-behavior.md
 url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 score: -1.0
+related_article1:
+    id: 167686
+    title: What distinguishes adaptive behaviors from maladaptive behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+related_article2:
+    id: 167702
+    title: What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+related_article3:
+    id: 167690
+    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+related_article4:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article5:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 ---
 
 &nbsp;

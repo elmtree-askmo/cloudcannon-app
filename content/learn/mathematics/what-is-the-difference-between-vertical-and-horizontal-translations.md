@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-difference-between-vertical-and-horizontal-translations.md
 url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
 score: -1.0
+related_article1:
+    id: 162290
+    title: What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+related_article2:
+    id: 162274
+    title: What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article3:
+    id: 162541
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+related_article4:
+    id: 162535
+    title: What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article5:
+    id: 162293
+    title: How do you add and subtract coordinates to achieve directional movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
 ---
 
 &nbsp;

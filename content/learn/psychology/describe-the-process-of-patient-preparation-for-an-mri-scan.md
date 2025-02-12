@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-process-of-patient-preparation-for-an-mri-scan.md
 url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
 score: -1.0
+related_article1:
+    id: 164350
+    title: Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article2:
+    id: 164349
+    title: What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article3:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article4:
+    id: 164353
+    title: Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
+related_article5:
+    id: 164354
+    title: What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 ---
 
 &nbsp;

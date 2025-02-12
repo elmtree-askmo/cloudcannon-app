@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research.md
 url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
 score: -1.0
+related_article1:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article2:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article3:
+    id: 164217
+    title: How did Colberg study moral reasoning, and what were his key findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
+related_article4:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article5:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

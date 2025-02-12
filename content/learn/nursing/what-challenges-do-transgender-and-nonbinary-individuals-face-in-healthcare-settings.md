@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings.md
 url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article2:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article3:
+    id: 169644
+    title: How does discrimination in healthcare impact patients' mental health and willingness to seek care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-in-healthcare-impact-patients-mental-health-and-willingness-to-seek-care
+related_article4:
+    id: 169653
+    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article5:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry.md
 url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 score: -1.0
+related_article1:
+    id: 167260
+    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article2:
+    id: 167249
+    title: What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+related_article3:
+    id: 167259
+    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+related_article4:
+    id: 167255
+    title: What are isotopes and how do they differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article5:
+    id: 167252
+    title: Define atomic weight and explain how it is calculated using a weighted average.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-atomic-weight-and-explain-how-it-is-calculated-using-a-weighted-average
 ---
 
 &nbsp;

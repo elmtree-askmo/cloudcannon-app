@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity.md
 url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
 score: -1.0
+related_article1:
+    id: 167743
+    title: What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article2:
+    id: 167748
+    title: What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article3:
+    id: 167754
+    title: What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
+related_article4:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article5:
+    id: 167765
+    title: What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 ---
 
 &nbsp;

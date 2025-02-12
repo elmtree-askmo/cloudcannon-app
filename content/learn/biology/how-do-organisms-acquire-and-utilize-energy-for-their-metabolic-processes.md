@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes.md
 url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
 score: -1.0
+related_article1:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article2:
+    id: 166924
+    title: What is the concept of fitness in the context of differential reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
+related_article3:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article4:
+    id: 166913
+    title: What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+related_article5:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
 ---
 
 &nbsp;

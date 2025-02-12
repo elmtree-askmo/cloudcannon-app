@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism.md
 url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
 score: -1.0
+related_article1:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article2:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article3:
+    id: 169214
+    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article4:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article5:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 ---
 
 &nbsp;

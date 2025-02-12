@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine.md
 url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
 score: -1.0
+related_article1:
+    id: 162922
+    title: What are the implications of violent non-state actors on urban combat training in informal megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
+related_article2:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article3:
+    id: 162928
+    title: What is the purpose of urban taxonomy in urban planning?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
+related_article4:
+    id: 162924
+    title: What is the significance of spatial intelligence in volumetric warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
+related_article5:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
 ---
 
 &nbsp;

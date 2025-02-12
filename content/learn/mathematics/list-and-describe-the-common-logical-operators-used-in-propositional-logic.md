@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: list-and-describe-the-common-logical-operators-used-in-propositional-logic.md
 url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 score: -1.0
+related_article1:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article2:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article3:
+    id: 170245
+    title: How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article4:
+    id: 170237
+    title: Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article5:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-factors-in-assessing-behavioral-changes-postinjury.md
 url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
 score: -1.0
+related_article1:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article2:
+    id: 164662
+    title: How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+related_article3:
+    id: 164668
+    title: What are the advantages of using non-invasive techniques in anatomical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
+related_article4:
+    id: 164667
+    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article5:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

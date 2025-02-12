@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them.md
 url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
 score: -1.0
+related_article1:
+    id: 170189
+    title: Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article2:
+    id: 170195
+    title: Provide an example of a logical equivalence and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
+related_article3:
+    id: 170190
+    title: How does negation affect the truth value of a proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
+related_article4:
+    id: 170195
+    title: Provide an example of a logical equivalence and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
+related_article5:
+    id: 170189
+    title: Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
 ---
 
 &nbsp;

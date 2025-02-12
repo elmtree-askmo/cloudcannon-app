@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities.md
 url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
 score: -1.0
+related_article1:
+    id: 162919
+    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+related_article2:
+    id: 162931
+    title: How does tactical urbanism influence volumetric warfighting strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
+related_article3:
+    id: 162916
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article4:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article5:
+    id: 162919
+    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
 ---
 
 &nbsp;

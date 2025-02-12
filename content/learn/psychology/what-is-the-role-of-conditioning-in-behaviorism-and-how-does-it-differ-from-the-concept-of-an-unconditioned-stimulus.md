@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus.md
 url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
 score: -1.0
+related_article1:
+    id: 167717
+    title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
+related_article2:
+    id: 167712
+    title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
+related_article3:
+    id: 167715
+    title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
+related_article4:
+    id: 167723
+    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+related_article5:
+    id: 167715
+    title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 ---
 
 &nbsp;

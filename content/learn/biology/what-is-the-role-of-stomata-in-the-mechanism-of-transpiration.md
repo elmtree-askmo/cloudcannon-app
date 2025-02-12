@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-the-role-of-stomata-in-the-mechanism-of-transpiration.md
 url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
 score: -1.0
+related_article1:
+    id: 168774
+    title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
+related_article2:
+    id: 168769
+    title: How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article3:
+    id: 168774
+    title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
+related_article4:
+    id: 168779
+    title: How do environmental conditions affect the rate of transpiration in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
 ---
 
 &nbsp;

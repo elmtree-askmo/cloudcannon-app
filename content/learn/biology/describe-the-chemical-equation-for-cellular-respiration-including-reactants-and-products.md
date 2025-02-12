@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products.md
 url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
 score: -1.0
+related_article1:
+    id: 170365
+    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+related_article2:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article3:
+    id: 170359
+    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article4:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article5:
+    id: 170376
+    title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 ---
 
 &nbsp;

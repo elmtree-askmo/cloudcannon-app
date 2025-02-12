@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
 score: -1.0
+related_article1:
+    id: 169475
+    title: What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article2:
+    id: 169475
+    title: What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article3:
+    id: 169495
+    title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+related_article4:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article5:
+    id: 169486
+    title: How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
 ---
 
 &nbsp;

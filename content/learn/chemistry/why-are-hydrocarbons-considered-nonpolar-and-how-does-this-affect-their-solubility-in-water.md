@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water.md
 url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 score: -1.0
+related_article1:
+    id: 167320
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article2:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article3:
+    id: 167316
+    title: How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
+related_article4:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article5:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 ---
 
 &nbsp;

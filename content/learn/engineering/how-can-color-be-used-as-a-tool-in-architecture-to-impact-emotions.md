@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions.md
 url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
 score: -1.0
+related_article1:
+    id: 169365
+    title: How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article2:
+    id: 169369
+    title: What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article3:
+    id: 169364
+    title: What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+related_article4:
+    id: 169365
+    title: How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article5:
+    id: 169369
+    title: What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 ---
 
 &nbsp;

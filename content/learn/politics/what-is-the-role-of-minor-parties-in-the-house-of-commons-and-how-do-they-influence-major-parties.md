@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties.md
 url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
 score: -1.0
+related_article1:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+related_article2:
+    id: 165623
+    title: What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+related_article3:
+    id: 165625
+    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+related_article4:
+    id: 165623
+    title: What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+related_article5:
+    id: 165622
+    title: How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 ---
 
 &nbsp;

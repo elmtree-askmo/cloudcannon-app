@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain.md
 url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
 score: -1.0
+related_article1:
+    id: 164719
+    title: How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article2:
+    id: 164719
+    title: How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
+related_article3:
+    id: 164740
+    title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article4:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article5:
+    id: 164730
+    title: How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
 ---
 
 &nbsp;

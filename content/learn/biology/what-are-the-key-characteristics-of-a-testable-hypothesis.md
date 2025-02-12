@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-characteristics-of-a-testable-hypothesis.md
 url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
 score: -1.0
+related_article1:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article2:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article3:
+    id: 167513
+    title: What mechanisms drive evolution and how do they impact biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-drive-evolution-and-how-do-they-impact-biodiversity
+related_article4:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article5:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-main-types-of-map-projections-and-their-characteristics.md
 url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
 score: -1.0
+related_article1:
+    id: 159828
+    title: What is the significance of regionalization in regional analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
+related_article2:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article3:
+    id: 159829
+    title: How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article4:
+    id: 159817
+    title: What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article5:
+    id: 159829
+    title: How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
 ---
 
 &nbsp;

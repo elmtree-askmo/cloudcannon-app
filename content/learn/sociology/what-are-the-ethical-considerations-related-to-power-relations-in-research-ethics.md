@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics.md
 url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
 score: -1.0
+related_article1:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article2:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article3:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article4:
+    id: 163666
+    title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article5:
+    id: 163666
+    title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 ---
 
 &nbsp;

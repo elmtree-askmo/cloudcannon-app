@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-role-of-oxygen-in-the-respiration-process.md
 url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
 score: -1.0
+related_article1:
+    id: 170926
+    title: What are the main types of organisms capable of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+related_article2:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+related_article3:
+    id: 170931
+    title: What are the main uses of energy in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+related_article4:
+    id: 170926
+    title: What are the main types of organisms capable of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+related_article5:
+    id: 170931
+    title: What are the main uses of energy in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
 ---
 
 &nbsp;

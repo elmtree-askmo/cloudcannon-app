@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety.md
 url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
 score: -1.0
+related_article1:
+    id: 169672
+    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article2:
+    id: 169677
+    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
+related_article3:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article4:
+    id: 169672
+    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article5:
+    id: 169664
+    title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
 ---
 
 &nbsp;

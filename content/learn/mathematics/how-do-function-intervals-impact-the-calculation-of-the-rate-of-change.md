@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-function-intervals-impact-the-calculation-of-the-rate-of-change.md
 url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
 score: -1.0
+related_article1:
+    id: 163811
+    title: What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article2:
+    id: 163817
+    title: What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
+related_article3:
+    id: 163813
+    title: What is a piecewise linear function and why are intervals important in its structure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
+related_article4:
+    id: 163828
+    title: How can the average rate of change help in describing the behavior of a function graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-help-in-describing-the-behavior-of-a-function-graph
+related_article5:
+    id: 163813
+    title: What is a piecewise linear function and why are intervals important in its structure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
 ---
 
 &nbsp;

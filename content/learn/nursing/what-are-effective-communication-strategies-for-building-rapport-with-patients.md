@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-effective-communication-strategies-for-building-rapport-with-patients.md
 url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
 score: -1.0
+related_article1:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article2:
+    id: 169478
+    title: How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article3:
+    id: 169489
+    title: What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article4:
+    id: 169483
+    title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
+related_article5:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
 ---
 
 &nbsp;

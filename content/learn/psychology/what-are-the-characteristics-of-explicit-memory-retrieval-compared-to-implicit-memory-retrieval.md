@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
 score: -1.0
+related_article1:
+    id: 168036
+    title: How does primary memory differ from secondary memory in terms of stability with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
+related_article2:
+    id: 168034
+    title: How can encoding strategies benefit older adults in maintaining memory function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
+related_article3:
+    id: 168035
+    title: What are the main age-related changes observed in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
+related_article4:
+    id: 168035
+    title: What are the main age-related changes observed in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
 ---
 
 &nbsp;

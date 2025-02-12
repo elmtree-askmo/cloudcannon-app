@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis.md
 url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 score: -1.0
+related_article1:
+    id: 169316
+    title: What is the topography of behavior and why is it significant in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+related_article2:
+    id: 169316
+    title: What is the topography of behavior and why is it significant in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+related_article3:
+    id: 169318
+    title: Why is measuring the duration of behavior relevant to behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+related_article4:
+    id: 169328
+    title: What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169316
+    title: What is the topography of behavior and why is it significant in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
 ---
 
 &nbsp;

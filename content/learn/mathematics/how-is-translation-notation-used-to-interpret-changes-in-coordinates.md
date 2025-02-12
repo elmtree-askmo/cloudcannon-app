@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-translation-notation-used-to-interpret-changes-in-coordinates.md
 url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 score: -1.0
+related_article1:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article2:
+    id: 162331
+    title: Why is identifying vertices important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
+related_article3:
+    id: 162216
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article4:
+    id: 162322
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article5:
+    id: 162326
+    title: How can transformations impact the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 ---
 
 &nbsp;

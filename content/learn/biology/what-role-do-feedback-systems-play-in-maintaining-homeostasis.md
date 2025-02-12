@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-feedback-systems-play-in-maintaining-homeostasis.md
 url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
 score: -1.0
+related_article1:
+    id: 166910
+    title: Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+related_article2:
+    id: 166914
+    title: How do organisms respond to stimuli, and why is this important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
+related_article3:
+    id: 166912
+    title: How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article4:
+    id: 166910
+    title: Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+related_article5:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
 ---
 
 &nbsp;

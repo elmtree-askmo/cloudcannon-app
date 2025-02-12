@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-fitness-benefits-of-group-hunting-in-animals.md
 url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 score: -1.0
+related_article1:
+    id: 166410
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article2:
+    id: 166399
+    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article3:
+    id: 166413
+    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+related_article4:
+    id: 166407
+    title: Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+related_article5:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables.md
 url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
 score: -1.0
+related_article1:
+    id: 163828
+    title: How can the average rate of change help in describing the behavior of a function graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-help-in-describing-the-behavior-of-a-function-graph
+related_article2:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article3:
+    id: 163813
+    title: What is a piecewise linear function and why are intervals important in its structure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
+related_article4:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article5:
+    id: 163818
+    title: How does the average rate of change of an exponential function differ over various intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
 ---
 
 &nbsp;

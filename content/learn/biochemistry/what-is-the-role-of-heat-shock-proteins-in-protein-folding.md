@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: what-is-the-role-of-heat-shock-proteins-in-protein-folding.md
 url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article2:
+    id: 167246
+    title: Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article3:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article4:
+    id: 167235
+    title: Describe the role of peptide bonds in the primary structure of proteins.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
+related_article5:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work.md
 url: /learn/psychology/questions/what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work
 score: -1.0
+related_article1:
+    id: 164530
+    title: How do approach and withdrawal emotions differ in terms of brain activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
+related_article2:
+    id: 164527
+    title: What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article3:
+    id: 164536
+    title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
+related_article4:
+    id: 164533
+    title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+related_article5:
+    id: 164527
+    title: What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-parental-influence-affect-the-decline-in-gender-stereotypes.md
 url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
 score: -1.0
+related_article1:
+    id: 168129
+    title: How does attention deficit/hyperactivity disorder present differently in males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
+related_article2:
+    id: 168116
+    title: How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
+related_article3:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article4:
+    id: 168134
+    title: What recent trends indicate a decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
+related_article5:
+    id: 168121
+    title: How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
 ---
 
 &nbsp;

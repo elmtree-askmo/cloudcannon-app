@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention.md
 url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
 score: -1.0
+related_article1:
+    id: 164760
+    title: What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article2:
+    id: 164765
+    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+related_article3:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article4:
+    id: 164770
+    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+related_article5:
+    id: 164764
+    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
 ---
 
 &nbsp;

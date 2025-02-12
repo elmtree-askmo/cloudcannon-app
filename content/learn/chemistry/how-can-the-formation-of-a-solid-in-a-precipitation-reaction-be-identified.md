@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified.md
 url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 score: -1.0
+related_article1:
+    id: 161756
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article2:
+    id: 161936
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article3:
+    id: 162017
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article4:
+    id: 161985
+    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article5:
+    id: 161941
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 ---
 
 &nbsp;

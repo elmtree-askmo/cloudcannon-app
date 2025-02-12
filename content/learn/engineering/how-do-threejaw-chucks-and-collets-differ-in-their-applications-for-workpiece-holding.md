@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding.md
 url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
 score: -1.0
+related_article1:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article2:
+    id: 168705
+    title: What are the common applications of using a driver between centers in workpiece fixation?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
+related_article3:
+    id: 168704
+    title: Define feed and depth of cut in machining and explain their roles in the cutting process.
+    subject: Engineering
+    url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
+related_article4:
+    id: 168711
+    title: Compare the speed and precision of CNC lathes with mechanical lathes.
+    subject: Engineering
+    url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
+related_article5:
+    id: 168710
+    title: How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy.md
 url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
 score: -1.0
+related_article1:
+    id: 170968
+    title: What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
+related_article2:
+    id: 170966
+    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article3:
+    id: 170970
+    title: What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article4:
+    id: 170965
+    title: How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
+related_article5:
+    id: 170972
+    title: How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 ---
 
 &nbsp;

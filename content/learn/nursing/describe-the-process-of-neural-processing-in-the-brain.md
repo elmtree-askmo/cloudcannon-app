@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-process-of-neural-processing-in-the-brain.md
 url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
 score: -1.0
+related_article1:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article2:
+    id: 164815
+    title: What is the relationship between photographic memory and cognitive load?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
+related_article3:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+related_article4:
+    id: 164816
+    title: How does an epidural provide pain management during medical procedures?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+related_article5:
+    id: 164807
+    title: How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically.md
 url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
 score: -1.0
+related_article1:
+    id: 170512
+    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article2:
+    id: 170519
+    title: How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article3:
+    id: 170514
+    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article4:
+    id: 170517
+    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article5:
+    id: 170501
+    title: What are the main components of the central nervous system and their primary functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
 ---
 
 &nbsp;

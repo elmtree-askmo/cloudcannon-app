@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods.md
 url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
 score: -1.0
+related_article1:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article2:
+    id: 167015
+    title: What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article3:
+    id: 167018
+    title: How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article4:
+    id: 167017
+    title: What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
+related_article5:
+    id: 167018
+    title: How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle.md
 url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
 score: -1.0
+related_article1:
+    id: 164928
+    title: What are cytokines and what role do they play in biological systems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
+related_article2:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article3:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article4:
+    id: 164925
+    title: How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+related_article5:
+    id: 164929
+    title: How can the concept of cytokines be related to mathematical transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
 ---
 
 &nbsp;

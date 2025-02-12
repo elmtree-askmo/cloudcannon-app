@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices.md
 url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
 score: -1.0
+related_article1:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+related_article2:
+    id: 169520
+    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
+related_article3:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article4:
+    id: 169523
+    title: What health implications can arise from hypotension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+related_article5:
+    id: 169527
+    title: What role do blood vessels play in blood pressure regulation mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
 ---
 
 &nbsp;

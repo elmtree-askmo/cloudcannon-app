@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs.md
 url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
 score: -1.0
+related_article1:
+    id: 166452
+    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+related_article2:
+    id: 166448
+    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+related_article3:
+    id: 166447
+    title: Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+related_article4:
+    id: 166451
+    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+related_article5:
+    id: 166451
+    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
 ---
 
 &nbsp;

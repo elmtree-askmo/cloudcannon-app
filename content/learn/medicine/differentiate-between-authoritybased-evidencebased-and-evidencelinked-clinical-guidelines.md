@@ -21,6 +21,31 @@ subject: Medicine
 file_name: differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines.md
 url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 score: -1.0
+related_article1:
+    id: 163189
+    title: What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
+related_article2:
+    id: 163185
+    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
+related_article3:
+    id: 163176
+    title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article4:
+    id: 163176
+    title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article5:
+    id: 163183
+    title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
 ---
 
 &nbsp;

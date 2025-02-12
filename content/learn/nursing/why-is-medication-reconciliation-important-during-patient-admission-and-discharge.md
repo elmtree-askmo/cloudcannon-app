@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-medication-reconciliation-important-during-patient-admission-and-discharge.md
 url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 score: -1.0
+related_article1:
+    id: 166510
+    title: How do pharmacokinetic and pharmacodynamic interactions differ?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article2:
+    id: 166498
+    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article3:
+    id: 166507
+    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article4:
+    id: 166513
+    title: Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article5:
+    id: 166502
+    title: What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
 ---
 
 &nbsp;

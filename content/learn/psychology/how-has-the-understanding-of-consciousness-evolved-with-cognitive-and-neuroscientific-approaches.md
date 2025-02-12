@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches.md
 url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
 score: -1.0
+related_article1:
+    id: 170014
+    title: What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article2:
+    id: 170032
+    title: What is the role of the social environment in shaping behavior according to environmental influence theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
+related_article3:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article4:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article5:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
 ---
 
 &nbsp;

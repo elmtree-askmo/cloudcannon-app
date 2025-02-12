@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology.md
 url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
 score: -1.0
+related_article1:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article2:
+    id: 167688
+    title: What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article3:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article4:
+    id: 167709
+    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+related_article5:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 ---
 
 &nbsp;

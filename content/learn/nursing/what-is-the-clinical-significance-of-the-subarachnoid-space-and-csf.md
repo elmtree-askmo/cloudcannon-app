@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf.md
 url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
 score: -1.0
+related_article1:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article2:
+    id: 170446
+    title: What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article3:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article4:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article5:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
 ---
 
 &nbsp;

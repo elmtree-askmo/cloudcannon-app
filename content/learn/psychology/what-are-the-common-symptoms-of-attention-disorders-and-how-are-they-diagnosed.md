@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed.md
 url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
 score: -1.0
+related_article1:
+    id: 164330
+    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article2:
+    id: 164325
+    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article3:
+    id: 164318
+    title: How do monitoring systems and control protocols contribute to the implementation of technical controls?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
+related_article4:
+    id: 164330
+    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article5:
+    id: 164328
+    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
 ---
 
 &nbsp;

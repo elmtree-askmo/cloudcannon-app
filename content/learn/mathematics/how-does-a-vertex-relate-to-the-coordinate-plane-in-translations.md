@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-a-vertex-relate-to-the-coordinate-plane-in-translations.md
 url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
 score: -1.0
+related_article1:
+    id: 162468
+    title: How can patterns be used to predict new coordinates after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
+related_article2:
+    id: 162545
+    title: What is the significance of maintaining size and shape in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
+related_article3:
+    id: 162537
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+related_article4:
+    id: 162535
+    title: What is a translation in the context of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
+related_article5:
+    id: 162539
+    title: What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
 ---
 
 &nbsp;

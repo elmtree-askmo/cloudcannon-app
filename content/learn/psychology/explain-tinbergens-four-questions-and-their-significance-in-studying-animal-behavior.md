@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior.md
 url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 score: -1.0
+related_article1:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166403
+    title: Identify and explain the three types of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
+related_article3:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article4:
+    id: 166411
+    title: Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
+related_article5:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption.md
 url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 score: -1.0
+related_article1:
+    id: 168840
+    title: What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
+related_article2:
+    id: 168827
+    title: What is the structural difference between amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
+related_article3:
+    id: 168836
+    title: How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article4:
+    id: 168841
+    title: How do villi adaptations maximize nutrient absorption in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
+related_article5:
+    id: 168832
+    title: How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
 ---
 
 &nbsp;

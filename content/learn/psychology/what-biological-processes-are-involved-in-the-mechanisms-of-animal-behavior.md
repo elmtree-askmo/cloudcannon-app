@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior.md
 url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article2:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+related_article3:
+    id: 166412
+    title: Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article4:
+    id: 166414
+    title: How does migration impact genetic diversity and population dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
+related_article5:
+    id: 166410
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

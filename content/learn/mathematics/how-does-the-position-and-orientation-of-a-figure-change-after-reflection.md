@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-position-and-orientation-of-a-figure-change-after-reflection.md
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 score: -1.0
+related_article1:
+    id: 162754
+    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article2:
+    id: 162820
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article3:
+    id: 162887
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article4:
+    id: 162405
+    title: How can one visualize reflections in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
+related_article5:
+    id: 162622
+    title: How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
 ---
 
 &nbsp;

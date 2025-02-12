@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-horizontal-and-vertical-shifts-affect-cube-root-functions.md
 url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163744
+    title: What is the general form of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
+related_article2:
+    id: 163783
+    title: Why are cube root functions considered continuous functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+related_article3:
+    id: 163751
+    title: What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+related_article4:
+    id: 163759
+    title: Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article5:
+    id: 163780
+    title: What does it mean for a function to be continuous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 ---
 
 &nbsp;

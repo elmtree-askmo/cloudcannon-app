@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings.md
 url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
 score: -1.0
+related_article1:
+    id: 164067
+    title: What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article2:
+    id: 164060
+    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article3:
+    id: 164058
+    title: Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
+related_article4:
+    id: 164059
+    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
+related_article5:
+    id: 164059
+    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
 ---
 
 &nbsp;

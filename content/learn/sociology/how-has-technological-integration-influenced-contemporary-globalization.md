@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-has-technological-integration-influenced-contemporary-globalization.md
 url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 score: -1.0
+related_article1:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article2:
+    id: 165996
+    title: How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article3:
+    id: 165999
+    title: What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article4:
+    id: 165986
+    title: What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article5:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

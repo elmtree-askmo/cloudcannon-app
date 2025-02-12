@@ -7,7 +7,7 @@ article_title: What is the primary function of spyware?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Computer science
+  title: QuickTakes | Computer Science
   page_description: >-
     An overview of spyware, detailing its function to covertly collect sensitive information from users, the risks it poses to privacy and security, and recommendations for protection against such threats.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What is the primary function of spyware?
 answer: >-
     The primary function of spyware is to infiltrate a user's device and covertly gather sensitive information about their activities without their knowledge or consent. This type of malicious software operates silently in the background, collecting data such as browsing habits, keystrokes, personal information, and even payment card details. The gathered information is then transmitted to unauthorized parties, which may include fraudulent advertisers, data farms, or other third parties, thereby violating the user's privacy and potentially endangering their device's security.\n\nSpyware can capture a wide range of data, including usernames, passwords, files that have been created or accessed, and emails sent by the user. It is important to note that while spyware is a form of malware, similar behaviors can also be exhibited by legitimate software and websites that engage in tracking.\n\nTo protect against spyware, it is advisable to use reputable antimalware software that offers real-time protection, including features such as real-time scanning of downloads and email attachments, web protection to block access to known malicious websites, and behavior-based detection to identify new threats.
-subject: Computer science
+subject: Computer Science
 file_name: what-is-the-primary-function-of-spyware.md
 url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
 score: -1.0
+related_article1:
+    id: 161257
+    title: What is the primary function of spyware?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+related_article2:
+    id: 161455
+    title: What are some common methods used for pseudonymization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+related_article3:
+    id: 161247
+    title: How does biometric data differ from other types of personal data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
+related_article4:
+    id: 161396
+    title: What are the benefits of using a personal VPN?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
+related_article5:
+    id: 161458
+    title: What are the key features of anti-virus software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-features-of-antivirus-software
 ---
 
 &nbsp;

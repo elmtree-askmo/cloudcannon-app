@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions.md
 url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
 score: -1.0
+related_article1:
+    id: 170842
+    title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
+related_article2:
+    id: 170840
+    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+related_article3:
+    id: 170838
+    title: How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
+related_article4:
+    id: 170840
+    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+related_article5:
+    id: 170836
+    title: What are competitive interactions, and how do they relate to rational choice theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
 ---
 
 &nbsp;

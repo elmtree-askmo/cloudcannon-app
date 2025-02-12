@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency.md
 url: /learn/economics/questions/how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency
 score: -1.0
+related_article1:
+    id: 159661
+    title: How does foreign bank penetration impact financial sector efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financial-sector-efficiency
+related_article2:
+    id: 159660
+    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
+related_article3:
+    id: 159655
+    title: How does the concentration of capital flows impact low-income countries?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concentration-of-capital-flows-impact-lowincome-countries
+related_article4:
+    id: 159657
+    title: How does financial integration affect the nontradable sector in terms of domestic capital allocation?
+    subject: Economics
+    url: /learn/economics/questions/how-does-financial-integration-affect-the-nontradable-sector-in-terms-of-domestic-capital-allocation
+related_article5:
+    id: 159661
+    title: How does foreign bank penetration impact financial sector efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financial-sector-efficiency
 ---
 
 &nbsp;

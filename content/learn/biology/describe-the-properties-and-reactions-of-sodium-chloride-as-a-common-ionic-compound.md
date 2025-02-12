@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound.md
 url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 score: -1.0
+related_article1:
+    id: 167462
+    title: What are the components of an atom, and how do they determine its chemical properties?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties
+related_article2:
+    id: 167465
+    title: Describe the types of molecular interactions and their significance in protein folding.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+related_article3:
+    id: 167460
+    title: What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+related_article4:
+    id: 167449
+    title: What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+related_article5:
+    id: 167454
+    title: What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 ---
 
 &nbsp;

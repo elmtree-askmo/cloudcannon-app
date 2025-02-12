@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex.md
 url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
 score: -1.0
+related_article1:
+    id: 170533
+    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+related_article2:
+    id: 170528
+    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article3:
+    id: 170525
+    title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+related_article4:
+    id: 170533
+    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+related_article5:
+    id: 170542
+    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
 ---
 
 &nbsp;

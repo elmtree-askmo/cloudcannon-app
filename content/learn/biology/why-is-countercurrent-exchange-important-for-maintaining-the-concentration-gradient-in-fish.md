@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish.md
 url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
 score: -1.0
+related_article1:
+    id: 168806
+    title: How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article2:
+    id: 168803
+    title: Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
+related_article3:
+    id: 168801
+    title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article4:
+    id: 168810
+    title: What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
+related_article5:
+    id: 168801
+    title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
 ---
 
 &nbsp;

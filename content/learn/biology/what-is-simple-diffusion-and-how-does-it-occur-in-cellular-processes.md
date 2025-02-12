@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes.md
 url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article2:
+    id: 167548
+    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+related_article3:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article4:
+    id: 167543
+    title: What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
+related_article5:
+    id: 167546
+    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
 ---
 
 &nbsp;

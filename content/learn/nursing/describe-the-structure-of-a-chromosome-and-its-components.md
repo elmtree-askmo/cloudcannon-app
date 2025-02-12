@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-structure-of-a-chromosome-and-its-components.md
 url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
 score: -1.0
+related_article1:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article2:
+    id: 167865
+    title: Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article3:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article4:
+    id: 167855
+    title: What is the significance of transmission genetics in breeding programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-transmission-genetics-in-breeding-programs
+related_article5:
+    id: 167856
+    title: How do the stages of mitosis ensure accurate cell division?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation.md
 url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
 score: -1.0
+related_article1:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article2:
+    id: 167210
+    title: Define hydrophilic and hydrophobic properties and provide examples of amphipathic molecules.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrophilic-and-hydrophobic-properties-and-provide-examples-of-amphipathic-molecules
+related_article3:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
+related_article4:
+    id: 167206
+    title: What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-are-responsible-for-the-polymerization-of-proteins-nucleic-acids-and-carbohydrates
+related_article5:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
 ---
 
 &nbsp;

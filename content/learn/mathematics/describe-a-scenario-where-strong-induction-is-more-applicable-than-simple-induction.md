@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction.md
 url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
 score: -1.0
+related_article1:
+    id: 170757
+    title: Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
+related_article2:
+    id: 170768
+    title: What is a common error related to the base case in induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-error-related-to-the-base-case-in-induction
+related_article3:
+    id: 170767
+    title: Why is the base case crucial in a proof by induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
+related_article4:
+    id: 170766
+    title: Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+related_article5:
+    id: 170757
+    title: Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-four-levels-of-protein-structure.md
 url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
 score: -1.0
+related_article1:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article2:
+    id: 169955
+    title: What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+related_article3:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article4:
+    id: 169953
+    title: What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article5:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
 ---
 
 &nbsp;

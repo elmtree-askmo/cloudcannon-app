@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions.md
 url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
 score: -1.0
+related_article1:
+    id: 166435
+    title: Define dissolution and explain its importance in drug absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
+related_article2:
+    id: 166427
+    title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
+related_article3:
+    id: 166432
+    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+related_article4:
+    id: 166438
+    title: What is a black box warning, and what is its purpose in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+related_article5:
+    id: 166426
+    title: Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 ---
 
 &nbsp;

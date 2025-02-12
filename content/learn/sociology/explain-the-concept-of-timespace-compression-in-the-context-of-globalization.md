@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-concept-of-timespace-compression-in-the-context-of-globalization.md
 url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
 score: -1.0
+related_article1:
+    id: 160644
+    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+related_article2:
+    id: 160641
+    title: How do trade relations and global supply chains contribute to global economic networks?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
+related_article3:
+    id: 160082
+    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article4:
+    id: 160222
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article5:
+    id: 160629
+    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
 ---
 
 &nbsp;

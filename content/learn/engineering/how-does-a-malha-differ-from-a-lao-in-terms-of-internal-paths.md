@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths.md
 url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
 score: -1.0
+related_article1:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article2:
+    id: 169828
+    title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+related_article3:
+    id: 169841
+    title: What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+related_article4:
+    id: 169836
+    title: Describe the analogy between potência elétrica and an electric shower.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
+related_article5:
+    id: 169833
+    title: Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
 ---
 
 &nbsp;

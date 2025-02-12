@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections.md
 url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 score: -1.0
+related_article1:
+    id: 168404
+    title: How does a vertical reflection transform a parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+related_article2:
+    id: 168402
+    title: How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article3:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article4:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article5:
+    id: 168401
+    title: What are the characteristics of vertical reflections on a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
 ---
 
 &nbsp;

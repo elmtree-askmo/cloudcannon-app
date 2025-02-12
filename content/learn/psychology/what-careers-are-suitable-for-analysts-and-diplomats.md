@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-careers-are-suitable-for-analysts-and-diplomats.md
 url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
 score: -1.0
+related_article1:
+    id: 168448
+    title: How do self-assessment questionnaires help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
+related_article2:
+    id: 168453
+    title: What tools are available for evaluating skills and values in career decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
+related_article3:
+    id: 168439
+    title: What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article4:
+    id: 168440
+    title: What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article5:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
 ---
 
 &nbsp;

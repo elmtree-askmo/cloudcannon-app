@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid.md
 url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
 score: -1.0
+related_article1:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article2:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article3:
+    id: 169745
+    title: What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article4:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article5:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
 ---
 
 &nbsp;

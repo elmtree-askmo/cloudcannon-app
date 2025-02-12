@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring.md
 url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 score: -1.0
+related_article1:
+    id: 164542
+    title: How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
+related_article2:
+    id: 164540
+    title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article3:
+    id: 164528
+    title: How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article4:
+    id: 164525
+    title: How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
+related_article5:
+    id: 164531
+    title: What role do mirror neurons play in social and emotional imitation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-mirror-neurons-play-in-social-and-emotional-imitation
 ---
 
 &nbsp;

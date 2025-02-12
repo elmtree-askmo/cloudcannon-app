@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size.md
 url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
 score: -1.0
+related_article1:
+    id: 162136
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article2:
+    id: 162132
+    title: Describe the effect of a clockwise rotation on the coordinates of a point.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
+related_article3:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article4:
+    id: 162130
+    title: What are the properties of a triangle that can be used to determine its congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
+related_article5:
+    id: 162135
+    title: What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain.md
 url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 score: -1.0
+related_article1:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article2:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article3:
+    id: 164736
+    title: How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article4:
+    id: 164727
+    title: What is a sagittal slice and how does it differ from coronal and axial slices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
+related_article5:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
 ---
 
 &nbsp;

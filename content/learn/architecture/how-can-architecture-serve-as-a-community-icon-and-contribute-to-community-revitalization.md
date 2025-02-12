@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization.md
 url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
 score: -1.0
+related_article1:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+related_article2:
+    id: 169404
+    title: How can the integration of interior and exterior spaces create depth and layers in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
+related_article3:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+related_article4:
+    id: 169401
+    title: In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article5:
+    id: 169409
+    title: What are some innovations in modern architectural design that have emerged recently?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
 ---
 
 &nbsp;

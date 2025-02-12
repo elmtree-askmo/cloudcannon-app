@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-biological-factors-affect-memory-formation.md
 url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 score: -1.0
+related_article1:
+    id: 164488
+    title: What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
+related_article2:
+    id: 164479
+    title: What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
+related_article3:
+    id: 164505
+    title: What are the causes of memory impairment, and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-of-memory-impairment-and-how-can-they-be-addressed
+related_article4:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article5:
+    id: 164479
+    title: What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 ---
 
 &nbsp;

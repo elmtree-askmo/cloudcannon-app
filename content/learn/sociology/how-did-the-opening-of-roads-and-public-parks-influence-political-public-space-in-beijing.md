@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing.md
 url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 score: -1.0
+related_article1:
+    id: 169052
+    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+related_article2:
+    id: 169039
+    title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
+related_article3:
+    id: 169044
+    title: How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
+related_article4:
+    id: 169053
+    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article5:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 ---
 
 &nbsp;

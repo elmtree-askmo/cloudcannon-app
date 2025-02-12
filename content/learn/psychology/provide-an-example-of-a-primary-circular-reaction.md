@@ -21,6 +21,31 @@ subject: Psychology
 file_name: provide-an-example-of-a-primary-circular-reaction.md
 url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
 score: -1.0
+related_article1:
+    id: 168094
+    title: What are primary circular reactions, and at what age do they typically occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
+related_article2:
+    id: 168106
+    title: How do sensory input and motor actions contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article3:
+    id: 168092
+    title: What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
+related_article4:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article5:
+    id: 168104
+    title: What is make-believe play, and why is it important for cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
 ---
 
 &nbsp;

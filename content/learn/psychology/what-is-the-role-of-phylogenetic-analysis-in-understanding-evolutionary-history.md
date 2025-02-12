@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history.md
 url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
 score: -1.0
+related_article1:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article2:
+    id: 165299
+    title: Identify and describe the sources of genetic variation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
+related_article3:
+    id: 165287
+    title: What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article4:
+    id: 165311
+    title: What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article5:
+    id: 165312
+    title: Describe the process of ontogeny and its role in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
 ---
 
 &nbsp;

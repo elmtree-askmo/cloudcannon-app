@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-distinguishes-nonlinear-functions-from-linear-functions.md
 url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
 score: -1.0
+related_article1:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article2:
+    id: 163814
+    title: How can the average rate of change be calculated for piecewise linear functions using tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
+related_article3:
+    id: 163812
+    title: How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+related_article4:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+related_article5:
+    id: 163819
+    title: What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 ---
 
 &nbsp;

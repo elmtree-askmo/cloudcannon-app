@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-concept-of-weighted-average-and-its-importance-in-calculating-atomic-weight.md
 url: /learn/chemistry/questions/explain-the-concept-of-weighted-average-and-its-importance-in-calculating-atomic-weight
 score: -1.0
+related_article1:
+    id: 167253
+    title: What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
+related_article2:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article3:
+    id: 167258
+    title: How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article4:
+    id: 167259
+    title: Provide an example of how the weighted average is applied to determine the atomic weight of chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-how-the-weighted-average-is-applied-to-determine-the-atomic-weight-of-chlorine
+related_article5:
+    id: 167251
+    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
 ---
 
 &nbsp;

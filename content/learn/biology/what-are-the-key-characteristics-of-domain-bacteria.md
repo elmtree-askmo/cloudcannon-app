@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-characteristics-of-domain-bacteria.md
 url: /learn/biology/questions/what-are-the-key-characteristics-of-domain-bacteria
 score: -1.0
+related_article1:
+    id: 168694
+    title: What are the defining characteristics of Phylum Zygomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
+related_article2:
+    id: 168684
+    title: Describe the process of binary fission in bacterial reproduction.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
+related_article3:
+    id: 168682
+    title: In what types of environments are Archaea typically found?
+    subject: Biology
+    url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
+related_article4:
+    id: 168692
+    title: What is the basic structure of fungi, and how do hyphae contribute to their growth?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-basic-structure-of-fungi-and-how-do-hyphae-contribute-to-their-growth
+related_article5:
+    id: 168687
+    title: What role do cyanobacteria play in nitrogen fixation?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
 ---
 
 &nbsp;

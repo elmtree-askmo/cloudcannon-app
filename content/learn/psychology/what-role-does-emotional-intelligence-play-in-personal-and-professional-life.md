@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-emotional-intelligence-play-in-personal-and-professional-life.md
 url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
 score: -1.0
+related_article1:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article2:
+    id: 167697
+    title: How does the nature vs. nurture debate relate to determinism in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
+related_article3:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article4:
+    id: 167699
+    title: What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article5:
+    id: 167690
+    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 ---
 
 &nbsp;

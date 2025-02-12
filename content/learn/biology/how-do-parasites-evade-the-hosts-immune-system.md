@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-parasites-evade-the-hosts-immune-system.md
 url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
 score: -1.0
+related_article1:
+    id: 165809
+    title: What are the key advancements in genomics that have impacted scientific techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
+related_article2:
+    id: 165811
+    title: What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article3:
+    id: 165820
+    title: How do abiotic factors influence the occurrence of diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+related_article4:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article5:
+    id: 165827
+    title: What survival strategies do parasites employ to ensure their persistence?
+    subject: Biology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
 ---
 
 &nbsp;

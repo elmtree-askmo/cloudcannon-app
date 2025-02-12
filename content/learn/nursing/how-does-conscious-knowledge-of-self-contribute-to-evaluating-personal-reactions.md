@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions.md
 url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
 score: -1.0
+related_article1:
+    id: 169820
+    title: What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article2:
+    id: 169803
+    title: How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article3:
+    id: 169823
+    title: What is the role of self-reflection in personal growth and development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+related_article4:
+    id: 169817
+    title: How does body language influence interpersonal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
+related_article5:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 ---
 
 &nbsp;

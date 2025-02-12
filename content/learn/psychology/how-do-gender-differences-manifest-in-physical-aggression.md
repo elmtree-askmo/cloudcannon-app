@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-gender-differences-manifest-in-physical-aggression.md
 url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
 score: -1.0
+related_article1:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article2:
+    id: 168123
+    title: How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article3:
+    id: 168132
+    title: How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article4:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article5:
+    id: 168130
+    title: How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
 ---
 
 &nbsp;

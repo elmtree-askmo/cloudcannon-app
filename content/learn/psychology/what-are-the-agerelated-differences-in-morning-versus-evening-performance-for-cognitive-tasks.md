@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks.md
 url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
 score: -1.0
+related_article1:
+    id: 168074
+    title: How does self-awareness influence memory recall and personal memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
+related_article2:
+    id: 168063
+    title: What is the reminiscence bump and what age range does it typically cover?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
+related_article3:
+    id: 168063
+    title: What is the reminiscence bump and what age range does it typically cover?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
+related_article4:
+    id: 168067
+    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 ---
 
 &nbsp;

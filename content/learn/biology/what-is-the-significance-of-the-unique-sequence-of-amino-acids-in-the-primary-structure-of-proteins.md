@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins.md
 url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 165343
+    title: How do ionic bonds form between charged R groups in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
+related_article2:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article3:
+    id: 165342
+    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article4:
+    id: 165346
+    title: What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article5:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
 ---
 
 &nbsp;

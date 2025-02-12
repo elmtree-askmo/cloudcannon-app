@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework.md
 url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
 score: -1.0
+related_article1:
+    id: 170019
+    title: How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article2:
+    id: 170009
+    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article3:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article4:
+    id: 170027
+    title: How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article5:
+    id: 170030
+    title: What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
 ---
 
 &nbsp;

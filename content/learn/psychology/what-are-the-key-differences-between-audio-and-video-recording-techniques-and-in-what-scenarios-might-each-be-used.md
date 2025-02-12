@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 score: -1.0
+related_article1:
+    id: 164324
+    title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article2:
+    id: 164330
+    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article3:
+    id: 164329
+    title: What are the components of language, and how do phonetics and syntax contribute to language structure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
+related_article4:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article5:
+    id: 164327
+    title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 ---
 
 &nbsp;

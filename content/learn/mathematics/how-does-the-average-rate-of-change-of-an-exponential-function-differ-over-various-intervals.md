@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals.md
 url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
 score: -1.0
+related_article1:
+    id: 163811
+    title: What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article2:
+    id: 163827
+    title: What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
+related_article3:
+    id: 163827
+    title: What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
+related_article4:
+    id: 163820
+    title: How can the average rate of change be interpreted for cube root functions over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
+related_article5:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 ---
 
 &nbsp;

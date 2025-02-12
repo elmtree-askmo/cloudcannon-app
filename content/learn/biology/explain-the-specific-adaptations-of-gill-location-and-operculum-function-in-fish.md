@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-specific-adaptations-of-gill-location-and-operculum-function-in-fish.md
 url: /learn/biology/questions/explain-the-specific-adaptations-of-gill-location-and-operculum-function-in-fish
 score: -1.0
+related_article1:
+    id: 168759
+    title: What factors influence the oxygen requirements of fish, particularly in relation to metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
+related_article2:
+    id: 168758
+    title: How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
+related_article3:
+    id: 168752
+    title: How does the water flow mechanism contribute to oxygen extraction in aquatic environments?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
+related_article4:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article5:
+    id: 168761
+    title: What are the essential tools and safety measures required for fish dissection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
 ---
 
 &nbsp;

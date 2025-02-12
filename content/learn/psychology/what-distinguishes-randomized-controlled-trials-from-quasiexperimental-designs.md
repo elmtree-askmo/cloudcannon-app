@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs.md
 url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 score: -1.0
+related_article1:
+    id: 165072
+    title: What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article2:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article3:
+    id: 165076
+    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
+related_article4:
+    id: 165079
+    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article5:
+    id: 165076
+    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
 ---
 
 &nbsp;

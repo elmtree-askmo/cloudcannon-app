@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries.md
 url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
 score: -1.0
+related_article1:
+    id: 169668
+    title: How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article2:
+    id: 169681
+    title: What procedures should be followed for effective incident reporting in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
+related_article3:
+    id: 169665
+    title: What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
+related_article4:
+    id: 169672
+    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article5:
+    id: 169664
+    title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
 ---
 
 &nbsp;

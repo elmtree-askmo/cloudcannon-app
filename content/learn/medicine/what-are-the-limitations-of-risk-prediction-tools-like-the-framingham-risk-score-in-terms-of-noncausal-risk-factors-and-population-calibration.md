@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration.md
 url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
 score: -1.0
+related_article1:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article2:
+    id: 163182
+    title: How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article3:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article4:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article5:
+    id: 163189
+    title: What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
 ---
 
 &nbsp;

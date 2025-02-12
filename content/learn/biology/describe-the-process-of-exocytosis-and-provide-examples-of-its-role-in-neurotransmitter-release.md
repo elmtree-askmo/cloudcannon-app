@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release.md
 url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
 score: -1.0
+related_article1:
+    id: 168939
+    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article2:
+    id: 168942
+    title: What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
+related_article3:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article4:
+    id: 168939
+    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article5:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 ---
 
 &nbsp;

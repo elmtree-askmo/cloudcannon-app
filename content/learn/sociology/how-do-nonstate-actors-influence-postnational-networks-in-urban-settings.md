@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-nonstate-actors-influence-postnational-networks-in-urban-settings.md
 url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
 score: -1.0
+related_article1:
+    id: 162939
+    title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
+related_article2:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article3:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article4:
+    id: 162938
+    title: What are the implications of informal urbanization on the security of megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
+related_article5:
+    id: 162952
+    title: Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
 ---
 
 &nbsp;

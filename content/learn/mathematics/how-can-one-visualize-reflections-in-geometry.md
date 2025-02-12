@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-one-visualize-reflections-in-geometry.md
 url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 score: -1.0
+related_article1:
+    id: 162913
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article2:
+    id: 162697
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article3:
+    id: 162799
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article4:
+    id: 162530
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article5:
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
 ---
 
 &nbsp;

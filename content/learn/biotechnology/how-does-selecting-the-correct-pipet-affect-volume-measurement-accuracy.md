@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy.md
 url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
 score: -1.0
+related_article1:
+    id: 165371
+    title: Describe the process of adjusting the volume using the dial on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
+related_article2:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article3:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
+related_article4:
+    id: 165364
+    title: What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
+related_article5:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
 ---
 
 &nbsp;

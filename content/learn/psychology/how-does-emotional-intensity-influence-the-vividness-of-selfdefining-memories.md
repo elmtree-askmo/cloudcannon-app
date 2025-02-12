@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories.md
 url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
 score: -1.0
+related_article1:
+    id: 168035
+    title: What are the main age-related changes observed in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
+related_article2:
+    id: 168048
+    title: How does semantic memory stability compare to episodic memory across the lifespan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
+related_article3:
+    id: 168042
+    title: What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
+related_article4:
+    id: 168035
+    title: What are the main age-related changes observed in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
+related_article5:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 ---
 
 &nbsp;

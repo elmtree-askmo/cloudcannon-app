@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-fundamental-structure-of-an-amino-acid.md
 url: /learn/biotechnology/questions/what-is-the-fundamental-structure-of-an-amino-acid
 score: -1.0
+related_article1:
+    id: 166953
+    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+related_article2:
+    id: 166955
+    title: How do positively charged R-groups differ from negatively charged R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
+related_article3:
+    id: 166965
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article4:
+    id: 166965
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article5:
+    id: 166966
+    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
 ---
 
 &nbsp;

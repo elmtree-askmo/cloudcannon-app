@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin.md
 url: /learn/mathematics/questions/describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin
 score: -1.0
+related_article1:
+    id: 162141
+    title: What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article2:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article3:
+    id: 162078
+    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162153
+    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+related_article5:
+    id: 162149
+    title: What is the similarity between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-similarity-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

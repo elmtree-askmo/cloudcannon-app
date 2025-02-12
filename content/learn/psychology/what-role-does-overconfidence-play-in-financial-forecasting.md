@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-overconfidence-play-in-financial-forecasting.md
 url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 score: -1.0
+related_article1:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+related_article2:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article3:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article4:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article5:
+    id: 168884
+    title: How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 ---
 
 &nbsp;

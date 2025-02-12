@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy.md
 url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article2:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article3:
+    id: 162994
+    title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article4:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article5:
+    id: 162999
+    title: How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: compare-the-structural-differences-between-dna-and-rna.md
 url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167331
+    title: How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
+related_article2:
+    id: 167330
+    title: What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article3:
+    id: 167337
+    title: What is the four-ring structure of steroids and their role in biological membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes
+related_article4:
+    id: 167338
+    title: How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
+related_article5:
+    id: 167327
+    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
 ---
 
 &nbsp;

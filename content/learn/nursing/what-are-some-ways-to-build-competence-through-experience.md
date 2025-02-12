@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-ways-to-build-competence-through-experience.md
 url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
 score: -1.0
+related_article1:
+    id: 169572
+    title: How does patient assessment contribute to ensuring patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
+related_article2:
+    id: 169569
+    title: What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
+related_article3:
+    id: 169578
+    title: How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+related_article4:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article5:
+    id: 169570
+    title: How does supervision play a role in safe medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 ---
 
 &nbsp;

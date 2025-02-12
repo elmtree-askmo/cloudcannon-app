@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer.md
 url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 score: -1.0
+related_article1:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article2:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article3:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article4:
+    id: 169953
+    title: What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article5:
+    id: 169937
+    title: What are the three main subatomic particles and their charges?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
 ---
 
 &nbsp;

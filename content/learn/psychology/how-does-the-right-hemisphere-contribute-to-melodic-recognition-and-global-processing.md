@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing.md
 url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 score: -1.0
+related_article1:
+    id: 164567
+    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article2:
+    id: 164583
+    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
+related_article3:
+    id: 164568
+    title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
+related_article4:
+    id: 164568
+    title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
+related_article5:
+    id: 164566
+    title: What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 ---
 
 &nbsp;

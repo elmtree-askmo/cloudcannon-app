@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety.md
 url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
 score: -1.0
+related_article1:
+    id: 169674
+    title: What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article2:
+    id: 169684
+    title: How can hospitals address challenges in meeting the nutritional needs of patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hospitals-address-challenges-in-meeting-the-nutritional-needs-of-patients
+related_article3:
+    id: 169664
+    title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article4:
+    id: 169663
+    title: What are common risks identified in healthcare settings, and why is risk assessment important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
+related_article5:
+    id: 169665
+    title: What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
 ---
 
 &nbsp;

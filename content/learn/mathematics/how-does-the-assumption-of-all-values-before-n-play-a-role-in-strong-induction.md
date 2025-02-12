@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction.md
 url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
 score: -1.0
+related_article1:
+    id: 170701
+    title: How is the recursive nature of the Fibonacci sequence defined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-recursive-nature-of-the-fibonacci-sequence-defined
+related_article2:
+    id: 170705
+    title: What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article3:
+    id: 170698
+    title: What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article4:
+    id: 170695
+    title: Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
+related_article5:
+    id: 170705
+    title: What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions.md
 url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
 score: -1.0
+related_article1:
+    id: 165380
+    title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
+related_article2:
+    id: 165367
+    title: What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
+related_article3:
+    id: 165369
+    title: How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article4:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article5:
+    id: 165366
+    title: List the steps involved in attaching a pipet tip and drawing up liquid.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
 ---
 
 &nbsp;

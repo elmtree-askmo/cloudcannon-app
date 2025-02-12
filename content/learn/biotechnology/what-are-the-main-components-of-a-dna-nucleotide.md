@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-main-components-of-a-dna-nucleotide.md
 url: /learn/biotechnology/questions/what-are-the-main-components-of-a-dna-nucleotide
 score: -1.0
+related_article1:
+    id: 167534
+    title: What is the role of nitrogenous bases in encoding genetic information?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
+related_article2:
+    id: 167535
+    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
+related_article3:
+    id: 167535
+    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
+related_article4:
+    id: 167536
+    title: Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
+related_article5:
+    id: 167530
+    title: What distinguishes pyrimidines from purines in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-pyrimidines-from-purines-in-terms-of-structure
 ---
 
 &nbsp;

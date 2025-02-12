@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction.md
 url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
 score: -1.0
+related_article1:
+    id: 167854
+    title: How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
+related_article2:
+    id: 167859
+    title: Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article3:
+    id: 167859
+    title: Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article4:
+    id: 167867
+    title: What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
+related_article5:
+    id: 167862
+    title: What are the stages of spermatogenesis and their outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 ---
 
 &nbsp;

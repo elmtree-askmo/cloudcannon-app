@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness.md
 url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
 score: -1.0
+related_article1:
+    id: 164841
+    title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article2:
+    id: 164838
+    title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
+related_article3:
+    id: 164841
+    title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article4:
+    id: 164833
+    title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article5:
+    id: 164847
+    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
 ---
 
 &nbsp;

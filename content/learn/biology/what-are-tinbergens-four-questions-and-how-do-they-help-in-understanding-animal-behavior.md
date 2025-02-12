@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior.md
 url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
+related_article1:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article2:
+    id: 166359
+    title: How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
+related_article3:
+    id: 166367
+    title: What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+related_article4:
+    id: 166357
+    title: Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article5:
+    id: 166363
+    title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
 ---
 
 &nbsp;

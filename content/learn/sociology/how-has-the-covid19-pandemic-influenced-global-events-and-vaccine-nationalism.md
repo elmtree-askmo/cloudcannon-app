@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-has-the-covid19-pandemic-influenced-global-events-and-vaccine-nationalism.md
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-events-and-vaccine-nationalism
 score: -1.0
+related_article1:
+    id: 160507
+    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article2:
+    id: 160561
+    title: How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+related_article3:
+    id: 160539
+    title: What are the major approaches in human geography for understanding spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
+related_article4:
+    id: 160564
+    title: What is the significance of population distribution and cultural landscapes in human systems?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+related_article5:
+    id: 160556
+    title: Describe the methodologies used in qualitative and quantitative research for developing research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-developing-research-skills
 ---
 
 &nbsp;

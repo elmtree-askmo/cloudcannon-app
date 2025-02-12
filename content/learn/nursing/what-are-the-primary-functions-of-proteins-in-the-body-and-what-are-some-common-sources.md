@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources.md
 url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
 score: -1.0
+related_article1:
+    id: 169783
+    title: What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+related_article2:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article3:
+    id: 169784
+    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article4:
+    id: 169786
+    title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+related_article5:
+    id: 169771
+    title: How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
 ---
 
 &nbsp;

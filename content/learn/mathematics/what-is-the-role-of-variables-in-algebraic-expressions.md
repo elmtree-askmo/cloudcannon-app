@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-variables-in-algebraic-expressions.md
 url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
 score: -1.0
+related_article1:
+    id: 162112
+    title: What is an example of a real-world application of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-realworld-application-of-negative-numbers
+related_article2:
+    id: 162110
+    title: What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article3:
+    id: 162115
+    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+related_article4:
+    id: 162120
+    title: Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
+related_article5:
+    id: 162118
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
 ---
 
 &nbsp;

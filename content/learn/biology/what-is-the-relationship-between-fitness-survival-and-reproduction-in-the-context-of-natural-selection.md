@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection.md
 url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
 score: -1.0
+related_article1:
+    id: 166335
+    title: How does genetic transmission affect the heritability of traits from parent to offspring?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-transmission-affect-the-heritability-of-traits-from-parent-to-offspring
+related_article2:
+    id: 166322
+    title: How do ultimate questions differ from proximate questions in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
+related_article3:
+    id: 166321
+    title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 166320
+    title: How do adaptive responses in animals demonstrate problem-solving abilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
+related_article5:
+    id: 166328
+    title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-pain-perception-in-the-nervous-system.md
 url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
 score: -1.0
+related_article1:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
+related_article2:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article3:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article4:
+    id: 164810
+    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
+related_article5:
+    id: 164800
+    title: Explain the significance of neuron connections in neural communication.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
 ---
 
 &nbsp;

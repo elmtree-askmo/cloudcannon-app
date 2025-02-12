@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-patient-studies-provide-evidence-for-understanding-object-relationships.md
 url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
 score: -1.0
+related_article1:
+    id: 164475
+    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
+related_article2:
+    id: 164467
+    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article3:
+    id: 164467
+    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article4:
+    id: 164473
+    title: What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article5:
+    id: 164469
+    title: What are the challenges associated with egocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-a-phonological-graph-and-why-is-it-important-in-language-development.md
 url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
 score: -1.0
+related_article1:
+    id: 164602
+    title: Describe the main characteristics of connectionist models in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
+related_article2:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article3:
+    id: 164608
+    title: How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
+related_article4:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article5:
+    id: 164602
+    title: Describe the main characteristics of connectionist models in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 ---
 
 &nbsp;

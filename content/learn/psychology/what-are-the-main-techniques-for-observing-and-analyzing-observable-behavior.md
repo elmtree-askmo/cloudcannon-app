@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior.md
 url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
 score: -1.0
+related_article1:
+    id: 167698
+    title: What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+related_article2:
+    id: 167709
+    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+related_article3:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article4:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article5:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 ---
 
 &nbsp;

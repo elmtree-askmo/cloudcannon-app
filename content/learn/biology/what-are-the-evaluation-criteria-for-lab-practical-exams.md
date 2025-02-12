@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-evaluation-criteria-for-lab-practical-exams.md
 url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
 score: -1.0
+related_article1:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article2:
+    id: 163367
+    title: What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+related_article3:
+    id: 163364
+    title: How should students prepare for lab practicals, and what materials are required?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-lab-practicals-and-what-materials-are-required
+related_article4:
+    id: 163365
+    title: What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article5:
+    id: 163360
+    title: How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
 ---
 
 &nbsp;

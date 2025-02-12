@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-fmri-play-in-cognitive-neuroscience-research.md
 url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 score: -1.0
+related_article1:
+    id: 164231
+    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article2:
+    id: 164242
+    title: How do imaging techniques measure neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
+related_article3:
+    id: 164238
+    title: How do association areas in the brain contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+related_article4:
+    id: 164239
+    title: Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article5:
+    id: 164231
+    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
 ---
 
 &nbsp;

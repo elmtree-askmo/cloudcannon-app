@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation.md
 url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
 score: -1.0
+related_article1:
+    id: 165390
+    title: What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
+related_article2:
+    id: 165389
+    title: How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article3:
+    id: 165389
+    title: How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article4:
+    id: 165390
+    title: What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants.md
 url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
 score: -1.0
+related_article1:
+    id: 168772
+    title: What are the common features of exchange surfaces that enhance their efficiency?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-common-features-of-exchange-surfaces-that-enhance-their-efficiency
+related_article2:
+    id: 168770
+    title: What is the role of diffusion in gas exchange for unicellular organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
+related_article3:
+    id: 168770
+    title: What is the role of diffusion in gas exchange for unicellular organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
+related_article4:
+    id: 168771
+    title: Why do multicellular organisms require specialized systems for gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
+related_article5:
+    id: 168771
+    title: Why do multicellular organisms require specialized systems for gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-types-and-causes-of-genetic-mutations.md
 url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
 score: -1.0
+related_article1:
+    id: 167879
+    title: What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article2:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article3:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article4:
+    id: 167885
+    title: How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article5:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
 ---
 
 &nbsp;

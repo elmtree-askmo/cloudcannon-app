@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations.md
 url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
 score: -1.0
+related_article1:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+related_article2:
+    id: 160492
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article3:
+    id: 160495
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article4:
+    id: 160645
+    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
+related_article5:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

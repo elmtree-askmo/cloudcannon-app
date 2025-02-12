@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-importance-of-graphical-representation-in-understanding-functions.md
 url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 score: -1.0
+related_article1:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article2:
+    id: 163836
+    title: Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+related_article3:
+    id: 163840
+    title: How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
+related_article4:
+    id: 163838
+    title: What are the key differences in the domain and range of exponential and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
+related_article5:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 ---
 
 &nbsp;

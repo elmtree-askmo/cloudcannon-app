@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-adaptive-strategies-in-behavioral-ecology.md
 url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 170889
+    title: What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article2:
+    id: 170890
+    title: How does energy expenditure relate to behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
+related_article3:
+    id: 170884
+    title: What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article4:
+    id: 170889
+    title: What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article5:
+    id: 170886
+    title: Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
 ---
 
 &nbsp;

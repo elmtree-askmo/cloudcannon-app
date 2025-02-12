@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges.md
 url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
 score: -1.0
+related_article1:
+    id: 169515
+    title: What are the potential consequences of false blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+related_article2:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article3:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article4:
+    id: 169528
+    title: How can diet and exercise influence blood pressure levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
+related_article5:
+    id: 169523
+    title: What health implications can arise from hypotension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
 ---
 
 &nbsp;

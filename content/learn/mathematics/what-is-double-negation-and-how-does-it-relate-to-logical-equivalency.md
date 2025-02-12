@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-double-negation-and-how-does-it-relate-to-logical-equivalency.md
 url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 score: -1.0
+related_article1:
+    id: 170205
+    title: Describe the distributive laws and provide an example of their application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
+related_article2:
+    id: 170216
+    title: How are atomic propositions identified in logical statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
+related_article3:
+    id: 170203
+    title: What are the commutative laws in propositional logic and how are they applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
+related_article4:
+    id: 170202
+    title: How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+related_article5:
+    id: 170201
+    title: What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
 ---
 
 &nbsp;

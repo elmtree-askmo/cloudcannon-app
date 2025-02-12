@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-factors-influence-the-reactivity-of-elements-in-the-periodic-table.md
 url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
 score: -1.0
+related_article1:
+    id: 166862
+    title: How does the electron configuration of noble gases compare to that of reactive elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements
+related_article2:
+    id: 166854
+    title: How can the group number of an element help determine its valence electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
+related_article3:
+    id: 166854
+    title: How can the group number of an element help determine its valence electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
+related_article4:
+    id: 166855
+    title: Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article5:
+    id: 166855
+    title: Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
 ---
 
 &nbsp;

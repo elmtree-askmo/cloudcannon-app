@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-foremost-considerations-in-moral-reasoning-according-to-gilligans-theory.md
 url: /learn/psychology/questions/what-are-the-foremost-considerations-in-moral-reasoning-according-to-gilligans-theory
 score: -1.0
+related_article1:
+    id: 164212
+    title: How do studies confirming gender differences support Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
+related_article2:
+    id: 164201
+    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+related_article3:
+    id: 164215
+    title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+related_article4:
+    id: 164209
+    title: How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
+related_article5:
+    id: 164209
+    title: How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-translation-considered-a-type-of-rigid-motion.md
 url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
 score: -1.0
+related_article1:
+    id: 162165
+    title: What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article2:
+    id: 162142
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162165
+    title: What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article4:
+    id: 162305
+    title: What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
+related_article5:
+    id: 162164
+    title: How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
 ---
 
 &nbsp;

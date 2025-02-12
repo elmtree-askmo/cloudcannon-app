@@ -21,6 +21,26 @@ subject: Biology
 file_name: define-concentration-gradient-and-its-importance-in-active-transport.md
 url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
 score: -1.0
+related_article1:
+    id: 168897
+    title: Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+related_article2:
+    id: 168898
+    title: How does active transport contribute to cellular function?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
+related_article3:
+    id: 168906
+    title: How does ATP utilization differ between active and passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+related_article4:
+    id: 168901
+    title: What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 ---
 
 &nbsp;

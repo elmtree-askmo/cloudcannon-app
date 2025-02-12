@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-key-components-of-society-and-spatial-organization-in-human-geography.md
 url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
 score: -1.0
+related_article1:
+    id: 159829
+    title: How do ordinary and symbolic landscapes reflect human action and symbolism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
+related_article2:
+    id: 159997
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article3:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article4:
+    id: 159822
+    title: What are the primary methods used in geographic observation and data gathering?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
+related_article5:
+    id: 159825
+    title: What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
 ---
 
 &nbsp;

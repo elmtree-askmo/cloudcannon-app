@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space.md
 url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
 score: -1.0
+related_article1:
+    id: 169055
+    title: What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article2:
+    id: 169054
+    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+related_article3:
+    id: 169049
+    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+related_article4:
+    id: 169049
+    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+related_article5:
+    id: 169043
+    title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 ---
 
 &nbsp;

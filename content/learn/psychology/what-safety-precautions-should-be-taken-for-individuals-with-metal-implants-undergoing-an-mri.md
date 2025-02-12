@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri.md
 url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
 score: -1.0
+related_article1:
+    id: 164328
+    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
+related_article2:
+    id: 164325
+    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article3:
+    id: 164327
+    title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
+related_article4:
+    id: 164319
+    title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
+related_article5:
+    id: 164317
+    title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
 ---
 
 &nbsp;

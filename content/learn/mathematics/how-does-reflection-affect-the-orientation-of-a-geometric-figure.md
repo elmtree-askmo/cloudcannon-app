@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-reflection-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article2:
+    id: 162598
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article3:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+related_article4:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article5:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 ---
 
 &nbsp;

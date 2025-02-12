@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy.md
 url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 score: -1.0
+related_article1:
+    id: 164061
+    title: What are the main findings and implications of research in systemic treatments for psychopathology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
+related_article2:
+    id: 164064
+    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
+related_article3:
+    id: 164059
+    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
+related_article4:
+    id: 164056
+    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+related_article5:
+    id: 164066
+    title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
 ---
 
 &nbsp;

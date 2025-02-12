@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects.md
 url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 score: -1.0
+related_article1:
+    id: 170536
+    title: How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article2:
+    id: 170530
+    title: What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article3:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article4:
+    id: 170539
+    title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-amygdala-play-in-processing-core-emotions.md
 url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
 score: -1.0
+related_article1:
+    id: 164538
+    title: How do executive functions like cognitive control and flexibility contribute to effective decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-functions-like-cognitive-control-and-flexibility-contribute-to-effective-decisionmaking
+related_article2:
+    id: 164536
+    title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
+related_article3:
+    id: 164528
+    title: How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article4:
+    id: 164532
+    title: How does social connectedness influence emotional perception and experience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+related_article5:
+    id: 164542
+    title: How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-social-inequalities-manifest-within-social-hierarchies.md
 url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 score: -1.0
+related_article1:
+    id: 163667
+    title: What are the ethical considerations related to power relations in research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+related_article2:
+    id: 163663
+    title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article3:
+    id: 163665
+    title: How do epistemological claims influence knowledge production in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+related_article4:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article5:
+    id: 163659
+    title: How does thematic analysis differ from coding in qualitative data analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
 ---
 
 &nbsp;

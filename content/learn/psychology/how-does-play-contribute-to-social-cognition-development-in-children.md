@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-play-contribute-to-social-cognition-development-in-children.md
 url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
 score: -1.0
+related_article1:
+    id: 167971
+    title: At what age range does Theory of Mind typically develop in children, and what factors influence its development?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
+related_article2:
+    id: 167980
+    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article3:
+    id: 167972
+    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article4:
+    id: 167979
+    title: What is the role of beliefs and desires in decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
+related_article5:
+    id: 167981
+    title: What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 ---
 
 &nbsp;

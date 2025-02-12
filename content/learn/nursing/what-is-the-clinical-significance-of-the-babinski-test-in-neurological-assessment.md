@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment.md
 url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
 score: -1.0
+related_article1:
+    id: 170492
+    title: What is the difference between excitatory and inhibitory neurotransmitters?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
+related_article2:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article3:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article4:
+    id: 170494
+    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 ---
 
 &nbsp;

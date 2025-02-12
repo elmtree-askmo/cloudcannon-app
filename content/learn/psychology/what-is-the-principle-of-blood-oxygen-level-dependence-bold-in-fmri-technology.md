@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology.md
 url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
 score: -1.0
+related_article1:
+    id: 164296
+    title: What were some of the early studies that contributed to the development of PET technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
+related_article2:
+    id: 164295
+    title: What are the key differences between block design and event-related design in fMRI experimental setups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-block-design-and-eventrelated-design-in-fmri-experimental-setups
+related_article3:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+related_article4:
+    id: 164308
+    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article5:
+    id: 164313
+    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 ---
 
 &nbsp;

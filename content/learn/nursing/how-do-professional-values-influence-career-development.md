@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-professional-values-influence-career-development.md
 url: /learn/nursing/questions/how-do-professional-values-influence-career-development
 score: -1.0
+related_article1:
+    id: 169819
+    title: How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article2:
+    id: 169802
+    title: What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+related_article3:
+    id: 169807
+    title: How does managing emotions impact decision making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+related_article4:
+    id: 169820
+    title: What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article5:
+    id: 169805
+    title: How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
 ---
 
 &nbsp;

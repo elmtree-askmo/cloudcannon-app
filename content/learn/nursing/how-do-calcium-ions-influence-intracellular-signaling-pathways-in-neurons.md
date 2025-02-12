@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons.md
 url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
 score: -1.0
+related_article1:
+    id: 170599
+    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article2:
+    id: 170608
+    title: How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+related_article3:
+    id: 170614
+    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article4:
+    id: 170611
+    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
+related_article5:
+    id: 170604
+    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
 ---
 
 &nbsp;

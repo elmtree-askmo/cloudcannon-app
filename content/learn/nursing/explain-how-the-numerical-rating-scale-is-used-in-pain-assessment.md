@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-how-the-numerical-rating-scale-is-used-in-pain-assessment.md
 url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
 score: -1.0
+related_article1:
+    id: 169798
+    title: Outline the stepwise approach of the World Health Organization Pain Ladder.
+    subject: Nursing
+    url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
+related_article2:
+    id: 169796
+    title: Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article3:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article4:
+    id: 169795
+    title: How can physical therapy contribute to non-pharmacological pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
+related_article5:
+    id: 169792
+    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
 ---
 
 &nbsp;

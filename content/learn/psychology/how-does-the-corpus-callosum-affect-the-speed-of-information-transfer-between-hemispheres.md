@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres.md
 url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
 score: -1.0
+related_article1:
+    id: 164572
+    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+related_article2:
+    id: 164584
+    title: What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
+related_article3:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+related_article4:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article5:
+    id: 164573
+    title: How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 ---
 
 &nbsp;

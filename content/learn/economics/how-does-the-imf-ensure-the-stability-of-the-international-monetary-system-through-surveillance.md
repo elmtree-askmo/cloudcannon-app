@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance.md
 url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
 score: -1.0
+related_article1:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article2:
+    id: 159665
+    title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article3:
+    id: 159663
+    title: How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+related_article4:
+    id: 159682
+    title: What special provisions does the WTO have for building trade capacity in developing countries?
+    subject: Economics
+    url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
+related_article5:
+    id: 159678
+    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---
 
 &nbsp;

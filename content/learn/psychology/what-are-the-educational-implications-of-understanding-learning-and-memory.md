@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-educational-implications-of-understanding-learning-and-memory.md
 url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
 score: -1.0
+related_article1:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article2:
+    id: 164487
+    title: How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article3:
+    id: 164496
+    title: What is the Information Processing Model in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+related_article4:
+    id: 164504
+    title: How do emotions interact with memory, particularly in emotional memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+related_article5:
+    id: 164489
+    title: How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
 ---
 
 &nbsp;

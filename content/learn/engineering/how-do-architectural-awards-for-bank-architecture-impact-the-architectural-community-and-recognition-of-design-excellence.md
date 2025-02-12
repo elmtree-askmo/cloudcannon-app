@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence.md
 url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
 score: -1.0
+related_article1:
+    id: 169426
+    title: What are the key considerations in spatial design for ensuring effective flow and movement within a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
+related_article2:
+    id: 169427
+    title: How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
+related_article3:
+    id: 169418
+    title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
+related_article4:
+    id: 169425
+    title: How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
+related_article5:
+    id: 169422
+    title: What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells.md
 url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
 score: -1.0
+related_article1:
+    id: 169713
+    title: What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article2:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article3:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article4:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169709
+    title: What role do the pulmonary artery and vein play in blood circulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 ---
 
 &nbsp;

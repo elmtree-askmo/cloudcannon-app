@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration.md
 url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170351
+    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+related_article2:
+    id: 170349
+    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article3:
+    id: 170344
+    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+related_article4:
+    id: 170344
+    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+related_article5:
+    id: 170348
+    title: How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
 ---
 
 &nbsp;

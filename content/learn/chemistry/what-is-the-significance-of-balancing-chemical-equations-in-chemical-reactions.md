@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions.md
 url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 162039
+    title: What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article2:
+    id: 162057
+    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article3:
+    id: 162019
+    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article4:
+    id: 162040
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161988
+    title: How can the formation of a solid in a precipitation reaction be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 ---
 
 &nbsp;

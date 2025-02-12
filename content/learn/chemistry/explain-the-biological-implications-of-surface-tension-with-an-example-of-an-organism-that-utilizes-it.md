@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it.md
 url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
 score: -1.0
+related_article1:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article2:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
+related_article3:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article4:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article5:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures.md
 url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
 score: -1.0
+related_article1:
+    id: 169742
+    title: What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article2:
+    id: 169747
+    title: What are some management strategies for common bowel and bladder disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+related_article3:
+    id: 169751
+    title: What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article4:
+    id: 169766
+    title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article5:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 ---
 
 &nbsp;

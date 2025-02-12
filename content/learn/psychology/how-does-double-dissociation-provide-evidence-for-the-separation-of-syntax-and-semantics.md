@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics.md
 url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
 score: -1.0
+related_article1:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article2:
+    id: 164720
+    title: What are the key symptoms and neuropathological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
+related_article3:
+    id: 164717
+    title: How does Wernicke's aphasia affect language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
+related_article4:
+    id: 164738
+    title: What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article5:
+    id: 164717
+    title: How does Wernicke's aphasia affect language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
 ---
 
 &nbsp;

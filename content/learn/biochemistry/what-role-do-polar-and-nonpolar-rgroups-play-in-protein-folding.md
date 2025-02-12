@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding.md
 url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167239
+    title: Identify the basic components of an amino acid and their roles.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
+related_article2:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article3:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article4:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article5:
+    id: 167246
+    title: Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
 ---
 
 &nbsp;

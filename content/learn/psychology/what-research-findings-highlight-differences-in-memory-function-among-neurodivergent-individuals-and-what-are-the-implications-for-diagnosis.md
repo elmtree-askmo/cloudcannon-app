@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis.md
 url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
 score: -1.0
+related_article1:
+    id: 164859
+    title: Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article2:
+    id: 164868
+    title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article3:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article4:
+    id: 164868
+    title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article5:
+    id: 164860
+    title: Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
 ---
 
 &nbsp;

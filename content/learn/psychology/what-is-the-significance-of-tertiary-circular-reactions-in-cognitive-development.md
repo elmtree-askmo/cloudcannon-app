@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development.md
 url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168100
+    title: Define internalization of schemas and give an example.
+    subject: Psychology
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
+related_article2:
+    id: 168107
+    title: Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article3:
+    id: 168097
+    title: At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article4:
+    id: 168106
+    title: How do sensory input and motor actions contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article5:
+    id: 168107
+    title: Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

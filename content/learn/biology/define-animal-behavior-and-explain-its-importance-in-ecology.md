@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-animal-behavior-and-explain-its-importance-in-ecology.md
 url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
 score: -1.0
+related_article1:
+    id: 165276
+    title: What are Darwin’s postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article2:
+    id: 165286
+    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article3:
+    id: 165286
+    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article4:
+    id: 165277
+    title: Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+related_article5:
+    id: 165277
+    title: Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
 ---
 
 &nbsp;

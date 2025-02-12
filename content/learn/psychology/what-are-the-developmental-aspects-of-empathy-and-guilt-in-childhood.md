@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood.md
 url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
 score: -1.0
+related_article1:
+    id: 163634
+    title: Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article2:
+    id: 163637
+    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article3:
+    id: 163631
+    title: What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article4:
+    id: 163633
+    title: What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article5:
+    id: 163630
+    title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
 ---
 
 &nbsp;

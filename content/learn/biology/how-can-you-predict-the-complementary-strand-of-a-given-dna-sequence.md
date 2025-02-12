@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence.md
 url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 score: -1.0
+related_article1:
+    id: 166874
+    title: Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
+related_article2:
+    id: 166873
+    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+related_article3:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article4:
+    id: 166866
+    title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+related_article5:
+    id: 166876
+    title: How does the directionality of nucleic acids impact transcription and replication?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-directionality-of-nucleic-acids-impact-transcription-and-replication
 ---
 
 &nbsp;

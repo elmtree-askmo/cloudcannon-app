@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-you-select-the-appropriate-test-for-hypothesis-testing.md
 url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 score: -1.0
+related_article1:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article2:
+    id: 165067
+    title: How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article3:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article4:
+    id: 165086
+    title: What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article5:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 ---
 
 &nbsp;

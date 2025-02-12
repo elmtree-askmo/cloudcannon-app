@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins.md
 url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
 score: -1.0
+related_article1:
+    id: 168934
+    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article2:
+    id: 168935
+    title: Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    subject: Biology
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
+related_article3:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article4:
+    id: 168936
+    title: What is the role of ATP in active transport, and how does it facilitate movement against a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient
+related_article5:
+    id: 168937
+    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
 ---
 
 &nbsp;

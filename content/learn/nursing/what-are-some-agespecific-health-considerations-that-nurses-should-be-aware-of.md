@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of.md
 url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 score: -1.0
+related_article1:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article2:
+    id: 169756
+    title: What are the national standards for medication administration, and how do they relate to trust policies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
+related_article3:
+    id: 169747
+    title: What are some management strategies for common bowel and bladder disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+related_article4:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article5:
+    id: 169767
+    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 ---
 
 &nbsp;

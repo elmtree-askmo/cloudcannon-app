@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-distance-from-a-line-measured-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162144
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article2:
+    id: 162154
+    title: What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+related_article3:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article4:
+    id: 162301
+    title: What is the concept of a mirror image in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
+related_article5:
+    id: 162158
+    title: What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
 ---
 
 &nbsp;

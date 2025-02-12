@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-basic-structural-components-of-prokaryotic-cells.md
 url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
 score: -1.0
+related_article1:
+    id: 167828
+    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
+related_article2:
+    id: 167827
+    title: What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article3:
+    id: 167812
+    title: What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article4:
+    id: 167823
+    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article5:
+    id: 167809
+    title: Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
 ---
 
 &nbsp;

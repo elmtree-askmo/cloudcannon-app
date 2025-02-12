@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als.md
 url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
 score: -1.0
+related_article1:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article2:
+    id: 170499
+    title: How does synaptic plasticity contribute to neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
+related_article3:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article4:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article5:
+    id: 170487
+    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-individual-learning-play-in-the-development-of-animal-behavior.md
 url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165292
+    title: How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article2:
+    id: 165303
+    title: What is artificial selection and how does it differ from natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+related_article3:
+    id: 165315
+    title: How does individual variation in hunting strategies affect fitness and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+related_article4:
+    id: 165290
+    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article5:
+    id: 165307
+    title: How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
 ---
 
 &nbsp;

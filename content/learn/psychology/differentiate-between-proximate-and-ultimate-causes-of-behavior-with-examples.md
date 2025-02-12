@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples.md
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
 score: -1.0
+related_article1:
+    id: 165323
+    title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
+related_article2:
+    id: 165321
+    title: What are the principles of natural selection and how do they apply to animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
+related_article3:
+    id: 165323
+    title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
+related_article4:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article5:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---
 
 &nbsp;

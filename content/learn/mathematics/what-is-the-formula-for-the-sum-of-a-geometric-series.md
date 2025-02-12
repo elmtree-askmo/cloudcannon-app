@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-formula-for-the-sum-of-a-geometric-series.md
 url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
 score: -1.0
+related_article1:
+    id: 170739
+    title: Why is the base case important in mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
+related_article2:
+    id: 170754
+    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article3:
+    id: 170738
+    title: How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
+related_article4:
+    id: 170747
+    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+related_article5:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
 ---
 
 &nbsp;

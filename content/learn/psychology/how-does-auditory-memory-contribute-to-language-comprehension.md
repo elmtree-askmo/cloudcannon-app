@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-auditory-memory-contribute-to-language-comprehension.md
 url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
 score: -1.0
+related_article1:
+    id: 164297
+    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article2:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article3:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+related_article4:
+    id: 164289
+    title: How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article5:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-neuroplasticity-contribute-to-learning-and-memory.md
 url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
 score: -1.0
+related_article1:
+    id: 170446
+    title: What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article2:
+    id: 170445
+    title: Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article3:
+    id: 170445
+    title: Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article4:
+    id: 170440
+    title: What percentage of the human genome is dedicated to neurology, and why is this significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+related_article5:
+    id: 170456
+    title: What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

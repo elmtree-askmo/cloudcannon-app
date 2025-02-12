@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-pumps-function-in-active-transport-and-what-is-their-energy-source.md
 url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
 score: -1.0
+related_article1:
+    id: 167197
+    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article2:
+    id: 167196
+    title: Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
+related_article3:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article4:
+    id: 167192
+    title: Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
 ---
 
 &nbsp;

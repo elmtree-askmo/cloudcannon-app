@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types.md
 url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
 score: -1.0
+related_article1:
+    id: 170630
+    title: In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
+related_article2:
+    id: 170628
+    title: How does emotional intelligence contribute to effective communication, particularly in handling confrontation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-contribute-to-effective-communication-particularly-in-handling-confrontation
+related_article3:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article4:
+    id: 170629
+    title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article5:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
 ---
 
 &nbsp;

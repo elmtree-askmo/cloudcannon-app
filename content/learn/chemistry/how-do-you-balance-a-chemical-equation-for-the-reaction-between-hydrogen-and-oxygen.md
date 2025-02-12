@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen.md
 url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 score: -1.0
+related_article1:
+    id: 161936
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article2:
+    id: 161972
+    title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
+related_article3:
+    id: 161983
+    title: How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
+related_article4:
+    id: 162061
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161981
+    title: Explain the formation of new substances when hydrogen and oxygen react to form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 ---
 
 &nbsp;

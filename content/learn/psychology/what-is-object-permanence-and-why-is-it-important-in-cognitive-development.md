@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-object-permanence-and-why-is-it-important-in-cognitive-development.md
 url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article2:
+    id: 168097
+    title: At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article3:
+    id: 168099
+    title: What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+related_article4:
+    id: 168097
+    title: At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article5:
+    id: 168108
+    title: What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
 ---
 
 &nbsp;

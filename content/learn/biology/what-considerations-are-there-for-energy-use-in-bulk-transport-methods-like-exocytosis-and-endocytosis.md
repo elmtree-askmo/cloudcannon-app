@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis.md
 url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
 score: -1.0
+related_article1:
+    id: 167192
+    title: Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+related_article2:
+    id: 167188
+    title: Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article3:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+related_article4:
+    id: 167191
+    title: What is the process of exocytosis and what types of materials are typically transported via this method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
+related_article5:
+    id: 167182
+    title: How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 ---
 
 &nbsp;

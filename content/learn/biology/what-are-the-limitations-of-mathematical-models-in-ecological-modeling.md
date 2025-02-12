@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-limitations-of-mathematical-models-in-ecological-modeling.md
 url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
 score: -1.0
+related_article1:
+    id: 170908
+    title: What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article2:
+    id: 170894
+    title: How is energy profitability calculated in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
+related_article3:
+    id: 170899
+    title: What is the Marginal Value Theorem in optimal foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
+related_article4:
+    id: 170903
+    title: What are some techniques used to measure energy expenditure in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
+related_article5:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 ---
 
 &nbsp;

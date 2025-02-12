@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-determines-the-primary-structure-of-a-protein.md
 url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 score: -1.0
+related_article1:
+    id: 166963
+    title: What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article2:
+    id: 166965
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article3:
+    id: 166955
+    title: How do positively charged R-groups differ from negatively charged R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
+related_article4:
+    id: 166963
+    title: What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article5:
+    id: 166959
+    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 ---
 
 &nbsp;

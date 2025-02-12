@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability.md
 url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
 score: -1.0
+related_article1:
+    id: 166121
+    title: How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+related_article2:
+    id: 166119
+    title: How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article3:
+    id: 166131
+    title: What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article4:
+    id: 166133
+    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
+related_article5:
+    id: 166126
+    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
 ---
 
 &nbsp;

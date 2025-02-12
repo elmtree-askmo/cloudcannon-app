@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-atomic-mass-calculated-and-why-is-it-important.md
 url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 167291
+    title: Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article2:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
+related_article3:
+    id: 167289
+    title: Where are valence electrons located and why are they important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article4:
+    id: 167293
+    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article5:
+    id: 167290
+    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
 ---
 
 &nbsp;

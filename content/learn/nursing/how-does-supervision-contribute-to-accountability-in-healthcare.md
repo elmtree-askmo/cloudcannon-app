@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-supervision-contribute-to-accountability-in-healthcare.md
 url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 score: -1.0
+related_article1:
+    id: 169565
+    title: How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article2:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article3:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article4:
+    id: 169569
+    title: What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
+related_article5:
+    id: 169564
+    title: Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
 ---
 
 &nbsp;

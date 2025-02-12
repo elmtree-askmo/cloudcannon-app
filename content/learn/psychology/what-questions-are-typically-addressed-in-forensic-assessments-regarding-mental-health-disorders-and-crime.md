@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime.md
 url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 score: -1.0
+related_article1:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article2:
+    id: 164042
+    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article3:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article4:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article5:
+    id: 164048
+    title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
 ---
 
 &nbsp;

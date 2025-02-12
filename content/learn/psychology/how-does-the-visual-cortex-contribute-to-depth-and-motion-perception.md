@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-visual-cortex-contribute-to-depth-and-motion-perception.md
 url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
 score: -1.0
+related_article1:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article2:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article3:
+    id: 164252
+    title: What is a tonotopic map and how is it organized in the auditory cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
+related_article4:
+    id: 164254
+    title: What are single cell recordings and how are they used to map sensory inputs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+related_article5:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
 ---
 
 &nbsp;

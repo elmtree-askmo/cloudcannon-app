@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system.md
 url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
 score: -1.0
+related_article1:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
+related_article2:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
+related_article3:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+related_article4:
+    id: 164800
+    title: Explain the significance of neuron connections in neural communication.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
+related_article5:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior.md
 url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 score: -1.0
+related_article1:
+    id: 163636
+    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article2:
+    id: 163633
+    title: What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article3:
+    id: 163642
+    title: What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article4:
+    id: 163639
+    title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article5:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
 ---
 
 &nbsp;

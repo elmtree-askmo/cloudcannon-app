@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-concentration-gradients-facilitate-gas-exchange-in-animals.md
 url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
 score: -1.0
+related_article1:
+    id: 168776
+    title: How do guard cells regulate the opening and closing of stomata?
+    subject: Biology
+    url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
+related_article2:
+    id: 168770
+    title: What is the role of diffusion in gas exchange for unicellular organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
+related_article3:
+    id: 168781
+    title: Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+related_article4:
+    id: 168770
+    title: What is the role of diffusion in gas exchange for unicellular organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
+related_article5:
+    id: 168778
+    title: What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
 ---
 
 &nbsp;

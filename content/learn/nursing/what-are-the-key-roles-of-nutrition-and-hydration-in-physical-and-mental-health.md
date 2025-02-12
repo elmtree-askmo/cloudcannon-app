@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health.md
 url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 score: -1.0
+related_article1:
+    id: 169784
+    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article2:
+    id: 169780
+    title: What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article3:
+    id: 169769
+    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article4:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article5:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
 ---
 
 &nbsp;

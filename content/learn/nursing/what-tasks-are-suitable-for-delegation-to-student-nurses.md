@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-tasks-are-suitable-for-delegation-to-student-nurses.md
 url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 score: -1.0
+related_article1:
+    id: 169566
+    title: What are some ways to build competence through experience?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+related_article2:
+    id: 169580
+    title: How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article3:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+related_article4:
+    id: 169553
+    title: What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 ---
 
 &nbsp;

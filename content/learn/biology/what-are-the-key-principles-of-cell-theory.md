@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-principles-of-cell-theory.md
 url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
 score: -1.0
+related_article1:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article2:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article3:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article4:
+    id: 169960
+    title: How does selective permeability contribute to homeostasis in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
+related_article5:
+    id: 169938
+    title: How does electron configuration influence chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
 ---
 
 &nbsp;

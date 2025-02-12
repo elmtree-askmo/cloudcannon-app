@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics.md
 url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
 score: -1.0
+related_article1:
+    id: 163609
+    title: How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article2:
+    id: 163618
+    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article3:
+    id: 163624
+    title: How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article4:
+    id: 163626
+    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article5:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 ---
 
 &nbsp;

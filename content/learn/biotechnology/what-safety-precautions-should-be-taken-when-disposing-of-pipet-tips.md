@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips.md
 url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
 score: -1.0
+related_article1:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article2:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article3:
+    id: 165377
+    title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
+related_article4:
+    id: 165377
+    title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
+related_article5:
+    id: 165372
+    title: Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 ---
 
 &nbsp;

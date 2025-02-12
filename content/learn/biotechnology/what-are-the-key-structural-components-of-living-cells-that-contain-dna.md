@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-key-structural-components-of-living-cells-that-contain-dna.md
 url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
 score: -1.0
+related_article1:
+    id: 166178
+    title: How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
+related_article2:
+    id: 166178
+    title: How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
+related_article3:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article4:
+    id: 166186
+    title: What are the main differences between the domains Bacteria, Archaea, and Eukarya?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
+related_article5:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 ---
 
 &nbsp;

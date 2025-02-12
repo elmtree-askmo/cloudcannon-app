@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-developmental-disorders-differ-between-genders.md
 url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 score: -1.0
+related_article1:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article2:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article3:
+    id: 168118
+    title: What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article4:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article5:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 ---
 
 &nbsp;

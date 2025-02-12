@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming.md
 url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
 score: -1.0
+related_article1:
+    id: 164842
+    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article2:
+    id: 164850
+    title: What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
+related_article3:
+    id: 164837
+    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article4:
+    id: 164833
+    title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
+related_article5:
+    id: 164846
+    title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 ---
 
 &nbsp;

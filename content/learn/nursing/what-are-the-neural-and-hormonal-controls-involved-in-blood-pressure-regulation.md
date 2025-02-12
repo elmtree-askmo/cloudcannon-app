@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation.md
 url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
 score: -1.0
+related_article1:
+    id: 169516
+    title: Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
+related_article2:
+    id: 169522
+    title: What are some common causes and risk factors for hypertension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
+related_article3:
+    id: 169535
+    title: How is blood pressure related to the risk of heart disease?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
+related_article4:
+    id: 169529
+    title: What biological factors, such as age and gender, affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
+related_article5:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-social-interactions-influence-cognitive-development-according-to-piaget.md
 url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 score: -1.0
+related_article1:
+    id: 168007
+    title: How does adult influence contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
+related_article2:
+    id: 167997
+    title: Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article3:
+    id: 168003
+    title: How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+related_article4:
+    id: 168004
+    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+related_article5:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 ---
 
 &nbsp;

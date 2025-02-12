@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-common-barriers-to-healthcare-for-transgender-individuals.md
 url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
 score: -1.0
+related_article1:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article2:
+    id: 169657
+    title: How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article3:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article4:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article5:
+    id: 169656
+    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
 ---
 
 &nbsp;

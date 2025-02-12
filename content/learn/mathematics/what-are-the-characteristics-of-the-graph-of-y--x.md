@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-the-graph-of-y--x.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-the-graph-of-y--x
 score: -1.0
+related_article1:
+    id: 163719
+    title: How do you determine the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
+related_article2:
+    id: 163711
+    title: What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article3:
+    id: 163718
+    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+related_article4:
+    id: 163720
+    title: Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article5:
+    id: 163721
+    title: What are the effects of horizontal shifts on the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
 ---
 
 &nbsp;

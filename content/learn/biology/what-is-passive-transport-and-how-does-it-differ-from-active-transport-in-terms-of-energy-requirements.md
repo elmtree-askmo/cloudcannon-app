@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements.md
 url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
 score: -1.0
+related_article1:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article2:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article3:
+    id: 167540
+    title: Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article4:
+    id: 167538
+    title: What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article5:
+    id: 167546
+    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Economics
 file_name: explain-how-tariffs-can-affect-supply-and-demand-in-a-market.md
 url: /learn/economics/questions/explain-how-tariffs-can-affect-supply-and-demand-in-a-market
 score: -1.0
+related_article1:
+    id: 169898
+    title: Why is GDP an important measure of economic growth and how do policies affect it?
+    subject: Economics
+    url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
+related_article2:
+    id: 169887
+    title: How does bargaining impact consumer surplus in economic transactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-bargaining-impact-consumer-surplus-in-economic-transactions
+related_article3:
+    id: 169884
+    title: What are the key cultural differences in bargaining practices across different countries?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
+related_article4:
+    id: 169886
+    title: What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article5:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
 ---
 
 &nbsp;

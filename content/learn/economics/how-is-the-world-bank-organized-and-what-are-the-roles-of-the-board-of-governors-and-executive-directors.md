@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors.md
 url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
 score: -1.0
+related_article1:
+    id: 159682
+    title: What special provisions does the WTO have for building trade capacity in developing countries?
+    subject: Economics
+    url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
+related_article2:
+    id: 159678
+    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+related_article3:
+    id: 159675
+    title: What types of financial assistance does the World Bank provide to support development projects?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
+related_article4:
+    id: 159680
+    title: What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+related_article5:
+    id: 159670
+    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 ---
 
 &nbsp;

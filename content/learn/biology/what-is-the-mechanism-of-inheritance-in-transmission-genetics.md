@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-the-mechanism-of-inheritance-in-transmission-genetics.md
 url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
 score: -1.0
+related_article1:
+    id: 167813
+    title: How does chromatin differ in non-dividing cells compared to dividing cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
+related_article2:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article3:
+    id: 167817
+    title: What is the central dogma of molecular biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+related_article4:
+    id: 167829
+    title: What role does cell division play in genetic transmission?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 ---
 
 &nbsp;

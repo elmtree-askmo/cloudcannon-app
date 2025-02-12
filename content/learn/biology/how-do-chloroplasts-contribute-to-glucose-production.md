@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-chloroplasts-contribute-to-glucose-production.md
 url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
 score: -1.0
+related_article1:
+    id: 170364
+    title: Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
+related_article2:
+    id: 170359
+    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article3:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article4:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article5:
+    id: 170376
+    title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 ---
 
 &nbsp;

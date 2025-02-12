@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system.md
 url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
 score: -1.0
+related_article1:
+    id: 168818
+    title: How do epithelial cells interact with micelles during lipid absorption?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+related_article2:
+    id: 168822
+    title: How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
+related_article3:
+    id: 168826
+    title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
+related_article4:
+    id: 168826
+    title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
+related_article5:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 ---
 
 &nbsp;

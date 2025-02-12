@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury.md
 url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
 score: -1.0
+related_article1:
+    id: 164447
+    title: Describe the role of the parietal lobe in sensory integration.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+related_article2:
+    id: 164456
+    title: How can cognitive rehabilitation aid in recovery after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
+related_article3:
+    id: 164456
+    title: How can cognitive rehabilitation aid in recovery after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
+related_article4:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article5:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
 ---
 
 &nbsp;

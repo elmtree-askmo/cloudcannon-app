@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries.md
 url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
 score: -1.0
+related_article1:
+    id: 159678
+    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+related_article2:
+    id: 159674
+    title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+    subject: Economics
+    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
+related_article3:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article4:
+    id: 159663
+    title: How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+related_article5:
+    id: 159680
+    title: What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 ---
 
 &nbsp;

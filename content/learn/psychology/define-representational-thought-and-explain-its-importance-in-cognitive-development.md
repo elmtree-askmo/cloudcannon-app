@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-representational-thought-and-explain-its-importance-in-cognitive-development.md
 url: /learn/psychology/questions/define-representational-thought-and-explain-its-importance-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168095
+    title: Provide an example of a primary circular reaction.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
+related_article2:
+    id: 168104
+    title: What is make-believe play, and why is it important for cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+related_article3:
+    id: 168108
+    title: What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article4:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article5:
+    id: 168092
+    title: What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 ---
 
 &nbsp;

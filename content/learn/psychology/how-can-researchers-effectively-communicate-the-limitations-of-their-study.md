@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-researchers-effectively-communicate-the-limitations-of-their-study.md
 url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
 score: -1.0
+related_article1:
+    id: 165093
+    title: Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article2:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article3:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article4:
+    id: 165067
+    title: How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article5:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 ---
 
 &nbsp;

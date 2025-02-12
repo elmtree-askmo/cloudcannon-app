@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-function-of-carbohydrates-in-living-organisms.md
 url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
 score: -1.0
+related_article1:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article2:
+    id: 169949
+    title: What is the structural difference between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article3:
+    id: 169955
+    title: What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+related_article4:
+    id: 169950
+    title: How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article5:
+    id: 169949
+    title: What is the structural difference between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-dna-and-rna
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation.md
 url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 score: -1.0
+related_article1:
+    id: 162140
+    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
+related_article2:
+    id: 162159
+    title: What are the observable results of rotating geometric figures in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-observable-results-of-rotating-geometric-figures-in-terms-of-quadrant-transitions
+related_article3:
+    id: 162074
+    title: What are the components of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-a-coordinate-plane
+related_article4:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+related_article5:
+    id: 162078
+    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

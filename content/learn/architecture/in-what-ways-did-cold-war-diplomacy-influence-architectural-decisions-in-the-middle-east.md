@@ -21,6 +21,31 @@ subject: Architecture
 file_name: in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east.md
 url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
 score: -1.0
+related_article1:
+    id: 169080
+    title: What is the concept of an open-air museum in the design of new oases?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-the-concept-of-an-openair-museum-in-the-design-of-new-oases
+related_article2:
+    id: 169071
+    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article3:
+    id: 169069
+    title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
+related_article4:
+    id: 169074
+    title: What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
+related_article5:
+    id: 169074
+    title: What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
 ---
 
 &nbsp;

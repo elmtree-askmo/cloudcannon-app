@@ -7,7 +7,7 @@ article_title: How should students handle writing on exam sheets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Education studies
+  title: QuickTakes | Education Studies
   page_description: >-
     This content provides essential guidelines for students on how to handle writing on exam sheets, emphasizing the importance of following instructions, using designated response sheets, maintaining organization, avoiding distractions, and managing time effectively.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     How should students handle writing on exam sheets?
 answer: >-
     Students should handle writing on exam sheets with care and attention to the specific instructions provided by the exam proctor or instructor. Here are some key guidelines to follow:\n\n1. **Use of Response Sheets**: Students are typically required to use designated response sheets for recording their answers. It is crucial to adhere to this instruction, as writing directly on the exam sheet itself may lead to confusion during grading.\n\n2. **Follow Instructions**: Pay close attention to any specific instructions given at the beginning of the exam. For example, if instructed not to write on the exam sheet, students must ensure that all answers are recorded on the provided response sheets.\n\n3. **Organized Responses**: When filling out response sheets, students should ensure that their answers are clear and organized. This includes writing legibly and following any formatting guidelines (such as numbering answers or using specific sections for different types of questions).\n\n4. **Avoiding Distractions**: Students should create a clear workspace free from distractions, which can help maintain focus during the exam. This includes putting away electronics and ensuring that only necessary materials are present.\n\n5. **Time Management**: Students should practice managing their time effectively during the exam. This includes allocating appropriate time for each question and ensuring that they complete all sections of the response sheet within the allotted time.\n\nBy following these guidelines, students can effectively handle writing on exam sheets and ensure that their responses are submitted in an organized manner, facilitating a smoother grading process.
-subject: Education studies
+subject: Education Studies
 file_name: how-should-students-handle-writing-on-exam-sheets.md
 url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
 score: -1.0
+related_article1:
+    id: 168224
+    title: What items are allowed and prohibited during an exam according to general guidelines?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-items-are-allowed-and-prohibited-during-an-exam-according-to-general-guidelines
+related_article2:
+    id: 168220
+    title: How should time be managed effectively during an exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+related_article3:
+    id: 168225
+    title: What are the expectations for student conduct during an exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
+related_article4:
+    id: 168217
+    title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+related_article5:
+    id: 168227
+    title: What should be included in pre-exam announcements to students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 ---
 
 &nbsp;

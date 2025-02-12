@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-clinical-implications-of-identifying-parasitic-infections.md
 url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
 score: -1.0
+related_article1:
+    id: 165848
+    title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+related_article2:
+    id: 165850
+    title: How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
+related_article3:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article4:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article5:
+    id: 165844
+    title: How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
 ---
 
 &nbsp;

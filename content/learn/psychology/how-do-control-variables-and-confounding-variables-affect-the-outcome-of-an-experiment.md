@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment.md
 url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 score: -1.0
+related_article1:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article2:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article3:
+    id: 165090
+    title: What is the importance of comparing research results with previous studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
+related_article4:
+    id: 165078
+    title: What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article5:
+    id: 165074
+    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
 ---
 
 &nbsp;

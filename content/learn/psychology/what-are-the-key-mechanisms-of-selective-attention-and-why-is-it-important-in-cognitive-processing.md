@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing.md
 url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
 score: -1.0
+related_article1:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article2:
+    id: 164701
+    title: What factors affect reaction time in visual search, and how does set size influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
+related_article3:
+    id: 164710
+    title: Identify the types of attention disorders and discuss the impact of ADHD on daily life.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-types-of-attention-disorders-and-discuss-the-impact-of-adhd-on-daily-life
+related_article4:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article5:
+    id: 164700
+    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
 ---
 
 &nbsp;

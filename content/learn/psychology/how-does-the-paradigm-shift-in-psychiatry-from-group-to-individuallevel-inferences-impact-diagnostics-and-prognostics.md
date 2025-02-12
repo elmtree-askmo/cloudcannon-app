@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics.md
 url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
 score: -1.0
+related_article1:
+    id: 164069
+    title: What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article2:
+    id: 164070
+    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article3:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article4:
+    id: 164077
+    title: How do normative models help in understanding disease-related variation in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normative-models-help-in-understanding-diseaserelated-variation-in-clinical-populations
+related_article5:
+    id: 164083
+    title: How does brain morphology contribute to a transdiagnostic approach in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
 ---
 
 &nbsp;

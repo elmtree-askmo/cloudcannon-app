@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments.md
 url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
 score: -1.0
+related_article1:
+    id: 168766
+    title: How do specialized structures like lungs and skin respiration contribute to respiratory adaptations in aquatic animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
+related_article2:
+    id: 168760
+    title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
+related_article3:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article4:
+    id: 168760
+    title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
+related_article5:
+    id: 168758
+    title: How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
 ---
 
 &nbsp;

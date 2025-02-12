@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-eukaryotic-cells-achieve-compartmentalization.md
 url: /learn/biology/questions/how-do-eukaryotic-cells-achieve-compartmentalization
 score: -1.0
+related_article1:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article2:
+    id: 169950
+    title: How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article3:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article4:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article5:
+    id: 169957
+    title: What is the function of the nucleoid region in prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
 ---
 
 &nbsp;

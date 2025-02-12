@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-should-time-be-managed-during-an-exam-under-closed-book-conditions.md
 url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 score: -1.0
+related_article1:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article2:
+    id: 169727
+    title: What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+related_article3:
+    id: 169724
+    title: What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+related_article4:
+    id: 169718
+    title: What are the primary macronutrients and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+related_article5:
+    id: 169710
+    title: How do dendrites and axons function in nerve cells?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
 ---
 
 &nbsp;

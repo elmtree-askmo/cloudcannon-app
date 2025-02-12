@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-codominance-and-how-does-it-differ-from-incomplete-dominance.md
 url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
 score: -1.0
+related_article1:
+    id: 167870
+    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article2:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article3:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article4:
+    id: 167871
+    title: Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+related_article5:
+    id: 167889
+    title: Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
 ---
 
 &nbsp;

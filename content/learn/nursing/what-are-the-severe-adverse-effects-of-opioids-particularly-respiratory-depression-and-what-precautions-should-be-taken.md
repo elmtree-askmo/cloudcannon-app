@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken.md
 url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
 score: -1.0
+related_article1:
+    id: 166441
+    title: What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+related_article2:
+    id: 166447
+    title: Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+related_article3:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article4:
+    id: 166442
+    title: Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article5:
+    id: 166445
+    title: Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
 ---
 
 &nbsp;

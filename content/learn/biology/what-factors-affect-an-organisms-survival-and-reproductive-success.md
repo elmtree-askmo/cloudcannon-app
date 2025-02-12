@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-affect-an-organisms-survival-and-reproductive-success.md
 url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
 score: -1.0
+related_article1:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article2:
+    id: 167514
+    title: How do organisms respond to stimuli and why is this response important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+related_article3:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article4:
+    id: 167516
+    title: What distinguishes a scientific theory from a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article5:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
 ---
 
 &nbsp;

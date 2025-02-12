@@ -21,6 +21,26 @@ subject: Economics
 file_name: what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making.md
 url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
 score: -1.0
+related_article1:
+    id: 169927
+    title: Describe the process of cost-benefit analysis and its application in policy making.
+    subject: Economics
+    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
+related_article2:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+related_article3:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+related_article4:
+    id: 169932
+    title: Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies.md
 url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
 score: -1.0
+related_article1:
+    id: 162953
+    title: How do informal settlements challenge the global military security apparatus?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+related_article2:
+    id: 162950
+    title: How do three-dimensional models assist in understanding volumetric conflict environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+related_article3:
+    id: 162952
+    title: Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article4:
+    id: 162952
+    title: Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article5:
+    id: 162953
+    title: How do informal settlements challenge the global military security apparatus?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
 ---
 
 &nbsp;

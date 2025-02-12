@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design.md
 url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
 score: -1.0
+related_article1:
+    id: 169371
+    title: What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility
+related_article2:
+    id: 169371
+    title: What are the current architectural trends in redefining bank spaces for social and environmental responsibility?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility
+related_article3:
+    id: 169363
+    title: How can color be used as a tool in architecture to impact emotions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
+related_article4:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article5:
+    id: 169369
+    title: What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 ---
 
 &nbsp;

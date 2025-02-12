@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research.md
 url: /learn/sociology/questions/how-do-data-collection-and-analysis-techniques-serve-as-practical-tools-in-research
 score: -1.0
+related_article1:
+    id: 160215
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article2:
+    id: 160222
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article3:
+    id: 160636
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article4:
+    id: 160540
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article5:
+    id: 160216
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
 ---
 
 &nbsp;

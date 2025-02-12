@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-specialization-of-brain-hemispheres-in-language-processing.md
 url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
 score: -1.0
+related_article1:
+    id: 164392
+    title: Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article2:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article3:
+    id: 164400
+    title: How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article4:
+    id: 164400
+    title: How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article5:
+    id: 164396
+    title: How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
 ---
 
 &nbsp;

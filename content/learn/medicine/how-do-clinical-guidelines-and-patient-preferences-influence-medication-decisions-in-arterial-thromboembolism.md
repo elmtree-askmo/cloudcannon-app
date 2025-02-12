@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism.md
 url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
 score: -1.0
+related_article1:
+    id: 163177
+    title: How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article2:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article3:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article4:
+    id: 163179
+    title: What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
+related_article5:
+    id: 163182
+    title: How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
 ---
 
 &nbsp;

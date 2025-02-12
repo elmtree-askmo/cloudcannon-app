@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-internalization-of-schemas-and-give-an-example.md
 url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 score: -1.0
+related_article1:
+    id: 168097
+    title: At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article2:
+    id: 168106
+    title: How do sensory input and motor actions contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article3:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article4:
+    id: 168094
+    title: What are primary circular reactions, and at what age do they typically occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
+related_article5:
+    id: 168092
+    title: What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 ---
 
 &nbsp;

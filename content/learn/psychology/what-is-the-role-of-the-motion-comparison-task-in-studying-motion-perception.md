@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception.md
 url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
 score: -1.0
+related_article1:
+    id: 164462
+    title: How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
+related_article2:
+    id: 164475
+    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
+related_article3:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article4:
+    id: 164468
+    title: How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article5:
+    id: 164469
+    title: What are the challenges associated with egocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
 ---
 
 &nbsp;

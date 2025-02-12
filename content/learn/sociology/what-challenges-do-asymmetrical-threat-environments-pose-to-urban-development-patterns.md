@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns.md
 url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
 score: -1.0
+related_article1:
+    id: 162944
+    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
+related_article2:
+    id: 162948
+    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article3:
+    id: 162948
+    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article4:
+    id: 162939
+    title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
+related_article5:
+    id: 162938
+    title: What are the implications of informal urbanization on the security of megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
 ---
 
 &nbsp;

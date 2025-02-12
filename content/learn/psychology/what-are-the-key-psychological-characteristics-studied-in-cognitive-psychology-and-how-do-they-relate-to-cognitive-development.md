@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development.md
 url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
 score: -1.0
+related_article1:
+    id: 167722
+    title: How does cognitive psychology approach the study of consciousness and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+related_article2:
+    id: 167716
+    title: Explain the concept of natural selection and how it relates to evolutionary adaptations.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
+related_article3:
+    id: 167722
+    title: How does cognitive psychology approach the study of consciousness and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+related_article4:
+    id: 167718
+    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article5:
+    id: 167719
+    title: How does behaviorism explain animal behavior through association and response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
 ---
 
 &nbsp;

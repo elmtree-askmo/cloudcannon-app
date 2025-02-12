@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues.md
 url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
 score: -1.0
+related_article1:
+    id: 163006
+    title: How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
+related_article2:
+    id: 162997
+    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article3:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article4:
+    id: 162996
+    title: What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+related_article5:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-student-nurses-within-the-healthcare-team.md
 url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
 score: -1.0
+related_article1:
+    id: 169580
+    title: How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article2:
+    id: 169566
+    title: What are some ways to build competence through experience?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+related_article3:
+    id: 169578
+    title: How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+related_article4:
+    id: 169567
+    title: What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article5:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 ---
 
 &nbsp;

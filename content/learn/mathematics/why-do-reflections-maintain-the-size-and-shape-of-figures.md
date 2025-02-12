@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-do-reflections-maintain-the-size-and-shape-of-figures.md
 url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-figures
 score: -1.0
+related_article1:
+    id: 162515
+    title: How is horizontal symmetry different from vertical symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-different-from-vertical-symmetry-in-reflections
+related_article2:
+    id: 162908
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article3:
+    id: 162825
+    title: Why are reflections important in coordinate geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-reflections-important-in-coordinate-geometry
+related_article4:
+    id: 162507
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article5:
+    id: 162896
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

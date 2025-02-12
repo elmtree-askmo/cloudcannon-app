@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain.md
 url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
 score: -1.0
+related_article1:
+    id: 164530
+    title: How do approach and withdrawal emotions differ in terms of brain activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
+related_article2:
+    id: 164541
+    title: What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article3:
+    id: 164527
+    title: What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+related_article4:
+    id: 164532
+    title: How does social connectedness influence emotional perception and experience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+related_article5:
+    id: 164541
+    title: What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
 ---
 
 &nbsp;

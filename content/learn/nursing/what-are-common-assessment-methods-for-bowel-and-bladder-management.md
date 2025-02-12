@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-common-assessment-methods-for-bowel-and-bladder-management.md
 url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
 score: -1.0
+related_article1:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article2:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article3:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article4:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article5:
+    id: 169748
+    title: What tools and techniques are used for effective pain assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
 ---
 
 &nbsp;

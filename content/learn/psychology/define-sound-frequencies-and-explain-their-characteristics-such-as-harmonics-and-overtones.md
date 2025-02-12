@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones.md
 url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 score: -1.0
+related_article1:
+    id: 164250
+    title: Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+related_article2:
+    id: 164251
+    title: How does the portable magnification factor impact detail recognition in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-impact-detail-recognition-in-visual-processing
+related_article3:
+    id: 164250
+    title: Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+related_article4:
+    id: 164248
+    title: What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
+related_article5:
+    id: 164252
+    title: What is a tonotopic map and how is it organized in the auditory cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
 ---
 
 &nbsp;

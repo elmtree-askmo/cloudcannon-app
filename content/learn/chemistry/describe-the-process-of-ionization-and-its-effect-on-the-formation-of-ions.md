@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions.md
 url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
 score: -1.0
+related_article1:
+    id: 161757
+    title: Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article2:
+    id: 162053
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article3:
+    id: 162026
+    title: What is the importance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 162019
+    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article5:
+    id: 162024
+    title: What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 ---
 
 &nbsp;

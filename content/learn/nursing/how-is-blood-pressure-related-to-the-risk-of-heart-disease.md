@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-blood-pressure-related-to-the-risk-of-heart-disease.md
 url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
 score: -1.0
+related_article1:
+    id: 169532
+    title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
+related_article2:
+    id: 169522
+    title: What are some common causes and risk factors for hypertension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
+related_article3:
+    id: 169519
+    title: Why has there been an increasing focus on diastolic blood pressure in recent trends?
+    subject: Nursing
+    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
+related_article4:
+    id: 169515
+    title: What are the potential consequences of false blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+related_article5:
+    id: 169533
+    title: How do age-related changes naturally affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
 ---
 
 &nbsp;

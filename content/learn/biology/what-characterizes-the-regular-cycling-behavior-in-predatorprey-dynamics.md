@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics.md
 url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
 score: -1.0
+related_article1:
+    id: 166118
+    title: What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
+related_article2:
+    id: 166127
+    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article3:
+    id: 166134
+    title: What challenges are associated with modeling habitat complexity in ecological models?
+    subject: Biology
+    url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
+related_article4:
+    id: 166132
+    title: How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article5:
+    id: 166133
+    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-defining-characteristics-of-a-rectangle.md
 url: /learn/mathematics/questions/what-are-the-defining-characteristics-of-a-rectangle
 score: -1.0
+related_article1:
+    id: 164922
+    title: What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article2:
+    id: 164929
+    title: How can the concept of cytokines be related to mathematical transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+related_article3:
+    id: 164929
+    title: How can the concept of cytokines be related to mathematical transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+related_article4:
+    id: 164927
+    title: How can dimensional analysis be applied to solve geometric problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+related_article5:
+    id: 164922
+    title: What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 ---
 
 &nbsp;

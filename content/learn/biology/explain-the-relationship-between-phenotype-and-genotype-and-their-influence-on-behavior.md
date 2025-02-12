@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior.md
 url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 score: -1.0
+related_article1:
+    id: 165263
+    title: What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article2:
+    id: 165256
+    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article3:
+    id: 165265
+    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
+related_article4:
+    id: 165259
+    title: What is the purpose of a cross-fostering experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
+related_article5:
+    id: 165257
+    title: How does heritability affect the process of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-affect-the-process-of-natural-selection
 ---
 
 &nbsp;

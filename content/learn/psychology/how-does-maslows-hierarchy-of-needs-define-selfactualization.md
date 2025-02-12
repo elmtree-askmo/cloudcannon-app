@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-maslows-hierarchy-of-needs-define-selfactualization.md
 url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
 score: -1.0
+related_article1:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article2:
+    id: 170024
+    title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article3:
+    id: 170021
+    title: How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article4:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article5:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

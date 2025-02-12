@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass.md
 url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
 score: -1.0
+related_article1:
+    id: 167251
+    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article2:
+    id: 167258
+    title: How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article3:
+    id: 167258
+    title: How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article4:
+    id: 167258
+    title: How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article5:
+    id: 167249
+    title: What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 ---
 
 &nbsp;

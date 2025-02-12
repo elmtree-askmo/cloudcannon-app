@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis.md
 url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
 score: -1.0
+related_article1:
+    id: 165227
+    title: How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article2:
+    id: 165232
+    title: What role does molecular visualization play in understanding organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
+related_article3:
+    id: 165240
+    title: How do perceptual afterimages affect visual perception and cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
+related_article4:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 ---
 
 &nbsp;

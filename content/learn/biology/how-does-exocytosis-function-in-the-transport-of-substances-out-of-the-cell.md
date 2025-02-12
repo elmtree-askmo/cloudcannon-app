@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell.md
 url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
 score: -1.0
+related_article1:
+    id: 166938
+    title: What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article2:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article3:
+    id: 166947
+    title: What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article4:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article5:
+    id: 166948
+    title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
 ---
 
 &nbsp;

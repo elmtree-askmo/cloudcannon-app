@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability.md
 url: /learn/biology/questions/explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability
 score: -1.0
+related_article1:
+    id: 166982
+    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article2:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article3:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article4:
+    id: 166974
+    title: What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+related_article5:
+    id: 166970
+    title: What is simple diffusion and which molecules typically undergo this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
 ---
 
 &nbsp;

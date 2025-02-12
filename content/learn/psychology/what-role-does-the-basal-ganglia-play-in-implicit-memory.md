@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-basal-ganglia-play-in-implicit-memory.md
 url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 score: -1.0
+related_article1:
+    id: 164410
+    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+related_article2:
+    id: 164409
+    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+related_article3:
+    id: 164407
+    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article4:
+    id: 164409
+    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+related_article5:
+    id: 164412
+    title: How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities.md
 url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
 score: -1.0
+related_article1:
+    id: 168371
+    title: What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+related_article2:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article3:
+    id: 168365
+    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+related_article4:
+    id: 168365
+    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
 ---
 
 &nbsp;

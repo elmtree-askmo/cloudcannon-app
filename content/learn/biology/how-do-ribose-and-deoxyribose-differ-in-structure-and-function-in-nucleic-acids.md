@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids.md
 url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
 score: -1.0
+related_article1:
+    id: 165350
+    title: How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article2:
+    id: 165345
+    title: What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
+related_article3:
+    id: 165342
+    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article4:
+    id: 165334
+    title: What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
+related_article5:
+    id: 165348
+    title: What distinguishes purines from pyrimidines among nitrogenous bases?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
 ---
 
 &nbsp;

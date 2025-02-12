@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-natural-selection-influence-the-evolution-of-animal-behavior.md
 url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166389
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article2:
+    id: 166390
+    title: What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article3:
+    id: 166387
+    title: What is heritability, and how is it studied in behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
+related_article4:
+    id: 166374
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article5:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

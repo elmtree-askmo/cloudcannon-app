@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions.md
 url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
 score: -1.0
+related_article1:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article2:
+    id: 170454
+    title: What are the causes and symptoms of viral meningitis, and how is it treated?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+related_article3:
+    id: 170453
+    title: Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
+related_article4:
+    id: 170440
+    title: What percentage of the human genome is dedicated to neurology, and why is this significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+related_article5:
+    id: 170453
+    title: Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues.md
 url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
 score: -1.0
+related_article1:
+    id: 164070
+    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article2:
+    id: 164078
+    title: How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article3:
+    id: 164071
+    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
+related_article4:
+    id: 164079
+    title: What are the benefits of data-driven personalized care in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
 ---
 
 &nbsp;

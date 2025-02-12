@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry.md
 url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 score: -1.0
+related_article1:
+    id: 167447
+    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article2:
+    id: 167460
+    title: What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+related_article3:
+    id: 167452
+    title: What is the purpose of Lewis dot structures in representing molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article4:
+    id: 167451
+    title: How does the octet rule contribute to the stability of atoms in chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
+related_article5:
+    id: 167458
+    title: What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-stages-of-moral-development-according-to-kohlberg-and-how-do-they-relate-to-peer-interaction.md
 url: /learn/psychology/questions/what-are-the-stages-of-moral-development-according-to-kohlberg-and-how-do-they-relate-to-peer-interaction
 score: -1.0
+related_article1:
+    id: 164148
+    title: How do educational settings utilize peer interaction to enhance moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-educational-settings-utilize-peer-interaction-to-enhance-moral-development
+related_article2:
+    id: 164137
+    title: What role does power assertion play in parenting, and how does it impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
+related_article3:
+    id: 164138
+    title: How does love withdrawal as a parenting technique influence a child's moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
+related_article4:
+    id: 164137
+    title: What role does power assertion play in parenting, and how does it impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
 ---
 
 &nbsp;

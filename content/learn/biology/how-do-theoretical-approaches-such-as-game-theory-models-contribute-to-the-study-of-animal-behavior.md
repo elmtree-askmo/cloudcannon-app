@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior.md
 url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165273
+    title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
+related_article2:
+    id: 165285
+    title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article3:
+    id: 165272
+    title: Define animal behavior and explain its importance in ecology.
+    subject: Biology
+    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
+related_article4:
+    id: 165285
+    title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
 ---
 
 &nbsp;

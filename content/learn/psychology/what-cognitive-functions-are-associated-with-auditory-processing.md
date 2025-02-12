@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-cognitive-functions-are-associated-with-auditory-processing.md
 url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 score: -1.0
+related_article1:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article2:
+    id: 164399
+    title: What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+related_article3:
+    id: 164389
+    title: Which neural pathways are involved in communication disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+related_article4:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article5:
+    id: 164380
+    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
 ---
 
 &nbsp;

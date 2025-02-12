@@ -21,6 +21,26 @@ subject: Nursing
 file_name: which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them.md
 url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
 score: -1.0
+related_article1:
+    id: 164442
+    title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
+related_article2:
+    id: 164458
+    title: How do physical forces impact brain structure and function in the context of neuroanatomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
+related_article3:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article4:
+    id: 164450
+    title: What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
 ---
 
 &nbsp;

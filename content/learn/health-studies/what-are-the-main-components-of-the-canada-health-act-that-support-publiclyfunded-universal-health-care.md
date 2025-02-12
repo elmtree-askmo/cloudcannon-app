@@ -7,7 +7,7 @@ article_title: What are the main components of the Canada Health Act that suppor
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Health studies
+  title: QuickTakes | Health Studies
   page_description: >-
     The Canada Health Act establishes the framework for publicly-funded universal health care in Canada through five main principles: Public Administration, Comprehensiveness, Universality, Portability, and Accessibility, ensuring equitable access to health services for all residents.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What are the main components of the Canada Health Act that support publicly-funded universal health care?
 answer: >-
     The Canada Health Act (CHA) is a crucial piece of federal legislation that establishes the framework for publicly funded universal health care in Canada. It sets out five main principles that provinces and territories must adhere to in order to receive full federal funding for health care services. These principles are:\n\n1. **Public Administration**: All provincial and territorial health insurance plans must be administered on a non-profit basis by a public authority. This ensures that the management of health care services is accountable to the public and not driven by profit motives.\n\n2. **Comprehensiveness**: The health insurance plans must cover all medically necessary hospital and physician services. This principle ensures that a wide range of health services is available to all residents without direct charges at the point of care.\n\n3. **Universality**: All residents of a province or territory must have access to the insured health services on uniform terms and conditions. This principle guarantees that health care services are available to everyone, regardless of their income or geographic location.\n\n4. **Portability**: Residents must be able to access health care services when they move or travel within Canada. This principle ensures that individuals do not lose their health insurance coverage when they relocate to another province or territory.\n\n5. **Accessibility**: The health care system must be accessible to all residents without financial or other barriers. This principle emphasizes the importance of ensuring that all Canadians can obtain necessary health services without facing obstacles such as long wait times or high out-of-pocket costs.\n\nThese principles collectively support the goal of providing equitable access to health care for all Canadians, thereby reinforcing the commitment to a publicly funded health care system. The CHA also outlines the conditions under which provinces and territories can receive federal funding, ensuring that they comply with these principles to maintain their eligibility for financial support.
-subject: Health studies
+subject: Health Studies
 file_name: what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care.md
 url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 score: -1.0
+related_article1:
+    id: 162576
+    title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
+related_article2:
+    id: 162580
+    title: What were the key public health responses to typhus during the Irish immigration period?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
+related_article3:
+    id: 162581
+    title: How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
+related_article4:
+    id: 162576
+    title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
+related_article5:
+    id: 162577
+    title: How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-public-health-efforts
 ---
 
 &nbsp;

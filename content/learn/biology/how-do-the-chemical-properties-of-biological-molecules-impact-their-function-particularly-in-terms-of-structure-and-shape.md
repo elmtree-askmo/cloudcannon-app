@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape.md
 url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
 score: -1.0
+related_article1:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article2:
+    id: 167201
+    title: How can diagram analysis be used to predict the cellular function of a lipid?
+    subject: Biology
+    url: /learn/biology/questions/how-can-diagram-analysis-be-used-to-predict-the-cellular-function-of-a-lipid
+related_article3:
+    id: 167203
+    title: How can you identify a saturated fatty acid based on its molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-identify-a-saturated-fatty-acid-based-on-its-molecular-structure
+related_article4:
+    id: 167208
+    title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
+related_article5:
+    id: 167211
+    title: What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
 ---
 
 &nbsp;

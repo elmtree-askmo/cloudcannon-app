@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development.md
 url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 score: -1.0
+related_article1:
+    id: 169355
+    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+related_article2:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article3:
+    id: 169348
+    title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+related_article4:
+    id: 169346
+    title: How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
+related_article5:
+    id: 169340
+    title: How does observational learning contribute to social development, and what role does imitation play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 ---
 
 &nbsp;

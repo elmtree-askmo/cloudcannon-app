@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning.md
 url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164205
+    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+related_article2:
+    id: 164210
+    title: What are the foremost considerations in moral reasoning according to Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foremost-considerations-in-moral-reasoning-according-to-gilligans-theory
+related_article3:
+    id: 164209
+    title: How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
+related_article4:
+    id: 164205
+    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+related_article5:
+    id: 164211
+    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
 ---
 
 &nbsp;

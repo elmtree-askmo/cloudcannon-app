@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis.md
 url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170388
+    title: What is the role of decomposers in the breakdown of organic material in the geosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
+related_article2:
+    id: 170390
+    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article3:
+    id: 170384
+    title: How does the decomposition process contribute to nutrient recycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
+related_article4:
+    id: 170390
+    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article5:
+    id: 170392
+    title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
 ---
 
 &nbsp;

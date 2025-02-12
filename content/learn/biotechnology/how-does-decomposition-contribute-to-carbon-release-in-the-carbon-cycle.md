@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle.md
 url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article2:
+    id: 170313
+    title: What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+related_article3:
+    id: 170321
+    title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
+related_article4:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article5:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
 ---
 
 &nbsp;

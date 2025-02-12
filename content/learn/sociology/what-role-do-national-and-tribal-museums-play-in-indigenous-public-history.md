@@ -21,6 +21,21 @@ subject: Sociology
 file_name: what-role-do-national-and-tribal-museums-play-in-indigenous-public-history.md
 url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
 score: -1.0
+related_article1:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article2:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article3:
+    id: 169162
+    title: How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
 ---
 
 &nbsp;

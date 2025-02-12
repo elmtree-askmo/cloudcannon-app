@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources.md
 url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
 score: -1.0
+related_article1:
+    id: 169770
+    title: What are the primary functions of proteins in the body, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
+related_article2:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article3:
+    id: 169777
+    title: What are the World Health Organization's recommendations regarding sugar and fat intake?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
+related_article4:
+    id: 169780
+    title: What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article5:
+    id: 169770
+    title: What are the primary functions of proteins in the body, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
 ---
 
 &nbsp;

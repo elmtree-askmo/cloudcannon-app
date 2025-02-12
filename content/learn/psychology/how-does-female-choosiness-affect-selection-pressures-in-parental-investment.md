@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-female-choosiness-affect-selection-pressures-in-parental-investment.md
 url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 score: -1.0
+related_article1:
+    id: 170879
+    title: What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+related_article2:
+    id: 170873
+    title: What strategies are involved in sperm competition during intersexual competition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+related_article3:
+    id: 170874
+    title: How does the healthy mate theory explain mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
+related_article4:
+    id: 170870
+    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+related_article5:
+    id: 170872
+    title: What are the main types of intrasexual competition, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
 ---
 
 &nbsp;

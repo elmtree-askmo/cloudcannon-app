@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding.md
 url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
 score: -1.0
+related_article1:
+    id: 164152
+    title: How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
+related_article2:
+    id: 164163
+    title: What role do game rules play in Piaget's research on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
+related_article3:
+    id: 164173
+    title: What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article4:
+    id: 164173
+    title: What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article5:
+    id: 164159
+    title: What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-distinguishes-a-proposition-from-a-nonproposition.md
 url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 score: -1.0
+related_article1:
+    id: 170241
+    title: Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+related_article2:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article3:
+    id: 170235
+    title: What is the historical significance of propositional logic in the development of logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+related_article4:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article5:
+    id: 170247
+    title: Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 ---
 
 &nbsp;

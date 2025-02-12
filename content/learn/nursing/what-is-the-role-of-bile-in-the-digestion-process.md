@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-bile-in-the-digestion-process.md
 url: /learn/nursing/questions/what-is-the-role-of-bile-in-the-digestion-process
 score: -1.0
+related_article1:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article2:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article3:
+    id: 168814
+    title: What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
+related_article4:
+    id: 168817
+    title: What is the role of epithelial cells in the absorption of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+related_article5:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 ---
 
 &nbsp;

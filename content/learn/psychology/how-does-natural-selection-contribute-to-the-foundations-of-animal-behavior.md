@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior.md
 url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166420
+    title: Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article2:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article3:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article4:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article5:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 ---
 
 &nbsp;

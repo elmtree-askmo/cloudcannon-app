@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes.md
 url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
 score: -1.0
+related_article1:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article2:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article3:
+    id: 170835
+    title: Explain the concept of Nash Equilibrium in classical game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
+related_article4:
+    id: 170843
+    title: How does Nash Equilibrium apply to competitive interactions in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+related_article5:
+    id: 170840
+    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
 ---
 
 &nbsp;

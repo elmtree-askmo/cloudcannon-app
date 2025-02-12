@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve.md
 url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
 score: -1.0
+related_article1:
+    id: 167149
+    title: How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article2:
+    id: 167144
+    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
+related_article3:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article4:
+    id: 167154
+    title: How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article5:
+    id: 167142
+    title: How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 ---
 
 &nbsp;

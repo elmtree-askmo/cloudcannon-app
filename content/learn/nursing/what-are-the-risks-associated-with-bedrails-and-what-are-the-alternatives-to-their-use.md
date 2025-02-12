@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use.md
 url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 score: -1.0
+related_article1:
+    id: 169675
+    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+related_article2:
+    id: 169678
+    title: How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article3:
+    id: 169678
+    title: How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article4:
+    id: 169667
+    title: What are the best practices for safe medication prescription and administration to avoid errors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+related_article5:
+    id: 169668
+    title: How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application.md
 url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
 score: -1.0
+related_article1:
+    id: 170231
+    title: What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article2:
+    id: 170232
+    title: Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article3:
+    id: 170223
+    title: What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
+related_article4:
+    id: 170218
+    title: What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
+related_article5:
+    id: 170218
+    title: What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
 ---
 
 &nbsp;

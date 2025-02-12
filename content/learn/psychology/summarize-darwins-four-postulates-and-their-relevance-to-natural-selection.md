@@ -21,6 +21,31 @@ subject: Psychology
 file_name: summarize-darwins-four-postulates-and-their-relevance-to-natural-selection.md
 url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166412
+    title: Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article3:
+    id: 166412
+    title: Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article4:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+related_article5:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
 ---
 
 &nbsp;

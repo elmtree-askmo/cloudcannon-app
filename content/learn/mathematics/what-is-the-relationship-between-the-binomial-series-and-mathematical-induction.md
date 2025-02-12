@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-the-binomial-series-and-mathematical-induction.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
 score: -1.0
+related_article1:
+    id: 170744
+    title: What role do properties of real numbers play in series and sequences?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
+related_article2:
+    id: 170737
+    title: What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+related_article3:
+    id: 170753
+    title: What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article4:
+    id: 170739
+    title: Why is the base case important in mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
+related_article5:
+    id: 170745
+    title: How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

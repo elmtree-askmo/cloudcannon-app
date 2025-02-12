@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment.md
 url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 score: -1.0
+related_article1:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article2:
+    id: 164054
+    title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
+related_article3:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article4:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article5:
+    id: 164045
+    title: What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-repetition-and-practice-influence-memory-retention.md
 url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
 score: -1.0
+related_article1:
+    id: 164479
+    title: What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
+related_article2:
+    id: 164492
+    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article3:
+    id: 164479
+    title: What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
+related_article4:
+    id: 164503
+    title: What is the impact of memory loss on identity, and what coping mechanisms are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
+related_article5:
+    id: 164485
+    title: What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 ---
 
 &nbsp;

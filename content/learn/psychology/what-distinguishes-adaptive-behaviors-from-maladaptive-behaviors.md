@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors.md
 url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
 score: -1.0
+related_article1:
+    id: 167704
+    title: What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article2:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article3:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article4:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article5:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
 ---
 
 &nbsp;

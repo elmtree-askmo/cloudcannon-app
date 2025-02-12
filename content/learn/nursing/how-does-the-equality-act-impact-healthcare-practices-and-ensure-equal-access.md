@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access.md
 url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
 score: -1.0
+related_article1:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article2:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article3:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article4:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article5:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 ---
 
 &nbsp;

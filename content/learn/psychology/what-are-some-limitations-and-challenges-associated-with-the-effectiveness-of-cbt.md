@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt.md
 url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 score: -1.0
+related_article1:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article2:
+    id: 167702
+    title: What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+related_article3:
+    id: 167689
+    title: How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article4:
+    id: 167688
+    title: What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article5:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 ---
 
 &nbsp;

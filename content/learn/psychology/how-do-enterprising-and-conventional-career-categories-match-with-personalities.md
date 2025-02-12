@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-enterprising-and-conventional-career-categories-match-with-personalities.md
 url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
 score: -1.0
+related_article1:
+    id: 168442
+    title: What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article2:
+    id: 168452
+    title: How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article3:
+    id: 168447
+    title: What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article4:
+    id: 168439
+    title: What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article5:
+    id: 168449
+    title: Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
 ---
 
 &nbsp;

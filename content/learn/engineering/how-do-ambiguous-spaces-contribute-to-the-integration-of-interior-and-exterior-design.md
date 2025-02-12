@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design.md
 url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
 score: -1.0
+related_article1:
+    id: 169369
+    title: What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article2:
+    id: 169366
+    title: What role does natural light play in environmental design, particularly in courtyard integration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
+related_article3:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article4:
+    id: 169372
+    title: How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article5:
+    id: 169373
+    title: In what ways can architecture evoke emotions and create sensory experiences?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-significance-of-global-production-networks-in-commodity-chains.md
 url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
 score: -1.0
+related_article1:
+    id: 165998
+    title: How does wealth distribution affect economic inequality on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
+related_article2:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article3:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article4:
+    id: 166000
+    title: How do cultural resistance movements work to preserve traditions in the face of globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
+related_article5:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 ---
 
 &nbsp;

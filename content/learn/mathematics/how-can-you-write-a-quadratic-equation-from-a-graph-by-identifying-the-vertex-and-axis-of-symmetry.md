@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry.md
 url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
 score: -1.0
+related_article1:
+    id: 163753
+    title: What are the steps to convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-to-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article2:
+    id: 163756
+    title: How does the leading coefficient influence the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
+related_article3:
+    id: 163762
+    title: How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
+related_article4:
+    id: 163742
+    title: What is the standard form of a quadratic equation and what do its components represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
+related_article5:
+    id: 163756
+    title: How does the leading coefficient influence the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
 ---
 
 &nbsp;

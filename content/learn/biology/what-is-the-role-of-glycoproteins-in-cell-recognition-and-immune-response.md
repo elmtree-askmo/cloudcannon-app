@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response.md
 url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
 score: -1.0
+related_article1:
+    id: 168928
+    title: Describe the hydrophilic nature of phospholipid heads and their interaction with water.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-hydrophilic-nature-of-phospholipid-heads-and-their-interaction-with-water
+related_article2:
+    id: 168918
+    title: How do phospholipids contribute to the structure of the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
+related_article3:
+    id: 168927
+    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+related_article4:
+    id: 168927
+    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+related_article5:
+    id: 168928
+    title: Describe the hydrophilic nature of phospholipid heads and their interaction with water.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-hydrophilic-nature-of-phospholipid-heads-and-their-interaction-with-water
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map.md
 url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
 score: -1.0
+related_article1:
+    id: 164254
+    title: What are single cell recordings and how are they used to map sensory inputs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+related_article2:
+    id: 164253
+    title: Describe the role of the auditory cortex in sound localization.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-the-auditory-cortex-in-sound-localization
+related_article3:
+    id: 164253
+    title: Describe the role of the auditory cortex in sound localization.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-the-auditory-cortex-in-sound-localization
+related_article4:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
+related_article5:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 ---
 
 &nbsp;

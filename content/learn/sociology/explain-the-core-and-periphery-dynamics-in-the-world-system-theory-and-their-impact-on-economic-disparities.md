@@ -21,6 +21,26 @@ subject: Sociology
 file_name: explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities.md
 url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 score: -1.0
+related_article1:
+    id: 165999
+    title: What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article2:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
+related_article3:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article4:
+    id: 165995
+    title: What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
 ---
 
 &nbsp;

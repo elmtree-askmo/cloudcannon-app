@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-preventive-measures-can-be-implemented-to-prevent-pressure-sores.md
 url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
 score: -1.0
+related_article1:
+    id: 169483
+    title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
+related_article2:
+    id: 169483
+    title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
+related_article3:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article4:
+    id: 169487
+    title: What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article5:
+    id: 169493
+    title: What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
 ---
 
 &nbsp;

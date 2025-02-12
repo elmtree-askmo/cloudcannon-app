@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties.md
 url: /learn/biology/questions/what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties
 score: -1.0
+related_article1:
+    id: 167452
+    title: What is the purpose of Lewis dot structures in representing molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article2:
+    id: 167460
+    title: What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+related_article3:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article4:
+    id: 167458
+    title: What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article5:
+    id: 167460
+    title: What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
 ---
 
 &nbsp;

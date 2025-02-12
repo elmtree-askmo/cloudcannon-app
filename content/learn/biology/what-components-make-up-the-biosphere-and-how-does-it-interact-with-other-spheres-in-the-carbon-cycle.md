@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle.md
 url: /learn/biology/questions/what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170329
+    title: What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
+related_article2:
+    id: 170337
+    title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
+related_article3:
+    id: 170342
+    title: What are the differences between chemical energy and light energy in ecosystems, and how are they converted?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-chemical-energy-and-light-energy-in-ecosystems-and-how-are-they-converted
+related_article4:
+    id: 170332
+    title: How does the hydrosphere contribute to the carbon cycle and interact with the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-hydrosphere-contribute-to-the-carbon-cycle-and-interact-with-the-atmosphere
+related_article5:
+    id: 170331
+    title: What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
 ---
 
 &nbsp;

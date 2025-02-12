@@ -21,6 +21,31 @@ subject: Engineering
 file_name: state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it.md
 url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
 score: -1.0
+related_article1:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article2:
+    id: 169832
+    title: Explain the analogy between tensão elétrica and water pressure.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
+related_article3:
+    id: 169834
+    title: How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article4:
+    id: 169842
+    title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+related_article5:
+    id: 169842
+    title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
 ---
 
 &nbsp;

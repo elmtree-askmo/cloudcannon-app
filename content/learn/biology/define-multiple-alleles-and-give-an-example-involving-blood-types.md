@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-multiple-alleles-and-give-an-example-involving-blood-types.md
 url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
 score: -1.0
+related_article1:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
+related_article2:
+    id: 167869
+    title: What is incomplete dominance and how does it differ from complete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
+related_article3:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article4:
+    id: 167876
+    title: Describe an example of codominance and its phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
+related_article5:
+    id: 167872
+    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
 ---
 
 &nbsp;

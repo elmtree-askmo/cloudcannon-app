@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-differences-between-physical-and-chemical-properties-of-matter.md
 url: /learn/chemistry/questions/what-are-the-differences-between-physical-and-chemical-properties-of-matter
 score: -1.0
+related_article1:
+    id: 161836
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161914
+    title: What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article3:
+    id: 161821
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article4:
+    id: 161908
+    title: What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article5:
+    id: 161837
+    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-is-the-importance-of-randomized-controlled-trials-in-clinical-research.md
 url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 score: -1.0
+related_article1:
+    id: 166497
+    title: What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article2:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article3:
+    id: 166513
+    title: Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article4:
+    id: 166513
+    title: Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
 ---
 
 &nbsp;

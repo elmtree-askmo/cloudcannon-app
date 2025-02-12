@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence.md
 url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
 score: -1.0
+related_article1:
+    id: 162134
+    title: How does the quadrant system in coordinate geometry help in plotting points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points
+related_article2:
+    id: 162129
+    title: List the criteria used to determine if two triangles are congruent.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
+related_article3:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article4:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article5:
+    id: 162132
+    title: Describe the effect of a clockwise rotation on the coordinates of a point.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
 ---
 
 &nbsp;

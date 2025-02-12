@@ -21,6 +21,31 @@ subject: Biology
 file_name: provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome.md
 url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
 score: -1.0
+related_article1:
+    id: 167874
+    title: How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article2:
+    id: 167886
+    title: What is the genetic basis of cystic fibrosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+related_article3:
+    id: 167888
+    title: What is genetic variation and why is it important in populations?
+    subject: Biology
+    url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
+related_article4:
+    id: 167886
+    title: What is the genetic basis of cystic fibrosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+related_article5:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
 ---
 
 &nbsp;

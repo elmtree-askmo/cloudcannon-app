@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites.md
 url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 score: -1.0
+related_article1:
+    id: 165837
+    title: What are some challenges associated with vector control in the spread of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
+related_article2:
+    id: 165844
+    title: How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article3:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article4:
+    id: 165828
+    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article5:
+    id: 165836
+    title: Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 ---
 
 &nbsp;

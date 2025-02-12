@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-isotopes-differ-from-each-other-in-terms-of-neutrons.md
 url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 score: -1.0
+related_article1:
+    id: 167562
+    title: How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article2:
+    id: 167558
+    title: List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article3:
+    id: 167562
+    title: How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article4:
+    id: 167559
+    title: What are the charges and masses of protons, neutrons, and electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
+related_article5:
+    id: 167568
+    title: How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-impact-of-freuds-theories-on-cognitive-psychology.md
 url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 164395
+    title: What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article2:
+    id: 164388
+    title: What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article3:
+    id: 164396
+    title: How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+related_article4:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article5:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
 ---
 
 &nbsp;

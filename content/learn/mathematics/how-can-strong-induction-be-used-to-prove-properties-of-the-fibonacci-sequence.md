@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence.md
 url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 score: -1.0
+related_article1:
+    id: 170702
+    title: Why are base cases important in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
+related_article2:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article3:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article4:
+    id: 170706
+    title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
+related_article5:
+    id: 170689
+    title: In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

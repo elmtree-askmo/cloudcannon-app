@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-peptide-bonds-form-between-amino-acids.md
 url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
 score: -1.0
+related_article1:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article2:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article3:
+    id: 169956
+    title: What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article4:
+    id: 169951
+    title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+related_article5:
+    id: 169944
+    title: What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
 ---
 
 &nbsp;

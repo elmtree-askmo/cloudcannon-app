@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-monosaccharides-differ-in-their-linear-and-circular-forms.md
 url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
 score: -1.0
+related_article1:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article2:
+    id: 167496
+    title: What is the role of dehydration reactions in the formation of biological polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
+related_article3:
+    id: 167503
+    title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article4:
+    id: 167503
+    title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article5:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
 ---
 
 &nbsp;

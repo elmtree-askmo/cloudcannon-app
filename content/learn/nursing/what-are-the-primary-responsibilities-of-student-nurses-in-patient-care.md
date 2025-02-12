@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-responsibilities-of-student-nurses-in-patient-care.md
 url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
 score: -1.0
+related_article1:
+    id: 169554
+    title: What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article2:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article3:
+    id: 169554
+    title: What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article4:
+    id: 169564
+    title: Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article5:
+    id: 169577
+    title: Why is effective communication important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane.md
 url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
 score: -1.0
+related_article1:
+    id: 164828
+    title: What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article2:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article3:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article4:
+    id: 164827
+    title: How does myelination affect the speed of neural signal transmission?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+related_article5:
+    id: 164827
+    title: How does myelination affect the speed of neural signal transmission?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 ---
 
 &nbsp;

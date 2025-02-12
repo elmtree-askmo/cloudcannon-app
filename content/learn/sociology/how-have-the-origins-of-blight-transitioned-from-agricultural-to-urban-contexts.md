@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts.md
 url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
 score: -1.0
+related_article1:
+    id: 168961
+    title: What were the main factors contributing to urban decline in the early 20th century?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
+related_article2:
+    id: 168973
+    title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article3:
+    id: 168969
+    title: What historical practices contributed to racial segregation in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
+related_article4:
+    id: 168970
+    title: How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+related_article5:
+    id: 168965
+    title: What role does racial identity play in the political and economic orders of urban spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
 ---
 
 &nbsp;

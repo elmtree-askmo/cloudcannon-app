@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-age-affect-the-accuracy-of-eyewitness-testimony.md
 url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168012
+    title: What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article2:
+    id: 168021
+    title: What interview techniques can be used to reduce suggestibility in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
+related_article3:
+    id: 168018
+    title: How do age and memory recall relate to the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
+related_article4:
+    id: 168017
+    title: What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article5:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
 ---
 
 &nbsp;

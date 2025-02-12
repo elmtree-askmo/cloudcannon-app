@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-how-negative-exponents-are-simplified-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 168308
+    title: Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article2:
+    id: 168309
+    title: How do you combine like radicals to simplify complex expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
+related_article3:
+    id: 168298
+    title: How do you calculate the degree of a polynomial, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
+related_article4:
+    id: 168304
+    title: How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
+related_article5:
+    id: 168309
+    title: How do you combine like radicals to simplify complex expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
 ---
 
 &nbsp;

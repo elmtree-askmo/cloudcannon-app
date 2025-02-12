@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-fovea-contribute-to-the-portable-magnification-factor.md
 url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
 score: -1.0
+related_article1:
+    id: 164658
+    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+related_article2:
+    id: 164647
+    title: How does damage to the occipital lobe affect visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
+related_article3:
+    id: 164652
+    title: What is blindsight and how is it demonstrated experimentally?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
+related_article4:
+    id: 164658
+    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+related_article5:
+    id: 164651
+    title: What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
 ---
 
 &nbsp;

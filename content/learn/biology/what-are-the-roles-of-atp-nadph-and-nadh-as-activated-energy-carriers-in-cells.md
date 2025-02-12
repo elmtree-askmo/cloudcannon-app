@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells.md
 url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
 score: -1.0
+related_article1:
+    id: 170987
+    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+related_article2:
+    id: 170977
+    title: How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article3:
+    id: 170993
+    title: What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+related_article4:
+    id: 170993
+    title: What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+related_article5:
+    id: 170994
+    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 ---
 
 &nbsp;

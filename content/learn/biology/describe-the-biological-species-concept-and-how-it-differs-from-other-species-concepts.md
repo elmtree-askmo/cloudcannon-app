@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts.md
 url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 score: -1.0
+related_article1:
+    id: 167747
+    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+related_article2:
+    id: 167761
+    title: Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
+related_article3:
+    id: 167757
+    title: What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+related_article4:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article5:
+    id: 167751
+    title: Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 ---
 
 &nbsp;

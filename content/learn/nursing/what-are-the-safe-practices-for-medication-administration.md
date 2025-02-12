@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-safe-practices-for-medication-administration.md
 url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 score: -1.0
+related_article1:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article2:
+    id: 169563
+    title: What is the role of supervisors in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+related_article3:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article4:
+    id: 169577
+    title: Why is effective communication important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+related_article5:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces.md
 url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
 score: -1.0
+related_article1:
+    id: 169154
+    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+related_article2:
+    id: 169158
+    title: How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article3:
+    id: 169167
+    title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
+related_article4:
+    id: 169159
+    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article5:
+    id: 169154
+    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
 ---
 
 &nbsp;

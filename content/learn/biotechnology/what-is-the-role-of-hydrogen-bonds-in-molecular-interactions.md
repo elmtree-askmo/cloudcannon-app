@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-hydrogen-bonds-in-molecular-interactions.md
 url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
 score: -1.0
+related_article1:
+    id: 170962
+    title: What are the primary types of macromolecules, and what are their basic functions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
+related_article2:
+    id: 170967
+    title: How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article3:
+    id: 170968
+    title: What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
+related_article4:
+    id: 170972
+    title: How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+related_article5:
+    id: 170972
+    title: How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 ---
 
 &nbsp;

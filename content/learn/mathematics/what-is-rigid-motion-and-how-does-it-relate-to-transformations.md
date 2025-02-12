@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-rigid-motion-and-how-does-it-relate-to-transformations.md
 url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
 score: -1.0
+related_article1:
+    id: 162160
+    title: How is the distance from a line measured in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
+related_article2:
+    id: 162161
+    title: What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article3:
+    id: 162310
+    title: What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article4:
+    id: 162298
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article5:
+    id: 162300
+    title: How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
 ---
 
 &nbsp;

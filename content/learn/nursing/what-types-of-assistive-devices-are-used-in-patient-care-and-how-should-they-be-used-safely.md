@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely.md
 url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
 score: -1.0
+related_article1:
+    id: 169479
+    title: What are the key personal hygiene procedures that impact patient health and well-being?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing
+related_article2:
+    id: 169495
+    title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+related_article3:
+    id: 169487
+    title: What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article4:
+    id: 169488
+    title: How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article5:
+    id: 169482
+    title: How can healthcare providers balance care and patient autonomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
 ---
 
 &nbsp;

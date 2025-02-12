@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-influence-differential-reproductive-success-in-natural-selection.md
 url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
 score: -1.0
+related_article1:
+    id: 166923
+    title: How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+related_article2:
+    id: 166909
+    title: What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+related_article3:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article4:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article5:
+    id: 166932
+    title: What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

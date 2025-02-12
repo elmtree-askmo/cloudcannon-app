@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability.md
 url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
 score: -1.0
+related_article1:
+    id: 168917
+    title: What is the primary function of the cell membrane as a protective barrier?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+related_article2:
+    id: 168922
+    title: What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article3:
+    id: 168917
+    title: What is the primary function of the cell membrane as a protective barrier?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+related_article4:
+    id: 168926
+    title: Differentiate between passive and active transport mechanisms in cells.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-passive-and-active-transport-mechanisms-in-cells
+related_article5:
+    id: 168917
+    title: What is the primary function of the cell membrane as a protective barrier?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
 ---
 
 &nbsp;

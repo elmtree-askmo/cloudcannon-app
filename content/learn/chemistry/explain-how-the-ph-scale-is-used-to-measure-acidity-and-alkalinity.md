@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity.md
 url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
 score: -1.0
+related_article1:
+    id: 167323
+    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article2:
+    id: 167319
+    title: How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article3:
+    id: 167319
+    title: How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article4:
+    id: 167322
+    title: How do polar molecules interact with water due to their partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
+related_article5:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 ---
 
 &nbsp;

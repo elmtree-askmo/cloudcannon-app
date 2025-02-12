@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-build-strong-interpersonal-relationships.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
 score: -1.0
+related_article1:
+    id: 169824
+    title: How do professional values influence career development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
+related_article2:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article3:
+    id: 169802
+    title: What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+related_article4:
+    id: 169823
+    title: What is the role of self-reflection in personal growth and development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+related_article5:
+    id: 169818
+    title: What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 ---
 
 &nbsp;

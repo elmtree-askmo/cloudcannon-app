@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-characteristics-of-basic-solutions-and-their-ph-range.md
 url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
 score: -1.0
+related_article1:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+related_article2:
+    id: 167628
+    title: How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article3:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article4:
+    id: 167619
+    title: What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article5:
+    id: 167627
+    title: Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 ---
 
 &nbsp;

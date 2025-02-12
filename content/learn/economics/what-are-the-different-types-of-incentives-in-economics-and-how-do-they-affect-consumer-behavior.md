@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior.md
 url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
 score: -1.0
+related_article1:
+    id: 169933
+    title: What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article2:
+    id: 169928
+    title: What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article3:
+    id: 169927
+    title: Describe the process of cost-benefit analysis and its application in policy making.
+    subject: Economics
+    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
+related_article4:
+    id: 169933
+    title: What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article5:
+    id: 169922
+    title: How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
 ---
 
 &nbsp;

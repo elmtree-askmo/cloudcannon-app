@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction.md
 url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 score: -1.0
+related_article1:
+    id: 169209
+    title: How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
+related_article2:
+    id: 169204
+    title: Define urbicide and explain its relationship with genocide.
+    subject: Sociology
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
+related_article3:
+    id: 169210
+    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
+related_article4:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article5:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
 ---
 
 &nbsp;

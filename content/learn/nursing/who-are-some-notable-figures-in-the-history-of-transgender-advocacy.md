@@ -21,6 +21,31 @@ subject: Nursing
 file_name: who-are-some-notable-figures-in-the-history-of-transgender-advocacy.md
 url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 score: -1.0
+related_article1:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article2:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article3:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article4:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article5:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships.md
 url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 167510
+    title: What is homeostasis and why is it important for living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
+related_article2:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article3:
+    id: 167517
+    title: Can you provide examples of well-established scientific theories?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+related_article4:
+    id: 167523
+    title: How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article5:
+    id: 167504
+    title: What is the role of observation in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 ---
 
 &nbsp;

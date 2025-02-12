@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior.md
 url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 score: -1.0
+related_article1:
+    id: 170024
+    title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article2:
+    id: 170013
+    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+related_article3:
+    id: 170025
+    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article4:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article5:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 ---
 
 &nbsp;

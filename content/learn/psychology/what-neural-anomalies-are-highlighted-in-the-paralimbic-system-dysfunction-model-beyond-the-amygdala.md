@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala.md
 url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
 score: -1.0
+related_article1:
+    id: 164033
+    title: How can brain data be utilized to predict antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
+related_article2:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article3:
+    id: 164026
+    title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article4:
+    id: 164038
+    title: What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article5:
+    id: 164031
+    title: How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
 ---
 
 &nbsp;

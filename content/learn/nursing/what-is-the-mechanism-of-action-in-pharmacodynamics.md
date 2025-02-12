@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-mechanism-of-action-in-pharmacodynamics.md
 url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
 score: -1.0
+related_article1:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article2:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article3:
+    id: 166461
+    title: How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
+related_article4:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article5:
+    id: 166457
+    title: What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
 ---
 
 &nbsp;

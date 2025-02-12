@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks.md
 url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
 score: -1.0
+related_article1:
+    id: 164770
+    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+related_article2:
+    id: 164759
+    title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
+related_article3:
+    id: 164749
+    title: How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+related_article4:
+    id: 164749
+    title: How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
 ---
 
 &nbsp;

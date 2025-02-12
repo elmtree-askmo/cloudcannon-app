@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-changes-occur-to-quadrilaterals-when-reflected.md
 url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
 score: -1.0
+related_article1:
+    id: 162630
+    title: How can symmetry be identified in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
+related_article2:
+    id: 162398
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article3:
+    id: 162387
+    title: How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+related_article4:
+    id: 162758
+    title: How can one visualize reflections in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
+related_article5:
+    id: 162530
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
 ---
 
 &nbsp;

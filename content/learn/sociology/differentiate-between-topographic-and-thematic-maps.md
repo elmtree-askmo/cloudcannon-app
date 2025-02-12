@@ -21,6 +21,31 @@ subject: Sociology
 file_name: differentiate-between-topographic-and-thematic-maps.md
 url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
 score: -1.0
+related_article1:
+    id: 159826
+    title: How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article2:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article3:
+    id: 159822
+    title: What are the primary methods used in geographic observation and data gathering?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
+related_article4:
+    id: 159831
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article5:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation.md
 url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
 score: -1.0
+related_article1:
+    id: 162217
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article2:
+    id: 162232
+    title: How do transformations affect the positions of vertices in a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+related_article3:
+    id: 162332
+    title: How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article4:
+    id: 162322
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article5:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 ---
 
 &nbsp;

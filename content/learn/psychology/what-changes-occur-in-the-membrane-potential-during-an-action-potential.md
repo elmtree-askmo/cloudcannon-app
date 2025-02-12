@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-changes-occur-in-the-membrane-potential-during-an-action-potential.md
 url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
 score: -1.0
+related_article1:
+    id: 164821
+    title: How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article2:
+    id: 164822
+    title: What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
+related_article3:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article4:
+    id: 164826
+    title: What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
+related_article5:
+    id: 164819
+    title: What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 ---
 
 &nbsp;

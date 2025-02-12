@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population.md
 url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
 score: -1.0
+related_article1:
+    id: 170877
+    title: What is the handicap principle, and how does it relate to honest signals in mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
+related_article2:
+    id: 170871
+    title: How does female choosiness affect selection pressures in parental investment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
+related_article3:
+    id: 170870
+    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+related_article4:
+    id: 170875
+    title: What role does genetic quality play in the good genes theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-genetic-quality-play-in-the-good-genes-theory
+related_article5:
+    id: 170870
+    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
 ---
 
 &nbsp;

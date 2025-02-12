@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms.md
 url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
 score: -1.0
+related_article1:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article2:
+    id: 167023
+    title: What are the structural variations found in polysaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
+related_article3:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+related_article4:
+    id: 167018
+    title: How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article5:
+    id: 167028
+    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 ---
 
 &nbsp;

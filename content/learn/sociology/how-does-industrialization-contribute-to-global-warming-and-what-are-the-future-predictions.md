@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions.md
 url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
 score: -1.0
+related_article1:
+    id: 168358
+    title: How does globalization contribute to economic interconnectedness and global market dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
+related_article2:
+    id: 168355
+    title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article3:
+    id: 168368
+    title: How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+related_article4:
+    id: 168357
+    title: What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168364
+    title: How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 ---
 
 &nbsp;

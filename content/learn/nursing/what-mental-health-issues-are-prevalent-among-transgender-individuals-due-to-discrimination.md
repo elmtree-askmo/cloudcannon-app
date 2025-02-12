@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination.md
 url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 score: -1.0
+related_article1:
+    id: 169655
+    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article2:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article3:
+    id: 169655
+    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article4:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article5:
+    id: 169662
+    title: What strategies can be used to provide compassionate care in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 ---
 
 &nbsp;

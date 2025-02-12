@@ -21,6 +21,31 @@ subject: Biology
 file_name: discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels.md
 url: /learn/biology/questions/discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels
 score: -1.0
+related_article1:
+    id: 170436
+    title: Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article2:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article3:
+    id: 170428
+    title: List the main types of greenhouse gases and describe their sources.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
+related_article4:
+    id: 170421
+    title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article5:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy.md
 url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 163007
+    title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+related_article2:
+    id: 163001
+    title: How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+related_article3:
+    id: 163009
+    title: What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
+related_article4:
+    id: 163009
+    title: What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
+related_article5:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 ---
 
 &nbsp;

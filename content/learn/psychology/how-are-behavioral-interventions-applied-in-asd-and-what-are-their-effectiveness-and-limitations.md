@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations.md
 url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
 score: -1.0
+related_article1:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article2:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+related_article3:
+    id: 169339
+    title: What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
+related_article4:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article5:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

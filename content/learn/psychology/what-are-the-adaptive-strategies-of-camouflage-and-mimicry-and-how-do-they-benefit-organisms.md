@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms.md
 url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
 score: -1.0
+related_article1:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article2:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article3:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article4:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article5:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
 ---
 
 &nbsp;

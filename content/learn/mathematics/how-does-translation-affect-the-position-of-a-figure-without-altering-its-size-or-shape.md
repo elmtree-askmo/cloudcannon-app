@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape.md
 url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 score: -1.0
+related_article1:
+    id: 162495
+    title: How does translation affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+related_article2:
+    id: 162246
+    title: What is the importance of the origin as the center of rotation in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
+related_article3:
+    id: 162601
+    title: How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
+related_article4:
+    id: 162499
+    title: How do transformations affect the identification of quadrants in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
+related_article5:
+    id: 162248
+    title: What is a fixed point in the context of rotations, and why is it significant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant
 ---
 
 &nbsp;

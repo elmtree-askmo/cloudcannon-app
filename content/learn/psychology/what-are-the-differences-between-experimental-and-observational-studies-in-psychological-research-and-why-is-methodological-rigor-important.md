@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important.md
 url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
 score: -1.0
+related_article1:
+    id: 165207
+    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+related_article2:
+    id: 165196
+    title: What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+related_article3:
+    id: 165198
+    title: What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
+related_article4:
+    id: 165193
+    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article5:
+    id: 165202
+    title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
 ---
 
 &nbsp;

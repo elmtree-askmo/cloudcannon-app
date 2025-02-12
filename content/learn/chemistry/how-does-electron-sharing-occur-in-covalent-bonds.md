@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-electron-sharing-occur-in-covalent-bonds.md
 url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 score: -1.0
+related_article1:
+    id: 166802
+    title: What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article2:
+    id: 166796
+    title: What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article3:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
+related_article4:
+    id: 166808
+    title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
+related_article5:
+    id: 166808
+    title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 ---
 
 &nbsp;

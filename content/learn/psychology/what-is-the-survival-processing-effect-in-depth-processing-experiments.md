@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-survival-processing-effect-in-depth-processing-experiments.md
 url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
 score: -1.0
+related_article1:
+    id: 165227
+    title: How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article2:
+    id: 165241
+    title: What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article3:
+    id: 165234
+    title: What are the key considerations in designing an experiment for a group project?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
+related_article4:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article5:
+    id: 165241
+    title: What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
 ---
 
 &nbsp;

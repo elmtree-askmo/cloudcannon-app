@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna.md
 url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 score: -1.0
+related_article1:
+    id: 167339
+    title: What is the primary biological function of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
+related_article2:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article3:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article4:
+    id: 167332
+    title: Compare the structural differences between DNA and RNA.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
+related_article5:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 ---
 
 &nbsp;

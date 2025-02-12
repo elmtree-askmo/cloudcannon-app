@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane.md
 url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167162
+    title: What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+related_article2:
+    id: 167162
+    title: What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+related_article3:
+    id: 167167
+    title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
+related_article4:
+    id: 167163
+    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
+related_article5:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
 ---
 
 &nbsp;

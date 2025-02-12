@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation.md
 url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
 score: -1.0
+related_article1:
+    id: 165370
+    title: What are the consequences of using an incorrect pipet for a given volume?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-volume
+related_article2:
+    id: 165368
+    title: Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
+related_article3:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article4:
+    id: 165365
+    title: Describe the proper procedure for setting the volume on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
+related_article5:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
 ---
 
 &nbsp;

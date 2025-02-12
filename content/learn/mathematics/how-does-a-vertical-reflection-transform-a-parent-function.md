@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-a-vertical-reflection-transform-a-parent-function.md
 url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
 score: -1.0
+related_article1:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article2:
+    id: 168401
+    title: What are the characteristics of vertical reflections on a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
+related_article3:
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+related_article4:
+    id: 168397
+    title: What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+related_article5:
+    id: 168399
+    title: What is the graphical representation of a reflection about the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 ---
 
 &nbsp;

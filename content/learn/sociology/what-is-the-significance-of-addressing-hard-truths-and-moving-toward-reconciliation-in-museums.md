@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums.md
 url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
 score: -1.0
+related_article1:
+    id: 169167
+    title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
+related_article2:
+    id: 169158
+    title: How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article3:
+    id: 169165
+    title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+related_article4:
+    id: 169159
+    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article5:
+    id: 169153
+    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 ---
 
 &nbsp;

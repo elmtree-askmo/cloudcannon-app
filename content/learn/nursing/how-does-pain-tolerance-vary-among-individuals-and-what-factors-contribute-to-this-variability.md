@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability.md
 url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 score: -1.0
+related_article1:
+    id: 166482
+    title: What are the potential fetal risks associated with Category D and X drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+related_article2:
+    id: 166479
+    title: What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article3:
+    id: 166487
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article4:
+    id: 166479
+    title: What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article5:
+    id: 166478
+    title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
 ---
 
 &nbsp;

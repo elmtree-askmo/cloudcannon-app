@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-spatial-attention-differ-from-object-attention-in-the-brain.md
 url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 score: -1.0
+related_article1:
+    id: 164435
+    title: How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article2:
+    id: 164426
+    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+related_article3:
+    id: 164427
+    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article4:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article5:
+    id: 164437
+    title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-used-to-manage-drug-interactions-effectively.md
 url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 score: -1.0
+related_article1:
+    id: 166507
+    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article2:
+    id: 166509
+    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article3:
+    id: 166494
+    title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article4:
+    id: 166504
+    title: Why is medication reconciliation important during patient admission and discharge?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+related_article5:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 ---
 
 &nbsp;

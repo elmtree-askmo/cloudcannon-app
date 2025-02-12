@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited.md
 url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 score: -1.0
+related_article1:
+    id: 170537
+    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article2:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article3:
+    id: 170537
+    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article4:
+    id: 170526
+    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article5:
+    id: 170534
+    title: How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
 ---
 
 &nbsp;

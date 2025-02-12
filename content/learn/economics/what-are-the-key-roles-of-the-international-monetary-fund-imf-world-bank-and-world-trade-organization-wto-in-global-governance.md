@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance.md
 url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
 score: -1.0
+related_article1:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article2:
+    id: 159673
+    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+related_article3:
+    id: 159666
+    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    subject: Economics
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
+related_article4:
+    id: 159681
+    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article5:
+    id: 159677
+    title: What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
 ---
 
 &nbsp;

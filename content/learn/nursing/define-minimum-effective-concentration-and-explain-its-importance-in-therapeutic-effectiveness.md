@@ -21,6 +21,31 @@ subject: Nursing
 file_name: define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness.md
 url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 score: -1.0
+related_article1:
+    id: 166505
+    title: How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+related_article2:
+    id: 166506
+    title: What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+related_article3:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article4:
+    id: 166509
+    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article5:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 ---
 
 &nbsp;

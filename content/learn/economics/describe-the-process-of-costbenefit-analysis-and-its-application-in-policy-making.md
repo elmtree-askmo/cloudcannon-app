@@ -21,6 +21,31 @@ subject: Economics
 file_name: describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making.md
 url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
 score: -1.0
+related_article1:
+    id: 169919
+    title: Explain the concept of scarcity and its economic implications.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
+related_article2:
+    id: 169932
+    title: Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+related_article3:
+    id: 169924
+    title: What is comparative advantage, and how does it affect trade policies?
+    subject: Economics
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
+related_article4:
+    id: 169934
+    title: What are some common pricing strategies, and how do they impact sales and revenue?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+related_article5:
+    id: 169920
+    title: How is opportunity cost calculated, and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
 ---
 
 &nbsp;

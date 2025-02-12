@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space.md
 url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
 score: -1.0
+related_article1:
+    id: 169039
+    title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
+related_article2:
+    id: 169054
+    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+related_article3:
+    id: 169050
+    title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article4:
+    id: 169050
+    title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article5:
+    id: 169045
+    title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 ---
 
 &nbsp;

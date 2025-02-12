@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision.md
 url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 score: -1.0
+related_article1:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article2:
+    id: 164842
+    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article3:
+    id: 164834
+    title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
+related_article4:
+    id: 164840
+    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+related_article5:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
 ---
 
 &nbsp;

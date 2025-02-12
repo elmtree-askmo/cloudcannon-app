@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness.md
 url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 score: -1.0
+related_article1:
+    id: 164834
+    title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
+related_article2:
+    id: 164847
+    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
+related_article3:
+    id: 164844
+    title: What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
+related_article4:
+    id: 164839
+    title: Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article5:
+    id: 164835
+    title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-a-quadratic-functions-graph.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-a-quadratic-functions-graph
 score: -1.0
+related_article1:
+    id: 163709
+    title: How do positive and negative rates of change affect the behavior of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
+related_article2:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article3:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article4:
+    id: 163700
+    title: How do you determine the intervals where a quadratic function is increasing or decreasing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
+related_article5:
+    id: 163698
+    title: How can you estimate the average rate of change from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
 ---
 
 &nbsp;

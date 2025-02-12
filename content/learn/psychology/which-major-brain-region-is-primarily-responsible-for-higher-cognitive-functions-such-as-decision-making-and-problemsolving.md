@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving.md
 url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
 score: -1.0
+related_article1:
+    id: 164243
+    title: What are the primary types of cognitive processes studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
+related_article2:
+    id: 164245
+    title: What is neural plasticity and how does it affect cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
+related_article3:
+    id: 164241
+    title: What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article4:
+    id: 164245
+    title: What is neural plasticity and how does it affect cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
+related_article5:
+    id: 164231
+    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
 ---
 
 &nbsp;

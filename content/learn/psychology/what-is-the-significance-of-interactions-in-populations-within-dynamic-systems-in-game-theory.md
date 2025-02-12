@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory.md
 url: /learn/psychology/questions/what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory
 score: -1.0
+related_article1:
+    id: 170845
+    title: How does frequency-dependent selection impact the payoff matrix in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
+related_article2:
+    id: 170837
+    title: Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+related_article3:
+    id: 170838
+    title: How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
+related_article4:
+    id: 170837
+    title: Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+related_article5:
+    id: 170833
+    title: What is the role of a payoff matrix in determining optimal strategies in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-a-payoff-matrix-in-determining-optimal-strategies-in-game-theory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal.md
 url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
 score: -1.0
+related_article1:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article2:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article3:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article4:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article5:
+    id: 167439
+    title: What is the biological significance of the lower density of ice compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 ---
 
 &nbsp;

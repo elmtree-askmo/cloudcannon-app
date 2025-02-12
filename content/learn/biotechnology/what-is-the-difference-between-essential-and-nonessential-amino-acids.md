@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-difference-between-essential-and-nonessential-amino-acids.md
 url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 score: -1.0
+related_article1:
+    id: 166961
+    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+related_article2:
+    id: 166956
+    title: What is the role of dehydration synthesis in peptide bond formation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+related_article3:
+    id: 166966
+    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+related_article4:
+    id: 166969
+    title: What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article5:
+    id: 166955
+    title: How do positively charged R-groups differ from negatively charged R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
 ---
 
 &nbsp;

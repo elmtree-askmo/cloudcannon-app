@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis.md
 url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 score: -1.0
+related_article1:
+    id: 170978
+    title: What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article2:
+    id: 170989
+    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+related_article3:
+    id: 170989
+    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170981
+    title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
+related_article5:
+    id: 170989
+    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 ---
 
 &nbsp;

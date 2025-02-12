@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system.md
 url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 score: -1.0
+related_article1:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article2:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article3:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article4:
+    id: 159672
+    title: What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
+related_article5:
+    id: 159678
+    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---
 
 &nbsp;

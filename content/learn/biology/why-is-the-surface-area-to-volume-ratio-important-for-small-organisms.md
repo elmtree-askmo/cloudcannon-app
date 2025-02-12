@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-the-surface-area-to-volume-ratio-important-for-small-organisms.md
 url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
 score: -1.0
+related_article1:
+    id: 168769
+    title: How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article2:
+    id: 168775
+    title: What are the main components of chloroplasts and their functions in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
+related_article3:
+    id: 168778
+    title: What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article4:
+    id: 168782
+    title: Why is maintaining a steep concentration gradient important for efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-is-maintaining-a-steep-concentration-gradient-important-for-efficient-gas-exchange
+related_article5:
+    id: 168782
+    title: Why is maintaining a steep concentration gradient important for efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/why-is-maintaining-a-steep-concentration-gradient-important-for-efficient-gas-exchange
 ---
 
 &nbsp;

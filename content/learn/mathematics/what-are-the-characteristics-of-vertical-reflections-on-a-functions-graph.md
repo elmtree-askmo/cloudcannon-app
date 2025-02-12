@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
 score: -1.0
+related_article1:
+    id: 168410
+    title: What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+related_article2:
+    id: 168402
+    title: How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article3:
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article4:
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article5:
+    id: 168412
+    title: How do you plot points on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 ---
 
 &nbsp;

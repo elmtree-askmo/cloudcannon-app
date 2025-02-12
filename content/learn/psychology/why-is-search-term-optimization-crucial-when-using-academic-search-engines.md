@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-search-term-optimization-crucial-when-using-academic-search-engines.md
 url: /learn/psychology/questions/why-is-search-term-optimization-crucial-when-using-academic-search-engines
 score: -1.0
+related_article1:
+    id: 165214
+    title: What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
+related_article2:
+    id: 165220
+    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+related_article3:
+    id: 165219
+    title: What are the challenges associated with semantic analysis in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+related_article4:
+    id: 165209
+    title: How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article5:
+    id: 165224
+    title: How is FITS Law relevant in psychology and what are its applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
 ---
 
 &nbsp;

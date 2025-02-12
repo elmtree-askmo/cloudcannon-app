@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids.md
 url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167337
+    title: What is the four-ring structure of steroids and their role in biological membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes
+related_article2:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article3:
+    id: 167332
+    title: Compare the structural differences between DNA and RNA.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
+related_article4:
+    id: 167329
+    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+related_article5:
+    id: 167331
+    title: How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
 ---
 
 &nbsp;

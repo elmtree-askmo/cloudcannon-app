@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume.md
 url: /learn/psychology/questions/how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume
 score: -1.0
+related_article1:
+    id: 168057
+    title: What are the stages of sequential development in conservation skills, particularly in the conservation of number and length?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-sequential-development-in-conservation-skills-particularly-in-the-conservation-of-number-and-length
+related_article2:
+    id: 168056
+    title: Explain the concept of reversibility and its role in conservation during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage
+related_article3:
+    id: 168054
+    title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
+related_article4:
+    id: 168059
+    title: What is horizontal decalage, and how does it relate to the gradual development of cognitive skills?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills
+related_article5:
+    id: 168059
+    title: What is horizontal decalage, and how does it relate to the gradual development of cognitive skills?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills
 ---
 
 &nbsp;

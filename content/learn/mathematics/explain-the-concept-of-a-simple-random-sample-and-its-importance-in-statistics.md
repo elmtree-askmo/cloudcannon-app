@@ -21,6 +21,21 @@ subject: Mathematics
 file_name: explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics.md
 url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
 score: -1.0
+related_article1:
+    id: 170276
+    title: What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+related_article2:
+    id: 170279
+    title: Define a parameter and a statistic in the context of statistical analysis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
+related_article3:
+    id: 170280
+    title: How do quantitative variables differ from qualitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
 ---
 
 &nbsp;

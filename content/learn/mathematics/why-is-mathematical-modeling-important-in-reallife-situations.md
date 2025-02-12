@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-mathematical-modeling-important-in-reallife-situations.md
 url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 score: -1.0
+related_article1:
+    id: 163708
+    title: What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article2:
+    id: 163709
+    title: How do positive and negative rates of change affect the behavior of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
+related_article3:
+    id: 163708
+    title: What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article4:
+    id: 163700
+    title: How do you determine the intervals where a quadratic function is increasing or decreasing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
+related_article5:
+    id: 163706
+    title: What are the differences in graph interpretation between quadratic and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
 ---
 
 &nbsp;

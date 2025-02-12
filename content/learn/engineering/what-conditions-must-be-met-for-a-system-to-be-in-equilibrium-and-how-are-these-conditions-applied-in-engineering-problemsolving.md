@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving.md
 url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
 score: -1.0
+related_article1:
+    id: 166653
+    title: What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article2:
+    id: 166653
+    title: What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+related_article3:
+    id: 166663
+    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article4:
+    id: 166671
+    title: How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article5:
+    id: 166653
+    title: What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
 ---
 
 &nbsp;

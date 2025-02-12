@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-object-recognition-in-objectbased-attention.md
 url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
 score: -1.0
+related_article1:
+    id: 164765
+    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+related_article2:
+    id: 164764
+    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article3:
+    id: 164748
+    title: What is the impact of cognitive load on divided attention and multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
+related_article4:
+    id: 164744
+    title: What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article5:
+    id: 164754
+    title: What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 ---
 
 &nbsp;

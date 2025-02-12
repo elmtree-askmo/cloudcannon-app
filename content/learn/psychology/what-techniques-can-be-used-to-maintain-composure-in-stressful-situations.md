@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-techniques-can-be-used-to-maintain-composure-in-stressful-situations.md
 url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
 score: -1.0
+related_article1:
+    id: 165391
+    title: How can celebrating small wins contribute to developing self-respect and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-celebrating-small-wins-contribute-to-developing-selfrespect-and-confidence
+related_article2:
+    id: 165385
+    title: How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
+related_article3:
+    id: 165385
+    title: How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
+related_article4:
+    id: 165384
+    title: What are some deliberate movements that can help project calm and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+related_article5:
+    id: 165385
+    title: How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
 ---
 
 &nbsp;

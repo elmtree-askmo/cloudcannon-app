@@ -21,6 +21,31 @@ subject: Psychology
 file_name: outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention.md
 url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
 score: -1.0
+related_article1:
+    id: 164703
+    title: What processes are involved in memory retrieval, and how does attention influence these processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
+related_article2:
+    id: 164706
+    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+related_article3:
+    id: 164700
+    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article4:
+    id: 164700
+    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article5:
+    id: 164704
+    title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 ---
 
 &nbsp;

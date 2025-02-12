@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries.md
 url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
 score: -1.0
+related_article1:
+    id: 164449
+    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article2:
+    id: 164447
+    title: Describe the role of the parietal lobe in sensory integration.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+related_article3:
+    id: 164445
+    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+related_article4:
+    id: 164452
+    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article5:
+    id: 164444
+    title: Identify two external causes of brain injury and explain their potential impact.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 ---
 
 &nbsp;

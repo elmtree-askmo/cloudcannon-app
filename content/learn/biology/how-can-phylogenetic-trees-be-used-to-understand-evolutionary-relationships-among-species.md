@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species.md
 url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
 score: -1.0
+related_article1:
+    id: 165266
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article2:
+    id: 165265
+    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
+related_article3:
+    id: 165256
+    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article4:
+    id: 165264
+    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article5:
+    id: 165262
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
 ---
 
 &nbsp;

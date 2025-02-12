@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis.md
 url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
 score: -1.0
+related_article1:
+    id: 170856
+    title: What methods are used to calculate marginal benefit and how does it impact decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
+related_article2:
+    id: 170859
+    title: Explain the concept of central prices theory and its role in market equilibrium.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
+related_article3:
+    id: 170864
+    title: Define optimal quality determination and its importance in economic decision making.
+    subject: Economics
+    url: /learn/economics/questions/define-optimal-quality-determination-and-its-importance-in-economic-decision-making
+related_article4:
+    id: 170851
+    title: Define the benefit curve and explain the factors that influence its shape.
+    subject: Economics
+    url: /learn/economics/questions/define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape
+related_article5:
+    id: 170863
+    title: What are some common graphical methods used to represent costs and benefits?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-graphical-methods-used-to-represent-costs-and-benefits
 ---
 
 &nbsp;

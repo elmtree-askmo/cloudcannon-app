@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability.md
 url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 score: -1.0
+related_article1:
+    id: 165262
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article2:
+    id: 165266
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 165262
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article4:
+    id: 165265
+    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
 ---
 
 &nbsp;

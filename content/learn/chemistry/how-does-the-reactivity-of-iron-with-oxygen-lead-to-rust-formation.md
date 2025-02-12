@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation
 score: -1.0
+related_article1:
+    id: 161758
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article2:
+    id: 162034
+    title: Describe the process of shaving wood and its classification as a physical change.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
+related_article3:
+    id: 162030
+    title: What is the process of crumbling aluminum foil an example of, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
+related_article4:
+    id: 161759
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article5:
+    id: 161992
+    title: What are the characteristics of precipitation reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 ---
 
 &nbsp;

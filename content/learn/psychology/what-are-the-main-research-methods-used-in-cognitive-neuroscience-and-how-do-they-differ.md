@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ.md
 url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 164546
+    title: How does procedural memory differ from semantic and episodic memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
+related_article2:
+    id: 164563
+    title: How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article3:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article4:
+    id: 164545
+    title: What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article5:
+    id: 164550
+    title: What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 ---
 
 &nbsp;

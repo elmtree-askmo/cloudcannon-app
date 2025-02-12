@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury.md
 url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
 score: -1.0
+related_article1:
+    id: 164458
+    title: How do physical forces impact brain structure and function in the context of neuroanatomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
+related_article2:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article3:
+    id: 164453
+    title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
+related_article4:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+related_article5:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
 ---
 
 &nbsp;

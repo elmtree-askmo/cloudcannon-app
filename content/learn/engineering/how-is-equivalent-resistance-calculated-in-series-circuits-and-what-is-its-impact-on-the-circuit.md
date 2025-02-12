@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit.md
 url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
 score: -1.0
+related_article1:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article2:
+    id: 167934
+    title: How does current flow differ between series and parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+related_article3:
+    id: 167941
+    title: Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
+related_article4:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article5:
+    id: 167936
+    title: Explain the concept of conventional current and its direction in a circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
 ---
 
 &nbsp;

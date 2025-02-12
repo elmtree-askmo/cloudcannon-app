@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act.md
 url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
 score: -1.0
+related_article1:
+    id: 169502
+    title: How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article2:
+    id: 169501
+    title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
+related_article3:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article4:
+    id: 169507
+    title: What is the hierarchy of control and how does it help in minimizing manual handling?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
+related_article5:
+    id: 169512
+    title: Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 ---
 
 &nbsp;

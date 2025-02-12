@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-do-cube-root-functions-lack-minimum-and-maximum-values.md
 url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
 score: -1.0
+related_article1:
+    id: 163761
+    title: How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+related_article2:
+    id: 163773
+    title: What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
+related_article3:
+    id: 163761
+    title: How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+related_article4:
+    id: 163744
+    title: What is the general form of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
+related_article5:
+    id: 163755
+    title: How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
 ---
 
 &nbsp;

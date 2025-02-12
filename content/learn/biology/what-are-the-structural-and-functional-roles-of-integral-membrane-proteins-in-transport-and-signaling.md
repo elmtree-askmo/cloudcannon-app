@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling.md
 url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
 score: -1.0
+related_article1:
+    id: 167552
+    title: Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article2:
+    id: 167538
+    title: What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article3:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article4:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article5:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
 ---
 
 &nbsp;

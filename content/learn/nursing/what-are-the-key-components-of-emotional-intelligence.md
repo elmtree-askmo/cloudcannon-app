@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-components-of-emotional-intelligence.md
 url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
 score: -1.0
+related_article1:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+related_article2:
+    id: 169810
+    title: What is the significance of continuous learning in professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
+related_article3:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article4:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
+related_article5:
+    id: 169818
+    title: What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 ---
 
 &nbsp;

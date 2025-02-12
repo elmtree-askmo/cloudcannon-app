@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence.md
 url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 score: -1.0
+related_article1:
+    id: 160624
+    title: Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article2:
+    id: 160077
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article3:
+    id: 160499
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article4:
+    id: 160510
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article5:
+    id: 160544
+    title: Describe the role of global commodity chains in shaping economic patterns within development.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-global-commodity-chains-in-shaping-economic-patterns-within-development
 ---
 
 &nbsp;

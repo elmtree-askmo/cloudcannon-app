@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium.md
 url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
 score: -1.0
+related_article1:
+    id: 168836
+    title: How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article2:
+    id: 168831
+    title: What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article3:
+    id: 168828
+    title: How does the branching in amelopectin affect its hydrolysis efficiency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+related_article4:
+    id: 168831
+    title: What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article5:
+    id: 168829
+    title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
 ---
 
 &nbsp;

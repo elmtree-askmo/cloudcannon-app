@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-do-you-solve-a-linear-equation.md
 url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation
 score: -1.0
+related_article1:
+    id: 162111
+    title: How do you perform multiplication with negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
+related_article2:
+    id: 162112
+    title: What is an example of a real-world application of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-realworld-application-of-negative-numbers
+related_article3:
+    id: 162110
+    title: What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article4:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
 ---
 
 &nbsp;

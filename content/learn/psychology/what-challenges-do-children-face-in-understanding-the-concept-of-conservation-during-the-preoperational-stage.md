@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage.md
 url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
 score: -1.0
+related_article1:
+    id: 167956
+    title: What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+related_article2:
+    id: 167957
+    title: How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article3:
+    id: 167950
+    title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article4:
+    id: 167959
+    title: How does centration affect a child's ability to consider multiple aspects of a situation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
+related_article5:
+    id: 167956
+    title: What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
 ---
 
 &nbsp;

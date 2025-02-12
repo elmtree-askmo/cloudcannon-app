@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions.md
 url: /learn/biology/questions/describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions
 score: -1.0
+related_article1:
+    id: 168926
+    title: Differentiate between passive and active transport mechanisms in cells.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-passive-and-active-transport-mechanisms-in-cells
+related_article2:
+    id: 168927
+    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+related_article3:
+    id: 168922
+    title: What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article4:
+    id: 168917
+    title: What is the primary function of the cell membrane as a protective barrier?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+related_article5:
+    id: 168920
+    title: Explain the fluid mosaic model and its significance in membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity
 ---
 
 &nbsp;

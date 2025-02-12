@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities.md
 url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 score: -1.0
+related_article1:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article2:
+    id: 169599
+    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+related_article3:
+    id: 169595
+    title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+related_article4:
+    id: 169591
+    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+related_article5:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 ---
 
 &nbsp;

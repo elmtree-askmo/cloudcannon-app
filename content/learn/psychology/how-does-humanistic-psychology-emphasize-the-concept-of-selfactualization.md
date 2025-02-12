@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization.md
 url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 score: -1.0
+related_article1:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article2:
+    id: 170025
+    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article3:
+    id: 170017
+    title: What is the significance of adaptation and survival in Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
+related_article4:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article5:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 ---
 
 &nbsp;

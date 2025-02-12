@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-concept-of-active-and-reactive-power-in-electrical-circuits.md
 url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 score: -1.0
+related_article1:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article2:
+    id: 169846
+    title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+related_article3:
+    id: 169855
+    title: What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article4:
+    id: 169845
+    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article5:
+    id: 169845
+    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 ---
 
 &nbsp;

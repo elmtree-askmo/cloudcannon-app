@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings.md
 url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169655
+    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article2:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article3:
+    id: 169658
+    title: What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article4:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article5:
+    id: 169642
+    title: How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
 ---
 
 &nbsp;

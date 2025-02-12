@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers.md
 url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
 score: -1.0
+related_article1:
+    id: 166503
+    title: What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166497
+    title: What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article3:
+    id: 166513
+    title: Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article4:
+    id: 166501
+    title: What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+related_article5:
+    id: 166495
+    title: What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
 ---
 
 &nbsp;

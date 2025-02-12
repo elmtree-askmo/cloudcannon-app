@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-domain-of-a-square-root-function-and-how-is-it-determined.md
 url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
 score: -1.0
+related_article1:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+related_article2:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article3:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article4:
+    id: 163792
+    title: What are the steps involved in graphing a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
+related_article5:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 ---
 
 &nbsp;

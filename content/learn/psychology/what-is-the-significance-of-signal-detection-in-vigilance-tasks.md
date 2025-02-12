@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-signal-detection-in-vigilance-tasks.md
 url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 score: -1.0
+related_article1:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article2:
+    id: 164720
+    title: What are the key symptoms and neuropathological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
+related_article3:
+    id: 164730
+    title: How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article4:
+    id: 164712
+    title: What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article5:
+    id: 164724
+    title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
 ---
 
 &nbsp;

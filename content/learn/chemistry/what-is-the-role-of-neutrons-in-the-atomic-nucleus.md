@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-neutrons-in-the-atomic-nucleus.md
 url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 score: -1.0
+related_article1:
+    id: 166803
+    title: How is charge neutrality maintained in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
+related_article2:
+    id: 166805
+    title: Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article3:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article4:
+    id: 166800
+    title: How does the atomic number relate to the number of protons in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+related_article5:
+    id: 166796
+    title: What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
 ---
 
 &nbsp;

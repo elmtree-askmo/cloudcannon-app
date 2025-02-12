@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles.md
 url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
 score: -1.0
+related_article1:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article2:
+    id: 169563
+    title: What is the role of supervisors in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+related_article3:
+    id: 169578
+    title: How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
+related_article4:
+    id: 169582
+    title: How do patient care standards ensure patient safety and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+related_article5:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 ---
 
 &nbsp;

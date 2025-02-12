@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-prefrontal-cortex-in-working-memory.md
 url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
 score: -1.0
+related_article1:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article2:
+    id: 170586
+    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+related_article3:
+    id: 170570
+    title: What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article4:
+    id: 170592
+    title: How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article5:
+    id: 170583
+    title: What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 ---
 
 &nbsp;

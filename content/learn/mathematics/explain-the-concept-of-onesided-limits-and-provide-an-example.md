@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-concept-of-onesided-limits-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article2:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article3:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article4:
+    id: 168336
+    title: How do you approximate the area under a curve using definite integrals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
+related_article5:
+    id: 168339
+    title: Differentiate between scalar fields and vector fields with examples.
+    subject: Mathematics
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 ---
 
 &nbsp;

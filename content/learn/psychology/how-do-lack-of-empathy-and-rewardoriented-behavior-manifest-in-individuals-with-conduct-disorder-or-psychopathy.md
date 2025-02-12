@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy.md
 url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
 score: -1.0
+related_article1:
+    id: 164072
+    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article2:
+    id: 164076
+    title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
+related_article3:
+    id: 164078
+    title: How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article4:
+    id: 164080
+    title: How can predictive policing be applied in the context of mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
+related_article5:
+    id: 164085
+    title: How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
 ---
 
 &nbsp;

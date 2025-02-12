@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane.md
 url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167364
+    title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article2:
+    id: 167360
+    title: How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
+related_article3:
+    id: 167370
+    title: What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article4:
+    id: 167368
+    title: Describe the fluid mosaic model and its significance in understanding membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
+related_article5:
+    id: 167360
+    title: How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence.md
 url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 score: -1.0
+related_article1:
+    id: 165983
+    title: Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
+related_article2:
+    id: 165995
+    title: What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+related_article3:
+    id: 165995
+    title: What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+related_article4:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

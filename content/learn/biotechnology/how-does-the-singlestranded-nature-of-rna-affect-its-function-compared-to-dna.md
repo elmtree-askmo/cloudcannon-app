@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna.md
 url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
 score: -1.0
+related_article1:
+    id: 167526
+    title: What role do hydrogen bonds play in the stability of the DNA double helix?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
+related_article2:
+    id: 167525
+    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+related_article3:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article4:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
 ---
 
 &nbsp;

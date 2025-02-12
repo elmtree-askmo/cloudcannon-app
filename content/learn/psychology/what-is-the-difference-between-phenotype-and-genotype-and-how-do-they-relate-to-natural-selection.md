@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection.md
 url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 165300
+    title: Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article2:
+    id: 165305
+    title: What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article3:
+    id: 165300
+    title: Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article4:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article5:
+    id: 165294
+    title: Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 ---
 
 &nbsp;

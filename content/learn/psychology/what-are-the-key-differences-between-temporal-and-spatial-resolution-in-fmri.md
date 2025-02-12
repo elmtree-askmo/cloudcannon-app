@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
 score: -1.0
+related_article1:
+    id: 164241
+    title: What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article2:
+    id: 164244
+    title: How do brain networks support cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+related_article3:
+    id: 164237
+    title: What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article4:
+    id: 164234
+    title: How is fMRI used in clinical diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
+related_article5:
+    id: 164242
+    title: How do imaging techniques measure neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
 ---
 
 &nbsp;

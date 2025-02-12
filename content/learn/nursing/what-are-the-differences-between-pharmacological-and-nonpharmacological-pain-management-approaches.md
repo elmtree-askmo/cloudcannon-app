@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches.md
 url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
 score: -1.0
+related_article1:
+    id: 169747
+    title: What are some management strategies for common bowel and bladder disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+related_article2:
+    id: 169762
+    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article3:
+    id: 169754
+    title: What are the main categories of drug classifications in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
+related_article4:
+    id: 169751
+    title: What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article5:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 ---
 
 &nbsp;

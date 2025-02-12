@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-proximate-and-ultimate-causation-in-animal-behavior.md
 url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 score: -1.0
+related_article1:
+    id: 165286
+    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article2:
+    id: 165283
+    title: How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
+    subject: Biology
+    url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
+related_article3:
+    id: 165270
+    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article4:
+    id: 165283
+    title: How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
+    subject: Biology
+    url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
+related_article5:
+    id: 165272
+    title: Define animal behavior and explain its importance in ecology.
+    subject: Biology
+    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
 ---
 
 &nbsp;

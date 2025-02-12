@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization.md
 url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 score: -1.0
+related_article1:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article2:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article3:
+    id: 164667
+    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article4:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
 ---
 
 &nbsp;

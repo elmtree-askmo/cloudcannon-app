@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence.md
 url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
 score: -1.0
+related_article1:
+    id: 165389
+    title: How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article2:
+    id: 165390
+    title: What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
+related_article3:
+    id: 165388
+    title: What are some confident language choices that can improve speaking with conviction?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-confident-language-choices-that-can-improve-speaking-with-conviction
+related_article4:
+    id: 165390
+    title: What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
 ---
 
 &nbsp;

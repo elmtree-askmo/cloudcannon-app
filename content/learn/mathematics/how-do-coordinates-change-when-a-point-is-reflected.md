@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-coordinates-change-when-a-point-is-reflected.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
 score: -1.0
+related_article1:
+    id: 162689
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article2:
+    id: 162399
+    title: How are triangles affected by reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
+related_article3:
+    id: 162392
+    title: What changes occur when reflecting a point across both axes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
+related_article4:
+    id: 162645
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article5:
+    id: 162642
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 ---
 
 &nbsp;

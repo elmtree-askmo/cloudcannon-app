@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 162035
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article2:
+    id: 161986
+    title: What is the role of charged particles in the process of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
+related_article3:
+    id: 161945
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 161986
+    title: What is the role of charged particles in the process of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
+related_article5:
+    id: 162043
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

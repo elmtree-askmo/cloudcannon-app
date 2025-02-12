@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-atp-in-the-sodiumpotassium-pump.md
 url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 score: -1.0
+related_article1:
+    id: 168902
+    title: Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article2:
+    id: 168897
+    title: Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+related_article3:
+    id: 168906
+    title: How does ATP utilization differ between active and passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+related_article4:
+    id: 168902
+    title: Explain the process of exocytosis and its role in cellular waste removal.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+related_article5:
+    id: 168903
+    title: How do protein pumps function in active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-protein-pumps-function-in-active-transport
 ---
 
 &nbsp;

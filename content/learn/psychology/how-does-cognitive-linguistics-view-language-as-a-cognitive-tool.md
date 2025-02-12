@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-cognitive-linguistics-view-language-as-a-cognitive-tool.md
 url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
 score: -1.0
+related_article1:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article2:
+    id: 164612
+    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
+related_article3:
+    id: 164608
+    title: How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
+related_article4:
+    id: 164601
+    title: What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
+related_article5:
+    id: 164601
+    title: What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 ---
 
 &nbsp;

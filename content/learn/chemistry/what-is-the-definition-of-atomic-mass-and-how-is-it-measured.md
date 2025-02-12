@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-definition-of-atomic-mass-and-how-is-it-measured.md
 url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
 score: -1.0
+related_article1:
+    id: 167263
+    title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
+related_article2:
+    id: 167250
+    title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article3:
+    id: 167261
+    title: How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
+related_article4:
+    id: 167251
+    title: How do the isotopes Chlorine 35 and Chlorine 37 differ in terms of atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-the-isotopes-chlorine-35-and-chlorine-37-differ-in-terms-of-atomic-mass
+related_article5:
+    id: 167256
+    title: How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 ---
 
 &nbsp;

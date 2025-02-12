@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structural-difference-between-amylose-and-amelopectin.md
 url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
 score: -1.0
+related_article1:
+    id: 168831
+    title: What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article2:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article3:
+    id: 168833
+    title: What is the role of dipeptidases in the final stages of protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
+related_article4:
+    id: 168829
+    title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article5:
+    id: 168833
+    title: What is the role of dipeptidases in the final stages of protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 ---
 
 &nbsp;

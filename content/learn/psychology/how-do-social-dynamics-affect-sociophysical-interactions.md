@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-social-dynamics-affect-sociophysical-interactions.md
 url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 score: -1.0
+related_article1:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article2:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article3:
+    id: 164312
+    title: How does cultural significance affect the psychological impact of color perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
+related_article4:
+    id: 164289
+    title: How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article5:
+    id: 164312
+    title: How does cultural significance affect the psychological impact of color perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment.md
 url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
 score: -1.0
+related_article1:
+    id: 169463
+    title: How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article2:
+    id: 169463
+    title: How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article3:
+    id: 169463
+    title: How can different breathing patterns indicate underlying respiratory conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+related_article4:
+    id: 169471
+    title: What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
+related_article5:
+    id: 169464
+    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
 ---
 
 &nbsp;

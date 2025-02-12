@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-rem-sleep-affect-dreaming-and-sleep-cycles.md
 url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
 score: -1.0
+related_article1:
+    id: 169706
+    title: What are the ID verification requirements for an exam?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-id-verification-requirements-for-an-exam
+related_article2:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article3:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article4:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article5:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
 ---
 
 &nbsp;

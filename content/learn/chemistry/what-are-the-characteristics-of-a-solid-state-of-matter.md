@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-solid-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
 score: -1.0
+related_article1:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article2:
+    id: 162053
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article3:
+    id: 161967
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 161759
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article5:
+    id: 161965
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-students-access-and-navigate-online-textbooks-effectively.md
 url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
 score: -1.0
+related_article1:
+    id: 167479
+    title: How is the D2L Learning Management System organized to facilitate course access?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
+related_article2:
+    id: 167484
+    title: How should students prepare for the cumulative nature of the final exam?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
+related_article3:
+    id: 167491
+    title: What career paths are available in biology for research and academia?
+    subject: Biology
+    url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
+related_article4:
+    id: 167475
+    title: What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article5:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 ---
 
 &nbsp;

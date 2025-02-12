@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention.md
 url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 score: -1.0
+related_article1:
+    id: 164407
+    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article2:
+    id: 164412
+    title: How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
+related_article3:
+    id: 164409
+    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+related_article4:
+    id: 164408
+    title: What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+related_article5:
+    id: 164411
+    title: What are the primary functions of the occipital lobe in the cerebral cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 ---
 
 &nbsp;

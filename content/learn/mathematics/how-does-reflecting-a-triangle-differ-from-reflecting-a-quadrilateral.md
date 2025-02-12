@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral.md
 url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 score: -1.0
+related_article1:
+    id: 162820
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article2:
+    id: 162641
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article3:
+    id: 162697
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article4:
+    id: 162748
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article5:
+    id: 162691
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

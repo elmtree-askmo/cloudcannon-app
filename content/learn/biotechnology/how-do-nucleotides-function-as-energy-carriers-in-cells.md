@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-nucleotides-function-as-energy-carriers-in-cells.md
 url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
 score: -1.0
+related_article1:
+    id: 170960
+    title: What is the role of hydrogen bonds in molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
+related_article2:
+    id: 170960
+    title: What is the role of hydrogen bonds in molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
+related_article3:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article4:
+    id: 170966
+    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article5:
+    id: 170964
+    title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
 ---
 
 &nbsp;

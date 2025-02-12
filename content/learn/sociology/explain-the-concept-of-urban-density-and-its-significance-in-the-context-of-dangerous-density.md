@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density.md
 url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
 score: -1.0
+related_article1:
+    id: 162947
+    title: Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
+related_article2:
+    id: 162935
+    title: How does the 'Insecure City Hypothesis' relate to urban environments in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
+related_article3:
+    id: 162954
+    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article4:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article5:
+    id: 162947
+    title: Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
 ---
 
 &nbsp;

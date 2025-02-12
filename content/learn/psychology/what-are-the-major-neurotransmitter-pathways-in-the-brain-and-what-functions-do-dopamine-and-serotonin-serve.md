@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve.md
 url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
 score: -1.0
+related_article1:
+    id: 170528
+    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article2:
+    id: 170525
+    title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+related_article3:
+    id: 170523
+    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+related_article4:
+    id: 170526
+    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article5:
+    id: 170545
+    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-importance-of-symmetry-in-quadratic-functions.md
 url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
 score: -1.0
+related_article1:
+    id: 163734
+    title: How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article2:
+    id: 163734
+    title: How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article3:
+    id: 163730
+    title: How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article4:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article5:
+    id: 163731
+    title: What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 ---
 
 &nbsp;

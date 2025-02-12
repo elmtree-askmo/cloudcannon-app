@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology.md
 url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
 score: -1.0
+related_article1:
+    id: 162997
+    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article2:
+    id: 163005
+    title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
+related_article3:
+    id: 163001
+    title: How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+related_article4:
+    id: 162999
+    title: How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
+related_article5:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
 ---
 
 &nbsp;

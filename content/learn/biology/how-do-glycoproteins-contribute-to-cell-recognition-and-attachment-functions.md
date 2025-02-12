@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions.md
 url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions
 score: -1.0
+related_article1:
+    id: 166976
+    title: Differentiate between integral and peripheral proteins in terms of structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
+related_article2:
+    id: 166982
+    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article3:
+    id: 166983
+    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+related_article4:
+    id: 166981
+    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
+related_article5:
+    id: 166984
+    title: Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
 ---
 
 &nbsp;

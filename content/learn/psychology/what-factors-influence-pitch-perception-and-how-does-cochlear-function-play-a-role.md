@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role.md
 url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
 score: -1.0
+related_article1:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
+related_article2:
+    id: 164251
+    title: How does the portable magnification factor impact detail recognition in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-impact-detail-recognition-in-visual-processing
+related_article3:
+    id: 164248
+    title: What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
+related_article4:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
+related_article5:
+    id: 164253
+    title: Describe the role of the auditory cortex in sound localization.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-the-auditory-cortex-in-sound-localization
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-theoretical-approaches-such-as-mathematical-models-contribute-to-the-study-of-animal-behavior.md
 url: /learn/sociology/questions/how-do-theoretical-approaches-such-as-mathematical-models-contribute-to-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166347
+    title: What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+related_article2:
+    id: 166349
+    title: What role do genetic mutations play in the evolution of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
+related_article3:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article4:
+    id: 166346
+    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article5:
+    id: 166346
+    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 ---
 
 &nbsp;

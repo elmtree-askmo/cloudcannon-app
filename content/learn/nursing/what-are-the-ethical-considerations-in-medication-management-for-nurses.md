@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-ethical-considerations-in-medication-management-for-nurses.md
 url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 score: -1.0
+related_article1:
+    id: 169730
+    title: How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article2:
+    id: 169737
+    title: How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article3:
+    id: 169737
+    title: How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article4:
+    id: 169733
+    title: What are the key risks associated with IV medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
+related_article5:
+    id: 169732
+    title: How do you calculate the drop rate for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-neural-mechanisms-involved-in-speech-production.md
 url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 score: -1.0
+related_article1:
+    id: 164393
+    title: Describe the neural pathways involved in auditory processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+related_article2:
+    id: 164380
+    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article3:
+    id: 164405
+    title: How do cognitive functions in music relate to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
+related_article4:
+    id: 164382
+    title: Explain the specialization of brain hemispheres in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
+related_article5:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 ---
 
 &nbsp;

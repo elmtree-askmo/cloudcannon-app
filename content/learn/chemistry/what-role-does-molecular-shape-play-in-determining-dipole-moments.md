@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-does-molecular-shape-play-in-determining-dipole-moments.md
 url: /learn/chemistry/questions/what-role-does-molecular-shape-play-in-determining-dipole-moments
 score: -1.0
+related_article1:
+    id: 166986
+    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
+related_article2:
+    id: 167000
+    title: How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+related_article3:
+    id: 166987
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 166995
+    title: How does the marine carbonate system help regulate ocean pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
+related_article5:
+    id: 166996
+    title: What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-distance-preserved-during-a-reflection.md
 url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
 score: -1.0
+related_article1:
+    id: 162619
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article2:
+    id: 162681
+    title: What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+related_article3:
+    id: 162700
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article4:
+    id: 162400
+    title: What changes occur to quadrilaterals when reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-quadrilaterals-when-reflected
+related_article5:
+    id: 162798
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 ---
 
 &nbsp;

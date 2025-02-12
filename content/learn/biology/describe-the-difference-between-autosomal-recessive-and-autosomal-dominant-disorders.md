@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders.md
 url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
 score: -1.0
+related_article1:
+    id: 167875
+    title: What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article2:
+    id: 167881
+    title: What are the characteristics of X-linked recessive disorders?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+related_article3:
+    id: 167876
+    title: Describe an example of codominance and its phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
+related_article4:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article5:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 ---
 
 &nbsp;

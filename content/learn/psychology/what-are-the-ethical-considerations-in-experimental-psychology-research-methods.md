@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-ethical-considerations-in-experimental-psychology-research-methods.md
 url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 score: -1.0
+related_article1:
+    id: 170010
+    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
+related_article2:
+    id: 170024
+    title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+related_article3:
+    id: 170019
+    title: How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article4:
+    id: 170013
+    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+related_article5:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

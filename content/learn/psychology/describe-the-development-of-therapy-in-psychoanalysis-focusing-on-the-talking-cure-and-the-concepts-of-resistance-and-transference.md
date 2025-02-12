@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference.md
 url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 score: -1.0
+related_article1:
+    id: 167717
+    title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
+related_article2:
+    id: 167722
+    title: How does cognitive psychology approach the study of consciousness and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+related_article3:
+    id: 167718
+    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article4:
+    id: 167717
+    title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
+related_article5:
+    id: 167723
+    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
 ---
 
 &nbsp;

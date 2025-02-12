@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence.md
 url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 score: -1.0
+related_article1:
+    id: 165840
+    title: What are the clinical implications of identifying parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
+related_article2:
+    id: 165845
+    title: What modern technological advancements are being applied in parasitology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+related_article3:
+    id: 165856
+    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article4:
+    id: 165844
+    title: How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article5:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
 ---
 
 &nbsp;

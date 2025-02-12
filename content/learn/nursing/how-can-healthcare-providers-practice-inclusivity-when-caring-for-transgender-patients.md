@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients.md
 url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
 score: -1.0
+related_article1:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article2:
+    id: 169655
+    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article3:
+    id: 169647
+    title: What challenges do transgender and non-binary individuals face in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
+related_article4:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article5:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

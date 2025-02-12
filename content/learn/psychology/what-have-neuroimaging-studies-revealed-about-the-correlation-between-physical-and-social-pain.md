@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain.md
 url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
 score: -1.0
+related_article1:
+    id: 164535
+    title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+related_article2:
+    id: 164534
+    title: How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+related_article3:
+    id: 164537
+    title: What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work
+related_article4:
+    id: 164532
+    title: How does social connectedness influence emotional perception and experience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+related_article5:
+    id: 164527
+    title: What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 ---
 
 &nbsp;

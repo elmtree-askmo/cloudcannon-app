@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention.md
 url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
 score: -1.0
+related_article1:
+    id: 164749
+    title: How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+related_article2:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article3:
+    id: 164768
+    title: How does salience detection contribute to attention allocation in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
+related_article4:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article5:
+    id: 164755
+    title: How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 ---
 
 &nbsp;

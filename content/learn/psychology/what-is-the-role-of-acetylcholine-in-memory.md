@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-acetylcholine-in-memory.md
 url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 score: -1.0
+related_article1:
+    id: 164484
+    title: What distinguishes explicit memory from implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
+related_article2:
+    id: 164486
+    title: What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article3:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article4:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article5:
+    id: 164492
+    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
 ---
 
 &nbsp;

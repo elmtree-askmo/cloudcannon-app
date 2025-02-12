@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships.md
 url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 score: -1.0
+related_article1:
+    id: 164471
+    title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article2:
+    id: 164473
+    title: What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article3:
+    id: 164478
+    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article4:
+    id: 164464
+    title: How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+related_article5:
+    id: 164462
+    title: How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
 ---
 
 &nbsp;

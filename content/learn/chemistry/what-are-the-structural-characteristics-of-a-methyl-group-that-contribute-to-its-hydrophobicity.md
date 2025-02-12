@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity.md
 url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
 score: -1.0
+related_article1:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+related_article2:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+related_article3:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article4:
+    id: 167045
+    title: Why is the amino group important in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+related_article5:
+    id: 167054
+    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 ---
 
 &nbsp;

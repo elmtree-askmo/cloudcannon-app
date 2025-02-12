@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes.md
 url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 score: -1.0
+related_article1:
+    id: 160101
+    title: What is the importance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article2:
+    id: 160504
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article3:
+    id: 160218
+    title: How has the COVID-19 pandemic influenced global events and vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-events-and-vaccine-nationalism
+related_article4:
+    id: 160210
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article5:
+    id: 160553
+    title: What are the main factors contributing to social inequality within social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
 ---
 
 &nbsp;

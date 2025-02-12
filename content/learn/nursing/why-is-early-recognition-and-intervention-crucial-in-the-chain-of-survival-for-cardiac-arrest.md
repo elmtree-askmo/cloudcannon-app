@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest.md
 url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
 score: -1.0
+related_article1:
+    id: 169458
+    title: How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-dnar-order
+related_article2:
+    id: 169460
+    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article3:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+related_article4:
+    id: 169450
+    title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article5:
+    id: 169452
+    title: What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
 ---
 
 &nbsp;

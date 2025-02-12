@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing-practice.md
 url: /learn/nursing/questions/how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing-practice
 score: -1.0
+related_article1:
+    id: 169610
+    title: How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article2:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+related_article3:
+    id: 169612
+    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
+related_article4:
+    id: 169610
+    title: How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article5:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 ---
 
 &nbsp;

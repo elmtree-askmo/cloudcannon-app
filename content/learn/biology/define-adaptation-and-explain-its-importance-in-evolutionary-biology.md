@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-adaptation-and-explain-its-importance-in-evolutionary-biology.md
 url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 166370
+    title: How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article2:
+    id: 166353
+    title: What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article3:
+    id: 166363
+    title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
+related_article4:
+    id: 166372
+    title: How is the selection differential calculated and what does it indicate?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
+related_article5:
+    id: 166368
+    title: Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
 ---
 
 &nbsp;

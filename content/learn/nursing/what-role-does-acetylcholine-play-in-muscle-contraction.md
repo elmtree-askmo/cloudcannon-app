@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-does-acetylcholine-play-in-muscle-contraction.md
 url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
 score: -1.0
+related_article1:
+    id: 170519
+    title: How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article2:
+    id: 170517
+    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article3:
+    id: 170516
+    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article4:
+    id: 170503
+    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+related_article5:
+    id: 170521
+    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 ---
 
 &nbsp;

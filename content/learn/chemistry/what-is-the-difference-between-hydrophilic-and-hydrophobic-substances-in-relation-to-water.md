@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water.md
 url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
 score: -1.0
+related_article1:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article2:
+    id: 167154
+    title: How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article3:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article4:
+    id: 167147
+    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+related_article5:
+    id: 167141
+    title: What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
 ---
 
 &nbsp;

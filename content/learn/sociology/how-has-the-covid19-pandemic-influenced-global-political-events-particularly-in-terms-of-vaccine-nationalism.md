@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism.md
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 score: -1.0
+related_article1:
+    id: 160234
+    title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+related_article2:
+    id: 160548
+    title: What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+related_article3:
+    id: 160227
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article4:
+    id: 160628
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article5:
+    id: 160235
+    title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 ---
 
 &nbsp;

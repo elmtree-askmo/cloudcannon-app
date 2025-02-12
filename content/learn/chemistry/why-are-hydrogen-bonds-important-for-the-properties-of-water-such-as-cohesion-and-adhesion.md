@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion.md
 url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 score: -1.0
+related_article1:
+    id: 167149
+    title: How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article2:
+    id: 167148
+    title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article3:
+    id: 167152
+    title: What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article4:
+    id: 167153
+    title: Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+related_article5:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
 ---
 
 &nbsp;

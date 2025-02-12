@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables.md
 url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
 score: -1.0
+related_article1:
+    id: 164243
+    title: What are the primary types of cognitive processes studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
+related_article2:
+    id: 164244
+    title: How do brain networks support cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+related_article3:
+    id: 164238
+    title: How do association areas in the brain contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+related_article4:
+    id: 164231
+    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article5:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 ---
 
 &nbsp;

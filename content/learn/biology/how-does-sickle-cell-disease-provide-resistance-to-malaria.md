@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-sickle-cell-disease-provide-resistance-to-malaria.md
 url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
 score: -1.0
+related_article1:
+    id: 167874
+    title: How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article2:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+related_article3:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article4:
+    id: 167873
+    title: Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article5:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
 ---
 
 &nbsp;

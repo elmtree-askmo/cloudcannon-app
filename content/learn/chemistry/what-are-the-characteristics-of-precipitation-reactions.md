@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-precipitation-reactions.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 score: -1.0
+related_article1:
+    id: 161966
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article2:
+    id: 161763
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article3:
+    id: 161750
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article4:
+    id: 161949
+    title: Describe the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article5:
+    id: 161980
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

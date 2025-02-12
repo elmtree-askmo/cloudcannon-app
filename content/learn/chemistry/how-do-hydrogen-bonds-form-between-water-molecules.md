@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-form-between-water-molecules.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
 score: -1.0
+related_article1:
+    id: 168316
+    title: What is the significance of water's ability to dissociate into ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+related_article2:
+    id: 168321
+    title: What is the relationship between polymers and monomers in biological macromolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+related_article3:
+    id: 168321
+    title: What is the relationship between polymers and monomers in biological macromolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+related_article4:
+    id: 168324
+    title: What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article5:
+    id: 168314
+    title: What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
 ---
 
 &nbsp;

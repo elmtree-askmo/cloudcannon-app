@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-neurological-disorders-treated-with-neuroscience-applications.md
 url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 score: -1.0
+related_article1:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article2:
+    id: 164685
+    title: How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article3:
+    id: 164685
+    title: How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article4:
+    id: 164680
+    title: What are the effects of emotional disorders on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
+related_article5:
+    id: 164693
+    title: What factors contribute to cognitive aging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change.md
 url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
 score: -1.0
+related_article1:
+    id: 161975
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article2:
+    id: 162014
+    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+related_article3:
+    id: 161974
+    title: How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article4:
+    id: 162017
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article5:
+    id: 161934
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

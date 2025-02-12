@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-common-units-of-concentration-used-in-chemistry.md
 url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
 score: -1.0
+related_article1:
+    id: 167373
+    title: What is the relationship between hydrogen ion concentration and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+related_article2:
+    id: 167376
+    title: How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article3:
+    id: 167381
+    title: Why are significant figures important in scientific calculations?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-significant-figures-important-in-scientific-calculations
+related_article4:
+    id: 167376
+    title: How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article5:
+    id: 167379
+    title: What mathematical techniques are used to rearrange equations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 ---
 
 &nbsp;

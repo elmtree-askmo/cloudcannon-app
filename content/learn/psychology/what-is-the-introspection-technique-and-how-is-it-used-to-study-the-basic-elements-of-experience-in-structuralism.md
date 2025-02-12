@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism.md
 url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 score: -1.0
+related_article1:
+    id: 167720
+    title: What is the significance of the unconscious mind in Sigmund Freud's psychoanalysis, and how does it influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-unconscious-mind-in-sigmund-freuds-psychoanalysis-and-how-does-it-influence-behavior
+related_article2:
+    id: 167718
+    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article3:
+    id: 167714
+    title: How does functionalism differ from structuralism in its approach to understanding mental processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
+related_article4:
+    id: 167715
+    title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
+related_article5:
+    id: 167723
+    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
 ---
 
 &nbsp;

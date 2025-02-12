@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-significance-of-the-valence-shell-in-chemical-bonding.md
 url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167412
+    title: Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article2:
+    id: 167403
+    title: Define electronegativity and its importance in chemical reactions.
+    subject: Biology
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
+related_article3:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article4:
+    id: 167419
+    title: What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article5:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 ---
 
 &nbsp;

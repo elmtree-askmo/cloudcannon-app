@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system.md
 url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
 score: -1.0
+related_article1:
+    id: 170614
+    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article2:
+    id: 170617
+    title: What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article3:
+    id: 170599
+    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article4:
+    id: 170615
+    title: What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article5:
+    id: 170613
+    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-factors-can-influence-an-individuals-pain-threshold.md
 url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
 score: -1.0
+related_article1:
+    id: 169788
+    title: List some common causes of neuropathic pain and describe its management strategies.
+    subject: Nursing
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
+related_article2:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article3:
+    id: 169799
+    title: What measures can be taken to ensure patient safety in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+related_article4:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article5:
+    id: 169792
+    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
 ---
 
 &nbsp;

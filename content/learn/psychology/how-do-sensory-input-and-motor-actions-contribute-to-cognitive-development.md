@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development.md
 url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
 score: -1.0
+related_article1:
+    id: 168096
+    title: What distinguishes secondary circular reactions from primary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+related_article2:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article3:
+    id: 168104
+    title: What is make-believe play, and why is it important for cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+related_article4:
+    id: 168101
+    title: What is object permanence, and why is it important in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
+related_article5:
+    id: 168100
+    title: Define internalization of schemas and give an example.
+    subject: Psychology
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 ---
 
 &nbsp;

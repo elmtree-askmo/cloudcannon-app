@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development.md
 url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
 score: -1.0
+related_article1:
+    id: 160545
+    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article2:
+    id: 160104
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article3:
+    id: 160502
+    title: What are the differences between qualitative and quantitative research methodologies in research skills?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
+related_article4:
+    id: 160497
+    title: How do community dynamics and social inequality influence social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
+related_article5:
+    id: 160640
+    title: What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
 ---
 
 &nbsp;

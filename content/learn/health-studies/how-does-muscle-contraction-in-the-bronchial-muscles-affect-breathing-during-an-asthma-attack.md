@@ -7,7 +7,7 @@ article_title: How does muscle contraction in the bronchial muscles affect breat
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Health studies
+  title: QuickTakes | Health Studies
   page_description: >-
     This content explains how muscle contraction in bronchial muscles affects breathing during an asthma attack, detailing the role of airway narrowing and mucus production, as well as treatment options using bronchodilators.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
 answer: >-
     During an asthma attack, the contraction of the bronchial muscles plays a significant role in the difficulty of breathing experienced by individuals. The bronchial muscles, which are smooth muscles located in the walls of the bronchi and bronchioles, normally relax to allow for free airflow during regular breathing. However, in the context of asthma, these muscles can contract excessively due to various triggers such as allergens, environmental factors, or respiratory infections.\n\nWhen the bronchial muscles contract, the airways become narrowed, leading to a reduction in airflow. This constriction is often accompanied by the production of excess mucus, which further obstructs the airways. As a result, individuals may experience symptoms such as wheezing, tightness in the chest, and shortness of breath. The combination of muscle contraction and mucus production creates a significant barrier to effective ventilation and oxygen exchange.\n\nTo alleviate these symptoms, asthma management typically includes the use of inhalers that contain bronchodilators. These medications work by relaxing the bronchial muscles, thereby widening the airways and facilitating easier airflow. There are two main types of inhalers: quick-relief inhalers, which provide immediate relief during an attack, and long-term control inhalers, which help prevent attacks by maintaining open airways.\n\nIn summary, the contraction of bronchial muscles during an asthma attack leads to narrowed airways and increased difficulty in breathing, which can be effectively managed with bronchodilator medications.
-subject: Health studies
+subject: Health Studies
 file_name: how-does-muscle-contraction-in-the-bronchial-muscles-affect-breathing-during-an-asthma-attack.md
 url: /learn/health-studies/questions/how-does-muscle-contraction-in-the-bronchial-muscles-affect-breathing-during-an-asthma-attack
 score: -1.0
+related_article1:
+    id: 168787
+    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    subject: Health Studies
+    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
+related_article2:
+    id: 168788
+    title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
+related_article3:
+    id: 168795
+    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
+related_article4:
+    id: 168787
+    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    subject: Health Studies
+    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
+related_article5:
+    id: 168795
+    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
 ---
 
 &nbsp;

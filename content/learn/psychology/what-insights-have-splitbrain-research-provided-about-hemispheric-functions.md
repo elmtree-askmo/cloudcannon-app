@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-insights-have-splitbrain-research-provided-about-hemispheric-functions.md
 url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
 score: -1.0
+related_article1:
+    id: 170595
+    title: What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article2:
+    id: 170592
+    title: How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article3:
+    id: 170583
+    title: What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+related_article4:
+    id: 170595
+    title: What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article5:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
 ---
 
 &nbsp;

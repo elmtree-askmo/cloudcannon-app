@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-simulated-urban-environments-aid-in-urban-combat-training.md
 url: /learn/sociology/questions/how-do-simulated-urban-environments-aid-in-urban-combat-training
 score: -1.0
+related_article1:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article2:
+    id: 162925
+    title: How does urban simulation contribute to urban analysis and geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-analysis-and-geography
+related_article3:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article4:
+    id: 162931
+    title: How does tactical urbanism influence volumetric warfighting strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
+related_article5:
+    id: 162933
+    title: How does military doctrine address the challenges of urban complexity in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
 ---
 
 &nbsp;

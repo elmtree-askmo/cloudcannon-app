@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis.md
 url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
 score: -1.0
+related_article1:
+    id: 170977
+    title: How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article2:
+    id: 170992
+    title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
+related_article3:
+    id: 170986
+    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article4:
+    id: 170986
+    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article5:
+    id: 170978
+    title: What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
 ---
 
 &nbsp;

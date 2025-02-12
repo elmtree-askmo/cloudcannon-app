@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix.md
 url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
 score: -1.0
+related_article1:
+    id: 170801
+    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+related_article2:
+    id: 170796
+    title: How does the frequency of a strategy impact fitness dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
+related_article3:
+    id: 170804
+    title: What is equilibrium frequency and why is it important in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
+related_article4:
+    id: 170799
+    title: In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
+related_article5:
+    id: 170808
+    title: What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 ---
 
 &nbsp;

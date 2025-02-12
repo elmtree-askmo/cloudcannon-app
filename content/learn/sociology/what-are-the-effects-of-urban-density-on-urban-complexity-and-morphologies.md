@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies.md
 url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
 score: -1.0
+related_article1:
+    id: 162927
+    title: How does urban infrastructure play a role in material rituals within cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-infrastructure-play-a-role-in-material-rituals-within-cities
+related_article2:
+    id: 162933
+    title: How does military doctrine address the challenges of urban complexity in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
+related_article3:
+    id: 162926
+    title: What challenges do megacities face in terms of urban complexity and military doctrine?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
+related_article4:
+    id: 162917
+    title: How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article5:
+    id: 162929
+    title: How do simulated urban environments aid in urban combat training?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-simulated-urban-environments-aid-in-urban-combat-training
 ---
 
 &nbsp;

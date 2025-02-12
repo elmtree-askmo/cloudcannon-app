@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170237
+    title: Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article2:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article3:
+    id: 170248
+    title: What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article4:
+    id: 170254
+    title: Define a propositional formula and describe its structure.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
+related_article5:
+    id: 170241
+    title: Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 ---
 
 &nbsp;

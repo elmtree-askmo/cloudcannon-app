@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients.md
 url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
 score: -1.0
+related_article1:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article2:
+    id: 169653
+    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article3:
+    id: 169657
+    title: How do societal norms and media influence healthcare policies and practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+related_article4:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article5:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 ---
 
 &nbsp;

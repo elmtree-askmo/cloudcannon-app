@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control.md
 url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 score: -1.0
+related_article1:
+    id: 170509
+    title: How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article2:
+    id: 170520
+    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article3:
+    id: 170520
+    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article4:
+    id: 170508
+    title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
+related_article5:
+    id: 170515
+    title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
 ---
 
 &nbsp;

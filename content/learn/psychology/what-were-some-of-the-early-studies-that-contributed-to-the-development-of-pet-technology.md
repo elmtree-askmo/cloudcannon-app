@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology.md
 url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
 score: -1.0
+related_article1:
+    id: 164302
+    title: What is functional specialization in the context of brain activity measurement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
+related_article2:
+    id: 164307
+    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+related_article3:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+related_article4:
+    id: 164303
+    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+related_article5:
+    id: 164302
+    title: What is functional specialization in the context of brain activity measurement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 ---
 
 &nbsp;

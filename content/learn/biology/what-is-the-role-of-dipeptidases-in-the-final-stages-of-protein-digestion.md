@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion.md
 url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 score: -1.0
+related_article1:
+    id: 168829
+    title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article2:
+    id: 168835
+    title: What is the significance of epithelial cells in the absorption process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+related_article3:
+    id: 168830
+    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+related_article4:
+    id: 168831
+    title: What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article5:
+    id: 168830
+    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
 ---
 
 &nbsp;

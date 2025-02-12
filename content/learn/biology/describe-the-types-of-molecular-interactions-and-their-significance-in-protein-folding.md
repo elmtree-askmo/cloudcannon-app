@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding.md
 url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
 score: -1.0
+related_article1:
+    id: 167458
+    title: What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article2:
+    id: 167455
+    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    subject: Biology
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+related_article3:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article4:
+    id: 167452
+    title: What is the purpose of Lewis dot structures in representing molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article5:
+    id: 167454
+    title: What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 ---
 
 &nbsp;

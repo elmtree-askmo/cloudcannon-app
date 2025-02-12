@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem.md
 url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 score: -1.0
+related_article1:
+    id: 164199
+    title: What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
+related_article2:
+    id: 164194
+    title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article3:
+    id: 164200
+    title: How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+related_article4:
+    id: 164194
+    title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article5:
+    id: 164187
+    title: What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells.md
 url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
 score: -1.0
+related_article1:
+    id: 167363
+    title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
+related_article2:
+    id: 167362
+    title: Explain the concept of selective permeability and its importance to cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
+related_article3:
+    id: 167361
+    title: What factors affect the fluidity of cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-fluidity-of-cell-membranes
+related_article4:
+    id: 167370
+    title: What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article5:
+    id: 167360
+    title: How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
 ---
 
 &nbsp;

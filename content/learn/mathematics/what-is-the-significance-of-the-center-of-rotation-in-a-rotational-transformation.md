@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
 score: -1.0
+related_article1:
+    id: 162252
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article2:
+    id: 162503
+    title: What are the key properties of two-dimensional transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+related_article3:
+    id: 162503
+    title: What are the key properties of two-dimensional transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+related_article4:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article5:
+    id: 162603
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 ---
 
 &nbsp;

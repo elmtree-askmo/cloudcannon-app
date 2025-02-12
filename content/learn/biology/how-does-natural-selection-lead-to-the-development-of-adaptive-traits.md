@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-natural-selection-lead-to-the-development-of-adaptive-traits.md
 url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
 score: -1.0
+related_article1:
+    id: 166144
+    title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article2:
+    id: 166144
+    title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article3:
+    id: 166144
+    title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article4:
+    id: 166149
+    title: What are the primary transmission pathways for zoonotic diseases?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
+related_article5:
+    id: 166144
+    title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
 ---
 
 &nbsp;

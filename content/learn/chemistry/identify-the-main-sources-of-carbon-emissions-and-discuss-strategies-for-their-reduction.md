@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction.md
 url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 score: -1.0
+related_article1:
+    id: 170401
+    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+related_article2:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article3:
+    id: 170412
+    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article4:
+    id: 170413
+    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
+related_article5:
+    id: 170395
+    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 ---
 
 &nbsp;

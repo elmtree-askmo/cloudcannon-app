@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis.md
 url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
 score: -1.0
+related_article1:
+    id: 166684
+    title: How do you construct a free body diagram for a particle system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
+related_article2:
+    id: 166687
+    title: How are force vectors expressed using angles?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
+related_article3:
+    id: 166685
+    title: What is the difference between kinematics and dynamics in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+related_article4:
+    id: 166685
+    title: What is the difference between kinematics and dynamics in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+related_article5:
+    id: 166681
+    title: Describe Hooke's Law and its relation to displacement and force.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-hookes-law-and-its-relation-to-displacement-and-force
 ---
 
 &nbsp;

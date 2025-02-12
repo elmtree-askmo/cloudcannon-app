@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain.md
 url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 score: -1.0
+related_article1:
+    id: 170614
+    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article2:
+    id: 170615
+    title: What is synaptic plasticity and how does it contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+related_article3:
+    id: 170602
+    title: What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article4:
+    id: 170602
+    title: What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article5:
+    id: 170613
+    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
 ---
 
 &nbsp;

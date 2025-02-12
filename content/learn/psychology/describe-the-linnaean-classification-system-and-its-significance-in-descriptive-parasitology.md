@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology.md
 url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 score: -1.0
+related_article1:
+    id: 165850
+    title: How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
+related_article2:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article3:
+    id: 165841
+    title: How does the immune response contribute to the pathological effects of parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
+related_article4:
+    id: 165838
+    title: How do pharmacological interventions target parasite pathways in drug design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+related_article5:
+    id: 165830
+    title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 ---
 
 &nbsp;

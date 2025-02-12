@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-challenges-are-associated-with-deflection-calculations-in-structural-engineering.md
 url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 score: -1.0
+related_article1:
+    id: 169373
+    title: In what ways can architecture evoke emotions and create sensory experiences?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
+related_article2:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article3:
+    id: 169372
+    title: How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article4:
+    id: 169372
+    title: How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article5:
+    id: 169367
+    title: How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
 ---
 
 &nbsp;

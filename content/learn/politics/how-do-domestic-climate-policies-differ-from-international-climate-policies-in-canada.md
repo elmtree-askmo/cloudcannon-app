@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada.md
 url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 score: -1.0
+related_article1:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
+related_article2:
+    id: 165622
+    title: How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+related_article3:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article4:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article5:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
 ---
 
 &nbsp;

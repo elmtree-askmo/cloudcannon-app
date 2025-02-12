@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-one-assess-personal-feelings-to-identify-areas-for-improvement.md
 url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 score: -1.0
+related_article1:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+related_article2:
+    id: 169802
+    title: What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+related_article3:
+    id: 169816
+    title: What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article4:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article5:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
 ---
 
 &nbsp;

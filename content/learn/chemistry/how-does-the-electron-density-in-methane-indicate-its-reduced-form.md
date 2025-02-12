@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-electron-density-in-methane-indicate-its-reduced-form.md
 url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
 score: -1.0
+related_article1:
+    id: 170820
+    title: What role do enzymes play in directing molecules through metabolic pathways?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
+related_article2:
+    id: 170816
+    title: What is the concept of activation energy and how is it represented in reaction pathway diagrams?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
+related_article3:
+    id: 170818
+    title: What is the relationship between the equilibrium constant and Delta G in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
+related_article4:
+    id: 170820
+    title: What role do enzymes play in directing molecules through metabolic pathways?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
+related_article5:
+    id: 170817
+    title: How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
 ---
 
 &nbsp;

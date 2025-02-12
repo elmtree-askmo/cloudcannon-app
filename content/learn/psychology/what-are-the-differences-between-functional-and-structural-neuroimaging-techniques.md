@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-functional-and-structural-neuroimaging-techniques.md
 url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 score: -1.0
+related_article1:
+    id: 170465
+    title: What is the role of synaptic transmission in neurophysiology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
+related_article2:
+    id: 170481
+    title: How do biological mechanisms influence pain tolerance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+related_article3:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article4:
+    id: 170464
+    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
+    id: 170485
+    title: What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 ---
 
 &nbsp;

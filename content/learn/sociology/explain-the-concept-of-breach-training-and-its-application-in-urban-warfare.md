@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-concept-of-breach-training-and-its-application-in-urban-warfare.md
 url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
 score: -1.0
+related_article1:
+    id: 162951
+    title: What is the role of the securocratic state in managing urban security?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
+related_article2:
+    id: 162949
+    title: What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
+related_article3:
+    id: 162936
+    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article4:
+    id: 162936
+    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article5:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 ---
 
 &nbsp;

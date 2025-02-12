@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity.md
 url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
 score: -1.0
+related_article1:
+    id: 159672
+    title: What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
+related_article2:
+    id: 159674
+    title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+    subject: Economics
+    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
+related_article3:
+    id: 159678
+    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+related_article4:
+    id: 159665
+    title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article5:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 ---
 
 &nbsp;

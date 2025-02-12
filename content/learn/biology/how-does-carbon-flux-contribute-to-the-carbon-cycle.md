@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-carbon-flux-contribute-to-the-carbon-cycle.md
 url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170430
+    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
+related_article2:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article3:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
+related_article4:
+    id: 170438
+    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+related_article5:
+    id: 170429
+    title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
 ---
 
 &nbsp;

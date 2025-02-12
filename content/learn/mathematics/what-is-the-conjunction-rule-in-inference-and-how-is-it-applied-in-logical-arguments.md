@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments.md
 url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
 score: -1.0
+related_article1:
+    id: 170220
+    title: What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
+related_article2:
+    id: 170220
+    title: What are the steps involved in constructing a truth table, and how are critical rows identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-constructing-a-truth-table-and-how-are-critical-rows-identified
+related_article3:
+    id: 170227
+    title: What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article4:
+    id: 170230
+    title: Define Modus Ponens and provide an example of its application in logical reasoning.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
+related_article5:
+    id: 170224
+    title: How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
 ---
 
 &nbsp;

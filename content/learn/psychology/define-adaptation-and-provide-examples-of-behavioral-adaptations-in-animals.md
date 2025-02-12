@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals.md
 url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
 score: -1.0
+related_article1:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article2:
+    id: 166394
+    title: How do vertebrate organ systems interact to influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
+related_article3:
+    id: 166396
+    title: How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article4:
+    id: 166391
+    title: How do hormone-receptor interactions influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
+related_article5:
+    id: 166374
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

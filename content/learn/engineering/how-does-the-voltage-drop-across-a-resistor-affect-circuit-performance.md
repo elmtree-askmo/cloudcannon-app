@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance.md
 url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
 score: -1.0
+related_article1:
+    id: 167934
+    title: How does current flow differ between series and parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+related_article2:
+    id: 167934
+    title: How does current flow differ between series and parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+related_article3:
+    id: 167943
+    title: How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+related_article4:
+    id: 167941
+    title: Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
+related_article5:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
 ---
 
 &nbsp;

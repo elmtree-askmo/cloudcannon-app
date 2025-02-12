@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing.md
 url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
 score: -1.0
+related_article1:
+    id: 164015
+    title: How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
+related_article2:
+    id: 164017
+    title: How can empathy lead to destructive outcomes, such as impaired emotional regulation and a bias towards utilitarian decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
+related_article3:
+    id: 164022
+    title: How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
+related_article4:
+    id: 164022
+    title: How do overlapping neural circuits for empathy and aggression, along with endocrine system bias, affect emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-overlapping-neural-circuits-for-empathy-and-aggression-along-with-endocrine-system-bias-affect-emotional-regulation
+related_article5:
+    id: 164021
+    title: What is the relationship between psychopathy, moral transgression, and amygdala responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-psychopathy-moral-transgression-and-amygdala-responsiveness
 ---
 
 &nbsp;

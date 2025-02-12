@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities.md
 url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
 score: -1.0
+related_article1:
+    id: 169551
+    title: What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article2:
+    id: 169543
+    title: What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+related_article3:
+    id: 169550
+    title: How does emotional regulation impact patient trust and outcomes in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
+related_article4:
+    id: 169537
+    title: What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
+related_article5:
+    id: 169551
+    title: What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
 ---
 
 &nbsp;

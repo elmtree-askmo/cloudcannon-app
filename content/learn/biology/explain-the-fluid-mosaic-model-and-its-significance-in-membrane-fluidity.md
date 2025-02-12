@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity.md
 url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity
 score: -1.0
+related_article1:
+    id: 168919
+    title: Describe the arrangement of phospholipids in the bilayer and the significance of hydrophilic and hydrophobic interactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions
+related_article2:
+    id: 168925
+    title: How do phospholipids and cholesterol influence cell membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
+related_article3:
+    id: 168919
+    title: Describe the arrangement of phospholipids in the bilayer and the significance of hydrophilic and hydrophobic interactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions
+related_article4:
+    id: 168925
+    title: How do phospholipids and cholesterol influence cell membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
+related_article5:
+    id: 168918
+    title: How do phospholipids contribute to the structure of the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
 ---
 
 &nbsp;

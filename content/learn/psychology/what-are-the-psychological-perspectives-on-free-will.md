@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-psychological-perspectives-on-free-will.md
 url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
 score: -1.0
+related_article1:
+    id: 167711
+    title: What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
+related_article2:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article3:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article4:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article5:
+    id: 167702
+    title: What role does emotional intelligence play in personal and professional life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
 ---
 
 &nbsp;

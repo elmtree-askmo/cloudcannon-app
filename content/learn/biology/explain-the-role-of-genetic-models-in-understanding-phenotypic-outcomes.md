@@ -21,6 +21,26 @@ subject: Biology
 file_name: explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes.md
 url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
 score: -1.0
+related_article1:
+    id: 167879
+    title: What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article2:
+    id: 167871
+    title: Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+related_article3:
+    id: 167885
+    title: How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article4:
+    id: 167878
+    title: How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
 ---
 
 &nbsp;

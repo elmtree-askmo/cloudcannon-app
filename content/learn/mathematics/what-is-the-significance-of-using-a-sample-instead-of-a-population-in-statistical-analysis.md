@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis.md
 url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 170281
+    title: What is the difference between discrete and continuous quantitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+related_article2:
+    id: 170281
+    title: What is the difference between discrete and continuous quantitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+related_article3:
+    id: 170274
+    title: What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article4:
+    id: 170277
+    title: Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article5:
+    id: 170277
+    title: Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective.md
 url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
 score: -1.0
+related_article1:
+    id: 164192
+    title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
+related_article2:
+    id: 164188
+    title: How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
+related_article3:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+related_article4:
+    id: 164193
+    title: Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+related_article5:
+    id: 164188
+    title: How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 ---
 
 &nbsp;

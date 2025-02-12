@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery.md
 url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
 score: -1.0
+related_article1:
+    id: 164855
+    title: What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
+related_article2:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article3:
+    id: 164868
+    title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article4:
+    id: 164853
+    title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article5:
+    id: 164864
+    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
 ---
 
 &nbsp;

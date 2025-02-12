@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking.md
 url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
 score: -1.0
+related_article1:
+    id: 168442
+    title: What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article2:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article3:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article4:
+    id: 168449
+    title: Why is identifying core values important in evaluating personal abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
+related_article5:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-integrating-peer-and-parental-influences-lead-to-a-more-holistic-approach-to-moral-development.md
 url: /learn/psychology/questions/how-can-integrating-peer-and-parental-influences-lead-to-a-more-holistic-approach-to-moral-development
 score: -1.0
+related_article1:
+    id: 164147
+    title: What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article2:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article3:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article4:
+    id: 164148
+    title: How do educational settings utilize peer interaction to enhance moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-educational-settings-utilize-peer-interaction-to-enhance-moral-development
+related_article5:
+    id: 164146
+    title: In what ways do peer and parental influences differ in their impact on moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 ---
 
 &nbsp;

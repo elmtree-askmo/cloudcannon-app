@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-the-nucleus-in-an-atom.md
 url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
 score: -1.0
+related_article1:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article2:
+    id: 167412
+    title: Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article3:
+    id: 167411
+    title: What is the role of the carbonyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
+related_article4:
+    id: 167419
+    title: What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article5:
+    id: 167421
+    title: How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
 ---
 
 &nbsp;

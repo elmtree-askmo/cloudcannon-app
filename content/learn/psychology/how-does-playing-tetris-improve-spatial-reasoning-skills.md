@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-playing-tetris-improve-spatial-reasoning-skills.md
 url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
 score: -1.0
+related_article1:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article2:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article3:
+    id: 165240
+    title: How do perceptual afterimages affect visual perception and cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
+related_article4:
+    id: 165228
+    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
+related_article5:
+    id: 165244
+    title: What are the key steps in designing a cognitive experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
 ---
 
 &nbsp;

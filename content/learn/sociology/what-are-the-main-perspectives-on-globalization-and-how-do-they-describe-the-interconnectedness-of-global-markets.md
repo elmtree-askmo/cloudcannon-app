@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets.md
 url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 score: -1.0
+related_article1:
+    id: 163867
+    title: How did European exploration impact global trade routes and resource control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
+related_article2:
+    id: 163860
+    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+related_article3:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
+related_article4:
+    id: 163860
+    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+related_article5:
+    id: 163865
+    title: How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 ---
 
 &nbsp;

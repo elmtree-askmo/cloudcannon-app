@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-individual-differences-affect-cognitive-abilities.md
 url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
 score: -1.0
+related_article1:
+    id: 164677
+    title: How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article2:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+related_article3:
+    id: 164683
+    title: What role do subconscious processes play in influencing behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+related_article4:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article5:
+    id: 164693
+    title: What factors contribute to cognitive aging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
 ---
 
 &nbsp;

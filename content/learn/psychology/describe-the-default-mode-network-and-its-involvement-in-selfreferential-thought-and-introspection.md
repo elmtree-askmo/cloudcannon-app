@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection.md
 url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
 score: -1.0
+related_article1:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article2:
+    id: 164837
+    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article3:
+    id: 164846
+    title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
+related_article4:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article5:
+    id: 164847
+    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
 ---
 
 &nbsp;

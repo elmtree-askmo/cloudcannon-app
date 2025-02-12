@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-process-of-waste-and-water-removal-in-the-kidneys.md
 url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
 score: -1.0
+related_article1:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article2:
+    id: 169726
+    title: What are the health implications of being classified as overweight or obese?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
+related_article3:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article4:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169727
+    title: What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
 ---
 
 &nbsp;

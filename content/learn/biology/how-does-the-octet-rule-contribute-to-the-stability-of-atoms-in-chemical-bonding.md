@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding.md
 url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167462
+    title: What are the components of an atom, and how do they determine its chemical properties?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties
+related_article2:
+    id: 167448
+    title: How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article3:
+    id: 167457
+    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article4:
+    id: 167445
+    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

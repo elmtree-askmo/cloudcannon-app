@@ -21,6 +21,31 @@ subject: Engineering
 file_name: define-impedance-and-its-importance-in-ac-circuit-analysis.md
 url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 score: -1.0
+related_article1:
+    id: 169859
+    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article2:
+    id: 169843
+    title: What are the basic postulates and conventions used in the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
+related_article3:
+    id: 169846
+    title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+related_article4:
+    id: 169843
+    title: What are the basic postulates and conventions used in the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
+related_article5:
+    id: 169850
+    title: What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 ---
 
 &nbsp;

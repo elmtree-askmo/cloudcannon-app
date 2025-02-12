@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion.md
 url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
 score: -1.0
+related_article1:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article2:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article3:
+    id: 166943
+    title: What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process
+related_article4:
+    id: 166949
+    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article5:
+    id: 166937
+    title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 ---
 
 &nbsp;

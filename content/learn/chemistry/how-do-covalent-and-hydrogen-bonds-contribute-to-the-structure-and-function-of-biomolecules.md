@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules.md
 url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
 score: -1.0
+related_article1:
+    id: 167076
+    title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
+related_article2:
+    id: 167074
+    title: Identify the functional groups present in amino acids and describe their properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
+related_article3:
+    id: 167082
+    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article4:
+    id: 167085
+    title: What is the relationship between mass number, protons, and neutrons in determining atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
+related_article5:
+    id: 167077
+    title: Describe the role of amino acids as building blocks in protein structure and function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-sociocultural-impacts-affect-development-particularly-in-terms-of-cultural-attributes-and-social-dynamics.md
 url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-development-particularly-in-terms-of-cultural-attributes-and-social-dynamics
 score: -1.0
+related_article1:
+    id: 160634
+    title: How do physical geography and human geography contribute to spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+related_article2:
+    id: 160077
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article3:
+    id: 160629
+    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
+related_article4:
+    id: 160636
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article5:
+    id: 160637
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
 ---
 
 &nbsp;

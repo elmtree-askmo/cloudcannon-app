@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement.md
 url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 score: -1.0
+related_article1:
+    id: 169321
+    title: What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article2:
+    id: 169312
+    title: How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article3:
+    id: 169321
+    title: What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article4:
+    id: 169320
+    title: How is intensity measured in behavior assessment and what is its application?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
+related_article5:
+    id: 169314
+    title: What is differential reinforcement and what is its primary purpose?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
 ---
 
 &nbsp;

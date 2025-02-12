@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-precipitation-reaction.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 score: -1.0
+related_article1:
+    id: 161763
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article2:
+    id: 161944
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article3:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article4:
+    id: 161992
+    title: What are the characteristics of precipitation reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
+related_article5:
+    id: 161942
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

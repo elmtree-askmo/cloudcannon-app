@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions.md
 url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
 score: -1.0
+related_article1:
+    id: 169473
+    title: What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article2:
+    id: 169473
+    title: What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article3:
+    id: 169462
+    title: What are the key techniques used in airway management to prevent obstruction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
+related_article4:
+    id: 169466
+    title: Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article5:
+    id: 169472
+    title: What immediate actions should be taken in response to signs of patient deterioration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
 ---
 
 &nbsp;

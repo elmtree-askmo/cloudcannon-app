@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-structure-and-function-of-the-hydroxyl-group.md
 url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
 score: -1.0
+related_article1:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article2:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article3:
+    id: 167408
+    title: Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article4:
+    id: 167398
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167398
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 ---
 
 &nbsp;

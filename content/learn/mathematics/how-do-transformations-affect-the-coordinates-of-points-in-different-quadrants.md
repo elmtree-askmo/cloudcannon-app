@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-coordinates-of-points-in-different-quadrants.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-coordinates-of-points-in-different-quadrants
 score: -1.0
+related_article1:
+    id: 162496
+    title: How do vertex transformations affect the orientation of triangles?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
+related_article2:
+    id: 162249
+    title: Describe the concept of circular turning in rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+related_article3:
+    id: 162234
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+related_article4:
+    id: 162487
+    title: What is the significance of the center of rotation in a rotational transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
+related_article5:
+    id: 162488
+    title: How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-analogy-between-tenso-eltrica-and-water-pressure.md
 url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 score: -1.0
+related_article1:
+    id: 169833
+    title: Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+related_article2:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article3:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article4:
+    id: 169841
+    title: What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+related_article5:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
 ---
 
 &nbsp;

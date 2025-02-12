@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains.md
 url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
 score: -1.0
+related_article1:
+    id: 168694
+    title: What are the defining characteristics of Phylum Zygomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
+related_article2:
+    id: 168691
+    title: Describe the role of plasmodial slime molds in the ecosystem.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
+related_article3:
+    id: 168688
+    title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
+related_article4:
+    id: 168690
+    title: What is the function of pseudopodia in protozoans?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+related_article5:
+    id: 168690
+    title: What is the function of pseudopodia in protozoans?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
 ---
 
 &nbsp;

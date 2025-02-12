@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects.md
 url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 score: -1.0
+related_article1:
+    id: 165835
+    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+related_article2:
+    id: 165828
+    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article3:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article4:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165845
+    title: What modern technological advancements are being applied in parasitology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 ---
 
 &nbsp;

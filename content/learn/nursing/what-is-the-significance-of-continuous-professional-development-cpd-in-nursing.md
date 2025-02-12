@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-significance-of-continuous-professional-development-cpd-in-nursing.md
 url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
 score: -1.0
+related_article1:
+    id: 169617
+    title: What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    subject: Nursing
+    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
+related_article2:
+    id: 169623
+    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
+related_article3:
+    id: 169627
+    title: How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article4:
+    id: 169618
+    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article5:
+    id: 169625
+    title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
 ---
 
 &nbsp;

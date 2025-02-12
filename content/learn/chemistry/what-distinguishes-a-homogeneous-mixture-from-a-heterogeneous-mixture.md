@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture.md
 url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 score: -1.0
+related_article1:
+    id: 161874
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article2:
+    id: 161840
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article3:
+    id: 161851
+    title: What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article4:
+    id: 161875
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article5:
+    id: 161841
+    title: How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 ---
 
 &nbsp;

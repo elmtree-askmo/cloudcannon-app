@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-opposite-coordinates-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162505
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article2:
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article3:
+    id: 162810
+    title: How do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article4:
+    id: 162765
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article5:
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
 ---
 
 &nbsp;

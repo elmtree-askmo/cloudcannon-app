@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection.md
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 score: -1.0
+related_article1:
+    id: 162509
+    title: How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article2:
+    id: 162749
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article3:
+    id: 162687
+    title: What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article4:
+    id: 162760
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article5:
+    id: 162767
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
 ---
 
 &nbsp;

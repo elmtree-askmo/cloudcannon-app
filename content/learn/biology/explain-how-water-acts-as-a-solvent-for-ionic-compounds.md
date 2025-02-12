@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-how-water-acts-as-a-solvent-for-ionic-compounds.md
 url: /learn/biology/questions/explain-how-water-acts-as-a-solvent-for-ionic-compounds
 score: -1.0
+related_article1:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article2:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article3:
+    id: 167571
+    title: What is the significance of polar covalent bonds in the chemical structure of water?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
+related_article4:
+    id: 167575
+    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+related_article5:
+    id: 167575
+    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 ---
 
 &nbsp;

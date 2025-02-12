@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-three-main-components-of-a-nucleotide.md
 url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
 score: -1.0
+related_article1:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article2:
+    id: 167326
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article3:
+    id: 167340
+    title: How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article4:
+    id: 167327
+    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article5:
+    id: 167336
+    title: Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 ---
 
 &nbsp;

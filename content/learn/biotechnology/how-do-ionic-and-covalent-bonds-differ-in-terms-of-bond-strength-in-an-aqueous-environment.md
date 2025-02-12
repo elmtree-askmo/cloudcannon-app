@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment.md
 url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
 score: -1.0
+related_article1:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article2:
+    id: 170970
+    title: What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article3:
+    id: 170966
+    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article4:
+    id: 170970
+    title: What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
+related_article5:
+    id: 170971
+    title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
 ---
 
 &nbsp;

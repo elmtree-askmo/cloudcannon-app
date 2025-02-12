@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines.md
 url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
 score: -1.0
+related_article1:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article2:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article3:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article4:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article5:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
 ---
 
 &nbsp;

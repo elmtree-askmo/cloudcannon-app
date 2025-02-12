@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-a-reflection-defined-in-geometric-terms.md
 url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 score: -1.0
+related_article1:
+    id: 162388
+    title: How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+related_article2:
+    id: 162899
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article3:
+    id: 162912
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162647
+    title: What role does orientation reversal play in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-orientation-reversal-play-in-reflections
+related_article5:
+    id: 162696
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
 ---
 
 &nbsp;

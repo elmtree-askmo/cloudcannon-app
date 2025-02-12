@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-symptoms-of-neurodysplasia.md
 url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
 score: -1.0
+related_article1:
+    id: 164299
+    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article2:
+    id: 164299
+    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article3:
+    id: 164288
+    title: What are the key components of cognitive engagement in brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
+related_article4:
+    id: 164299
+    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article5:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

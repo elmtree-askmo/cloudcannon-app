@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation.md
 url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
 score: -1.0
+related_article1:
+    id: 163173
+    title: What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
+related_article2:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article3:
+    id: 163189
+    title: What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
+related_article4:
+    id: 163183
+    title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article5:
+    id: 163185
+    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 ---
 
 &nbsp;

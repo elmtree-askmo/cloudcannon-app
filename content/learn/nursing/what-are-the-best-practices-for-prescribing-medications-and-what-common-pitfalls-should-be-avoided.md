@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided.md
 url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
 score: -1.0
+related_article1:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article2:
+    id: 169745
+    title: What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article3:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article4:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article5:
+    id: 169744
+    title: How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
 ---
 
 &nbsp;

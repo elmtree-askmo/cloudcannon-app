@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-computational-models-used-in-the-analysis-of-phonological-graphs.md
 url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
 score: -1.0
+related_article1:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article2:
+    id: 164599
+    title: What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article3:
+    id: 164599
+    title: What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article4:
+    id: 164605
+    title: What have split-brain studies revealed about the visual field's interaction with language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
+related_article5:
+    id: 164613
+    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
 ---
 
 &nbsp;

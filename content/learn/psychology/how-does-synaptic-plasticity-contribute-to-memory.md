@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-synaptic-plasticity-contribute-to-memory.md
 url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
 score: -1.0
+related_article1:
+    id: 164501
+    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
+related_article2:
+    id: 164506
+    title: What are the key brain regions involved in memory, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+related_article3:
+    id: 164489
+    title: How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
+related_article4:
+    id: 164483
+    title: How does skill acquisition relate to implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
+related_article5:
+    id: 164487
+    title: How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 ---
 
 &nbsp;

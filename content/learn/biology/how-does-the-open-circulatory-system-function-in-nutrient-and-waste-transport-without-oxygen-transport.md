@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport.md
 url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
 score: -1.0
+related_article1:
+    id: 168802
+    title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+    subject: Biology
+    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
+related_article2:
+    id: 168803
+    title: Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
+related_article3:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article4:
+    id: 168799
+    title: Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
+related_article5:
+    id: 168803
+    title: Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-tenso-eltrica-and-how-is-it-measured.md
 url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
 score: -1.0
+related_article1:
+    id: 169828
+    title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+related_article2:
+    id: 169834
+    title: How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article3:
+    id: 169840
+    title: How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
+related_article4:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article5:
+    id: 169839
+    title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
 ---
 
 &nbsp;

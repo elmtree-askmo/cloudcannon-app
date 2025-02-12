@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-genderbased-interests-influence-career-choices.md
 url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
 score: -1.0
+related_article1:
+    id: 168121
+    title: How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+related_article2:
+    id: 168132
+    title: How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article3:
+    id: 168132
+    title: How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article4:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article5:
+    id: 168120
+    title: What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 ---
 
 &nbsp;

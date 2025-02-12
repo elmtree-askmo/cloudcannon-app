@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-truth-tables-used-to-evaluate-logical-implications.md
 url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 score: -1.0
+related_article1:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article2:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article3:
+    id: 170750
+    title: What is the binomial series and how is it expanded?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+related_article4:
+    id: 170744
+    title: What role do properties of real numbers play in series and sequences?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
+related_article5:
+    id: 170743
+    title: How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
 ---
 
 &nbsp;

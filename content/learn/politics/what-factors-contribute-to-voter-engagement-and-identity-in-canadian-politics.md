@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics.md
 url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
 score: -1.0
+related_article1:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article2:
+    id: 169276
+    title: How do federal and provincial party relationships affect party integration and dynamics in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
+related_article3:
+    id: 169278
+    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+related_article4:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article5:
+    id: 169279
+    title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics
 ---
 
 &nbsp;

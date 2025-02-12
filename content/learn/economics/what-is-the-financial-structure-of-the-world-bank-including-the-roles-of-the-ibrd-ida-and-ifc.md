@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc.md
 url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
 score: -1.0
+related_article1:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article2:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article3:
+    id: 159665
+    title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article4:
+    id: 159670
+    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
+related_article5:
+    id: 159663
+    title: How do multilateral institutions create favorable circumstances for global priorities?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
 ---
 
 &nbsp;

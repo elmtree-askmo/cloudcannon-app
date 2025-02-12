@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep.md
 url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
 score: -1.0
+related_article1:
+    id: 169698
+    title: How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article2:
+    id: 169685
+    title: What are the main stages of sleep, and how do they differ in terms of brain activity and physiological changes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-stages-of-sleep-and-how-do-they-differ-in-terms-of-brain-activity-and-physiological-changes
+related_article3:
+    id: 169702
+    title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
+related_article4:
+    id: 169690
+    title: What are the primary causes and symptoms of insomnia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
+related_article5:
+    id: 169693
+    title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
 ---
 
 &nbsp;

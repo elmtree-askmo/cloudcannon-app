@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom.md
 url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 score: -1.0
+related_article1:
+    id: 167290
+    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article2:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article3:
+    id: 167292
+    title: What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article4:
+    id: 167288
+    title: What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article5:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 ---
 
 &nbsp;

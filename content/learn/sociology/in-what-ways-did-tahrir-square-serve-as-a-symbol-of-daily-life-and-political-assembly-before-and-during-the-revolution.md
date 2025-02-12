@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution.md
 url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
 score: -1.0
+related_article1:
+    id: 168984
+    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+related_article2:
+    id: 168975
+    title: What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article3:
+    id: 168980
+    title: What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
+related_article4:
+    id: 168984
+    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+related_article5:
+    id: 168984
+    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
 ---
 
 &nbsp;

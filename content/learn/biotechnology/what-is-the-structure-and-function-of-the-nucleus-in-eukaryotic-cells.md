@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells.md
 url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
 score: -1.0
+related_article1:
+    id: 167588
+    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+related_article2:
+    id: 167593
+    title: How do eukaryotic cells differ from prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
+related_article3:
+    id: 167592
+    title: What are the main characteristics of prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
+related_article4:
+    id: 167584
+    title: What are the main steps involved in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-steps-involved-in-the-scientific-method
+related_article5:
+    id: 167595
+    title: What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function.md
 url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163725
+    title: Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+related_article2:
+    id: 163713
+    title: Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+related_article3:
+    id: 163718
+    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+related_article4:
+    id: 163723
+    title: What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+related_article5:
+    id: 163725
+    title: Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article2:
+    id: 163724
+    title: Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article3:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article4:
+    id: 163713
+    title: Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
+related_article5:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
 ---
 
 &nbsp;

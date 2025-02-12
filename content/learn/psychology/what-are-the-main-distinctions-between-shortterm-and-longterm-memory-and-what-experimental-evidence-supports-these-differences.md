@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences.md
 url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
 score: -1.0
+related_article1:
+    id: 164858
+    title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article2:
+    id: 164859
+    title: Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article3:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article4:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article5:
+    id: 164865
+    title: What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
 ---
 
 &nbsp;

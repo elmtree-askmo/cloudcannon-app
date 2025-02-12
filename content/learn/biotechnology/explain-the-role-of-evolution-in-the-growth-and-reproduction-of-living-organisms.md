@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms.md
 url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
 score: -1.0
+related_article1:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article2:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article3:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article4:
+    id: 166194
+    title: How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article5:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
 ---
 
 &nbsp;

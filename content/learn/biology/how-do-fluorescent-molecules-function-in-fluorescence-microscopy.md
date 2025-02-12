@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-fluorescent-molecules-function-in-fluorescence-microscopy.md
 url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
 score: -1.0
+related_article1:
+    id: 170948
+    title: How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+related_article2:
+    id: 170948
+    title: How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+related_article3:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article4:
+    id: 170940
+    title: What are the key structural differences between bacterial and eukaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
+related_article5:
+    id: 170943
+    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
 ---
 
 &nbsp;

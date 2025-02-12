@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure.md
 url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
 score: -1.0
+related_article1:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article2:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article3:
+    id: 167237
+    title: How do R-group interactions influence the tertiary structure of proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
+related_article4:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+related_article5:
+    id: 167247
+    title: How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it.md
 url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 score: -1.0
+related_article1:
+    id: 164194
+    title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article2:
+    id: 164190
+    title: What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+related_article3:
+    id: 164194
+    title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article4:
+    id: 164196
+    title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+related_article5:
+    id: 164198
+    title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
 ---
 
 &nbsp;

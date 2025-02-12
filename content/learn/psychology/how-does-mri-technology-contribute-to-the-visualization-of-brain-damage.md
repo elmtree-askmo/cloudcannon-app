@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-mri-technology-contribute-to-the-visualization-of-brain-damage.md
 url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
 score: -1.0
+related_article1:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article2:
+    id: 164669
+    title: How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
+related_article3:
+    id: 164667
+    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article4:
+    id: 164663
+    title: What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
+related_article5:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

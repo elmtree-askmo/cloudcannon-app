@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material.md
 url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
 score: -1.0
+related_article1:
+    id: 170393
+    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article2:
+    id: 170386
+    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article3:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article4:
+    id: 170386
+    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article5:
+    id: 170385
+    title: Why are keystone species important for ecosystem stability and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
 ---
 
 &nbsp;

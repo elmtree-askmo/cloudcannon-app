@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-convert-milligrams-to-grams.md
 url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
 score: -1.0
+related_article1:
+    id: 165397
+    title: What is the significance of the prefix 'deca' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
+related_article2:
+    id: 165396
+    title: How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
+related_article3:
+    id: 165407
+    title: How can visual aids assist in memorizing metric system conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visual-aids-assist-in-memorizing-metric-system-conversions
+related_article4:
+    id: 165402
+    title: How do you determine the target unit in a unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
+related_article5:
+    id: 165412
+    title: How do you convert liters to milliliters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
 ---
 
 &nbsp;

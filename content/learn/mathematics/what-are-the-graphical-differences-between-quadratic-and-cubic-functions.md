@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-graphical-differences-between-quadratic-and-cubic-functions.md
 url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 score: -1.0
+related_article1:
+    id: 163843
+    title: What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article2:
+    id: 163840
+    title: How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
+related_article3:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article4:
+    id: 163839
+    title: What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article5:
+    id: 163831
+    title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
 ---
 
 &nbsp;

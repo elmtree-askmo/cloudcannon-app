@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory.md
 url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 score: -1.0
+related_article1:
+    id: 169271
+    title: How does classical liberalism view the free market economy and competition?
+    subject: Politics
+    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+related_article2:
+    id: 169271
+    title: How does classical liberalism view the free market economy and competition?
+    subject: Politics
+    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+related_article3:
+    id: 169280
+    title: How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+    subject: Politics
+    url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
+related_article4:
+    id: 169274
+    title: What is the libertarian perspective on state intervention and individual responsibility?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+related_article5:
+    id: 169278
+    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
 ---
 
 &nbsp;

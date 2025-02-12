@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules.md
 url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 score: -1.0
+related_article1:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article2:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article3:
+    id: 167288
+    title: What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article4:
+    id: 167289
+    title: Where are valence electrons located and why are they important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article5:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
 ---
 
 &nbsp;

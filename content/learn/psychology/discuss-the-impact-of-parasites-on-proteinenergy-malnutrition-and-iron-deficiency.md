@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency.md
 url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
 score: -1.0
+related_article1:
+    id: 165841
+    title: How does the immune response contribute to the pathological effects of parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
+related_article2:
+    id: 165840
+    title: What are the clinical implications of identifying parasitic infections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
+related_article3:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article4:
+    id: 165832
+    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article5:
+    id: 165835
+    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
 ---
 
 &nbsp;

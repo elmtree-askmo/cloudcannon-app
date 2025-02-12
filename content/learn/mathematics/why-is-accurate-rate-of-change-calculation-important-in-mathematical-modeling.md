@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling.md
 url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
 score: -1.0
+related_article1:
+    id: 163818
+    title: How does the average rate of change of an exponential function differ over various intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
+related_article2:
+    id: 163813
+    title: What is a piecewise linear function and why are intervals important in its structure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
+related_article3:
+    id: 163816
+    title: How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+related_article4:
+    id: 163817
+    title: What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
+related_article5:
+    id: 163827
+    title: What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure.md
 url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
 score: -1.0
+related_article1:
+    id: 165347
+    title: How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article2:
+    id: 165347
+    title: How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article3:
+    id: 165346
+    title: What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article4:
+    id: 165346
+    title: What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article5:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
 ---
 
 &nbsp;

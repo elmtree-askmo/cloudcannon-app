@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-components-of-an-amino-acid-and-their-significance.md
 url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
 score: -1.0
+related_article1:
+    id: 166847
+    title: How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
+related_article2:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article3:
+    id: 166844
+    title: What interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article4:
+    id: 166849
+    title: How do protein-based hormones like insulin function through receptor binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
+related_article5:
+    id: 166840
+    title: How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element.md
 url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 score: -1.0
+related_article1:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article2:
+    id: 167260
+    title: What are the two main isotopes of chlorine and how do they impact its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
+related_article3:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article4:
+    id: 167262
+    title: What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
+related_article5:
+    id: 167263
+    title: Why is the use of atomic mass units (AMU) important for consistency in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-use-of-atomic-mass-units-amu-important-for-consistency-in-chemistry
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies.md
 url: /learn/sociology/questions/what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies
 score: -1.0
+related_article1:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article2:
+    id: 162922
+    title: What are the implications of violent non-state actors on urban combat training in informal megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
+related_article3:
+    id: 162919
+    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+related_article4:
+    id: 162916
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article5:
+    id: 162924
+    title: What is the significance of spatial intelligence in volumetric warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 ---
 
 &nbsp;

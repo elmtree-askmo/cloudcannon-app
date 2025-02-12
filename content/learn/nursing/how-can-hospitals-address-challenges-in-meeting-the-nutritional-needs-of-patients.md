@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-can-hospitals-address-challenges-in-meeting-the-nutritional-needs-of-patients.md
 url: /learn/nursing/questions/how-can-hospitals-address-challenges-in-meeting-the-nutritional-needs-of-patients
 score: -1.0
+related_article1:
+    id: 169677
+    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
+related_article2:
+    id: 169669
+    title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
+related_article3:
+    id: 169663
+    title: What are common risks identified in healthcare settings, and why is risk assessment important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
+related_article4:
+    id: 169679
+    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
 ---
 
 &nbsp;

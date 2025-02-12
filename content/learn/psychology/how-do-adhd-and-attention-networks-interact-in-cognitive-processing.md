@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-adhd-and-attention-networks-interact-in-cognitive-processing.md
 url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 score: -1.0
+related_article1:
+    id: 164563
+    title: How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article2:
+    id: 164543
+    title: What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article3:
+    id: 164557
+    title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+related_article4:
+    id: 164549
+    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+related_article5:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
 ---
 
 &nbsp;

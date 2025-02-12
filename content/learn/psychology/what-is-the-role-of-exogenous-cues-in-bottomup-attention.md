@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-exogenous-cues-in-bottomup-attention.md
 url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 score: -1.0
+related_article1:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article2:
+    id: 164744
+    title: What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article3:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article4:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article5:
+    id: 164770
+    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 ---
 
 &nbsp;

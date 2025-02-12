@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading.md
 url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
 score: -1.0
+related_article1:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article2:
+    id: 163176
+    title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article3:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article4:
+    id: 163179
+    title: What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
+related_article5:
+    id: 163177
+    title: How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
 ---
 
 &nbsp;

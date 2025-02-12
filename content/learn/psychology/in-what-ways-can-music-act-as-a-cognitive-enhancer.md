@@ -21,6 +21,31 @@ subject: Psychology
 file_name: in-what-ways-can-music-act-as-a-cognitive-enhancer.md
 url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
 score: -1.0
+related_article1:
+    id: 164985
+    title: What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
+related_article2:
+    id: 164983
+    title: What is the significance of a p-value in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
+related_article3:
+    id: 164986
+    title: How does the Stroop Test measure reaction time?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
+related_article4:
+    id: 164982
+    title: How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
+related_article5:
+    id: 164985
+    title: What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
 ---
 
 &nbsp;

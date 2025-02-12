@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-recursive-nature-of-the-fibonacci-sequence-defined.md
 url: /learn/mathematics/questions/how-is-the-recursive-nature-of-the-fibonacci-sequence-defined
 score: -1.0
+related_article1:
+    id: 170687
+    title: What is the key difference between strong induction and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
+related_article2:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article3:
+    id: 170699
+    title: What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article4:
+    id: 170705
+    title: What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+related_article5:
+    id: 170695
+    title: Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
 ---
 
 &nbsp;

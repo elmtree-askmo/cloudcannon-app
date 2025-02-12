@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions.md
 url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
 score: -1.0
+related_article1:
+    id: 163784
+    title: Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+related_article2:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+related_article3:
+    id: 163774
+    title: How do horizontal and vertical asymptotes differ in the context of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
+related_article4:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+related_article5:
+    id: 163788
+    title: How can exponential functions be used to model population growth in real-world scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-conventional-morality-from-other-levels-of-moral-development.md
 url: /learn/psychology/questions/what-distinguishes-conventional-morality-from-other-levels-of-moral-development
 score: -1.0
+related_article1:
+    id: 164128
+    title: Describe the characteristics of pre-conventional morality.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-characteristics-of-preconventional-morality
+related_article2:
+    id: 164126
+    title: What is the Heinz Dilemma and how does it relate to moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-heinz-dilemma-and-how-does-it-relate-to-moral-reasoning
+related_article3:
+    id: 164130
+    title: How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
+related_article4:
+    id: 164133
+    title: What strategies can schools use to foster moral development through a just community approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-schools-use-to-foster-moral-development-through-a-just-community-approach
+related_article5:
+    id: 164131
+    title: What role does social perspective-taking play in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-social-perspectivetaking-play-in-moral-development
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning.md
 url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164223
+    title: What role does social perspective taking play in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-social-perspective-taking-play-in-moral-judgments-according-to-colberg
+related_article2:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+related_article3:
+    id: 164223
+    title: What role does social perspective taking play in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-social-perspective-taking-play-in-moral-judgments-according-to-colberg
+related_article4:
+    id: 164216
+    title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
+related_article5:
+    id: 164225
+    title: How does Colberg's theory address the rigidity and linearity of moral development stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
 ---
 
 &nbsp;

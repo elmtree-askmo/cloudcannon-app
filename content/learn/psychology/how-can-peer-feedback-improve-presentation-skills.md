@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-peer-feedback-improve-presentation-skills.md
 url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
 score: -1.0
+related_article1:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article2:
+    id: 164983
+    title: What is the significance of a p-value in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
+related_article3:
+    id: 164987
+    title: In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article4:
+    id: 164987
+    title: In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article5:
+    id: 164985
+    title: What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
 ---
 
 &nbsp;

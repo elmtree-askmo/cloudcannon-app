@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood.md
 url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
 score: -1.0
+related_article1:
+    id: 168122
+    title: What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article2:
+    id: 168121
+    title: How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+related_article3:
+    id: 168135
+    title: How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article4:
+    id: 168112
+    title: How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article5:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
 ---
 
 &nbsp;

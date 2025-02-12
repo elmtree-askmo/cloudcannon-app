@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-career-opportunities-are-available-in-sports-medicine.md
 url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 score: -1.0
+related_article1:
+    id: 167473
+    title: What are the typical pre-medical coursework requirements for medical school?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
+related_article2:
+    id: 167484
+    title: How should students prepare for the cumulative nature of the final exam?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
+related_article3:
+    id: 167485
+    title: What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article4:
+    id: 167493
+    title: What educational technologies are used in biology to enhance learning?
+    subject: Biology
+    url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
+related_article5:
+    id: 167485
+    title: What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
 ---
 
 &nbsp;

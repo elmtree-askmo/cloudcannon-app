@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology.md
 url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
 score: -1.0
+related_article1:
+    id: 170008
+    title: What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+related_article2:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article3:
+    id: 170019
+    title: How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article4:
+    id: 170016
+    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
+related_article5:
+    id: 170010
+    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
 ---
 
 &nbsp;

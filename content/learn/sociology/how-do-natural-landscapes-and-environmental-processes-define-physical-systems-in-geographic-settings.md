@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings.md
 url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 score: -1.0
+related_article1:
+    id: 160629
+    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
+related_article2:
+    id: 160208
+    title: What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article3:
+    id: 160549
+    title: How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+related_article4:
+    id: 160220
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article5:
+    id: 160098
+    title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 ---
 
 &nbsp;

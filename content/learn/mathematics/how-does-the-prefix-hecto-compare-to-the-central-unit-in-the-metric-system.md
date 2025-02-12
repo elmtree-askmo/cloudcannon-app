@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system.md
 url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 score: -1.0
+related_article1:
+    id: 165411
+    title: What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article2:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+related_article3:
+    id: 165398
+    title: How does the prefix 'deci' relate to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
+related_article4:
+    id: 165409
+    title: How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+related_article5:
+    id: 165409
+    title: How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
 ---
 
 &nbsp;

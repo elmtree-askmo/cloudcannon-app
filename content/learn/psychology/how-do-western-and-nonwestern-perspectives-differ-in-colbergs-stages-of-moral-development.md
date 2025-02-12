@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development.md
 url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 score: -1.0
+related_article1:
+    id: 164230
+    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
+related_article2:
+    id: 164218
+    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article3:
+    id: 164217
+    title: How did Colberg study moral reasoning, and what were his key findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
+related_article4:
+    id: 164225
+    title: How does Colberg's theory address the rigidity and linearity of moral development stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
+related_article5:
+    id: 164226
+    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
 ---
 
 &nbsp;

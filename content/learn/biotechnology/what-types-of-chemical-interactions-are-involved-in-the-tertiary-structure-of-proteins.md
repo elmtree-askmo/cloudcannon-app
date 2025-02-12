@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins.md
 url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article2:
+    id: 166950
+    title: What are the general functions of proteins in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+related_article3:
+    id: 166961
+    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+related_article4:
+    id: 166956
+    title: What is the role of dehydration synthesis in peptide bond formation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+related_article5:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 ---
 
 &nbsp;

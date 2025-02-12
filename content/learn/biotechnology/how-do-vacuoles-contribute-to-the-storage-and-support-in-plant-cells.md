@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells.md
 url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
 score: -1.0
+related_article1:
+    id: 170320
+    title: What are the main functional differences between photosynthesis and cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
+related_article2:
+    id: 170324
+    title: How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article3:
+    id: 170311
+    title: What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article4:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
+related_article5:
+    id: 170325
+    title: What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 ---
 
 &nbsp;

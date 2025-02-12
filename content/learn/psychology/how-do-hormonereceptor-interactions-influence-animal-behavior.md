@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-hormonereceptor-interactions-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 166390
+    title: What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article2:
+    id: 166388
+    title: How do phylogenetic trees help in understanding evolutionary relationships among species?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+related_article3:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 166386
+    title: Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article5:
+    id: 166379
+    title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
 ---
 
 &nbsp;

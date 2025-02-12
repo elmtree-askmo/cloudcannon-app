@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-ensure-that-figures-remain-congruent.md
 url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
 score: -1.0
+related_article1:
+    id: 162691
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article2:
+    id: 162815
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article3:
+    id: 162638
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article4:
+    id: 162516
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article5:
+    id: 162629
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

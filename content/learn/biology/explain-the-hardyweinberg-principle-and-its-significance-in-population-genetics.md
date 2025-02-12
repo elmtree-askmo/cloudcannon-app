@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics.md
 url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 score: -1.0
+related_article1:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article2:
+    id: 167745
+    title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article3:
+    id: 167746
+    title: What are the sources of genetic variation and why is it crucial for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-is-it-crucial-for-evolution
+related_article4:
+    id: 167743
+    title: What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article5:
+    id: 167741
+    title: What is the concept of descent with modification and how did Darwin contribute to it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
 ---
 
 &nbsp;

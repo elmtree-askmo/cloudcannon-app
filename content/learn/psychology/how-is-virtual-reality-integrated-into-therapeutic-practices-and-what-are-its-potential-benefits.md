@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits.md
 url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
 score: -1.0
+related_article1:
+    id: 164058
+    title: Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
+related_article2:
+    id: 164058
+    title: Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
+related_article3:
+    id: 164064
+    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
+related_article4:
+    id: 164064
+    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
+related_article5:
+    id: 164067
+    title: What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
 ---
 
 &nbsp;

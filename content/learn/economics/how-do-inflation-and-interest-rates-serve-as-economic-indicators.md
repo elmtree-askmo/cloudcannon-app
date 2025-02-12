@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-inflation-and-interest-rates-serve-as-economic-indicators.md
 url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
 score: -1.0
+related_article1:
+    id: 169915
+    title: What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+related_article2:
+    id: 169909
+    title: What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article3:
+    id: 169915
+    title: What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+related_article4:
+    id: 169903
+    title: What are the key aspects of economics that define its study and application?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-aspects-of-economics-that-define-its-study-and-application
+related_article5:
+    id: 169909
+    title: What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
 ---
 
 &nbsp;

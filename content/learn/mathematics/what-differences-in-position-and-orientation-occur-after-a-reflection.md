@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-differences-in-position-and-orientation-occur-after-a-reflection.md
 url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
 score: -1.0
+related_article1:
+    id: 162697
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article2:
+    id: 162621
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162621
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article4:
+    id: 162738
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article5:
+    id: 162808
+    title: How can symmetry be identified in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
 ---
 
 &nbsp;

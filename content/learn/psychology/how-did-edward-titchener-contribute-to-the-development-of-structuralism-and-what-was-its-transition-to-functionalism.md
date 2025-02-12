@@ -21,6 +21,21 @@ subject: Psychology
 file_name: how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism.md
 url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 score: -1.0
+related_article1:
+    id: 167718
+    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article2:
+    id: 167720
+    title: What is the significance of the unconscious mind in Sigmund Freud's psychoanalysis, and how does it influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-unconscious-mind-in-sigmund-freuds-psychoanalysis-and-how-does-it-influence-behavior
+related_article3:
+    id: 167715
+    title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 ---
 
 &nbsp;

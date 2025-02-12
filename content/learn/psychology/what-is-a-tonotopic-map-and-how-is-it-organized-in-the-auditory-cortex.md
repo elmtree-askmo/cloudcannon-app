@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex.md
 url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
 score: -1.0
+related_article1:
+    id: 164250
+    title: Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+related_article2:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article3:
+    id: 164248
+    title: What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
+related_article4:
+    id: 164254
+    title: What are single cell recordings and how are they used to map sensory inputs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+related_article5:
+    id: 164254
+    title: What are single cell recordings and how are they used to map sensory inputs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
 ---
 
 &nbsp;

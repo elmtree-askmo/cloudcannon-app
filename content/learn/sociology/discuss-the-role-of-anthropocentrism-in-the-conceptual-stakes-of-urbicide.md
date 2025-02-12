@@ -21,6 +21,31 @@ subject: Sociology
 file_name: discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide.md
 url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
 score: -1.0
+related_article1:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+related_article2:
+    id: 169203
+    title: How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article3:
+    id: 169214
+    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article4:
+    id: 169207
+    title: Explain the concept of Mitsein and its relevance to community and shared experience.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
+related_article5:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

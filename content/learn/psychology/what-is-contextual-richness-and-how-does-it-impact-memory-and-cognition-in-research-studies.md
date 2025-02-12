@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-contextual-richness-and-how-does-it-impact-memory-and-cognition-in-research-studies.md
 url: /learn/psychology/questions/what-is-contextual-richness-and-how-does-it-impact-memory-and-cognition-in-research-studies
 score: -1.0
+related_article1:
+    id: 165198
+    title: What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
+related_article2:
+    id: 165206
+    title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article3:
+    id: 165198
+    title: What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
+related_article4:
+    id: 165199
+    title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
+related_article5:
+    id: 165205
+    title: Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
 ---
 
 &nbsp;

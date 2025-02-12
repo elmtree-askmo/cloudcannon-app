@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-brain-structures-are-primarily-involved-in-memory-processing.md
 url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
 score: -1.0
+related_article1:
+    id: 164483
+    title: How does skill acquisition relate to implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
+related_article2:
+    id: 164497
+    title: How does synaptic plasticity contribute to memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
+related_article3:
+    id: 164500
+    title: What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+related_article4:
+    id: 164499
+    title: How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+related_article5:
+    id: 164485
+    title: What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 ---
 
 &nbsp;

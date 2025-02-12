@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts.md
 url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
 score: -1.0
+related_article1:
+    id: 163623
+    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article2:
+    id: 163623
+    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article3:
+    id: 163619
+    title: What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
+related_article4:
+    id: 163626
+    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article5:
+    id: 163621
+    title: How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
 ---
 
 &nbsp;

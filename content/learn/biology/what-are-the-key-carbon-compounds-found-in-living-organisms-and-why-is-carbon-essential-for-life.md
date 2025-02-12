@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life.md
 url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
 score: -1.0
+related_article1:
+    id: 170436
+    title: Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article2:
+    id: 170425
+    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article3:
+    id: 170429
+    title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
+related_article4:
+    id: 170425
+    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article5:
+    id: 170430
+    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 ---
 
 &nbsp;

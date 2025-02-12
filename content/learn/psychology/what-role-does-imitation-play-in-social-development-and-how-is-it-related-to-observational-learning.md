@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning.md
 url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
 score: -1.0
+related_article1:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article2:
+    id: 169347
+    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+related_article3:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article4:
+    id: 169356
+    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article5:
+    id: 169355
+    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 ---
 
 &nbsp;

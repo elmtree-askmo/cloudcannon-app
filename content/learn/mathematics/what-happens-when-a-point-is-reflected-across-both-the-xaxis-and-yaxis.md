@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis.md
 url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
 score: -1.0
+related_article1:
+    id: 162809
+    title: What changes occur to the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
+related_article2:
+    id: 162410
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article3:
+    id: 162639
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article4:
+    id: 162409
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article5:
+    id: 162645
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 ---
 
 &nbsp;

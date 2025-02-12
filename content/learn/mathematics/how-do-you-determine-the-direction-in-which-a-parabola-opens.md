@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-direction-in-which-a-parabola-opens.md
 url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
 score: -1.0
+related_article1:
+    id: 163715
+    title: Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article2:
+    id: 163723
+    title: What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+related_article3:
+    id: 163724
+    title: Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article4:
+    id: 163717
+    title: How does the graph of an inverse function relate to the line y = x?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
+related_article5:
+    id: 163711
+    title: What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
 ---
 
 &nbsp;

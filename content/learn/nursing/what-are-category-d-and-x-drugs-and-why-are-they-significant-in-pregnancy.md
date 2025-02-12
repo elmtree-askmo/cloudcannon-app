@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy.md
 url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
 score: -1.0
+related_article1:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article2:
+    id: 166478
+    title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
+related_article3:
+    id: 166479
+    title: What physiological variables must be considered when administering medication to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
+related_article4:
+    id: 166477
+    title: What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article5:
+    id: 166484
+    title: What is the role of nociceptors in pain processing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
 ---
 
 &nbsp;

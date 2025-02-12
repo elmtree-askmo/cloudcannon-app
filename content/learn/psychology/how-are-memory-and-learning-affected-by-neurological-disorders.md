@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-memory-and-learning-affected-by-neurological-disorders.md
 url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
 score: -1.0
+related_article1:
+    id: 164535
+    title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+related_article2:
+    id: 164533
+    title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+related_article3:
+    id: 164529
+    title: What is the relationship between arousal and valence in emotional classification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+related_article4:
+    id: 164538
+    title: How do executive functions like cognitive control and flexibility contribute to effective decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-functions-like-cognitive-control-and-flexibility-contribute-to-effective-decisionmaking
+related_article5:
+    id: 164529
+    title: What is the relationship between arousal and valence in emotional classification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
 ---
 
 &nbsp;

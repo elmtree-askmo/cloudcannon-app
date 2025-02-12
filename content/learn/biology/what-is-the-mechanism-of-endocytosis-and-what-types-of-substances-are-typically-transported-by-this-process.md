@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process.md
 url: /learn/biology/questions/what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process
 score: -1.0
+related_article1:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article2:
+    id: 166947
+    title: What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article3:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
+related_article4:
+    id: 166946
+    title: How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+related_article5:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
 ---
 
 &nbsp;

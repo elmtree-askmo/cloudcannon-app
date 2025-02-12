@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: give-an-example-of-a-correct-application-of-the-inductive-step.md
 url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 score: -1.0
+related_article1:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article2:
+    id: 170757
+    title: Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
+related_article3:
+    id: 170762
+    title: Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article4:
+    id: 170769
+    title: Describe a non-example of induction using the Fibonacci sequence.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+related_article5:
+    id: 170755
+    title: What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 ---
 
 &nbsp;

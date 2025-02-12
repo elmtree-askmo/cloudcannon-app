@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy.md
 url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
 score: -1.0
+related_article1:
+    id: 165249
+    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article2:
+    id: 165253
+    title: How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article3:
+    id: 165249
+    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article4:
+    id: 165248
+    title: How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article5:
+    id: 165249
+    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature.md
 url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
 score: -1.0
+related_article1:
+    id: 167044
+    title: How does the structure of an amino group contribute to its basic nature?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
+related_article2:
+    id: 167049
+    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article3:
+    id: 167052
+    title: What is the role of the amino group in determining the basicity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+related_article4:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article5:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
 ---
 
 &nbsp;

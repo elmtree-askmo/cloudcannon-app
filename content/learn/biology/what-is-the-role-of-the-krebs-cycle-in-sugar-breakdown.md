@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown.md
 url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
 score: -1.0
+related_article1:
+    id: 170929
+    title: Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article2:
+    id: 170937
+    title: Explain the significance of the carbon cycle in ecosystems.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
+related_article3:
+    id: 170934
+    title: Outline the steps involved in glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-steps-involved-in-glycolysis
+related_article4:
+    id: 170928
+    title: Which organisms are capable of respiration?
+    subject: Biology
+    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
+related_article5:
+    id: 170933
+    title: What factors can affect an organism's metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
 ---
 
 &nbsp;

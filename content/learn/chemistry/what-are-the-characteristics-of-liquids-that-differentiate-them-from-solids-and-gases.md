@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
 score: -1.0
+related_article1:
+    id: 162019
+    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article2:
+    id: 162048
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article3:
+    id: 162030
+    title: What is the process of crumbling aluminum foil an example of, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
+related_article4:
+    id: 161762
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article5:
+    id: 161750
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

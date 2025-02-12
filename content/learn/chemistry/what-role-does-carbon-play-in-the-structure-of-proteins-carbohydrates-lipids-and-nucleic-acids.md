@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids.md
 url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167565
+    title: Describe the unique characteristics of carbon that make it essential for macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
+related_article2:
+    id: 167564
+    title: What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article3:
+    id: 167563
+    title: Explain the difference between covalent and ionic bonds.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
+related_article4:
+    id: 167557
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167562
+    title: How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

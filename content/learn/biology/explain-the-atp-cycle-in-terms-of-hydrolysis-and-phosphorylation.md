@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation.md
 url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
 score: -1.0
+related_article1:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article2:
+    id: 170982
+    title: How do oxidation and reduction reactions facilitate electron transfer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+related_article3:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article4:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article5:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 ---
 
 &nbsp;

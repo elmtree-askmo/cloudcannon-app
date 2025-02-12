@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy.md
 url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
 score: -1.0
+related_article1:
+    id: 168756
+    title: Explain the specific adaptations of gill location and operculum function in fish.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-specific-adaptations-of-gill-location-and-operculum-function-in-fish
+related_article2:
+    id: 168766
+    title: How do specialized structures like lungs and skin respiration contribute to respiratory adaptations in aquatic animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
+related_article3:
+    id: 168767
+    title: What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article4:
+    id: 168758
+    title: How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
+related_article5:
+    id: 168761
+    title: What are the essential tools and safety measures required for fish dissection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
 ---
 
 &nbsp;

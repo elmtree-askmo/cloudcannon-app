@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other.md
 url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
 score: -1.0
+related_article1:
+    id: 170395
+    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+related_article2:
+    id: 170420
+    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+related_article3:
+    id: 170397
+    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article4:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article5:
+    id: 170420
+    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
 ---
 
 &nbsp;

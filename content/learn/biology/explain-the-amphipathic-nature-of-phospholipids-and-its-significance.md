@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-amphipathic-nature-of-phospholipids-and-its-significance.md
 url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 score: -1.0
+related_article1:
+    id: 167335
+    title: What is the role of phospholipids in biological membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-biological-membranes
+related_article2:
+    id: 167331
+    title: How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
+related_article3:
+    id: 167329
+    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+related_article4:
+    id: 167325
+    title: How does a dehydration reaction contribute to the formation of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
+related_article5:
+    id: 167330
+    title: What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
 ---
 
 &nbsp;

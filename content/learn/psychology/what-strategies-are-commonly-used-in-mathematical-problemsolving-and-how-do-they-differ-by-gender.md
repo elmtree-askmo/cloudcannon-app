@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender.md
 url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
 score: -1.0
+related_article1:
+    id: 168128
+    title: What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article2:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article3:
+    id: 168135
+    title: How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article4:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article5:
+    id: 168113
+    title: What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies.md
 url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
 score: -1.0
+related_article1:
+    id: 164707
+    title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+related_article2:
+    id: 164703
+    title: What processes are involved in memory retrieval, and how does attention influence these processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
+related_article3:
+    id: 164698
+    title: What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article4:
+    id: 164696
+    title: What are the key mechanisms of selective attention, and why is it important in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
+related_article5:
+    id: 164708
+    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 ---
 
 &nbsp;

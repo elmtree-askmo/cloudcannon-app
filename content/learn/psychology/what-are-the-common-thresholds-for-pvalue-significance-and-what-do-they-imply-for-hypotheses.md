@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses.md
 url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
 score: -1.0
+related_article1:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article2:
+    id: 165088
+    title: What strategies can be used to address sample size limitations in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
+related_article3:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article4:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article5:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 ---
 
 &nbsp;

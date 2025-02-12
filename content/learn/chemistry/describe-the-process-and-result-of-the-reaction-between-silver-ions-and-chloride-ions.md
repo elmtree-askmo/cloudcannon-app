@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions.md
 url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
 score: -1.0
+related_article1:
+    id: 162050
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article2:
+    id: 161965
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article3:
+    id: 161939
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article4:
+    id: 162051
+    title: How does the removal of electrons lead to ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-ionization
+related_article5:
+    id: 162016
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 ---
 
 &nbsp;

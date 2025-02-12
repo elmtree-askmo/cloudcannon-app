@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis.md
 url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 score: -1.0
+related_article1:
+    id: 166660
+    title: What is the process of vector addition, and how is it applied in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
+related_article2:
+    id: 166656
+    title: What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
+related_article3:
+    id: 166669
+    title: What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+    subject: Engineering
+    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+related_article4:
+    id: 166672
+    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+related_article5:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
 ---
 
 &nbsp;

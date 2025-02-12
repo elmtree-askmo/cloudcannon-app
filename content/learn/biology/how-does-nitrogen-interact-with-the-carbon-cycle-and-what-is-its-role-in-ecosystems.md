@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems.md
 url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170384
+    title: How does the decomposition process contribute to nutrient recycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
+related_article2:
+    id: 170389
+    title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article3:
+    id: 170379
+    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article4:
+    id: 170382
+    title: What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
+related_article5:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 ---
 
 &nbsp;

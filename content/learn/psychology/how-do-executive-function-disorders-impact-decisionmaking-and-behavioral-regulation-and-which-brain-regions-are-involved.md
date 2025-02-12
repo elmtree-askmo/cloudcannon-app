@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved.md
 url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
 score: -1.0
+related_article1:
+    id: 164838
+    title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
+related_article2:
+    id: 164851
+    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
+related_article3:
+    id: 164852
+    title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article4:
+    id: 164839
+    title: Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article5:
+    id: 164847
+    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-atomic-number-and-how-is-it-determined-for-an-element.md
 url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 score: -1.0
+related_article1:
+    id: 167059
+    title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
+related_article2:
+    id: 167056
+    title: How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article3:
+    id: 167066
+    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article4:
+    id: 167055
+    title: What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article5:
+    id: 167070
+    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
 ---
 
 &nbsp;

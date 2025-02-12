@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics.md
 url: /learn/psychology/questions/explain-carl-jungs-influence-on-personality-psychology-and-how-it-relates-to-the-understanding-of-infp-characteristics
 score: -1.0
+related_article1:
+    id: 170632
+    title: How do INFPs typically navigate personal and professional relationship dynamics, and what challenges might they face?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-navigate-personal-and-professional-relationship-dynamics-and-what-challenges-might-they-face
+related_article2:
+    id: 170629
+    title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article3:
+    id: 170628
+    title: How does emotional intelligence contribute to effective communication, particularly in handling confrontation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-contribute-to-effective-communication-particularly-in-handling-confrontation
+related_article4:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article5:
+    id: 170621
+    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
 ---
 
 &nbsp;

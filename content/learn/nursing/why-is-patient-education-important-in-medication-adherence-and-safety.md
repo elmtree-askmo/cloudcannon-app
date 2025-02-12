@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-patient-education-important-in-medication-adherence-and-safety.md
 url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
 score: -1.0
+related_article1:
+    id: 166489
+    title: What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
+related_article2:
+    id: 166503
+    title: What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article3:
+    id: 166506
+    title: What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
+related_article4:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article5:
+    id: 166511
+    title: What strategies can be used to manage drug interactions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 ---
 
 &nbsp;

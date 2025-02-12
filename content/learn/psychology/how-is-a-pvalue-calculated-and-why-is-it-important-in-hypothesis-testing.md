@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing.md
 url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
 score: -1.0
+related_article1:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article2:
+    id: 165074
+    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article3:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article4:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article5:
+    id: 165084
+    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 ---
 
 &nbsp;

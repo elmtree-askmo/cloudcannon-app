@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-shape-and-direction-of-a-typical-cube-root-graph.md
 url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
 score: -1.0
+related_article1:
+    id: 163751
+    title: What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+related_article2:
+    id: 163748
+    title: What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+related_article3:
+    id: 163759
+    title: Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article4:
+    id: 163783
+    title: Why are cube root functions considered continuous functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+related_article5:
+    id: 163761
+    title: How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 ---
 
 &nbsp;

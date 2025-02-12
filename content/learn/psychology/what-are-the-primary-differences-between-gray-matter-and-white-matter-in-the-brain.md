@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain.md
 url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
 score: -1.0
+related_article1:
+    id: 170474
+    title: What are the primary functions of the olfactory and optic nerves?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+related_article2:
+    id: 170463
+    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article3:
+    id: 170481
+    title: How do biological mechanisms influence pain tolerance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+related_article4:
+    id: 170484
+    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article5:
+    id: 170479
+    title: What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
 ---
 
 &nbsp;

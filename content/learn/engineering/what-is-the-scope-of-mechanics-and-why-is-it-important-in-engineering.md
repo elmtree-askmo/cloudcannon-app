@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering.md
 url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 score: -1.0
+related_article1:
+    id: 166643
+    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article2:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article3:
+    id: 166649
+    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+related_article4:
+    id: 166639
+    title: What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
+related_article5:
+    id: 166648
+    title: What is a position vector and how is it used to determine force direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 ---
 
 &nbsp;

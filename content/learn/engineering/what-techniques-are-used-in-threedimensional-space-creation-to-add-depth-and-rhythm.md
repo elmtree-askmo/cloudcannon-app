@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm.md
 url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
 score: -1.0
+related_article1:
+    id: 169365
+    title: How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article2:
+    id: 169368
+    title: What are some ways architectural design can reduce tension in public spaces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
+related_article3:
+    id: 169372
+    title: How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
+related_article4:
+    id: 169360
+    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+related_article5:
+    id: 169364
+    title: What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
 ---
 
 &nbsp;

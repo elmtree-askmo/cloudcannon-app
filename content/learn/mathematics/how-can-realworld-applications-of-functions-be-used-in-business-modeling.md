@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-realworld-applications-of-functions-be-used-in-business-modeling.md
 url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 score: -1.0
+related_article1:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article2:
+    id: 163735
+    title: What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article3:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article4:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163727
+    title: How can innovations in business modeling benefit from critical thinking?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-innovations-in-business-modeling-benefit-from-critical-thinking
 ---
 
 &nbsp;

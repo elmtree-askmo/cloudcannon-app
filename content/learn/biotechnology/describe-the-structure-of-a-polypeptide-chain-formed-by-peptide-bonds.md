@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds.md
 url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 score: -1.0
+related_article1:
+    id: 166964
+    title: What are the causes and effects of protein denaturation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
+related_article2:
+    id: 166965
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article3:
+    id: 166951
+    title: How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article4:
+    id: 166954
+    title: What are the characteristics of nonpolar aliphatic R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+related_article5:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 ---
 
 &nbsp;

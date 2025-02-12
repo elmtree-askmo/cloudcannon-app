@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd.md
 url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
 score: -1.0
+related_article1:
+    id: 169345
+    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+related_article2:
+    id: 169356
+    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article3:
+    id: 169336
+    title: What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article4:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article5:
+    id: 169358
+    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 ---
 
 &nbsp;

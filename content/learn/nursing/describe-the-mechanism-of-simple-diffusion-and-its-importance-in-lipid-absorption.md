@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption.md
 url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
 score: -1.0
+related_article1:
+    id: 168815
+    title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+related_article2:
+    id: 168819
+    title: Describe the structure and function of lacteals in the lymphatic system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
+related_article3:
+    id: 168820
+    title: How does the lymphatic system function in lipid transport compared to the circulatory system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
+related_article4:
+    id: 168816
+    title: How do bile salts enhance the solubility of lipids during micelle formation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+related_article5:
+    id: 168816
+    title: How do bile salts enhance the solubility of lipids during micelle formation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
 ---
 
 &nbsp;

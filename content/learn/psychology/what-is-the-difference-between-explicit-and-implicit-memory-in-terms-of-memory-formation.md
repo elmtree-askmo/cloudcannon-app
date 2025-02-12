@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation.md
 url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
 score: -1.0
+related_article1:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article2:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article3:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article4:
+    id: 164738
+    title: What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article5:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 ---
 
 &nbsp;

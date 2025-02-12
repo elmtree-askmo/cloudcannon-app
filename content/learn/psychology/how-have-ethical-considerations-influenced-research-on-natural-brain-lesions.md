@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-have-ethical-considerations-influenced-research-on-natural-brain-lesions.md
 url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 score: -1.0
+related_article1:
+    id: 164668
+    title: What are the advantages of using non-invasive techniques in anatomical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
+related_article2:
+    id: 164662
+    title: How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+related_article3:
+    id: 164669
+    title: How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
+related_article4:
+    id: 164668
+    title: What are the advantages of using non-invasive techniques in anatomical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
+related_article5:
+    id: 164662
+    title: How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
 ---
 
 &nbsp;

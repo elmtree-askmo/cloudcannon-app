@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots.md
 url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
 score: -1.0
+related_article1:
+    id: 168299
+    title: What are the characteristics of prime numbers, and how can they be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
+related_article2:
+    id: 168303
+    title: Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article3:
+    id: 168298
+    title: How do you calculate the degree of a polynomial, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
+related_article4:
+    id: 168301
+    title: How do you simplify algebraic expressions using the distributive property?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-simplify-algebraic-expressions-using-the-distributive-property
+related_article5:
+    id: 168301
+    title: How do you simplify algebraic expressions using the distributive property?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-simplify-algebraic-expressions-using-the-distributive-property
 ---
 
 &nbsp;

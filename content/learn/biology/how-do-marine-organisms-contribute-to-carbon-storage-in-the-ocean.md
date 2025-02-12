@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean.md
 url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
 score: -1.0
+related_article1:
+    id: 170425
+    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article2:
+    id: 170431
+    title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
+related_article3:
+    id: 170438
+    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+related_article4:
+    id: 170426
+    title: How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
+related_article5:
+    id: 170427
+    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-atp-function-as-an-energy-carrier-in-cells.md
 url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
 score: -1.0
+related_article1:
+    id: 169953
+    title: What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article2:
+    id: 169951
+    title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+related_article3:
+    id: 169941
+    title: What role do electrolytes play in chemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
+related_article4:
+    id: 169944
+    title: What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article5:
+    id: 169938
+    title: How does electron configuration influence chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities.md
 url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
 score: -1.0
+related_article1:
+    id: 169457
+    title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
+related_article2:
+    id: 169457
+    title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
+related_article3:
+    id: 169457
+    title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
+related_article4:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article5:
+    id: 169459
+    title: What are the recommended compression and breathing ratios for adult CPR?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions.md
 url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 162043
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article2:
+    id: 161974
+    title: How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article3:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article4:
+    id: 161949
+    title: Describe the chemical change that occurs when hydrogen and oxygen form water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+related_article5:
+    id: 161948
+    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 ---
 
 &nbsp;

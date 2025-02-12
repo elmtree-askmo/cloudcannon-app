@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-approximate-the-area-under-a-curve-using-definite-integrals.md
 url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
 score: -1.0
+related_article1:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article2:
+    id: 168337
+    title: State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+related_article3:
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article4:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article5:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 ---
 
 &nbsp;

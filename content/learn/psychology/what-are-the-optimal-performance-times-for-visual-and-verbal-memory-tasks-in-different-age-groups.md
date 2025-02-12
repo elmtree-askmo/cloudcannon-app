@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups.md
 url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
 score: -1.0
+related_article1:
+    id: 168076
+    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+related_article2:
+    id: 168066
+    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
+related_article3:
+    id: 168073
+    title: What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article4:
+    id: 168072
+    title: How does language acquisition affect the development of personal memories in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+related_article5:
+    id: 168073
+    title: What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
 ---
 
 &nbsp;

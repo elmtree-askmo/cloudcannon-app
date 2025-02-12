@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-does-municipal-governance-play-in-the-governmentalization-of-blight.md
 url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
 score: -1.0
+related_article1:
+    id: 168964
+    title: How does racial capitalism intersect with the concept of blight in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
+related_article2:
+    id: 168973
+    title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article3:
+    id: 168969
+    title: What historical practices contributed to racial segregation in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
+related_article4:
+    id: 168973
+    title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article5:
+    id: 168963
+    title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 ---
 
 &nbsp;

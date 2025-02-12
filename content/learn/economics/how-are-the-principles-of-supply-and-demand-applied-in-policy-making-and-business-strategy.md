@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy.md
 url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
 score: -1.0
+related_article1:
+    id: 169932
+    title: Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+related_article2:
+    id: 169922
+    title: How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+related_article3:
+    id: 169920
+    title: How is opportunity cost calculated, and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
+related_article4:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article5:
+    id: 169930
+    title: How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 ---
 
 &nbsp;

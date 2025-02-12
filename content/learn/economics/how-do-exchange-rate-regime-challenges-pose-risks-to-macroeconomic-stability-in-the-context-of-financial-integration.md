@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-exchange-rate-regime-challenges-pose-risks-to-macroeconomic-stability-in-the-context-of-financial-integration.md
 url: /learn/economics/questions/how-do-exchange-rate-regime-challenges-pose-risks-to-macroeconomic-stability-in-the-context-of-financial-integration
 score: -1.0
+related_article1:
+    id: 159657
+    title: How does financial integration affect the nontradable sector in terms of domestic capital allocation?
+    subject: Economics
+    url: /learn/economics/questions/how-does-financial-integration-affect-the-nontradable-sector-in-terms-of-domestic-capital-allocation
+related_article2:
+    id: 159654
+    title: What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
+related_article3:
+    id: 159654
+    title: What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
+related_article4:
+    id: 159661
+    title: How does foreign bank penetration impact financial sector efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financial-sector-efficiency
+related_article5:
+    id: 159655
+    title: How does the concentration of capital flows impact low-income countries?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concentration-of-capital-flows-impact-lowincome-countries
 ---
 
 &nbsp;

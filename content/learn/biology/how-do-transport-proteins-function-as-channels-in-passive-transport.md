@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-transport-proteins-function-as-channels-in-passive-transport.md
 url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 score: -1.0
+related_article1:
+    id: 167181
+    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+related_article2:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article3:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+related_article4:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+related_article5:
+    id: 167192
+    title: Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism.md
 url: /learn/sociology/questions/what-were-the-main-impacts-of-european-expansion-on-indigenous-populations-during-colonialism
 score: -1.0
+related_article1:
+    id: 163613
+    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article2:
+    id: 163616
+    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+related_article3:
+    id: 163613
+    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article4:
+    id: 163627
+    title: How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
+related_article5:
+    id: 163628
+    title: What role do international organizations play in global cooperation and peacekeeping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
 ---
 
 &nbsp;

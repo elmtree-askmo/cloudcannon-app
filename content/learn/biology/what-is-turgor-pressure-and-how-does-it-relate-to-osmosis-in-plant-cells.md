@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells.md
 url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
 score: -1.0
+related_article1:
+    id: 167364
+    title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article2:
+    id: 167368
+    title: Describe the fluid mosaic model and its significance in understanding membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
+related_article3:
+    id: 167356
+    title: How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
+related_article4:
+    id: 167358
+    title: How does cholesterol influence the properties of the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
+related_article5:
+    id: 167369
+    title: How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 ---
 
 &nbsp;

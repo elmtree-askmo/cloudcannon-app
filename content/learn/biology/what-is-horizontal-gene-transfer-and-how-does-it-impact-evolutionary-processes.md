@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes.md
 url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
 score: -1.0
+related_article1:
+    id: 167727
+    title: Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article2:
+    id: 167740
+    title: How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article3:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article4:
+    id: 167739
+    title: What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article5:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
 ---
 
 &nbsp;

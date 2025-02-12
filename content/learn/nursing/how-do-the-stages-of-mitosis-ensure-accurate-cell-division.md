@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-the-stages-of-mitosis-ensure-accurate-cell-division.md
 url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
 score: -1.0
+related_article1:
+    id: 167862
+    title: What are the stages of spermatogenesis and their outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
+related_article2:
+    id: 167859
+    title: Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article3:
+    id: 167857
+    title: What are the main differences between mitosis and meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
+related_article4:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article5:
+    id: 167854
+    title: How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
 ---
 
 &nbsp;

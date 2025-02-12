@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-id-verification-requirements-for-an-exam.md
 url: /learn/nursing/questions/what-are-the-id-verification-requirements-for-an-exam
 score: -1.0
+related_article1:
+    id: 169715
+    title: What is the role of hydrochloric acid in the stomach?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
+related_article2:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article3:
+    id: 169714
+    title: How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article4:
+    id: 169723
+    title: How is chronic pain defined and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
+related_article5:
+    id: 169716
+    title: How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
 ---
 
 &nbsp;

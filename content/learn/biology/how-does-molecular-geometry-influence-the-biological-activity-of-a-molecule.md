@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule.md
 url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
 score: -1.0
+related_article1:
+    id: 167449
+    title: What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+related_article2:
+    id: 167455
+    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    subject: Biology
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+related_article3:
+    id: 167446
+    title: What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+related_article4:
+    id: 167445
+    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article5:
+    id: 167466
+    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 ---
 
 &nbsp;

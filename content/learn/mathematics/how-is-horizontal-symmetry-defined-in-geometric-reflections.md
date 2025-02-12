@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-horizontal-symmetry-defined-in-geometric-reflections.md
 url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 score: -1.0
+related_article1:
+    id: 162806
+    title: What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article2:
+    id: 162823
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article3:
+    id: 162911
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article4:
+    id: 162905
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article5:
+    id: 162700
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
 ---
 
 &nbsp;

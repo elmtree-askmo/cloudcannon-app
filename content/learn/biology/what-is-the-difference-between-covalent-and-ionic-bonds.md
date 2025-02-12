@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-covalent-and-ionic-bonds.md
 url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 score: -1.0
+related_article1:
+    id: 169950
+    title: How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+related_article2:
+    id: 169944
+    title: What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article3:
+    id: 169943
+    title: How do peptide bonds form between amino acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
+related_article4:
+    id: 169955
+    title: What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+related_article5:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
 ---
 
 &nbsp;

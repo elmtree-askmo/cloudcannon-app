@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking.md
 url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 score: -1.0
+related_article1:
+    id: 168888
+    title: What is the disposition effect and how does it affect investment decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+related_article2:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article3:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article4:
+    id: 168883
+    title: What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 ---
 
 &nbsp;

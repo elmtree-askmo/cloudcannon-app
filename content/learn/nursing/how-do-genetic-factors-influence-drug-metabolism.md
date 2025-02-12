@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-do-genetic-factors-influence-drug-metabolism.md
 url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 score: -1.0
+related_article1:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article2:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article3:
+    id: 166457
+    title: What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article4:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
 ---
 
 &nbsp;

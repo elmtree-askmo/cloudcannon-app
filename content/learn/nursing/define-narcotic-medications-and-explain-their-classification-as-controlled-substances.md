@@ -21,6 +21,31 @@ subject: Nursing
 file_name: define-narcotic-medications-and-explain-their-classification-as-controlled-substances.md
 url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 score: -1.0
+related_article1:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article2:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article3:
+    id: 166449
+    title: How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article4:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article5:
+    id: 166449
+    title: How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 ---
 
 &nbsp;

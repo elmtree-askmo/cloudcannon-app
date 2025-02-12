@@ -21,6 +21,31 @@ subject: Engineering
 file_name: describe-the-main-components-of-a-mechanical-lathe-and-their-functions.md
 url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
 score: -1.0
+related_article1:
+    id: 168701
+    title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
+related_article2:
+    id: 168703
+    title: Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article3:
+    id: 168700
+    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article4:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article5:
+    id: 168703
+    title: Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 ---
 
 &nbsp;

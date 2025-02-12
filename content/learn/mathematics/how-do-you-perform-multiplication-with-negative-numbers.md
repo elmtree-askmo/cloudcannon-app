@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-perform-multiplication-with-negative-numbers.md
 url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
 score: -1.0
+related_article1:
+    id: 162102
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article2:
+    id: 162119
+    title: Explain the role of the 'X' value in equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-x-value-in-equations
+related_article3:
+    id: 162118
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+related_article4:
+    id: 162112
+    title: What is an example of a real-world application of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-realworld-application-of-negative-numbers
+related_article5:
+    id: 162104
+    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
 ---
 
 &nbsp;

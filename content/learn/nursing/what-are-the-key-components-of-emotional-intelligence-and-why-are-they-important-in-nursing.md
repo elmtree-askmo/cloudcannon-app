@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing.md
 url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
 score: -1.0
+related_article1:
+    id: 169544
+    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+related_article2:
+    id: 169552
+    title: How can support systems provide emotional and mental support to nurses in their professional roles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
+related_article3:
+    id: 169544
+    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+related_article4:
+    id: 169547
+    title: Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
+related_article5:
+    id: 169550
+    title: How does emotional regulation impact patient trust and outcomes in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
 ---
 
 &nbsp;

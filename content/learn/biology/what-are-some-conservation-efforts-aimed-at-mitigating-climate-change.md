@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-some-conservation-efforts-aimed-at-mitigating-climate-change.md
 url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
 score: -1.0
+related_article1:
+    id: 170298
+    title: What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article2:
+    id: 170307
+    title: What is the greenhouse effect, and how does it relate to global warming?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+related_article3:
+    id: 170301
+    title: How do producers and consumers contribute to energy flow in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+related_article4:
+    id: 170294
+    title: What are the main carbon spheres involved in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
+related_article5:
+    id: 170306
+    title: How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    subject: Biology
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
 ---
 
 &nbsp;

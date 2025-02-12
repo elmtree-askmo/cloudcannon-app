@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-heterotrophic-bacteria-obtain-their-nutrients.md
 url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
 score: -1.0
+related_article1:
+    id: 168696
+    title: What are the reproductive structures found in Phylum Basidiomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
+related_article2:
+    id: 168689
+    title: How do dinoflagellates contribute to marine ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
+related_article3:
+    id: 168690
+    title: What is the function of pseudopodia in protozoans?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+related_article4:
+    id: 168687
+    title: What role do cyanobacteria play in nitrogen fixation?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
+related_article5:
+    id: 168689
+    title: How do dinoflagellates contribute to marine ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
 ---
 
 &nbsp;

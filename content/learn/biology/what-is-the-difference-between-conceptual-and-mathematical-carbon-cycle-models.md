@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models.md
 url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 score: -1.0
+related_article1:
+    id: 170304
+    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article2:
+    id: 170308
+    title: What are some conservation efforts aimed at mitigating climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+related_article3:
+    id: 170298
+    title: What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article4:
+    id: 170301
+    title: How do producers and consumers contribute to energy flow in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+related_article5:
+    id: 170297
+    title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 ---
 
 &nbsp;

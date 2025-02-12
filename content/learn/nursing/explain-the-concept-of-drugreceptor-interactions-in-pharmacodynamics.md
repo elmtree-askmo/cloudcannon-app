@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics.md
 url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
 score: -1.0
+related_article1:
+    id: 166501
+    title: What role does the FDA play in ensuring drug safety and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+related_article2:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article3:
+    id: 166505
+    title: How do different drug formulations impact drug absorption and bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+related_article4:
+    id: 166507
+    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article5:
+    id: 166489
+    title: What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins.md
 url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article2:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article3:
+    id: 167240
+    title: How does the variability of R-groups affect protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
+related_article4:
+    id: 167233
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article5:
+    id: 167244
+    title: What are the effects of protein denaturation on function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
 ---
 
 &nbsp;

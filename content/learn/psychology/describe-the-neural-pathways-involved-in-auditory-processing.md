@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-neural-pathways-involved-in-auditory-processing.md
 url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
 score: -1.0
+related_article1:
+    id: 164402
+    title: Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article2:
+    id: 164382
+    title: Explain the specialization of brain hemispheres in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
+related_article3:
+    id: 164384
+    title: How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article4:
+    id: 164396
+    title: How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+related_article5:
+    id: 164403
+    title: How are Freud's theories relevant to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 ---
 
 &nbsp;

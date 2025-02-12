@@ -21,6 +21,31 @@ subject: Psychology
 file_name: where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition.md
 url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 score: -1.0
+related_article1:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article2:
+    id: 164979
+    title: How does the right hemisphere contribute to the causes of deep dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+related_article3:
+    id: 164968
+    title: What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
+related_article4:
+    id: 164970
+    title: Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article5:
+    id: 164961
+    title: What is the direct route to reading, and how does it relate to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
 ---
 
 &nbsp;

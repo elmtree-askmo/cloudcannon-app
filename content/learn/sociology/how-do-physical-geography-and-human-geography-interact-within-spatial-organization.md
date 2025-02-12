@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-physical-geography-and-human-geography-interact-within-spatial-organization.md
 url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-interact-within-spatial-organization
 score: -1.0
+related_article1:
+    id: 160227
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article2:
+    id: 160230
+    title: How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+related_article3:
+    id: 160556
+    title: Describe the methodologies used in qualitative and quantitative research for developing research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-developing-research-skills
+related_article4:
+    id: 160094
+    title: How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
+related_article5:
+    id: 160549
+    title: How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

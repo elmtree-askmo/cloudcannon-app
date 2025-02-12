@@ -21,6 +21,26 @@ subject: Sociology
 file_name: describe-the-purpose-of-training-villages-in-simulated-urban-environments.md
 url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
 score: -1.0
+related_article1:
+    id: 162944
+    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
+related_article2:
+    id: 162944
+    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
+related_article3:
+    id: 162939
+    title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
+related_article4:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 ---
 
 &nbsp;

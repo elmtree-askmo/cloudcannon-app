@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness.md
 url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 score: -1.0
+related_article1:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article2:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article3:
+    id: 170590
+    title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article4:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article5:
+    id: 170584
+    title: How does the olfactory bulb process sensory input related to smell?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
 ---
 
 &nbsp;

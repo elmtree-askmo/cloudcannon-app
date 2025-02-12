@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes.md
 url: /learn/biology/questions/what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes
 score: -1.0
+related_article1:
+    id: 167329
+    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+related_article2:
+    id: 167327
+    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article3:
+    id: 167332
+    title: Compare the structural differences between DNA and RNA.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
+related_article4:
+    id: 167328
+    title: What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
+related_article5:
+    id: 167336
+    title: Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 ---
 
 &nbsp;

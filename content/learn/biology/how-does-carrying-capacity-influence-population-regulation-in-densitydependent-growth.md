@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth.md
 url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
 score: -1.0
+related_article1:
+    id: 166151
+    title: What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
+related_article2:
+    id: 166143
+    title: What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article3:
+    id: 166136
+    title: How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article4:
+    id: 166142
+    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article5:
+    id: 166145
+    title: What role do oncogenes and tumor suppressors play in cancer progression?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-variables-and-constants-in-algebra-and-how-do-they-differ.md
 url: /learn/mathematics/questions/what-are-variables-and-constants-in-algebra-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 162121
+    title: How are negative numbers represented, and what is their historical context?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-negative-numbers-represented-and-what-is-their-historical-context
+related_article2:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
+related_article3:
+    id: 162108
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+related_article4:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
+related_article5:
+    id: 162118
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
 ---
 
 &nbsp;

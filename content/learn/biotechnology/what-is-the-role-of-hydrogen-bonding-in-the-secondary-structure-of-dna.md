@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna.md
 url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 score: -1.0
+related_article1:
+    id: 167637
+    title: Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article2:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article3:
+    id: 167638
+    title: What role does the hydroxyl group play in RNA structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
+related_article4:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
 ---
 
 &nbsp;

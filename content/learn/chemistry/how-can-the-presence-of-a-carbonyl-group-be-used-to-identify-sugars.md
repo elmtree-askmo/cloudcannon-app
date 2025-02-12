@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars.md
 url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
 score: -1.0
+related_article1:
+    id: 167034
+    title: What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
+related_article2:
+    id: 167046
+    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+related_article3:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article4:
+    id: 167039
+    title: What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article5:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

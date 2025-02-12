@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-a-payoff-matrix-in-determining-optimal-strategies-in-game-theory.md
 url: /learn/psychology/questions/what-is-the-role-of-a-payoff-matrix-in-determining-optimal-strategies-in-game-theory
 score: -1.0
+related_article1:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article2:
+    id: 170836
+    title: What are competitive interactions, and how do they relate to rational choice theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
+related_article3:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article4:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article5:
+    id: 170839
+    title: What is the significance of interactions in populations within dynamic systems in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory
 ---
 
 &nbsp;

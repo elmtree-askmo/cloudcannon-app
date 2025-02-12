@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-have-historical-events-influenced-current-political-systems-and-party-dynamics.md
 url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
 score: -1.0
+related_article1:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article2:
+    id: 165634
+    title: How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article3:
+    id: 165621
+    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
+related_article4:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article5:
+    id: 165624
+    title: Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 ---
 
 &nbsp;

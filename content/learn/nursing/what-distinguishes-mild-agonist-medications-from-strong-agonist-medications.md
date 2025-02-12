@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-distinguishes-mild-agonist-medications-from-strong-agonist-medications.md
 url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
 score: -1.0
+related_article1:
+    id: 166444
+    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
+related_article2:
+    id: 166450
+    title: What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+related_article3:
+    id: 166448
+    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+related_article4:
+    id: 166443
+    title: What is the mechanism of action for common anti-inflammatory drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
+related_article5:
+    id: 166442
+    title: Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
 ---
 
 &nbsp;

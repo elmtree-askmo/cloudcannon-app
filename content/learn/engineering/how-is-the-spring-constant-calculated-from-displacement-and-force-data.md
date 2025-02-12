@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-is-the-spring-constant-calculated-from-displacement-and-force-data.md
 url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
 score: -1.0
+related_article1:
+    id: 166676
+    title: How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+related_article2:
+    id: 166675
+    title: What is the magnitude of a force vector and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+related_article3:
+    id: 166679
+    title: What are the conditions necessary for static equilibrium?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+related_article4:
+    id: 166685
+    title: What is the difference between kinematics and dynamics in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+related_article5:
+    id: 166678
+    title: How are force components resolved in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs.md
 url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
 score: -1.0
+related_article1:
+    id: 170521
+    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article2:
+    id: 170516
+    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article3:
+    id: 170506
+    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article4:
+    id: 170501
+    title: What are the main components of the central nervous system and their primary functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+related_article5:
+    id: 170518
+    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
 ---
 
 &nbsp;

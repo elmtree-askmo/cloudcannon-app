@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for.md
 url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
 score: -1.0
+related_article1:
+    id: 163185
+    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
+related_article2:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article3:
+    id: 163177
+    title: How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article4:
+    id: 163183
+    title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article5:
+    id: 163181
+    title: What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
 ---
 
 &nbsp;

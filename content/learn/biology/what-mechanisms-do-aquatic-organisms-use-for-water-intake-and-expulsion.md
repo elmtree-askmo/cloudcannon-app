@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion.md
 url: /learn/biology/questions/what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion
 score: -1.0
+related_article1:
+    id: 168767
+    title: What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article2:
+    id: 168759
+    title: What factors influence the oxygen requirements of fish, particularly in relation to metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
+related_article3:
+    id: 168756
+    title: Explain the specific adaptations of gill location and operculum function in fish.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-specific-adaptations-of-gill-location-and-operculum-function-in-fish
+related_article4:
+    id: 168767
+    title: What behavioral adaptations do aquatic animals exhibit to enhance respiration, such as continuous swimming?
+    subject: Biology
+    url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
+related_article5:
+    id: 168760
+    title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
 ---
 
 &nbsp;

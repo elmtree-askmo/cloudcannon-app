@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-facial-expressions-play-in-communication.md
 url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
 score: -1.0
+related_article1:
+    id: 164400
+    title: How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article2:
+    id: 164391
+    title: How does cognitive psychology contribute to our understanding of speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+related_article3:
+    id: 164397
+    title: What role does the right hemisphere play in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+related_article4:
+    id: 164385
+    title: Differentiate between syntax and grammar in the context of language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+related_article5:
+    id: 164402
+    title: Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 ---
 
 &nbsp;

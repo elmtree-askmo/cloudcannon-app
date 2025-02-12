@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play.md
 url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
 score: -1.0
+related_article1:
+    id: 170400
+    title: What are some mitigation efforts to reduce greenhouse gas emissions, and how does renewable energy play a role?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-mitigation-efforts-to-reduce-greenhouse-gas-emissions-and-how-does-renewable-energy-play-a-role
+related_article2:
+    id: 170414
+    title: What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
+related_article3:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article4:
+    id: 170410
+    title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
+related_article5:
+    id: 170408
+    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 ---
 
 &nbsp;

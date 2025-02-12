@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-challenges-in-defining-normalcy-in-psychology.md
 url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
 score: -1.0
+related_article1:
+    id: 167711
+    title: What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
+related_article2:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article3:
+    id: 167704
+    title: What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article4:
+    id: 167696
+    title: What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article5:
+    id: 167698
+    title: What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
 ---
 
 &nbsp;

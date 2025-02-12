@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-synergistic-effects-influence-drug-efficacy.md
 url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
 score: -1.0
+related_article1:
+    id: 166470
+    title: What is the role of prophylactic treatment in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
+related_article2:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article3:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article4:
+    id: 166464
+    title: What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article5:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
 ---
 
 &nbsp;

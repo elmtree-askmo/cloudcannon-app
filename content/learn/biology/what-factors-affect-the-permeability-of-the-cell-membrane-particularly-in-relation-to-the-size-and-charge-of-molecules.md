@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules.md
 url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
 score: -1.0
+related_article1:
+    id: 168934
+    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article2:
+    id: 168937
+    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article3:
+    id: 168940
+    title: Define electrochemical gradient and explain its components.
+    subject: Biology
+    url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article4:
+    id: 168937
+    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article5:
+    id: 168939
+    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

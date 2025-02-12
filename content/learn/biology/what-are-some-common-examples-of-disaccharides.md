@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-some-common-examples-of-disaccharides.md
 url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 score: -1.0
+related_article1:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article2:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article3:
+    id: 167019
+    title: How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article4:
+    id: 167017
+    title: What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
+related_article5:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
 ---
 
 &nbsp;

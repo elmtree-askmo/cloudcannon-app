@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-solving-quadratic-equations-help-in-understanding-related-functions.md
 url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
 score: -1.0
+related_article1:
+    id: 163797
+    title: Why is understanding the domain and range of a function important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-of-a-function-important
+related_article2:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+related_article3:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article4:
+    id: 163797
+    title: Why is understanding the domain and range of a function important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-of-a-function-important
+related_article5:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

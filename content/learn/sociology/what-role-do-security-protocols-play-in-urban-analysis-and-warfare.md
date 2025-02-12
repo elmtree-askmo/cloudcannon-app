@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-do-security-protocols-play-in-urban-analysis-and-warfare.md
 url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
 score: -1.0
+related_article1:
+    id: 162946
+    title: What are urban canyons, and how do they affect military operations in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
+related_article2:
+    id: 162941
+    title: What challenges do asymmetrical threat environments pose to urban development patterns?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
+related_article3:
+    id: 162954
+    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article4:
+    id: 162953
+    title: How do informal settlements challenge the global military security apparatus?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+related_article5:
+    id: 162951
+    title: What is the role of the securocratic state in managing urban security?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 ---
 
 &nbsp;

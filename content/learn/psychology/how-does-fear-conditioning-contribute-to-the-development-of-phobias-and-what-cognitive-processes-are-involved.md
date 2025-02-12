@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved.md
 url: /learn/psychology/questions/how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved
 score: -1.0
+related_article1:
+    id: 164777
+    title: How do social anxiety and anxiety disorders relate to emotional dysregulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
+related_article2:
+    id: 164773
+    title: How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways
+related_article3:
+    id: 164777
+    title: How do social anxiety and anxiety disorders relate to emotional dysregulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
+related_article4:
+    id: 164775
+    title: How do arousal and memory interact in the context of stress response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
+related_article5:
+    id: 164773
+    title: How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways
 ---
 
 &nbsp;

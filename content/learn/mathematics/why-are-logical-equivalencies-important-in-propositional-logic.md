@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-are-logical-equivalencies-important-in-propositional-logic.md
 url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 score: -1.0
+related_article1:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+related_article2:
+    id: 170249
+    title: Define bi-implication and explain its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
+related_article3:
+    id: 170243
+    title: What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article4:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article5:
+    id: 170244
+    title: Define negation and provide its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-rules-of-inference-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170219
+    title: How can truth tables be used to determine the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
+related_article2:
+    id: 170228
+    title: Describe the addition rule in inference and its application in logical arguments.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article3:
+    id: 170225
+    title: What is the conjunction rule in inference, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
+related_article4:
+    id: 170233
+    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article5:
+    id: 170218
+    title: What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
 ---
 
 &nbsp;

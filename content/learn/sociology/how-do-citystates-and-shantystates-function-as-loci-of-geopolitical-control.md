@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control.md
 url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 score: -1.0
+related_article1:
+    id: 162953
+    title: How do informal settlements challenge the global military security apparatus?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+related_article2:
+    id: 162954
+    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article3:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article4:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article5:
+    id: 162947
+    title: Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
 ---
 
 &nbsp;

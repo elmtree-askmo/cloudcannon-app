@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-steps-involved-in-the-shaping-process.md
 url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
 score: -1.0
+related_article1:
+    id: 169329
+    title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
+related_article2:
+    id: 169317
+    title: How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+related_article3:
+    id: 169323
+    title: What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article4:
+    id: 169315
+    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+related_article5:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
 ---
 
 &nbsp;

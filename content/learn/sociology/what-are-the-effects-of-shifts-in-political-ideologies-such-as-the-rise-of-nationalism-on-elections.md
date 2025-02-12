@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections.md
 url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
 score: -1.0
+related_article1:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article2:
+    id: 168354
+    title: What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article3:
+    id: 168365
+    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+related_article4:
+    id: 168363
+    title: What role do renewable energy and environmental policies play in promoting sustainable practices?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-renewable-energy-and-environmental-policies-play-in-promoting-sustainable-practices
+related_article5:
+    id: 168356
+    title: In what ways do tariffs influence the cost of goods and consumer prices?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 ---
 
 &nbsp;

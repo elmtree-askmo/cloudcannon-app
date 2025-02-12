@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: state-the-fundamental-theorem-of-calculus-and-explain-its-significance.md
 url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 score: -1.0
+related_article1:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article2:
+    id: 168341
+    title: How are linear approximations used in calculus problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
+related_article3:
+    id: 168341
+    title: How are linear approximations used in calculus problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
+related_article4:
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+related_article5:
+    id: 168330
+    title: Describe the geometric interpretation of a derivative.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 ---
 
 &nbsp;

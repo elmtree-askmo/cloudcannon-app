@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention.md
 url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
 score: -1.0
+related_article1:
+    id: 165015
+    title: What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article2:
+    id: 165019
+    title: What are the principles of experimental design that ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
+related_article3:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article4:
+    id: 165023
+    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+related_article5:
+    id: 165022
+    title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
 ---
 
 &nbsp;

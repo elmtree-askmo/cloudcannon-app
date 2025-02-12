@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-anatomy-of-gills-and-their-role-in-fish-respiration.md
 url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
 score: -1.0
+related_article1:
+    id: 168752
+    title: How does the water flow mechanism contribute to oxygen extraction in aquatic environments?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
+related_article2:
+    id: 168764
+    title: How does the operculum interact with gills to regulate water flow and maintain pressure?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure
+related_article3:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168766
+    title: How do specialized structures like lungs and skin respiration contribute to respiratory adaptations in aquatic animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
+related_article5:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
 ---
 
 &nbsp;

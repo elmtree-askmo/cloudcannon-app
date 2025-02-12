@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-mirror-image-in-the-context-of-reflection.md
 url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 score: -1.0
+related_article1:
+    id: 162495
+    title: How does translation affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+related_article2:
+    id: 162493
+    title: How does the line of reflection affect the position of a reflected figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
+related_article3:
+    id: 162252
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article4:
+    id: 162250
+    title: What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article5:
+    id: 162491
+    title: What is the process for selecting a point and extending a line during a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation
 ---
 
 &nbsp;

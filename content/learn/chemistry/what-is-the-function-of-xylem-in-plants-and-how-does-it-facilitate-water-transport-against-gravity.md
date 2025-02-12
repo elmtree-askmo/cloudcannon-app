@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity.md
 url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
 score: -1.0
+related_article1:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+related_article2:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article3:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article4:
+    id: 167423
+    title: What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+related_article5:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 ---
 
 &nbsp;

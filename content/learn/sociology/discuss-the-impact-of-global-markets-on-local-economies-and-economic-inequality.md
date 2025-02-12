@@ -21,6 +21,31 @@ subject: Sociology
 file_name: discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality.md
 url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
 score: -1.0
+related_article1:
+    id: 160510
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article2:
+    id: 160076
+    title: What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article3:
+    id: 160089
+    title: In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article4:
+    id: 160221
+    title: Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
+related_article5:
+    id: 160228
+    title: Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 ---
 
 &nbsp;

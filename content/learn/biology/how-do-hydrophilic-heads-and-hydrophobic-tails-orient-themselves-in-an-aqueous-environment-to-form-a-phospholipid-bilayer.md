@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer.md
 url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
 score: -1.0
+related_article1:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article2:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article3:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article4:
+    id: 168908
+    title: What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-phospholipid-and-how-do-they-contribute-to-the-structure-of-the-plasma-membrane
+related_article5:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 ---
 
 &nbsp;

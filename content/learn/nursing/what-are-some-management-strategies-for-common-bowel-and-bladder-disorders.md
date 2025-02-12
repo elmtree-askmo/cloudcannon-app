@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-management-strategies-for-common-bowel-and-bladder-disorders.md
 url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
 score: -1.0
+related_article1:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article2:
+    id: 169763
+    title: What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article3:
+    id: 169762
+    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article4:
+    id: 169753
+    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article5:
+    id: 169755
+    title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 ---
 
 &nbsp;

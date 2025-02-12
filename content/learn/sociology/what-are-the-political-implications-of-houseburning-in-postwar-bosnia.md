@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-political-implications-of-houseburning-in-postwar-bosnia.md
 url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
 score: -1.0
+related_article1:
+    id: 169202
+    title: What are the historical origins and development of the concept of urbicide?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
+related_article2:
+    id: 169204
+    title: Define urbicide and explain its relationship with genocide.
+    subject: Sociology
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
+related_article3:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article4:
+    id: 169203
+    title: How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article5:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

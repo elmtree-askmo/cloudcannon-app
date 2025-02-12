@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
 score: -1.0
+related_article1:
+    id: 165327
+    title: What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article2:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article3:
+    id: 165324
+    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article4:
+    id: 165324
+    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article5:
+    id: 165324
+    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
 ---
 
 &nbsp;

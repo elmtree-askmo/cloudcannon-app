@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-ribosomal-subunits-aid-in-molecular-classification.md
 url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
 score: -1.0
+related_article1:
+    id: 165824
+    title: Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+related_article2:
+    id: 165808
+    title: Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article3:
+    id: 165820
+    title: How do abiotic factors influence the occurrence of diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+related_article4:
+    id: 165807
+    title: Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 ---
 
 &nbsp;

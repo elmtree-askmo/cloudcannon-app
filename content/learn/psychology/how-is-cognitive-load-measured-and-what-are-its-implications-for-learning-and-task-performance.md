@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance.md
 url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
 score: -1.0
+related_article1:
+    id: 164915
+    title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article2:
+    id: 164905
+    title: How does metacognition contribute to effective learning strategies and problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+related_article3:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article4:
+    id: 164912
+    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
 ---
 
 &nbsp;

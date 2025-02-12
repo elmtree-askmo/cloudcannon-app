@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-liquid-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
 score: -1.0
+related_article1:
+    id: 161929
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article2:
+    id: 161982
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article3:
+    id: 161944
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article4:
+    id: 161974
+    title: How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article5:
+    id: 161943
+    title: How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-meant-by-rigid-motion-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162751
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article2:
+    id: 162386
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162748
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article4:
+    id: 162689
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article5:
+    id: 162892
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 ---
 
 &nbsp;

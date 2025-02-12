@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-affect-memory-formation-and-attention.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
 score: -1.0
+related_article1:
+    id: 164766
+    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+related_article2:
+    id: 164757
+    title: How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article3:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article4:
+    id: 164760
+    title: What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article5:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 ---
 
 &nbsp;

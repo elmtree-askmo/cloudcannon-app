@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution.md
 url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
 score: -1.0
+related_article1:
+    id: 167577
+    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
+related_article2:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article3:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article4:
+    id: 167577
+    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
+related_article5:
+    id: 167577
+    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality.md
 url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 score: -1.0
+related_article1:
+    id: 164425
+    title: How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article2:
+    id: 164426
+    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+related_article3:
+    id: 164421
+    title: How do cultural differences impact mental health diagnosis and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+related_article4:
+    id: 164423
+    title: How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+related_article5:
+    id: 164420
+    title: What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 ---
 
 &nbsp;

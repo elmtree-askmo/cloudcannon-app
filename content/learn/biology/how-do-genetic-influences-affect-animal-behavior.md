@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-genetic-influences-affect-animal-behavior.md
 url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
 score: -1.0
+related_article1:
+    id: 166354
+    title: How do ultimate and proximate questions differ in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
+related_article2:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166353
+    title: What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 166363
+    title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
+related_article5:
+    id: 166365
+    title: What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 ---
 
 &nbsp;

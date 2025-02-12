@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways.md
 url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
 score: -1.0
+related_article1:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article2:
+    id: 170539
+    title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+related_article3:
+    id: 170532
+    title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
+related_article4:
+    id: 170529
+    title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article5:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms.md
 url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
 score: -1.0
+related_article1:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+related_article2:
+    id: 169458
+    title: How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-dnar-order
+related_article3:
+    id: 169457
+    title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
+related_article4:
+    id: 169455
+    title: What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
+related_article5:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
 ---
 
 &nbsp;

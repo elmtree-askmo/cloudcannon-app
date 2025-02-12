@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation.md
 url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
 score: -1.0
+related_article1:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article2:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article3:
+    id: 162596
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162244
+    title: How does translation affect the position of a figure without altering its size or shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
+related_article5:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
 ---
 
 &nbsp;

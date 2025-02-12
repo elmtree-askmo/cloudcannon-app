@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-evidencebased-practice-in-therapy.md
 url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 score: -1.0
+related_article1:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article2:
+    id: 163041
+    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article3:
+    id: 163028
+    title: What characteristics make a theory effective in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
+related_article4:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article5:
+    id: 163040
+    title: How does the integration of therapeutic approaches enhance treatment effectiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
 ---
 
 &nbsp;

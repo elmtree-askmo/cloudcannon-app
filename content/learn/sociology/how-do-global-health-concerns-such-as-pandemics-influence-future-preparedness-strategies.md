@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies.md
 url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
 score: -1.0
+related_article1:
+    id: 168354
+    title: What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article2:
+    id: 168356
+    title: In what ways do tariffs influence the cost of goods and consumer prices?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
+related_article3:
+    id: 168371
+    title: What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+related_article4:
+    id: 168353
+    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article5:
+    id: 168367
+    title: What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 ---
 
 &nbsp;

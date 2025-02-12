@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-mathematical-models-represent-hostparasite-interactions.md
 url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
 score: -1.0
+related_article1:
+    id: 166126
+    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+related_article2:
+    id: 166121
+    title: How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+related_article3:
+    id: 166134
+    title: What challenges are associated with modeling habitat complexity in ecological models?
+    subject: Biology
+    url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
+related_article4:
+    id: 166130
+    title: How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article5:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
 ---
 
 &nbsp;

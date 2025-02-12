@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: explain-the-importance-of-the-sugar-carbon-numbering-system-in-nucleotide-structure.md
 url: /learn/biotechnology/questions/explain-the-importance-of-the-sugar-carbon-numbering-system-in-nucleotide-structure
 score: -1.0
+related_article1:
+    id: 166830
+    title: How are phosphodiester linkages formed between nucleotides?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
+related_article2:
+    id: 166835
+    title: What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article3:
+    id: 166831
+    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
+related_article4:
+    id: 166829
+    title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+related_article5:
+    id: 166824
+    title: What are the main chemical components of DNA and where is it located in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
 ---
 
 &nbsp;

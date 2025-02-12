@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control.md
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
 score: -1.0
+related_article1:
+    id: 164706
+    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+related_article2:
+    id: 164707
+    title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+related_article3:
+    id: 164709
+    title: What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
+related_article4:
+    id: 164706
+    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+related_article5:
+    id: 164706
+    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 ---
 
 &nbsp;

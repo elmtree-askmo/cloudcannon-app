@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-introverts-and-extroverts-differ-in-their-characteristics.md
 url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 score: -1.0
+related_article1:
+    id: 168433
+    title: What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
+related_article2:
+    id: 168451
+    title: What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article3:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article4:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article5:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 ---
 
 &nbsp;

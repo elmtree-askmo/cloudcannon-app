@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-sustainable-materials-and-practices-are-commonly-used-in-sustainable-architecture-to-enhance-energy-efficiency.md
 url: /learn/engineering/questions/what-sustainable-materials-and-practices-are-commonly-used-in-sustainable-architecture-to-enhance-energy-efficiency
 score: -1.0
+related_article1:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article2:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article3:
+    id: 169418
+    title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
+related_article4:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article5:
+    id: 169426
+    title: What are the key considerations in spatial design for ensuring effective flow and movement within a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
 ---
 
 &nbsp;

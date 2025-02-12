@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-difference-between-atomic-and-compound-propositions.md
 url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
 score: -1.0
+related_article1:
+    id: 170249
+    title: Define bi-implication and explain its truth table.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
+related_article2:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article3:
+    id: 170241
+    title: Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+related_article4:
+    id: 170257
+    title: What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+related_article5:
+    id: 170251
+    title: What is a tautology, and how can it be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 ---
 
 &nbsp;

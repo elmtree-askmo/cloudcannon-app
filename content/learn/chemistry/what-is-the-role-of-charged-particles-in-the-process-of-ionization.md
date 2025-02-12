@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-charged-particles-in-the-process-of-ionization.md
 url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 score: -1.0
+related_article1:
+    id: 162033
+    title: What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article2:
+    id: 162030
+    title: What is the process of crumbling aluminum foil an example of, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
+related_article3:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article4:
+    id: 162022
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article5:
+    id: 161988
+    title: How can the formation of a solid in a precipitation reaction be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 ---
 
 &nbsp;

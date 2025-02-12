@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions.md
 url: /learn/psychology/questions/how-can-empathy-lead-to-destructive-outcomes-such-as-impaired-emotional-regulation-and-a-bias-towards-utilitarian-decisions
 score: -1.0
+related_article1:
+    id: 164023
+    title: What is the role of testosterone in emotion regulation, and how does it interact with cortisol and serotonin?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-testosterone-in-emotion-regulation-and-how-does-it-interact-with-cortisol-and-serotonin
+related_article2:
+    id: 164012
+    title: What are the characteristics of empathy that make it myopic, selective, and fleeting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-empathy-that-make-it-myopic-selective-and-fleeting
+related_article3:
+    id: 164014
+    title: What role do testosterone reactivity and cortisol interaction play in the neuroendocrinology of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
+related_article4:
+    id: 164019
+    title: How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses
 ---
 
 &nbsp;

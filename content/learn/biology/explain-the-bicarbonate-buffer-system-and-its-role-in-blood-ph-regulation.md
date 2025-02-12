@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation.md
 url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
 score: -1.0
+related_article1:
+    id: 167572
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article2:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article3:
+    id: 167580
+    title: How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article4:
+    id: 167581
+    title: What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+related_article5:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
 ---
 
 &nbsp;

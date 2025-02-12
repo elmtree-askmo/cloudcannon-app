@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-graphical-representation-of-a-reflection-about-the-xaxis.md
 url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 score: -1.0
+related_article1:
+    id: 168413
+    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+related_article2:
+    id: 168407
+    title: How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article3:
+    id: 168408
+    title: What is the difference between the outputs of an original function and its transformed version?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article4:
+    id: 168400
+    title: How can you identify opposite outputs in a table comparison for reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
+related_article5:
+    id: 168413
+    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-descriptive-statistics-in-data-interpretation.md
 url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
 score: -1.0
+related_article1:
+    id: 165069
+    title: How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article2:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article3:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article4:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article5:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 ---
 
 &nbsp;

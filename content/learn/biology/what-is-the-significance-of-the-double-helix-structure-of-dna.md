@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-double-helix-structure-of-dna.md
 url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 score: -1.0
+related_article1:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article2:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article3:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article4:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article5:
+    id: 167826
+    title: How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
 ---
 
 &nbsp;

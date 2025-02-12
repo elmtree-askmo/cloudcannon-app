@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers.md
 url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
 score: -1.0
+related_article1:
+    id: 167499
+    title: How do monosaccharides differ in their linear and circular forms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
+related_article2:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article3:
+    id: 167502
+    title: What structural role does cellulose play in plant cell walls?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
+related_article4:
+    id: 167500
+    title: What is the primary function of starch in plants?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+related_article5:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 ---
 
 &nbsp;

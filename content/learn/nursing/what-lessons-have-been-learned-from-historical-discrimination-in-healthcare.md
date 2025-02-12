@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-lessons-have-been-learned-from-historical-discrimination-in-healthcare.md
 url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
 score: -1.0
+related_article1:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article2:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article3:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article4:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
 ---
 
 &nbsp;

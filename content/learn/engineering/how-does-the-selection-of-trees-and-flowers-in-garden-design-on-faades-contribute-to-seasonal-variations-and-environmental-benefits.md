@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits.md
 url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
 score: -1.0
+related_article1:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article2:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article3:
+    id: 169421
+    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
+related_article4:
+    id: 169418
+    title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
+related_article5:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
 ---
 
 &nbsp;

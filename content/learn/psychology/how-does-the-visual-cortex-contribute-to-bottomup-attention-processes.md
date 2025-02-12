@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-visual-cortex-contribute-to-bottomup-attention-processes.md
 url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 score: -1.0
+related_article1:
+    id: 164756
+    title: What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article2:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article3:
+    id: 164765
+    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+related_article4:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article5:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
 ---
 
 &nbsp;

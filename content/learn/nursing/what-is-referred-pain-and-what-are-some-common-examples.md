@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-referred-pain-and-what-are-some-common-examples.md
 url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
 score: -1.0
+related_article1:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article2:
+    id: 169715
+    title: What is the role of hydrochloric acid in the stomach?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
+related_article3:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article4:
+    id: 169710
+    title: How do dendrites and axons function in nerve cells?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
+related_article5:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 ---
 
 &nbsp;

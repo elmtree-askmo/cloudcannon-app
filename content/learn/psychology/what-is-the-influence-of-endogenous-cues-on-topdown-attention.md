@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-influence-of-endogenous-cues-on-topdown-attention.md
 url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
 score: -1.0
+related_article1:
+    id: 164751
+    title: What role does salience play in maintaining vigilance and alertness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
+related_article2:
+    id: 164757
+    title: How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article3:
+    id: 164748
+    title: What is the impact of cognitive load on divided attention and multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
+related_article4:
+    id: 164768
+    title: How does salience detection contribute to attention allocation in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
+related_article5:
+    id: 164755
+    title: How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 ---
 
 &nbsp;

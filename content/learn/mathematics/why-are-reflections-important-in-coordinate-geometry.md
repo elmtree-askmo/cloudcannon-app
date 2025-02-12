@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-are-reflections-important-in-coordinate-geometry.md
 url: /learn/mathematics/questions/why-are-reflections-important-in-coordinate-geometry
 score: -1.0
+related_article1:
+    id: 162395
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article2:
+    id: 162693
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article3:
+    id: 162387
+    title: How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+related_article4:
+    id: 162743
+    title: In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article5:
+    id: 162706
+    title: What is orientation reversal in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering.md
 url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
 score: -1.0
+related_article1:
+    id: 166663
+    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article2:
+    id: 166655
+    title: Why are free body diagrams crucial for visualizing forces in engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems
+related_article3:
+    id: 166668
+    title: How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article4:
+    id: 166674
+    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article5:
+    id: 166674
+    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
 ---
 
 &nbsp;

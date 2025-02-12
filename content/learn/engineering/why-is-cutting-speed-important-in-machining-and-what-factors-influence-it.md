@@ -21,6 +21,31 @@ subject: Engineering
 file_name: why-is-cutting-speed-important-in-machining-and-what-factors-influence-it.md
 url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 score: -1.0
+related_article1:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article2:
+    id: 168709
+    title: What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+related_article3:
+    id: 168698
+    title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article4:
+    id: 168704
+    title: Define feed and depth of cut in machining and explain their roles in the cutting process.
+    subject: Engineering
+    url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
+related_article5:
+    id: 168710
+    title: How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
 ---
 
 &nbsp;

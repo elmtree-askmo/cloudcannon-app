@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-gas-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-state-of-matter
 score: -1.0
+related_article1:
+    id: 161931
+    title: What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article2:
+    id: 161946
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article3:
+    id: 161987
+    title: What are the characteristics of a liquid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
+related_article4:
+    id: 161760
+    title: How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
+related_article5:
+    id: 161982
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 ---
 
 &nbsp;

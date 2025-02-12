@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration.md
 url: /learn/economics/questions/what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration
 score: -1.0
+related_article1:
+    id: 159652
+    title: How does increased competition from financial integration improve banking system efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency
+related_article2:
+    id: 159661
+    title: How does foreign bank penetration impact financial sector efficiency?
+    subject: Economics
+    url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financial-sector-efficiency
+related_article3:
+    id: 159656
+    title: What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
+related_article4:
+    id: 159660
+    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
+related_article5:
+    id: 159660
+    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
 ---
 
 &nbsp;

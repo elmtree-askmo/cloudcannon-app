@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions.md
 url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
 score: -1.0
+related_article1:
+    id: 164499
+    title: How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+related_article2:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article3:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article4:
+    id: 164492
+    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article5:
+    id: 164487
+    title: How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 ---
 
 &nbsp;

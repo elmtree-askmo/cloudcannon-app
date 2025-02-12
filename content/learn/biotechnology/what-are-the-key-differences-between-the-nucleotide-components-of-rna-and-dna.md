@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna.md
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
 score: -1.0
+related_article1:
+    id: 167526
+    title: What role do hydrogen bonds play in the stability of the DNA double helix?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
+related_article2:
+    id: 167525
+    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+related_article3:
+    id: 167528
+    title: How does the single-stranded nature of RNA affect its function compared to DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
+related_article4:
+    id: 167529
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article5:
+    id: 167525
+    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
 ---
 
 &nbsp;

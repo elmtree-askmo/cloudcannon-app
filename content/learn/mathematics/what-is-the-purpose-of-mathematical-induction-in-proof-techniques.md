@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-purpose-of-mathematical-induction-in-proof-techniques.md
 url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
 score: -1.0
+related_article1:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article2:
+    id: 170741
+    title: How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article3:
+    id: 170747
+    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+related_article4:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article5:
+    id: 170738
+    title: How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 ---
 
 &nbsp;

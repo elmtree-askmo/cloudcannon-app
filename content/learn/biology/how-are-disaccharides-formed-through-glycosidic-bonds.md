@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-disaccharides-formed-through-glycosidic-bonds.md
 url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
 score: -1.0
+related_article1:
+    id: 167030
+    title: What is the structure and function of glycogen in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+related_article2:
+    id: 167025
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167024
+    title: Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article4:
+    id: 167025
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article5:
+    id: 167032
+    title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
 ---
 
 &nbsp;

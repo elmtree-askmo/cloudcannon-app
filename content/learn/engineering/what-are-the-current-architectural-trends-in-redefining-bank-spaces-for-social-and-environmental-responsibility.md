@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility.md
 url: /learn/engineering/questions/what-are-the-current-architectural-trends-in-redefining-bank-spaces-for-social-and-environmental-responsibility
 score: -1.0
+related_article1:
+    id: 169365
+    title: How do ambiguous spaces contribute to the integration of interior and exterior design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
+related_article2:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article3:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article4:
+    id: 169367
+    title: How does urban integration merge exterior and interior spaces to create urban resting places?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-urban-integration-merge-exterior-and-interior-spaces-to-create-urban-resting-places
+related_article5:
+    id: 169360
+    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
 ---
 
 &nbsp;

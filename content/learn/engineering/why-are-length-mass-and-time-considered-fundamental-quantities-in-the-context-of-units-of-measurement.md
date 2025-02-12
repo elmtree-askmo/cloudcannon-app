@@ -21,6 +21,31 @@ subject: Engineering
 file_name: why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement.md
 url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
 score: -1.0
+related_article1:
+    id: 166636
+    title: What is the scope of mechanics and why is it important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+related_article2:
+    id: 166638
+    title: What are the main types of fluids and what forces act on them?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+related_article3:
+    id: 166649
+    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+related_article4:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+related_article5:
+    id: 166647
+    title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 ---
 
 &nbsp;

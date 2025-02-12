@@ -21,6 +21,31 @@ subject: Biology
 file_name: write-the-balanced-chemical-equation-for-photosynthesis.md
 url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
 score: -1.0
+related_article1:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article2:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article3:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article4:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article5:
+    id: 170374
+    title: Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning.md
 url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164147
+    title: What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article2:
+    id: 164139
+    title: According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+related_article3:
+    id: 164149
+    title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
+related_article4:
+    id: 164138
+    title: How does love withdrawal as a parenting technique influence a child's moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
+related_article5:
+    id: 164138
+    title: How does love withdrawal as a parenting technique influence a child's moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
 ---
 
 &nbsp;

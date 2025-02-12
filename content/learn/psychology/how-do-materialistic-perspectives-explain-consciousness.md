@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-materialistic-perspectives-explain-consciousness.md
 url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
 score: -1.0
+related_article1:
+    id: 170580
+    title: What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
+related_article2:
+    id: 170582
+    title: How does the corpus callosum facilitate communication between the brain's hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
+related_article3:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article4:
+    id: 170590
+    title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article5:
+    id: 170576
+    title: What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
 ---
 
 &nbsp;

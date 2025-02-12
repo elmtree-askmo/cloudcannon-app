@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-address-sample-size-limitations-in-research.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 score: -1.0
+related_article1:
+    id: 165076
+    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
+related_article2:
+    id: 165069
+    title: How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article3:
+    id: 165074
+    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article4:
+    id: 165086
+    title: What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article5:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 ---
 
 &nbsp;

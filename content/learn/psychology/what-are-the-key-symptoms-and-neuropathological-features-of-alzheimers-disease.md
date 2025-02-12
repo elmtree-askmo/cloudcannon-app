@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease.md
 url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
 score: -1.0
+related_article1:
+    id: 164718
+    title: What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article2:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article3:
+    id: 164728
+    title: What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
+related_article4:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164718
+    title: What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
 ---
 
 &nbsp;

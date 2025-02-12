@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-quadratic-functions-relate-to-square-root-functions-graphically.md
 url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
 score: -1.0
+related_article1:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article2:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+related_article3:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article4:
+    id: 163804
+    title: What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article5:
+    id: 163800
+    title: How can square root functions be used in real-world mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 ---
 
 &nbsp;

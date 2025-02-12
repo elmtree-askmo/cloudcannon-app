@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur.md
 url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 score: -1.0
+related_article1:
+    id: 164708
+    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+related_article2:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article3:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article4:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article5:
+    id: 164705
+    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
 ---
 
 &nbsp;

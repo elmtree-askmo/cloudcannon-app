@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-different-blood-types-and-how-are-they-determined.md
 url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 score: -1.0
+related_article1:
+    id: 167884
+    title: What are the types and causes of genetic mutations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
+related_article2:
+    id: 167874
+    title: How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article3:
+    id: 167870
+    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article4:
+    id: 167878
+    title: How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
+related_article5:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 ---
 
 &nbsp;

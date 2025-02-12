@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species.md
 url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 score: -1.0
+related_article1:
+    id: 171005
+    title: What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article2:
+    id: 171012
+    title: How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article3:
+    id: 170995
+    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article4:
+    id: 171002
+    title: How does parental investment impact offspring survival and resource allocation trade-offs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
+related_article5:
+    id: 171007
+    title: What are the defining characteristics of promiscuity in the animal kingdom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
 ---
 
 &nbsp;

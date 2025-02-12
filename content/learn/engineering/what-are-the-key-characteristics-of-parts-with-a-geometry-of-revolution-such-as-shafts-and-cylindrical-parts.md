@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts.md
 url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
 score: -1.0
+related_article1:
+    id: 168709
+    title: What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+related_article2:
+    id: 168712
+    title: What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
+related_article3:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
+related_article4:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article5:
+    id: 168700
+    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
 ---
 
 &nbsp;

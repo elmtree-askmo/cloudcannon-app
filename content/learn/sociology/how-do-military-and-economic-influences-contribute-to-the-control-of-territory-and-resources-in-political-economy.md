@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy.md
 url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
 score: -1.0
+related_article1:
+    id: 163871
+    title: How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+related_article2:
+    id: 163861
+    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+related_article3:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
+related_article4:
+    id: 163863
+    title: How have multinational corporations contributed to contemporary globalization since 1945?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
+related_article5:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
 ---
 
 &nbsp;

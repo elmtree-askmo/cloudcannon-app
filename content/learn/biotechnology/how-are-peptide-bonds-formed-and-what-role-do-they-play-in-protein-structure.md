@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure.md
 url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
 score: -1.0
+related_article1:
+    id: 170971
+    title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
+related_article2:
+    id: 170972
+    title: How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+related_article3:
+    id: 170957
+    title: How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+related_article4:
+    id: 170958
+    title: What are the key characteristics of carbon-based organic molecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
+related_article5:
+    id: 170972
+    title: How does molecular modeling aid in predicting molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 ---
 
 &nbsp;

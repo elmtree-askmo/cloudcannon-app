@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-reflections-used-in-geometric-proofs.md
 url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
 score: -1.0
+related_article1:
+    id: 162886
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article2:
+    id: 162887
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article3:
+    id: 162383
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article4:
+    id: 162638
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article5:
+    id: 162752
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

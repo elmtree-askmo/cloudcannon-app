@@ -21,6 +21,31 @@ subject: Psychology
 file_name: list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget.md
 url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
 score: -1.0
+related_article1:
+    id: 168004
+    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+related_article2:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+related_article3:
+    id: 167995
+    title: How does abstract thinking manifest in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+related_article4:
+    id: 168004
+    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+related_article5:
+    id: 168009
+    title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 ---
 
 &nbsp;

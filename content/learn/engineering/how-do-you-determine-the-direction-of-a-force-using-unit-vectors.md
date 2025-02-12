@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-you-determine-the-direction-of-a-force-using-unit-vectors.md
 url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
 score: -1.0
+related_article1:
+    id: 166685
+    title: What is the difference between kinematics and dynamics in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+related_article2:
+    id: 166679
+    title: What are the conditions necessary for static equilibrium?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+related_article3:
+    id: 166690
+    title: What is the vector representation of displacement in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+related_article4:
+    id: 166690
+    title: What is the vector representation of displacement in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+related_article5:
+    id: 166678
+    title: How are force components resolved in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
 score: -1.0
+related_article1:
+    id: 164893
+    title: How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article2:
+    id: 164886
+    title: How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article3:
+    id: 164892
+    title: What role does Broca's area play in language production, and what are the effects of its damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
+related_article4:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article5:
+    id: 164888
+    title: How does a within-subject design help reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies
 ---
 
 &nbsp;

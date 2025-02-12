@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-right-brain-hemisphere-contribute-to-language-processing.md
 url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
 score: -1.0
+related_article1:
+    id: 164399
+    title: What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+related_article2:
+    id: 164405
+    title: How do cognitive functions in music relate to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
+related_article3:
+    id: 164400
+    title: How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article4:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article5:
+    id: 164399
+    title: What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
 ---
 
 &nbsp;

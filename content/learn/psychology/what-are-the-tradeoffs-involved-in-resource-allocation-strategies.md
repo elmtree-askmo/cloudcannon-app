@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-tradeoffs-involved-in-resource-allocation-strategies.md
 url: /learn/psychology/questions/what-are-the-tradeoffs-involved-in-resource-allocation-strategies
 score: -1.0
+related_article1:
+    id: 170824
+    title: How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
+related_article2:
+    id: 170832
+    title: How does risk assessment influence ecological decision-making processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-risk-assessment-influence-ecological-decisionmaking-processes
+related_article3:
+    id: 170824
+    title: How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
+related_article4:
+    id: 170830
+    title: Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article5:
+    id: 170828
+    title: How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
 ---
 
 &nbsp;

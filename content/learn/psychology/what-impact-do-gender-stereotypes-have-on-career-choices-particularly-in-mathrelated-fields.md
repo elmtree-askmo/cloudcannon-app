@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields.md
 url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
 score: -1.0
+related_article1:
+    id: 168135
+    title: How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article2:
+    id: 168128
+    title: What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article3:
+    id: 168118
+    title: What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article4:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article5:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 ---
 
 &nbsp;

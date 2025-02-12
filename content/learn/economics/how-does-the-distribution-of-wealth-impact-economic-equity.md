@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-the-distribution-of-wealth-impact-economic-equity.md
 url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
 score: -1.0
+related_article1:
+    id: 169911
+    title: What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article2:
+    id: 169904
+    title: How do multinational companies influence globalization and global markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
+related_article3:
+    id: 169912
+    title: How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article4:
+    id: 169916
+    title: How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article5:
+    id: 169907
+    title: What are the fundamental differences between capitalism and socialism as economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 ---
 
 &nbsp;

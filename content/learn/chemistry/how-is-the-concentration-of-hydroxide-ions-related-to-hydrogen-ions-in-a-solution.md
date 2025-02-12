@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution.md
 url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 score: -1.0
+related_article1:
+    id: 167115
+    title: How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+related_article2:
+    id: 167114
+    title: What are the polar characteristics of water molecules and how do they interact with ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+related_article3:
+    id: 167122
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
+    id: 167121
+    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+related_article5:
+    id: 167116
+    title: What role does hydrogen bonding play in the cohesion of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
 ---
 
 &nbsp;

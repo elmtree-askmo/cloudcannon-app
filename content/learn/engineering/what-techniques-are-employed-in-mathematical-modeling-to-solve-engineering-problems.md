@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems.md
 url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 score: -1.0
+related_article1:
+    id: 166670
+    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article2:
+    id: 166651
+    title: What are the key benefits of consulting for engineers in terms of career growth and skill development?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
+related_article3:
+    id: 166654
+    title: What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article4:
+    id: 166674
+    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article5:
+    id: 166656
+    title: What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 ---
 
 &nbsp;

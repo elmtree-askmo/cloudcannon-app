@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis.md
 url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
 score: -1.0
+related_article1:
+    id: 166664
+    title: How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
+related_article2:
+    id: 166665
+    title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
+related_article3:
+    id: 166661
+    title: What is Hooke's Law, and how does it relate to the characteristics of spring force?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force
+related_article4:
+    id: 166671
+    title: How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+related_article5:
+    id: 166665
+    title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
 ---
 
 &nbsp;

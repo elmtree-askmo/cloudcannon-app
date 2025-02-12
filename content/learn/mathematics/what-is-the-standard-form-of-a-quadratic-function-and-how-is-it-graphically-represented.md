@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented.md
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
 score: -1.0
+related_article1:
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+related_article2:
+    id: 168406
+    title: What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article3:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article4:
+    id: 168417
+    title: What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+related_article5:
+    id: 168404
+    title: How does a vertical reflection transform a parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
 ---
 
 &nbsp;

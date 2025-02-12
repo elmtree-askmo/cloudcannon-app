@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-molecules-and-compounds.md
 url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 score: -1.0
+related_article1:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article2:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article3:
+    id: 167402
+    title: Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article4:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article5:
+    id: 167406
+    title: What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
 ---
 
 &nbsp;

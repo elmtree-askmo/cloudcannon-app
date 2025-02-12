@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density.md
 url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
 score: -1.0
+related_article1:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article2:
+    id: 167434
+    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+related_article3:
+    id: 167439
+    title: What is the biological significance of the lower density of ice compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
+related_article4:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article5:
+    id: 167434
+    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
 ---
 
 &nbsp;

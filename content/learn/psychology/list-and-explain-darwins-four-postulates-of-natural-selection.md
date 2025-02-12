@@ -21,6 +21,31 @@ subject: Psychology
 file_name: list-and-explain-darwins-four-postulates-of-natural-selection.md
 url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
 score: -1.0
+related_article1:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article2:
+    id: 165298
+    title: What is the difference between phenotype and genotype, and how do they relate to natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
+related_article3:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article4:
+    id: 165315
+    title: How does individual variation in hunting strategies affect fitness and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+related_article5:
+    id: 165292
+    title: How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 ---
 
 &nbsp;

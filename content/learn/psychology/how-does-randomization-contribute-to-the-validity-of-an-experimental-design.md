@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-randomization-contribute-to-the-validity-of-an-experimental-design.md
 url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
 score: -1.0
+related_article1:
+    id: 164992
+    title: How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article2:
+    id: 164991
+    title: What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+related_article3:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article4:
+    id: 164991
+    title: What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+related_article5:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

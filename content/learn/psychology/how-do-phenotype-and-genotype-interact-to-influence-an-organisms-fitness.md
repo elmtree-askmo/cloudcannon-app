@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness.md
 url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
 score: -1.0
+related_article1:
+    id: 166420
+    title: Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article2:
+    id: 166419
+    title: What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+related_article3:
+    id: 166419
+    title: What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+related_article4:
+    id: 166399
+    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article5:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
 ---
 
 &nbsp;

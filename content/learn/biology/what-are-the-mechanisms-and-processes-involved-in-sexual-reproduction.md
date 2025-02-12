@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction.md
 url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 score: -1.0
+related_article1:
+    id: 166911
+    title: What are the essential steps in designing an experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+related_article2:
+    id: 166931
+    title: What are the sensory mechanisms involved in detecting stimuli?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
+related_article3:
+    id: 166921
+    title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+related_article4:
+    id: 166910
+    title: Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+related_article5:
+    id: 166909
+    title: What are the key characteristics of a hypothesis in scientific investigation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
 ---
 
 &nbsp;

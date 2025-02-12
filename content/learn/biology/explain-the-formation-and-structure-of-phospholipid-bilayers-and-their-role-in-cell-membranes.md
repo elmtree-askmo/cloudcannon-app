@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes.md
 url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
 score: -1.0
+related_article1:
+    id: 167555
+    title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
+related_article2:
+    id: 167551
+    title: What is passive transport and how does it differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
+related_article3:
+    id: 167556
+    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+related_article4:
+    id: 167538
+    title: What is simple diffusion and how does it occur in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
+related_article5:
+    id: 167539
+    title: What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-fitness-defined-and-measured-in-the-context-of-natural-selection.md
 url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
 score: -1.0
+related_article1:
+    id: 166365
+    title: What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+related_article2:
+    id: 166373
+    title: What factors influence the response to selection in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+related_article3:
+    id: 166356
+    title: Explain the concept of heritability and its significance in natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
+related_article4:
+    id: 166367
+    title: What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+related_article5:
+    id: 166369
+    title: What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins.md
 url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
 score: -1.0
+related_article1:
+    id: 170691
+    title: What is the base case in normal induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
+related_article2:
+    id: 170704
+    title: How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+related_article3:
+    id: 170689
+    title: In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
+related_article4:
+    id: 170691
+    title: What is the base case in normal induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
+related_article5:
+    id: 170693
+    title: Describe how normal induction can be applied to the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 ---
 
 &nbsp;

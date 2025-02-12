@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids.md
 url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167077
+    title: Describe the role of amino acids as building blocks in protein structure and function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+related_article2:
+    id: 167075
+    title: How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
+related_article3:
+    id: 167079
+    title: How do hydrogen bonds and ionic interactions contribute to protein folding and stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-and-ionic-interactions-contribute-to-protein-folding-and-stability
+related_article4:
+    id: 167072
+    title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
+related_article5:
+    id: 167073
+    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 ---
 
 &nbsp;

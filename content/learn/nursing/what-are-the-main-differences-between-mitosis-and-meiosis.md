@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-are-the-main-differences-between-mitosis-and-meiosis.md
 url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
 score: -1.0
+related_article1:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article2:
+    id: 167863
+    title: How does oogenesis differ from spermatogenesis in terms of process and outcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
+related_article3:
+    id: 167854
+    title: How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
+related_article4:
+    id: 167864
+    title: What is the role of DNA polymerase in DNA replication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
 ---
 
 &nbsp;

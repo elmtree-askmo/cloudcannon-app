@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications.md
 url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
 score: -1.0
+related_article1:
+    id: 166443
+    title: What is the mechanism of action for common anti-inflammatory drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
+related_article2:
+    id: 166447
+    title: Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+related_article3:
+    id: 166450
+    title: What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
+related_article4:
+    id: 166445
+    title: Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article5:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
 ---
 
 &nbsp;

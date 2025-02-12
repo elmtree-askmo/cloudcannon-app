@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering.md
 url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
 score: -1.0
+related_article1:
+    id: 169418
+    title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
+related_article2:
+    id: 169429
+    title: How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article3:
+    id: 169422
+    title: What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
+related_article4:
+    id: 169429
+    title: How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article5:
+    id: 169422
+    title: What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 ---
 
 &nbsp;

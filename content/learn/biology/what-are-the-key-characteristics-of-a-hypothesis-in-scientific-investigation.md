@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation.md
 url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
 score: -1.0
+related_article1:
+    id: 166919
+    title: How do organisms acquire and utilize energy for their metabolic processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+related_article2:
+    id: 166916
+    title: What processes are involved in growth and development, and how do nutrients play a role?
+    subject: Biology
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
+related_article3:
+    id: 166917
+    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+related_article4:
+    id: 166927
+    title: What are the methods and sources of nutrient acquisition in organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
+related_article5:
+    id: 166907
+    title: What is the role of observation in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior.md
 url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 score: -1.0
+related_article1:
+    id: 163637
+    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article2:
+    id: 163631
+    title: What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article3:
+    id: 163642
+    title: What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article4:
+    id: 163636
+    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article5:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
 ---
 
 &nbsp;

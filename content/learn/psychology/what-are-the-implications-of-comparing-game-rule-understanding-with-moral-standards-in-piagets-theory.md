@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory.md
 url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
 score: -1.0
+related_article1:
+    id: 164169
+    title: How do children progress through developmental stages of moral understanding according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
+related_article2:
+    id: 164153
+    title: What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article3:
+    id: 164155
+    title: How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article4:
+    id: 164163
+    title: What role do game rules play in Piaget's research on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
 ---
 
 &nbsp;

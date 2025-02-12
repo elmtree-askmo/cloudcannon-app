@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology.md
 url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
 score: -1.0
+related_article1:
+    id: 164861
+    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+related_article2:
+    id: 164856
+    title: How do theories and debates address the overlaps between short-term and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
+related_article3:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article4:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+related_article5:
+    id: 164854
+    title: How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 ---
 
 &nbsp;

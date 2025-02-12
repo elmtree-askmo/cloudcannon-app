@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process.md
 url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
 score: -1.0
+related_article1:
+    id: 169347
+    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+related_article2:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article3:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article4:
+    id: 169338
+    title: What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
+related_article5:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-do-squaring-and-square-root-operations-serve-as-inverse-operations.md
 url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 score: -1.0
+related_article1:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article2:
+    id: 163806
+    title: What are the general characteristics of function graphs in terms of shape and behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+related_article3:
+    id: 163794
+    title: What are the graphical implications of inverse operations on functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-implications-of-inverse-operations-on-functions
+related_article4:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-evolutionary-basis-of-behavioral-ecology.md
 url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
 score: -1.0
+related_article1:
+    id: 170828
+    title: How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article2:
+    id: 170828
+    title: How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article3:
+    id: 170828
+    title: How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article4:
+    id: 170823
+    title: What are the key assumptions of the Optimal Foraging Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-assumptions-of-the-optimal-foraging-theory
+related_article5:
+    id: 170826
+    title: Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-deferred-imitation-challenge-piagets-theory.md
 url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
 score: -1.0
+related_article1:
+    id: 168004
+    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+related_article2:
+    id: 168004
+    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+related_article3:
+    id: 168005
+    title: How do social interactions influence cognitive development according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+related_article4:
+    id: 168008
+    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article5:
+    id: 168009
+    title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 ---
 
 &nbsp;

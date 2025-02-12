@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques.md
 url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 score: -1.0
+related_article1:
+    id: 170477
+    title: How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
+related_article2:
+    id: 170461
+    title: How do gyri and sulci contribute to brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
+related_article3:
+    id: 170470
+    title: What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article4:
+    id: 170485
+    title: What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
+related_article5:
+    id: 170470
+    title: What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 ---
 
 &nbsp;

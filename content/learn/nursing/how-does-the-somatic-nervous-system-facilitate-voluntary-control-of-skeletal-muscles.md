@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles.md
 url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 score: -1.0
+related_article1:
+    id: 170520
+    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+related_article2:
+    id: 170513
+    title: Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article3:
+    id: 170503
+    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+related_article4:
+    id: 170521
+    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article5:
+    id: 170506
+    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 ---
 
 &nbsp;

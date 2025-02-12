@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules.md
 url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
 score: -1.0
+related_article1:
+    id: 167148
+    title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article2:
+    id: 167144
+    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
+related_article3:
+    id: 167149
+    title: How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article4:
+    id: 167149
+    title: How does the crystalline structure of ice affect its density compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
+related_article5:
+    id: 167142
+    title: How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 ---
 
 &nbsp;

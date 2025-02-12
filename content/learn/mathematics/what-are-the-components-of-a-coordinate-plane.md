@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-components-of-a-coordinate-plane.md
 url: /learn/mathematics/questions/what-are-the-components-of-a-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162082
+    title: How do line segments and points behave under rotation in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
+related_article2:
+    id: 162077
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article3:
+    id: 162072
+    title: What are the four main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+related_article5:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
 ---
 
 &nbsp;

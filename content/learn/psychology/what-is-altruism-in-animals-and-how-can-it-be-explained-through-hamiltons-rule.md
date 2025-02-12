@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule.md
 url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 score: -1.0
+related_article1:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article2:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article3:
+    id: 170924
+    title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
+related_article4:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article5:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 ---
 
 &nbsp;

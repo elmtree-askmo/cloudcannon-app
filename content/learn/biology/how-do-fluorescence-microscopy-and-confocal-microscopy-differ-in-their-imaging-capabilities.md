@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities.md
 url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
 score: -1.0
+related_article1:
+    id: 170952
+    title: How is GFP used to study protein localization in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
+related_article2:
+    id: 170945
+    title: What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
+related_article3:
+    id: 170943
+    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+related_article4:
+    id: 170950
+    title: How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article5:
+    id: 170951
+    title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
 ---
 
 &nbsp;

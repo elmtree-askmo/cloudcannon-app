@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety.md
 url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
 score: -1.0
+related_article1:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article2:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article3:
+    id: 169456
+    title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
+related_article4:
+    id: 169450
+    title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article5:
+    id: 169452
+    title: What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
 ---
 
 &nbsp;

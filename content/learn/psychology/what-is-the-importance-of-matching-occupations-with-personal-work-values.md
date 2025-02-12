@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-importance-of-matching-occupations-with-personal-work-values.md
 url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
 score: -1.0
+related_article1:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article2:
+    id: 168442
+    title: What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article3:
+    id: 168453
+    title: What tools are available for evaluating skills and values in career decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
+related_article4:
+    id: 168446
+    title: How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article5:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
 ---
 
 &nbsp;

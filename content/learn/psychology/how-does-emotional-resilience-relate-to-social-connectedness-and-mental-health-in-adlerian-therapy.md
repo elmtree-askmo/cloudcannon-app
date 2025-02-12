@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy.md
 url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 162997
+    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article2:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article3:
+    id: 162999
+    title: How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
+related_article4:
+    id: 163010
+    title: How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
+related_article5:
+    id: 163002
+    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains.md
 url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
 score: -1.0
+related_article1:
+    id: 165346
+    title: What are the structural components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+related_article2:
+    id: 165337
+    title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+related_article3:
+    id: 165340
+    title: What types of bonds and interactions contribute to the tertiary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
+related_article4:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article5:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications.md
 url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
 score: -1.0
+related_article1:
+    id: 164742
+    title: Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article2:
+    id: 164725
+    title: Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article3:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article4:
+    id: 164732
+    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+related_article5:
+    id: 164741
+    title: What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
 ---
 
 &nbsp;

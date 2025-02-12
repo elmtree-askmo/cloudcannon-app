@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170248
+    title: What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article2:
+    id: 170235
+    title: What is the historical significance of propositional logic in the development of logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+related_article3:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article4:
+    id: 170238
+    title: What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
+related_article5:
+    id: 170238
+    title: What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 ---
 
 &nbsp;

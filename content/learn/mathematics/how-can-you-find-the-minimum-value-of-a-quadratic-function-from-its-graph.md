@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph.md
 url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 score: -1.0
+related_article1:
+    id: 163848
+    title: How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article2:
+    id: 163830
+    title: How do you determine the domain and range of a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
+related_article3:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article4:
+    id: 163836
+    title: Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
+related_article5:
+    id: 163831
+    title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
 ---
 
 &nbsp;

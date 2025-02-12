@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function.md
 url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
 score: -1.0
+related_article1:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+related_article2:
+    id: 170471
+    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+related_article3:
+    id: 170483
+    title: What are the components of a reflex arc in neural pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+related_article4:
+    id: 170484
+    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article5:
+    id: 170464
+    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted.md
 url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 score: -1.0
+related_article1:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
+related_article2:
+    id: 163864
+    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article3:
+    id: 163869
+    title: How do military and economic influences contribute to the control of territory and resources in political economy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
+related_article4:
+    id: 163864
+    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article5:
+    id: 163860
+    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
 ---
 
 &nbsp;

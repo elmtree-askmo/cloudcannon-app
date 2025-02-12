@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies.md
 url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
 score: -1.0
+related_article1:
+    id: 169766
+    title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article2:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article3:
+    id: 169744
+    title: How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
+related_article4:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article5:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
 ---
 
 &nbsp;

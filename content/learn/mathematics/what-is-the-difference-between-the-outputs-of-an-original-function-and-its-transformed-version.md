@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version.md
 url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 score: -1.0
+related_article1:
+    id: 168405
+    title: How are functions used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
+related_article2:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article3:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article4:
+    id: 168402
+    title: How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article5:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
 ---
 
 &nbsp;

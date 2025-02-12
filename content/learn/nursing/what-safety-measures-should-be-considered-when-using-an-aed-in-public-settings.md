@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings.md
 url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
 score: -1.0
+related_article1:
+    id: 169455
+    title: What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
+related_article2:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article3:
+    id: 169456
+    title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
+related_article4:
+    id: 169460
+    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article5:
+    id: 169457
+    title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
 ---
 
 &nbsp;

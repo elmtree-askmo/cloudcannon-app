@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment.md
 url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
 score: -1.0
+related_article1:
+    id: 171016
+    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article2:
+    id: 171016
+    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article3:
+    id: 171001
+    title: What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article4:
+    id: 171001
+    title: What is anisogamy, and how does it affect reproductive strategies in different species?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
+related_article5:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 ---
 
 &nbsp;

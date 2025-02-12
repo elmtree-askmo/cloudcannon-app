@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells.md
 url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
 score: -1.0
+related_article1:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article2:
+    id: 169946
+    title: What are the four levels of protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
+related_article3:
+    id: 169947
+    title: How do enzymes lower activation energy in biochemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
+related_article4:
+    id: 169945
+    title: What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article5:
+    id: 169961
+    title: What is the difference between diffusion and osmosis in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport
 ---
 
 &nbsp;

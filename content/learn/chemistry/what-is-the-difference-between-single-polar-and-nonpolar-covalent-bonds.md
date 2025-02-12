@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds.md
 url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
 score: -1.0
+related_article1:
+    id: 167082
+    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article2:
+    id: 167077
+    title: Describe the role of amino acids as building blocks in protein structure and function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+related_article3:
+    id: 167074
+    title: Identify the functional groups present in amino acids and describe their properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
+related_article4:
+    id: 167073
+    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
+related_article5:
+    id: 167082
+    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
 ---
 
 &nbsp;

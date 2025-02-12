@@ -21,6 +21,31 @@ subject: Economics
 file_name: define-economic-power-and-provide-examples-of-its-influence-on-global-trade.md
 url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
 score: -1.0
+related_article1:
+    id: 169922
+    title: How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+related_article2:
+    id: 169924
+    title: What is comparative advantage, and how does it affect trade policies?
+    subject: Economics
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
+related_article3:
+    id: 169936
+    title: How are the principles of supply and demand applied in policy making and business strategy?
+    subject: Economics
+    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
+related_article4:
+    id: 169931
+    title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article5:
+    id: 169930
+    title: How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics.md
 url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
 score: -1.0
+related_article1:
+    id: 164468
+    title: How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article2:
+    id: 164467
+    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article3:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article4:
+    id: 164461
+    title: What is the role of the motion comparison task in studying motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
+related_article5:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
 ---
 
 &nbsp;

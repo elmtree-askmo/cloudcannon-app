@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-biological-mechanisms-influence-pain-tolerance.md
 url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
 score: -1.0
+related_article1:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article2:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article3:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article4:
+    id: 170464
+    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
+    id: 170480
+    title: What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
 ---
 
 &nbsp;

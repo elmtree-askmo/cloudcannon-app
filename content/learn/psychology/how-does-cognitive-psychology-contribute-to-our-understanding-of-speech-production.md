@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production.md
 url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
 score: -1.0
+related_article1:
+    id: 164393
+    title: Describe the neural pathways involved in auditory processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+related_article2:
+    id: 164386
+    title: What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article3:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article4:
+    id: 164388
+    title: What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article5:
+    id: 164393
+    title: Describe the neural pathways involved in auditory processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
 ---
 
 &nbsp;

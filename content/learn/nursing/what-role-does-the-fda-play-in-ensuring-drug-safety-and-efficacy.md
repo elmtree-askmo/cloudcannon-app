@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy.md
 url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
 score: -1.0
+related_article1:
+    id: 166494
+    title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article2:
+    id: 166504
+    title: Why is medication reconciliation important during patient admission and discharge?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
+related_article3:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article4:
+    id: 166509
+    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article5:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 ---
 
 &nbsp;

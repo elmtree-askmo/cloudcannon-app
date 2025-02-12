@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-developmental-trends-in-agerelated-differences-in-memory.md
 url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
 score: -1.0
+related_article1:
+    id: 168025
+    title: What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article2:
+    id: 168027
+    title: How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+related_article3:
+    id: 168025
+    title: What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article4:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article5:
+    id: 168028
+    title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
 ---
 
 &nbsp;

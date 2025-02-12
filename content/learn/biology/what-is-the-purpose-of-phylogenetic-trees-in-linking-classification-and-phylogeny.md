@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny.md
 url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
 score: -1.0
+related_article1:
+    id: 167734
+    title: Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
+related_article2:
+    id: 167726
+    title: What role does genetic variation play in the evolution of populations?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
+related_article3:
+    id: 167740
+    title: How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article4:
+    id: 167729
+    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article5:
+    id: 167727
+    title: Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
 ---
 
 &nbsp;

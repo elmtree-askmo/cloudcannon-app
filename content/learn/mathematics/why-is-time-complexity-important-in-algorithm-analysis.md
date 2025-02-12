@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-time-complexity-important-in-algorithm-analysis.md
 url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
 score: -1.0
+related_article1:
+    id: 170711
+    title: What is the general structure of a proof by mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
+related_article2:
+    id: 170716
+    title: What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article3:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article4:
+    id: 170719
+    title: What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
+related_article5:
+    id: 170714
+    title: What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
 ---
 
 &nbsp;

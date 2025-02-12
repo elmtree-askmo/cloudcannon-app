@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity.md
 url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
 score: -1.0
+related_article1:
+    id: 166402
+    title: What is cultural transmission and how does it affect animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+related_article2:
+    id: 166409
+    title: How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+related_article3:
+    id: 166406
+    title: What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article4:
+    id: 166418
+    title: How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article5:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-vertex-transformations-affect-the-orientation-of-triangles.md
 url: /learn/mathematics/questions/how-do-vertex-transformations-affect-the-orientation-of-triangles
 score: -1.0
+related_article1:
+    id: 162238
+    title: How do coordinates change when a point is rotated in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
+related_article2:
+    id: 162606
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162251
+    title: How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
+related_article4:
+    id: 162242
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article5:
+    id: 162614
+    title: Describe the concept of circular turning in rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 ---
 
 &nbsp;

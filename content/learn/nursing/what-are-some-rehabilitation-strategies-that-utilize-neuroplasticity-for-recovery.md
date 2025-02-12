@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery.md
 url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
 score: -1.0
+related_article1:
+    id: 170488
+    title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article2:
+    id: 170487
+    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
+related_article3:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article4:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article5:
+    id: 170495
+    title: How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 ---
 
 &nbsp;

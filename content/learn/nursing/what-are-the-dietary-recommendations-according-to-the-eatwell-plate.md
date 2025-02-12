@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-dietary-recommendations-according-to-the-eatwell-plate.md
 url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
 score: -1.0
+related_article1:
+    id: 169728
+    title: How does osteoporosis affect bone density and fracture risk?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
+related_article2:
+    id: 169724
+    title: What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+related_article3:
+    id: 169724
+    title: What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+related_article4:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 ---
 
 &nbsp;

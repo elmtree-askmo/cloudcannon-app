@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes.md
 url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
 score: -1.0
+related_article1:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article2:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article3:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article4:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article5:
+    id: 166487
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
 ---
 
 &nbsp;

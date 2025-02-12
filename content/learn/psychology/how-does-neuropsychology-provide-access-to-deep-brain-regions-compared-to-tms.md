@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms.md
 url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
 score: -1.0
+related_article1:
+    id: 164893
+    title: How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article2:
+    id: 164899
+    title: How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
+related_article3:
+    id: 164898
+    title: What strategies can be used to reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
+related_article4:
+    id: 164897
+    title: What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article5:
+    id: 164898
+    title: What strategies can be used to reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
 ---
 
 &nbsp;

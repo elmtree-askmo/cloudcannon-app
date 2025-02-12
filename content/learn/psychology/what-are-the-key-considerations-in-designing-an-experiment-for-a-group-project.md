@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project.md
 url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
 score: -1.0
+related_article1:
+    id: 165238
+    title: What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
+related_article2:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article3:
+    id: 165229
+    title: How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
+related_article4:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article5:
+    id: 165239
+    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 ---
 
 &nbsp;

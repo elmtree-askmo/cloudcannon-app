@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior.md
 url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166331
+    title: How does heritability contribute to evolutionary change and variation in traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
+related_article2:
+    id: 166333
+    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
+related_article3:
+    id: 166329
+    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+related_article4:
+    id: 166324
+    title: How does individual learning contribute to natural selection in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
+related_article5:
+    id: 166320
+    title: How do adaptive responses in animals demonstrate problem-solving abilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
 ---
 
 &nbsp;

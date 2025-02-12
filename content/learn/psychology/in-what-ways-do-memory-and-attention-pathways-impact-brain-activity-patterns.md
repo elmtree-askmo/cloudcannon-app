@@ -21,6 +21,31 @@ subject: Psychology
 file_name: in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns.md
 url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
 score: -1.0
+related_article1:
+    id: 164333
+    title: What role does the parietal lobe play in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
+related_article2:
+    id: 164337
+    title: How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
+related_article3:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+related_article4:
+    id: 164331
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article5:
+    id: 164337
+    title: How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
 ---
 
 &nbsp;

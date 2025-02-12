@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices.md
 url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
 score: -1.0
+related_article1:
+    id: 164729
+    title: Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article2:
+    id: 164742
+    title: Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article3:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article4:
+    id: 164734
+    title: What are Broadman's areas and how do they correlate with brain functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
+related_article5:
+    id: 164745
+    title: What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

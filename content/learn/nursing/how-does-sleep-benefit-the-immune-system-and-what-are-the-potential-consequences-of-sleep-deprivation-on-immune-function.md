@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function.md
 url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
 score: -1.0
+related_article1:
+    id: 169693
+    title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
+related_article2:
+    id: 169695
+    title: What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article3:
+    id: 169698
+    title: How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article4:
+    id: 169695
+    title: What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article5:
+    id: 169691
+    title: What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
 ---
 
 &nbsp;

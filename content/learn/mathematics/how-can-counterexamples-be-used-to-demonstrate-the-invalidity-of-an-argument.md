@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument.md
 url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
 score: -1.0
+related_article1:
+    id: 170231
+    title: What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article2:
+    id: 170234
+    title: Describe the resolution rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+related_article3:
+    id: 170232
+    title: Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article4:
+    id: 170226
+    title: Explain the simplification rule in inference and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
+related_article5:
+    id: 170225
+    title: What is the conjunction rule in inference, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
 ---
 
 &nbsp;

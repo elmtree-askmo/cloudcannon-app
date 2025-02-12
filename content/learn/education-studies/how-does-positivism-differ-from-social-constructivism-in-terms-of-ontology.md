@@ -7,7 +7,7 @@ article_title: How does positivism differ from social constructivism in terms of
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Education studies
+  title: QuickTakes | Education Studies
   page_description: >-
     This content discusses the differences in ontological perspectives between positivism and social constructivism, highlighting how positivism views reality as objective, while social constructivism sees it as subjective and shaped by social interactions.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     How does positivism differ from social constructivism in terms of ontology?
 answer: >-
     Positivism and social constructivism represent two fundamentally different ontological perspectives in research.\n\n1. **Positivism**:\n   - **Ontology**: Positivism is grounded in the belief that reality is objective and exists independently of human perception. It posits that there are universal laws governing the social world, similar to the natural sciences. Researchers adopting a positivist ontology assume that reality can be measured, quantified, and understood through empirical observation and experimentation. This perspective emphasizes the existence of an observable reality that can be studied through objective methods.\n\n2. **Social Constructivism**:\n   - **Ontology**: In contrast, social constructivism asserts that reality is subjective and constructed through social interactions and individual experiences. This perspective emphasizes that people's understanding of the world is shaped by their lived experiences, cultural contexts, and social relationships. Social constructivists argue that knowledge is not merely discovered but is actively constructed by individuals as they engage with their environment and each other.\n\nIn summary, the key difference in ontology between positivism and social constructivism lies in their views on the nature of reality: positivism sees reality as objective and knowable, while social constructivism views reality as subjective and shaped by human interactions. This fundamental difference also leads to distinct epistemological and methodological approaches in research.
-subject: Education studies
+subject: Education Studies
 file_name: how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology.md
 url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 score: -1.0
+related_article1:
+    id: 163686
+    title: How is statistical analysis used in quantitative data analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+related_article2:
+    id: 163683
+    title: What are some common qualitative data collection methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+related_article3:
+    id: 163679
+    title: What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article4:
+    id: 163684
+    title: What are some common quantitative data collection methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+related_article5:
+    id: 163694
+    title: What is naturalism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
 ---
 
 &nbsp;

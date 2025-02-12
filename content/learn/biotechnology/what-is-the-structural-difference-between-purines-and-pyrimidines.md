@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-structural-difference-between-purines-and-pyrimidines.md
 url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
 score: -1.0
+related_article1:
+    id: 167647
+    title: List the nitrogenous bases found in DNA and RNA.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
+related_article2:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article3:
+    id: 167647
+    title: List the nitrogenous bases found in DNA and RNA.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
+related_article4:
+    id: 167634
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article5:
+    id: 167643
+    title: How do triglycerides differ from phospholipids in structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling.md
 url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
 score: -1.0
+related_article1:
+    id: 166972
+    title: Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
+related_article2:
+    id: 166980
+    title: Define selective permeability and its importance in maintaining cellular homeostasis.
+    subject: Biology
+    url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
+related_article3:
+    id: 166971
+    title: How does osmosis differ from simple diffusion, and what role does osmolarity play in osmosis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-osmosis-differ-from-simple-diffusion-and-what-role-does-osmolarity-play-in-osmosis
+related_article4:
+    id: 166978
+    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
+related_article5:
+    id: 166978
+    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
 ---
 
 &nbsp;

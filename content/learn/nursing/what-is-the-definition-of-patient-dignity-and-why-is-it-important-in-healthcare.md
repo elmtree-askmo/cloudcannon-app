@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare.md
 url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
 score: -1.0
+related_article1:
+    id: 169478
+    title: How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article2:
+    id: 169495
+    title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+related_article3:
+    id: 169494
+    title: What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article4:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article5:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
 ---
 
 &nbsp;

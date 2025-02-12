@@ -21,6 +21,26 @@ subject: Economics
 file_name: define-marginal-benefit-and-explain-its-role-in-economic-theory.md
 url: /learn/economics/questions/define-marginal-benefit-and-explain-its-role-in-economic-theory
 score: -1.0
+related_article1:
+    id: 170860
+    title: How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+related_article2:
+    id: 170860
+    title: How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+related_article3:
+    id: 170849
+    title: What is the optimal scourging theory and how does it relate to cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
+related_article4:
+    id: 170860
+    title: How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
 ---
 
 &nbsp;

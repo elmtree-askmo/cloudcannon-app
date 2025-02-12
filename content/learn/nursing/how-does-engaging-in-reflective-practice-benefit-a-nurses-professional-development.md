@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development.md
 url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
 score: -1.0
+related_article1:
+    id: 169613
+    title: What is the role of the NMC in the approval and monitoring of nursing education programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs
+related_article2:
+    id: 169615
+    title: What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article3:
+    id: 169620
+    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+related_article4:
+    id: 169614
+    title: Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
+related_article5:
+    id: 169625
+    title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
 ---
 
 &nbsp;

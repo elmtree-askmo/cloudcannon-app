@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle.md
 url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170307
+    title: What is the greenhouse effect, and how does it relate to global warming?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+related_article2:
+    id: 170296
+    title: What are the three main stages of cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
+related_article3:
+    id: 170298
+    title: What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article4:
+    id: 170295
+    title: How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
+related_article5:
+    id: 170295
+    title: How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: explain-the-process-of-peptide-bond-formation.md
 url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
 score: -1.0
+related_article1:
+    id: 167233
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article2:
+    id: 167237
+    title: How do R-group interactions influence the tertiary structure of proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
+related_article3:
+    id: 167247
+    title: How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+related_article4:
+    id: 167242
+    title: What role do polar and nonpolar R-groups play in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
+related_article5:
+    id: 167237
+    title: How do R-group interactions influence the tertiary structure of proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

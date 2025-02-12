@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy.md
 url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
 score: -1.0
+related_article1:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article2:
+    id: 164078
+    title: How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article3:
+    id: 164083
+    title: How does brain morphology contribute to a transdiagnostic approach in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
+related_article4:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article5:
+    id: 164073
+    title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
 ---
 
 &nbsp;

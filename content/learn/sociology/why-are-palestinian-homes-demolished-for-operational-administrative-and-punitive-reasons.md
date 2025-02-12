@@ -21,6 +21,31 @@ subject: Sociology
 file_name: why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons.md
 url: /learn/sociology/questions/why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons
 score: -1.0
+related_article1:
+    id: 169207
+    title: Explain the concept of Mitsein and its relevance to community and shared experience.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
+related_article2:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+related_article3:
+    id: 169203
+    title: How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article4:
+    id: 169215
+    title: How does global urbanisation pose future challenges in the context of security and conflict studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article5:
+    id: 169202
+    title: What are the historical origins and development of the concept of urbicide?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
 ---
 
 &nbsp;

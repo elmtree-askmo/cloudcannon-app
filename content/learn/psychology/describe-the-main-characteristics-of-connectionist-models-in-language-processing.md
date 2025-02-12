@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-main-characteristics-of-connectionist-models-in-language-processing.md
 url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 score: -1.0
+related_article1:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article2:
+    id: 164612
+    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
+related_article3:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article4:
+    id: 164601
+    title: What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
+related_article5:
+    id: 164604
+    title: How does the arcuate fasciculus contribute to language function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups.md
 url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 score: -1.0
+related_article1:
+    id: 164119
+    title: What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+related_article2:
+    id: 164115
+    title: What is an identity crisis and why is it important in adolescent development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
+related_article3:
+    id: 164118
+    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+related_article4:
+    id: 164125
+    title: Why are support systems crucial in addressing psychological issues in adolescents?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
+related_article5:
+    id: 164121
+    title: What is the significance of identity moratorium in the process of identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation.md
 url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
 score: -1.0
+related_article1:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166399
+    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article3:
+    id: 166414
+    title: How does migration impact genetic diversity and population dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
+related_article4:
+    id: 166419
+    title: What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+related_article5:
+    id: 166408
+    title: Define fitness in the context of animal behavior and explain how it is measured.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
 ---
 
 &nbsp;

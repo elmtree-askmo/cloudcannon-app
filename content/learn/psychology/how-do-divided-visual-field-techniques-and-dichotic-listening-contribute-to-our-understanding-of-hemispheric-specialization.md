@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization.md
 url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 score: -1.0
+related_article1:
+    id: 164571
+    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article2:
+    id: 164568
+    title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
+related_article3:
+    id: 164580
+    title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article4:
+    id: 164577
+    title: What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
+related_article5:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
 ---
 
 &nbsp;

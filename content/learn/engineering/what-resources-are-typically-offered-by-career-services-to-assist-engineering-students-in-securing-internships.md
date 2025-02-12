@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships.md
 url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
 score: -1.0
+related_article1:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article2:
+    id: 166668
+    title: How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article3:
+    id: 166661
+    title: What is Hooke's Law, and how does it relate to the characteristics of spring force?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force
+related_article4:
+    id: 166669
+    title: What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+    subject: Engineering
+    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+related_article5:
+    id: 166656
+    title: What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 ---
 
 &nbsp;

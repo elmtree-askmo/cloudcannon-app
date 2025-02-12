@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point.md
 url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
 score: -1.0
+related_article1:
+    id: 163854
+    title: How do you plot a point with coordinates (3, -2) on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-with-coordinates-3-2-on-the-coordinate-plane
+related_article2:
+    id: 163855
+    title: What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article3:
+    id: 163855
+    title: What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article4:
+    id: 163853
+    title: Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article5:
+    id: 163858
+    title: What is the defining property of a circle in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
 ---
 
 &nbsp;

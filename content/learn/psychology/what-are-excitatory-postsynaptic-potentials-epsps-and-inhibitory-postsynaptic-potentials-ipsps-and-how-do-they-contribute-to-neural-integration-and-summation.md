@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation.md
 url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
 score: -1.0
+related_article1:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article2:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article3:
+    id: 164832
+    title: How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article4:
+    id: 164821
+    title: How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article5:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 ---
 
 &nbsp;

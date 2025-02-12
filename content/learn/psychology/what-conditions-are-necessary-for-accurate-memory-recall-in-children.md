@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-conditions-are-necessary-for-accurate-memory-recall-in-children.md
 url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
 score: -1.0
+related_article1:
+    id: 168016
+    title: What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article2:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article3:
+    id: 168016
+    title: What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article4:
+    id: 168023
+    title: What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article5:
+    id: 168016
+    title: What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
 ---
 
 &nbsp;

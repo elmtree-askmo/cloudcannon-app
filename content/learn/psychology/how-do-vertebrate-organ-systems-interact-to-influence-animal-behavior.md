@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article2:
+    id: 166386
+    title: Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article3:
+    id: 166380
+    title: How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article4:
+    id: 166383
+    title: How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
+related_article5:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

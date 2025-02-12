@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history.md
 url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
 score: -1.0
+related_article1:
+    id: 169039
+    title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
+related_article2:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article3:
+    id: 169054
+    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+related_article4:
+    id: 169040
+    title: How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article5:
+    id: 169040
+    title: How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-spatial-visualization-abilities-differ-between-males-and-females.md
 url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 score: -1.0
+related_article1:
+    id: 168118
+    title: What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article2:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article3:
+    id: 168122
+    title: What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article4:
+    id: 168120
+    title: What is relational aggression, and how does it differ from physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+related_article5:
+    id: 168130
+    title: How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
 ---
 
 &nbsp;

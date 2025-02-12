@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction.md
 url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 score: -1.0
+related_article1:
+    id: 170720
+    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+related_article2:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article3:
+    id: 170716
+    title: What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article4:
+    id: 170721
+    title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article5:
+    id: 170715
+    title: What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment.md
 url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
 score: -1.0
+related_article1:
+    id: 169409
+    title: What are some innovations in modern architectural design that have emerged recently?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
+related_article2:
+    id: 169400
+    title: How does color integration enhance community engagement in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
+related_article3:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article4:
+    id: 169414
+    title: What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article5:
+    id: 169407
+    title: What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
 ---
 
 &nbsp;

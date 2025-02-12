@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies.md
 url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
 score: -1.0
+related_article1:
+    id: 164865
+    title: What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article2:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article3:
+    id: 164866
+    title: How do short-term and long-term changes in brain plasticity affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+related_article4:
+    id: 164859
+    title: Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article5:
+    id: 164862
+    title: What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
 ---
 
 &nbsp;

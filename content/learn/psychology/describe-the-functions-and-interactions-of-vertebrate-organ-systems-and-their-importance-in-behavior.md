@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior.md
 url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
 score: -1.0
+related_article1:
+    id: 165327
+    title: What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article2:
+    id: 165325
+    title: How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article3:
+    id: 165329
+    title: Define homology and homoplasy and explain their differences with examples from animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
+related_article4:
+    id: 165318
+    title: Differentiate between proximate and ultimate causes of behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
+related_article5:
+    id: 165316
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

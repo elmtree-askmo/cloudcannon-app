@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-preserve-congruence-between-figures.md
 url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
 score: -1.0
+related_article1:
+    id: 162383
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article2:
+    id: 162894
+    title: Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article3:
+    id: 162894
+    title: Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article4:
+    id: 162745
+    title: What happens to the coordinates of a point when it is reflected across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-it-is-reflected-across-the-yaxis
+related_article5:
+    id: 162900
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

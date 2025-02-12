@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus.md
 url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 score: -1.0
+related_article1:
+    id: 168340
+    title: What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
+related_article2:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article3:
+    id: 168329
+    title: What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article4:
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+related_article5:
+    id: 168332
+    title: How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 ---
 
 &nbsp;

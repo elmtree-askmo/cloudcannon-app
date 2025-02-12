@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety.md
 url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 score: -1.0
+related_article1:
+    id: 169510
+    title: What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article2:
+    id: 169514
+    title: How can compliance with safety regulations be ensured during equipment servicing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+related_article3:
+    id: 169511
+    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
+related_article4:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article5:
+    id: 169499
+    title: What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes.md
 url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
 score: -1.0
+related_article1:
+    id: 164565
+    title: What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article2:
+    id: 164564
+    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+related_article3:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article4:
+    id: 164546
+    title: How does procedural memory differ from semantic and episodic memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
+related_article5:
+    id: 164544
+    title: How do the default mode network and potential control network contribute to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 ---
 
 &nbsp;

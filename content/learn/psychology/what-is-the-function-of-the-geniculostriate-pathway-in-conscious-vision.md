@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision.md
 url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
 score: -1.0
+related_article1:
+    id: 164477
+    title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
+related_article2:
+    id: 164467
+    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article3:
+    id: 164465
+    title: What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article4:
+    id: 164463
+    title: What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+related_article5:
+    id: 164470
+    title: How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
 ---
 
 &nbsp;

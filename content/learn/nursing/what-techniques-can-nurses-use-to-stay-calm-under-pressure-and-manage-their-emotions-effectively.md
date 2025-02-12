@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively.md
 url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
 score: -1.0
+related_article1:
+    id: 169543
+    title: What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+related_article2:
+    id: 169539
+    title: What techniques can nurses use to regulate their emotions and maintain resilience in stressful situations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-regulate-their-emotions-and-maintain-resilience-in-stressful-situations
+related_article3:
+    id: 169546
+    title: How can building rapport with patients enhance communication and patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
+related_article4:
+    id: 169552
+    title: How can support systems provide emotional and mental support to nurses in their professional roles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
+related_article5:
+    id: 169543
+    title: What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
 ---
 
 &nbsp;

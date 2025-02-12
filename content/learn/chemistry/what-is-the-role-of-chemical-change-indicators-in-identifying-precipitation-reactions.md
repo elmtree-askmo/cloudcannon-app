@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions.md
 url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
 score: -1.0
+related_article1:
+    id: 161986
+    title: What is the role of charged particles in the process of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
+related_article2:
+    id: 162054
+    title: How can you identify a chemical change through the formation of new substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+related_article3:
+    id: 161939
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article4:
+    id: 161946
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article5:
+    id: 161994
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
 ---
 
 &nbsp;

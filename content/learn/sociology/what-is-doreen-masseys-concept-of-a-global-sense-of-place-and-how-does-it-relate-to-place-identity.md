@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity.md
 url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
 score: -1.0
+related_article1:
+    id: 160640
+    title: What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
+related_article2:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article3:
+    id: 160082
+    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article4:
+    id: 160549
+    title: How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+related_article5:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

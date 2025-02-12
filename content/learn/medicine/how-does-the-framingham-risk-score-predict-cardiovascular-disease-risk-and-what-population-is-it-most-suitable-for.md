@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for.md
 url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
 score: -1.0
+related_article1:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article2:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article3:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article4:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article5:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding.md
 url: /learn/biotechnology/questions/what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding
 score: -1.0
+related_article1:
+    id: 166840
+    title: How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article2:
+    id: 166837
+    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article3:
+    id: 166837
+    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article4:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article5:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 ---
 
 &nbsp;

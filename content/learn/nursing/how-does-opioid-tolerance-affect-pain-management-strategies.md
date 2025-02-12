@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-opioid-tolerance-affect-pain-management-strategies.md
 url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
 score: -1.0
+related_article1:
+    id: 166478
+    title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
+related_article2:
+    id: 166473
+    title: What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+related_article3:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article4:
+    id: 166474
+    title: How does definitive treatment differ from empiric treatment in terms of timing and application?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
+related_article5:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

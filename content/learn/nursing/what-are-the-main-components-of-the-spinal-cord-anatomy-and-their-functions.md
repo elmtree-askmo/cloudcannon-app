@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions.md
 url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 score: -1.0
+related_article1:
+    id: 170487
+    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
+related_article2:
+    id: 170488
+    title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article3:
+    id: 170500
+    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article4:
+    id: 170494
+    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
 ---
 
 &nbsp;

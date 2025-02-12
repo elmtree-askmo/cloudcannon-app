@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity.md
 url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 score: -1.0
+related_article1:
+    id: 167054
+    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article2:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article3:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article4:
+    id: 167047
+    title: Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article5:
+    id: 167039
+    title: What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
 ---
 
 &nbsp;

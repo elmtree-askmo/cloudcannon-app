@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction.md
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
 score: -1.0
+related_article1:
+    id: 162025
+    title: Describe the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
+related_article2:
+    id: 162020
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article3:
+    id: 161929
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article4:
+    id: 162023
+    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article5:
+    id: 161929
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 ---
 
 &nbsp;

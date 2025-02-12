@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure.md
 url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 score: -1.0
+related_article1:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article2:
+    id: 162489
+    title: What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article3:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article4:
+    id: 162495
+    title: How does translation affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+related_article5:
+    id: 162484
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking.md
 url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
 score: -1.0
+related_article1:
+    id: 160508
+    title: How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
+related_article2:
+    id: 160104
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article3:
+    id: 160209
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article4:
+    id: 160564
+    title: What is the significance of population distribution and cultural landscapes in human systems?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+related_article5:
+    id: 160101
+    title: What is the importance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
 ---
 
 &nbsp;

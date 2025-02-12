@@ -21,6 +21,31 @@ subject: Nursing
 file_name: in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society.md
 url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
 score: -1.0
+related_article1:
+    id: 169639
+    title: Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
+related_article2:
+    id: 169628
+    title: What are the key elements that define discrimination and how do they manifest in society?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
+related_article3:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article4:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article5:
+    id: 169630
+    title: What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
 ---
 
 &nbsp;

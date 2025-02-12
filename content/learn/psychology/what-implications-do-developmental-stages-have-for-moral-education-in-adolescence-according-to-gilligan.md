@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan.md
 url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 score: -1.0
+related_article1:
+    id: 164211
+    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article2:
+    id: 164206
+    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+related_article3:
+    id: 164205
+    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+related_article4:
+    id: 164213
+    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
+related_article5:
+    id: 164213
+    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
 ---
 
 &nbsp;

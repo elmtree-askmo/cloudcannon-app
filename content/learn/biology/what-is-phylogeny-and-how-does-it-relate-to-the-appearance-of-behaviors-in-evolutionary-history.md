@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history.md
 url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
 score: -1.0
+related_article1:
+    id: 166332
+    title: What are Darwin's four postulates, and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
+related_article2:
+    id: 166326
+    title: How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article3:
+    id: 166333
+    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
+related_article4:
+    id: 166321
+    title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 ---
 
 &nbsp;

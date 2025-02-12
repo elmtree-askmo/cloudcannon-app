@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-properties-of-protons-neutrons-and-electrons.md
 url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
 score: -1.0
+related_article1:
+    id: 167413
+    title: What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article2:
+    id: 167414
+    title: Describe the structure and function of the phosphate group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-phosphate-group
+related_article3:
+    id: 167402
+    title: Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article4:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article5:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

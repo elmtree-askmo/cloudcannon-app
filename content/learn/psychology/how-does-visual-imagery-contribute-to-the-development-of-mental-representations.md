@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-visual-imagery-contribute-to-the-development-of-mental-representations.md
 url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
 score: -1.0
+related_article1:
+    id: 168091
+    title: What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
+related_article2:
+    id: 168086
+    title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
+related_article3:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
+related_article4:
+    id: 168078
+    title: How do reflexive reactions contribute to cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants
+related_article5:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
 ---
 
 &nbsp;

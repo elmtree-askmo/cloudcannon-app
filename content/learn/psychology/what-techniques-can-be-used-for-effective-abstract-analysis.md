@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-techniques-can-be-used-for-effective-abstract-analysis.md
 url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
 score: -1.0
+related_article1:
+    id: 165210
+    title: What are the primary benefits of conducting a randomized control trial?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article2:
+    id: 165212
+    title: How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article3:
+    id: 165223
+    title: What is the word length effect and how does it impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
+related_article4:
+    id: 165208
+    title: What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+related_article5:
+    id: 165208
+    title: What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
 ---
 
 &nbsp;

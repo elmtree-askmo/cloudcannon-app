@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer.md
 url: /learn/nursing/questions/what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer
 score: -1.0
+related_article1:
+    id: 169695
+    title: What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article2:
+    id: 169686
+    title: How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+related_article3:
+    id: 169696
+    title: How does melatonin regulate sleep, and what factors can affect its production and release?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-melatonin-regulate-sleep-and-what-factors-can-affect-its-production-and-release
+related_article4:
+    id: 169698
+    title: How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article5:
+    id: 169691
+    title: What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
 ---
 
 &nbsp;

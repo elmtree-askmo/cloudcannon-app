@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-are-dermatomes-mapped-and-what-is-their-clinical-significance.md
 url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 score: -1.0
+related_article1:
+    id: 170449
+    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
+related_article2:
+    id: 170447
+    title: Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+related_article3:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article4:
+    id: 170457
+    title: What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article5:
+    id: 170455
+    title: What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
 ---
 
 &nbsp;

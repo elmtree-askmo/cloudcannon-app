@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-regional-disparities-contribute-to-economic-inequality.md
 url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
 score: -1.0
+related_article1:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article2:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article3:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article4:
+    id: 165994
+    title: How does international cooperation address global health concerns such as disease transmission?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
+related_article5:
+    id: 165995
+    title: What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
 ---
 
 &nbsp;

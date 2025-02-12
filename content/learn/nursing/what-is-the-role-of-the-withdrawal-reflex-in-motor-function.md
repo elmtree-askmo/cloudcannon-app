@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-the-withdrawal-reflex-in-motor-function.md
 url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 score: -1.0
+related_article1:
+    id: 170459
+    title: What mechanisms underlie synaptic plasticity in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
+related_article2:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article3:
+    id: 170457
+    title: What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article4:
+    id: 170453
+    title: Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
+related_article5:
+    id: 170449
+    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 ---
 
 &nbsp;

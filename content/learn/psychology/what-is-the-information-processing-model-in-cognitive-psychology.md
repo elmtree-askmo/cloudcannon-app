@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-information-processing-model-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 164488
+    title: What is the role of memory in self-awareness and temporal awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
+related_article2:
+    id: 164501
+    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
+related_article3:
+    id: 164501
+    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
+related_article4:
+    id: 164501
+    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
+related_article5:
+    id: 164491
+    title: What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 ---
 
 &nbsp;

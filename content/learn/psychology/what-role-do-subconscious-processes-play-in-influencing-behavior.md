@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-subconscious-processes-play-in-influencing-behavior.md
 url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 score: -1.0
+related_article1:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article2:
+    id: 164678
+    title: What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article3:
+    id: 164690
+    title: What were some key discoveries in the historical development of neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
+related_article4:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article5:
+    id: 164690
+    title: What were some key discoveries in the historical development of neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain.md
 url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 score: -1.0
+related_article1:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article2:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article3:
+    id: 170569
+    title: How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article4:
+    id: 170576
+    title: What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article5:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 ---
 
 &nbsp;

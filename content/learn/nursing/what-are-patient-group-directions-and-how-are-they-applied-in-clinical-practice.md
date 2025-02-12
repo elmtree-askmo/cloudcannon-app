@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice.md
 url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 score: -1.0
+related_article1:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article2:
+    id: 169745
+    title: What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article3:
+    id: 169764
+    title: What are the best practices for prescribing medications, and what common pitfalls should be avoided?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
+related_article4:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article5:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
 ---
 
 &nbsp;

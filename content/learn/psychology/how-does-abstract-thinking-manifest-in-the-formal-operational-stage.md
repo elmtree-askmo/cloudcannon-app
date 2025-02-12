@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-abstract-thinking-manifest-in-the-formal-operational-stage.md
 url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
 score: -1.0
+related_article1:
+    id: 168003
+    title: How does deferred imitation challenge Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+related_article2:
+    id: 168008
+    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article3:
+    id: 167997
+    title: Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article4:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article5:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy.md
 url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
 score: -1.0
+related_article1:
+    id: 164416
+    title: What is the difference between distal and proximal in anatomical terminology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
+related_article2:
+    id: 164409
+    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+related_article3:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
+related_article4:
+    id: 164411
+    title: What are the primary functions of the occipital lobe in the cerebral cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
+related_article5:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 ---
 
 &nbsp;

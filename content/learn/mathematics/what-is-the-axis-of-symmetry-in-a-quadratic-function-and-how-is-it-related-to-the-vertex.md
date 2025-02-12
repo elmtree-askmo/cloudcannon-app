@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex.md
 url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
 score: -1.0
+related_article1:
+    id: 163752
+    title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
+related_article2:
+    id: 163752
+    title: How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
+related_article3:
+    id: 163745
+    title: How can you determine the vertex of a parabola from a quadratic equation in standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
+related_article4:
+    id: 163753
+    title: What are the steps to convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-to-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article5:
+    id: 163762
+    title: How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
 ---
 
 &nbsp;

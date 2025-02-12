@@ -2,8 +2,8 @@
 _schema: default
 id: 162044
 date: 2025-01-24
-title: "What are the key differences between the physical states of matter: solid, liquid, and gas?"
-article_title: "What are the key differences between the physical states of matter: solid, liquid, and gas?"
+title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+article_title: What are the key differences between the physical states of matter: solid, liquid, and gas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas.md
 url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 score: -1.0
+related_article1:
+    id: 162042
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article2:
+    id: 162039
+    title: What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article3:
+    id: 161969
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article4:
+    id: 161984
+    title: What are the characteristics of liquids that differentiate them from solids and gases?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
+related_article5:
+    id: 161980
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent.md
 url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
 score: -1.0
+related_article1:
+    id: 170713
+    title: Why is time complexity important in algorithm analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
+related_article2:
+    id: 170709
+    title: What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article3:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article4:
+    id: 170712
+    title: How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
+related_article5:
+    id: 170721
+    title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
 ---
 
 &nbsp;

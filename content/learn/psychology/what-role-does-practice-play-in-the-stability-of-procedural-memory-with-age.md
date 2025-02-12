@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age.md
 url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
 score: -1.0
+related_article1:
+    id: 168038
+    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article2:
+    id: 168043
+    title: Why are memory encoding strategies particularly important for older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-memory-encoding-strategies-particularly-important-for-older-adults
+related_article3:
+    id: 168041
+    title: How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article4:
+    id: 168034
+    title: How can encoding strategies benefit older adults in maintaining memory function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
+related_article5:
+    id: 168042
+    title: What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
 ---
 
 &nbsp;

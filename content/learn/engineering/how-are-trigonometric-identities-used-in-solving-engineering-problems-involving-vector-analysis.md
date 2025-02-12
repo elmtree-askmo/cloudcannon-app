@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis.md
 url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
 score: -1.0
+related_article1:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article2:
+    id: 166663
+    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article3:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article4:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+related_article5:
+    id: 166671
+    title: How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
 ---
 
 &nbsp;

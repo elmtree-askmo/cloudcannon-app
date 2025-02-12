@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
 score: -1.0
+related_article1:
+    id: 167139
+    title: What role do hydrogen bonds play in the molecular structure of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+related_article2:
+    id: 167139
+    title: What role do hydrogen bonds play in the molecular structure of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+related_article3:
+    id: 167131
+    title: What are the three states of matter in which water can exist?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
+related_article4:
+    id: 167132
+    title: How does the density of water differ between its liquid and solid states?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
+related_article5:
+    id: 167132
+    title: How does the density of water differ between its liquid and solid states?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
 ---
 
 &nbsp;

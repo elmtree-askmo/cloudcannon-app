@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-right-hemisphere-play-in-language-comprehension.md
 url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
 score: -1.0
+related_article1:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article2:
+    id: 164391
+    title: How does cognitive psychology contribute to our understanding of speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+related_article3:
+    id: 164388
+    title: What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article4:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article5:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 ---
 
 &nbsp;

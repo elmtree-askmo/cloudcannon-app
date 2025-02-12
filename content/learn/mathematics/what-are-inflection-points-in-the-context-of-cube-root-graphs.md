@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-inflection-points-in-the-context-of-cube-root-graphs.md
 url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 score: -1.0
+related_article1:
+    id: 163772
+    title: Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article2:
+    id: 163748
+    title: What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+related_article3:
+    id: 163775
+    title: How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+related_article4:
+    id: 163777
+    title: What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article5:
+    id: 163768
+    title: How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 ---
 
 &nbsp;

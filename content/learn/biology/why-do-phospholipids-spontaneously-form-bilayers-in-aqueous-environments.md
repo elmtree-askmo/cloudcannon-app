@@ -21,6 +21,26 @@ subject: Biology
 file_name: why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments.md
 url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
 score: -1.0
+related_article1:
+    id: 167362
+    title: Explain the concept of selective permeability and its importance to cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
+related_article2:
+    id: 167370
+    title: What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article3:
+    id: 167355
+    title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
+related_article4:
+    id: 167364
+    title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 ---
 
 &nbsp;

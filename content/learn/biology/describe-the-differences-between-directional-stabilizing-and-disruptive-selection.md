@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-differences-between-directional-stabilizing-and-disruptive-selection.md
 url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 score: -1.0
+related_article1:
+    id: 166360
+    title: What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article2:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166362
+    title: How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+related_article4:
+    id: 166369
+    title: What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+related_article5:
+    id: 166360
+    title: What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
 ---
 
 &nbsp;

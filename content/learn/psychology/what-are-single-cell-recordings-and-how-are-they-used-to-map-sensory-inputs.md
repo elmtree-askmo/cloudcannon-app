@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs.md
 url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
 score: -1.0
+related_article1:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article2:
+    id: 164246
+    title: What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
+related_article3:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
+related_article4:
+    id: 164247
+    title: How does the portable magnification factor emphasize central vision in the retinotropic map?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+related_article5:
+    id: 164256
+    title: Define sound frequencies and explain their characteristics such as harmonics and overtones.
+    subject: Psychology
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 ---
 
 &nbsp;

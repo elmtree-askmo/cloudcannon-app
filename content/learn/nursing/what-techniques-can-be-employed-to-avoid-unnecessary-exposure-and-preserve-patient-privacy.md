@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy.md
 url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 score: -1.0
+related_article1:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article2:
+    id: 169496
+    title: What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
+related_article3:
+    id: 169494
+    title: What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article4:
+    id: 169485
+    title: What are effective communication strategies for building rapport with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
+related_article5:
+    id: 169475
+    title: What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
 ---
 
 &nbsp;

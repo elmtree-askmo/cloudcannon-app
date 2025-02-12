@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success.md
 url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
 score: -1.0
+related_article1:
+    id: 170793
+    title: How does phenotypic variation influence frequency-dependent selection?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
+related_article2:
+    id: 170792
+    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article3:
+    id: 170802
+    title: What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article4:
+    id: 170795
+    title: What is the significance of equilibrium analysis in the context of a payoff matrix?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
+related_article5:
+    id: 170793
+    title: How does phenotypic variation influence frequency-dependent selection?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
 ---
 
 &nbsp;

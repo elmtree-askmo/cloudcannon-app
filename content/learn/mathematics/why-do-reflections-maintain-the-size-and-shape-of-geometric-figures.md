@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-do-reflections-maintain-the-size-and-shape-of-geometric-figures.md
 url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 score: -1.0
+related_article1:
+    id: 162761
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article2:
+    id: 162508
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162385
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article4:
+    id: 162767
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article5:
+    id: 162815
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 ---
 
 &nbsp;

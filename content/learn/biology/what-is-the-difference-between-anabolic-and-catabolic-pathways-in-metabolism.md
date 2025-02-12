@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism.md
 url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
 score: -1.0
+related_article1:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article2:
+    id: 169960
+    title: How does selective permeability contribute to homeostasis in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
+related_article3:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article4:
+    id: 169957
+    title: What is the function of the nucleoid region in prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
+related_article5:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hydrolysis-reactions-contribute-to-metabolism.md
 url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 score: -1.0
+related_article1:
+    id: 167031
+    title: How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article2:
+    id: 167024
+    title: Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article3:
+    id: 167029
+    title: How do carbohydrates participate in cellular communication?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
+related_article4:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article5:
+    id: 167031
+    title: How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
 ---
 
 &nbsp;

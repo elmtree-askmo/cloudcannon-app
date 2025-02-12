@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-observation-in-scientific-inquiry.md
 url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 score: -1.0
+related_article1:
+    id: 166917
+    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+related_article2:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article3:
+    id: 166919
+    title: How do organisms acquire and utilize energy for their metabolic processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+related_article4:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article5:
+    id: 166922
+    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 ---
 
 &nbsp;

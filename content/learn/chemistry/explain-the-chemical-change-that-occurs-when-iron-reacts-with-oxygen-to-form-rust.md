@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust.md
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 score: -1.0
+related_article1:
+    id: 161939
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article2:
+    id: 161942
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article3:
+    id: 162044
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 161946
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article5:
+    id: 161982
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 ---
 
 &nbsp;

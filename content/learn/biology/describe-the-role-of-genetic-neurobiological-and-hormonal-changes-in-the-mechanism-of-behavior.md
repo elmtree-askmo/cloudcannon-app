@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior.md
 url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
 score: -1.0
+related_article1:
+    id: 165268
+    title: How does stabilizing selection contribute to population stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
+related_article2:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article3:
+    id: 165265
+    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
+related_article4:
+    id: 165260
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article5:
+    id: 165267
+    title: What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
 ---
 
 &nbsp;

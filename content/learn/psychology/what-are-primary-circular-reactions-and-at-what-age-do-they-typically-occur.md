@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur.md
 url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 score: -1.0
+related_article1:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article2:
+    id: 168095
+    title: Provide an example of a primary circular reaction.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
+related_article3:
+    id: 168106
+    title: How do sensory input and motor actions contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article4:
+    id: 168096
+    title: What distinguishes secondary circular reactions from primary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+related_article5:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
 ---
 
 &nbsp;

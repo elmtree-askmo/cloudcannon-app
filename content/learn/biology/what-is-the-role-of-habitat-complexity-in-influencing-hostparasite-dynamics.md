@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics.md
 url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 score: -1.0
+related_article1:
+    id: 166120
+    title: What are the ecological consequences of parasitism on host population density?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-ecological-consequences-of-parasitism-on-host-population-density
+related_article2:
+    id: 166118
+    title: What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
+related_article3:
+    id: 166122
+    title: What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article4:
+    id: 166129
+    title: What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+related_article5:
+    id: 166128
+    title: Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
 ---
 
 &nbsp;

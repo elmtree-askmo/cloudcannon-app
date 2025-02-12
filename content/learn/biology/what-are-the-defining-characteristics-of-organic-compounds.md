@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-defining-characteristics-of-organic-compounds.md
 url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 score: -1.0
+related_article1:
+    id: 167457
+    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article2:
+    id: 167444
+    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+related_article3:
+    id: 167453
+    title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    subject: Biology
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+related_article4:
+    id: 167447
+    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article5:
+    id: 167445
+    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

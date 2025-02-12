@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes.md
 url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
 score: -1.0
+related_article1:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article2:
+    id: 169599
+    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+related_article3:
+    id: 169585
+    title: What are the limitations and criticisms of the medical model of disability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
+related_article4:
+    id: 169588
+    title: What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+related_article5:
+    id: 169588
+    title: What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
 ---
 
 &nbsp;

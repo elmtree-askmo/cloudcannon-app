@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries.md
 url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
 score: -1.0
+related_article1:
+    id: 164440
+    title: How do anoxic and hypoxic injuries impact brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
+related_article2:
+    id: 164449
+    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article3:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+related_article4:
+    id: 164439
+    title: What are the key differences between anoxic and hypoxic brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
+related_article5:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-cognitive-engagement-in-brain-activity.md
 url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
 score: -1.0
+related_article1:
+    id: 164297
+    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article2:
+    id: 164301
+    title: What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+related_article3:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+related_article4:
+    id: 164306
+    title: What is the significance of shape analysis in visual identification?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-shape-analysis-in-visual-identification
+related_article5:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships.md
 url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 167598
+    title: What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article2:
+    id: 167595
+    title: What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+related_article3:
+    id: 167589
+    title: What were Charles Darwin's contributions to the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-were-charles-darwins-contributions-to-the-theory-of-evolution
+related_article4:
+    id: 167583
+    title: How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article5:
+    id: 167583
+    title: How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
 ---
 
 &nbsp;

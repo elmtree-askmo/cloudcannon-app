@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival.md
 url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
 score: -1.0
+related_article1:
+    id: 165304
+    title: Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article2:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article3:
+    id: 165311
+    title: What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article4:
+    id: 165307
+    title: How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article5:
+    id: 165313
+    title: How do early experiences influence the development of behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
 ---
 
 &nbsp;

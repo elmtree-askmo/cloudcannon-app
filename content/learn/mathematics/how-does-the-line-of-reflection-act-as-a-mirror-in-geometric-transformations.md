@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162699
+    title: Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article2:
+    id: 162906
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article3:
+    id: 162821
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article4:
+    id: 162904
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article5:
+    id: 162524
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 ---
 
 &nbsp;

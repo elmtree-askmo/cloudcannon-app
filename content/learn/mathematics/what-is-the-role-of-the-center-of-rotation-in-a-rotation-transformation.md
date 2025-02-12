@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation.md
 url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
 score: -1.0
+related_article1:
+    id: 162312
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article2:
+    id: 162331
+    title: Why is identifying vertices important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
+related_article3:
+    id: 162225
+    title: What strategies can be used to match the orientation of two figures after a transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+related_article4:
+    id: 162228
+    title: How do you interpret changes in coordinates when a figure is translated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
+related_article5:
+    id: 162217
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 ---
 
 &nbsp;

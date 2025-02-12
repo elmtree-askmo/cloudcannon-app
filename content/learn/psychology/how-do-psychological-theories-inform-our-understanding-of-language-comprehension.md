@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-psychological-theories-inform-our-understanding-of-language-comprehension.md
 url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
 score: -1.0
+related_article1:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article2:
+    id: 164384
+    title: How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article3:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article4:
+    id: 164399
+    title: What is the role of cognitive psychology in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+related_article5:
+    id: 164396
+    title: How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature.md
 url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
 score: -1.0
+related_article1:
+    id: 167039
+    title: What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article2:
+    id: 167046
+    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+related_article3:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article4:
+    id: 167054
+    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article5:
+    id: 167043
+    title: What role does resonance stability play in the properties of carboxyl groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
 ---
 
 &nbsp;

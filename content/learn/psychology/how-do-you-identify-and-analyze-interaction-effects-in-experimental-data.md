@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-you-identify-and-analyze-interaction-effects-in-experimental-data.md
 url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 score: -1.0
+related_article1:
+    id: 165081
+    title: What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+related_article2:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article3:
+    id: 165093
+    title: Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article4:
+    id: 165069
+    title: How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article5:
+    id: 165081
+    title: What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
 ---
 
 &nbsp;

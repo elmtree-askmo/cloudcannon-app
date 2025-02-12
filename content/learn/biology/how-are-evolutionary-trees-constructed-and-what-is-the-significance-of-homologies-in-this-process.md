@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process.md
 url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 score: -1.0
+related_article1:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article2:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article3:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article4:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article5:
+    id: 167749
+    title: Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 ---
 
 &nbsp;

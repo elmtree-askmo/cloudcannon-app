@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling.md
 url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 score: -1.0
+related_article1:
+    id: 170362
+    title: How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article2:
+    id: 170359
+    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article3:
+    id: 170371
+    title: What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article4:
+    id: 170370
+    title: Describe the structure of mitochondria and its role in ATP synthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
+related_article5:
+    id: 170358
+    title: What are the main carbon reservoirs in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
 ---
 
 &nbsp;

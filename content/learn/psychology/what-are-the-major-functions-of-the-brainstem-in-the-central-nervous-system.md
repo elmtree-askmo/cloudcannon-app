@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system.md
 url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 score: -1.0
+related_article1:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article2:
+    id: 170480
+    title: What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+related_article3:
+    id: 170465
+    title: What is the role of synaptic transmission in neurophysiology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
+related_article4:
+    id: 170464
+    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
+    id: 170483
+    title: What are the components of a reflex arc in neural pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 ---
 
 &nbsp;

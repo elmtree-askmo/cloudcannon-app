@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization.md
 url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
 score: -1.0
+related_article1:
+    id: 160100
+    title: How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
+related_article2:
+    id: 160642
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article3:
+    id: 160090
+    title: How do community dynamics and social inequality influence social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
+related_article4:
+    id: 160558
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article5:
+    id: 160493
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

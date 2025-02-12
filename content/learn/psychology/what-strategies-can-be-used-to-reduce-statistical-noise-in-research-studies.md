@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
 score: -1.0
+related_article1:
+    id: 164890
+    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article2:
+    id: 164889
+    title: What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article3:
+    id: 164896
+    title: What factors influence the recovery of language impairments following brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
+related_article4:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article5:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
 ---
 
 &nbsp;

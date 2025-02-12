@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-improve-decisionmaking-skills.md
 url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
 score: -1.0
+related_article1:
+    id: 169817
+    title: How does body language influence interpersonal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
+related_article2:
+    id: 169808
+    title: What strategies can be used to build strong interpersonal relationships?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
+related_article3:
+    id: 169802
+    title: What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+related_article4:
+    id: 169808
+    title: What strategies can be used to build strong interpersonal relationships?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
+related_article5:
+    id: 169816
+    title: What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
 ---
 
 &nbsp;

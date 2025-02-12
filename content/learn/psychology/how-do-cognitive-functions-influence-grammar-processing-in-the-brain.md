@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-cognitive-functions-influence-grammar-processing-in-the-brain.md
 url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
 score: -1.0
+related_article1:
+    id: 164380
+    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article2:
+    id: 164404
+    title: What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
+related_article3:
+    id: 164395
+    title: What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article4:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article5:
+    id: 164387
+    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 ---
 
 &nbsp;

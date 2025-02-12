@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-heritability-and-how-is-it-studied-in-behavioral-traits.md
 url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 score: -1.0
+related_article1:
+    id: 166393
+    title: What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article2:
+    id: 166380
+    title: How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article3:
+    id: 166391
+    title: How do hormone-receptor interactions influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
+related_article4:
+    id: 166378
+    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+related_article5:
+    id: 166378
+    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
 ---
 
 &nbsp;

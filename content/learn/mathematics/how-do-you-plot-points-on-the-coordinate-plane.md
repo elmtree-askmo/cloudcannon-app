@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-plot-points-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 168420
+    title: How can you identify transformations by analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
+related_article2:
+    id: 168417
+    title: What are the mathematical properties of reflections that result in opposite y-values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+related_article3:
+    id: 168413
+    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+related_article4:
+    id: 168416
+    title: What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article5:
+    id: 168413
+    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
 ---
 
 &nbsp;

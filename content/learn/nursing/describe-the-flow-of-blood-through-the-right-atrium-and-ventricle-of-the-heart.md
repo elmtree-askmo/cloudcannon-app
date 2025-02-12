@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart.md
 url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
 score: -1.0
+related_article1:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article2:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article3:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article4:
+    id: 169715
+    title: What is the role of hydrochloric acid in the stomach?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
+related_article5:
+    id: 169711
+    title: What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
 ---
 
 &nbsp;

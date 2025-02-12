@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-and-ionic-interactions-contribute-to-protein-folding-and-stability.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-and-ionic-interactions-contribute-to-protein-folding-and-stability
 score: -1.0
+related_article1:
+    id: 167073
+    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
+related_article2:
+    id: 167083
+    title: What are the primary types of biomolecules and their functions in living organisms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
+related_article3:
+    id: 167071
+    title: What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article4:
+    id: 167085
+    title: What is the relationship between mass number, protons, and neutrons in determining atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
+related_article5:
+    id: 167073
+    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 ---
 
 &nbsp;

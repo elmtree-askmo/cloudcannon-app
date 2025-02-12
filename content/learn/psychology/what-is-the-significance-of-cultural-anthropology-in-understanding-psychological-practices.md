@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices.md
 url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
 score: -1.0
+related_article1:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article2:
+    id: 167686
+    title: What distinguishes adaptive behaviors from maladaptive behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+related_article3:
+    id: 167696
+    title: What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article4:
+    id: 167689
+    title: How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article5:
+    id: 167698
+    title: What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
 ---
 
 &nbsp;

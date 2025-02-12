@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes.md
 url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164241
+    title: What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article2:
+    id: 164234
+    title: How is fMRI used in clinical diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
+related_article3:
+    id: 164234
+    title: How is fMRI used in clinical diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
+related_article4:
+    id: 164242
+    title: How do imaging techniques measure neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
+related_article5:
+    id: 164233
+    title: What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-bloodbrain-barrier-affect-drug-distribution.md
 url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 score: -1.0
+related_article1:
+    id: 166466
+    title: What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
+related_article2:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article3:
+    id: 166462
+    title: What are the primary routes of drug excretion?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
+related_article4:
+    id: 166462
+    title: What are the primary routes of drug excretion?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
+related_article5:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
 ---
 
 &nbsp;

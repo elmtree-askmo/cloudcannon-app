@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems.md
 url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
 score: -1.0
+related_article1:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article2:
+    id: 167581
+    title: What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+related_article3:
+    id: 167572
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 167575
+    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+related_article5:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
 ---
 
 &nbsp;

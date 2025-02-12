@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality.md
 url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 score: -1.0
+related_article1:
+    id: 164082
+    title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
+related_article2:
+    id: 164070
+    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article3:
+    id: 164075
+    title: How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
+related_article4:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article5:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
 ---
 
 &nbsp;

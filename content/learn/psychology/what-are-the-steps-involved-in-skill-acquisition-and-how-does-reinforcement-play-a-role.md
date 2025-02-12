@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role.md
 url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
 score: -1.0
+related_article1:
+    id: 169327
+    title: Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-monitoring-important-in-behavior-intervention-and-what-tools-are-used-for-effective-monitoring
+related_article2:
+    id: 169322
+    title: How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article3:
+    id: 169311
+    title: What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article4:
+    id: 169316
+    title: What is the topography of behavior and why is it significant in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+related_article5:
+    id: 169329
+    title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 ---
 
 &nbsp;

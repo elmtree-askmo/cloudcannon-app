@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
 score: -1.0
+related_article1:
+    id: 168047
+    title: What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article2:
+    id: 168033
+    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
+related_article3:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article4:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article5:
+    id: 168034
+    title: How can encoding strategies benefit older adults in maintaining memory function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games.md
 url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
 score: -1.0
+related_article1:
+    id: 170800
+    title: What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article2:
+    id: 170805
+    title: How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article3:
+    id: 170799
+    title: In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
+related_article4:
+    id: 170790
+    title: What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+related_article5:
+    id: 170807
+    title: How does phenotypic variation impact long-term evolutionary trends?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 ---
 
 &nbsp;

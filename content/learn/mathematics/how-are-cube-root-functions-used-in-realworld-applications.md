@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-cube-root-functions-used-in-realworld-applications.md
 url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 score: -1.0
+related_article1:
+    id: 163770
+    title: What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article2:
+    id: 163744
+    title: What is the general form of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
+related_article3:
+    id: 163775
+    title: How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+related_article4:
+    id: 163758
+    title: What are the key features of cube root functions in terms of intercepts and symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry
+related_article5:
+    id: 163773
+    title: What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 ---
 
 &nbsp;

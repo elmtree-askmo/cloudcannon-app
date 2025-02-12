@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods.md
 url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
 score: -1.0
+related_article1:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article2:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article3:
+    id: 163665
+    title: How do epistemological claims influence knowledge production in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+related_article4:
+    id: 163659
+    title: How does thematic analysis differ from coding in qualitative data analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-thematic-analysis-differ-from-coding-in-qualitative-data-analysis
+related_article5:
+    id: 163664
+    title: What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 ---
 
 &nbsp;

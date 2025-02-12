@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion.md
 url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 score: -1.0
+related_article1:
+    id: 167181
+    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+related_article2:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article3:
+    id: 167186
+    title: How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article4:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article5:
+    id: 167181
+    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
 ---
 
 &nbsp;

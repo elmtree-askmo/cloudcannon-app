@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines.md
 url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 score: -1.0
+related_article1:
+    id: 165221
+    title: What techniques can be used for effective abstract analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+related_article2:
+    id: 165214
+    title: What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
+related_article3:
+    id: 165222
+    title: What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
+related_article4:
+    id: 165220
+    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
 ---
 
 &nbsp;

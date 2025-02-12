@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills.md
 url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
 score: -1.0
+related_article1:
+    id: 167956
+    title: What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+related_article2:
+    id: 167952
+    title: In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article3:
+    id: 167956
+    title: What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+related_article4:
+    id: 167954
+    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
+related_article5:
+    id: 167954
+    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival.md
 url: /learn/chemistry/questions/describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival
 score: -1.0
+related_article1:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article2:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article3:
+    id: 167425
+    title: What is hydrogen bonding and how does it influence the properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
+related_article4:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article5:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 ---
 
 &nbsp;

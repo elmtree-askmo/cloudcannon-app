@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function.md
 url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
 score: -1.0
+related_article1:
+    id: 164775
+    title: How do arousal and memory interact in the context of stress response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
+related_article2:
+    id: 164772
+    title: What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other
+related_article3:
+    id: 164775
+    title: How do arousal and memory interact in the context of stress response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
+related_article4:
+    id: 164772
+    title: What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other
+related_article5:
+    id: 164776
+    title: What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation.md
 url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 score: -1.0
+related_article1:
+    id: 164384
+    title: How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article2:
+    id: 164397
+    title: What role does the right hemisphere play in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+related_article3:
+    id: 164402
+    title: Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article4:
+    id: 164381
+    title: How does the right brain hemisphere contribute to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
+related_article5:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
 ---
 
 &nbsp;

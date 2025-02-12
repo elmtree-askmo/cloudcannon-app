@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-role-of-the-parietal-lobe-in-sensory-integration.md
 url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
 score: -1.0
+related_article1:
+    id: 164443
+    title: What internal factors can lead to brain injury, and how do they affect the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
+related_article2:
+    id: 164450
+    title: What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
+related_article3:
+    id: 164453
+    title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
+related_article4:
+    id: 164451
+    title: How can emotional and behavioral effects manifest in individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
+related_article5:
+    id: 164457
+    title: What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
 ---
 
 &nbsp;

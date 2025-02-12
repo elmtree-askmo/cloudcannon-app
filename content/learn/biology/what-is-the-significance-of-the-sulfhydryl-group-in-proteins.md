@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-sulfhydryl-group-in-proteins.md
 url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 score: -1.0
+related_article1:
+    id: 167404
+    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article2:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article3:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article4:
+    id: 167398
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
+    id: 167416
+    title: Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
 ---
 
 &nbsp;

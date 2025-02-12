@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-social-model-of-disability-promote-patientcentered-care.md
 url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 score: -1.0
+related_article1:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article2:
+    id: 169597
+    title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
+related_article3:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article4:
+    id: 169590
+    title: How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article5:
+    id: 169593
+    title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 ---
 
 &nbsp;

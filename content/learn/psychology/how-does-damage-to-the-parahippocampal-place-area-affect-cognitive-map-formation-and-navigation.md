@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation.md
 url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation
 score: -1.0
+related_article1:
+    id: 164474
+    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article2:
+    id: 164464
+    title: How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+related_article3:
+    id: 164469
+    title: What are the challenges associated with egocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
+related_article4:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article5:
+    id: 164473
+    title: What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
 ---
 
 &nbsp;

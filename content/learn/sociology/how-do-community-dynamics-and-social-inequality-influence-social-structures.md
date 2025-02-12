@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-community-dynamics-and-social-inequality-influence-social-structures.md
 url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
 score: -1.0
+related_article1:
+    id: 160092
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article2:
+    id: 160564
+    title: What is the significance of population distribution and cultural landscapes in human systems?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+related_article3:
+    id: 160216
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article4:
+    id: 160628
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article5:
+    id: 160551
+    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
 ---
 
 &nbsp;

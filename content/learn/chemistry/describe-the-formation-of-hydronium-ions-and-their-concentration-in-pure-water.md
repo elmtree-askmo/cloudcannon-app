@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water.md
 url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 score: -1.0
+related_article1:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article2:
+    id: 167625
+    title: What is the pH scale and how is it calculated using a logarithmic scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-how-is-it-calculated-using-a-logarithmic-scale
+related_article3:
+    id: 167623
+    title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article4:
+    id: 167625
+    title: What is the pH scale and how is it calculated using a logarithmic scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-how-is-it-calculated-using-a-logarithmic-scale
+related_article5:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
 ---
 
 &nbsp;

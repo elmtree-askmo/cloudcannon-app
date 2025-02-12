@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management.md
 url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 score: -1.0
+related_article1:
+    id: 169912
+    title: How do the stock market and bond market function within financial markets?
+    subject: Economics
+    url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
+related_article2:
+    id: 169909
+    title: What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article3:
+    id: 169909
+    title: What is the role of collective bargaining in labor relations?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+related_article4:
+    id: 169906
+    title: How do supply and demand affect price signals and inflation in market structures?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
+related_article5:
+    id: 169907
+    title: What are the fundamental differences between capitalism and socialism as economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-distributive-laws-and-provide-an-example-of-their-application.md
 url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
 score: -1.0
+related_article1:
+    id: 170207
+    title: How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article2:
+    id: 170201
+    title: What is a logical equivalency and how is it represented in notation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+related_article3:
+    id: 170207
+    title: How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article4:
+    id: 170202
+    title: How can truth tables be used to determine logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+related_article5:
+    id: 170217
+    title: What is a logical implication and how is it used in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 ---
 
 &nbsp;

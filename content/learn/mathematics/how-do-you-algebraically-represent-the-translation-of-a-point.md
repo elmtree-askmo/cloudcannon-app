@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-algebraically-represent-the-translation-of-a-point.md
 url: /learn/mathematics/questions/how-do-you-algebraically-represent-the-translation-of-a-point
 score: -1.0
+related_article1:
+    id: 162301
+    title: What is the concept of a mirror image in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
+related_article2:
+    id: 162304
+    title: How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article3:
+    id: 162164
+    title: How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+related_article4:
+    id: 162304
+    title: How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article5:
+    id: 162310
+    title: What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
 ---
 
 &nbsp;

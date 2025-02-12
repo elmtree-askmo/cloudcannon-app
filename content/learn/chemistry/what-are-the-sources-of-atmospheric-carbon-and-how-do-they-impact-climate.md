@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate.md
 url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 score: -1.0
+related_article1:
+    id: 170412
+    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article2:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article3:
+    id: 170395
+    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+related_article4:
+    id: 170399
+    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article5:
+    id: 170410
+    title: Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
 ---
 
 &nbsp;

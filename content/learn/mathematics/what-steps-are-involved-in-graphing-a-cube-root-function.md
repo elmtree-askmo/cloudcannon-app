@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-steps-are-involved-in-graphing-a-cube-root-function.md
 url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 score: -1.0
+related_article1:
+    id: 163764
+    title: What impact do coefficients have on the graphs of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
+related_article2:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article3:
+    id: 163771
+    title: What is the shape and direction of a typical cube root graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
+related_article4:
+    id: 163758
+    title: What are the key features of cube root functions in terms of intercepts and symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry
+related_article5:
+    id: 163780
+    title: What does it mean for a function to be continuous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 ---
 
 &nbsp;

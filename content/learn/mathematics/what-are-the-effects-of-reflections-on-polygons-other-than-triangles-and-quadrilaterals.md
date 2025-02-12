@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals.md
 url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 score: -1.0
+related_article1:
+    id: 162761
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article2:
+    id: 162748
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+related_article3:
+    id: 162764
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162412
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article5:
+    id: 162799
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 ---
 
 &nbsp;

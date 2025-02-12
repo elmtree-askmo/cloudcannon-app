@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples.md
 url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
 score: -1.0
+related_article1:
+    id: 169077
+    title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+related_article2:
+    id: 169078
+    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
+related_article3:
+    id: 169078
+    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
+related_article4:
+    id: 169071
+    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article5:
+    id: 169073
+    title: In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
 ---
 
 &nbsp;

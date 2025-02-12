@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient.md
 url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
 score: -1.0
+related_article1:
+    id: 168805
+    title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
+related_article2:
+    id: 168810
+    title: What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    subject: Biology
+    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
+related_article3:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article4:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article5:
+    id: 168808
+    title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+    subject: Biology
+    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
 ---
 
 &nbsp;

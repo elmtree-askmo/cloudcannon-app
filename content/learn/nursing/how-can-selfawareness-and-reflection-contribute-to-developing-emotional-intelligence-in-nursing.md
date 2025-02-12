@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing.md
 url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
 score: -1.0
+related_article1:
+    id: 169544
+    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+related_article2:
+    id: 169548
+    title: How can adaptability in nursing improve patient care and outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
+related_article3:
+    id: 169541
+    title: What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article4:
+    id: 169551
+    title: What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article5:
+    id: 169547
+    title: Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 ---
 
 &nbsp;

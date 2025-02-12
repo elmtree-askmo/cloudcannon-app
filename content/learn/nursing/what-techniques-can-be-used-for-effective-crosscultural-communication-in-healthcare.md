@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare.md
 url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
 score: -1.0
+related_article1:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article2:
+    id: 169494
+    title: What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article3:
+    id: 169485
+    title: What are effective communication strategies for building rapport with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
+related_article4:
+    id: 169494
+    title: What techniques can be implemented to reduce the spread of infection in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
+related_article5:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
 ---
 
 &nbsp;

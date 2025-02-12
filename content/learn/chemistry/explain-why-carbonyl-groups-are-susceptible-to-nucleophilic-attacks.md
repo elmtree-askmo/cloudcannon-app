@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks.md
 url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 score: -1.0
+related_article1:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+related_article2:
+    id: 167049
+    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article3:
+    id: 167040
+    title: How can the presence of a carbonyl group be used to identify sugars?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+related_article4:
+    id: 167046
+    title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
+related_article5:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis.md
 url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170364
+    title: Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
+related_article2:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article3:
+    id: 170360
+    title: What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+related_article4:
+    id: 170367
+    title: How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+related_article5:
+    id: 170371
+    title: What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
 ---
 
 &nbsp;

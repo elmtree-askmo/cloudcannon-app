@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-waters-high-heat-capacity-contribute-to-climate-stabilization.md
 url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
 score: -1.0
+related_article1:
+    id: 167154
+    title: How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article2:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article3:
+    id: 167141
+    title: What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article4:
+    id: 167150
+    title: What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article5:
+    id: 167146
+    title: How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-and-function-of-a-typical-cell.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
 score: -1.0
+related_article1:
+    id: 167478
+    title: What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article2:
+    id: 167467
+    title: What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+related_article3:
+    id: 167495
+    title: How can interactive learning tools be implemented in courses effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-interactive-learning-tools-be-implemented-in-courses-effectively
+related_article4:
+    id: 167484
+    title: How should students prepare for the cumulative nature of the final exam?
+    subject: Biology
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
+related_article5:
+    id: 167482
+    title: What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 ---
 
 &nbsp;

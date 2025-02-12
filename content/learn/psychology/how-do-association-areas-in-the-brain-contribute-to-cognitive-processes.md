@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-association-areas-in-the-brain-contribute-to-cognitive-processes.md
 url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164245
+    title: What is neural plasticity and how does it affect cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
+related_article2:
+    id: 164233
+    title: What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
+related_article3:
+    id: 164236
+    title: Which major brain region is primarily responsible for higher cognitive functions such as decision making and problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
+related_article4:
+    id: 164236
+    title: Which major brain region is primarily responsible for higher cognitive functions such as decision making and problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
+related_article5:
+    id: 164241
+    title: What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
 ---
 
 &nbsp;

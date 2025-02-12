@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-characteristics-of-postindustrial-economic-diversification.md
 url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
 score: -1.0
+related_article1:
+    id: 165996
+    title: How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article2:
+    id: 165984
+    title: What role did the Industrial Revolution play in the historical development of the world system?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article3:
+    id: 165999
+    title: What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article4:
+    id: 165995
+    title: What are the primary security concerns related to political instability and terrorism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+related_article5:
+    id: 165997
+    title: What are the key components of trade dynamics in global trade agreements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
 ---
 
 &nbsp;

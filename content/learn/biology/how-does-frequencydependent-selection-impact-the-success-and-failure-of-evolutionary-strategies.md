@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies.md
 url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
 score: -1.0
+related_article1:
+    id: 170800
+    title: What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article2:
+    id: 170792
+    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article3:
+    id: 170807
+    title: How does phenotypic variation impact long-term evolutionary trends?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
+related_article4:
+    id: 170801
+    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+related_article5:
+    id: 170791
+    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 ---
 
 &nbsp;

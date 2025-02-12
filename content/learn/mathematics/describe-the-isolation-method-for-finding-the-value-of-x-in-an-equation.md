@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation.md
 url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
 score: -1.0
+related_article1:
+    id: 162110
+    title: What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article2:
+    id: 162110
+    title: What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article3:
+    id: 162114
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
+related_article4:
+    id: 162117
+    title: How do you solve a linear equation in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
+related_article5:
+    id: 162117
+    title: How do you solve a linear equation in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
 ---
 
 &nbsp;

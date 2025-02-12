@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
 score: -1.0
+related_article1:
+    id: 168821
+    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article2:
+    id: 168823
+    title: Explain the mechanism of exocytosis in the transport of chylomicrons.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
+related_article3:
+    id: 168821
+    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article4:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article5:
+    id: 168820
+    title: How does the lymphatic system function in lipid transport compared to the circulatory system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
 ---
 
 &nbsp;

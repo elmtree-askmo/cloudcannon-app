@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane.md
 url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
+related_article2:
+    id: 166942
+    title: How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article3:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
+related_article4:
+    id: 166939
+    title: How does passive transport differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
+related_article5:
+    id: 166949
+    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
 ---
 
 &nbsp;

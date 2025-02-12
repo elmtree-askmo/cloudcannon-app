@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-have-trumps-tariff-threats-affected-uscanada-trade-relations.md
 url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
 score: -1.0
+related_article1:
+    id: 165631
+    title: What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
+related_article2:
+    id: 165636
+    title: What strategies are effective for political communication and public engagement?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+related_article3:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+related_article4:
+    id: 165633
+    title: What measures can be taken to ensure fairness and public trust in electoral processes?
+    subject: Politics
+    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
+related_article5:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 ---
 
 &nbsp;

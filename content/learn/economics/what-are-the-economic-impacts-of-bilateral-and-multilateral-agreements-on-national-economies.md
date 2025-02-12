@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies.md
 url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
 score: -1.0
+related_article1:
+    id: 169935
+    title: Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
+related_article2:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article3:
+    id: 169933
+    title: What factors influence consumer behavior, and how do branding and marketing play a role?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+related_article4:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+related_article5:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
 ---
 
 &nbsp;

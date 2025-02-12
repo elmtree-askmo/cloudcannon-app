@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds.md
 url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
 score: -1.0
+related_article1:
+    id: 167428
+    title: How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article2:
+    id: 167428
+    title: How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article3:
+    id: 167431
+    title: What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article4:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+related_article5:
+    id: 167425
+    title: What is hydrogen bonding and how does it influence the properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 ---
 
 &nbsp;

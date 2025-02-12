@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-translations-affect-the-endpoints-of-line-segments.md
 url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
 score: -1.0
+related_article1:
+    id: 162164
+    title: How do you reflect a point algebraically in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+related_article2:
+    id: 162298
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article3:
+    id: 162150
+    title: What is the definition of reflection in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
+related_article4:
+    id: 162161
+    title: What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article5:
+    id: 162301
+    title: What is the concept of a mirror image in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
 ---
 
 &nbsp;

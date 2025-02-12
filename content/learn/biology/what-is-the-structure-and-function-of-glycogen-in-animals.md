@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-glycogen-in-animals.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
 score: -1.0
+related_article1:
+    id: 167027
+    title: How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article2:
+    id: 167025
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167019
+    title: How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article4:
+    id: 167033
+    title: What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article5:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
 ---
 
 &nbsp;

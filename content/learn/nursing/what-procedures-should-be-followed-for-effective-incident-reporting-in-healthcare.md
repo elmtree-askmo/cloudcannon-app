@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare.md
 url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
 score: -1.0
+related_article1:
+    id: 169678
+    title: How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article2:
+    id: 169680
+    title: What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article3:
+    id: 169675
+    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+related_article4:
+    id: 169666
+    title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
+related_article5:
+    id: 169679
+    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution.md
 url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
 score: -1.0
+related_article1:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article2:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article3:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article4:
+    id: 167523
+    title: How is fitness defined and measured in the context of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
+related_article5:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 ---
 
 &nbsp;

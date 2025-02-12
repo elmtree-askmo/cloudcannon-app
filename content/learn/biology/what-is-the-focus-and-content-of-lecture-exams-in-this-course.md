@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-focus-and-content-of-lecture-exams-in-this-course.md
 url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
 score: -1.0
+related_article1:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
+related_article2:
+    id: 167487
+    title: Why is STEM education important in the modern curriculum?
+    subject: Biology
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
+related_article3:
+    id: 167477
+    title: How does iClicker technology enhance class participation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+related_article4:
+    id: 167476
+    title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+related_article5:
+    id: 167467
+    title: What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
 ---
 
 &nbsp;

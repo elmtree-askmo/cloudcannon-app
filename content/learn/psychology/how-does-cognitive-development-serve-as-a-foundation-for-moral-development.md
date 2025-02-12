@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-cognitive-development-serve-as-a-foundation-for-moral-development.md
 url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 score: -1.0
+related_article1:
+    id: 164166
+    title: What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
+related_article2:
+    id: 164153
+    title: What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article3:
+    id: 164154
+    title: What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article4:
+    id: 164169
+    title: How do children progress through developmental stages of moral understanding according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
+related_article5:
+    id: 164155
+    title: How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
 ---
 
 &nbsp;

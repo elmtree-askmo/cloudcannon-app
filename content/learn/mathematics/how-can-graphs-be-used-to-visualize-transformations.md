@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-graphs-be-used-to-visualize-transformations.md
 url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 score: -1.0
+related_article1:
+    id: 162165
+    title: What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article2:
+    id: 162306
+    title: How do you measure the distance from a point to a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
+related_article3:
+    id: 162310
+    title: What changes occur in the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+related_article4:
+    id: 162308
+    title: How do you translate a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
+related_article5:
+    id: 162306
+    title: How do you measure the distance from a point to a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
 ---
 
 &nbsp;

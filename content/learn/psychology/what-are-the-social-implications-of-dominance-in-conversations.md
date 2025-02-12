@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-social-implications-of-dominance-in-conversations.md
 url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
 score: -1.0
+related_article1:
+    id: 168445
+    title: What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article2:
+    id: 168443
+    title: What types of careers are typically suitable for introverts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+related_article3:
+    id: 168446
+    title: How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article4:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article5:
+    id: 168447
+    title: What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites.md
 url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
 score: -1.0
+related_article1:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article2:
+    id: 166132
+    title: How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article3:
+    id: 166126
+    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+related_article4:
+    id: 166127
+    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article5:
+    id: 166121
+    title: How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
 ---
 
 &nbsp;

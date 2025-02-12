@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression.md
 url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
 score: -1.0
+related_article1:
+    id: 164431
+    title: Why is early language exposure important for vocabulary and grammar development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+related_article2:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article3:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article4:
+    id: 164418
+    title: What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article5:
+    id: 164424
+    title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 ---
 
 &nbsp;

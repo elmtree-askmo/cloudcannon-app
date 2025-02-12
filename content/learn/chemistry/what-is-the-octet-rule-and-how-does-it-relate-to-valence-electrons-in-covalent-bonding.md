@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding.md
 url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 score: -1.0
+related_article1:
+    id: 167075
+    title: How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
+related_article2:
+    id: 167074
+    title: Identify the functional groups present in amino acids and describe their properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
+related_article3:
+    id: 167078
+    title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+related_article4:
+    id: 167076
+    title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
+related_article5:
+    id: 167075
+    title: How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
 ---
 
 &nbsp;

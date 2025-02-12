@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-false-memories-generated-from-suggestive-information.md
 url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
 score: -1.0
+related_article1:
+    id: 168029
+    title: How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article2:
+    id: 168013
+    title: How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
+related_article3:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article4:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article5:
+    id: 168027
+    title: How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication.md
 url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
 score: -1.0
+related_article1:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article2:
+    id: 164813
+    title: Describe the structure and function of brain ventricles.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+related_article3:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article4:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+related_article5:
+    id: 164814
+    title: How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness.md
 url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
 score: -1.0
+related_article1:
+    id: 164852
+    title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article2:
+    id: 164842
+    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article3:
+    id: 164840
+    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+related_article4:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article5:
+    id: 164846
+    title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 ---
 
 &nbsp;

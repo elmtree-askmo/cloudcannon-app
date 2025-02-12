@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation.md
 url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
 score: -1.0
+related_article1:
+    id: 162153
+    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+related_article2:
+    id: 162082
+    title: How do line segments and points behave under rotation in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
+related_article3:
+    id: 162082
+    title: How do line segments and points behave under rotation in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
+related_article4:
+    id: 162153
+    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
+related_article5:
+    id: 162076
+    title: What is the rule for a 90 degrees clockwise rotation about the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin
 ---
 
 &nbsp;

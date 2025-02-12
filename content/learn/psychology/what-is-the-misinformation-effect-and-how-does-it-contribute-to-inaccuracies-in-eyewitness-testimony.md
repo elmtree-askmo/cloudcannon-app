@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony.md
 url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168016
+    title: What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article2:
+    id: 168022
+    title: How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+related_article3:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article4:
+    id: 168030
+    title: What are the developmental differences that affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+related_article5:
+    id: 168015
+    title: How does the misinformation effect impact memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 ---
 
 &nbsp;

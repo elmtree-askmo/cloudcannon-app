@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-the-base-case-important-in-mathematical-induction.md
 url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
 score: -1.0
+related_article1:
+    id: 170753
+    title: What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article2:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article3:
+    id: 170737
+    title: What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+related_article4:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article5:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
 ---
 
 &nbsp;

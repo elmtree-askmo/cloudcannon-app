@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities.md
 url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
 score: -1.0
+related_article1:
+    id: 165235
+    title: How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article2:
+    id: 165243
+    title: Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article3:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article4:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article5:
+    id: 165237
+    title: How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 ---
 
 &nbsp;

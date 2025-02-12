@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-heritability-of-traits-contribute-to-evolution.md
 url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 score: -1.0
+related_article1:
+    id: 167519
+    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
+related_article2:
+    id: 167512
+    title: What are the different types of reproduction and why are they important for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
+related_article3:
+    id: 167513
+    title: What mechanisms drive evolution and how do they impact biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-drive-evolution-and-how-do-they-impact-biodiversity
+related_article4:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article5:
+    id: 167505
+    title: How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
 ---
 
 &nbsp;

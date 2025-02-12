@@ -7,7 +7,7 @@ article_title: What information can be obtained from the 'show running-config' c
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Computer science
+  title: QuickTakes | Computer Science
   page_description: >-
     The 'show running-config' command in Cisco IOS displays the current configuration of network devices, providing insights into interfaces, routing protocols, ACLs, VLANs, security settings, and more, essential for network management.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What information can be obtained from the 'show running-config' command?
 answer: >-
     The `show running-config` command in Cisco IOS is a vital command used to display the current configuration of a network device, such as a router or switch. This command provides a comprehensive view of the device's operational settings, which can be crucial for monitoring, troubleshooting, and verifying the configuration.\n\nHere are some key pieces of information that can be obtained from the `show running-config` command:\n\n1. **Interface Configurations**: It displays the configuration for all interfaces, including IP addresses, subnet masks, and any specific settings like descriptions or administrative states (up/down).\n\n2. **Routing Protocols**: The command shows configurations related to routing protocols that are enabled on the device, such as OSPF, EIGRP, or BGP, including their parameters and settings.\n\n3. **Access Control Lists (ACLs)**: Any ACLs configured on the device will be listed, showing how traffic is permitted or denied through the interfaces.\n\n4. **VLAN Configurations**: For switches, it will display VLAN configurations, including VLAN IDs and associated ports.\n\n5. **Security Settings**: This includes settings for passwords, encryption methods, and any security features like SSH or Telnet configurations.\n\n6. **NAT and PAT Configurations**: If Network Address Translation (NAT) is configured, the command will show the NAT rules and any associated access lists.\n\n7. **Service Configurations**: It will display any services that are enabled or disabled on the device, such as HTTP, FTP, or SNMP.\n\n8. **Banner Messages**: Any configured message of the day (MOTD) or other banner messages will be shown.\n\n9. **Global Configuration Parameters**: This includes hostname, domain name, and other global settings that affect the entire device.\n\n10. **Logging and Monitoring Settings**: It may also show configurations related to logging, such as logging levels and destinations.\n\nThe output of the `show running-config` command is essential for network administrators to understand the current state of the device and to make informed decisions regarding configuration changes or troubleshooting efforts. \n\nIn summary, the `show running-config` command provides a detailed snapshot of the device's configuration, which is crucial for effective network management.
-subject: Computer science
+subject: Computer Science
 file_name: what-information-can-be-obtained-from-the-show-runningconfig-command.md
 url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
 score: -1.0
+related_article1:
+    id: 165655
+    title: What are the key considerations when selecting devices for a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+related_article2:
+    id: 165667
+    title: What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+related_article3:
+    id: 165655
+    title: What are the key considerations when selecting devices for a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+related_article4:
+    id: 165655
+    title: What are the key considerations when selecting devices for a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+related_article5:
+    id: 165667
+    title: What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-empathy-important-in-understanding-others.md
 url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
 score: -1.0
+related_article1:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article2:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article3:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article4:
+    id: 169806
+    title: What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article5:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
 ---
 
 &nbsp;

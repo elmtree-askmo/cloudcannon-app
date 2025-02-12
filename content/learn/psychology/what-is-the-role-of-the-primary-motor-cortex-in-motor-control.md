@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-primary-motor-cortex-in-motor-control.md
 url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 score: -1.0
+related_article1:
+    id: 170467
+    title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
+related_article2:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article3:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+related_article4:
+    id: 170469
+    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+related_article5:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 ---
 
 &nbsp;

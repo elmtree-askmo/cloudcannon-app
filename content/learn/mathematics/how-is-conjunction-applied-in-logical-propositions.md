@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-conjunction-applied-in-logical-propositions.md
 url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 score: -1.0
+related_article1:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article2:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article3:
+    id: 170241
+    title: Explain the concept of truth value in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+related_article4:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+related_article5:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
 ---
 
 &nbsp;

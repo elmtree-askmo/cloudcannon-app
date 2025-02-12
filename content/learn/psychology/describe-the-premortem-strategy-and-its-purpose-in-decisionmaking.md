@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-premortem-strategy-and-its-purpose-in-decisionmaking.md
 url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 score: -1.0
+related_article1:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article2:
+    id: 168880
+    title: Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
+related_article3:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article4:
+    id: 168884
+    title: How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+related_article5:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 ---
 
 &nbsp;

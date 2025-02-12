@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance.md
 url: /learn/psychology/questions/how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance
 score: -1.0
+related_article1:
+    id: 168072
+    title: How does language acquisition affect the development of personal memories in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+related_article2:
+    id: 168067
+    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
+related_article3:
+    id: 168074
+    title: How does self-awareness influence memory recall and personal memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
+related_article4:
+    id: 168067
+    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
+related_article5:
+    id: 168073
+    title: What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-key-characteristics-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161732
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161864
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article3:
+    id: 161850
+    title: List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+related_article4:
+    id: 161728
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article5:
+    id: 161873
+    title: Can you provide examples of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/can-you-provide-examples-of-heterogeneous-mixtures
 ---
 
 &nbsp;

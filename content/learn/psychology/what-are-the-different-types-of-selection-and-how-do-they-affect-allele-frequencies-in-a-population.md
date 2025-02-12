@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population.md
 url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 score: -1.0
+related_article1:
+    id: 166380
+    title: How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article2:
+    id: 166377
+    title: Differentiate between proximate and ultimate questions in the context of animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
+related_article3:
+    id: 166389
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article4:
+    id: 166393
+    title: What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article5:
+    id: 166375
+    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
 ---
 
 &nbsp;

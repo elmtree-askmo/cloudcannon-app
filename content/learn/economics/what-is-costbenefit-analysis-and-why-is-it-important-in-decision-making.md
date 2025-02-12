@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making.md
 url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
 score: -1.0
+related_article1:
+    id: 170856
+    title: What methods are used to calculate marginal benefit and how does it impact decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
+related_article2:
+    id: 170852
+    title: How can the benefit curve be interpreted to make economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+related_article3:
+    id: 170858
+    title: How is cost-benefit analysis integrated into economic models and policy making?
+    subject: Economics
+    url: /learn/economics/questions/how-is-costbenefit-analysis-integrated-into-economic-models-and-policy-making
+related_article4:
+    id: 170853
+    title: What is the cost curve and what factors influence its shape?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-cost-curve-and-what-factors-influence-its-shape
+related_article5:
+    id: 170859
+    title: Explain the concept of central prices theory and its role in market equilibrium.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
 ---
 
 &nbsp;

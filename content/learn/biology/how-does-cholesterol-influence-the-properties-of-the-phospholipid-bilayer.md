@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer.md
 url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
 score: -1.0
+related_article1:
+    id: 167362
+    title: Explain the concept of selective permeability and its importance to cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
+related_article2:
+    id: 167357
+    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
+    subject: Biology
+    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
+related_article3:
+    id: 167356
+    title: How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
+related_article4:
+    id: 167369
+    title: How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
+related_article5:
+    id: 167363
+    title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
 ---
 
 &nbsp;

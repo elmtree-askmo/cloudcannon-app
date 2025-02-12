@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
 score: -1.0
+related_article1:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
+related_article2:
+    id: 168295
+    title: How do you apply the product of powers property to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+related_article3:
+    id: 168308
+    title: Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article4:
+    id: 168297
+    title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
+related_article5:
+    id: 168308
+    title: Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 ---
 
 &nbsp;

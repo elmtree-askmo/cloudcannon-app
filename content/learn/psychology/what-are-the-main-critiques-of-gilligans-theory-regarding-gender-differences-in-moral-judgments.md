@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments.md
 url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
 score: -1.0
+related_article1:
+    id: 164211
+    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article2:
+    id: 164205
+    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+related_article3:
+    id: 164211
+    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article4:
+    id: 164203
+    title: What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 ---
 
 &nbsp;

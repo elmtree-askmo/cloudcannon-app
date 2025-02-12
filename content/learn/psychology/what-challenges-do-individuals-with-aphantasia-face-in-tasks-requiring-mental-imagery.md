@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery.md
 url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
 score: -1.0
+related_article1:
+    id: 165236
+    title: What is the survival processing effect in depth processing experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+related_article2:
+    id: 165243
+    title: Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article3:
+    id: 165235
+    title: How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article4:
+    id: 165243
+    title: Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article5:
+    id: 165240
+    title: How do perceptual afterimages affect visual perception and cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
 ---
 
 &nbsp;

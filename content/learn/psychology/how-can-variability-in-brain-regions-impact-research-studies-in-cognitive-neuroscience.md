@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+related_article2:
+    id: 164337
+    title: How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
+related_article3:
+    id: 164331
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article4:
+    id: 164339
+    title: What are some limitations of neuroimaging studies in understanding brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
+related_article5:
+    id: 164335
+    title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
 ---
 
 &nbsp;

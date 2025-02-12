@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable.md
 url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
 score: -1.0
+related_article1:
+    id: 167371
+    title: What is the pH scale and why is it important in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+related_article2:
+    id: 167371
+    title: What is the pH scale and why is it important in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+related_article3:
+    id: 167372
+    title: How is the pH of a solution calculated using the pH equation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-ph-of-a-solution-calculated-using-the-ph-equation
+related_article4:
+    id: 167378
+    title: Why is it important to convert between different concentration units?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-it-important-to-convert-between-different-concentration-units
+related_article5:
+    id: 167380
+    title: How is scientific notation used to simplify calculations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 ---
 
 &nbsp;

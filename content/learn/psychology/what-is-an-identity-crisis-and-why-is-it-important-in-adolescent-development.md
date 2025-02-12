@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development.md
 url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
 score: -1.0
+related_article1:
+    id: 164122
+    title: How does Hall's concept of 'storm and stress' relate to emotional maladjustment in adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
+related_article2:
+    id: 164117
+    title: Why is adolescence considered a critical stage in Erikson's theory of identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
+related_article3:
+    id: 164120
+    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article4:
+    id: 164119
+    title: What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+related_article5:
+    id: 164119
+    title: What are the characteristics of identity diffusion in Marcia's identity statuses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
 ---
 
 &nbsp;

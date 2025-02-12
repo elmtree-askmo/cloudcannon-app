@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-base-case-in-regular-induction-and-why-is-it-important.md
 url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 170721
+    title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article2:
+    id: 170714
+    title: What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article3:
+    id: 170718
+    title: How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article4:
+    id: 170713
+    title: Why is time complexity important in algorithm analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
+related_article5:
+    id: 170721
+    title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
 ---
 
 &nbsp;

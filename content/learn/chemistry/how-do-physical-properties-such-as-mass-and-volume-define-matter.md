@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-physical-properties-such-as-mass-and-volume-define-matter.md
 url: /learn/chemistry/questions/how-do-physical-properties-such-as-mass-and-volume-define-matter
 score: -1.0
+related_article1:
+    id: 161844
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article2:
+    id: 161735
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article3:
+    id: 161841
+    title: How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+related_article4:
+    id: 161730
+    title: What is the role of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-symbols-in-representing-elements
+related_article5:
+    id: 161830
+    title: What is the difference between physical and chemical properties of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
 ---
 
 &nbsp;

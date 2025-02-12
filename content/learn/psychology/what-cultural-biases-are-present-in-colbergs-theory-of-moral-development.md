@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-cultural-biases-are-present-in-colbergs-theory-of-moral-development.md
 url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
 score: -1.0
+related_article1:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article2:
+    id: 164226
+    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
+related_article3:
+    id: 164226
+    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
+related_article4:
+    id: 164222
+    title: How does cognitive development relate to moral development in Colberg's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+related_article5:
+    id: 164230
+    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 ---
 
 &nbsp;

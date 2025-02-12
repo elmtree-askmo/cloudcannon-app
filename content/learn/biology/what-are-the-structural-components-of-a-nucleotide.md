@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-structural-components-of-a-nucleotide.md
 url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
 score: -1.0
+related_article1:
+    id: 165342
+    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article2:
+    id: 165339
+    title: Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+related_article3:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article4:
+    id: 165338
+    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+related_article5:
+    id: 165341
+    title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    subject: Biology
+    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
 ---
 
 &nbsp;

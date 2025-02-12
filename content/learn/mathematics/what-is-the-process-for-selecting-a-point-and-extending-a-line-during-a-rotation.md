@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation.md
 url: /learn/mathematics/questions/what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation
 score: -1.0
+related_article1:
+    id: 162239
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article2:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+related_article3:
+    id: 162596
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162241
+    title: What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+related_article5:
+    id: 162504
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 ---
 
 &nbsp;

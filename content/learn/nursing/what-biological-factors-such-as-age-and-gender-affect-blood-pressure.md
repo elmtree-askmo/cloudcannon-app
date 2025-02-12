@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-biological-factors-such-as-age-and-gender-affect-blood-pressure.md
 url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 score: -1.0
+related_article1:
+    id: 169528
+    title: How can diet and exercise influence blood pressure levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
+related_article2:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article3:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+related_article4:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+related_article5:
+    id: 169528
+    title: How can diet and exercise influence blood pressure levels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
 ---
 
 &nbsp;

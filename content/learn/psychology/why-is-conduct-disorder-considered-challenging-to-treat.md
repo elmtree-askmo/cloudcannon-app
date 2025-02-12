@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-conduct-disorder-considered-challenging-to-treat.md
 url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
 score: -1.0
+related_article1:
+    id: 163637
+    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+related_article2:
+    id: 163636
+    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article3:
+    id: 163635
+    title: What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
+related_article4:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article5:
+    id: 163632
+    title: How does the statistical model of abnormal behavior differ from the medical model?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 ---
 
 &nbsp;

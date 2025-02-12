@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions.md
 url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
 score: -1.0
+related_article1:
+    id: 167116
+    title: What role does hydrogen bonding play in the cohesion of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
+related_article2:
+    id: 167117
+    title: How does adhesion contribute to capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
+related_article3:
+    id: 167128
+    title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
+related_article4:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article5:
+    id: 167122
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
 ---
 
 &nbsp;

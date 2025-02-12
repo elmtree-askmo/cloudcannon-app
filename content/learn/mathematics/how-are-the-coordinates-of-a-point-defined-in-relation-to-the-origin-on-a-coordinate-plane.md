@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane.md
 url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162138
+    title: How does a translation differ from a reflection in terms of movement on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane
+related_article2:
+    id: 162143
+    title: Describe the process of performing a 90 degrees clockwise rotation about the origin.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin
+related_article3:
+    id: 162138
+    title: How does a translation differ from a reflection in terms of movement on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane
+related_article4:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article5:
+    id: 162153
+    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 ---
 
 &nbsp;

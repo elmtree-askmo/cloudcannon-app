@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics.md
 url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 score: -1.0
+related_article1:
+    id: 166496
+    title: Describe the phases of clinical trials and their significance in drug development.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
+related_article2:
+    id: 166510
+    title: How do pharmacokinetic and pharmacodynamic interactions differ?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article3:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article4:
+    id: 166506
+    title: What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 ---
 
 &nbsp;

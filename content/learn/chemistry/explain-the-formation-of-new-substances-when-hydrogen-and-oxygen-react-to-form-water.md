@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water.md
 url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 score: -1.0
+related_article1:
+    id: 161750
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article2:
+    id: 161979
+    title: How does the process of evaporation differ from freezing in terms of physical changes?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-physical-changes
+related_article3:
+    id: 162053
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article4:
+    id: 161941
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article5:
+    id: 161757
+    title: Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 ---
 
 &nbsp;

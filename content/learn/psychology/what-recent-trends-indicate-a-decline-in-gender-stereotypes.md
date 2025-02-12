@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-recent-trends-indicate-a-decline-in-gender-stereotypes.md
 url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
 score: -1.0
+related_article1:
+    id: 168130
+    title: How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
+related_article2:
+    id: 168111
+    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article3:
+    id: 168129
+    title: How does attention deficit/hyperactivity disorder present differently in males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
+related_article4:
+    id: 168125
+    title: What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article5:
+    id: 168129
+    title: How does attention deficit/hyperactivity disorder present differently in males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
 ---
 
 &nbsp;

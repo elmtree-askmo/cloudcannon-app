@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-function-of-the-amygdala-in-emotional-regulation.md
 url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 score: -1.0
+related_article1:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article2:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article3:
+    id: 170476
+    title: What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article4:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+related_article5:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
 ---
 
 &nbsp;

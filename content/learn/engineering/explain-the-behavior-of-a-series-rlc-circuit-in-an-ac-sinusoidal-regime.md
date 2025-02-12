@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime.md
 url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
 score: -1.0
+related_article1:
+    id: 169844
+    title: How do Kirchhoff's laws apply to the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+related_article2:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article3:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article4:
+    id: 169843
+    title: What are the basic postulates and conventions used in the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
+related_article5:
+    id: 169862
+    title: What is the difference between active and reactive power in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
 ---
 
 &nbsp;

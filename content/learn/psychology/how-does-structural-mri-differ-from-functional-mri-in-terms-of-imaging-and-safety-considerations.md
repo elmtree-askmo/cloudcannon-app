@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations.md
 url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
 score: -1.0
+related_article1:
+    id: 164311
+    title: What are some applications of MRI in anatomical and functional imaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
+related_article2:
+    id: 164296
+    title: What were some of the early studies that contributed to the development of PET technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
+related_article3:
+    id: 164313
+    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+related_article4:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-significance-of-vitamins-and-minerals-as-micronutrients.md
 url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
 score: -1.0
+related_article1:
+    id: 169713
+    title: What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article2:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article3:
+    id: 169718
+    title: What are the primary macronutrients and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+related_article4:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169720
+    title: What are the dietary recommendations according to the Eatwell Plate?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-community-reactions-to-new-public-transit-projects.md
 url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 score: -1.0
+related_article1:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article2:
+    id: 168357
+    title: What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article3:
+    id: 168364
+    title: How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+related_article4:
+    id: 168361
+    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
+    id: 168361
+    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 ---
 
 &nbsp;

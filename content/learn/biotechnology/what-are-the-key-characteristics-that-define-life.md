@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-key-characteristics-that-define-life.md
 url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 score: -1.0
+related_article1:
+    id: 167597
+    title: What is the structure and function of the nucleus in eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+related_article2:
+    id: 167591
+    title: Why is homeostasis important for living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+related_article3:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+related_article4:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+related_article5:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
 ---
 
 &nbsp;

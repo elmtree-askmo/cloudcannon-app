@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing.md
 url: /learn/nursing/questions/what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing
 score: -1.0
+related_article1:
+    id: 169480
+    title: What factors affect skin health, and what are proper skin care techniques in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
+related_article2:
+    id: 169482
+    title: How can healthcare providers balance care and patient autonomy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
+related_article3:
+    id: 169476
+    title: How can healthcare providers maintain patient dignity through consent and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
+related_article4:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article5:
+    id: 169478
+    title: How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
 ---
 
 &nbsp;

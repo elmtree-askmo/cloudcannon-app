@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals.md
 url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
 score: -1.0
+related_article1:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article2:
+    id: 164580
+    title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article3:
+    id: 164571
+    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article4:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article5:
+    id: 164576
+    title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 ---
 
 &nbsp;

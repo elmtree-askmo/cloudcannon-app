@@ -21,6 +21,31 @@ subject: Architecture
 file_name: why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation.md
 url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
 score: -1.0
+related_article1:
+    id: 169071
+    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article2:
+    id: 169073
+    title: In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
+related_article3:
+    id: 169081
+    title: How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+related_article4:
+    id: 169072
+    title: How did the Aswan High Dam impact the mobility of monuments?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
+related_article5:
+    id: 169072
+    title: How did the Aswan High Dam impact the mobility of monuments?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
 ---
 
 &nbsp;

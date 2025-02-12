@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist.md
 url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
 score: -1.0
+related_article1:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article2:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article3:
+    id: 163720
+    title: Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article4:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article5:
+    id: 163713
+    title: Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 ---
 
 &nbsp;

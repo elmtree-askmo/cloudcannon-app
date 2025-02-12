@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions.md
 url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 score: -1.0
+related_article1:
+    id: 168884
+    title: How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+related_article2:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article3:
+    id: 168893
+    title: How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+related_article4:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article5:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 ---
 
 &nbsp;

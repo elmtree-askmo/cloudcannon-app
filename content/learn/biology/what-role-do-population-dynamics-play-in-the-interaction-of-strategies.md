@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-population-dynamics-play-in-the-interaction-of-strategies.md
 url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
 score: -1.0
+related_article1:
+    id: 170806
+    title: What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article2:
+    id: 170801
+    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+related_article3:
+    id: 170806
+    title: What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article4:
+    id: 170804
+    title: What is equilibrium frequency and why is it important in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
+related_article5:
+    id: 170791
+    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century.md
 url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
 score: -1.0
+related_article1:
+    id: 168970
+    title: How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+related_article2:
+    id: 168963
+    title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
+related_article3:
+    id: 168972
+    title: How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
+related_article4:
+    id: 168964
+    title: How does racial capitalism intersect with the concept of blight in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
+related_article5:
+    id: 168963
+    title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 ---
 
 &nbsp;

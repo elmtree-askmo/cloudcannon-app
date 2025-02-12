@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified.md
 url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 score: -1.0
+related_article1:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article2:
+    id: 165092
+    title: How do design principles influence the effectiveness of data visualizations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
+related_article3:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article4:
+    id: 165066
+    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
+related_article5:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 ---
 
 &nbsp;

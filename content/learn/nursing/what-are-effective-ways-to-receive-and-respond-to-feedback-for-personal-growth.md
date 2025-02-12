@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth.md
 url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
 score: -1.0
+related_article1:
+    id: 169806
+    title: What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article2:
+    id: 169821
+    title: What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+related_article3:
+    id: 169813
+    title: How does cultural awareness impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
+related_article4:
+    id: 169806
+    title: What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article5:
+    id: 169807
+    title: How does managing emotions impact decision making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
 ---
 
 &nbsp;

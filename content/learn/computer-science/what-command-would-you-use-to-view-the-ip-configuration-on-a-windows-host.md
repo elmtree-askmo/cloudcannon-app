@@ -7,7 +7,7 @@ article_title: What command would you use to view the IP configuration on a Wind
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Computer science
+  title: QuickTakes | Computer Science
   page_description: >-
     This content explains how to view and manage IP configuration on a Windows host using the command 'ipconfig' and its variants for detailed network information.
   page_keywords: >-
@@ -17,10 +17,30 @@ question: >-
     What command would you use to view the IP configuration on a Windows host?
 answer: >-
     To view the IP configuration on a Windows host, you can use the command `ipconfig` in the command line interface. This command provides essential details about the network configuration, including the IP address, subnet mask, and default gateway.\n\nFor more comprehensive information, including the MAC address and additional Layer 3 addressing details, you can use the command:\n\n```\nipconfig /all\n```\n\nIf you need to manage DHCP settings, you can also release and renew the IP address configuration using the following commands:\n\n```\nipconfig /release\nipconfig /renew\n```\n\nAdditionally, if you want to view the DNS cache entries, you can use:\n\n```\nipconfig /displaydns\n```\n\nThese commands are essential for troubleshooting and managing network settings on a Windows host.
-subject: Computer science
+subject: Computer Science
 file_name: what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host.md
 url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 score: -1.0
+related_article1:
+    id: 165665
+    title: What are common causes of IP addressing issues on IOS devices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
+related_article2:
+    id: 165662
+    title: What information can be obtained from the 'show running-config' command?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+related_article3:
+    id: 165667
+    title: What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+related_article4:
+    id: 165655
+    title: What are the key considerations when selecting devices for a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
 ---
 
 &nbsp;

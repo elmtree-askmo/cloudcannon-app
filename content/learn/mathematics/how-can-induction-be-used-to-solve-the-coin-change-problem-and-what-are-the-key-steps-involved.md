@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved.md
 url: /learn/mathematics/questions/how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved
 score: -1.0
+related_article1:
+    id: 170735
+    title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
+related_article2:
+    id: 170723
+    title: Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-the-base-case-crucial-in-inductive-proofs-and-what-are-common-mistakes-to-avoid
+related_article3:
+    id: 170734
+    title: Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+related_article4:
+    id: 170736
+    title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article5:
+    id: 170722
+    title: What are the basic principles of proof by induction and how are they applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs
 ---
 
 &nbsp;

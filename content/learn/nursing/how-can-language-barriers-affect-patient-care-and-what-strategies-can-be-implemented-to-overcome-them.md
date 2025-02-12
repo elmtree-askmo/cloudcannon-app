@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them.md
 url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 score: -1.0
+related_article1:
+    id: 169594
+    title: How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+related_article2:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article3:
+    id: 169584
+    title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article4:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article5:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 ---
 
 &nbsp;

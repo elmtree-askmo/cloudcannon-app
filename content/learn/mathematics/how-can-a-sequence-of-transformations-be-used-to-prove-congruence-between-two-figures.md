@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures.md
 url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 score: -1.0
+related_article1:
+    id: 162222
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article2:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article3:
+    id: 162217
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article4:
+    id: 162217
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article5:
+    id: 162216
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 ---
 
 &nbsp;

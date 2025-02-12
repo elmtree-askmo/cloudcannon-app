@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-carbon-considered-versatile-in-biological-molecules.md
 url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167285
+    title: How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article2:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+related_article3:
+    id: 167289
+    title: Where are valence electrons located and why are they important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article4:
+    id: 167285
+    title: How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article5:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 ---
 
 &nbsp;

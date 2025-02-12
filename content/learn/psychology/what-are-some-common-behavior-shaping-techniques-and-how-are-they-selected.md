@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected.md
 url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 score: -1.0
+related_article1:
+    id: 169314
+    title: What is differential reinforcement and what is its primary purpose?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+related_article2:
+    id: 169317
+    title: How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+related_article3:
+    id: 169323
+    title: What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article4:
+    id: 169313
+    title: What are the key steps involved in the shaping process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+related_article5:
+    id: 169324
+    title: What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 ---
 
 &nbsp;

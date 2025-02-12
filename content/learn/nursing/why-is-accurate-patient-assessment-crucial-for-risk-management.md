@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-accurate-patient-assessment-crucial-for-risk-management.md
 url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 score: -1.0
+related_article1:
+    id: 169576
+    title: What is the role of student nurses within the healthcare team?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+related_article2:
+    id: 169567
+    title: What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article3:
+    id: 169569
+    title: What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
+related_article4:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+related_article5:
+    id: 169559
+    title: What is the NMC Code, and how does it apply to registered nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 ---
 
 &nbsp;

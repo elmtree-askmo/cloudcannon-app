@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-stages-of-sequential-development-in-conservation-skills-particularly-in-the-conservation-of-number-and-length.md
 url: /learn/psychology/questions/what-are-the-stages-of-sequential-development-in-conservation-skills-particularly-in-the-conservation-of-number-and-length
 score: -1.0
+related_article1:
+    id: 168053
+    title: How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article2:
+    id: 168060
+    title: Describe the predictable patterns in the conservation sequence during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
+related_article3:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+related_article4:
+    id: 168054
+    title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
+related_article5:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives.md
 url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
 score: -1.0
+related_article1:
+    id: 162999
+    title: How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
+related_article2:
+    id: 163005
+    title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
+related_article3:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article4:
+    id: 163010
+    title: How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
+related_article5:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
 ---
 
 &nbsp;

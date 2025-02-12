@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context.md
 url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
 score: -1.0
+related_article1:
+    id: 169688
+    title: How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
+related_article2:
+    id: 169691
+    title: What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
+related_article3:
+    id: 169690
+    title: What are the primary causes and symptoms of insomnia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
+related_article4:
+    id: 169691
+    title: What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
+related_article5:
+    id: 169700
+    title: Why is maintaining a consistent bedtime routine important for sleep hygiene?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
 ---
 
 &nbsp;

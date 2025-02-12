@@ -7,7 +7,7 @@ article_title: What is the preferred format for representing IPv6 addresses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Computer science
+  title: QuickTakes | Computer Science
   page_description: >-
     This content explains the preferred format for representing IPv6 addresses, detailing its structure, case sensitivity, examples of addresses, and rules for abbreviation.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What is the preferred format for representing IPv6 addresses?
 answer: >-
     The preferred format for representing IPv6 addresses is as follows:\n\n- **Structure**: IPv6 addresses are 128 bits in length and are written in hexadecimal format. The standard representation is in the form of eight groups of four hexadecimal digits, separated by colons. This is denoted as `x:x:x:x:x:x:x:x`, where each "x" represents a hextet (a segment of 16 bits).\n\n- **Case Sensitivity**: IPv6 addresses are not case-sensitive, meaning they can be written in either lowercase or uppercase letters.\n\n- **Examples**: Here are a couple of examples of IPv6 addresses in the preferred format:\n  - `2001:0db8:0000:1111:0000:0000:0000:0200`\n  - `2001:0db8:0000:00a3:abcd:0000:0000:1234`\n\nIn addition to the standard representation, IPv6 addresses can be abbreviated by omitting leading zeros in each hextet and by using a double colon (`::`) to represent consecutive groups of zeros. However, the double colon can only be used once in an address to avoid ambiguity.\n\nFor example, the address `2001:0db8:0000:0000:0000:0000:0000:0001` can be abbreviated to `2001:db8::1`.\n\nThis format ensures clarity and consistency in the representation of IPv6 addresses, facilitating easier communication and configuration in networking environments.
-subject: Computer science
+subject: Computer Science
 file_name: what-is-the-preferred-format-for-representing-ipv6-addresses.md
 url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
 score: -1.0
+related_article1:
+    id: 165759
+    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+related_article2:
+    id: 165745
+    title: What are the components of the structure of a Global Unicast Address (GUA)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
+related_article3:
+    id: 165741
+    title: What is the purpose of using a double colon in IPv6 address notation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+related_article4:
+    id: 165758
+    title: How is static IPv6 address configuration performed on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
+related_article5:
+    id: 165743
+    title: What is the recommended prefix length for IPv6 addresses and why?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
 ---
 
 &nbsp;

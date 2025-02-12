@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-carbon-sinks-and-sources-impact-climate-change.md
 url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
 score: -1.0
+related_article1:
+    id: 170331
+    title: What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
+related_article2:
+    id: 170336
+    title: How does biomass interact with decomposition in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
+related_article3:
+    id: 170338
+    title: How do plankton contribute to the food chain and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+related_article4:
+    id: 170333
+    title: What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle
+related_article5:
+    id: 170335
+    title: What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
 ---
 
 &nbsp;

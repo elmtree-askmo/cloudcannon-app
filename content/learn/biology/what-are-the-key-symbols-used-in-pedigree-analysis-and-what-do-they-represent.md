@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent.md
 url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
 score: -1.0
+related_article1:
+    id: 167872
+    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article2:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+related_article3:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article4:
+    id: 167878
+    title: How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
+related_article5:
+    id: 167871
+    title: Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 ---
 
 &nbsp;

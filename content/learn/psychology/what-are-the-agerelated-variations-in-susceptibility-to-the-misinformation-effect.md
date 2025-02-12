@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect.md
 url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
 score: -1.0
+related_article1:
+    id: 168012
+    title: What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article2:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article3:
+    id: 168012
+    title: What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article4:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article5:
+    id: 168020
+    title: What conditions are necessary for accurate memory recall in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
 ---
 
 &nbsp;

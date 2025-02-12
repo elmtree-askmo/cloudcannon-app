@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage.md
 url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
 score: -1.0
+related_article1:
+    id: 168085
+    title: What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article2:
+    id: 168083
+    title: What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article3:
+    id: 168089
+    title: How does visual imagery contribute to the development of mental representations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
+related_article4:
+    id: 168091
+    title: What are the advantages of using observational studies in developmental psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
+related_article5:
+    id: 168086
+    title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
 ---
 
 &nbsp;

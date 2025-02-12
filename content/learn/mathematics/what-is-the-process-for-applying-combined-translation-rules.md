@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-process-for-applying-combined-translation-rules.md
 url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
 score: -1.0
+related_article1:
+    id: 162290
+    title: What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+related_article2:
+    id: 162539
+    title: What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article3:
+    id: 162468
+    title: How can patterns be used to predict new coordinates after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
+related_article4:
+    id: 162283
+    title: How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article5:
+    id: 162546
+    title: How is the new location of a figure determined after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways.md
 url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 score: -1.0
+related_article1:
+    id: 170523
+    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+related_article2:
+    id: 170541
+    title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
+related_article3:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article4:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article5:
+    id: 170543
+    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
 ---
 
 &nbsp;

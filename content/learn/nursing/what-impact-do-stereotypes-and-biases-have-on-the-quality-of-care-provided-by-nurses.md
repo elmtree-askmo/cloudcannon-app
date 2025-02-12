@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses.md
 url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
 score: -1.0
+related_article1:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article2:
+    id: 169595
+    title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+related_article3:
+    id: 169599
+    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+related_article4:
+    id: 169594
+    title: How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+related_article5:
+    id: 169586
+    title: How does the social model of disability promote patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 ---
 
 &nbsp;

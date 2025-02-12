@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures.md
 url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
 score: -1.0
+related_article1:
+    id: 167448
+    title: How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article2:
+    id: 167466
+    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+related_article3:
+    id: 167444
+    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+related_article4:
+    id: 167459
+    title: How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+related_article5:
+    id: 167447
+    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 ---
 
 &nbsp;

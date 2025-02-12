@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase.md
 url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
 score: -1.0
+related_article1:
+    id: 170601
+    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article2:
+    id: 170597
+    title: What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article3:
+    id: 170612
+    title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
+related_article4:
+    id: 170613
+    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
+related_article5:
+    id: 170602
+    title: What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
 ---
 
 &nbsp;

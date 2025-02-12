@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-parenting-styles-in-influencing-moral-development.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-parenting-styles-in-influencing-moral-development
 score: -1.0
+related_article1:
+    id: 164141
+    title: How does the induction style of parenting explain a child's behavior and its impact on others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+related_article2:
+    id: 164134
+    title: How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article3:
+    id: 164150
+    title: What are the potential emotional consequences of overemphasizing control in parental influence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
+related_article4:
+    id: 164134
+    title: How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article5:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes.md
 url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
 score: -1.0
+related_article1:
+    id: 160633
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article2:
+    id: 160097
+    title: What is the role of political geography in understanding borders and boundaries within territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
+related_article3:
+    id: 160512
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article4:
+    id: 160492
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article5:
+    id: 160088
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 ---
 
 &nbsp;

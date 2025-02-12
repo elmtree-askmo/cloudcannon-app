@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt.md
 url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 score: -1.0
+related_article1:
+    id: 163633
+    title: What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+related_article2:
+    id: 163634
+    title: Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article3:
+    id: 163638
+    title: How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+related_article4:
+    id: 163639
+    title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article5:
+    id: 163634
+    title: Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
 ---
 
 &nbsp;

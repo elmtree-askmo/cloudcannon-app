@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-cognitive-processes-differentiate-between-true-and-false-beliefs.md
 url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
 score: -1.0
+related_article1:
+    id: 167974
+    title: What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article2:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article3:
+    id: 167978
+    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+related_article4:
+    id: 167980
+    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article5:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
 ---
 
 &nbsp;

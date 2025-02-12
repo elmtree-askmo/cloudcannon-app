@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-ethical-considerations-regarding-informed-consent-in-therapy.md
 url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
 score: -1.0
+related_article1:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article2:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article3:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+related_article4:
+    id: 163036
+    title: What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article5:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research.md
 url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
 score: -1.0
+related_article1:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article2:
+    id: 163663
+    title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article3:
+    id: 163663
+    title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article4:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article5:
+    id: 163666
+    title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 ---
 
 &nbsp;

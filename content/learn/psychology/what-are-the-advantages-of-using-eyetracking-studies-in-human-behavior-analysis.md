@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
 score: -1.0
+related_article1:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article2:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article3:
+    id: 164599
+    title: What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article4:
+    id: 164611
+    title: What are the foundational theories of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+related_article5:
+    id: 164608
+    title: How can MRI technology assist in understanding language disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-language-disorders
 ---
 
 &nbsp;

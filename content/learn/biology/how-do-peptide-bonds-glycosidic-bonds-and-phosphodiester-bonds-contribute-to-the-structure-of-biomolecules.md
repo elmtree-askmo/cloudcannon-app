@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules.md
 url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
 score: -1.0
+related_article1:
+    id: 167201
+    title: How can diagram analysis be used to predict the cellular function of a lipid?
+    subject: Biology
+    url: /learn/biology/questions/how-can-diagram-analysis-be-used-to-predict-the-cellular-function-of-a-lipid
+related_article2:
+    id: 167205
+    title: What are the monomer subunits of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
+related_article3:
+    id: 167211
+    title: What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
+related_article4:
+    id: 167210
+    title: Define hydrophilic and hydrophobic properties and provide examples of amphipathic molecules.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrophilic-and-hydrophobic-properties-and-provide-examples-of-amphipathic-molecules
+related_article5:
+    id: 167203
+    title: How can you identify a saturated fatty acid based on its molecular structure?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-identify-a-saturated-fatty-acid-based-on-its-molecular-structure
 ---
 
 &nbsp;

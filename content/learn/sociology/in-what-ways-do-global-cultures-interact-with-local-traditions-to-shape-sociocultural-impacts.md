@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts.md
 url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
 score: -1.0
+related_article1:
+    id: 160634
+    title: How do physical geography and human geography contribute to spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+related_article2:
+    id: 160092
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article3:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+related_article4:
+    id: 160626
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160499
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences.md
 url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
 score: -1.0
+related_article1:
+    id: 168083
+    title: What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
+related_article2:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article3:
+    id: 168090
+    title: What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+related_article4:
+    id: 168078
+    title: How do reflexive reactions contribute to cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants
+related_article5:
+    id: 168086
+    title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
 ---
 
 &nbsp;

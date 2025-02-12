@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction.md
 url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 score: -1.0
+related_article1:
+    id: 170975
+    title: How do coupling reactions make unfavorable reactions proceed?
+    subject: Biology
+    url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
+related_article2:
+    id: 170974
+    title: What is the difference between favorable and unfavorable reactions in energy conversions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
+related_article3:
+    id: 170994
+    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+related_article4:
+    id: 170992
+    title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
+related_article5:
+    id: 170985
+    title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 ---
 
 &nbsp;

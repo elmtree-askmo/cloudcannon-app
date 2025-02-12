@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-water-considered-a-universal-solvent.md
 url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent
 score: -1.0
+related_article1:
+    id: 166995
+    title: How does the marine carbonate system help regulate ocean pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
+related_article2:
+    id: 166988
+    title: What is the role of hydration shells in the solvent properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-water
+related_article3:
+    id: 166991
+    title: How do polar and nonpolar molecules differ in their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
+related_article4:
+    id: 166996
+    title: What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article5:
+    id: 166997
+    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
 ---
 
 &nbsp;

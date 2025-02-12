@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom.md
 url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
 score: -1.0
+related_article1:
+    id: 171012
+    title: How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article2:
+    id: 171008
+    title: How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article3:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article4:
+    id: 171005
+    title: What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+related_article5:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 ---
 
 &nbsp;

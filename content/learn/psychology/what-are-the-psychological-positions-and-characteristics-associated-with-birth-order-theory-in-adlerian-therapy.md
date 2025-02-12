@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy.md
 url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
 score: -1.0
+related_article1:
+    id: 163002
+    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article2:
+    id: 163001
+    title: How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+related_article3:
+    id: 162996
+    title: What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+related_article4:
+    id: 163005
+    title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
+related_article5:
+    id: 162999
+    title: How do inferiority and superiority complexes impact human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
 ---
 
 &nbsp;

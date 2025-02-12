@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends.md
 url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
 score: -1.0
+related_article1:
+    id: 169521
+    title: How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article2:
+    id: 169532
+    title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
+related_article3:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article4:
+    id: 169517
+    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+related_article5:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework.md
 url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 score: -1.0
+related_article1:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article2:
+    id: 165306
+    title: Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
+related_article3:
+    id: 165311
+    title: What is the influence of hormones on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+related_article4:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article5:
+    id: 165291
+    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
 ---
 
 &nbsp;

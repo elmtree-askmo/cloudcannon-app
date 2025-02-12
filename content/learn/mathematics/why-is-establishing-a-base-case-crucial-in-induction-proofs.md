@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-establishing-a-base-case-crucial-in-induction-proofs.md
 url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
 score: -1.0
+related_article1:
+    id: 170687
+    title: What is the key difference between strong induction and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
+related_article2:
+    id: 170699
+    title: What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article3:
+    id: 170697
+    title: Provide an example of a base case in the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+related_article4:
+    id: 170702
+    title: Why are base cases important in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
+related_article5:
+    id: 170704
+    title: How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-developmental-stages-affect-executive-functions-in-children.md
 url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 score: -1.0
+related_article1:
+    id: 164427
+    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article2:
+    id: 164436
+    title: What are the cultural variations in diagnostic criteria for mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
+related_article3:
+    id: 164434
+    title: What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
+related_article4:
+    id: 164423
+    title: How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+related_article5:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

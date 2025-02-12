@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture.md
 url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
 score: -1.0
+related_article1:
+    id: 169071
+    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article2:
+    id: 169075
+    title: How did the movement of monuments contribute to global cultural exchange?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
+related_article3:
+    id: 169071
+    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article4:
+    id: 169081
+    title: How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+related_article5:
+    id: 169070
+    title: How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 ---
 
 &nbsp;

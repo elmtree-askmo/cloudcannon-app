@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development.md
 url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 score: -1.0
+related_article1:
+    id: 170535
+    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+related_article2:
+    id: 170536
+    title: How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article3:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article4:
+    id: 170526
+    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article5:
+    id: 170535
+    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle.md
 url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170375
+    title: How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article2:
+    id: 170369
+    title: How do chloroplasts contribute to glucose production?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+related_article3:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article4:
+    id: 170371
+    title: What happens to glucose during cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+related_article5:
+    id: 170367
+    title: How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
 ---
 
 &nbsp;

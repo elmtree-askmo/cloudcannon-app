@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient.md
 url: /learn/biology/questions/what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient
 score: -1.0
+related_article1:
+    id: 168935
+    title: Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    subject: Biology
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
+related_article2:
+    id: 168933
+    title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article3:
+    id: 168937
+    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article4:
+    id: 168933
+    title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article5:
+    id: 168933
+    title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
 ---
 
 &nbsp;

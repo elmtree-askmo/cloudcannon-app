@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-sources-of-genetic-variation-in-a-population.md
 url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
 score: -1.0
+related_article1:
+    id: 166142
+    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article2:
+    id: 166147
+    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+related_article3:
+    id: 166137
+    title: What is the role of payoff matrices in game theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
+related_article4:
+    id: 166148
+    title: How does niche partitioning facilitate coexistence among species?
+    subject: Biology
+    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
+related_article5:
+    id: 166152
+    title: How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis.md
 url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 score: -1.0
+related_article1:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article2:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article3:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article4:
+    id: 170987
+    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+related_article5:
+    id: 170987
+    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 ---
 
 &nbsp;

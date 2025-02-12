@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage.md
 url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
 score: -1.0
+related_article1:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article2:
+    id: 164890
+    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article3:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article4:
+    id: 164890
+    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article5:
+    id: 164896
+    title: What factors influence the recovery of language impairments following brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
 ---
 
 &nbsp;

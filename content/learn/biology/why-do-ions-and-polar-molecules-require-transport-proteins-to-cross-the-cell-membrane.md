@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane.md
 url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167169
+    title: Compare the energy requirements of passive and active transport methods.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
+related_article2:
+    id: 167169
+    title: Compare the energy requirements of passive and active transport methods.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
+related_article3:
+    id: 167163
+    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
+related_article4:
+    id: 167169
+    title: Compare the energy requirements of passive and active transport methods.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
+related_article5:
+    id: 167161
+    title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 ---
 
 &nbsp;

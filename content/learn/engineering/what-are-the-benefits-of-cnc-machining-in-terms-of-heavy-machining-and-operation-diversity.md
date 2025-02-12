@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity.md
 url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
 score: -1.0
+related_article1:
+    id: 168705
+    title: What are the common applications of using a driver between centers in workpiece fixation?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
+related_article2:
+    id: 168710
+    title: How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
+related_article3:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article4:
+    id: 168698
+    title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article5:
+    id: 168706
+    title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162147
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article2:
+    id: 162147
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article3:
+    id: 162077
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article4:
+    id: 162072
+    title: What are the four main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162081
+    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
 ---
 
 &nbsp;

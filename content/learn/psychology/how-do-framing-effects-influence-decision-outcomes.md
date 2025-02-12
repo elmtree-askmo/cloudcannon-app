@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-framing-effects-influence-decision-outcomes.md
 url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 score: -1.0
+related_article1:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article2:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article3:
+    id: 168884
+    title: How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+related_article4:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+related_article5:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 ---
 
 &nbsp;

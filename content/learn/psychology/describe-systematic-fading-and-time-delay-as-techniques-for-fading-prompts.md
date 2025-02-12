@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts.md
 url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 score: -1.0
+related_article1:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+related_article2:
+    id: 169350
+    title: What role does imitation play in social development, and how is it related to observational learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
+related_article3:
+    id: 169351
+    title: What are some strategies to improve social skills deficits in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
+related_article4:
+    id: 169343
+    title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
+related_article5:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 ---
 
 &nbsp;

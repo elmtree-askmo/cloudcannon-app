@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation.md
 url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
 score: -1.0
+related_article1:
+    id: 170925
+    title: What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article2:
+    id: 170925
+    title: What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article3:
+    id: 170917
+    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
+related_article4:
+    id: 170917
+    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
+related_article5:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
 ---
 
 &nbsp;

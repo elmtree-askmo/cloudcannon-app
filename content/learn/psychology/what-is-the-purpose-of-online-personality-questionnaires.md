@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-purpose-of-online-personality-questionnaires.md
 url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 score: -1.0
+related_article1:
+    id: 168434
+    title: How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article2:
+    id: 168433
+    title: What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
+related_article3:
+    id: 168437
+    title: What are the differences between sensing and intuition in personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
+related_article4:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article5:
+    id: 168442
+    title: What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-similarity-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation.md
 url: /learn/mathematics/questions/what-is-the-similarity-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 score: -1.0
+related_article1:
+    id: 162155
+    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article2:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article3:
+    id: 162138
+    title: How does a translation differ from a reflection in terms of movement on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane
+related_article4:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article5:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
 ---
 
 &nbsp;

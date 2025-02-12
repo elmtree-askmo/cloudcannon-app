@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing.md
 url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
 score: -1.0
+related_article1:
+    id: 164849
+    title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
+related_article2:
+    id: 164852
+    title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article3:
+    id: 164834
+    title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
+related_article4:
+    id: 164834
+    title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
+related_article5:
+    id: 164849
+    title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
 ---
 
 &nbsp;

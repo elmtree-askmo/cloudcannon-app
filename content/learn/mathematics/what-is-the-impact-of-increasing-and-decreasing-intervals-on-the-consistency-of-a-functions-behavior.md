@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior.md
 url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
 score: -1.0
+related_article1:
+    id: 163703
+    title: Why is mathematical modeling important in real-life situations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
+related_article2:
+    id: 163699
+    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
+related_article3:
+    id: 163697
+    title: What is the formula for calculating the average rate of change between two points on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article4:
+    id: 163704
+    title: What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
+related_article5:
+    id: 163704
+    title: What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
 ---
 
 &nbsp;

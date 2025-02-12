@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna.md
 url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167326
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article2:
+    id: 167327
+    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article3:
+    id: 167326
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article4:
+    id: 167324
+    title: What are the three main components of a nucleotide?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article5:
+    id: 167326
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation.md
 url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 score: -1.0
+related_article1:
+    id: 162231
+    title: Why is it important to connect vertices when forming geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
+related_article2:
+    id: 162219
+    title: How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+related_article3:
+    id: 162223
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article4:
+    id: 162216
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article5:
+    id: 162313
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change.md
 url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
 score: -1.0
+related_article1:
+    id: 169607
+    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+related_article2:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+related_article3:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+related_article4:
+    id: 169607
+    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+related_article5:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior.md
 url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
 score: -1.0
+related_article1:
+    id: 167972
+    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article2:
+    id: 167974
+    title: What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article3:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article4:
+    id: 167976
+    title: Explain the concept of mental state attribution in cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
+related_article5:
+    id: 167980
+    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
 ---
 
 &nbsp;

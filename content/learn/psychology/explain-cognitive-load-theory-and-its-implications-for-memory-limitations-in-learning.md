@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning.md
 url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
 score: -1.0
+related_article1:
+    id: 169352
+    title: How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
+related_article2:
+    id: 169356
+    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article3:
+    id: 169337
+    title: Discuss the pros and cons of errorless learning compared to trial and error learning.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+related_article4:
+    id: 169336
+    title: What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article5:
+    id: 169344
+    title: Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
 ---
 
 &nbsp;

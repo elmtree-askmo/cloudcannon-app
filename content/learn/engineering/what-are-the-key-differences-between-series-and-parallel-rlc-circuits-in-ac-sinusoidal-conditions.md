@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions.md
 url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
 score: -1.0
+related_article1:
+    id: 169862
+    title: What is the difference between active and reactive power in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
+related_article2:
+    id: 169847
+    title: Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+related_article3:
+    id: 169851
+    title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
+related_article4:
+    id: 169863
+    title: How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+related_article5:
+    id: 169850
+    title: What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 ---
 
 &nbsp;

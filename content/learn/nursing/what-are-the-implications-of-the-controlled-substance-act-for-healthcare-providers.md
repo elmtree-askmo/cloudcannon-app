@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers.md
 url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
 score: -1.0
+related_article1:
+    id: 166503
+    title: What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+related_article2:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article3:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article4:
+    id: 166498
+    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article5:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 ---
 
 &nbsp;

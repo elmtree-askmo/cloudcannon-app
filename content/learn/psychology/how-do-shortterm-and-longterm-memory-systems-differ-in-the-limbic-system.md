@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system.md
 url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 score: -1.0
+related_article1:
+    id: 170476
+    title: What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article2:
+    id: 170485
+    title: What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
+related_article3:
+    id: 170477
+    title: How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
+related_article4:
+    id: 170463
+    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article5:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 ---
 
 &nbsp;

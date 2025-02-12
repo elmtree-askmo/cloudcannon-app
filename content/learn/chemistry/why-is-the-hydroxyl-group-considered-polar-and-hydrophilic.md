@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-the-hydroxyl-group-considered-polar-and-hydrophilic.md
 url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
 score: -1.0
+related_article1:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article2:
+    id: 167044
+    title: How does the structure of an amino group contribute to its basic nature?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
+related_article3:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article4:
+    id: 167048
+    title: How do hydroxyl and carbonyl groups influence molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
+related_article5:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 ---
 
 &nbsp;

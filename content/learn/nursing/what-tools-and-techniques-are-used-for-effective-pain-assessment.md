@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-tools-and-techniques-are-used-for-effective-pain-assessment.md
 url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
 score: -1.0
+related_article1:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article2:
+    id: 169766
+    title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article3:
+    id: 169751
+    title: What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article4:
+    id: 169753
+    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article5:
+    id: 169755
+    title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them.md
 url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
 score: -1.0
+related_article1:
+    id: 168362
+    title: How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article2:
+    id: 168355
+    title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article3:
+    id: 168354
+    title: What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article4:
+    id: 168352
+    title: What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article5:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 ---
 
 &nbsp;

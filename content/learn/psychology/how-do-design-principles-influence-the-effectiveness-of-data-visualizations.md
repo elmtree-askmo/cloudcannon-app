@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-design-principles-influence-the-effectiveness-of-data-visualizations.md
 url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
 score: -1.0
+related_article1:
+    id: 165079
+    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article2:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article3:
+    id: 165074
+    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article4:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article5:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 ---
 
 &nbsp;

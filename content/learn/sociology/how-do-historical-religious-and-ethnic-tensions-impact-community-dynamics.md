@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics.md
 url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 score: -1.0
+related_article1:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article2:
+    id: 168368
+    title: How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+related_article3:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article4:
+    id: 168361
+    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-processes-involved-in-auditory-perception.md
 url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 score: -1.0
+related_article1:
+    id: 164289
+    title: How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article2:
+    id: 164289
+    title: How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+related_article3:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article4:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article5:
+    id: 164289
+    title: How does mental health influence task performance in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
 ---
 
 &nbsp;

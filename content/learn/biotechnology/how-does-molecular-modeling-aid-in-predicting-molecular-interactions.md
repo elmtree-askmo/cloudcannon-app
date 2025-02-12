@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-molecular-modeling-aid-in-predicting-molecular-interactions.md
 url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 score: -1.0
+related_article1:
+    id: 170964
+    title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
+related_article2:
+    id: 170959
+    title: How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article3:
+    id: 170969
+    title: How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article4:
+    id: 170957
+    title: How do excitation and emission filters function in fluorescence microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+related_article5:
+    id: 170961
+    title: How do hydrophilic and hydrophobic interactions influence molecular behavior in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-interactions-influence-molecular-behavior-in-biological-systems
 ---
 
 &nbsp;

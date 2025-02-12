@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-marine-carbonate-system-help-regulate-ocean-ph.md
 url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
 score: -1.0
+related_article1:
+    id: 166994
+    title: What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+related_article2:
+    id: 166997
+    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article3:
+    id: 166994
+    title: What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+related_article4:
+    id: 166997
+    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article5:
+    id: 166989
+    title: How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-brain-networks-contribute-to-overall-brain-function.md
 url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 score: -1.0
+related_article1:
+    id: 164675
+    title: How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article2:
+    id: 164687
+    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+related_article3:
+    id: 164690
+    title: What were some key discoveries in the historical development of neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
+related_article4:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article5:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
 ---
 
 &nbsp;

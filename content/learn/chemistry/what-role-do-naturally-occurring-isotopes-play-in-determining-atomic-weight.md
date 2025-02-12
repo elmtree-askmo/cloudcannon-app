@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight.md
 url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
 score: -1.0
+related_article1:
+    id: 167250
+    title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article2:
+    id: 167257
+    title: Explain the concept of weighted average and its importance in calculating atomic weight.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-concept-of-weighted-average-and-its-importance-in-calculating-atomic-weight
+related_article3:
+    id: 167250
+    title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article4:
+    id: 167261
+    title: How does the percentage of chlorine isotopes in nature contribute to its atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
 ---
 
 &nbsp;

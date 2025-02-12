@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-contextual-effects-influence-visual-perception.md
 url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
 score: -1.0
+related_article1:
+    id: 165014
+    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article2:
+    id: 165023
+    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+related_article3:
+    id: 165016
+    title: How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article4:
+    id: 165022
+    title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+related_article5:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
 ---
 
 &nbsp;

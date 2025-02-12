@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development.md
 url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
 score: -1.0
+related_article1:
+    id: 164155
+    title: How do children in the heteronymous stage perceive authority and rules according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
+related_article2:
+    id: 164173
+    title: What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article3:
+    id: 164173
+    title: What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article4:
+    id: 164153
+    title: What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article5:
+    id: 164152
+    title: How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 ---
 
 &nbsp;

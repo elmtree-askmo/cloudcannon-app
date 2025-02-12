@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-carbohydrates-participate-in-cellular-communication.md
 url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
 score: -1.0
+related_article1:
+    id: 167033
+    title: What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article2:
+    id: 167018
+    title: How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article3:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+related_article4:
+    id: 167033
+    title: What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article5:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
 ---
 
 &nbsp;

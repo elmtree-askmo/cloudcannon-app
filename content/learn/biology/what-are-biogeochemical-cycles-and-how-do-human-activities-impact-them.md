@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them.md
 url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
 score: -1.0
+related_article1:
+    id: 167748
+    title: What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article2:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article3:
+    id: 167744
+    title: How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
+related_article4:
+    id: 167745
+    title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+related_article5:
+    id: 167749
+    title: Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 ---
 
 &nbsp;

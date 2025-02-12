@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society.md
 url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
 score: -1.0
+related_article1:
+    id: 164074
+    title: What are the core symptoms of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
+related_article2:
+    id: 164076
+    title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
+related_article3:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article4:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
 ---
 
 &nbsp;

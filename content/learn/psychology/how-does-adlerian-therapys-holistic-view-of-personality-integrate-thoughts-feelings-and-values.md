@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values.md
 url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
 score: -1.0
+related_article1:
+    id: 162994
+    title: What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
+related_article2:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article3:
+    id: 162997
+    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article4:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article5:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
 ---
 
 &nbsp;

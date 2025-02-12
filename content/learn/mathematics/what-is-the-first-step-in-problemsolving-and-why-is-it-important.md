@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-first-step-in-problemsolving-and-why-is-it-important.md
 url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 162115
+    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
+related_article2:
+    id: 162125
+    title: How can misinterpretation of data lead to common problem-solving mistakes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-misinterpretation-of-data-lead-to-common-problemsolving-mistakes
+related_article3:
+    id: 162120
+    title: Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
+related_article4:
+    id: 162119
+    title: Explain the role of the 'X' value in equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-x-value-in-equations
+related_article5:
+    id: 162104
+    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
 ---
 
 &nbsp;

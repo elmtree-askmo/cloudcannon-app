@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands.md
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 score: -1.0
+related_article1:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article2:
+    id: 165372
+    title: Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
+related_article3:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
+related_article4:
+    id: 165369
+    title: How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article5:
+    id: 165372
+    title: Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 ---
 
 &nbsp;

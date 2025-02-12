@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-guard-cells-regulate-the-opening-and-closing-of-stomata.md
 url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
 score: -1.0
+related_article1:
+    id: 168774
+    title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
+related_article2:
+    id: 168768
+    title: Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
+related_article3:
+    id: 168778
+    title: What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article4:
+    id: 168773
+    title: How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
+related_article5:
+    id: 168780
+    title: What are xerophytes and how are they adapted to dry environments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
 ---
 
 &nbsp;

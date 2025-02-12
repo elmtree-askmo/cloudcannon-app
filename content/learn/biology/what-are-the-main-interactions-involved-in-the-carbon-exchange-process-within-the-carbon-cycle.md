@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle.md
 url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
+related_article2:
+    id: 170386
+    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article3:
+    id: 170393
+    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article4:
+    id: 170379
+    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article5:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 ---
 
 &nbsp;

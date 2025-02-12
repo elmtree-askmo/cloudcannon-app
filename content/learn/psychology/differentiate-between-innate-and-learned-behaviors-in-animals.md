@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-innate-and-learned-behaviors-in-animals.md
 url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
 score: -1.0
+related_article1:
+    id: 170922
+    title: What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article2:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
+related_article3:
+    id: 170917
+    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
+related_article4:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
+related_article5:
+    id: 170916
+    title: Explain the principles of natural selection and genetic drift in evolutionary biology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
 ---
 
 &nbsp;

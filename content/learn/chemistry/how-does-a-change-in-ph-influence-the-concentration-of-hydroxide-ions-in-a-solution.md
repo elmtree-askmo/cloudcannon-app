@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution.md
 url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
 score: -1.0
+related_article1:
+    id: 167124
+    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article2:
+    id: 167119
+    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article3:
+    id: 167124
+    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article4:
+    id: 167120
+    title: How is pH mathematically represented and what is the pH of pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
+related_article5:
+    id: 167126
+    title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

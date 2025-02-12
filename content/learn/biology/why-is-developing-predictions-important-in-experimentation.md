@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-developing-predictions-important-in-experimentation.md
 url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
 score: -1.0
+related_article1:
+    id: 166918
+    title: Define homeostasis and explain its importance for survival.
+    subject: Biology
+    url: /learn/biology/questions/define-homeostasis-and-explain-its-importance-for-survival
+related_article2:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article3:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article4:
+    id: 166932
+    title: What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article5:
+    id: 166916
+    title: What processes are involved in growth and development, and how do nutrients play a role?
+    subject: Biology
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 ---
 
 &nbsp;

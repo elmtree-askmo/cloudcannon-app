@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization.md
 url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization
 score: -1.0
+related_article1:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+related_article2:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article3:
+    id: 167630
+    title: Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article4:
+    id: 167627
+    title: Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
+related_article5:
+    id: 167628
+    title: How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 ---
 
 &nbsp;

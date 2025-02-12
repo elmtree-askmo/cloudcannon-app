@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-carbon-sinks-important-in-ecosystems.md
 url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170362
+    title: How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article2:
+    id: 170360
+    title: What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+related_article3:
+    id: 170359
+    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article4:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article5:
+    id: 170363
+    title: What is the primary function of mitochondria in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
 ---
 
 &nbsp;

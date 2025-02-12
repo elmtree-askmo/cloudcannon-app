@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer.md
 url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
 score: -1.0
+related_article1:
+    id: 167556
+    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+related_article2:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article3:
+    id: 167552
+    title: Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article4:
+    id: 167547
+    title: How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article5:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
 ---
 
 &nbsp;

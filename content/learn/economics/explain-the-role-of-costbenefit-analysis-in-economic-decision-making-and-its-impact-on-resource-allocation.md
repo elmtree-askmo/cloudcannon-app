@@ -21,6 +21,31 @@ subject: Economics
 file_name: explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation.md
 url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
 score: -1.0
+related_article1:
+    id: 170865
+    title: What analytical techniques are used to determine optimal quality in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-analytical-techniques-are-used-to-determine-optimal-quality-in-economics
+related_article2:
+    id: 170857
+    title: What are the key concepts and principles of economic theory?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-concepts-and-principles-of-economic-theory
+related_article3:
+    id: 170854
+    title: How does the interpretation of the cost curve affect economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
+related_article4:
+    id: 170857
+    title: What are the key concepts and principles of economic theory?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-concepts-and-principles-of-economic-theory
+related_article5:
+    id: 170862
+    title: Why is graphical representation important in understanding economic concepts?
+    subject: Economics
+    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
 ---
 
 &nbsp;

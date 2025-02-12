@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-across-axes-transform-cube-root-functions.md
 url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163761
+    title: How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+related_article2:
+    id: 163746
+    title: How do cube root functions differ from square root functions in terms of perfect cubes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article3:
+    id: 163770
+    title: What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article4:
+    id: 163744
+    title: What is the general form of a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
+related_article5:
+    id: 163775
+    title: How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
 ---
 
 &nbsp;

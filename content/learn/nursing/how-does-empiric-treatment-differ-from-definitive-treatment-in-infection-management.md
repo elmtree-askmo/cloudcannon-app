@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management.md
 url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 score: -1.0
+related_article1:
+    id: 166462
+    title: What are the primary routes of drug excretion?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
+related_article2:
+    id: 166469
+    title: How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
+related_article3:
+    id: 166456
+    title: How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article4:
+    id: 166456
+    title: How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article5:
+    id: 166459
+    title: How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
 ---
 
 &nbsp;

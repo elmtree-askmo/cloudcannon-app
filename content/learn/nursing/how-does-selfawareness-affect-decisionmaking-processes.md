@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-selfawareness-affect-decisionmaking-processes.md
 url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
 score: -1.0
+related_article1:
+    id: 169805
+    title: How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article2:
+    id: 169813
+    title: How does cultural awareness impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
+related_article3:
+    id: 169823
+    title: What is the role of self-reflection in personal growth and development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+related_article4:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+related_article5:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
 ---
 
 &nbsp;

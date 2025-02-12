@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience.md
 url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 score: -1.0
+related_article1:
+    id: 164397
+    title: What role does the right hemisphere play in language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+related_article2:
+    id: 164380
+    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article3:
+    id: 164404
+    title: What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
+related_article4:
+    id: 164386
+    title: What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article5:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 ---
 
 &nbsp;

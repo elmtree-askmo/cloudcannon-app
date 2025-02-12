@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support.md
 url: /learn/nursing/questions/how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support
 score: -1.0
+related_article1:
+    id: 169450
+    title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+related_article2:
+    id: 169460
+    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article3:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+related_article4:
+    id: 169460
+    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article5:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
 ---
 
 &nbsp;

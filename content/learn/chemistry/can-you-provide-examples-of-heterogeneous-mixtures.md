@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: can-you-provide-examples-of-heterogeneous-mixtures.md
 url: /learn/chemistry/questions/can-you-provide-examples-of-heterogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161867
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article2:
+    id: 161846
+    title: How are chemical formulas used to represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+related_article3:
+    id: 161872
+    title: What are the defining characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
+related_article4:
+    id: 161849
+    title: What are the defining characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
+related_article5:
+    id: 161829
+    title: How do physical properties such as mass and volume define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-physical-properties-such-as-mass-and-volume-define-matter
 ---
 
 &nbsp;

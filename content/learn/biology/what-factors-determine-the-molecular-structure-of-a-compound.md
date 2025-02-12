@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-determine-the-molecular-structure-of-a-compound.md
 url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
 score: -1.0
+related_article1:
+    id: 167455
+    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    subject: Biology
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+related_article2:
+    id: 167466
+    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+related_article3:
+    id: 167456
+    title: Define acids and bases according to the proton donor-acceptor concept.
+    subject: Biology
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
+related_article4:
+    id: 167445
+    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article5:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
 ---
 
 &nbsp;

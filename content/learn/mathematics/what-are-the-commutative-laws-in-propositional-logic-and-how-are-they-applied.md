@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied.md
 url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
 score: -1.0
+related_article1:
+    id: 170207
+    title: How do conditional identities apply in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article2:
+    id: 170205
+    title: Describe the distributive laws and provide an example of their application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
+related_article3:
+    id: 170206
+    title: What are the different types of logical operators and their functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
+related_article4:
+    id: 170204
+    title: Explain the associative laws with an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
+related_article5:
+    id: 170215
+    title: What is the structure of propositional arguments and how are hypotheses involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 ---
 
 &nbsp;

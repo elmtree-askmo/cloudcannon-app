@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-payoff-matrices-in-game-theory.md
 url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
 score: -1.0
+related_article1:
+    id: 166140
+    title: How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article2:
+    id: 166141
+    title: What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
+related_article3:
+    id: 166151
+    title: What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
+related_article4:
+    id: 166142
+    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article5:
+    id: 166139
+    title: What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 ---
 
 &nbsp;

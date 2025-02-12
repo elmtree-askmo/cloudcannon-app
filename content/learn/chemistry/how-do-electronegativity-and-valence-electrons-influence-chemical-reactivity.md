@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity.md
 url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
 score: -1.0
+related_article1:
+    id: 167056
+    title: How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article2:
+    id: 167065
+    title: What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article3:
+    id: 167061
+    title: What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article4:
+    id: 167057
+    title: What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
+related_article5:
+    id: 167063
+    title: How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
 ---
 
 &nbsp;

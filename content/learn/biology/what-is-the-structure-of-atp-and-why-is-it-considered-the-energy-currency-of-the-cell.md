@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell.md
 url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
 score: -1.0
+related_article1:
+    id: 168930
+    title: What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
+related_article2:
+    id: 168932
+    title: Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
+    subject: Biology
+    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
+related_article3:
+    id: 168940
+    title: Define electrochemical gradient and explain its components.
+    subject: Biology
+    url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article4:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article5:
+    id: 168931
+    title: How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
 ---
 
 &nbsp;

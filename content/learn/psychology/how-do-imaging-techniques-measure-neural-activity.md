@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-imaging-techniques-measure-neural-activity.md
 url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
 score: -1.0
+related_article1:
+    id: 164238
+    title: How do association areas in the brain contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+related_article2:
+    id: 164240
+    title: What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article3:
+    id: 164239
+    title: Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article4:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
+related_article5:
+    id: 164243
+    title: What are the primary types of cognitive processes studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
 ---
 
 &nbsp;

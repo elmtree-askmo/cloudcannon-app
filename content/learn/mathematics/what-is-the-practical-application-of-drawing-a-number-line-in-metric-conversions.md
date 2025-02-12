@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions.md
 url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
 score: -1.0
+related_article1:
+    id: 165411
+    title: What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article2:
+    id: 165396
+    title: How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
+related_article3:
+    id: 165392
+    title: What is the central unit in the metric system number line?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-central-unit-in-the-metric-system-number-line
+related_article4:
+    id: 165403
+    title: What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+related_article5:
+    id: 165405
+    title: In which situations should the decimal point be moved to the left during unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 ---
 
 &nbsp;

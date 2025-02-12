@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water.md
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 score: -1.0
+related_article1:
+    id: 162037
+    title: How can the formation of ions be described in the context of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+related_article2:
+    id: 161762
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article3:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+related_article4:
+    id: 162048
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article5:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 ---
 
 &nbsp;

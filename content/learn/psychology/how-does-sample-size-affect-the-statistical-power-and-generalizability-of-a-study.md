@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study.md
 url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 score: -1.0
+related_article1:
+    id: 165076
+    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
+related_article2:
+    id: 165066
+    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
+related_article3:
+    id: 165067
+    title: How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article4:
+    id: 165088
+    title: What strategies can be used to address sample size limitations in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
+related_article5:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
 ---
 
 &nbsp;

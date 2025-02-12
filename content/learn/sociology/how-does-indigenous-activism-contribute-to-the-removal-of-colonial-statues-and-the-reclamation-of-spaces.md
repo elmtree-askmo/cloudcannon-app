@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces.md
 url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
 score: -1.0
+related_article1:
+    id: 169164
+    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article2:
+    id: 169163
+    title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article3:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article4:
+    id: 169164
+    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article5:
+    id: 169170
+    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
 ---
 
 &nbsp;

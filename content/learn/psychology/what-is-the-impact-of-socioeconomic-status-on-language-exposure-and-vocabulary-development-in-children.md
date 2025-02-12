@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children.md
 url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 score: -1.0
+related_article1:
+    id: 164422
+    title: What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article2:
+    id: 164425
+    title: How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article3:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article4:
+    id: 164427
+    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+related_article5:
+    id: 164436
+    title: What are the cultural variations in diagnostic criteria for mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
 ---
 
 &nbsp;

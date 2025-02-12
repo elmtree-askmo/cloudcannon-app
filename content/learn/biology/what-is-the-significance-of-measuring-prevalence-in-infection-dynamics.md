@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-measuring-prevalence-in-infection-dynamics.md
 url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
 score: -1.0
+related_article1:
+    id: 166138
+    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
+related_article2:
+    id: 166135
+    title: What are the main sources of genetic variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
+related_article3:
+    id: 166148
+    title: How does niche partitioning facilitate coexistence among species?
+    subject: Biology
+    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
+related_article4:
+    id: 166145
+    title: What role do oncogenes and tumor suppressors play in cancer progression?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
+related_article5:
+    id: 166152
+    title: How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
 ---
 
 &nbsp;

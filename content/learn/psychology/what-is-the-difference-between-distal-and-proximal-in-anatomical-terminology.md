@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology.md
 url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
 score: -1.0
+related_article1:
+    id: 164412
+    title: How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
+related_article2:
+    id: 164417
+    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+related_article3:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
+related_article4:
+    id: 164412
+    title: How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
+related_article5:
+    id: 164412
+    title: How does the temporal lobe contribute to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
 ---
 
 &nbsp;

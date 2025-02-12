@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function.md
 url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
 score: -1.0
+related_article1:
+    id: 167425
+    title: What is hydrogen bonding and how does it influence the properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
+related_article2:
+    id: 167427
+    title: Define cohesion and describe its mechanism in water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
+related_article3:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article4:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article5:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
 ---
 
 &nbsp;

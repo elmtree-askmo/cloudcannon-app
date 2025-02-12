@@ -21,6 +21,31 @@ subject: Biology
 file_name: compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency.md
 url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 score: -1.0
+related_article1:
+    id: 170346
+    title: What is cellular respiration, and why is it important for organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article2:
+    id: 170348
+    title: How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+related_article3:
+    id: 170345
+    title: How does photosynthesis contribute to the balance of ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
+related_article4:
+    id: 170344
+    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+related_article5:
+    id: 170352
+    title: How is ATP formed, and what is its role in energy transfer within cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
 ---
 
 &nbsp;

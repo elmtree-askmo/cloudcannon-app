@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-positions-of-vertices-in-a-figure.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
 score: -1.0
+related_article1:
+    id: 162324
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article2:
+    id: 162332
+    title: How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
+related_article3:
+    id: 162314
+    title: What are the three types of rigid transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
+related_article4:
+    id: 162328
+    title: How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 ---
 
 &nbsp;

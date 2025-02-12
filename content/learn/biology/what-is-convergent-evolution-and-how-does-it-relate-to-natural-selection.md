@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection.md
 url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 165256
+    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+related_article2:
+    id: 165268
+    title: How does stabilizing selection contribute to population stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
+related_article3:
+    id: 165260
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article4:
+    id: 165262
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
 ---
 
 &nbsp;

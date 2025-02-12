@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-does-it-mean-for-a-function-to-be-continuous.md
 url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
 score: -1.0
+related_article1:
+    id: 163751
+    title: What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+related_article2:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article3:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article4:
+    id: 163755
+    title: How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article5:
+    id: 163771
+    title: What is the shape and direction of a typical cube root graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
 ---
 
 &nbsp;

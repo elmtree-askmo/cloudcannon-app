@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-purpose-of-urban-taxonomy-in-urban-planning.md
 url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
 score: -1.0
+related_article1:
+    id: 162918
+    title: What role do non-state actors play in the geostrategic power dynamics of urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
+related_article2:
+    id: 162919
+    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+related_article3:
+    id: 162933
+    title: How does military doctrine address the challenges of urban complexity in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
+related_article4:
+    id: 162921
+    title: How do city-states and shanty-states function as geopolitical actors in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
+related_article5:
+    id: 162929
+    title: How do simulated urban environments aid in urban combat training?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-simulated-urban-environments-aid-in-urban-combat-training
 ---
 
 &nbsp;

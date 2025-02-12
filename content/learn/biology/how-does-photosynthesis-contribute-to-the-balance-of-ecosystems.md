@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-photosynthesis-contribute-to-the-balance-of-ecosystems.md
 url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
 score: -1.0
+related_article1:
+    id: 170355
+    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+related_article2:
+    id: 170349
+    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article3:
+    id: 170350
+    title: What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
+related_article4:
+    id: 170354
+    title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
+related_article5:
+    id: 170355
+    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
 ---
 
 &nbsp;

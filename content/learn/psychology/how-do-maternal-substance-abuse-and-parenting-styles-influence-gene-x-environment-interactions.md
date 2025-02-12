@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions.md
 url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 score: -1.0
+related_article1:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article2:
+    id: 164032
+    title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article3:
+    id: 164038
+    title: What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article4:
+    id: 164026
+    title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article5:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 ---
 
 &nbsp;

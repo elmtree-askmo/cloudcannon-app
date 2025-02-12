@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients.md
 url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
 score: -1.0
+related_article1:
+    id: 168295
+    title: How do you apply the product of powers property to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+related_article2:
+    id: 168309
+    title: How do you combine like radicals to simplify complex expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
+related_article3:
+    id: 168299
+    title: What are the characteristics of prime numbers, and how can they be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
+related_article4:
+    id: 168306
+    title: How do non-negative integers play a role in polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-nonnegative-integers-play-a-role-in-polynomial-expressions
+related_article5:
+    id: 168295
+    title: How do you apply the product of powers property to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
 ---
 
 &nbsp;

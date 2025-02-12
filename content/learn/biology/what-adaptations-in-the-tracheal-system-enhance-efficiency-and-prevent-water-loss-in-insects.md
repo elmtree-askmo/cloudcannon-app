@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects.md
 url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
 score: -1.0
+related_article1:
+    id: 168809
+    title: How do gill structure and counter-current exchange serve as respiratory adaptations in fish?
+    subject: Biology
+    url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
+related_article2:
+    id: 168809
+    title: How do gill structure and counter-current exchange serve as respiratory adaptations in fish?
+    subject: Biology
+    url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
+related_article3:
+    id: 168804
+    title: What is the role of capillary networks in facilitated diffusion and transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-capillary-networks-in-facilitated-diffusion-and-transport-mechanisms
+related_article4:
+    id: 168803
+    title: Describe the diffusion process and its role in gas exchange.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
+related_article5:
+    id: 168798
+    title: How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
 ---
 
 &nbsp;

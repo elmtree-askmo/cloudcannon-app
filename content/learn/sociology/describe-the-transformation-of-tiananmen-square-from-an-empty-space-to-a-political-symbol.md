@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol.md
 url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 score: -1.0
+related_article1:
+    id: 169051
+    title: What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+related_article2:
+    id: 169052
+    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+related_article3:
+    id: 169050
+    title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
+related_article4:
+    id: 169052
+    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+related_article5:
+    id: 169042
+    title: How did Tiananmen Square evolve into a political public space over time?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
 ---
 
 &nbsp;

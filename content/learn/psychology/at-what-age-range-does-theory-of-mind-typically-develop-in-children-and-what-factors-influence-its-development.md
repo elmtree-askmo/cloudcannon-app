@@ -21,6 +21,31 @@ subject: Psychology
 file_name: at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development.md
 url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
 score: -1.0
+related_article1:
+    id: 167981
+    title: What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
+related_article2:
+    id: 167972
+    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article3:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article4:
+    id: 167973
+    title: Describe the Change of Location Task and its role in assessing false belief understanding.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
+related_article5:
+    id: 167979
+    title: What is the role of beliefs and desires in decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 ---
 
 &nbsp;

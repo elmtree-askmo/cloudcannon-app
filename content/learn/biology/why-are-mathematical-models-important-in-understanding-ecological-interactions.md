@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-mathematical-models-important-in-understanding-ecological-interactions.md
 url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
 score: -1.0
+related_article1:
+    id: 166118
+    title: What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
+related_article2:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article3:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article4:
+    id: 166122
+    title: What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article5:
+    id: 166125
+    title: How is the per capita parasite load related to the conversion rate of host to parasites?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-desegregation-contribute-to-a-childs-understanding-of-conservation.md
 url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
 score: -1.0
+related_article1:
+    id: 168056
+    title: Explain the concept of reversibility and its role in conservation during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage
+related_article2:
+    id: 168053
+    title: How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article3:
+    id: 168053
+    title: How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article4:
+    id: 168060
+    title: Describe the predictable patterns in the conservation sequence during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
+related_article5:
+    id: 168059
+    title: What is horizontal decalage, and how does it relate to the gradual development of cognitive skills?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills
 ---
 
 &nbsp;

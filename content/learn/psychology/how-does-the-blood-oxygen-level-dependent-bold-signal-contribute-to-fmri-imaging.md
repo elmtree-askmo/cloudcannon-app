@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-blood-oxygen-level-dependent-bold-signal-contribute-to-fmri-imaging.md
 url: /learn/psychology/questions/how-does-the-blood-oxygen-level-dependent-bold-signal-contribute-to-fmri-imaging
 score: -1.0
+related_article1:
+    id: 164231
+    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article2:
+    id: 164242
+    title: How do imaging techniques measure neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
+related_article3:
+    id: 164239
+    title: Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article4:
+    id: 164240
+    title: What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
+related_article5:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 ---
 
 &nbsp;

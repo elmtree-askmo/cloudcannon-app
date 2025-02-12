@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design.md
 url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
 score: -1.0
+related_article1:
+    id: 168983
+    title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+related_article2:
+    id: 168985
+    title: How did the transformation of public spaces influence national identity in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+related_article3:
+    id: 168978
+    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article4:
+    id: 168978
+    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article5:
+    id: 168987
+    title: How did continued protests and demands during the transition to democracy attract national and international attention?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
 ---
 
 &nbsp;

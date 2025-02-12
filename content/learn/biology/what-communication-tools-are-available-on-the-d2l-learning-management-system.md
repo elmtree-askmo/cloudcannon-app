@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-communication-tools-are-available-on-the-d2l-learning-management-system.md
 url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
 score: -1.0
+related_article1:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article2:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article3:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167488
+    title: What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article5:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
 ---
 
 &nbsp;

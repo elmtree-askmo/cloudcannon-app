@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-interconnectedness-influence-global-opportunities-and-conditions.md
 url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
 score: -1.0
+related_article1:
+    id: 163618
+    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article2:
+    id: 163618
+    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article3:
+    id: 163622
+    title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
+related_article4:
+    id: 163624
+    title: How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article5:
+    id: 163612
+    title: What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 ---
 
 &nbsp;

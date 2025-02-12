@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology.md
 url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
 score: -1.0
+related_article1:
+    id: 167757
+    title: What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+related_article2:
+    id: 167765
+    title: What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+related_article3:
+    id: 167748
+    title: What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article4:
+    id: 167755
+    title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
+related_article5:
+    id: 167751
+    title: Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 ---
 
 &nbsp;

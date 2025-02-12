@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data.md
 url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
 score: -1.0
+related_article1:
+    id: 164079
+    title: What are the benefits of data-driven personalized care in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
+related_article2:
+    id: 164072
+    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article3:
+    id: 164074
+    title: What are the core symptoms of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
+related_article4:
+    id: 164086
+    title: What are the potential benefits of early detection and tailored prevention in reducing the burden on families and society?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
+related_article5:
+    id: 164077
+    title: How do normative models help in understanding disease-related variation in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normative-models-help-in-understanding-diseaserelated-variation-in-clinical-populations
 ---
 
 &nbsp;

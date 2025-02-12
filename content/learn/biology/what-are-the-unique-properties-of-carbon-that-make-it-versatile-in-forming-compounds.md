@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds.md
 url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 score: -1.0
+related_article1:
+    id: 167421
+    title: How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article2:
+    id: 167420
+    title: How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
+related_article3:
+    id: 167419
+    title: What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article4:
+    id: 167413
+    title: What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article5:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

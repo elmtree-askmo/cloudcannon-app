@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions.md
 url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-under-rotation-in-terms-of-quadrant-transitions
 score: -1.0
+related_article1:
+    id: 162077
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article2:
+    id: 162081
+    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article3:
+    id: 162078
+    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+related_article5:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
 ---
 
 &nbsp;

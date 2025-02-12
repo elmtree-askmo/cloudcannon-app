@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information.md
 url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
 score: -1.0
+related_article1:
+    id: 167535
+    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
+related_article2:
+    id: 167536
+    title: Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
+related_article3:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article4:
+    id: 167525
+    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+related_article5:
+    id: 167527
+    title: What are the key differences between the nucleotide components of RNA and DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
 ---
 
 &nbsp;

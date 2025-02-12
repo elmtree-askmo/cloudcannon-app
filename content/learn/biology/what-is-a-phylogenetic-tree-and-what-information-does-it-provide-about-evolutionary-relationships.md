@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships.md
 url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 166353
+    title: What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article2:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166372
+    title: How is the selection differential calculated and what does it indicate?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
+related_article4:
+    id: 166367
+    title: What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+related_article5:
+    id: 166367
+    title: What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
 ---
 
 &nbsp;

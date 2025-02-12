@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-translation-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article2:
+    id: 162614
+    title: Describe the concept of circular turning in rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+related_article3:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article4:
+    id: 162485
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
+    id: 162246
+    title: What is the importance of the origin as the center of rotation in the coordinate system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
 ---
 
 &nbsp;

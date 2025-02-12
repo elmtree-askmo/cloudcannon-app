@@ -21,6 +21,31 @@ subject: Psychology
 file_name: compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types.md
 url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 score: -1.0
+related_article1:
+    id: 170627
+    title: What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article2:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article3:
+    id: 170629
+    title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article4:
+    id: 170623
+    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
+related_article5:
+    id: 170623
+    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-formula-for-calculating-the-area-of-a-rectangle.md
 url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
 score: -1.0
+related_article1:
+    id: 164923
+    title: How do you maintain proportions when adjusting the dimensions of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
+related_article2:
+    id: 164926
+    title: What are the basic mathematical operations used in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
+related_article3:
+    id: 164925
+    title: How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+related_article4:
+    id: 164920
+    title: What are the defining characteristics of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-defining-characteristics-of-a-rectangle
+related_article5:
+    id: 164926
+    title: What are the basic mathematical operations used in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
 ---
 
 &nbsp;

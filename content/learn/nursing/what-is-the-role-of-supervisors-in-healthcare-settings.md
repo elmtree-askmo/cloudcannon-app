@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-supervisors-in-healthcare-settings.md
 url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169574
+    title: How does supervision aid in effective risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article2:
+    id: 169561
+    title: Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+related_article3:
+    id: 169567
+    title: What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article4:
+    id: 169580
+    title: How does supervision support student nurses in fulfilling their responsibilities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+related_article5:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 ---
 
 &nbsp;

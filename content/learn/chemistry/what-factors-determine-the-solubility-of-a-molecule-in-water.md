@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-factors-determine-the-solubility-of-a-molecule-in-water.md
 url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
 score: -1.0
+related_article1:
+    id: 167076
+    title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
+related_article2:
+    id: 167080
+    title: Explain the role of valence electrons in determining the chemical reactivity of an element.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-valence-electrons-in-determining-the-chemical-reactivity-of-an-element
+related_article3:
+    id: 167079
+    title: How do hydrogen bonds and ionic interactions contribute to protein folding and stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-and-ionic-interactions-contribute-to-protein-folding-and-stability
+related_article4:
+    id: 167084
+    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+related_article5:
+    id: 167082
+    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
 ---
 
 &nbsp;

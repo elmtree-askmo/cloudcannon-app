@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations.md
 url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
 score: -1.0
+related_article1:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article2:
+    id: 164923
+    title: How do you maintain proportions when adjusting the dimensions of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
+related_article3:
+    id: 164923
+    title: How do you maintain proportions when adjusting the dimensions of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-maintain-proportions-when-adjusting-the-dimensions-of-a-rectangle
+related_article4:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article5:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 ---
 
 &nbsp;

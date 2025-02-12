@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances.md
 url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
 score: -1.0
+related_article1:
+    id: 160543
+    title: How do socio-cultural impacts affect development, particularly in terms of cultural attributes and social dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-development-particularly-in-terms-of-cultural-attributes-and-social-dynamics
+related_article2:
+    id: 160231
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article3:
+    id: 160225
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article4:
+    id: 160551
+    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+related_article5:
+    id: 160633
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
 ---
 
 &nbsp;

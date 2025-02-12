@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-synaptic-plasticity-contribute-to-learning-and-memory.md
 url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
 score: -1.0
+related_article1:
+    id: 170473
+    title: How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
+related_article2:
+    id: 170471
+    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+related_article3:
+    id: 170469
+    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+related_article4:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article5:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-brain-patterns-and-how-do-they-relate-to-brain-function.md
 url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
 score: -1.0
+related_article1:
+    id: 164804
+    title: What is the importance of directional terms in understanding neural signals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
+related_article2:
+    id: 164814
+    title: How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+related_article3:
+    id: 164804
+    title: What is the importance of directional terms in understanding neural signals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
+related_article4:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article5:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 ---
 
 &nbsp;

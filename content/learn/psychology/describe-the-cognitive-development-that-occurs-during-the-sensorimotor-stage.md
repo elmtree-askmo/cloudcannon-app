@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage.md
 url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
 score: -1.0
+related_article1:
+    id: 168099
+    title: What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+related_article2:
+    id: 168107
+    title: Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article3:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article4:
+    id: 168102
+    title: At what age do children typically develop object permanence?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
+related_article5:
+    id: 168094
+    title: What are primary circular reactions, and at what age do they typically occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 ---
 
 &nbsp;

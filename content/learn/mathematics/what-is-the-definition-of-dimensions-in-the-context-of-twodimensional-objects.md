@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects.md
 url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
 score: -1.0
+related_article1:
+    id: 162503
+    title: What are the key properties of two-dimensional transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+related_article2:
+    id: 162237
+    title: What is the center of rotation, and why is it important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+related_article3:
+    id: 162236
+    title: Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article4:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article5:
+    id: 162605
+    title: What is a mirror image in the context of reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 ---
 
 &nbsp;

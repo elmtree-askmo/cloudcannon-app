@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes.md
 url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 score: -1.0
+related_article1:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article2:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article3:
+    id: 168834
+    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article4:
+    id: 168837
+    title: What is the role of the sodium-potassium pump in creating a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
+related_article5:
+    id: 168834
+    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare.md
 url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
 score: -1.0
+related_article1:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article2:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article3:
+    id: 169645
+    title: What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
+related_article4:
+    id: 169642
+    title: How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article5:
+    id: 169643
+    title: What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 ---
 
 &nbsp;

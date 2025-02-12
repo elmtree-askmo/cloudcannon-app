@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches.md
 url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 score: -1.0
+related_article1:
+    id: 163029
+    title: Why is empirical support crucial for the validity of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+related_article2:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article3:
+    id: 163025
+    title: How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+related_article4:
+    id: 163026
+    title: What are the key components of a conceptual framework in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
+related_article5:
+    id: 163041
+    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
 ---
 
 &nbsp;

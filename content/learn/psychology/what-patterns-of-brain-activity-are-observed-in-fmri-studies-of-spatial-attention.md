@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention.md
 url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
 score: -1.0
+related_article1:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article2:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article3:
+    id: 164746
+    title: How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article4:
+    id: 164755
+    title: How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+related_article5:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 ---
 
 &nbsp;

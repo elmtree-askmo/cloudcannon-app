@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water.md
 url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 score: -1.0
+related_article1:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+related_article2:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
+related_article3:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article4:
+    id: 167443
+    title: Describe the mechanism of water movement in xylem and its importance for plant survival.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-mechanism-of-water-movement-in-xylem-and-its-importance-for-plant-survival
 ---
 
 &nbsp;

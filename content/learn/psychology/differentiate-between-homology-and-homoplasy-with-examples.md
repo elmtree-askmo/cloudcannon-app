@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-homology-and-homoplasy-with-examples.md
 url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
 score: -1.0
+related_article1:
+    id: 166391
+    title: How do hormone-receptor interactions influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
+related_article2:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article3:
+    id: 166375
+    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article4:
+    id: 166375
+    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article5:
+    id: 166394
+    title: How do vertebrate organ systems interact to influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 ---
 
 &nbsp;

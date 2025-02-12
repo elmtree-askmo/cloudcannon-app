@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-conversion-process-from-grams-to-milligrams.md
 url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
 score: -1.0
+related_article1:
+    id: 165409
+    title: How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+related_article2:
+    id: 165409
+    title: How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+related_article3:
+    id: 165411
+    title: What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article4:
+    id: 165394
+    title: What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+related_article5:
+    id: 165396
+    title: How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

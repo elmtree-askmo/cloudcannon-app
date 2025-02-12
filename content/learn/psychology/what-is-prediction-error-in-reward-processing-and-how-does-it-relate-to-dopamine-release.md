@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release.md
 url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 score: -1.0
+related_article1:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article2:
+    id: 164420
+    title: What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+related_article3:
+    id: 164431
+    title: Why is early language exposure important for vocabulary and grammar development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+related_article4:
+    id: 164435
+    title: How do developmental stages affect executive functions in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+related_article5:
+    id: 164423
+    title: How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
 ---
 
 &nbsp;

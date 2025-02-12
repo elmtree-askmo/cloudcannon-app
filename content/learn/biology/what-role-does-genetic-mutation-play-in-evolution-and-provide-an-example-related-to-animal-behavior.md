@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior.md
 url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
 score: -1.0
+related_article1:
+    id: 165271
+    title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+related_article2:
+    id: 165270
+    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article3:
+    id: 165280
+    title: Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
+related_article4:
+    id: 165270
+    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article5:
+    id: 165272
+    title: Define animal behavior and explain its importance in ecology.
+    subject: Biology
+    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
 ---
 
 &nbsp;

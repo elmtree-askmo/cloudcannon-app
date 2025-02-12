@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic.md
 url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 score: -1.0
+related_article1:
+    id: 163614
+    title: How did the Industrial Revolution contribute to urbanization and shifts in labor?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+related_article2:
+    id: 163611
+    title: How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article3:
+    id: 163616
+    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+related_article4:
+    id: 163609
+    title: How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article5:
+    id: 163618
+    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
 ---
 
 &nbsp;

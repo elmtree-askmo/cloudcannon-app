@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action.md
 url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
 score: -1.0
+related_article1:
+    id: 166458
+    title: Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+related_article2:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article3:
+    id: 166454
+    title: How do storage conditions affect the stability of pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
+related_article4:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article5:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
 ---
 
 &nbsp;

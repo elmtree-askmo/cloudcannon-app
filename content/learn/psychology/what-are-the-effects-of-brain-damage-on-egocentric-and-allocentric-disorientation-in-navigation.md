@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation.md
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
 score: -1.0
+related_article1:
+    id: 164471
+    title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article2:
+    id: 164478
+    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article3:
+    id: 164459
+    title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article4:
+    id: 164475
+    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
+related_article5:
+    id: 164474
+    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 ---
 
 &nbsp;

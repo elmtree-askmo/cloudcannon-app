@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-types-of-transformations-can-be-applied-to-functions.md
 url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
 score: -1.0
+related_article1:
+    id: 163790
+    title: What is the relationship between square root functions and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
+related_article2:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article3:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article4:
+    id: 163799
+    title: How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article5:
+    id: 163804
+    title: What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
 ---
 
 &nbsp;

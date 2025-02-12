@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-process-of-a-270-degrees-clockwise-rotation-and-its-effect-on-coordinates.md
 url: /learn/mathematics/questions/explain-the-process-of-a-270-degrees-clockwise-rotation-and-its-effect-on-coordinates
 score: -1.0
+related_article1:
+    id: 162140
+    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
+related_article2:
+    id: 162147
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
+related_article3:
+    id: 162159
+    title: What are the observable results of rotating geometric figures in terms of quadrant transitions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-observable-results-of-rotating-geometric-figures-in-terms-of-quadrant-transitions
+related_article4:
+    id: 162157
+    title: How do line segments and points behave when rotated on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-when-rotated-on-the-coordinate-plane
+related_article5:
+    id: 162147
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
 ---
 
 &nbsp;

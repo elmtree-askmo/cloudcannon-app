@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: differentiate-between-scalar-fields-and-vector-fields-with-examples.md
 url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 score: -1.0
+related_article1:
+    id: 168328
+    title: Explain the concept of one-sided limits and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+related_article2:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article3:
+    id: 168329
+    title: What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article4:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article5:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 ---
 
 &nbsp;

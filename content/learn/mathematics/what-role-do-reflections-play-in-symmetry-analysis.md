@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-role-do-reflections-play-in-symmetry-analysis.md
 url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
 score: -1.0
+related_article1:
+    id: 162520
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article2:
+    id: 162907
+    title: Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article3:
+    id: 162645
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162904
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article5:
+    id: 162751
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-influence-memory-accuracy-in-eyewitness-testimony.md
 url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168012
+    title: What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article2:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article3:
+    id: 168016
+    title: What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article4:
+    id: 168022
+    title: How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+related_article5:
+    id: 168026
+    title: What strategies can be used to conduct non-suggestive interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
 ---
 
 &nbsp;

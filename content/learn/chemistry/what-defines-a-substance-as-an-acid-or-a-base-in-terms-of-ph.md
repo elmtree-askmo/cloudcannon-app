@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph.md
 url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 score: -1.0
+related_article1:
+    id: 166986
+    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
+related_article2:
+    id: 166998
+    title: What role does molecular shape play in determining dipole moments?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-molecular-shape-play-in-determining-dipole-moments
+related_article3:
+    id: 166987
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 167000
+    title: How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+related_article5:
+    id: 166990
+    title: What is capillary action and how does it relate to adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
 ---
 
 &nbsp;

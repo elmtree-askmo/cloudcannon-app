@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition.md
 url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
 score: -1.0
+related_article1:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article2:
+    id: 170583
+    title: What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+related_article3:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article4:
+    id: 170588
+    title: How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article5:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 ---
 
 &nbsp;

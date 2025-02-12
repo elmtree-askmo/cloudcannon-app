@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth.md
 url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 score: -1.0
+related_article1:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article2:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article3:
+    id: 164033
+    title: How can brain data be utilized to predict antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
+related_article4:
+    id: 164035
+    title: What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+related_article5:
+    id: 164038
+    title: What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
 ---
 
 &nbsp;

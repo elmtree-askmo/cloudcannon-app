@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species.md
 url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
 score: -1.0
+related_article1:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article2:
+    id: 166383
+    title: How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
+related_article3:
+    id: 166393
+    title: What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article4:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article5:
+    id: 166377
+    title: Differentiate between proximate and ultimate questions in the context of animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

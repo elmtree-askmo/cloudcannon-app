@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play.md
 url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
 score: -1.0
+related_article1:
+    id: 170415
+    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article2:
+    id: 170397
+    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article3:
+    id: 170403
+    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+    subject: Chemistry
+    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
+related_article4:
+    id: 170405
+    title: How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article5:
+    id: 170411
+    title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
 ---
 
 &nbsp;

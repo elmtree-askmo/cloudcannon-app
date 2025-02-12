@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-state-of-matter-in-determining-physical-properties
 score: -1.0
+related_article1:
+    id: 161968
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article2:
+    id: 162035
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article3:
+    id: 161935
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 161993
+    title: What is the significance of the formation of ions in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
+related_article5:
+    id: 161992
+    title: What are the characteristics of precipitation reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 ---
 
 &nbsp;

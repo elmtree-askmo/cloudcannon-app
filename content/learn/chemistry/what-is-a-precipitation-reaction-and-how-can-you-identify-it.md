@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-a-precipitation-reaction-and-how-can-you-identify-it.md
 url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 score: -1.0
+related_article1:
+    id: 162041
+    title: What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article2:
+    id: 161975
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+related_article3:
+    id: 162044
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article4:
+    id: 162058
+    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+related_article5:
+    id: 161758
+    title: What happens during the state transition from liquid to solid?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 ---
 
 &nbsp;

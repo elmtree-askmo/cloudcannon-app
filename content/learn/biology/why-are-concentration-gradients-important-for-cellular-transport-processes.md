@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-concentration-gradients-important-for-cellular-transport-processes.md
 url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 score: -1.0
+related_article1:
+    id: 166947
+    title: What are the main types of transport proteins, and how do they differ in function?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article2:
+    id: 166938
+    title: What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article3:
+    id: 166946
+    title: How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+related_article4:
+    id: 166946
+    title: How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+related_article5:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 ---
 
 &nbsp;

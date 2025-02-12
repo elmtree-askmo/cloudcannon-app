@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-the-prime-symbol-notation-in-rotations.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 score: -1.0
+related_article1:
+    id: 162502
+    title: What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article2:
+    id: 162491
+    title: What is the process for selecting a point and extending a line during a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-selecting-a-point-and-extending-a-line-during-a-rotation
+related_article3:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+related_article4:
+    id: 162233
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162494
+    title: What is the translation rule, and how does it apply to sliding movements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-does-it-apply-to-sliding-movements
 ---
 
 &nbsp;

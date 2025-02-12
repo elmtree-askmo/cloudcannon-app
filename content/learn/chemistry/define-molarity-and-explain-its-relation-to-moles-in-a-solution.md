@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: define-molarity-and-explain-its-relation-to-moles-in-a-solution.md
 url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
 score: -1.0
+related_article1:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+related_article2:
+    id: 167632
+    title: What impact does temperature have on the auto-ionization of water and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
+related_article3:
+    id: 167623
+    title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
+related_article4:
+    id: 167633
+    title: What are the common isotopes of hydrogen and their role in auto-ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization
+related_article5:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 ---
 
 &nbsp;

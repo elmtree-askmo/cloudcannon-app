@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-materials-are-necessary-for-lab-participation-and-why-is-each-important.md
 url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 score: -1.0
+related_article1:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article2:
+    id: 163365
+    title: What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article3:
+    id: 163370
+    title: How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
+related_article4:
+    id: 163370
+    title: How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
+related_article5:
+    id: 163357
+    title: What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-freuds-theories-relevant-to-language-processing.md
 url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 score: -1.0
+related_article1:
+    id: 164386
+    title: What role do facial expressions play in communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+related_article2:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article3:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article4:
+    id: 164396
+    title: How does the left hemisphere contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+related_article5:
+    id: 164384
+    title: How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
 ---
 
 &nbsp;

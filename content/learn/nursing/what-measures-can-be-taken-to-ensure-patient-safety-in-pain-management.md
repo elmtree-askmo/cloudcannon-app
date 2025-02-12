@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management.md
 url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
 score: -1.0
+related_article1:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article2:
+    id: 169787
+    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+related_article3:
+    id: 169789
+    title: Explain how the Numerical Rating Scale is used in pain assessment.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
+related_article4:
+    id: 169787
+    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+related_article5:
+    id: 169801
+    title: What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 ---
 
 &nbsp;

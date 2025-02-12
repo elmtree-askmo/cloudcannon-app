@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-happens-to-glucose-during-cellular-respiration.md
 url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article2:
+    id: 170369
+    title: How do chloroplasts contribute to glucose production?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+related_article3:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article4:
+    id: 170358
+    title: What are the main carbon reservoirs in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+related_article5:
+    id: 170365
+    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-membrane-proteins-in-the-cell-membrane.md
 url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 169944
+    title: What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article2:
+    id: 169958
+    title: How do eukaryotic cells achieve compartmentalization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-eukaryotic-cells-achieve-compartmentalization
+related_article3:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article4:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article5:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 ---
 
 &nbsp;

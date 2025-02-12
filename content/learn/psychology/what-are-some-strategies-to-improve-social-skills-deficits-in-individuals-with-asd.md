@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd.md
 url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
 score: -1.0
+related_article1:
+    id: 169340
+    title: How does observational learning contribute to social development, and what role does imitation play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
+related_article2:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article3:
+    id: 169358
+    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article4:
+    id: 169346
+    title: How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
+related_article5:
+    id: 169359
+    title: How can assistive devices and communication systems foster independence in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
 ---
 
 &nbsp;

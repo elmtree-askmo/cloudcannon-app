@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome.md
 url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 score: -1.0
+related_article1:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article2:
+    id: 164549
+    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+related_article3:
+    id: 164553
+    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article4:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article5:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
 ---
 
 &nbsp;

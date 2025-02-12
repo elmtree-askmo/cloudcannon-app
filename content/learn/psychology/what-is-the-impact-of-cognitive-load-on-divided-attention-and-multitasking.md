@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking.md
 url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
 score: -1.0
+related_article1:
+    id: 164770
+    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+related_article2:
+    id: 164746
+    title: How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article3:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article4:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+related_article5:
+    id: 164767
+    title: What are phosphenes, and how are they related to TMS studies of attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 ---
 
 &nbsp;

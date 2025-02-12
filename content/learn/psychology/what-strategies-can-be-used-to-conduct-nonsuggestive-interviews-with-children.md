@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children.md
 url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
 score: -1.0
+related_article1:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article2:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article3:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article4:
+    id: 168028
+    title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article5:
+    id: 168013
+    title: How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water.md
 url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
 score: -1.0
+related_article1:
+    id: 166992
+    title: What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article2:
+    id: 166994
+    title: What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+related_article3:
+    id: 166992
+    title: What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article4:
+    id: 166989
+    title: How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article5:
+    id: 166992
+    title: What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 ---
 
 &nbsp;

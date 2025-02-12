@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars.md
 url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
 score: -1.0
+related_article1:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+related_article2:
+    id: 167634
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 167643
+    title: How do triglycerides differ from phospholipids in structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+related_article4:
+    id: 167635
+    title: How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
+related_article5:
+    id: 167638
+    title: What role does the hydroxyl group play in RNA structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
 ---
 
 &nbsp;

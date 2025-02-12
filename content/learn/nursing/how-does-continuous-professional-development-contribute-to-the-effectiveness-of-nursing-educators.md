@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators.md
 url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
 score: -1.0
+related_article1:
+    id: 169620
+    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+related_article2:
+    id: 169622
+    title: What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article3:
+    id: 169614
+    title: Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
+related_article4:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 ---
 
 &nbsp;

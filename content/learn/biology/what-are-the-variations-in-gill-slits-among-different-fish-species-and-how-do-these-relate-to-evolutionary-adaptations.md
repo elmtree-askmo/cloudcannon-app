@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations.md
 url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
 score: -1.0
+related_article1:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article2:
+    id: 168764
+    title: How does the operculum interact with gills to regulate water flow and maintain pressure?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-operculum-interact-with-gills-to-regulate-water-flow-and-maintain-pressure
+related_article3:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168761
+    title: What are the essential tools and safety measures required for fish dissection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-tools-and-safety-measures-required-for-fish-dissection
+related_article5:
+    id: 168759
+    title: What factors influence the oxygen requirements of fish, particularly in relation to metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
 ---
 
 &nbsp;

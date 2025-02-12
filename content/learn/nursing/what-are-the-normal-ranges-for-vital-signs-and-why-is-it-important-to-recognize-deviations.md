@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations.md
 url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
 score: -1.0
+related_article1:
+    id: 169472
+    title: What immediate actions should be taken in response to signs of patient deterioration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
+related_article2:
+    id: 169471
+    title: What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
+related_article3:
+    id: 169470
+    title: How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+related_article4:
+    id: 169466
+    title: Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article5:
+    id: 169471
+    title: What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
 ---
 
 &nbsp;

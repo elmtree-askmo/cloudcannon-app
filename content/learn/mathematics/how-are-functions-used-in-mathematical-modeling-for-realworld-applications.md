@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-functions-used-in-mathematical-modeling-for-realworld-applications.md
 url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
+related_article1:
+    id: 168407
+    title: How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article2:
+    id: 168397
+    title: What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+related_article3:
+    id: 168402
+    title: How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article4:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article5:
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
 ---
 
 &nbsp;

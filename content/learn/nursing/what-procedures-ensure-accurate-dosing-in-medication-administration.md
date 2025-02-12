@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-procedures-ensure-accurate-dosing-in-medication-administration.md
 url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
 score: -1.0
+related_article1:
+    id: 166502
+    title: What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+related_article2:
+    id: 166495
+    title: What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article3:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article4:
+    id: 166492
+    title: How is the minimum effective concentration related to trough levels in drug dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
+related_article5:
+    id: 166489
+    title: What is the primary purpose of trough level monitoring in antibiotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---
 
 &nbsp;

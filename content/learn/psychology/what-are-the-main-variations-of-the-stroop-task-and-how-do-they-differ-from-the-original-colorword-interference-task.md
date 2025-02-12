@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task.md
 url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
 score: -1.0
+related_article1:
+    id: 165194
+    title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
+related_article2:
+    id: 165204
+    title: What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
+related_article3:
+    id: 165207
+    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+related_article4:
+    id: 165197
+    title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
+related_article5:
+    id: 165189
+    title: How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
 ---
 
 &nbsp;

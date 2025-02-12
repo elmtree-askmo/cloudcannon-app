@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education.md
 url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 score: -1.0
+related_article1:
+    id: 169588
+    title: What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+related_article2:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article3:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article4:
+    id: 169584
+    title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article5:
+    id: 169598
+    title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 ---
 
 &nbsp;

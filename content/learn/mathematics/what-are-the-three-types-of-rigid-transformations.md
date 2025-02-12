@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-three-types-of-rigid-transformations.md
 url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 score: -1.0
+related_article1:
+    id: 162220
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article2:
+    id: 162220
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article3:
+    id: 162322
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article4:
+    id: 162220
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article5:
+    id: 162326
+    title: How can transformations impact the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 ---
 
 &nbsp;

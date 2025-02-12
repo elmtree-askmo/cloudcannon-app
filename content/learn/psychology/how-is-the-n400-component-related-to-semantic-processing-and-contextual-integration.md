@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration.md
 url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
 score: -1.0
+related_article1:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article2:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article3:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article4:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article5:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 ---
 
 &nbsp;

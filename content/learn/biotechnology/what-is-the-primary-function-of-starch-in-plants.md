@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-primary-function-of-starch-in-plants.md
 url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
 score: -1.0
+related_article1:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article2:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article3:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article4:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article5:
+    id: 167497
+    title: How does a hydrolysis reaction contribute to the breakdown of polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-neurostimulation-enhance-brain-activity.md
 url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
 score: -1.0
+related_article1:
+    id: 164312
+    title: How does cultural significance affect the psychological impact of color perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
+related_article2:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article3:
+    id: 164312
+    title: How does cultural significance affect the psychological impact of color perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
+related_article4:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article5:
+    id: 164304
+    title: How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
 ---
 
 &nbsp;

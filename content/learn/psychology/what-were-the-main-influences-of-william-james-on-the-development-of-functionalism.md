@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-were-the-main-influences-of-william-james-on-the-development-of-functionalism.md
 url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
 score: -1.0
+related_article1:
+    id: 170025
+    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article2:
+    id: 170021
+    title: How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article3:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article4:
+    id: 170020
+    title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article5:
+    id: 170020
+    title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
 ---
 
 &nbsp;

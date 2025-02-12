@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-phospholipids-in-cell-membranes.md
 url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
 score: -1.0
+related_article1:
+    id: 169947
+    title: How do enzymes lower activation energy in biochemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
+related_article2:
+    id: 169958
+    title: How do eukaryotic cells achieve compartmentalization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-eukaryotic-cells-achieve-compartmentalization
+related_article3:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article4:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article5:
+    id: 169956
+    title: What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
 ---
 
 &nbsp;

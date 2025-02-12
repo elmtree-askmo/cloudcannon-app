@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-major-economies-influence-global-economic-power-dynamics-and-strategies.md
 url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
 score: -1.0
+related_article1:
+    id: 169894
+    title: What are the economic consequences of tariffs on global trade, particularly between the US and China?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
+related_article2:
+    id: 169897
+    title: How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article3:
+    id: 169886
+    title: What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article4:
+    id: 169899
+    title: What is the role of central banks in determining interest rates and their impact on the economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-central-banks-in-determining-interest-rates-and-their-impact-on-the-economy
+related_article5:
+    id: 169893
+    title: How do tariffs impact exports and imports during a recession?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-impact-exports-and-imports-during-a-recession
 ---
 
 &nbsp;

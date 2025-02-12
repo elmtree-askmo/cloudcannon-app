@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-understanding-animal-behavior-be-applied-in-research.md
 url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 score: -1.0
+related_article1:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article2:
+    id: 165297
+    title: Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+related_article3:
+    id: 165289
+    title: What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 165304
+    title: Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article5:
+    id: 165290
+    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 ---
 
 &nbsp;

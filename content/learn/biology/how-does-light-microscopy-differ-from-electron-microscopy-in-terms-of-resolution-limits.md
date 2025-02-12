@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits.md
 url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
 score: -1.0
+related_article1:
+    id: 170953
+    title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+related_article2:
+    id: 170950
+    title: How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    subject: Biology
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+related_article3:
+    id: 170951
+    title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
+related_article4:
+    id: 170941
+    title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article5:
+    id: 170944
+    title: What are the main differences between bright field microscopy and phase contrast microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-bright-field-microscopy-and-phase-contrast-microscopy
 ---
 
 &nbsp;

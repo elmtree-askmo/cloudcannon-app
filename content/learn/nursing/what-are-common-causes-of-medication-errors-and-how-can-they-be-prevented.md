@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented.md
 url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
 score: -1.0
+related_article1:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article2:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article3:
+    id: 169767
+    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+related_article4:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article5:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 ---
 
 &nbsp;

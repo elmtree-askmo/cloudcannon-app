@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe.md
 url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
 score: -1.0
+related_article1:
+    id: 168707
+    title: What are the advantages of using modern cutting tools for external and groove machining?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
+related_article2:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article3:
+    id: 168698
+    title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article4:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article5:
+    id: 168712
+    title: What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
 ---
 
 &nbsp;

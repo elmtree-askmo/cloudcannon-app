@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels.md
 url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
 score: -1.0
+related_article1:
+    id: 170386
+    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article2:
+    id: 170379
+    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article3:
+    id: 170386
+    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+related_article4:
+    id: 170392
+    title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
+related_article5:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 ---
 
 &nbsp;

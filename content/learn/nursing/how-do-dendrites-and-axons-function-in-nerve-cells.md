@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-dendrites-and-axons-function-in-nerve-cells.md
 url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
 score: -1.0
+related_article1:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article2:
+    id: 169705
+    title: What equipment and materials are required for an IT suite examination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
+related_article3:
+    id: 169727
+    title: What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+related_article4:
+    id: 169726
+    title: What are the health implications of being classified as overweight or obese?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
+related_article5:
+    id: 169706
+    title: What are the ID verification requirements for an exam?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-id-verification-requirements-for-an-exam
 ---
 
 &nbsp;

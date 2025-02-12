@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-some-examples-of-elements-and-compounds.md
 url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-compounds
 score: -1.0
+related_article1:
+    id: 161824
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article2:
+    id: 161830
+    title: What is the difference between physical and chemical properties of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
+related_article3:
+    id: 161864
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article4:
+    id: 161864
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article5:
+    id: 161727
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 ---
 
 &nbsp;

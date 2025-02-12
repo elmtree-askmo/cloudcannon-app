@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-fermentation-serve-as-an-alternative-energy-source-in-cells.md
 url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 score: -1.0
+related_article1:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article2:
+    id: 170314
+    title: How do vacuoles contribute to the storage and support in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
+related_article3:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article4:
+    id: 170310
+    title: How does the Golgi apparatus contribute to protein processing in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
+related_article5:
+    id: 170318
+    title: How does the electron transport chain contribute to ATP synthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
 ---
 
 &nbsp;

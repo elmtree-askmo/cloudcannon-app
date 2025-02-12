@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques.md
 url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
 score: -1.0
+related_article1:
+    id: 165804
+    title: What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+related_article2:
+    id: 165825
+    title: What are the differences between asexual and sexual reproduction in parasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+related_article3:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article4:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article5:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
 ---
 
 &nbsp;

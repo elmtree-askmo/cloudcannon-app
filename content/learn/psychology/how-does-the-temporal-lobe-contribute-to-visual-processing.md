@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-temporal-lobe-contribute-to-visual-processing.md
 url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
 score: -1.0
+related_article1:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+related_article2:
+    id: 164334
+    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article3:
+    id: 164342
+    title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
+related_article4:
+    id: 164334
+    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article5:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
 ---
 
 &nbsp;

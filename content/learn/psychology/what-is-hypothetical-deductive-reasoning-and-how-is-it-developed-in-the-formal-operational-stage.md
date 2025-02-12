@@ -21,6 +21,21 @@ subject: Psychology
 file_name: what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage.md
 url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 score: -1.0
+related_article1:
+    id: 167999
+    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+related_article2:
+    id: 168007
+    title: How does adult influence contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
+related_article3:
+    id: 168000
+    title: What is the personal fable, and how does it affect adolescent thinking?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
 ---
 
 &nbsp;

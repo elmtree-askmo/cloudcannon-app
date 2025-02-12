@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation.md
 url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 score: -1.0
+related_article1:
+    id: 166960
+    title: What types of chemical interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article2:
+    id: 166951
+    title: How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article3:
+    id: 166961
+    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+related_article4:
+    id: 166963
+    title: What environmental factors can affect protein function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+related_article5:
+    id: 166953
+    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 ---
 
 &nbsp;

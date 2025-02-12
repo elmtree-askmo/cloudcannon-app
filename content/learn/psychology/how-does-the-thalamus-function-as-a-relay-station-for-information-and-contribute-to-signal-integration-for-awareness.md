@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness.md
 url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
 score: -1.0
+related_article1:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article2:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article3:
+    id: 164847
+    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
+related_article4:
+    id: 164851
+    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
+related_article5:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
 ---
 
 &nbsp;

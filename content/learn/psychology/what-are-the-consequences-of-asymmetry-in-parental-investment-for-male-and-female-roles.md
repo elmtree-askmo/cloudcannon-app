@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles.md
 url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
 score: -1.0
+related_article1:
+    id: 170871
+    title: How does female choosiness affect selection pressures in parental investment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
+related_article2:
+    id: 170873
+    title: What strategies are involved in sperm competition during intersexual competition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+related_article3:
+    id: 170869
+    title: How does anisotropic selection influence sexual selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
+related_article4:
+    id: 170872
+    title: What are the main types of intrasexual competition, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
+related_article5:
+    id: 170877
+    title: What is the handicap principle, and how does it relate to honest signals in mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
 ---
 
 &nbsp;

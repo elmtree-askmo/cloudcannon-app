@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-main-components-of-a-circuito-eltrico.md
 url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 score: -1.0
+related_article1:
+    id: 169835
+    title: What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article2:
+    id: 169836
+    title: Describe the analogy between potência elétrica and an electric shower.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
+related_article3:
+    id: 169837
+    title: State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article4:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article5:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
 ---
 
 &nbsp;

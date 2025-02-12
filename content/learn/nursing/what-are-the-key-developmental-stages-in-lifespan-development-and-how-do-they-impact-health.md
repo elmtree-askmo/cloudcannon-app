@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health.md
 url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
 score: -1.0
+related_article1:
+    id: 169766
+    title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article2:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article3:
+    id: 169746
+    title: What are common assessment methods for bowel and bladder management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
+related_article4:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article5:
+    id: 169754
+    title: What are the main categories of drug classifications in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 ---
 
 &nbsp;

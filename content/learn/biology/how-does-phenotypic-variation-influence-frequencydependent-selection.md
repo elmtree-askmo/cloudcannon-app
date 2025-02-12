@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-phenotypic-variation-influence-frequencydependent-selection.md
 url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
 score: -1.0
+related_article1:
+    id: 170792
+    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+related_article2:
+    id: 170802
+    title: What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article3:
+    id: 170794
+    title: Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+related_article4:
+    id: 170808
+    title: What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+related_article5:
+    id: 170791
+    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles.md
 url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
 score: -1.0
+related_article1:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article2:
+    id: 167861
+    title: How does chromosomal crossover contribute to genetic diversity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
+related_article3:
+    id: 167858
+    title: How does meiosis contribute to genetic variation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+related_article4:
+    id: 167860
+    title: What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article5:
+    id: 167858
+    title: How does meiosis contribute to genetic variation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
 ---
 
 &nbsp;

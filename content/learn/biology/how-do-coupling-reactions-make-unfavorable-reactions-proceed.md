@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-coupling-reactions-make-unfavorable-reactions-proceed.md
 url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
 score: -1.0
+related_article1:
+    id: 170982
+    title: How do oxidation and reduction reactions facilitate electron transfer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+related_article2:
+    id: 170978
+    title: What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article3:
+    id: 170994
+    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+related_article4:
+    id: 170983
+    title: What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article5:
+    id: 170991
+    title: What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
 ---
 
 &nbsp;

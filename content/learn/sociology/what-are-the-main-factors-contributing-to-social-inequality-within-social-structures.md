@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-main-factors-contributing-to-social-inequality-within-social-structures.md
 url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
 score: -1.0
+related_article1:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article2:
+    id: 160213
+    title: Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article3:
+    id: 160550
+    title: What are the key components of urbanization that drive city development and infrastructure changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
+related_article4:
+    id: 160631
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article5:
+    id: 160626
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 ---
 
 &nbsp;

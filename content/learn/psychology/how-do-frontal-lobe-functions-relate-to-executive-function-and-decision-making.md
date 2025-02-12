@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making.md
 url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
 score: -1.0
+related_article1:
+    id: 164910
+    title: What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
+related_article2:
+    id: 164901
+    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+related_article3:
+    id: 164907
+    title: What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article4:
+    id: 164910
+    title: What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
+related_article5:
+    id: 164917
+    title: What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
 ---
 
 &nbsp;

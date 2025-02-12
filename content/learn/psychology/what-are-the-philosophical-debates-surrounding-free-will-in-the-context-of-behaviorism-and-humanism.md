@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism.md
 url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 score: -1.0
+related_article1:
+    id: 170030
+    title: What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
+related_article2:
+    id: 170010
+    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
+related_article3:
+    id: 170028
+    title: What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article4:
+    id: 170027
+    title: How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article5:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
 ---
 
 &nbsp;

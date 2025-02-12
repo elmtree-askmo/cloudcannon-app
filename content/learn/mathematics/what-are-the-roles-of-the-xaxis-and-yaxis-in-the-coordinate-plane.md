@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162303
+    title: What is rigid motion and what are its characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
+related_article2:
+    id: 162304
+    title: How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article3:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article4:
+    id: 162300
+    title: How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
+related_article5:
+    id: 162154
+    title: What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
 ---
 
 &nbsp;

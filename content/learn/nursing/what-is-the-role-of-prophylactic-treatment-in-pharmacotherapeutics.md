@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics.md
 url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
 score: -1.0
+related_article1:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article2:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article3:
+    id: 166459
+    title: How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article4:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article5:
+    id: 166466
+    title: What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 ---
 
 &nbsp;

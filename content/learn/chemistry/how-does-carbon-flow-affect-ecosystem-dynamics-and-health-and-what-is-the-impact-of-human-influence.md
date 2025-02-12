@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence.md
 url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
 score: -1.0
+related_article1:
+    id: 170414
+    title: What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
+related_article2:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article3:
+    id: 170409
+    title: How do human activities contribute to climate change through carbon emissions, and what are some mitigation strategies?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-human-activities-contribute-to-climate-change-through-carbon-emissions-and-what-are-some-mitigation-strategies
+related_article4:
+    id: 170397
+    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+related_article5:
+    id: 170413
+    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 ---
 
 &nbsp;

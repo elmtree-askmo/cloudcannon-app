@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions.md
 url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
 score: -1.0
+related_article1:
+    id: 166821
+    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article2:
+    id: 166823
+    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+related_article3:
+    id: 166823
+    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+related_article4:
+    id: 166815
+    title: How does a hydronium ion form, and what is its charge and structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure
+related_article5:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
 ---
 
 &nbsp;

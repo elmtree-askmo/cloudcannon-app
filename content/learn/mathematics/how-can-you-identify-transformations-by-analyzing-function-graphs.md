@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-identify-transformations-by-analyzing-function-graphs.md
 url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
 score: -1.0
+related_article1:
+    id: 168414
+    title: How does a reflection over the x-axis transform a quadratic function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
+related_article2:
+    id: 168408
+    title: What is the difference between the outputs of an original function and its transformed version?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article3:
+    id: 168399
+    title: What is the graphical representation of a reflection about the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+related_article4:
+    id: 168409
+    title: How do you plot a quadratic function on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+related_article5:
+    id: 168412
+    title: How do you plot points on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 ---
 
 &nbsp;

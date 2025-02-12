@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-mechanisms-of-attention-in-cognitive-processes.md
 url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164670
+    title: What are the key functions of different brain regions in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
+related_article2:
+    id: 164678
+    title: What are common language disorders and their impact on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
+related_article3:
+    id: 164676
+    title: What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+related_article4:
+    id: 164682
+    title: How does the brain adapt following an injury?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
+related_article5:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
 ---
 
 &nbsp;

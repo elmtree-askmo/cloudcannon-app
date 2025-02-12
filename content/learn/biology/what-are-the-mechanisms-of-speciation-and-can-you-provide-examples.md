@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-mechanisms-of-speciation-and-can-you-provide-examples.md
 url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
 score: -1.0
+related_article1:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article2:
+    id: 167758
+    title: How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article3:
+    id: 167758
+    title: How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article4:
+    id: 167755
+    title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
+related_article5:
+    id: 167744
+    title: How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 ---
 
 &nbsp;

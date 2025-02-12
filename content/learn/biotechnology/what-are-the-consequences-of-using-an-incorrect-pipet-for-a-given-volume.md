@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-volume.md
 url: /learn/biotechnology/questions/what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-volume
 score: -1.0
+related_article1:
+    id: 165381
+    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article2:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article3:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article4:
+    id: 165377
+    title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
+related_article5:
+    id: 165375
+    title: How do you ensure compatibility between pipet tips and pipets?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-you-ensure-compatibility-between-pipet-tips-and-pipets
 ---
 
 &nbsp;

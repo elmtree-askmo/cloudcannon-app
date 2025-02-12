@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-chemical-symbols-in-representing-elements.md
 url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 score: -1.0
+related_article1:
+    id: 161909
+    title: How are chemical formulas used to represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+related_article2:
+    id: 161835
+    title: How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+related_article3:
+    id: 161711
+    title: What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article4:
+    id: 161726
+    title: What does reactivity indicate about a substance's chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-does-reactivity-indicate-about-a-substances-chemical-properties
+related_article5:
+    id: 161833
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

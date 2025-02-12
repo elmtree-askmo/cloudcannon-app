@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts.md
 url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 score: -1.0
+related_article1:
+    id: 168892
+    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
+related_article2:
+    id: 168879
+    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article3:
+    id: 168879
+    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article4:
+    id: 168879
+    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article5:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 ---
 
 &nbsp;

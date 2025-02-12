@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics.md
 url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 score: -1.0
+related_article1:
+    id: 168354
+    title: What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article2:
+    id: 168372
+    title: What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
+related_article3:
+    id: 168365
+    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+related_article4:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article5:
+    id: 168372
+    title: What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
 ---
 
 &nbsp;

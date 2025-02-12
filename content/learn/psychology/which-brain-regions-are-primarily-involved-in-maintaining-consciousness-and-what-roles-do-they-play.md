@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play.md
 url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
 score: -1.0
+related_article1:
+    id: 164843
+    title: How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+related_article2:
+    id: 164837
+    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article3:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article4:
+    id: 164850
+    title: What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
+related_article5:
+    id: 164833
+    title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
 ---
 
 &nbsp;

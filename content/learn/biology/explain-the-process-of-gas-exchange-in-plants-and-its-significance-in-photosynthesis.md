@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-process-of-gas-exchange-in-plants-and-its-significance-in-photosynthesis.md
 url: /learn/biology/questions/explain-the-process-of-gas-exchange-in-plants-and-its-significance-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 168778
+    title: What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article2:
+    id: 168774
+    title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
+related_article3:
+    id: 168778
+    title: What is the role of stomata in the mechanism of transpiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
+related_article4:
+    id: 168768
+    title: Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
+related_article5:
+    id: 168773
+    title: How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
 ---
 
 &nbsp;

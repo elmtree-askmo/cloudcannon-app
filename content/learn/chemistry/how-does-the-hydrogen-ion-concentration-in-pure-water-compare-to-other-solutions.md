@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions.md
 url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
 score: -1.0
+related_article1:
+    id: 167622
+    title: Explain how hydroxide ions form and acquire a negative charge.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
+related_article2:
+    id: 167633
+    title: What are the common isotopes of hydrogen and their role in auto-ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization
+related_article3:
+    id: 167622
+    title: Explain how hydroxide ions form and acquire a negative charge.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
+related_article4:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+related_article5:
+    id: 167628
+    title: How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 ---
 
 &nbsp;

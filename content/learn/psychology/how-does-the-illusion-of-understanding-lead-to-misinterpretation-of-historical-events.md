@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events.md
 url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 score: -1.0
+related_article1:
+    id: 168888
+    title: What is the disposition effect and how does it affect investment decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+related_article2:
+    id: 168893
+    title: How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+related_article3:
+    id: 168893
+    title: How can behavioral economics influence public policy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+related_article4:
+    id: 168878
+    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+related_article5:
+    id: 168889
+    title: How do framing effects influence decision outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 ---
 
 &nbsp;

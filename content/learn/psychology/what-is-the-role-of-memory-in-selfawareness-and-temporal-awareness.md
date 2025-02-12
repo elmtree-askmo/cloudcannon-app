@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness.md
 url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 score: -1.0
+related_article1:
+    id: 164490
+    title: Which brain structures are primarily involved in memory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
+related_article2:
+    id: 164506
+    title: What are the key brain regions involved in memory, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+related_article3:
+    id: 164504
+    title: How do emotions interact with memory, particularly in emotional memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+related_article4:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+related_article5:
+    id: 164498
+    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
 ---
 
 &nbsp;

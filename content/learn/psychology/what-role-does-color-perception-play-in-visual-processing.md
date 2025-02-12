@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-color-perception-play-in-visual-processing.md
 url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 score: -1.0
+related_article1:
+    id: 164304
+    title: How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+related_article2:
+    id: 164310
+    title: What factors influence color differentiation in the visual spectrum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article3:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+related_article4:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+related_article5:
+    id: 164292
+    title: How do social dynamics affect socio-physical interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

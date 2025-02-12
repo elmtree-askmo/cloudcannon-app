@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology.md
 url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
 score: -1.0
+related_article1:
+    id: 166126
+    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+related_article2:
+    id: 166130
+    title: How does carrying capacity influence host and parasite populations in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+related_article3:
+    id: 166131
+    title: What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article4:
+    id: 166122
+    title: What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article5:
+    id: 166133
+    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structural-difference-between-cellulose-and-starch.md
 url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
 score: -1.0
+related_article1:
+    id: 169937
+    title: What are the three main subatomic particles and their charges?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
+related_article2:
+    id: 169944
+    title: What is the primary function of carbohydrates in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article3:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article4:
+    id: 169953
+    title: What is the primary structure of a protein?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+related_article5:
+    id: 169950
+    title: How does ATP function as an energy carrier in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
 ---
 
 &nbsp;

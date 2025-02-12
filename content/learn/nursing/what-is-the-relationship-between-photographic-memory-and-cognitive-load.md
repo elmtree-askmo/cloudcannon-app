@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-relationship-between-photographic-memory-and-cognitive-load.md
 url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
 score: -1.0
+related_article1:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article2:
+    id: 164805
+    title: Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+related_article3:
+    id: 164805
+    title: Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+related_article4:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article5:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
 ---
 
 &nbsp;

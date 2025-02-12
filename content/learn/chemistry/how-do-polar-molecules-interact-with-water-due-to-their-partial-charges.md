@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-polar-molecules-interact-with-water-due-to-their-partial-charges.md
 url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
 score: -1.0
+related_article1:
+    id: 167320
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article2:
+    id: 167312
+    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article3:
+    id: 167312
+    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article4:
+    id: 167313
+    title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
+related_article5:
+    id: 167313
+    title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
 ---
 
 &nbsp;

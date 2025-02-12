@@ -21,6 +21,31 @@ subject: Psychology
 file_name: identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion.md
 url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
 score: -1.0
+related_article1:
+    id: 170627
+    title: What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article2:
+    id: 170619
+    title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article3:
+    id: 170628
+    title: How does emotional intelligence contribute to effective communication, particularly in handling confrontation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intelligence-contribute-to-effective-communication-particularly-in-handling-confrontation
+related_article4:
+    id: 170626
+    title: Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article5:
+    id: 170626
+    title: Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate.md
 url: /learn/biology/questions/what-factors-influence-the-oxygen-requirements-of-fish-particularly-in-relation-to-metabolic-rate
 score: -1.0
+related_article1:
+    id: 168755
+    title: How does the body shape and muscle composition of fish relate to their general anatomy?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-body-shape-and-muscle-composition-of-fish-relate-to-their-general-anatomy
+related_article2:
+    id: 168752
+    title: How does the water flow mechanism contribute to oxygen extraction in aquatic environments?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-water-flow-mechanism-contribute-to-oxygen-extraction-in-aquatic-environments
+related_article3:
+    id: 168766
+    title: How do specialized structures like lungs and skin respiration contribute to respiratory adaptations in aquatic animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
+related_article4:
+    id: 168753
+    title: Describe the anatomy of gills and their role in fish respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
 ---
 
 &nbsp;

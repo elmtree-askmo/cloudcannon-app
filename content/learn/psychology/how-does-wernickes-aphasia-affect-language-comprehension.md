@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-wernickes-aphasia-affect-language-comprehension.md
 url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
 score: -1.0
+related_article1:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article2:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article3:
+    id: 164731
+    title: What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
+related_article4:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164716
+    title: What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 ---
 
 &nbsp;

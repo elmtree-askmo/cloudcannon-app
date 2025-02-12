@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results.md
 url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
 score: -1.0
+related_article1:
+    id: 165376
+    title: Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+related_article2:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article3:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
+related_article4:
+    id: 165380
+    title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
 ---
 
 &nbsp;

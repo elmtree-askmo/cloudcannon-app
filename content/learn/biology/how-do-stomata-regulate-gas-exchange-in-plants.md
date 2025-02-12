@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-stomata-regulate-gas-exchange-in-plants.md
 url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
 score: -1.0
+related_article1:
+    id: 170366
+    title: Explain the role of ATP in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
+related_article2:
+    id: 170360
+    title: What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+related_article3:
+    id: 170365
+    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+related_article4:
+    id: 170376
+    title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
+related_article5:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

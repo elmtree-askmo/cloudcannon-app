@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions.md
 url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 score: -1.0
+related_article1:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article2:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article3:
+    id: 163731
+    title: What are the characteristics of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
+related_article4:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 ---
 
 &nbsp;

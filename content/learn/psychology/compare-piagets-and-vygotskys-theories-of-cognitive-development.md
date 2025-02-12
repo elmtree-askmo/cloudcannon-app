@@ -21,6 +21,31 @@ subject: Psychology
 file_name: compare-piagets-and-vygotskys-theories-of-cognitive-development.md
 url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
 score: -1.0
+related_article1:
+    id: 164918
+    title: Describe the components and capacity of working memory according to Baddeley’s and Cowan’s models.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-components-and-capacity-of-working-memory-according-to-baddeleys-and-cowans-models
+related_article2:
+    id: 164902
+    title: Explain the difference between top-down and bottom-up processing with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
+related_article3:
+    id: 164906
+    title: Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article4:
+    id: 164912
+    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
+related_article5:
+    id: 164901
+    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
 ---
 
 &nbsp;

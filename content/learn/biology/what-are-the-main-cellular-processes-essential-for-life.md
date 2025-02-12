@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-cellular-processes-essential-for-life.md
 url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
 score: -1.0
+related_article1:
+    id: 167488
+    title: What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article2:
+    id: 167473
+    title: What are the typical pre-medical coursework requirements for medical school?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
+related_article3:
+    id: 167475
+    title: What is the structure of pre-class assignments on the Codon Learning Platform?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+related_article4:
+    id: 167480
+    title: What communication tools are available on the D2L Learning Management System?
+    subject: Biology
+    url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
+related_article5:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
 ---
 
 &nbsp;

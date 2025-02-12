@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-essential-elements-of-academic-writing-standards-in-research-papers.md
 url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
 score: -1.0
+related_article1:
+    id: 165094
+    title: How can researchers effectively communicate the limitations of their study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+related_article2:
+    id: 165067
+    title: How does data cleaning contribute to data quality in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article3:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article4:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article5:
+    id: 165079
+    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 ---
 
 &nbsp;

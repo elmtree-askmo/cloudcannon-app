@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization.md
 url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
 score: -1.0
+related_article1:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article2:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+related_article3:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article4:
+    id: 167440
+    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+related_article5:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 ---
 
 &nbsp;

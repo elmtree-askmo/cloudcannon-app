@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-apply-combined-translations-to-a-geometric-figure.md
 url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162295
+    title: How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article2:
+    id: 162541
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+related_article3:
+    id: 162293
+    title: How do you add and subtract coordinates to achieve directional movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
+related_article4:
+    id: 162290
+    title: What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+related_article5:
+    id: 162291
+    title: How do you perform a horizontal translation on a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-a-horizontal-translation-on-a-geometric-figure
 ---
 
 &nbsp;

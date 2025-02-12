@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system.md
 url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
 score: -1.0
+related_article1:
+    id: 164812
+    title: What are the key factors that contribute to neuron connections in neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
+related_article2:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article3:
+    id: 164801
+    title: How do temperature neurons contribute to sensory information processing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+related_article4:
+    id: 164813
+    title: Describe the structure and function of brain ventricles.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+related_article5:
+    id: 164815
+    title: What is the relationship between photographic memory and cognitive load?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
 ---
 
 &nbsp;

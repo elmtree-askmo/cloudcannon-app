@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-process-of-ionization-and-its-effect-on-the-charge-of-an-atom.md
 url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-charge-of-an-atom
 score: -1.0
+related_article1:
+    id: 162043
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article2:
+    id: 162058
+    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+related_article3:
+    id: 161760
+    title: How does the removal of electrons lead to the formation of ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
+related_article4:
+    id: 161982
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article5:
+    id: 161965
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

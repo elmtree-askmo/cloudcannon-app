@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-cycles-of-increase-and-decline-affect-population-dynamics.md
 url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
 score: -1.0
+related_article1:
+    id: 170802
+    title: What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article2:
+    id: 170808
+    title: What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+related_article3:
+    id: 170805
+    title: How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article4:
+    id: 170800
+    title: What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
 ---
 
 &nbsp;

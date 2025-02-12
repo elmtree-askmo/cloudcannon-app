@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design.md
 url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 score: -1.0
+related_article1:
+    id: 169409
+    title: What are some innovations in modern architectural design that have emerged recently?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
+related_article2:
+    id: 169404
+    title: How can the integration of interior and exterior spaces create depth and layers in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
+related_article3:
+    id: 169417
+    title: How have regional design projects in Japan influenced international design trends?
+    subject: Architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
+related_article4:
+    id: 169401
+    title: In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article5:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
 ---
 
 &nbsp;

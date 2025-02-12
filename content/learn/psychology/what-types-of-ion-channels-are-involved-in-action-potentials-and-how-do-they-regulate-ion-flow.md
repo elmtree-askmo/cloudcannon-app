@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow.md
 url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 score: -1.0
+related_article1:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article2:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article3:
+    id: 164824
+    title: What changes occur in the membrane potential during an action potential?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
+related_article4:
+    id: 164826
+    title: What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
+related_article5:
+    id: 164825
+    title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
 ---
 
 &nbsp;

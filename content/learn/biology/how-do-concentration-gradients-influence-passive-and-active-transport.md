@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-concentration-gradients-influence-passive-and-active-transport.md
 url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
 score: -1.0
+related_article1:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article2:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
+related_article3:
+    id: 166949
+    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article4:
+    id: 166937
+    title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article5:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 ---
 
 &nbsp;

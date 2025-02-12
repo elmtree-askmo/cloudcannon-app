@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier.md
 url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 score: -1.0
+related_article1:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article2:
+    id: 170497
+    title: Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article3:
+    id: 170493
+    title: How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
+related_article4:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article5:
+    id: 170494
+    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
 ---
 
 &nbsp;

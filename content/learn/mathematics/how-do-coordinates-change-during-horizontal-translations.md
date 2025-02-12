@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-coordinates-change-during-horizontal-translations.md
 url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
 score: -1.0
+related_article1:
+    id: 162286
+    title: How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article2:
+    id: 162542
+    title: How do horizontal translation patterns differ from vertical translation patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
+related_article3:
+    id: 162282
+    title: What changes occur in coordinates during vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
+related_article4:
+    id: 162278
+    title: What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article5:
+    id: 162280
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
 ---
 
 &nbsp;

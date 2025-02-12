@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-mass-considered-a-physical-property-of-matter.md
 url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
 score: -1.0
+related_article1:
+    id: 161907
+    title: How do heterogeneous mixtures differ from homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
+related_article2:
+    id: 161886
+    title: List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+related_article3:
+    id: 161818
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article4:
+    id: 161710
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article5:
+    id: 161819
+    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 ---
 
 &nbsp;

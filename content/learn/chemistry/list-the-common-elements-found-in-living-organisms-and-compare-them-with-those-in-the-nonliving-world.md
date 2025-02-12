@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world.md
 url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 score: -1.0
+related_article1:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+related_article2:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+related_article3:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article4:
+    id: 167564
+    title: What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article5:
+    id: 167563
+    title: Explain the difference between covalent and ionic bonds.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
 ---
 
 &nbsp;

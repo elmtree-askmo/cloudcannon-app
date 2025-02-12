@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology.md
 url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
 score: -1.0
+related_article1:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article2:
+    id: 166508
+    title: What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article3:
+    id: 166491
+    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    subject: Nursing
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
+related_article4:
+    id: 166507
+    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article5:
+    id: 166506
+    title: What are the differences between generic and trade names of drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study.md
 url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
 score: -1.0
+related_article1:
+    id: 169414
+    title: What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article2:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article3:
+    id: 169402
+    title: How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
+related_article4:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article5:
+    id: 169406
+    title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
 ---
 
 &nbsp;

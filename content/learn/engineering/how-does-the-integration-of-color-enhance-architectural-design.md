@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-does-the-integration-of-color-enhance-architectural-design.md
 url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
 score: -1.0
+related_article1:
+    id: 169373
+    title: In what ways can architecture evoke emotions and create sensory experiences?
+    subject: Engineering
+    url: /learn/engineering/questions/in-what-ways-can-architecture-evoke-emotions-and-create-sensory-experiences
+related_article2:
+    id: 169364
+    title: What is the significance of blending and overlapping colors in spatial design?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+related_article3:
+    id: 169368
+    title: What are some ways architectural design can reduce tension in public spaces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
+related_article4:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article5:
+    id: 169366
+    title: What role does natural light play in environmental design, particularly in courtyard integration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
 ---
 
 &nbsp;

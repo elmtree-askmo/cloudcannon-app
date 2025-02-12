@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-line-of-reflection-act-as-a-mirror.md
 url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
 score: -1.0
+related_article1:
+    id: 162757
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article2:
+    id: 162627
+    title: What happens when a point is reflected across both the x-axis and y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
+related_article3:
+    id: 162687
+    title: What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article4:
+    id: 162813
+    title: What are the effects of reflections on the position and orientation of figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
+related_article5:
+    id: 162807
+    title: How is horizontal symmetry defined in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

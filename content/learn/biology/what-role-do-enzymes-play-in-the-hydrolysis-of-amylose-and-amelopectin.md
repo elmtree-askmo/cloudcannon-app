@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin.md
 url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
 score: -1.0
+related_article1:
+    id: 168836
+    title: How do villi enhance the absorption of nutrients in the small intestine?
+    subject: Biology
+    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+related_article2:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article3:
+    id: 168832
+    title: How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+related_article4:
+    id: 168830
+    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+related_article5:
+    id: 168830
+    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
 ---
 
 &nbsp;

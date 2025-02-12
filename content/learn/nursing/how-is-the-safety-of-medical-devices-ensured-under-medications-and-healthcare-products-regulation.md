@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation.md
 url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
 score: -1.0
+related_article1:
+    id: 169682
+    title: What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
+related_article2:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article3:
+    id: 169682
+    title: What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
+related_article4:
+    id: 169665
+    title: What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
+related_article5:
+    id: 169673
+    title: What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
 ---
 
 &nbsp;

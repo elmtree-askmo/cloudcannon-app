@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics.md
 url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
 score: -1.0
+related_article1:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+related_article2:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article3:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article4:
+    id: 166458
+    title: Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+related_article5:
+    id: 166456
+    title: How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

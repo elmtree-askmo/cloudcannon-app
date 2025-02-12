@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-transformations-be-visualized-using-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162144
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article2:
+    id: 162301
+    title: What is the concept of a mirror image in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
+related_article3:
+    id: 162150
+    title: What is the definition of reflection in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
+related_article4:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article5:
+    id: 162311
+    title: How can graphs be used to visualize transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 ---
 
 &nbsp;

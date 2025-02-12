@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-higher-and-lower-concentrations-affect-ph-values.md
 url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 score: -1.0
+related_article1:
+    id: 167620
+    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+related_article2:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article3:
+    id: 167629
+    title: What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration
+related_article4:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+related_article5:
+    id: 167622
+    title: Explain how hydroxide ions form and acquire a negative charge.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 ---
 
 &nbsp;

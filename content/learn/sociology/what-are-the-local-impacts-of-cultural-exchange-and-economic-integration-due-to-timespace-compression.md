@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression.md
 url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 score: -1.0
+related_article1:
+    id: 160077
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article2:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+related_article3:
+    id: 160561
+    title: How do trade relations and global supply chains contribute to global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+related_article4:
+    id: 160643
+    title: Describe the interaction between natural landscapes and environmental processes in physical systems.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
+related_article5:
+    id: 160507
+    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 ---
 
 &nbsp;

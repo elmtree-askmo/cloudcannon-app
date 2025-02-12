@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery.md
 url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 score: -1.0
+related_article1:
+    id: 169428
+    title: What sustainable materials and practices are commonly used in sustainable architecture to enhance energy efficiency?
+    subject: Engineering
+    url: /learn/engineering/questions/what-sustainable-materials-and-practices-are-commonly-used-in-sustainable-architecture-to-enhance-energy-efficiency
+related_article2:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article3:
+    id: 169429
+    title: How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article4:
+    id: 169419
+    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+related_article5:
+    id: 169421
+    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
 ---
 
 &nbsp;

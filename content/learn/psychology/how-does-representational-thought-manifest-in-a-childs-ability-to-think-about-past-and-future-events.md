@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events.md
 url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
 score: -1.0
+related_article1:
+    id: 167953
+    title: How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article2:
+    id: 167955
+    title: How does egocentrism limit a child's ability to understand perspectives different from their own?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
+related_article3:
+    id: 167957
+    title: How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article4:
+    id: 167955
+    title: How does egocentrism limit a child's ability to understand perspectives different from their own?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
 ---
 
 &nbsp;

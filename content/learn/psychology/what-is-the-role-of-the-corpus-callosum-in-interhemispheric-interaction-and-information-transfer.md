@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer.md
 url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
 score: -1.0
+related_article1:
+    id: 164576
+    title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
+related_article2:
+    id: 164584
+    title: What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
+related_article3:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article4:
+    id: 164583
+    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
+related_article5:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
 ---
 
 &nbsp;

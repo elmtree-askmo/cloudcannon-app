@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs.md
 url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
 score: -1.0
+related_article1:
+    id: 166473
+    title: What is the primary purpose of empiric treatment in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+related_article2:
+    id: 166477
+    title: What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166487
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article4:
+    id: 166484
+    title: What is the role of nociceptors in pain processing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+related_article5:
+    id: 166483
+    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
 ---
 
 &nbsp;

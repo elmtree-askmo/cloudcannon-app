@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-energy-conversion-process-that-occurs-during-cellular-respiration.md
 url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170383
+    title: Explain the composition of biomass and how it relates to living and formerly living material.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
+related_article2:
+    id: 170389
+    title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article3:
+    id: 170385
+    title: Why are keystone species important for ecosystem stability and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
+related_article4:
+    id: 170379
+    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article5:
+    id: 170382
+    title: What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
 ---
 
 &nbsp;

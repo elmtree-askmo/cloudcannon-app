@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions.md
 url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
 score: -1.0
+related_article1:
+    id: 170528
+    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article2:
+    id: 170543
+    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+related_article3:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article4:
+    id: 170533
+    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+related_article5:
+    id: 170526
+    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 ---
 
 &nbsp;

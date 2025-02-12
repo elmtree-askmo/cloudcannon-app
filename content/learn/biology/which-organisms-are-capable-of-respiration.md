@@ -21,6 +21,31 @@ subject: Biology
 file_name: which-organisms-are-capable-of-respiration.md
 url: /learn/biology/questions/which-organisms-are-capable-of-respiration
 score: -1.0
+related_article1:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+related_article2:
+    id: 170929
+    title: Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article3:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+related_article4:
+    id: 170931
+    title: What are the main uses of energy in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+related_article5:
+    id: 170934
+    title: Outline the steps involved in glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-steps-involved-in-glycolysis
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-tariffs-influence-international-trade-and-economic-relationships.md
 url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
 score: -1.0
+related_article1:
+    id: 169902
+    title: How do major economies influence global economic power dynamics and strategies?
+    subject: Economics
+    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
+related_article2:
+    id: 169895
+    title: How do political economy strategies influence global economic supremacy?
+    subject: Economics
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
+related_article3:
+    id: 169899
+    title: What is the role of central banks in determining interest rates and their impact on the economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-central-banks-in-determining-interest-rates-and-their-impact-on-the-economy
+related_article4:
+    id: 169894
+    title: What are the economic consequences of tariffs on global trade, particularly between the US and China?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
+related_article5:
+    id: 169890
+    title: Explain how tariffs can affect supply and demand in a market.
+    subject: Economics
+    url: /learn/economics/questions/explain-how-tariffs-can-affect-supply-and-demand-in-a-market
 ---
 
 &nbsp;

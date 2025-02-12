@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution.md
 url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 score: -1.0
+related_article1:
+    id: 166365
+    title: What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+related_article2:
+    id: 166364
+    title: Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+related_article3:
+    id: 166365
+    title: What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+related_article4:
+    id: 166362
+    title: How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+related_article5:
+    id: 166357
+    title: Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 ---
 
 &nbsp;

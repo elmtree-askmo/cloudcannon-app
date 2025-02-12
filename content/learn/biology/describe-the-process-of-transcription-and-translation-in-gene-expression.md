@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-process-of-transcription-and-translation-in-gene-expression.md
 url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
 score: -1.0
+related_article1:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article2:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article3:
+    id: 167872
+    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article4:
+    id: 167874
+    title: How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article5:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding.md
 url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
 score: -1.0
+related_article1:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article2:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+related_article3:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article4:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article5:
+    id: 167974
+    title: What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
 ---
 
 &nbsp;

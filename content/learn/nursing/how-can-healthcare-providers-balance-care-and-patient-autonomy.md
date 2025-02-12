@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-healthcare-providers-balance-care-and-patient-autonomy.md
 url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
 score: -1.0
+related_article1:
+    id: 169476
+    title: How can healthcare providers maintain patient dignity through consent and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
+related_article2:
+    id: 169488
+    title: How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article3:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article4:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article5:
+    id: 169490
+    title: What preventive measures can be implemented to prevent pressure sores?
+    subject: Nursing
+    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-supervision-play-a-role-in-safe-medication-administration.md
 url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 score: -1.0
+related_article1:
+    id: 169567
+    title: What is the role of professional responsibility in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+related_article2:
+    id: 169553
+    title: What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+related_article3:
+    id: 169557
+    title: What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+related_article4:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article5:
+    id: 169562
+    title: How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
 ---
 
 &nbsp;

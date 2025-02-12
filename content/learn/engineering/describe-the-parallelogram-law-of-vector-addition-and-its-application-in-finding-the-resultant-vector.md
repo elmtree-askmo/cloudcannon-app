@@ -21,6 +21,31 @@ subject: Engineering
 file_name: describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector.md
 url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 score: -1.0
+related_article1:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+related_article2:
+    id: 166642
+    title: Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
+related_article3:
+    id: 166648
+    title: What is a position vector and how is it used to determine force direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
+related_article4:
+    id: 166638
+    title: What are the main types of fluids and what forces act on them?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+related_article5:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 ---
 
 &nbsp;

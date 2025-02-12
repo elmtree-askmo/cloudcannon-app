@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development.md
 url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
 score: -1.0
+related_article1:
+    id: 164135
+    title: What are the key differences between parenting styles in influencing moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-parenting-styles-in-influencing-moral-development
+related_article2:
+    id: 164144
+    title: What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
+related_article3:
+    id: 164135
+    title: What are the key differences between parenting styles in influencing moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-parenting-styles-in-influencing-moral-development
+related_article4:
+    id: 164148
+    title: How do educational settings utilize peer interaction to enhance moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-educational-settings-utilize-peer-interaction-to-enhance-moral-development
+related_article5:
+    id: 164144
+    title: What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior.md
 url: /learn/psychology/questions/how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior
 score: -1.0
+related_article1:
+    id: 164043
+    title: What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article2:
+    id: 164049
+    title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
+related_article3:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article4:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article5:
+    id: 164047
+    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
 ---
 
 &nbsp;

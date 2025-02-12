@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-common-language-disorders-and-their-impact-on-cognition.md
 url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
 score: -1.0
+related_article1:
+    id: 164679
+    title: How does emotion influence cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+related_article2:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article3:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article4:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+related_article5:
+    id: 164681
+    title: Explain the concept of neural plasticity and its significance in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-neural-plasticity-and-its-significance-in-learning
 ---
 
 &nbsp;

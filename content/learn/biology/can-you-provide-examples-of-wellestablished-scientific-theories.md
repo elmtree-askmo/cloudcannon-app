@@ -21,6 +21,31 @@ subject: Biology
 file_name: can-you-provide-examples-of-wellestablished-scientific-theories.md
 url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
 score: -1.0
+related_article1:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article2:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article3:
+    id: 167515
+    title: What is the significance of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-cellular-organization-in-living-organisms
+related_article4:
+    id: 167513
+    title: What mechanisms drive evolution and how do they impact biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-drive-evolution-and-how-do-they-impact-biodiversity
+related_article5:
+    id: 167519
+    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
 ---
 
 &nbsp;

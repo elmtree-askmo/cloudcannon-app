@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale.md
 url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
 score: -1.0
+related_article1:
+    id: 165998
+    title: How does wealth distribution affect economic inequality on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
+related_article2:
+    id: 165984
+    title: What role did the Industrial Revolution play in the historical development of the world system?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article3:
+    id: 165986
+    title: What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article4:
+    id: 165999
+    title: What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article5:
+    id: 165994
+    title: How does international cooperation address global health concerns such as disease transmission?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
 ---
 
 &nbsp;

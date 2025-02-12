@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins.md
 url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
 score: -1.0
+related_article1:
+    id: 165350
+    title: How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article2:
+    id: 165345
+    title: What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
+related_article3:
+    id: 165347
+    title: How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article4:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article5:
+    id: 165344
+    title: Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 ---
 
 &nbsp;

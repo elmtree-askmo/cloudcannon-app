@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-building-blocks-of-matter.md
 url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
 score: -1.0
+related_article1:
+    id: 166807
+    title: Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article2:
+    id: 166807
+    title: Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article3:
+    id: 166798
+    title: What are the three main subatomic particles in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
+related_article4:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article5:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 ---
 
 &nbsp;

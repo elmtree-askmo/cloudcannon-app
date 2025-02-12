@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction.md
 url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 score: -1.0
+related_article1:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article2:
+    id: 169584
+    title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+related_article3:
+    id: 169597
+    title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
+related_article4:
+    id: 169593
+    title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
+related_article5:
+    id: 169594
+    title: How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
 ---
 
 &nbsp;

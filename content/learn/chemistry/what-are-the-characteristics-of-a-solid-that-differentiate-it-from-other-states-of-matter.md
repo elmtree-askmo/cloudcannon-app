@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
 score: -1.0
+related_article1:
+    id: 162046
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article2:
+    id: 162054
+    title: How can you identify a chemical change through the formation of new substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+related_article3:
+    id: 162046
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article4:
+    id: 162015
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article5:
+    id: 162048
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

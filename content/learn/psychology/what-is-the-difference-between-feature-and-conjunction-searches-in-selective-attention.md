@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention.md
 url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
 score: -1.0
+related_article1:
+    id: 164753
+    title: How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+related_article2:
+    id: 164746
+    title: How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article3:
+    id: 164755
+    title: How does the visual cortex contribute to bottom-up attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+related_article4:
+    id: 164758
+    title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
+related_article5:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
 ---
 
 &nbsp;

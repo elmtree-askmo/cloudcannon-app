@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-some-misunderstandings-about-symmetry-in-reflections.md
 url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 score: -1.0
+related_article1:
+    id: 162895
+    title: What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article2:
+    id: 162621
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162815
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article4:
+    id: 162696
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article5:
+    id: 162886
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 ---
 
 &nbsp;

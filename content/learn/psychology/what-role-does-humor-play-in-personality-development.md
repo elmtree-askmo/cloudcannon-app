@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-humor-play-in-personality-development.md
 url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
 score: -1.0
+related_article1:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
+related_article2:
+    id: 168447
+    title: What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article3:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article4:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article5:
+    id: 168441
+    title: How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
 ---
 
 &nbsp;

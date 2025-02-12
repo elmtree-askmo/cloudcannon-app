@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-cell-division-play-in-genetic-transmission.md
 url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 score: -1.0
+related_article1:
+    id: 167825
+    title: What are the main sources of genetic variation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
+related_article2:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+related_article3:
+    id: 167819
+    title: What is differential gene expression and why is it important?
+    subject: Biology
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
+related_article4:
+    id: 167815
+    title: How does DNA replication ensure genetic consistency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
+related_article5:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
 ---
 
 &nbsp;

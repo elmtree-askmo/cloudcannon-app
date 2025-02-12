@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya.md
 url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
 score: -1.0
+related_article1:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article2:
+    id: 166198
+    title: What distinguishes a scientific theory from a hypothesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article3:
+    id: 166194
+    title: How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article4:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 ---
 
 &nbsp;

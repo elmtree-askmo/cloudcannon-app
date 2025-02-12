@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point.md
 url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
 score: -1.0
+related_article1:
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+related_article2:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article3:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article4:
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article5:
+    id: 168337
+    title: State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 ---
 
 &nbsp;

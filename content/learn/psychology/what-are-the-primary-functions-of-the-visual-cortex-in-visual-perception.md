@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
 score: -1.0
+related_article1:
+    id: 164254
+    title: What are single cell recordings and how are they used to map sensory inputs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+related_article2:
+    id: 164257
+    title: What factors influence pitch perception and how does cochlear function play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+related_article3:
+    id: 164255
+    title: How do single cell recordings contribute to understanding neural responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
+related_article4:
+    id: 164246
+    title: What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
 ---
 
 &nbsp;

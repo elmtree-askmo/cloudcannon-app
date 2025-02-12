@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-formal-definition-of-a-limit-and-how-is-it-notated.md
 url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
 score: -1.0
+related_article1:
+    id: 168332
+    title: How do you calculate the instantaneous rate of change of a function at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-instantaneous-rate-of-change-of-a-function-at-a-given-point
+related_article2:
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+related_article3:
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
+related_article4:
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
+related_article5:
+    id: 168331
+    title: What is the product rule for derivatives and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 ---
 
 &nbsp;

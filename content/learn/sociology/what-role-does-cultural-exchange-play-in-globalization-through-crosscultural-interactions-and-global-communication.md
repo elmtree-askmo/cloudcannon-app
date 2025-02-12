@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication.md
 url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 score: -1.0
+related_article1:
+    id: 163624
+    title: How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article2:
+    id: 163616
+    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+related_article3:
+    id: 163624
+    title: How do travel disruptions economically impact tourism and business travel?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+related_article4:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article5:
+    id: 163619
+    title: What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
 ---
 
 &nbsp;

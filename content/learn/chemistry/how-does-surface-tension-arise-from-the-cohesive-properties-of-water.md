@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-surface-tension-arise-from-the-cohesive-properties-of-water.md
 url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
 score: -1.0
+related_article1:
+    id: 166994
+    title: What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+related_article2:
+    id: 167000
+    title: How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+related_article3:
+    id: 166990
+    title: What is capillary action and how does it relate to adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
+related_article4:
+    id: 166986
+    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
+related_article5:
+    id: 167000
+    title: How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
 ---
 
 &nbsp;

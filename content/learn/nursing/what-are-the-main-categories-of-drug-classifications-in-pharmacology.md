@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-categories-of-drug-classifications-in-pharmacology.md
 url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 score: -1.0
+related_article1:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+related_article2:
+    id: 169752
+    title: What are the key legal aspects of medicines management that nurses must be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
+related_article3:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article4:
+    id: 169767
+    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+related_article5:
+    id: 169763
+    title: What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 ---
 
 &nbsp;

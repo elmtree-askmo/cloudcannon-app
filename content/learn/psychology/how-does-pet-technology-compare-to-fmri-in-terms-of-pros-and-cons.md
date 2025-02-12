@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons.md
 url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
 score: -1.0
+related_article1:
+    id: 164303
+    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+related_article2:
+    id: 164305
+    title: What are the main advantages of fMRI over PET in neuroimaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
+related_article3:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
+related_article4:
+    id: 164308
+    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article5:
+    id: 164302
+    title: What is functional specialization in the context of brain activity measurement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 ---
 
 &nbsp;

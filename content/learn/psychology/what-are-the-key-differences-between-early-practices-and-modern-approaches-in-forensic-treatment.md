@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-early-practices-and-modern-approaches-in-forensic-treatment.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-early-practices-and-modern-approaches-in-forensic-treatment
 score: -1.0
+related_article1:
+    id: 164056
+    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+related_article2:
+    id: 164056
+    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+related_article3:
+    id: 164065
+    title: What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article4:
+    id: 164063
+    title: What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
+related_article5:
+    id: 164057
+    title: What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 ---
 
 &nbsp;

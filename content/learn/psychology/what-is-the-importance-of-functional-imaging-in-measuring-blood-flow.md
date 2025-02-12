@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-importance-of-functional-imaging-in-measuring-blood-flow.md
 url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
 score: -1.0
+related_article1:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article2:
+    id: 164354
+    title: What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+related_article3:
+    id: 164351
+    title: How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article4:
+    id: 164351
+    title: How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article5:
+    id: 164354
+    title: What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 ---
 
 &nbsp;

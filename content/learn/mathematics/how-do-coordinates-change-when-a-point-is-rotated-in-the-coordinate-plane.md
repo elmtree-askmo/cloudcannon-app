@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162237
+    title: What is the center of rotation, and why is it important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+related_article2:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article3:
+    id: 162596
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+related_article5:
+    id: 162484
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

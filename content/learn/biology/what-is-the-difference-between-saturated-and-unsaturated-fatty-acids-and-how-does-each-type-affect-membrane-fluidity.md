@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity.md
 url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity
 score: -1.0
+related_article1:
+    id: 168916
+    title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
+related_article2:
+    id: 168916
+    title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
+related_article3:
+    id: 168913
+    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
+related_article4:
+    id: 168909
+    title: How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article5:
+    id: 168909
+    title: How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
 ---
 
 &nbsp;

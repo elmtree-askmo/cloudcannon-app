@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations.md
 url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
 score: -1.0
+related_article1:
+    id: 165014
+    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article2:
+    id: 165013
+    title: What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article3:
+    id: 165012
+    title: How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+related_article4:
+    id: 165021
+    title: How does the size congruence effect impact everyday cognition and educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
+related_article5:
+    id: 165012
+    title: How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
 ---
 
 &nbsp;

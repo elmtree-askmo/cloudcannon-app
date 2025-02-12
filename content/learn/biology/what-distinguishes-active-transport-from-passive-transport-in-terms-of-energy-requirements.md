@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements.md
 url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
 score: -1.0
+related_article1:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article2:
+    id: 167181
+    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+related_article3:
+    id: 167190
+    title: How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article4:
+    id: 167181
+    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+related_article5:
+    id: 167195
+    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 ---
 
 &nbsp;

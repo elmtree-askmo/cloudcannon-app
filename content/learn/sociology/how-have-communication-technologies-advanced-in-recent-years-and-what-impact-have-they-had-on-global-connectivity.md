@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity.md
 url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 score: -1.0
+related_article1:
+    id: 165986
+    title: What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article2:
+    id: 165992
+    title: In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article3:
+    id: 165990
+    title: What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+related_article4:
+    id: 165983
+    title: Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
+related_article5:
+    id: 165990
+    title: What is the significance of global production networks in commodity chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
 ---
 
 &nbsp;

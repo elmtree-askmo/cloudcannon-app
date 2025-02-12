@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas.md
 url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 score: -1.0
+related_article1:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article2:
+    id: 162954
+    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+related_article3:
+    id: 162947
+    title: Describe the purpose of training villages in simulated urban environments.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
+related_article4:
+    id: 162948
+    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+related_article5:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 ---
 
 &nbsp;

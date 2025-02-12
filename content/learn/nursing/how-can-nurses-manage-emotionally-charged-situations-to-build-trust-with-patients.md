@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients.md
 url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
 score: -1.0
+related_article1:
+    id: 169612
+    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
+related_article2:
+    id: 169612
+    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
+related_article3:
+    id: 169603
+    title: What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
+related_article4:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke.md
 url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 score: -1.0
+related_article1:
+    id: 170545
+    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article2:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article3:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article4:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article5:
+    id: 170526
+    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 ---
 
 &nbsp;

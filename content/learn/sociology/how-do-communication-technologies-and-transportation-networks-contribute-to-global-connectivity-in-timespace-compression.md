@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression.md
 url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 score: -1.0
+related_article1:
+    id: 160621
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article2:
+    id: 160645
+    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
+related_article3:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+related_article4:
+    id: 160557
+    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+related_article5:
+    id: 160624
+    title: Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
 ---
 
 &nbsp;

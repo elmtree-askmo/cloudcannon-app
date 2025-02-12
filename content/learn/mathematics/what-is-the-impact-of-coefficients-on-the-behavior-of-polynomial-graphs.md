@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-impact-of-coefficients-on-the-behavior-of-polynomial-graphs.md
 url: /learn/mathematics/questions/what-is-the-impact-of-coefficients-on-the-behavior-of-polynomial-graphs
 score: -1.0
+related_article1:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article2:
+    id: 168299
+    title: What are the characteristics of prime numbers, and how can they be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
+related_article3:
+    id: 168304
+    title: How do you apply the rules for multiplying and dividing exponents to simplify expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-rules-for-multiplying-and-dividing-exponents-to-simplify-expressions
+related_article4:
+    id: 168298
+    title: How do you calculate the degree of a polynomial, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
+related_article5:
+    id: 168309
+    title: How do you combine like radicals to simplify complex expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-mathematics-serve-as-a-language-for-physics.md
 url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
 score: -1.0
+related_article1:
+    id: 165561
+    title: What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article2:
+    id: 165561
+    title: What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article3:
+    id: 165566
+    title: Compare Babylonian and Greek approaches to axiomatic systems in mathematics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/compare-babylonian-and-greek-approaches-to-axiomatic-systems-in-mathematics
+related_article4:
+    id: 165568
+    title: How does mathematics help in understanding the interconnections between physical laws?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
+related_article5:
+    id: 165561
+    title: What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
 ---
 
 &nbsp;

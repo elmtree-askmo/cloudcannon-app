@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior.md
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166378
+    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+related_article2:
+    id: 166383
+    title: How is fitness defined and measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
+related_article3:
+    id: 166378
+    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+related_article4:
+    id: 166385
+    title: What are the different types of selection, and how do they affect allele frequencies in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
+related_article5:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

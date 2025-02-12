@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere.md
 url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 score: -1.0
+related_article1:
+    id: 170417
+    title: What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
+related_article2:
+    id: 170419
+    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+related_article3:
+    id: 170412
+    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+related_article4:
+    id: 170411
+    title: What is a carbon footprint, and how can individuals and organizations measure and reduce it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-carbon-footprint-and-how-can-individuals-and-organizations-measure-and-reduce-it
+related_article5:
+    id: 170402
+    title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access.md
 url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 score: -1.0
+related_article1:
+    id: 167482
+    title: What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+related_article2:
+    id: 167480
+    title: What communication tools are available on the D2L Learning Management System?
+    subject: Biology
+    url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
+related_article3:
+    id: 167490
+    title: How are students assessed through exams and quizzes in this course?
+    subject: Biology
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
+related_article4:
+    id: 167474
+    title: Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article5:
+    id: 167472
+    title: What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 ---
 
 &nbsp;

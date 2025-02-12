@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene.md
 url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
 score: -1.0
+related_article1:
+    id: 169686
+    title: How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+related_article2:
+    id: 169689
+    title: In what ways does sleep contribute to emotional stability and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
+related_article3:
+    id: 169697
+    title: What role do circadian rhythms play in sleep regulation, and how can modern technology impact these rhythms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms
+related_article4:
+    id: 169692
+    title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended
+related_article5:
+    id: 169694
+    title: What are some non-pharmacological interventions that can improve sleep quality, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-nonpharmacological-interventions-that-can-improve-sleep-quality-and-how-do-they-work
 ---
 
 &nbsp;

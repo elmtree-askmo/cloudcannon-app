@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-crossfostering-experiments-play-in-the-study-of-heritability.md
 url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
 score: -1.0
+related_article1:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article2:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166355
+    title: What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
+    id: 166369
+    title: What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+related_article5:
+    id: 166357
+    title: Describe the differences between directional, stabilizing, and disruptive selection.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms.md
 url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
 score: -1.0
+related_article1:
+    id: 170356
+    title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
+related_article2:
+    id: 170349
+    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article3:
+    id: 170351
+    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+related_article4:
+    id: 170357
+    title: How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
+related_article5:
+    id: 170351
+    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
 ---
 
 &nbsp;

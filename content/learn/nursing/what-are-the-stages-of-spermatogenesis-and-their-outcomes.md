@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-stages-of-spermatogenesis-and-their-outcomes.md
 url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 score: -1.0
+related_article1:
+    id: 167856
+    title: How do the stages of mitosis ensure accurate cell division?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
+related_article2:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article3:
+    id: 167860
+    title: What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article4:
+    id: 167866
+    title: How do alleles contribute to genetic variation within a population?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
+related_article5:
+    id: 167853
+    title: What are the key sources for finding recent research articles on genetic diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
 ---
 
 &nbsp;

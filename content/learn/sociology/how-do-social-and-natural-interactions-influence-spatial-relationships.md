@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-social-and-natural-interactions-influence-spatial-relationships.md
 url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
 score: -1.0
+related_article1:
+    id: 159831
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article2:
+    id: 159997
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article3:
+    id: 159817
+    title: What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article4:
+    id: 159997
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article5:
+    id: 159821
+    title: Discuss the role of emotional attachment in identity formation related to place.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 ---
 
 &nbsp;

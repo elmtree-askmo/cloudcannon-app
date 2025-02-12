@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-nociceptors-in-pain-processing.md
 url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
 score: -1.0
+related_article1:
+    id: 166477
+    title: What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article2:
+    id: 166487
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article3:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article4:
+    id: 166476
+    title: How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article5:
+    id: 166475
+    title: What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
 ---
 
 &nbsp;

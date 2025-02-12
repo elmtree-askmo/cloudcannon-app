@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-environmental-factors-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 165291
+    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article2:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article3:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article4:
+    id: 165307
+    title: How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article5:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 ---
 
 &nbsp;

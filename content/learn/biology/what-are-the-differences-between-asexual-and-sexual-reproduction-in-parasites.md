@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites.md
 url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
 score: -1.0
+related_article1:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article2:
+    id: 165807
+    title: Describe the taxonomic hierarchy from kingdom to species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
+related_article3:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article4:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article5:
+    id: 165815
+    title: Describe the concept of epidemiology in the context of parasite ecology.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: provide-an-example-of-a-compound-and-explain-its-chemical-formula.md
 url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 score: -1.0
+related_article1:
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+related_article2:
+    id: 161840
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article3:
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+related_article4:
+    id: 161853
+    title: What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article5:
+    id: 161855
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
 ---
 
 &nbsp;

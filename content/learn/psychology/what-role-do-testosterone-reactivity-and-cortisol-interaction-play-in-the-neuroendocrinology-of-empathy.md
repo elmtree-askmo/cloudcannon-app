@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy.md
 url: /learn/psychology/questions/what-role-do-testosterone-reactivity-and-cortisol-interaction-play-in-the-neuroendocrinology-of-empathy
 score: -1.0
+related_article1:
+    id: 164023
+    title: What is the role of testosterone in emotion regulation, and how does it interact with cortisol and serotonin?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-testosterone-in-emotion-regulation-and-how-does-it-interact-with-cortisol-and-serotonin
+related_article2:
+    id: 164013
+    title: How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
+related_article3:
+    id: 164019
+    title: How do testosterone and cortisol balance, along with serotonin's role, affect emotional responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-testosterone-and-cortisol-balance-along-with-serotonins-role-affect-emotional-responses
+related_article4:
+    id: 164013
+    title: How does empathy function as automatic contagion, personal distress, and concern with mentalizing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-function-as-automatic-contagion-personal-distress-and-concern-with-mentalizing
+related_article5:
+    id: 164015
+    title: How do the amygdala and OFC connectivity, as well as prefrontal-limbic activation, contribute to the neural mechanisms of empathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-amygdala-and-ofc-connectivity-as-well-as-prefrontallimbic-activation-contribute-to-the-neural-mechanisms-of-empathy
 ---
 
 &nbsp;

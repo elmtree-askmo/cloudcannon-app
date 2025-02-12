@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations.md
 url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 score: -1.0
+related_article1:
+    id: 164457
+    title: What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
+related_article2:
+    id: 164447
+    title: Describe the role of the parietal lobe in sensory integration.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+related_article3:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+related_article4:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article5:
+    id: 164445
+    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
 ---
 
 &nbsp;

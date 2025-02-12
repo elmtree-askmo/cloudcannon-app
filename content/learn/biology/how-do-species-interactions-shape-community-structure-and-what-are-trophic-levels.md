@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels.md
 url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
 score: -1.0
+related_article1:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article2:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article3:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article4:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article5:
+    id: 167747
+    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 ---
 
 &nbsp;

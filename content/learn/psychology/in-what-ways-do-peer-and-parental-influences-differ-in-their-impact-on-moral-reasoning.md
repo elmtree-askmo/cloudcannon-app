@@ -21,6 +21,31 @@ subject: Psychology
 file_name: in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning.md
 url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 score: -1.0
+related_article1:
+    id: 164144
+    title: What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
+related_article2:
+    id: 164147
+    title: What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article3:
+    id: 164141
+    title: How does the induction style of parenting explain a child's behavior and its impact on others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+related_article4:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+related_article5:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
 ---
 
 &nbsp;

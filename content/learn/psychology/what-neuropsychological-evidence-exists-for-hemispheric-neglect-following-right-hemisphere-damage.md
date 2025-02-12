@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage.md
 url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
 score: -1.0
+related_article1:
+    id: 164744
+    title: What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article2:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article3:
+    id: 164764
+    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article4:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article5:
+    id: 164744
+    title: What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-parameterized-statements-relate-to-the-inductive-hypothesis.md
 url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
 score: -1.0
+related_article1:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article2:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article3:
+    id: 170746
+    title: What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article4:
+    id: 170746
+    title: What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article5:
+    id: 170740
+    title: What is an inductive hypothesis and how is it formulated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
 ---
 
 &nbsp;

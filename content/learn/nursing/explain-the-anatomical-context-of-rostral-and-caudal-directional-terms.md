@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-anatomical-context-of-rostral-and-caudal-directional-terms.md
 url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
 score: -1.0
+related_article1:
+    id: 164733
+    title: How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article2:
+    id: 164750
+    title: Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article3:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+related_article4:
+    id: 164732
+    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+related_article5:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
 ---
 
 &nbsp;

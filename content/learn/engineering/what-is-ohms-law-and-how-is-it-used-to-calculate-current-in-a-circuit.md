@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit.md
 url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
 score: -1.0
+related_article1:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article2:
+    id: 167939
+    title: How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article3:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article4:
+    id: 167946
+    title: How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article5:
+    id: 167941
+    title: Describe Kirchhoff's Voltage Law and its application in circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 ---
 
 &nbsp;

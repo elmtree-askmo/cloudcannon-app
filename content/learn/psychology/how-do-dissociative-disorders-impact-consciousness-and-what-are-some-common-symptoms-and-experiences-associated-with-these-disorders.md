@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders.md
 url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
 score: -1.0
+related_article1:
+    id: 164851
+    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
+related_article2:
+    id: 164849
+    title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
+related_article3:
+    id: 164838
+    title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
+related_article4:
+    id: 164841
+    title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article5:
+    id: 164833
+    title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
 ---
 
 &nbsp;

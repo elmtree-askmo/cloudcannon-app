@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-a-nonexample-of-induction-using-the-fibonacci-sequence.md
 url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
 score: -1.0
+related_article1:
+    id: 170764
+    title: Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
+related_article2:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article3:
+    id: 170772
+    title: What are the properties of natural numbers that make them suitable for induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+related_article4:
+    id: 170758
+    title: Provide an example of how the well-ordering principle can be applied in a proof.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-how-the-wellordering-principle-can-be-applied-in-a-proof
+related_article5:
+    id: 170759
+    title: What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity.md
 url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
 score: -1.0
+related_article1:
+    id: 167035
+    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article2:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article3:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
+related_article4:
+    id: 167054
+    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+related_article5:
+    id: 167050
+    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
 ---
 
 &nbsp;

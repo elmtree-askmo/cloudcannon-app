@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-different-types-of-transformations-that-can-be-applied-to-functions.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 score: -1.0
+related_article1:
+    id: 168400
+    title: How can you identify opposite outputs in a table comparison for reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
+related_article2:
+    id: 168412
+    title: How do you plot points on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
+related_article3:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article4:
+    id: 168399
+    title: What is the graphical representation of a reflection about the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+related_article5:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 ---
 
 &nbsp;

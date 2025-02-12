@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-waters-kinetic-energy-contribute-to-temperature-moderation.md
 url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 score: -1.0
+related_article1:
+    id: 168310
+    title: What are the three main subatomic particles in an atom and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+related_article2:
+    id: 168323
+    title: How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
+related_article3:
+    id: 168315
+    title: How do hydrogen bonds form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
+related_article4:
+    id: 168313
+    title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
+related_article5:
+    id: 168316
+    title: What is the significance of water's ability to dissociate into ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
 ---
 
 &nbsp;

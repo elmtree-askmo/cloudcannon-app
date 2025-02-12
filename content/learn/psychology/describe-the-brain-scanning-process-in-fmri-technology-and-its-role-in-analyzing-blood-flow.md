@@ -21,6 +21,26 @@ subject: Psychology
 file_name: describe-the-brain-scanning-process-in-fmri-technology-and-its-role-in-analyzing-blood-flow.md
 url: /learn/psychology/questions/describe-the-brain-scanning-process-in-fmri-technology-and-its-role-in-analyzing-blood-flow
 score: -1.0
+related_article1:
+    id: 164785
+    title: How is fMRI technology applied in decoding audio and visual stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-technology-applied-in-decoding-audio-and-visual-stimuli
+related_article2:
+    id: 164791
+    title: What are the current regulations regarding brain data protection, and what ethical considerations are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-current-regulations-regarding-brain-data-protection-and-what-ethical-considerations-are-involved
+related_article3:
+    id: 164792
+    title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
+related_article4:
+    id: 164792
+    title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
 ---
 
 &nbsp;

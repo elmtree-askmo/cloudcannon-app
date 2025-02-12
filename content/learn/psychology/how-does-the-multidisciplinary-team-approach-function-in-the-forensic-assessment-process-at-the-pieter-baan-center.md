@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center.md
 url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 score: -1.0
+related_article1:
+    id: 164042
+    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article2:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article3:
+    id: 164050
+    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
+related_article4:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article5:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-influence-of-hormones-on-animal-behavior.md
 url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
 score: -1.0
+related_article1:
+    id: 165293
+    title: What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article2:
+    id: 165312
+    title: Describe the process of ontogeny and its role in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+related_article3:
+    id: 165305
+    title: What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article4:
+    id: 165287
+    title: What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article5:
+    id: 165303
+    title: What is artificial selection and how does it differ from natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 ---
 
 &nbsp;

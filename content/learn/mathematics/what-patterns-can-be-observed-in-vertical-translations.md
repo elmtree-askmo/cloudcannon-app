@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-patterns-can-be-observed-in-vertical-translations.md
 url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
 score: -1.0
+related_article1:
+    id: 162539
+    title: What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article2:
+    id: 162461
+    title: What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
+related_article3:
+    id: 162275
+    title: How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
+related_article4:
+    id: 162275
+    title: How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
+related_article5:
+    id: 162468
+    title: How can patterns be used to predict new coordinates after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
 ---
 
 &nbsp;

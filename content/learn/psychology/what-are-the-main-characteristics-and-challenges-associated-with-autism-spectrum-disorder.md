@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder.md
 url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
 score: -1.0
+related_article1:
+    id: 169356
+    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+related_article2:
+    id: 169343
+    title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
+related_article3:
+    id: 169338
+    title: What are the types of augmentative communication, and how might they impact verbal language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
+related_article4:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+related_article5:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good.md
 url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
 score: -1.0
+related_article1:
+    id: 170621
+    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
+related_article2:
+    id: 170627
+    title: What are the characteristics of judging and perceiving, and how do they influence an individual's approach to life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-judging-and-perceiving-and-how-do-they-influence-an-individuals-approach-to-life
+related_article3:
+    id: 170629
+    title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
+related_article4:
+    id: 170626
+    title: Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article5:
+    id: 170620
+    title: How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
 ---
 
 &nbsp;

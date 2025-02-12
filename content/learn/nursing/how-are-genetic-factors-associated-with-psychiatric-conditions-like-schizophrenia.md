@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia.md
 url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
 score: -1.0
+related_article1:
+    id: 170454
+    title: What are the causes and symptoms of viral meningitis, and how is it treated?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+related_article2:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article3:
+    id: 170440
+    title: What percentage of the human genome is dedicated to neurology, and why is this significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+related_article4:
+    id: 170449
+    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 ---
 
 &nbsp;

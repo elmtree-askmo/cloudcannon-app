@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-definition-of-matter-and-how-does-it-differ-from-elements.md
 url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 score: -1.0
+related_article1:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article2:
+    id: 167405
+    title: How do ionic bonds form and what are cations and anions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+related_article3:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+related_article4:
+    id: 167417
+    title: What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article5:
+    id: 167406
+    title: What is hydrogen bonding and why is it important in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
 ---
 
 &nbsp;

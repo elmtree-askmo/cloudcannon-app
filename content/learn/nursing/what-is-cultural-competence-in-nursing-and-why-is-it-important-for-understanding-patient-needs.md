@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs.md
 url: /learn/nursing/questions/what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs
 score: -1.0
+related_article1:
+    id: 169610
+    title: How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article2:
+    id: 169608
+    title: How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
+related_article3:
+    id: 169611
+    title: Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
+related_article4:
+    id: 169604
+    title: How can emotional intelligence improve decision-making and patient interaction in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-emotional-intelligence-improve-decisionmaking-and-patient-interaction-in-healthcare
+related_article5:
+    id: 169606
+    title: How can decision trees be used to manage medication errors in nursing practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing-practice
 ---
 
 &nbsp;

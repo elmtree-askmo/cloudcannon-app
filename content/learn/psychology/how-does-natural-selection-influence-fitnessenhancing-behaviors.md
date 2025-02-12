@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-natural-selection-influence-fitnessenhancing-behaviors.md
 url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
 score: -1.0
+related_article1:
+    id: 170888
+    title: How do fitness trade-offs affect resource allocation in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
+related_article2:
+    id: 170886
+    title: Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article3:
+    id: 170889
+    title: What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article4:
+    id: 170882
+    title: What challenges are associated with measuring quantitative traits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
+related_article5:
+    id: 170881
+    title: How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
 ---
 
 &nbsp;

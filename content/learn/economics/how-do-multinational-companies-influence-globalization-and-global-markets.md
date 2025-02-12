@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-multinational-companies-influence-globalization-and-global-markets.md
 url: /learn/economics/questions/how-do-multinational-companies-influence-globalization-and-global-markets
 score: -1.0
+related_article1:
+    id: 169906
+    title: How do supply and demand affect price signals and inflation in market structures?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
+related_article2:
+    id: 169907
+    title: What are the fundamental differences between capitalism and socialism as economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
+related_article3:
+    id: 169915
+    title: What role does innovation play in economic development and improving quality of life?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+related_article4:
+    id: 169916
+    title: How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article5:
+    id: 169911
+    title: What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 ---
 
 &nbsp;

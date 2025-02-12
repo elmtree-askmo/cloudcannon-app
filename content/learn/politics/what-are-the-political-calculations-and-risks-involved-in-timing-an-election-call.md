@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call.md
 url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 score: -1.0
+related_article1:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article2:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article3:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article4:
+    id: 165624
+    title: Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
+related_article5:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
 ---
 
 &nbsp;

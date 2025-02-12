@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location.md
 url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
 score: -1.0
+related_article1:
+    id: 164812
+    title: What are the key factors that contribute to neuron connections in neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
+related_article2:
+    id: 164815
+    title: What is the relationship between photographic memory and cognitive load?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
+related_article3:
+    id: 164811
+    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article4:
+    id: 164807
+    title: How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+related_article5:
+    id: 164802
+    title: What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
 ---
 
 &nbsp;

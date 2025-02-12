@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage.md
 url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
 score: -1.0
+related_article1:
+    id: 168058
+    title: How do children develop conservation skills related to liquid quantity, mass, weight, and volume?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume
+related_article2:
+    id: 168053
+    title: How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article3:
+    id: 168056
+    title: Explain the concept of reversibility and its role in conservation during the concrete operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage
+related_article4:
+    id: 168058
+    title: How do children develop conservation skills related to liquid quantity, mass, weight, and volume?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume
+related_article5:
+    id: 168050
+    title: What are the key characteristics of logical thinking in concrete situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-logical-thinking-in-concrete-situations
 ---
 
 &nbsp;

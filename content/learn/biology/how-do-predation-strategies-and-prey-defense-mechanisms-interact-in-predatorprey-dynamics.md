@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics.md
 url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
 score: -1.0
+related_article1:
+    id: 166150
+    title: How do direct and indirect transmission methods differ in parasite transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
+related_article2:
+    id: 166139
+    title: What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article3:
+    id: 166140
+    title: How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article4:
+    id: 166136
+    title: How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article5:
+    id: 166151
+    title: What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
 ---
 
 &nbsp;

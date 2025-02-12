@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article2:
+    id: 165091
+    title: What are the essential elements of academic writing standards in research papers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+related_article3:
+    id: 165086
+    title: What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article4:
+    id: 165090
+    title: What is the importance of comparing research results with previous studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
+related_article5:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization.md
 url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
 score: -1.0
+related_article1:
+    id: 165984
+    title: What role did the Industrial Revolution play in the historical development of the world system?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article2:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article3:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article4:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article5:
+    id: 165996
+    title: How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
 ---
 
 &nbsp;

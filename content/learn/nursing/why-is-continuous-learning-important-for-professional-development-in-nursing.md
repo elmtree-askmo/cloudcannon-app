@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-continuous-learning-important-for-professional-development-in-nursing.md
 url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 score: -1.0
+related_article1:
+    id: 169544
+    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+related_article2:
+    id: 169537
+    title: What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
+related_article3:
+    id: 169542
+    title: Why is cultural competency important in nursing, and how can it improve patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
+related_article4:
+    id: 169540
+    title: How does maintaining a positive outlook contribute to building resilience in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
+related_article5:
+    id: 169537
+    title: What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
 ---
 
 &nbsp;

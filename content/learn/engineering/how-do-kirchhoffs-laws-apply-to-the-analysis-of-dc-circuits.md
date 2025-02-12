@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits.md
 url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
 score: -1.0
+related_article1:
+    id: 169848
+    title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
+related_article2:
+    id: 169859
+    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article3:
+    id: 169858
+    title: What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article4:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article5:
+    id: 169853
+    title: Explain the concept of active and reactive power in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 ---
 
 &nbsp;

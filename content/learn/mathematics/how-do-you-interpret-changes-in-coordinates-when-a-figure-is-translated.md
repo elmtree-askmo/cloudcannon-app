@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated.md
 url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 score: -1.0
+related_article1:
+    id: 162222
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article2:
+    id: 162229
+    title: What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article3:
+    id: 162326
+    title: How can transformations impact the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
+related_article4:
+    id: 162328
+    title: How is translation notation used to interpret changes in coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+related_article5:
+    id: 162230
+    title: How do you identify the vertices of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
 ---
 
 &nbsp;

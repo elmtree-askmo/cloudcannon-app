@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems.md
 url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
 score: -1.0
+related_article1:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article2:
+    id: 167142
+    title: How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
+related_article3:
+    id: 167154
+    title: How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article4:
+    id: 167143
+    title: What are hydrogen bonds and how do they form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-hydrogen-bonds-and-how-do-they-form-between-water-molecules
+related_article5:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 ---
 
 &nbsp;

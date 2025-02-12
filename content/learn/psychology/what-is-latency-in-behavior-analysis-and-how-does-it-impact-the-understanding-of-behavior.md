@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior.md
 url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
 score: -1.0
+related_article1:
+    id: 169329
+    title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
+related_article2:
+    id: 169326
+    title: What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article3:
+    id: 169311
+    title: What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article4:
+    id: 169315
+    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 ---
 
 &nbsp;

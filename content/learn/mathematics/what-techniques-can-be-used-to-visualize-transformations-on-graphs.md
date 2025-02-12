@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-techniques-can-be-used-to-visualize-transformations-on-graphs.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
 score: -1.0
+related_article1:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article2:
+    id: 162154
+    title: What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+related_article3:
+    id: 162297
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162307
+    title: What are the properties of line segments in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometry
+related_article5:
+    id: 162300
+    title: How does translating a line segment affect its endpoints?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
 ---
 
 &nbsp;

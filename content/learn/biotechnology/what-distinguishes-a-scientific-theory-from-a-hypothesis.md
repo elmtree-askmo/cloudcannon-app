@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-distinguishes-a-scientific-theory-from-a-hypothesis.md
 url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
 score: -1.0
+related_article1:
+    id: 166181
+    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+related_article2:
+    id: 166177
+    title: What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article3:
+    id: 166178
+    title: How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
+related_article4:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article5:
+    id: 166174
+    title: What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
 ---
 
 &nbsp;

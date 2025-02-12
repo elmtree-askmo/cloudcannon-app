@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-roles-do-axons-and-dendrites-play-in-neuron-function.md
 url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 score: -1.0
+related_article1:
+    id: 170497
+    title: Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article2:
+    id: 170487
+    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
+related_article3:
+    id: 170494
+    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article4:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article5:
+    id: 170497
+    title: Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 ---
 
 &nbsp;

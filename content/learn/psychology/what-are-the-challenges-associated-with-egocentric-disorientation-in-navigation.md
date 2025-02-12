@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
 score: -1.0
+related_article1:
+    id: 164464
+    title: How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+related_article2:
+    id: 164459
+    title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article3:
+    id: 164465
+    title: What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article4:
+    id: 164473
+    title: What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article5:
+    id: 164459
+    title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 ---
 
 &nbsp;

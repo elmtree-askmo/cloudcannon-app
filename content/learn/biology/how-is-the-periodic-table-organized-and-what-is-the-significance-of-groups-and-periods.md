@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods.md
 url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
 score: -1.0
+related_article1:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article2:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article3:
+    id: 167416
+    title: Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+related_article4:
+    id: 167408
+    title: Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article5:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 ---
 
 &nbsp;

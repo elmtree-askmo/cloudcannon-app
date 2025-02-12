@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement.md
 url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
 score: -1.0
+related_article1:
+    id: 169526
+    title: How do heart function and blood flow contribute to blood circulation mechanics?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
+related_article2:
+    id: 169526
+    title: How do heart function and blood flow contribute to blood circulation mechanics?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
+related_article3:
+    id: 169522
+    title: What are some common causes and risk factors for hypertension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
+related_article4:
+    id: 169532
+    title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
+related_article5:
+    id: 169518
+    title: What is the difference between systolic and diastolic blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
 ---
 
 &nbsp;

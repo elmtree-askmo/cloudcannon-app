@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival.md
 url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
 score: -1.0
+related_article1:
+    id: 170922
+    title: What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article2:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+related_article3:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
+related_article4:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
+related_article5:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 ---
 
 &nbsp;

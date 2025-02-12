@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-big-o-notation-used-to-measure-algorithm-efficiency.md
 url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
 score: -1.0
+related_article1:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article2:
+    id: 170696
+    title: How does the base case function in both strong and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+related_article3:
+    id: 170691
+    title: What is the base case in normal induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
+related_article4:
+    id: 170699
+    title: What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
+related_article5:
+    id: 170693
+    title: Describe how normal induction can be applied to the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 ---
 
 &nbsp;

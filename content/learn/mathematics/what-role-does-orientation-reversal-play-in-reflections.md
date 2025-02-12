@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-role-does-orientation-reversal-play-in-reflections.md
 url: /learn/mathematics/questions/what-role-does-orientation-reversal-play-in-reflections
 score: -1.0
+related_article1:
+    id: 162511
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article2:
+    id: 162910
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article3:
+    id: 162388
+    title: How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+related_article4:
+    id: 162894
+    title: Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article5:
+    id: 162824
+    title: What role do reflections play in symmetry analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
 ---
 
 &nbsp;

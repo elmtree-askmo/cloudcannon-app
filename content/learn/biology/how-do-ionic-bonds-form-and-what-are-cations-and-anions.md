@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-ionic-bonds-form-and-what-are-cations-and-anions.md
 url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 score: -1.0
+related_article1:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article2:
+    id: 167408
+    title: Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article3:
+    id: 167412
+    title: Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article4:
+    id: 167412
+    title: Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article5:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 ---
 
 &nbsp;

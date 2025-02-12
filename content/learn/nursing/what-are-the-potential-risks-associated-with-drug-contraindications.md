@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-risks-associated-with-drug-contraindications.md
 url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
 score: -1.0
+related_article1:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article2:
+    id: 166464
+    title: What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article3:
+    id: 166457
+    title: What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article4:
+    id: 166465
+    title: How do agonist medications differ from antagonist medications in their mechanism of action?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
+related_article5:
+    id: 166458
+    title: Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
 ---
 
 &nbsp;

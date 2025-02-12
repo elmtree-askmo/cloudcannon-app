@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-geometric-interpretation-of-a-derivative.md
 url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
 score: -1.0
+related_article1:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article2:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article3:
+    id: 168329
+    title: What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
+related_article4:
+    id: 168325
+    title: What is the definition of a function and how do you determine its domain and range?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-function-and-how-do-you-determine-its-domain-and-range
+related_article5:
+    id: 168329
+    title: What are the limit laws and how are they used to calculate limits?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 ---
 
 &nbsp;

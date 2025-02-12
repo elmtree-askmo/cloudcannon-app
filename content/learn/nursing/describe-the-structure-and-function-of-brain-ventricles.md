@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-brain-ventricles.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
 score: -1.0
+related_article1:
+    id: 164796
+    title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article2:
+    id: 164795
+    title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
+related_article3:
+    id: 164800
+    title: Explain the significance of neuron connections in neural communication.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
+related_article4:
+    id: 164816
+    title: How does an epidural provide pain management during medical procedures?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+related_article5:
+    id: 164807
+    title: How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
 ---
 
 &nbsp;

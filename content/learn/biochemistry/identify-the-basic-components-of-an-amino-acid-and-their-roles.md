@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: identify-the-basic-components-of-an-amino-acid-and-their-roles.md
 url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
 score: -1.0
+related_article1:
+    id: 167233
+    title: How do molecular chaperones assist in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+related_article2:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article3:
+    id: 167242
+    title: What role do polar and nonpolar R-groups play in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
+related_article4:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article5:
+    id: 167240
+    title: How does the variability of R-groups affect protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 ---
 
 &nbsp;

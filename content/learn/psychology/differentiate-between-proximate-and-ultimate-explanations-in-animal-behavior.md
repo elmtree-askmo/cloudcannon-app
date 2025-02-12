@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior.md
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
 score: -1.0
+related_article1:
+    id: 166414
+    title: How does migration impact genetic diversity and population dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
+related_article2:
+    id: 166420
+    title: Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article3:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article4:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article5:
+    id: 166406
+    title: What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
 ---
 
 &nbsp;

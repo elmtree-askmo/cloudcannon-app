@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people.md
 url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
 score: -1.0
+related_article1:
+    id: 163672
+    title: How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article2:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article3:
+    id: 163665
+    title: How do epistemological claims influence knowledge production in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+related_article4:
+    id: 163658
+    title: What are the key differences between participant observation and interviews in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
+related_article5:
+    id: 163665
+    title: How do epistemological claims influence knowledge production in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
 ---
 
 &nbsp;

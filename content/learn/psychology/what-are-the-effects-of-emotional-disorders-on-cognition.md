@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-emotional-disorders-on-cognition.md
 url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
 score: -1.0
+related_article1:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article2:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article3:
+    id: 164682
+    title: How does the brain adapt following an injury?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
+related_article4:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article5:
+    id: 164676
+    title: What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 ---
 
 &nbsp;

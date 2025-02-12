@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-major-psychological-theories-apply-to-therapy-and-counseling.md
 url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
 score: -1.0
+related_article1:
+    id: 167708
+    title: What are the main stages of cognitive and social development in childhood and adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
+related_article2:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article3:
+    id: 167700
+    title: What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article4:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article5:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 ---
 
 &nbsp;

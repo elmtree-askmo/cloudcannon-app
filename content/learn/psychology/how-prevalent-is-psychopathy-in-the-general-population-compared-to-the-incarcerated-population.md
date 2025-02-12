@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population.md
 url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
 score: -1.0
+related_article1:
+    id: 163631
+    title: What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
+related_article2:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article3:
+    id: 163635
+    title: What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
+related_article4:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article5:
+    id: 163641
+    title: What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
 ---
 
 &nbsp;

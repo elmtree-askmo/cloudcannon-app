@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-characteristics-make-a-theory-effective-in-psychotherapy.md
 url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
 score: -1.0
+related_article1:
+    id: 163029
+    title: Why is empirical support crucial for the validity of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+related_article2:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+related_article3:
+    id: 163025
+    title: How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+related_article4:
+    id: 163039
+    title: Why is construct validity important in psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+related_article5:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
 ---
 
 &nbsp;

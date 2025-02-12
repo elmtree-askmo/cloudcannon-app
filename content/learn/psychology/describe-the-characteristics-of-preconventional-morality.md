@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-characteristics-of-preconventional-morality.md
 url: /learn/psychology/questions/describe-the-characteristics-of-preconventional-morality
 score: -1.0
+related_article1:
+    id: 164127
+    title: Explain the concept of a universal invariant sequence in moral development.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-a-universal-invariant-sequence-in-moral-development
+related_article2:
+    id: 164130
+    title: How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
+related_article3:
+    id: 164133
+    title: What strategies can schools use to foster moral development through a just community approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-schools-use-to-foster-moral-development-through-a-just-community-approach
+related_article4:
+    id: 164130
+    title: How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
+related_article5:
+    id: 164130
+    title: How does post-conventional morality differ from conventional morality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-postconventional-morality-differ-from-conventional-morality
 ---
 
 &nbsp;

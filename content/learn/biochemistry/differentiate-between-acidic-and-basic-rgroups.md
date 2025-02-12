@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: differentiate-between-acidic-and-basic-rgroups.md
 url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
 score: -1.0
+related_article1:
+    id: 167246
+    title: Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article2:
+    id: 167243
+    title: How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+related_article3:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article4:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article5:
+    id: 167245
+    title: What is the role of heat shock proteins in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws.md
 url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
 score: -1.0
+related_article1:
+    id: 165562
+    title: How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article2:
+    id: 165564
+    title: Explain the concept of conservation of angular momentum and its mathematical basis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
+related_article3:
+    id: 165561
+    title: What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article4:
+    id: 165564
+    title: Explain the concept of conservation of angular momentum and its mathematical basis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
+related_article5:
+    id: 165565
+    title: How are symbols and equations used in mathematical reasoning within physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
 ---
 
 &nbsp;

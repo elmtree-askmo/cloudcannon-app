@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization.md
 url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 score: -1.0
+related_article1:
+    id: 160555
+    title: What skills are essential for effective data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-skills-are-essential-for-effective-data-interpretation-and-problem-solving-in-critical-thinking
+related_article2:
+    id: 160077
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article3:
+    id: 160644
+    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+related_article4:
+    id: 160083
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160510
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 ---
 
 &nbsp;

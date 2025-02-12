@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-economic-and-social-issues-influence-voting-behavior-in-canada.md
 url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 score: -1.0
+related_article1:
+    id: 165631
+    title: What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
+related_article2:
+    id: 165634
+    title: How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article3:
+    id: 165634
+    title: How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article4:
+    id: 165635
+    title: How do economic and social policies interconnect in political dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
+related_article5:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function.md
 url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 score: -1.0
+related_article1:
+    id: 164344
+    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
+related_article2:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+related_article3:
+    id: 164334
+    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article4:
+    id: 164337
+    title: How does fMRI differ from EEG in studying brain region activation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
 ---
 
 &nbsp;

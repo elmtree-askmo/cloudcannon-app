@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose.md
 url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
 score: -1.0
+related_article1:
+    id: 170278
+    title: What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article2:
+    id: 170279
+    title: Define a parameter and a statistic in the context of statistical analysis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
+related_article3:
+    id: 170282
+    title: Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
+related_article4:
+    id: 170278
+    title: What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article5:
+    id: 170281
+    title: What is the difference between discrete and continuous quantitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
 ---
 
 &nbsp;

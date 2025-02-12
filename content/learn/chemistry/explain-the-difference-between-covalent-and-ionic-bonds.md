@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: explain-the-difference-between-covalent-and-ionic-bonds.md
 url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
 score: -1.0
+related_article1:
+    id: 167558
+    title: List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article2:
+    id: 167567
+    title: Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
+related_article3:
+    id: 167566
+    title: What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article4:
+    id: 167567
+    title: Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
 ---
 
 &nbsp;

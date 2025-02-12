@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-opposition-parties-contribute-to-political-accountability-in-governance.md
 url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
 score: -1.0
+related_article1:
+    id: 165624
+    title: Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
+related_article2:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article3:
+    id: 165631
+    title: What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
+related_article4:
+    id: 165632
+    title: How do media and polls influence public opinion during election campaigns?
+    subject: Politics
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
+related_article5:
+    id: 165622
+    title: How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 ---
 
 &nbsp;

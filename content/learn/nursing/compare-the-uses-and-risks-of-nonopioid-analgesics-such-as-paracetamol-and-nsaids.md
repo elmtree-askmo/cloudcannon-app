@@ -21,6 +21,31 @@ subject: Nursing
 file_name: compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids.md
 url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
 score: -1.0
+related_article1:
+    id: 169796
+    title: Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article2:
+    id: 169801
+    title: What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article3:
+    id: 169800
+    title: How can healthcare providers identify and assess drug-seeking behavior in patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
+related_article4:
+    id: 169801
+    title: What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article5:
+    id: 169793
+    title: What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 ---
 
 &nbsp;

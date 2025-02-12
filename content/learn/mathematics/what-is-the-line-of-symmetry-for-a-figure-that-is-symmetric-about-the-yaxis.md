@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis.md
 url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
 score: -1.0
+related_article1:
+    id: 163852
+    title: Describe the result of a 180° rotation on a point's coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
+related_article2:
+    id: 163851
+    title: How does a reflection over the Y-axis affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
+related_article3:
+    id: 163852
+    title: Describe the result of a 180° rotation on a point's coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
+related_article4:
+    id: 163852
+    title: Describe the result of a 180° rotation on a point's coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
+related_article5:
+    id: 163858
+    title: What is the defining property of a circle in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences.md
 url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
 score: -1.0
+related_article1:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+related_article2:
+    id: 164188
+    title: How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
+related_article3:
+    id: 164197
+    title: How do family involvement and educational interventions play a role in resisting disconnection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+related_article4:
+    id: 164194
+    title: How do teacher expectations and peer pressure contribute to the impact on academic achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-teacher-expectations-and-peer-pressure-contribute-to-the-impact-on-academic-achievement
+related_article5:
+    id: 164200
+    title: How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
 ---
 
 &nbsp;

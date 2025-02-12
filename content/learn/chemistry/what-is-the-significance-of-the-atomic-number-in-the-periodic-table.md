@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-atomic-number-in-the-periodic-table.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 score: -1.0
+related_article1:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article2:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article3:
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article4:
+    id: 166796
+    title: What are the building blocks of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article5:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 ---
 
 &nbsp;

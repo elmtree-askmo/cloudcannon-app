@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression.md
 url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 score: -1.0
+related_article1:
+    id: 168118
+    title: What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article2:
+    id: 168123
+    title: How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article3:
+    id: 168130
+    title: How do parental expectations contribute to gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
+related_article4:
+    id: 168116
+    title: How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

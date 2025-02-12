@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-three-main-subatomic-particles-and-their-charges.md
 url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
 score: -1.0
+related_article1:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article2:
+    id: 169957
+    title: What is the function of the nucleoid region in prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
+related_article3:
+    id: 169958
+    title: How do eukaryotic cells achieve compartmentalization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-eukaryotic-cells-achieve-compartmentalization
+related_article4:
+    id: 169962
+    title: How does active transport differ from passive transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article5:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 ---
 
 &nbsp;

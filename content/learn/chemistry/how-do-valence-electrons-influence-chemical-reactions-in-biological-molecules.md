@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules.md
 url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article2:
+    id: 167564
+    title: What is electronegativity and how is it measured on the Pauling scale?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
+related_article3:
+    id: 167565
+    title: Describe the unique characteristics of carbon that make it essential for macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
+related_article4:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+related_article5:
+    id: 167565
+    title: Describe the unique characteristics of carbon that make it essential for macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-unique-characteristics-of-carbon-that-make-it-essential-for-macromolecules
 ---
 
 &nbsp;

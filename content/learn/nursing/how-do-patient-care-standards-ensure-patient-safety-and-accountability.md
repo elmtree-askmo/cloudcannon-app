@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-patient-care-standards-ensure-patient-safety-and-accountability.md
 url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 score: -1.0
+related_article1:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article2:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article3:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article4:
+    id: 169555
+    title: What are the key principles of accountability in healthcare practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
+related_article5:
+    id: 169553
+    title: What is the definition of delegation in healthcare, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 ---
 
 &nbsp;

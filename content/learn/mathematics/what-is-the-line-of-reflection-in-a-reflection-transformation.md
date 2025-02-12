@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-line-of-reflection-in-a-reflection-transformation.md
 url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 score: -1.0
+related_article1:
+    id: 162630
+    title: How can symmetry be identified in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
+related_article2:
+    id: 162635
+    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article3:
+    id: 162907
+    title: Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article4:
+    id: 162798
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article5:
+    id: 162702
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 ---
 
 &nbsp;

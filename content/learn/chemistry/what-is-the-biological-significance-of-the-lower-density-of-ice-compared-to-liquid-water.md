@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water.md
 url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 score: -1.0
+related_article1:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article2:
+    id: 167440
+    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+related_article3:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article4:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article5:
+    id: 167429
+    title: What is adhesion and how does it differ from cohesion in terms of mechanism?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
 ---
 
 &nbsp;

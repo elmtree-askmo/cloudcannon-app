@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions.md
 url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
 score: -1.0
+related_article1:
+    id: 166336
+    title: What is the relationship between fitness, survival, and reproduction in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
+related_article2:
+    id: 166323
+    title: What role does natural selection play in the evolutionary change of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
+related_article3:
+    id: 166321
+    title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 166322
+    title: How do ultimate questions differ from proximate questions in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
+related_article5:
+    id: 166330
+    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
 ---
 
 &nbsp;

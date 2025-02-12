@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation.md
 url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
 score: -1.0
+related_article1:
+    id: 166485
+    title: How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article2:
+    id: 166485
+    title: How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article3:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article4:
+    id: 166475
+    title: What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
+related_article5:
+    id: 166474
+    title: How does definitive treatment differ from empiric treatment in terms of timing and application?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-definitive-treatment-differ-from-empiric-treatment-in-terms-of-timing-and-application
 ---
 
 &nbsp;

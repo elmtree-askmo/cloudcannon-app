@@ -21,6 +21,26 @@ subject: Economics
 file_name: explain-the-fundamental-economic-concepts-of-scarcity-and-choice.md
 url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 score: -1.0
+related_article1:
+    id: 169930
+    title: How does education function as an investment in the labor market?
+    subject: Economics
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+related_article2:
+    id: 169928
+    title: What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article3:
+    id: 169925
+    title: How do supply and demand dynamics influence pricing strategies in a market?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
+related_article4:
+    id: 169925
+    title: How do supply and demand dynamics influence pricing strategies in a market?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
 ---
 
 &nbsp;

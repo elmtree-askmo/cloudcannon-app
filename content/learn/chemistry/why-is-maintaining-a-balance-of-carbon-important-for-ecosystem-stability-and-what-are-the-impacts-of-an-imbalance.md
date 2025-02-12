@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance.md
 url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 score: -1.0
+related_article1:
+    id: 170420
+    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+related_article2:
+    id: 170415
+    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article3:
+    id: 170419
+    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+related_article4:
+    id: 170396
+    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+related_article5:
+    id: 170412
+    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-significance-of-relative-movements-in-machining-operations-and-how-do-they-affect-the-trajectory-of-the-tool.md
 url: /learn/engineering/questions/what-is-the-significance-of-relative-movements-in-machining-operations-and-how-do-they-affect-the-trajectory-of-the-tool
 score: -1.0
+related_article1:
+    id: 168705
+    title: What are the common applications of using a driver between centers in workpiece fixation?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
+related_article2:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+related_article3:
+    id: 168712
+    title: What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
+related_article4:
+    id: 168709
+    title: What are the techniques used in facing and taper turning on a lathe?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+related_article5:
+    id: 168700
+    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
 ---
 
 &nbsp;

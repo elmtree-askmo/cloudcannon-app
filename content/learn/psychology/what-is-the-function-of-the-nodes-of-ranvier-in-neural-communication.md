@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication.md
 url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 score: -1.0
+related_article1:
+    id: 164820
+    title: What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article2:
+    id: 164818
+    title: How do ion concentration differences contribute to the resting potential of a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
+related_article3:
+    id: 164823
+    title: How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
+related_article4:
+    id: 164829
+    title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
+related_article5:
+    id: 164819
+    title: What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 ---
 
 &nbsp;

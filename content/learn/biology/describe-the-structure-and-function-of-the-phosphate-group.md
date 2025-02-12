@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-and-function-of-the-phosphate-group.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-the-phosphate-group
 score: -1.0
+related_article1:
+    id: 167410
+    title: Describe the structure and function of the methyl group.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+related_article2:
+    id: 167412
+    title: Explain the structure and function of the hydroxyl group.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+related_article3:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article4:
+    id: 167420
+    title: How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
+related_article5:
+    id: 167419
+    title: What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 ---
 
 &nbsp;

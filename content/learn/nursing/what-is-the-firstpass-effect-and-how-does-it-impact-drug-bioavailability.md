@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability.md
 url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
 score: -1.0
+related_article1:
+    id: 166472
+    title: What is the focus of palliative care in pharmacotherapeutics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article2:
+    id: 166461
+    title: How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
+related_article3:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article4:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article5:
+    id: 166461
+    title: How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 ---
 
 &nbsp;

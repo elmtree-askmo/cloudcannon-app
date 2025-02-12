@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system.md
 url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
 score: -1.0
+related_article1:
+    id: 165411
+    title: What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article2:
+    id: 165394
+    title: What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+related_article3:
+    id: 165392
+    title: What is the central unit in the metric system number line?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-central-unit-in-the-metric-system-number-line
+related_article4:
+    id: 165408
+    title: What is the practical application of drawing a number line in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
+related_article5:
+    id: 165403
+    title: What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
 ---
 
 &nbsp;

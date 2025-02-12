@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-common-error-related-to-the-base-case-in-induction.md
 url: /learn/mathematics/questions/what-is-a-common-error-related-to-the-base-case-in-induction
 score: -1.0
+related_article1:
+    id: 170772
+    title: What are the properties of natural numbers that make them suitable for induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+related_article2:
+    id: 170760
+    title: Describe a scenario where strong induction is more applicable than simple induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
+related_article3:
+    id: 170763
+    title: Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article4:
+    id: 170773
+    title: Explain the role of the successor function in the context of natural numbers.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
+related_article5:
+    id: 170759
+    title: What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 ---
 
 &nbsp;

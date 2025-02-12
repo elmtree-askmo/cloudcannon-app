@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-competence-defined-and-assessed-in-healthcare.md
 url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
 score: -1.0
+related_article1:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article2:
+    id: 169564
+    title: Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article3:
+    id: 169566
+    title: What are some ways to build competence through experience?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+related_article4:
+    id: 169555
+    title: What are the key principles of accountability in healthcare practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
+related_article5:
+    id: 169561
+    title: Why is patient safety a critical concern in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
 ---
 
 &nbsp;

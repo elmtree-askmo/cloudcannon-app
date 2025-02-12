@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions.md
 url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 score: -1.0
+related_article1:
+    id: 163783
+    title: Why are cube root functions considered continuous functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+related_article2:
+    id: 163746
+    title: How do cube root functions differ from square root functions in terms of perfect cubes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article3:
+    id: 163777
+    title: What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article4:
+    id: 163768
+    title: How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article5:
+    id: 163772
+    title: Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
 ---
 
 &nbsp;

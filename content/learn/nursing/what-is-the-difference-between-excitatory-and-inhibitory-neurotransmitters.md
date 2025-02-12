@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters.md
 url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
 score: -1.0
+related_article1:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article2:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article3:
+    id: 170488
+    title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
+related_article4:
+    id: 170499
+    title: How does synaptic plasticity contribute to neuroplasticity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
+related_article5:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
 ---
 
 &nbsp;

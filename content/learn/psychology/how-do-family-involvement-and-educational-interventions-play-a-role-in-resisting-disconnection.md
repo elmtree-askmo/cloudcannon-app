@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection.md
 url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
 score: -1.0
+related_article1:
+    id: 164196
+    title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+related_article2:
+    id: 164192
+    title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
+related_article3:
+    id: 164190
+    title: What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
+related_article4:
+    id: 164196
+    title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+related_article5:
+    id: 164188
+    title: How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
 ---
 
 &nbsp;

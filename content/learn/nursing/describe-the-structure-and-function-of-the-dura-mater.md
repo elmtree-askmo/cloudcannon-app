@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-the-dura-mater.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
 score: -1.0
+related_article1:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article2:
+    id: 170451
+    title: How are dermatomes mapped, and what is their clinical significance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
+related_article3:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article4:
+    id: 170445
+    title: Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article5:
+    id: 170456
+    title: What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

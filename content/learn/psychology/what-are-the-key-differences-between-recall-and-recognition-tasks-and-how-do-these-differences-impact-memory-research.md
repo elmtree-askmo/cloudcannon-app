@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 score: -1.0
+related_article1:
+    id: 165199
+    title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
+related_article2:
+    id: 165195
+    title: What are the advantages of using a within-subject design in research, and how do counterbalancing techniques address order effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
+related_article3:
+    id: 165193
+    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article4:
+    id: 165200
+    title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
+related_article5:
+    id: 165193
+    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
 ---
 
 &nbsp;

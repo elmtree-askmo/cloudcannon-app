@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-thalamus-play-in-sensory-input-processing.md
 url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
 score: -1.0
+related_article1:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article2:
+    id: 170570
+    title: What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article3:
+    id: 170593
+    title: What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article4:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article5:
+    id: 170595
+    title: What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
 ---
 
 &nbsp;

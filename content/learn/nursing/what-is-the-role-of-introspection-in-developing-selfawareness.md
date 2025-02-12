@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-introspection-in-developing-selfawareness.md
 url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
 score: -1.0
+related_article1:
+    id: 169810
+    title: What is the significance of continuous learning in professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
+related_article2:
+    id: 169810
+    title: What is the significance of continuous learning in professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
+related_article3:
+    id: 169824
+    title: How do professional values influence career development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
+related_article4:
+    id: 169821
+    title: What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+related_article5:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation.md
 url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 score: -1.0
+related_article1:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+related_article2:
+    id: 170500
+    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article3:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article4:
+    id: 170497
+    title: Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article5:
+    id: 170492
+    title: What is the difference between excitatory and inhibitory neurotransmitters?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
 ---
 
 &nbsp;

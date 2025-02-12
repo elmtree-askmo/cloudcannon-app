@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex.md
 url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
 score: -1.0
+related_article1:
+    id: 163747
+    title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+related_article2:
+    id: 163743
+    title: How does the leading coefficient affect the shape and direction of a parabola?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
+related_article3:
+    id: 163754
+    title: How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
+related_article4:
+    id: 163756
+    title: How does the leading coefficient influence the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-influence-the-direction-in-which-a-parabola-opens
+related_article5:
+    id: 163757
+    title: Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
 ---
 
 &nbsp;

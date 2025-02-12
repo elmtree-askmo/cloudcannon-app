@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons.md
 url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
 score: -1.0
+related_article1:
+    id: 168817
+    title: What is the role of epithelial cells in the absorption of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+related_article2:
+    id: 168813
+    title: Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article3:
+    id: 168815
+    title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+related_article4:
+    id: 168814
+    title: What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
+related_article5:
+    id: 168813
+    title: Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
 ---
 
 &nbsp;

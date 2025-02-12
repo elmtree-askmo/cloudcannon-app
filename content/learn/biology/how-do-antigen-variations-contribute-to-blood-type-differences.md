@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-antigen-variations-contribute-to-blood-type-differences.md
 url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
 score: -1.0
+related_article1:
+    id: 167880
+    title: Describe the difference between autosomal recessive and autosomal dominant disorders.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
+related_article2:
+    id: 167879
+    title: What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+related_article3:
+    id: 167873
+    title: Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article4:
+    id: 167893
+    title: Explain the role of antigens in determining blood types.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+related_article5:
+    id: 167880
+    title: Describe the difference between autosomal recessive and autosomal dominant disorders.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
 ---
 
 &nbsp;

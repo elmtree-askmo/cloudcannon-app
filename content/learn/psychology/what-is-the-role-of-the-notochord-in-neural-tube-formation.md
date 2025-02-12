@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-notochord-in-neural-tube-formation.md
 url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 score: -1.0
+related_article1:
+    id: 164570
+    title: What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article2:
+    id: 164576
+    title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
+related_article3:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article4:
+    id: 164584
+    title: What are the main differences in brain structure and function between the two hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
+related_article5:
+    id: 164583
+    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
 ---
 
 &nbsp;

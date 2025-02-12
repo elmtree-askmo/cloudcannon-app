@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-stabilizing-selection-and-how-does-it-affect-a-population.md
 url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 score: -1.0
+related_article1:
+    id: 165297
+    title: Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+related_article2:
+    id: 165314
+    title: What are the genetic bases and advantages of pack hunting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article3:
+    id: 165301
+    title: How do environmental factors influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
+related_article4:
+    id: 165291
+    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+related_article5:
+    id: 165300
+    title: Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 ---
 
 &nbsp;

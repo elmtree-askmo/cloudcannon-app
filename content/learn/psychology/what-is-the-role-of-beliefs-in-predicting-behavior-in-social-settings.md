@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings.md
 url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
 score: -1.0
+related_article1:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article2:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article3:
+    id: 167972
+    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article4:
+    id: 167973
+    title: Describe the Change of Location Task and its role in assessing false belief understanding.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
+related_article5:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 ---
 
 &nbsp;

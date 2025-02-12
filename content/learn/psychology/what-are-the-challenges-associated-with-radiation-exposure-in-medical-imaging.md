@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
 score: -1.0
+related_article1:
+    id: 164351
+    title: How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article2:
+    id: 164349
+    title: What role do X-rays play in the functioning of a CAT scan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
+related_article3:
+    id: 164352
+    title: What is the importance of functional imaging in measuring blood flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
+related_article4:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article5:
+    id: 164359
+    title: How does neuroimaging enhance the understanding of neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
 ---
 
 &nbsp;

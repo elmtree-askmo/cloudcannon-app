@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function.md
 url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
 score: -1.0
+related_article1:
+    id: 163828
+    title: How can the average rate of change help in describing the behavior of a function graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-help-in-describing-the-behavior-of-a-function-graph
+related_article2:
+    id: 163810
+    title: Name three types of non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+related_article3:
+    id: 163811
+    title: What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article4:
+    id: 163826
+    title: How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article5:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 ---
 
 &nbsp;

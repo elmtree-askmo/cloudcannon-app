@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-cognitive-functions-in-music-relate-to-language-processing.md
 url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
 score: -1.0
+related_article1:
+    id: 164391
+    title: How does cognitive psychology contribute to our understanding of speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+related_article2:
+    id: 164392
+    title: Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article3:
+    id: 164402
+    title: Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article4:
+    id: 164381
+    title: How does the right brain hemisphere contribute to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
+related_article5:
+    id: 164395
+    title: What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology.md
 url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
 score: -1.0
+related_article1:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+related_article2:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+related_article3:
+    id: 170032
+    title: What is the role of the social environment in shaping behavior according to environmental influence theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
+related_article4:
+    id: 170027
+    title: How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article5:
+    id: 170013
+    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
 ---
 
 &nbsp;

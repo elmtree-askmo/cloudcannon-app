@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns.md
 url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
 score: -1.0
+related_article1:
+    id: 160541
+    title: Explain the concept of time-space compression in the context of globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
+related_article2:
+    id: 160504
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+related_article3:
+    id: 160637
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+related_article4:
+    id: 160083
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160097
+    title: What is the role of political geography in understanding borders and boundaries within territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
 ---
 
 &nbsp;

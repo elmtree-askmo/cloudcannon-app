@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
 score: -1.0
+related_article1:
+    id: 170692
+    title: How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article2:
+    id: 170692
+    title: How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article3:
+    id: 170687
+    title: What is the key difference between strong induction and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
+related_article4:
+    id: 170706
+    title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
+related_article5:
+    id: 170689
+    title: In what way is strong induction applied to solve the Coin Change Problem?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 ---
 
 &nbsp;

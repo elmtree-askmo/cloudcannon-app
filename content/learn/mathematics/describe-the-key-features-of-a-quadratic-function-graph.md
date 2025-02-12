@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-key-features-of-a-quadratic-function-graph.md
 url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 score: -1.0
+related_article1:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article2:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article3:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article4:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article5:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills.md
 url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
 score: -1.0
+related_article1:
+    id: 160634
+    title: How do physical geography and human geography contribute to spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
+related_article2:
+    id: 160217
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article3:
+    id: 160551
+    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+related_article4:
+    id: 160231
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article5:
+    id: 160553
+    title: What are the main factors contributing to social inequality within social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
 ---
 
 &nbsp;

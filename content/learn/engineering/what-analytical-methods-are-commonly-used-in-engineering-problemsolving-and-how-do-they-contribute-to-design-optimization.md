@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization.md
 url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
 score: -1.0
+related_article1:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+related_article2:
+    id: 166670
+    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article3:
+    id: 166672
+    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+related_article4:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article5:
+    id: 166656
+    title: What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Sociology
 file_name: how-did-tiananmen-square-evolve-into-a-political-public-space-over-time.md
 url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
 score: -1.0
+related_article1:
+    id: 169051
+    title: What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+related_article2:
+    id: 169039
+    title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
+related_article3:
+    id: 169045
+    title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
+related_article4:
+    id: 169040
+    title: How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 ---
 
 &nbsp;

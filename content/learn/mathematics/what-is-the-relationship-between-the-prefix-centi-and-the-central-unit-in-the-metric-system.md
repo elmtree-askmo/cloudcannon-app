@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
 score: -1.0
+related_article1:
+    id: 165393
+    title: How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article2:
+    id: 165398
+    title: How does the prefix 'deci' relate to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
+related_article3:
+    id: 165414
+    title: What is the conversion process from grams to milligrams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
+related_article4:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+related_article5:
+    id: 165414
+    title: What is the conversion process from grams to milligrams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-management-strategies-can-be-employed-to-address-drugseeking-behavior.md
 url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 score: -1.0
+related_article1:
+    id: 169797
+    title: What is the holistic approach to pain management, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
+related_article2:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article3:
+    id: 169792
+    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+related_article4:
+    id: 169787
+    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+related_article5:
+    id: 169795
+    title: How can physical therapy contribute to non-pharmacological pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
 ---
 
 &nbsp;

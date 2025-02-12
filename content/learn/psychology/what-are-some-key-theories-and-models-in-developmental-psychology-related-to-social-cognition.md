@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition.md
 url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 score: -1.0
+related_article1:
+    id: 167978
+    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+related_article2:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+related_article3:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+related_article4:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+related_article5:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
 ---
 
 &nbsp;

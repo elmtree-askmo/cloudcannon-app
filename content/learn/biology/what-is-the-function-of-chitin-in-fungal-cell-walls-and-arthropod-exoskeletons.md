@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons.md
 url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 score: -1.0
+related_article1:
+    id: 167025
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article2:
+    id: 167022
+    title: What are some common examples of disaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
+related_article3:
+    id: 167018
+    title: How do hydrolysis reactions contribute to metabolism?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
+related_article4:
+    id: 167021
+    title: How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article5:
+    id: 167020
+    title: What is the difference between alpha and beta ring structures in monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
 ---
 
 &nbsp;

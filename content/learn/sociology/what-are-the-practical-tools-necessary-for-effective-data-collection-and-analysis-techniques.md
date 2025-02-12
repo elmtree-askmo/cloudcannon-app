@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques.md
 url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
 score: -1.0
+related_article1:
+    id: 160512
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article2:
+    id: 160084
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article3:
+    id: 160644
+    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+related_article4:
+    id: 160496
+    title: In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article5:
+    id: 160223
+    title: How do physical geography and human geography contribute to spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 ---
 
 &nbsp;

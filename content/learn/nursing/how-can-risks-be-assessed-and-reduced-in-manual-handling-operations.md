@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-risks-be-assessed-and-reduced-in-manual-handling-operations.md
 url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
 score: -1.0
+related_article1:
+    id: 169514
+    title: How can compliance with safety regulations be ensured during equipment servicing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+related_article2:
+    id: 169497
+    title: What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
+related_article3:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article4:
+    id: 169505
+    title: What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
+related_article5:
+    id: 169504
+    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 ---
 
 &nbsp;

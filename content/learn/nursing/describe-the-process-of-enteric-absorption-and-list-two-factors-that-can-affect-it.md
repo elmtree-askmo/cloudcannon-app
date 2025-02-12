@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it.md
 url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 score: -1.0
+related_article1:
+    id: 166428
+    title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+related_article2:
+    id: 166426
+    title: Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+related_article3:
+    id: 166423
+    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
+related_article4:
+    id: 166436
+    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Nursing
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+related_article5:
+    id: 166432
+    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
 ---
 
 &nbsp;

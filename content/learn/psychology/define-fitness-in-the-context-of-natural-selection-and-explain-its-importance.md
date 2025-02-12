@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-fitness-in-the-context-of-natural-selection-and-explain-its-importance.md
 url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 score: -1.0
+related_article1:
+    id: 165306
+    title: Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
+related_article2:
+    id: 165290
+    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article3:
+    id: 165293
+    title: What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article4:
+    id: 165287
+    title: What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+related_article5:
+    id: 165308
+    title: Provide an example of a case study that illustrates behavioral selection.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste.md
 url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
 score: -1.0
+related_article1:
+    id: 169714
+    title: How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article2:
+    id: 169714
+    title: How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article3:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+related_article4:
+    id: 169709
+    title: What role do the pulmonary artery and vein play in blood circulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+related_article5:
+    id: 169726
+    title: What are the health implications of being classified as overweight or obese?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 ---
 
 &nbsp;

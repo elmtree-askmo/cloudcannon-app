@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-stages-of-preconventional-morality-in-colbergs-theory.md
 url: /learn/psychology/questions/describe-the-stages-of-preconventional-morality-in-colbergs-theory
 score: -1.0
+related_article1:
+    id: 164216
+    title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
+related_article2:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+related_article3:
+    id: 164218
+    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article4:
+    id: 164221
+    title: Explain the stages of post morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+related_article5:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

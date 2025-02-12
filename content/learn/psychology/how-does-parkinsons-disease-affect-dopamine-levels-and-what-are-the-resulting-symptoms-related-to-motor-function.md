@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function.md
 url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
 score: -1.0
+related_article1:
+    id: 164408
+    title: What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+related_article2:
+    id: 164410
+    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+related_article3:
+    id: 164410
+    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+related_article4:
+    id: 164406
+    title: What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+related_article5:
+    id: 164415
+    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
 ---
 
 &nbsp;

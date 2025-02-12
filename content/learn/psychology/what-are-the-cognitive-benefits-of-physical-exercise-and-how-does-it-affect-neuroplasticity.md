@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity.md
 url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
 score: -1.0
+related_article1:
+    id: 164536
+    title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
+related_article2:
+    id: 164533
+    title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+related_article3:
+    id: 164540
+    title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article4:
+    id: 164540
+    title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article5:
+    id: 164536
+    title: How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes.md
 url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
 score: -1.0
+related_article1:
+    id: 170434
+    title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+    subject: Biology
+    url: /learn/biology/questions/discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels
+related_article2:
+    id: 170431
+    title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
+related_article3:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
+related_article4:
+    id: 170426
+    title: How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
+related_article5:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

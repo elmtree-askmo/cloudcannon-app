@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony.md
 url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 score: -1.0
+related_article1:
+    id: 168027
+    title: How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+related_article2:
+    id: 168030
+    title: What are the developmental differences that affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+related_article3:
+    id: 168017
+    title: What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article4:
+    id: 168023
+    title: What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article5:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 ---
 
 &nbsp;

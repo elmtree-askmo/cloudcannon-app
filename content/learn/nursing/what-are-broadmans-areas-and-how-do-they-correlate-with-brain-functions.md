@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions.md
 url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
 score: -1.0
+related_article1:
+    id: 164745
+    title: What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
+related_article2:
+    id: 164736
+    title: How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article3:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+related_article4:
+    id: 164732
+    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+related_article5:
+    id: 164742
+    title: Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
 ---
 
 &nbsp;

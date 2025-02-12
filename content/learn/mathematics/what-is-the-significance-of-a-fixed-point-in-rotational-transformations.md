@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-a-fixed-point-in-rotational-transformations.md
 url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
 score: -1.0
+related_article1:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article2:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article3:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article4:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+related_article5:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 ---
 
 &nbsp;

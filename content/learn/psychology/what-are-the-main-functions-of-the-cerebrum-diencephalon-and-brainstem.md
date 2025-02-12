@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem.md
 url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 score: -1.0
+related_article1:
+    id: 170471
+    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+related_article2:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article3:
+    id: 170480
+    title: What are the pathophysiological features of Alzheimer's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+related_article4:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article5:
+    id: 170473
+    title: How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---
 
 &nbsp;

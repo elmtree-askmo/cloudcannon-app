@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-pseudopodia-in-protozoans.md
 url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
 score: -1.0
+related_article1:
+    id: 168681
+    title: What are the main characteristics that distinguish the Domain Archaea from other domains?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
+related_article2:
+    id: 168691
+    title: Describe the role of plasmodial slime molds in the ecosystem.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
+related_article3:
+    id: 168695
+    title: How do yeasts reproduce asexually in Phylum Ascomycota?
+    subject: Biology
+    url: /learn/biology/questions/how-do-yeasts-reproduce-asexually-in-phylum-ascomycota
+related_article4:
+    id: 168687
+    title: What role do cyanobacteria play in nitrogen fixation?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
+related_article5:
+    id: 168688
+    title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
 ---
 
 &nbsp;

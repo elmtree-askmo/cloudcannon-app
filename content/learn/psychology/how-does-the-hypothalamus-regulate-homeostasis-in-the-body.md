@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-hypothalamus-regulate-homeostasis-in-the-body.md
 url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
 score: -1.0
+related_article1:
+    id: 170590
+    title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article2:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article3:
+    id: 170576
+    title: What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article4:
+    id: 170592
+    title: How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article5:
+    id: 170584
+    title: How does the olfactory bulb process sensory input related to smell?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
 ---
 
 &nbsp;

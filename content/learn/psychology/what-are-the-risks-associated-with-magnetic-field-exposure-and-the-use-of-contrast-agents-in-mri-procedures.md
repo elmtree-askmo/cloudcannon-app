@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures.md
 url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
 score: -1.0
+related_article1:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article2:
+    id: 164330
+    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+related_article3:
+    id: 164325
+    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article4:
+    id: 164323
+    title: What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article5:
+    id: 164322
+    title: How do attention disorders impact academic performance and social interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
 ---
 
 &nbsp;

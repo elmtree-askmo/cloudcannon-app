@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-target-unit-in-a-unit-conversion-process.md
 url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
 score: -1.0
+related_article1:
+    id: 165395
+    title: What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+related_article2:
+    id: 165408
+    title: What is the practical application of drawing a number line in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
+related_article3:
+    id: 165393
+    title: How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article4:
+    id: 165403
+    title: What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+related_article5:
+    id: 165410
+    title: How do you convert meters to centimeters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
 ---
 
 &nbsp;

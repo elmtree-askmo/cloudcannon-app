@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165843
+    title: What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article2:
+    id: 165842
+    title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+related_article3:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165830
+    title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
+related_article5:
+    id: 165843
+    title: What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-role-of-tool-holders-and-inserts-in-machining-operations.md
 url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
 score: -1.0
+related_article1:
+    id: 168705
+    title: What are the common applications of using a driver between centers in workpiece fixation?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
+related_article2:
+    id: 168707
+    title: What are the advantages of using modern cutting tools for external and groove machining?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
+related_article3:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
+related_article4:
+    id: 168705
+    title: What are the common applications of using a driver between centers in workpiece fixation?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
+related_article5:
+    id: 168713
+    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    subject: Engineering
+    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
 ---
 
 &nbsp;

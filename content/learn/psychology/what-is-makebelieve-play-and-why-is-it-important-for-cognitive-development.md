@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development.md
 url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
 score: -1.0
+related_article1:
+    id: 168103
+    title: Define representational thought and explain its importance in cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/define-representational-thought-and-explain-its-importance-in-cognitive-development
+related_article2:
+    id: 168108
+    title: What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article3:
+    id: 168092
+    title: What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
+related_article4:
+    id: 168108
+    title: What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article5:
+    id: 168095
+    title: Provide an example of a primary circular reaction.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
 ---
 
 &nbsp;

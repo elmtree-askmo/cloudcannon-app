@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth.md
 url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 score: -1.0
+related_article1:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article2:
+    id: 159671
+    title: How are member quotas and credit arrangements significant to the IMF's resources?
+    subject: Economics
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+related_article3:
+    id: 159667
+    title: How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+related_article4:
+    id: 159665
+    title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article5:
+    id: 159680
+    title: What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 ---
 
 &nbsp;

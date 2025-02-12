@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins.md
 url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
 score: -1.0
+related_article1:
+    id: 166838
+    title: What role do hormones play in the regulation of gene expression?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
+related_article2:
+    id: 166842
+    title: What is the importance of the primary structure in determining a protein's function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
+related_article3:
+    id: 166836
+    title: What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article4:
+    id: 166849
+    title: How do protein-based hormones like insulin function through receptor binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
+related_article5:
+    id: 166844
+    title: What interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

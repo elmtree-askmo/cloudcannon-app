@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects.md
 url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
 score: -1.0
+related_article1:
+    id: 164571
+    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
+related_article2:
+    id: 164567
+    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article3:
+    id: 164583
+    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
+related_article4:
+    id: 164570
+    title: What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article5:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
 ---
 
 &nbsp;

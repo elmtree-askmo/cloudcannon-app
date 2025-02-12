@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives.md
 url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
 score: -1.0
+related_article1:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article2:
+    id: 163360
+    title: How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+related_article3:
+    id: 163361
+    title: What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article4:
+    id: 163367
+    title: What are the primary communication channels for lab announcements and updates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+related_article5:
+    id: 163361
+    title: What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 ---
 
 &nbsp;

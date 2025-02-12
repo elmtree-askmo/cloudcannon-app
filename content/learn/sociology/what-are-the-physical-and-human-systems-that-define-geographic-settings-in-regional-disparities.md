@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities.md
 url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
 score: -1.0
+related_article1:
+    id: 160507
+    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article2:
+    id: 160548
+    title: What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+related_article3:
+    id: 160553
+    title: What are the main factors contributing to social inequality within social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+related_article4:
+    id: 160103
+    title: What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+related_article5:
+    id: 160079
+    title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 ---
 
 &nbsp;

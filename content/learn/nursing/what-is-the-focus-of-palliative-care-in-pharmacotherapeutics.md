@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-focus-of-palliative-care-in-pharmacotherapeutics.md
 url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
 score: -1.0
+related_article1:
+    id: 166456
+    title: How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
+related_article2:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article3:
+    id: 166464
+    title: What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article4:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article5:
+    id: 166463
+    title: How is the half-life of a drug calculated and why is it important in dosing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
 ---
 
 &nbsp;

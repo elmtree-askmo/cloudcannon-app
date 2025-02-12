@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-are-the-key-characteristics-of-carbonbased-organic-molecules.md
 url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
 score: -1.0
+related_article1:
+    id: 170973
+    title: What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article2:
+    id: 170960
+    title: What is the role of hydrogen bonds in molecular interactions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
+related_article3:
+    id: 170973
+    title: What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article4:
+    id: 170970
+    title: What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
 ---
 
 &nbsp;

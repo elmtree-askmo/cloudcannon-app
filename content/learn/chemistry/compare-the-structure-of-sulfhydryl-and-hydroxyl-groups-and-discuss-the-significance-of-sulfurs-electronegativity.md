@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity.md
 url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
 score: -1.0
+related_article1:
+    id: 167042
+    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article2:
+    id: 167035
+    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+related_article3:
+    id: 167037
+    title: Why is the hydroxyl group considered polar and hydrophilic?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+related_article4:
+    id: 167042
+    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article5:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 ---
 
 &nbsp;

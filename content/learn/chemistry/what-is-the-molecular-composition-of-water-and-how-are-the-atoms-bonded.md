@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded.md
 url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
 score: -1.0
+related_article1:
+    id: 167151
+    title: How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
+related_article2:
+    id: 167146
+    title: How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+related_article3:
+    id: 167147
+    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+related_article4:
+    id: 167146
+    title: How does adhesion enable capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+related_article5:
+    id: 167153
+    title: Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
 ---
 
 &nbsp;

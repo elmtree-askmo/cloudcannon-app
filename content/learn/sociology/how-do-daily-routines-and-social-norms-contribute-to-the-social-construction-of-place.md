@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place.md
 url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
 score: -1.0
+related_article1:
+    id: 159819
+    title: Explain the concept of social construction of place and its impact on collective memory.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory
+related_article2:
+    id: 159997
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article3:
+    id: 159826
+    title: How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article4:
+    id: 159831
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article5:
+    id: 159826
+    title: How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
 ---
 
 &nbsp;

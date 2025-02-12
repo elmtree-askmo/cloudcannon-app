@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt.md
 url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
 score: -1.0
+related_article1:
+    id: 168975
+    title: What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article2:
+    id: 168984
+    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+related_article3:
+    id: 168976
+    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article4:
+    id: 168976
+    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article5:
+    id: 168981
+    title: How did the January 25th Revolution lead to the symbolic reclamation of Tahrir Square?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-january-25th-revolution-lead-to-the-symbolic-reclamation-of-tahrir-square
 ---
 
 &nbsp;

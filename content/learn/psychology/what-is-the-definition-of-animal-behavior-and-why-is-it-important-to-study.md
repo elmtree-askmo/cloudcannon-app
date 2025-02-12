@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study.md
 url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
 score: -1.0
+related_article1:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article2:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article3:
+    id: 165309
+    title: What is the role of phylogenetic analysis in understanding evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+related_article4:
+    id: 165300
+    title: Why is genetic variation important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+related_article5:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 ---
 
 &nbsp;

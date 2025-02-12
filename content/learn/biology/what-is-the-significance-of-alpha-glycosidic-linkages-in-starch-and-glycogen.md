@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen.md
 url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
 score: -1.0
+related_article1:
+    id: 167309
+    title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
+related_article2:
+    id: 167299
+    title: What distinguishes branched polysaccharides from unbranched ones?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
+related_article3:
+    id: 167298
+    title: How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
+related_article4:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article5:
+    id: 167296
+    title: How does hydrolysis contribute to the breakdown of polymers?
+    subject: Biology
+    url: /learn/biology/questions/how-does-hydrolysis-contribute-to-the-breakdown-of-polymers
 ---
 
 &nbsp;

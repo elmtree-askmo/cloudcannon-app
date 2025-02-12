@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule.md
 url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
 score: -1.0
+related_article1:
+    id: 166997
+    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article2:
+    id: 166989
+    title: How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article3:
+    id: 166987
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article4:
+    id: 166991
+    title: How do polar and nonpolar molecules differ in their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
+related_article5:
+    id: 166993
+    title: How does the pH scale categorize strong acids and bases?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
 ---
 
 &nbsp;

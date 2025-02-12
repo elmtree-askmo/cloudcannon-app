@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory.md
 url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
 score: -1.0
+related_article1:
+    id: 167739
+    title: What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article2:
+    id: 167736
+    title: What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article3:
+    id: 167729
+    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article4:
+    id: 167725
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article5:
+    id: 167733
+    title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
 ---
 
 &nbsp;

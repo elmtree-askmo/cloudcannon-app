@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs.md
 url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
 score: -1.0
+related_article1:
+    id: 163613
+    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article2:
+    id: 163609
+    title: How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article3:
+    id: 163626
+    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article4:
+    id: 163613
+    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article5:
+    id: 163622
+    title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
 ---
 
 &nbsp;

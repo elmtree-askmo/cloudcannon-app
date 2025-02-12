@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-behavioral-economics-influence-public-policy.md
 url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 score: -1.0
+related_article1:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article2:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article3:
+    id: 168883
+    title: What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+related_article4:
+    id: 168879
+    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article5:
+    id: 168885
+    title: What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-acids-and-bases-according-to-the-proton-donoracceptor-concept.md
 url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 score: -1.0
+related_article1:
+    id: 167446
+    title: What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+related_article2:
+    id: 167444
+    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+related_article3:
+    id: 167452
+    title: What is the purpose of Lewis dot structures in representing molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article4:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article5:
+    id: 167448
+    title: How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process.md
 url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
 score: -1.0
+related_article1:
+    id: 164700
+    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article2:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article3:
+    id: 164702
+    title: Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
+    subject: Psychology
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
+related_article4:
+    id: 164705
+    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article5:
+    id: 164696
+    title: What are the key mechanisms of selective attention, and why is it important in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
 ---
 
 &nbsp;

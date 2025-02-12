@@ -21,6 +21,31 @@ subject: Nursing
 file_name: list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies.md
 url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
 score: -1.0
+related_article1:
+    id: 169799
+    title: What measures can be taken to ensure patient safety in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+related_article2:
+    id: 169792
+    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+related_article3:
+    id: 169794
+    title: Describe the role of gabapentin in managing neuropathic pain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
+related_article4:
+    id: 169792
+    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+related_article5:
+    id: 169793
+    title: What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 ---
 
 &nbsp;

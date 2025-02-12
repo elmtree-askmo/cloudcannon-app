@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant.md
 url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
 score: -1.0
+related_article1:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article2:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article3:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article4:
+    id: 170447
+    title: Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+related_article5:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
 ---
 
 &nbsp;

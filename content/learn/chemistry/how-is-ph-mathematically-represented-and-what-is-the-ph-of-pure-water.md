@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water.md
 url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
 score: -1.0
+related_article1:
+    id: 167116
+    title: What role does hydrogen bonding play in the cohesion of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
+related_article2:
+    id: 167116
+    title: What role does hydrogen bonding play in the cohesion of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
+related_article3:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article4:
+    id: 167116
+    title: What role does hydrogen bonding play in the cohesion of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
+related_article5:
+    id: 167124
+    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
 ---
 
 &nbsp;

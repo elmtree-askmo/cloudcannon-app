@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-integer-properties-be-used-in-inductive-proofs.md
 url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
 score: -1.0
+related_article1:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article2:
+    id: 170745
+    title: How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
+related_article3:
+    id: 170741
+    title: How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article4:
+    id: 170753
+    title: What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article5:
+    id: 170738
+    title: How does inductive reasoning differ from deductive reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 ---
 
 &nbsp;

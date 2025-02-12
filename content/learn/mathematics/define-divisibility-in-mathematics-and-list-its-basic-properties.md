@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-divisibility-in-mathematics-and-list-its-basic-properties.md
 url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
 score: -1.0
+related_article1:
+    id: 170755
+    title: What is the base case in the inductive principle, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
+related_article2:
+    id: 170770
+    title: What is the logical basis for the justification of induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
+related_article3:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article4:
+    id: 170766
+    title: Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+related_article5:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
 ---
 
 &nbsp;

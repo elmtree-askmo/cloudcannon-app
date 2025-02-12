@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-esophagus-use-peristaltic-waves-to-function.md
 url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
 score: -1.0
+related_article1:
+    id: 169724
+    title: What is referred pain and what are some common examples?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
+related_article2:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article3:
+    id: 169715
+    title: What is the role of hydrochloric acid in the stomach?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
+related_article4:
+    id: 169709
+    title: What role do the pulmonary artery and vein play in blood circulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+related_article5:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 ---
 
 &nbsp;

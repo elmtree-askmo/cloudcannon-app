@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization.md
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
 score: -1.0
+related_article1:
+    id: 164566
+    title: What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article2:
+    id: 164568
+    title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
+related_article3:
+    id: 164581
+    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+related_article4:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article5:
+    id: 164586
+    title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 ---
 
 &nbsp;

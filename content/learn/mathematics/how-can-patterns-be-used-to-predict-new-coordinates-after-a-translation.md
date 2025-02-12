@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation.md
 url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
 score: -1.0
+related_article1:
+    id: 162545
+    title: What is the significance of maintaining size and shape in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
+related_article2:
+    id: 162279
+    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article3:
+    id: 162276
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+related_article4:
+    id: 162547
+    title: How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article5:
+    id: 162541
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
 ---
 
 &nbsp;

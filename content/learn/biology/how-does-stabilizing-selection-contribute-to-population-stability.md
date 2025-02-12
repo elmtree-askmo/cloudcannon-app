@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-stabilizing-selection-contribute-to-population-stability.md
 url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
 score: -1.0
+related_article1:
+    id: 165264
+    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article2:
+    id: 165263
+    title: What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article3:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article4:
+    id: 165263
+    title: What is convergent evolution and how does it relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
+related_article5:
+    id: 165267
+    title: What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
 ---
 
 &nbsp;

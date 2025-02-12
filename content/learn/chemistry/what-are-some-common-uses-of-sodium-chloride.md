@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-some-common-uses-of-sodium-chloride.md
 url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
 score: -1.0
+related_article1:
+    id: 166802
+    title: What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article2:
+    id: 166807
+    title: Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article3:
+    id: 166805
+    title: Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article4:
+    id: 166805
+    title: Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article5:
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 ---
 
 &nbsp;

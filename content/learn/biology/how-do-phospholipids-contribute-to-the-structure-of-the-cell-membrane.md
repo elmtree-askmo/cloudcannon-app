@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane.md
 url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 168922
+    title: What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article2:
+    id: 168922
+    title: What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article3:
+    id: 168920
+    title: Explain the fluid mosaic model and its significance in membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity
+related_article4:
+    id: 168923
+    title: How do peripheral proteins assist in cell signaling and communication?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peripheral-proteins-assist-in-cell-signaling-and-communication
+related_article5:
+    id: 168924
+    title: What is the role of glycoproteins in cell recognition and immune response?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
 ---
 
 &nbsp;

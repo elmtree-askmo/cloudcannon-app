@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-general-shape-of-a-cubic-function-and-its-standard-form.md
 url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 score: -1.0
+related_article1:
+    id: 163844
+    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+related_article2:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article3:
+    id: 163841
+    title: Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article4:
+    id: 163839
+    title: What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article5:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 ---
 
 &nbsp;

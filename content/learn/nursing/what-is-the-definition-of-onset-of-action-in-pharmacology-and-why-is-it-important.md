@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important.md
 url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 166434
+    title: What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article2:
+    id: 166433
+    title: Explain the role of systemic circulation in drug distribution.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
+related_article3:
+    id: 166425
+    title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
+related_article4:
+    id: 166424
+    title: Describe the process of enteric absorption and list two factors that can affect it.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
+related_article5:
+    id: 166433
+    title: Explain the role of systemic circulation in drug distribution.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
 ---
 
 &nbsp;

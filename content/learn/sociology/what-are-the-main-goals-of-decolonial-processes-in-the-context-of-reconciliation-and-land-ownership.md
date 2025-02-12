@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership.md
 url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 score: -1.0
+related_article1:
+    id: 163670
+    title: What is the historical context of settler colonialism and its impact on Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
+related_article2:
+    id: 163672
+    title: How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article3:
+    id: 163672
+    title: How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article4:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article5:
+    id: 163669
+    title: How do race, class, and gender influence social relations and outcomes of social processes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning.md
 url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
 score: -1.0
+related_article1:
+    id: 170222
+    title: What is the role of critical rows in truth tables, and how do they relate to the conclusion of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-rows-in-truth-tables-and-how-do-they-relate-to-the-conclusion-of-an-argument
+related_article2:
+    id: 170228
+    title: Describe the addition rule in inference and its application in logical arguments.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article3:
+    id: 170229
+    title: What is the reiteration rule in inference, and how is it applied?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
+related_article4:
+    id: 170223
+    title: What is the purpose of rules of inference in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-rules-of-inference-in-logical-reasoning
 ---
 
 &nbsp;

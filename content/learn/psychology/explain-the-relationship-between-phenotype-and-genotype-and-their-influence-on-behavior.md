@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior.md
 url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 score: -1.0
+related_article1:
+    id: 166393
+    title: What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article2:
+    id: 166389
+    title: Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article3:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article4:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article5:
+    id: 166385
+    title: What are the different types of selection, and how do they affect allele frequencies in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 ---
 
 &nbsp;

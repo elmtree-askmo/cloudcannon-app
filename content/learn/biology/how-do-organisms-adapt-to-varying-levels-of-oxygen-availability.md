@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-organisms-adapt-to-varying-levels-of-oxygen-availability.md
 url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
 score: -1.0
+related_article1:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+related_article2:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+related_article3:
+    id: 170926
+    title: What are the main types of organisms capable of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+related_article4:
+    id: 170927
+    title: Describe the process of light absorption in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
+related_article5:
+    id: 170938
+    title: What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
 ---
 
 &nbsp;

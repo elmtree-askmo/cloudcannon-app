@@ -21,6 +21,31 @@ subject: Psychology
 file_name: in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships.md
 url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 score: -1.0
+related_article1:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+related_article2:
+    id: 164196
+    title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
+related_article3:
+    id: 164199
+    title: What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
+related_article4:
+    id: 164200
+    title: How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+related_article5:
+    id: 164191
+    title: How do historical context and media influence contribute to cultural stereotypes of women?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
 ---
 
 &nbsp;

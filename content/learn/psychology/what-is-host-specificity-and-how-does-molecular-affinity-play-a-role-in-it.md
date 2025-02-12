@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it.md
 url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
 score: -1.0
+related_article1:
+    id: 165832
+    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article2:
+    id: 165855
+    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+related_article3:
+    id: 165852
+    title: What challenges do global health initiatives face in the eradication of tropical diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+related_article4:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article5:
+    id: 165833
+    title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
 ---
 
 &nbsp;

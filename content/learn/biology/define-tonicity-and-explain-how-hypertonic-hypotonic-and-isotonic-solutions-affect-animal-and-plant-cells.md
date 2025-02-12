@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells.md
 url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
 score: -1.0
+related_article1:
+    id: 166982
+    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article2:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article3:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article4:
+    id: 166985
+    title: What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability
+related_article5:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
 ---
 
 &nbsp;

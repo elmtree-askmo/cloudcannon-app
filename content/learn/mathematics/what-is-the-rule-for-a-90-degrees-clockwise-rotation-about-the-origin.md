@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin.md
 url: /learn/mathematics/questions/what-is-the-rule-for-a-90-degrees-clockwise-rotation-about-the-origin
 score: -1.0
+related_article1:
+    id: 162140
+    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
+related_article2:
+    id: 162073
+    title: How is a two-dimensional graph defined in the context of a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-twodimensional-graph-defined-in-the-context-of-a-coordinate-plane
+related_article3:
+    id: 162155
+    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162141
+    title: What is the difference between clockwise and counterclockwise rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article5:
+    id: 162139
+    title: What is the definition of a coordinate plane and what are its main components?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-coordinate-plane-and-what-are-its-main-components
 ---
 
 &nbsp;

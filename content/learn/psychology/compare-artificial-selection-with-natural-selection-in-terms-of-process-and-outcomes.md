@@ -21,6 +21,31 @@ subject: Psychology
 file_name: compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes.md
 url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
 score: -1.0
+related_article1:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article2:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article3:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article4:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article5:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 ---
 
 &nbsp;

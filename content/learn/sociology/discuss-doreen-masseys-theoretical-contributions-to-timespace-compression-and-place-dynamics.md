@@ -21,6 +21,31 @@ subject: Sociology
 file_name: discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics.md
 url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 score: -1.0
+related_article1:
+    id: 160228
+    title: Explain the concept of time-space compression and its impact on global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+related_article2:
+    id: 160222
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article3:
+    id: 160094
+    title: How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
+related_article4:
+    id: 160637
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+related_article5:
+    id: 160547
+    title: Discuss the impact of global markets on local economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
 ---
 
 &nbsp;

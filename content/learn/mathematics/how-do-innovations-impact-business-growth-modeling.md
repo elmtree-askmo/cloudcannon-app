@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-innovations-impact-business-growth-modeling.md
 url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
 score: -1.0
+related_article1:
+    id: 163735
+    title: What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article2:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article3:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article4:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article5:
+    id: 163729
+    title: Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
 ---
 
 &nbsp;

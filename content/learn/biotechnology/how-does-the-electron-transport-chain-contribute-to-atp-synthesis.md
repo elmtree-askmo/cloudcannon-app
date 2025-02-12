@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-the-electron-transport-chain-contribute-to-atp-synthesis.md
 url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
 score: -1.0
+related_article1:
+    id: 170325
+    title: What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+related_article2:
+    id: 170311
+    title: What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article3:
+    id: 170314
+    title: How do vacuoles contribute to the storage and support in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
+related_article4:
+    id: 170326
+    title: How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article5:
+    id: 170320
+    title: What are the main functional differences between photosynthesis and cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
 ---
 
 &nbsp;

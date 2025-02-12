@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis.md
 url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
 score: -1.0
+related_article1:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article2:
+    id: 170009
+    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article3:
+    id: 170019
+    title: How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article4:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article5:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 ---
 
 &nbsp;

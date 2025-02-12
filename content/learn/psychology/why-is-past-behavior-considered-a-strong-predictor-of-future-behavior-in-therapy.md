@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy.md
 url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
 score: -1.0
+related_article1:
+    id: 163024
+    title: What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article2:
+    id: 163029
+    title: Why is empirical support crucial for the validity of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+related_article3:
+    id: 163035
+    title: How can transference and countertransference impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
+related_article4:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article5:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
 ---
 
 &nbsp;

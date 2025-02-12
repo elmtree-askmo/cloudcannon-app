@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention.md
 url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 score: -1.0
+related_article1:
+    id: 164699
+    title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
+related_article2:
+    id: 164707
+    title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+related_article3:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article4:
+    id: 164700
+    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
+related_article5:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
 ---
 
 &nbsp;

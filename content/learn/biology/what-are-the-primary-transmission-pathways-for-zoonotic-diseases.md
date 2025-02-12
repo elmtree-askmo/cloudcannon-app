@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-primary-transmission-pathways-for-zoonotic-diseases.md
 url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
 score: -1.0
+related_article1:
+    id: 166136
+    title: How does natural selection lead to the development of adaptive traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+related_article2:
+    id: 166139
+    title: What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article3:
+    id: 166143
+    title: What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article4:
+    id: 166145
+    title: What role do oncogenes and tumor suppressors play in cancer progression?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
+related_article5:
+    id: 166146
+    title: How does carrying capacity influence population regulation in density-dependent growth?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
 ---
 
 &nbsp;

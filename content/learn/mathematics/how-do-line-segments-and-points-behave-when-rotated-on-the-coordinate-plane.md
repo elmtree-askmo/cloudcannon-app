@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-line-segments-and-points-behave-when-rotated-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-line-segments-and-points-behave-when-rotated-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162081
+    title: What is the transformation rule for both a 90 degrees clockwise and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-transformation-rule-for-both-a-90-degrees-clockwise-and-a-270-degrees-counterclockwise-rotation
+related_article2:
+    id: 162075
+    title: Describe the difference between clockwise and counterclockwise rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
+related_article3:
+    id: 162149
+    title: What is the similarity between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-similarity-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article4:
+    id: 162151
+    title: What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article5:
+    id: 162080
+    title: Explain the process of a 270 degrees clockwise rotation and its effect on coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-a-270-degrees-clockwise-rotation-and-its-effect-on-coordinates
 ---
 
 &nbsp;

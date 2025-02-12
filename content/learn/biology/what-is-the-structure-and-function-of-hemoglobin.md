@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-hemoglobin.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 score: -1.0
+related_article1:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+related_article2:
+    id: 167878
+    title: How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
+related_article3:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article4:
+    id: 167873
+    title: Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article5:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
 ---
 
 &nbsp;

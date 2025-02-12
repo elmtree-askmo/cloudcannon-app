@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant.md
 url: /learn/mathematics/questions/what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant
 score: -1.0
+related_article1:
+    id: 162504
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article2:
+    id: 162250
+    title: What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article3:
+    id: 162242
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article4:
+    id: 162234
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+related_article5:
+    id: 162238
+    title: How do coordinates change when a point is rotated in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 ---
 
 &nbsp;

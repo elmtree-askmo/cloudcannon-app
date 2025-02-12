@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care.md
 url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
 score: -1.0
+related_article1:
+    id: 169594
+    title: How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+related_article2:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article3:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article4:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article5:
+    id: 169587
+    title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
 ---
 
 &nbsp;

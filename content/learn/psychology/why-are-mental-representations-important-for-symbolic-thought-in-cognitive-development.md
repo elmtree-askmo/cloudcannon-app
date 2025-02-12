@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development.md
 url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
+related_article2:
+    id: 168084
+    title: How does sensory input facilitate cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
+related_article3:
+    id: 168090
+    title: What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+related_article4:
+    id: 168089
+    title: How does visual imagery contribute to the development of mental representations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
+related_article5:
+    id: 168079
+    title: What characterizes primary circular reactions in the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
 ---
 
 &nbsp;

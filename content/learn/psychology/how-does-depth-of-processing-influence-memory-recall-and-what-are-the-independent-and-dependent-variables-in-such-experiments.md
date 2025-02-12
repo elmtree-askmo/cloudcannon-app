@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments.md
 url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
 score: -1.0
+related_article1:
+    id: 165202
+    title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+related_article2:
+    id: 165199
+    title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
+related_article3:
+    id: 165190
+    title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
+related_article4:
+    id: 165191
+    title: What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-observational-studies-in-birth-order-research-and-how-can-observational-bias-affect-the-results
+related_article5:
+    id: 165200
+    title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
 ---
 
 &nbsp;

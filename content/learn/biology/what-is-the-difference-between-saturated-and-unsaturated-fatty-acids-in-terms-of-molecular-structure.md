@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure.md
 url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
 score: -1.0
+related_article1:
+    id: 167210
+    title: Define hydrophilic and hydrophobic properties and provide examples of amphipathic molecules.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrophilic-and-hydrophobic-properties-and-provide-examples-of-amphipathic-molecules
+related_article2:
+    id: 167213
+    title: What is the structure of triacylglycerols, and what are their primary functions in energy storage and insulation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
+related_article3:
+    id: 167206
+    title: What types of bonds are responsible for the polymerization of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-are-responsible-for-the-polymerization-of-proteins-nucleic-acids-and-carbohydrates
+related_article4:
+    id: 167212
+    title: Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-steroids-and-their-roles-in-hormonal-functions-and-as-membrane-components
 ---
 
 &nbsp;

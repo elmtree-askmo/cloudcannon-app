@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals.md
 url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
 score: -1.0
+related_article1:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article2:
+    id: 168295
+    title: How do you apply the product of powers property to simplify expressions with exponents?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+related_article3:
+    id: 168296
+    title: Explain how negative exponents are simplified and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
+related_article4:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article5:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
 ---
 
 &nbsp;

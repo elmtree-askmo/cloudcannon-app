@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-enzymes-lower-activation-energy-in-reaction-coupling.md
 url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
 score: -1.0
+related_article1:
+    id: 170975
+    title: How do coupling reactions make unfavorable reactions proceed?
+    subject: Biology
+    url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
+related_article2:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article3:
+    id: 170988
+    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170982
+    title: How do oxidation and reduction reactions facilitate electron transfer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+related_article5:
+    id: 170993
+    title: What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 ---
 
 &nbsp;

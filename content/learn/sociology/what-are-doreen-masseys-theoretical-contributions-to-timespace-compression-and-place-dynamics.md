@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics.md
 url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 score: -1.0
+related_article1:
+    id: 160215
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article2:
+    id: 160220
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article3:
+    id: 160620
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article4:
+    id: 160095
+    title: What are the differences between qualitative and quantitative research methodologies in research skills?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
+related_article5:
+    id: 160234
+    title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
 ---
 
 &nbsp;

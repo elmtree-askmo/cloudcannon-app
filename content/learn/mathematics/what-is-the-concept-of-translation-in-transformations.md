@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-concept-of-translation-in-transformations.md
 url: /learn/mathematics/questions/what-is-the-concept-of-translation-in-transformations
 score: -1.0
+related_article1:
+    id: 162305
+    title: What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
+related_article2:
+    id: 162299
+    title: What is the definition of a translation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-translation-in-geometry
+related_article3:
+    id: 162307
+    title: What are the properties of line segments in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometry
+related_article4:
+    id: 162305
+    title: What are the x-axis and y-axis used for in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-xaxis-and-yaxis-used-for-in-the-coordinate-plane
+related_article5:
+    id: 162148
+    title: How do translations affect the endpoints of line segments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
 ---
 
 &nbsp;

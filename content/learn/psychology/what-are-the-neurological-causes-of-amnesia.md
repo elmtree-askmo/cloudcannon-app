@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-neurological-causes-of-amnesia.md
 url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
 score: -1.0
+related_article1:
+    id: 164494
+    title: How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article2:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article3:
+    id: 164485
+    title: What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+related_article4:
+    id: 164506
+    title: What are the key brain regions involved in memory, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+related_article5:
+    id: 164481
+    title: How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 ---
 
 &nbsp;

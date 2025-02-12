@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions.md
 url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
 score: -1.0
+related_article1:
+    id: 167950
+    title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article2:
+    id: 167954
+    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
+related_article3:
+    id: 167958
+    title: What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
+related_article4:
+    id: 167954
+    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
 ---
 
 &nbsp;

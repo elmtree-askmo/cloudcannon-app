@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-public-health-implications-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165843
+    title: What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article2:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article3:
+    id: 165854
+    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+related_article4:
+    id: 165856
+    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article5:
+    id: 165844
+    title: How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis.md
 url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
 score: -1.0
+related_article1:
+    id: 163176
+    title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article2:
+    id: 163182
+    title: How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article3:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article4:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
+related_article5:
+    id: 163185
+    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-congruence-maintained-in-reflections.md
 url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 score: -1.0
+related_article1:
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article2:
+    id: 162640
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article3:
+    id: 162632
+    title: How do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+related_article4:
+    id: 162743
+    title: In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article5:
+    id: 162516
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 ---
 
 &nbsp;

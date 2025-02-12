@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions.md
 url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 score: -1.0
+related_article1:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article2:
+    id: 170981
+    title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
+related_article3:
+    id: 170985
+    title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
+related_article4:
+    id: 170988
+    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article5:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
 ---
 
 &nbsp;

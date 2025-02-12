@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-slope-formula-adapted-for-nonlinear-functions.md
 url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
 score: -1.0
+related_article1:
+    id: 163807
+    title: What is the formula for calculating the average rate of change of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+related_article2:
+    id: 163810
+    title: Name three types of non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+related_article3:
+    id: 163818
+    title: How does the average rate of change of an exponential function differ over various intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-an-exponential-function-differ-over-various-intervals
+related_article4:
+    id: 163820
+    title: How can the average rate of change be interpreted for cube root functions over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
+related_article5:
+    id: 163825
+    title: What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 ---
 
 &nbsp;

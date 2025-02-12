@@ -21,6 +21,31 @@ subject: Nursing
 file_name: define-trough-level-and-explain-its-clinical-relevance.md
 url: /learn/nursing/questions/define-trough-level-and-explain-its-clinical-relevance
 score: -1.0
+related_article1:
+    id: 166434
+    title: What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article2:
+    id: 166435
+    title: Define dissolution and explain its importance in drug absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
+related_article3:
+    id: 166436
+    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Nursing
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+related_article4:
+    id: 166437
+    title: What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+related_article5:
+    id: 166426
+    title: Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 ---
 
 &nbsp;

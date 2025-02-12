@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction.md
 url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 score: -1.0
+related_article1:
+    id: 166810
+    title: What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article2:
+    id: 166797
+    title: How do molecules form from atoms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
+related_article3:
+    id: 166810
+    title: What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article4:
+    id: 166802
+    title: What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
+related_article5:
+    id: 166806
+    title: How are ions formed in the context of ionic bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 ---
 
 &nbsp;

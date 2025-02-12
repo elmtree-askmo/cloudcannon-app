@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results.md
 url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 score: -1.0
+related_article1:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article2:
+    id: 164690
+    title: What were some key discoveries in the historical development of neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
+related_article3:
+    id: 164691
+    title: What are the common types of brain injuries and their rehabilitation techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
+related_article4:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article5:
+    id: 164680
+    title: What are the effects of emotional disorders on cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
 ---
 
 &nbsp;

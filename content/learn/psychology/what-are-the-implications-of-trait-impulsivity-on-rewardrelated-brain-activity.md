@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity.md
 url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 score: -1.0
+related_article1:
+    id: 164025
+    title: How do genetic risk factors and environmental triggers interact during specific developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
+related_article2:
+    id: 164036
+    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
+related_article3:
+    id: 164033
+    title: How can brain data be utilized to predict antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
+related_article4:
+    id: 164038
+    title: What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
+related_article5:
+    id: 164024
+    title: What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 ---
 
 &nbsp;

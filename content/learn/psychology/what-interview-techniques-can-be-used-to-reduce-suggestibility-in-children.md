@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children.md
 url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 score: -1.0
+related_article1:
+    id: 168017
+    title: What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article2:
+    id: 168025
+    title: What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article3:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article4:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article5:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
 ---
 
 &nbsp;

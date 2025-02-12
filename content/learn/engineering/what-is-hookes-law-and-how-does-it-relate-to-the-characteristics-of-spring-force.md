@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force.md
 url: /learn/engineering/questions/what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force
 score: -1.0
+related_article1:
+    id: 166674
+    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+related_article2:
+    id: 166654
+    title: What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article3:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+related_article4:
+    id: 166670
+    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article5:
+    id: 166663
+    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
 ---
 
 &nbsp;

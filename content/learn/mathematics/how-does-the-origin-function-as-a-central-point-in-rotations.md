@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-origin-function-as-a-central-point-in-rotations.md
 url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
 score: -1.0
+related_article1:
+    id: 162098
+    title: What is the rule for a 180-degree rotation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+related_article2:
+    id: 162097
+    title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
+related_article3:
+    id: 162097
+    title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
+related_article4:
+    id: 162099
+    title: How do 90-degree and 270-degree rotations differ in terms of coordinate changes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
+related_article5:
+    id: 162097
+    title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
 ---
 
 &nbsp;

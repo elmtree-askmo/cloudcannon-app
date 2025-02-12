@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-food-fortification-and-how-does-it-support-nutritional-needs.md
 url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
 score: -1.0
+related_article1:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article2:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article3:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article4:
+    id: 169776
+    title: Why is fiber important in the diet, and which food groups are rich in fiber?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
+related_article5:
+    id: 169778
+    title: How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 ---
 
 &nbsp;

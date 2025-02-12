@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result.md
 url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
 score: -1.0
+related_article1:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article2:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article3:
+    id: 166821
+    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article4:
+    id: 166821
+    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article5:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
 ---
 
 &nbsp;

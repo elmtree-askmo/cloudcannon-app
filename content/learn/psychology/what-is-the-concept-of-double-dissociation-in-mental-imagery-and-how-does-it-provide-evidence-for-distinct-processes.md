@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes.md
 url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
 score: -1.0
+related_article1:
+    id: 164469
+    title: What are the challenges associated with egocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
+related_article2:
+    id: 164468
+    title: How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article3:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article4:
+    id: 164468
+    title: How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article5:
+    id: 164464
+    title: How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
 ---
 
 &nbsp;

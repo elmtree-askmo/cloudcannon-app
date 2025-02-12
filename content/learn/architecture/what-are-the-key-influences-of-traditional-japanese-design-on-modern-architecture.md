@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture.md
 url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
 score: -1.0
+related_article1:
+    id: 169411
+    title: What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+related_article2:
+    id: 169399
+    title: What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+related_article3:
+    id: 169409
+    title: What are some innovations in modern architectural design that have emerged recently?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
+related_article4:
+    id: 169415
+    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+related_article5:
+    id: 169416
+    title: What resources are available for interior designers seeking job opportunities and professional development?
+    subject: Architecture
+    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
 ---
 
 &nbsp;

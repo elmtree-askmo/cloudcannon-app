@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system.md
 url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
 score: -1.0
+related_article1:
+    id: 162245
+    title: How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article2:
+    id: 162485
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article3:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article4:
+    id: 162614
+    title: Describe the concept of circular turning in rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+related_article5:
+    id: 162484
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

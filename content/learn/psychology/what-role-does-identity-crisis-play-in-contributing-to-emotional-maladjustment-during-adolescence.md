@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence.md
 url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 score: -1.0
+related_article1:
+    id: 164120
+    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article2:
+    id: 164120
+    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+related_article3:
+    id: 164118
+    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+related_article4:
+    id: 164116
+    title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis
+related_article5:
+    id: 164124
+    title: What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 ---
 
 &nbsp;

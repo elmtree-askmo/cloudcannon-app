@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research.md
 url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
 score: -1.0
+related_article1:
+    id: 160563
+    title: How do natural landscapes and environmental processes shape physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
+related_article2:
+    id: 160550
+    title: What are the key components of urbanization that drive city development and infrastructure changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
+related_article3:
+    id: 160083
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article4:
+    id: 160641
+    title: How do trade relations and global supply chains contribute to global economic networks?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
+related_article5:
+    id: 160495
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 ---
 
 &nbsp;

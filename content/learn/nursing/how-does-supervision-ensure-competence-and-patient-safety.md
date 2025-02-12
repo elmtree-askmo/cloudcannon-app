@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-supervision-ensure-competence-and-patient-safety.md
 url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
 score: -1.0
+related_article1:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article2:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article3:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article4:
+    id: 169572
+    title: How does patient assessment contribute to ensuring patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
+related_article5:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 ---
 
 &nbsp;

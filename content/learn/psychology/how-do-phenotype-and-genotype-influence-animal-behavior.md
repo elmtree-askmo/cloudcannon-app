@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-phenotype-and-genotype-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 165316
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article2:
+    id: 165327
+    title: What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article3:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article4:
+    id: 165318
+    title: Differentiate between proximate and ultimate causes of behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
+related_article5:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---
 
 &nbsp;

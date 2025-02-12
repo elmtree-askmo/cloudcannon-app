@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-multinational-corporations-exert-economic-power-through-global-operations.md
 url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 score: -1.0
+related_article1:
+    id: 165996
+    title: How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
+related_article2:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article3:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
+related_article4:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article5:
+    id: 165981
+    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

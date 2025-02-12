@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-synesthesia-and-how-does-it-affect-perception.md
 url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 score: -1.0
+related_article1:
+    id: 164990
+    title: How can peer feedback improve presentation skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
+related_article2:
+    id: 164990
+    title: How can peer feedback improve presentation skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
+related_article3:
+    id: 164984
+    title: How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article4:
+    id: 164992
+    title: How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article5:
+    id: 164982
+    title: How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
 ---
 
 &nbsp;

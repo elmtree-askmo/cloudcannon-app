@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions.md
 url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
 score: -1.0
+related_article1:
+    id: 170514
+    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+related_article2:
+    id: 170510
+    title: What physiological changes occur during the rest and digest response due to parasympathetic activation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
+related_article3:
+    id: 170502
+    title: How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article4:
+    id: 170516
+    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article5:
+    id: 170517
+    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
 ---
 
 &nbsp;

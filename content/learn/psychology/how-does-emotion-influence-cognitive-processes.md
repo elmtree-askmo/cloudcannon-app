@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-emotion-influence-cognitive-processes.md
 url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+related_article2:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article3:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article4:
+    id: 164672
+    title: What are the primary mechanisms of attention in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
+related_article5:
+    id: 164688
+    title: What are the ethical considerations in the development of neurotechnology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
 ---
 
 &nbsp;

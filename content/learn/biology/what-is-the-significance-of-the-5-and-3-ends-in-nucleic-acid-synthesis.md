@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis.md
 url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
 score: -1.0
+related_article1:
+    id: 166866
+    title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+related_article2:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article3:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
+related_article4:
+    id: 166871
+    title: What are Chargoff’s rules, and how do they apply to DNA base pairing?
+    subject: Biology
+    url: /learn/biology/questions/what-are-chargoffs-rules-and-how-do-they-apply-to-dna-base-pairing
+related_article5:
+    id: 166869
+    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function.md
 url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
 score: -1.0
+related_article1:
+    id: 168909
+    title: How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article2:
+    id: 168908
+    title: What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-phospholipid-and-how-do-they-contribute-to-the-structure-of-the-plasma-membrane
+related_article3:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article4:
+    id: 168916
+    title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
+related_article5:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 ---
 
 &nbsp;

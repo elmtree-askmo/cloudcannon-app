@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-urban-simulation-contribute-to-urban-analysis-and-geography.md
 url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-analysis-and-geography
 score: -1.0
+related_article1:
+    id: 162918
+    title: What role do non-state actors play in the geostrategic power dynamics of urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
+related_article2:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article3:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article4:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article5:
+    id: 162916
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential.md
 url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
 score: -1.0
+related_article1:
+    id: 170605
+    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+related_article2:
+    id: 170602
+    title: What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article3:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article4:
+    id: 170598
+    title: How do motor neurons, sensory neurons, and interneurons differ in function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
+related_article5:
+    id: 170611
+    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 ---
 
 &nbsp;

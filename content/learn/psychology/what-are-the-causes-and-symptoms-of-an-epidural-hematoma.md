@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-causes-and-symptoms-of-an-epidural-hematoma.md
 url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 score: -1.0
+related_article1:
+    id: 170466
+    title: How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article2:
+    id: 170463
+    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article3:
+    id: 170470
+    title: What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article4:
+    id: 170482
+    title: What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+related_article5:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 ---
 
 &nbsp;

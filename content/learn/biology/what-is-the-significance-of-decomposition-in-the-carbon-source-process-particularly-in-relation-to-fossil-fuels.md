@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels.md
 url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
 score: -1.0
+related_article1:
+    id: 170387
+    title: How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals
+related_article2:
+    id: 170392
+    title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
+related_article3:
+    id: 170393
+    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article4:
+    id: 170379
+    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article5:
+    id: 170391
+    title: What is the role of chlorophyll in light absorption during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 ---
 
 &nbsp;

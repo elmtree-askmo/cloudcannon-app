@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia.md
 url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
 score: -1.0
+related_article1:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article2:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article3:
+    id: 164979
+    title: How does the right hemisphere contribute to the causes of deep dyslexia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+related_article4:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+related_article5:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 ---
 
 &nbsp;

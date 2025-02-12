@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-hemianopia-related-to-occipital-lobe-disorders.md
 url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
 score: -1.0
+related_article1:
+    id: 164654
+    title: What is the portable magnification factor and why is it important in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+related_article2:
+    id: 164651
+    title: What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+related_article3:
+    id: 164648
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article4:
+    id: 164646
+    title: What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article5:
+    id: 164648
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 ---
 
 &nbsp;

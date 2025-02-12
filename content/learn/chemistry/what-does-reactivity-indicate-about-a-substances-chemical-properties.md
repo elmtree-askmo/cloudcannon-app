@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-does-reactivity-indicate-about-a-substances-chemical-properties.md
 url: /learn/chemistry/questions/what-does-reactivity-indicate-about-a-substances-chemical-properties
 score: -1.0
+related_article1:
+    id: 161838
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article2:
+    id: 161887
+    title: What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article3:
+    id: 161815
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+related_article4:
+    id: 161820
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article5:
+    id: 161718
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---
 
 &nbsp;

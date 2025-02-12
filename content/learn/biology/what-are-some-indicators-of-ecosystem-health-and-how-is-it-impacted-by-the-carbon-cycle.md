@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-by-the-carbon-cycle.md
 url: /learn/biology/questions/what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-by-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170330
+    title: How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article2:
+    id: 170337
+    title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
+related_article3:
+    id: 170334
+    title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
+related_article4:
+    id: 170327
+    title: What are the main processes involved in carbon exchange within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-processes-involved-in-carbon-exchange-within-ecosystems
+related_article5:
+    id: 170343
+    title: How do keystone species influence ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
 ---
 
 &nbsp;

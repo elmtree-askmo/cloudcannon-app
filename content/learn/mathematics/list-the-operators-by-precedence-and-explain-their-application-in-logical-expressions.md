@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions.md
 url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
 score: -1.0
+related_article1:
+    id: 170240
+    title: List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+related_article2:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article3:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article4:
+    id: 170247
+    title: Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article5:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
 ---
 
 &nbsp;

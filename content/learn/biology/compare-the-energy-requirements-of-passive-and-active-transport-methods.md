@@ -21,6 +21,31 @@ subject: Biology
 file_name: compare-the-energy-requirements-of-passive-and-active-transport-methods.md
 url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
 score: -1.0
+related_article1:
+    id: 167163
+    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
+related_article2:
+    id: 167165
+    title: Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+related_article3:
+    id: 167170
+    title: What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+related_article4:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article5:
+    id: 167163
+    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
 ---
 
 &nbsp;

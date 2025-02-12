@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior.md
 url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 score: -1.0
+related_article1:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article2:
+    id: 164430
+    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+related_article3:
+    id: 164424
+    title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+related_article4:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article5:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

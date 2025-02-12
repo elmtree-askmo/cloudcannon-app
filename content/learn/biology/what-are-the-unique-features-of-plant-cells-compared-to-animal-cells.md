@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-unique-features-of-plant-cells-compared-to-animal-cells.md
 url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 score: -1.0
+related_article1:
+    id: 167820
+    title: What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article2:
+    id: 167826
+    title: How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article3:
+    id: 167826
+    title: How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article4:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article5:
+    id: 167823
+    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
 ---
 
 &nbsp;

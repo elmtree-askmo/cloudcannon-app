@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness.md
 url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
 score: -1.0
+related_article1:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article2:
+    id: 164835
+    title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+related_article3:
+    id: 164843
+    title: How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+related_article4:
+    id: 164839
+    title: Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article5:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 ---
 
 &nbsp;

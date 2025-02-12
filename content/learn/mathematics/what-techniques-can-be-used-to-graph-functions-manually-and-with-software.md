@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-techniques-can-be-used-to-graph-functions-manually-and-with-software.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 score: -1.0
+related_article1:
+    id: 163840
+    title: How can you identify key features such as intercepts and intersections from a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
+related_article2:
+    id: 163834
+    title: What are the asymptotes of an exponential function, and how do they affect its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+related_article3:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article4:
+    id: 163846
+    title: How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article5:
+    id: 163832
+    title: How can you find the minimum value of a quadratic function from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution.md
 url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
 score: -1.0
+related_article1:
+    id: 167473
+    title: What are the typical pre-medical coursework requirements for medical school?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
+related_article2:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article3:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article4:
+    id: 167474
+    title: Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article5:
+    id: 167490
+    title: How are students assessed through exams and quizzes in this course?
+    subject: Biology
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
 ---
 
 &nbsp;

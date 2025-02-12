@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis.md
 url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
 score: -1.0
+related_article1:
+    id: 162680
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article2:
+    id: 162890
+    title: How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article3:
+    id: 162750
+    title: How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+related_article4:
+    id: 162703
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article5:
+    id: 162695
+    title: What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-electrolytes-play-in-chemical-reactions.md
 url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 169946
+    title: What are the four levels of protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
+related_article2:
+    id: 169959
+    title: What is the role of membrane proteins in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
+related_article3:
+    id: 169940
+    title: How are cations and anions formed?
+    subject: Biology
+    url: /learn/biology/questions/how-are-cations-and-anions-formed
+related_article4:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article5:
+    id: 169957
+    title: What is the function of the nucleoid region in prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
 ---
 
 &nbsp;

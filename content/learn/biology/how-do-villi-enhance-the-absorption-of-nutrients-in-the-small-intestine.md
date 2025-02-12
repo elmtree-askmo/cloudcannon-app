@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine.md
 url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
 score: -1.0
+related_article1:
+    id: 168834
+    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article2:
+    id: 168835
+    title: What is the significance of epithelial cells in the absorption process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+related_article3:
+    id: 168834
+    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article4:
+    id: 168834
+    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+related_article5:
+    id: 168831
+    title: What is the function of endopeptidases in protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials.md
 url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
 score: -1.0
+related_article1:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article2:
+    id: 164893
+    title: How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article3:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article4:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article5:
+    id: 164887
+    title: What are the effects of brain damage on language impairment recovery over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-dopamine-function-as-a-neurotransmitter-in-the-brain.md
 url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 score: -1.0
+related_article1:
+    id: 164717
+    title: How does Wernicke's aphasia affect language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
+related_article2:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article3:
+    id: 164740
+    title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article4:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article5:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
 ---
 
 &nbsp;

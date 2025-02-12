@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-common-causes-and-risk-factors-for-hypertension.md
 url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
 score: -1.0
+related_article1:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article2:
+    id: 169518
+    title: What is the difference between systolic and diastolic blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
+related_article3:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article4:
+    id: 169535
+    title: How is blood pressure related to the risk of heart disease?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
+related_article5:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
 ---
 
 &nbsp;

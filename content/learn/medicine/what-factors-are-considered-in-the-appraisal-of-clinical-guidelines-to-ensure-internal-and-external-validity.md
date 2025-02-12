@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity.md
 url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
 score: -1.0
+related_article1:
+    id: 163183
+    title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article2:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article3:
+    id: 163178
+    title: What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
+related_article4:
+    id: 163176
+    title: What are some limitations of clinical decision rules, particularly regarding blinding and power?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-limitations-of-clinical-decision-rules-particularly-regarding-blinding-and-power
+related_article5:
+    id: 163180
+    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
+    subject: Medicine
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 ---
 
 &nbsp;

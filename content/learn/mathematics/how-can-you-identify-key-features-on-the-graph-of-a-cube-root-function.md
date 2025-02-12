@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function.md
 url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
 score: -1.0
+related_article1:
+    id: 163768
+    title: How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article2:
+    id: 163777
+    title: What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article3:
+    id: 163770
+    title: What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article4:
+    id: 163755
+    title: How do the domain and range of cube root functions compare to those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+related_article5:
+    id: 163748
+    title: What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 ---
 
 &nbsp;

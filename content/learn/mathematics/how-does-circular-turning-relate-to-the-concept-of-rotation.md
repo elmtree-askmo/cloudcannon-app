@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-circular-turning-relate-to-the-concept-of-rotation.md
 url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
 score: -1.0
+related_article1:
+    id: 162252
+    title: Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+related_article2:
+    id: 162495
+    title: How does translation affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162245
+    title: How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article4:
+    id: 162596
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162240
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 ---
 
 &nbsp;

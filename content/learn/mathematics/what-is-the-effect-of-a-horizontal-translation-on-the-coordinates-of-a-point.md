@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point.md
 url: /learn/mathematics/questions/what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point
 score: -1.0
+related_article1:
+    id: 163852
+    title: Describe the result of a 180° rotation on a point's coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
+related_article2:
+    id: 163854
+    title: How do you plot a point with coordinates (3, -2) on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-with-coordinates-3-2-on-the-coordinate-plane
+related_article3:
+    id: 163852
+    title: Describe the result of a 180° rotation on a point's coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
+related_article4:
+    id: 163856
+    title: How do horizontal shifts affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
+related_article5:
+    id: 163859
+    title: How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-cost-and-availability-options-for-online-textbooks.md
 url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 score: -1.0
+related_article1:
+    id: 167491
+    title: What career paths are available in biology for research and academia?
+    subject: Biology
+    url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
+related_article2:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article3:
+    id: 167481
+    title: How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+related_article4:
+    id: 167489
+    title: What are the primary learning goals of this course?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+related_article5:
+    id: 167470
+    title: What are the main cellular processes essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
 ---
 
 &nbsp;

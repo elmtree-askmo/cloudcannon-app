@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-vertical-symmetry-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 score: -1.0
+related_article1:
+    id: 162395
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article2:
+    id: 162406
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article3:
+    id: 162403
+    title: What differences in position and orientation occur after a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
+related_article4:
+    id: 162813
+    title: What are the effects of reflections on the position and orientation of figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
+related_article5:
+    id: 162632
+    title: How do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

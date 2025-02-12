@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females.md
 url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
 score: -1.0
+related_article1:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article2:
+    id: 168119
+    title: How do gender differences manifest in physical aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
+related_article3:
+    id: 168113
+    title: What are the gender differences in reading and writing achievement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
+related_article4:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article5:
+    id: 168127
+    title: How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

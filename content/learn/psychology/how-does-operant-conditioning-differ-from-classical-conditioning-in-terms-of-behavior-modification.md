@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification.md
 url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
 score: -1.0
+related_article1:
+    id: 170022
+    title: What are the foundational experiments of Classical Conditioning and their implications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
+related_article2:
+    id: 170014
+    title: What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
+related_article3:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+related_article4:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article5:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 ---
 
 &nbsp;

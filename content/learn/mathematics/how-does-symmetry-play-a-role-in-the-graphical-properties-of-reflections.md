@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections.md
 url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
 score: -1.0
+related_article1:
+    id: 168410
+    title: What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+related_article2:
+    id: 168413
+    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+related_article3:
+    id: 168411
+    title: What is the mathematical explanation for opposite outputs in function reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
+related_article4:
+    id: 168406
+    title: What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article5:
+    id: 168398
+    title: How does a reflection over the x-axis affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 ---
 
 &nbsp;

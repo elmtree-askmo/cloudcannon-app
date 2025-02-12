@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment.md
 url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
 score: -1.0
+related_article1:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article2:
+    id: 164567
+    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article3:
+    id: 164566
+    title: What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article4:
+    id: 164578
+    title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article5:
+    id: 164573
+    title: How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 ---
 
 &nbsp;

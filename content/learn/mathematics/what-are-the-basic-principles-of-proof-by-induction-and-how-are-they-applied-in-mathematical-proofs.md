@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs.md
 url: /learn/mathematics/questions/what-are-the-basic-principles-of-proof-by-induction-and-how-are-they-applied-in-mathematical-proofs
 score: -1.0
+related_article1:
+    id: 170729
+    title: How do you determine the domain of a function, and what are common errors to avoid in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
+related_article2:
+    id: 170735
+    title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
+related_article3:
+    id: 170733
+    title: How is set theory applied in mathematical induction, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+related_article4:
+    id: 170732
+    title: What are the basic concepts of set theory, and how do operations on sets function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
+related_article5:
+    id: 170724
+    title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
 ---
 
 &nbsp;

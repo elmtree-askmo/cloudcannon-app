@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior.md
 url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 score: -1.0
+related_article1:
+    id: 168006
+    title: What role do peers play in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
+related_article2:
+    id: 167994
+    title: What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+related_article3:
+    id: 168008
+    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article4:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+related_article5:
+    id: 168009
+    title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 ---
 
 &nbsp;

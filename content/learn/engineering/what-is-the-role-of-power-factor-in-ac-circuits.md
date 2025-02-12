@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-role-of-power-factor-in-ac-circuits.md
 url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 score: -1.0
+related_article1:
+    id: 169848
+    title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
+related_article2:
+    id: 169848
+    title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
+related_article3:
+    id: 169852
+    title: What are the electrical characteristics of bipoles in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
+related_article4:
+    id: 169856
+    title: How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
+related_article5:
+    id: 169851
+    title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 ---
 
 &nbsp;

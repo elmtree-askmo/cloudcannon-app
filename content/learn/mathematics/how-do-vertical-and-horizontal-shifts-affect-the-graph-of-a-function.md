@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function.md
 url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article2:
+    id: 163804
+    title: What is the graphical relationship between parabolas and half-parabolas?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+related_article3:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article4:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article5:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

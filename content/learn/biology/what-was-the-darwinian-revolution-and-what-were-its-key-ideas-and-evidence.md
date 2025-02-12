@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence.md
 url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 score: -1.0
+related_article1:
+    id: 167758
+    title: How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article2:
+    id: 167766
+    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+related_article3:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article4:
+    id: 167754
+    title: What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
+related_article5:
+    id: 167762
+    title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance.md
 url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
 score: -1.0
+related_article1:
+    id: 164551
+    title: Which brain regions are primarily involved in executive function, and what roles do they play?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
+related_article2:
+    id: 164561
+    title: How do ADHD and attention networks interact in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
+related_article3:
+    id: 164545
+    title: What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article4:
+    id: 164556
+    title: How do the superior and inferior parietal lobes differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+related_article5:
+    id: 164560
+    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare.md
 url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
 score: -1.0
+related_article1:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article2:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article3:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article4:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article5:
+    id: 169599
+    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 ---
 
 &nbsp;

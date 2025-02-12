@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-cladistics-and-explain-its-purpose-in-evolutionary-biology.md
 url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 167739
+    title: What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article2:
+    id: 167738
+    title: How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
+related_article3:
+    id: 167740
+    title: How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article4:
+    id: 167729
+    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article5:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
 ---
 
 &nbsp;

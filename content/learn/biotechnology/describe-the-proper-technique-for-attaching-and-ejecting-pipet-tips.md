@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips.md
 url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
 score: -1.0
+related_article1:
+    id: 165369
+    title: How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article2:
+    id: 165368
+    title: Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
+related_article3:
+    id: 165371
+    title: Describe the process of adjusting the volume using the dial on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
+related_article4:
+    id: 165368
+    title: Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
+related_article5:
+    id: 165368
+    title: Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
 ---
 
 &nbsp;

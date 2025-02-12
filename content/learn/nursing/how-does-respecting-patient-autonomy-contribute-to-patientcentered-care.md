@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-respecting-patient-autonomy-contribute-to-patientcentered-care.md
 url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
 score: -1.0
+related_article1:
+    id: 169475
+    title: What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article2:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article3:
+    id: 169475
+    title: What is the definition of patient dignity and why is it important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+related_article4:
+    id: 169492
+    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    subject: Nursing
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+related_article5:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
 ---
 
 &nbsp;

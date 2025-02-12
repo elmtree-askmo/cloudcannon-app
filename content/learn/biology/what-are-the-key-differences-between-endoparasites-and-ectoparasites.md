@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-differences-between-endoparasites-and-ectoparasites.md
 url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
 score: -1.0
+related_article1:
+    id: 166146
+    title: How does carrying capacity influence population regulation in density-dependent growth?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+related_article2:
+    id: 166151
+    title: What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
+related_article3:
+    id: 166149
+    title: What are the primary transmission pathways for zoonotic diseases?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
+related_article4:
+    id: 166138
+    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
+related_article5:
+    id: 166148
+    title: How does niche partitioning facilitate coexistence among species?
+    subject: Biology
+    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-memory-contribute-to-the-formation-of-personal-identity.md
 url: /learn/psychology/questions/how-does-memory-contribute-to-the-formation-of-personal-identity
 score: -1.0
+related_article1:
+    id: 164494
+    title: How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article2:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article3:
+    id: 164485
+    title: What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+related_article4:
+    id: 164492
+    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article5:
+    id: 164487
+    title: How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 ---
 
 &nbsp;

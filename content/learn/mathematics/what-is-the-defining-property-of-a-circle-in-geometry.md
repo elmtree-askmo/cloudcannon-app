@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-defining-property-of-a-circle-in-geometry.md
 url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
 score: -1.0
+related_article1:
+    id: 163850
+    title: What is the effect of a horizontal translation on the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point
+related_article2:
+    id: 163855
+    title: What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article3:
+    id: 163859
+    title: How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
+related_article4:
+    id: 163859
+    title: How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
+related_article5:
+    id: 163853
+    title: Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
 ---
 
 &nbsp;

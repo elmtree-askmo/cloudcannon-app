@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing.md
 url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
 score: -1.0
+related_article1:
+    id: 164889
+    title: What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article2:
+    id: 164886
+    title: How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article3:
+    id: 164887
+    title: What are the effects of brain damage on language impairment recovery over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
+related_article4:
+    id: 164891
+    title: What are the primary functions of EEG and ERP in measuring brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
+related_article5:
+    id: 164887
+    title: What are the effects of brain damage on language impairment recovery over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
 ---
 
 &nbsp;

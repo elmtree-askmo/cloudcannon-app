@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it.md
 url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-did-darwin-contribute-to-it
 score: -1.0
+related_article1:
+    id: 167764
+    title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
+related_article2:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article3:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article4:
+    id: 167742
+    title: How does natural selection operate as a mechanism of evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+related_article5:
+    id: 167744
+    title: How are evolutionary trees constructed and what is the significance of homologies in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 ---
 
 &nbsp;

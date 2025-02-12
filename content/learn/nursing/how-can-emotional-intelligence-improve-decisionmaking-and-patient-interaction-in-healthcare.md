@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-emotional-intelligence-improve-decisionmaking-and-patient-interaction-in-healthcare.md
 url: /learn/nursing/questions/how-can-emotional-intelligence-improve-decisionmaking-and-patient-interaction-in-healthcare
 score: -1.0
+related_article1:
+    id: 169603
+    title: What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
+related_article2:
+    id: 169610
+    title: How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article3:
+    id: 169601
+    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+related_article4:
+    id: 169607
+    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+related_article5:
+    id: 169611
+    title: Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
 ---
 
 &nbsp;

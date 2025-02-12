@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces.md
 url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
 score: -1.0
+related_article1:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+related_article2:
+    id: 166665
+    title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
+related_article3:
+    id: 166669
+    title: What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+    subject: Engineering
+    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+related_article4:
+    id: 166666
+    title: How are trigonometric identities used in solving engineering problems involving vector analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
+related_article5:
+    id: 166672
+    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 ---
 
 &nbsp;

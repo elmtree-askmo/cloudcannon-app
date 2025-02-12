@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement.md
 url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
 score: -1.0
+related_article1:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article2:
+    id: 170545
+    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article3:
+    id: 170536
+    title: How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article4:
+    id: 170542
+    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article5:
+    id: 170544
+    title: What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
 ---
 
 &nbsp;

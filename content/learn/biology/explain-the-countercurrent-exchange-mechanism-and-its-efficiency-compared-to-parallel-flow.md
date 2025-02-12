@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow.md
 url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
 score: -1.0
+related_article1:
+    id: 168800
+    title: How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
+related_article2:
+    id: 168807
+    title: Describe the structure and function of the tracheal system in insects, including tracheae, tracheoles, and spiracles.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-tracheal-system-in-insects-including-tracheae-tracheoles-and-spiracles
+related_article3:
+    id: 168805
+    title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
+related_article4:
+    id: 168799
+    title: Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
+related_article5:
+    id: 168798
+    title: How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
 ---
 
 &nbsp;

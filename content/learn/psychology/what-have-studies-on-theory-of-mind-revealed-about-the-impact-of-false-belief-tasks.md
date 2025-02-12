@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks.md
 url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
 score: -1.0
+related_article1:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article2:
+    id: 167974
+    title: What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article3:
+    id: 167980
+    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article4:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article5:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
 ---
 
 &nbsp;

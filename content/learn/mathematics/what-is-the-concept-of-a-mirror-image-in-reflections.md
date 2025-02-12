@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-concept-of-a-mirror-image-in-reflections.md
 url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
 score: -1.0
+related_article1:
+    id: 162165
+    title: What techniques can be used to visualize transformations on graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+related_article2:
+    id: 162158
+    title: What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+related_article3:
+    id: 162309
+    title: How do you algebraically represent the translation of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-algebraically-represent-the-translation-of-a-point
+related_article4:
+    id: 162154
+    title: What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+related_article5:
+    id: 162161
+    title: What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
 ---
 
 &nbsp;

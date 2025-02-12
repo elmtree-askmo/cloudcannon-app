@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-it-important-to-keep-manual-handling-training-uptodate.md
 url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 score: -1.0
+related_article1:
+    id: 169506
+    title: What training responsibilities do employers have under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
+related_article2:
+    id: 169504
+    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
+related_article3:
+    id: 169502
+    title: How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article4:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article5:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 ---
 
 &nbsp;

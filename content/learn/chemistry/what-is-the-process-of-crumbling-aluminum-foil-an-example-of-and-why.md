@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why.md
 url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
 score: -1.0
+related_article1:
+    id: 162039
+    title: What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article2:
+    id: 161991
+    title: How does the process of shaving wood represent a physical change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
+related_article3:
+    id: 162035
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article4:
+    id: 161754
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article5:
+    id: 162067
+    title: What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 ---
 
 &nbsp;

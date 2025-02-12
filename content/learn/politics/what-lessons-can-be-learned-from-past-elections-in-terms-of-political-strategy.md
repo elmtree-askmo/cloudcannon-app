@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy.md
 url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
 score: -1.0
+related_article1:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article2:
+    id: 165623
+    title: What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+related_article3:
+    id: 165631
+    title: What are the political calculations and risks involved in timing an election call?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
+related_article4:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
+related_article5:
+    id: 165619
+    title: What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
 ---
 
 &nbsp;

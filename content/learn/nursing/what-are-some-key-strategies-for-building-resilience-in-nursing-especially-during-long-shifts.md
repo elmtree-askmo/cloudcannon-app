@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts.md
 url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 score: -1.0
+related_article1:
+    id: 169608
+    title: How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
+related_article2:
+    id: 169609
+    title: What is cultural competence in nursing, and why is it important for understanding patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs
+related_article3:
+    id: 169611
+    title: Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
+related_article4:
+    id: 169610
+    title: How can nurses manage emotionally charged situations to build trust with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+related_article5:
+    id: 169607
+    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
 ---
 
 &nbsp;

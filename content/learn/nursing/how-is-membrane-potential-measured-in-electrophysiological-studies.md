@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-membrane-potential-measured-in-electrophysiological-studies.md
 url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 score: -1.0
+related_article1:
+    id: 170603
+    title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
+related_article2:
+    id: 170607
+    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article3:
+    id: 170611
+    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
+related_article4:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article5:
+    id: 170605
+    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 ---
 
 &nbsp;

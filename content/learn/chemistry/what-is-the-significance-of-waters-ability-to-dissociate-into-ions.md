@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-waters-ability-to-dissociate-into-ions.md
 url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
 score: -1.0
+related_article1:
+    id: 168310
+    title: What are the three main subatomic particles in an atom and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+related_article2:
+    id: 168318
+    title: What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+related_article3:
+    id: 168311
+    title: How do electron orbitals relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+related_article4:
+    id: 168317
+    title: How does water's kinetic energy contribute to temperature moderation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
+related_article5:
+    id: 168310
+    title: What are the three main subatomic particles in an atom and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 ---
 
 &nbsp;

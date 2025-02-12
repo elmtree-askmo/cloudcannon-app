@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: compare-the-graphs-of-linear-and-nonlinear-functions.md
 url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
 score: -1.0
+related_article1:
+    id: 163734
+    title: How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+related_article2:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article3:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article4:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163733
+    title: Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
 ---
 
 &nbsp;

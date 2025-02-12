@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-health-implications-of-inaccurate-blood-pressure-readings.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
 score: -1.0
+related_article1:
+    id: 169518
+    title: What is the difference between systolic and diastolic blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
+related_article2:
+    id: 169525
+    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+related_article3:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article4:
+    id: 169530
+    title: What is the auscultatory method of manual blood pressure measurement?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article5:
+    id: 169517
+    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
 ---
 
 &nbsp;

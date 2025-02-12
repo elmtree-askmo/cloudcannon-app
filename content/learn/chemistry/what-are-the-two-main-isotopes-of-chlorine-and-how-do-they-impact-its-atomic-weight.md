@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight.md
 url: /learn/chemistry/questions/what-are-the-two-main-isotopes-of-chlorine-and-how-do-they-impact-its-atomic-weight
 score: -1.0
+related_article1:
+    id: 167258
+    title: How is the weighted average of atomic weight calculated, and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-weighted-average-of-atomic-weight-calculated-and-why-is-it-important
+related_article2:
+    id: 167262
+    title: What is the definition of atomic mass units (AMU) and how do they relate to atomic mass?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-units-amu-and-how-do-they-relate-to-atomic-mass
+related_article3:
+    id: 167250
+    title: Explain the significance of atomic mass units (AMU) in measuring atomic mass.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-atomic-mass-units-amu-in-measuring-atomic-mass
+related_article4:
+    id: 167254
+    title: Describe the process of calculating atomic weight using percentage composition, with an example involving chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-calculating-atomic-weight-using-percentage-composition-with-an-example-involving-chlorine
+related_article5:
+    id: 167256
+    title: How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
 ---
 
 &nbsp;

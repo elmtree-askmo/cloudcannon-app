@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule.md
 url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
 score: -1.0
+related_article1:
+    id: 167432
+    title: How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
+related_article2:
+    id: 167423
+    title: What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+related_article3:
+    id: 167435
+    title: Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article4:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+related_article5:
+    id: 167423
+    title: What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 ---
 
 &nbsp;

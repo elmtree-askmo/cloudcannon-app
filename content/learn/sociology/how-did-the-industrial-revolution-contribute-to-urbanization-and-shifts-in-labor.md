@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor.md
 url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
 score: -1.0
+related_article1:
+    id: 163621
+    title: How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
+related_article2:
+    id: 163613
+    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+related_article3:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article4:
+    id: 163618
+    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+related_article5:
+    id: 163628
+    title: What role do international organizations play in global cooperation and peacekeeping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking.md
 url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
 score: -1.0
+related_article1:
+    id: 168001
+    title: List and briefly describe the stages of cognitive development according to Piaget.
+    subject: Psychology
+    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
+related_article2:
+    id: 168005
+    title: How do social interactions influence cognitive development according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+related_article3:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+related_article4:
+    id: 167994
+    title: What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+related_article5:
+    id: 168006
+    title: What role do peers play in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
 ---
 
 &nbsp;

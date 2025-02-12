@@ -21,6 +21,31 @@ subject: Engineering
 file_name: list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments.md
 url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
 score: -1.0
+related_article1:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
+related_article2:
+    id: 168707
+    title: What are the advantages of using modern cutting tools for external and groove machining?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
+related_article3:
+    id: 168714
+    title: What types of clothing are considered inappropriate in machining environments and why?
+    subject: Engineering
+    url: /learn/engineering/questions/what-types-of-clothing-are-considered-inappropriate-in-machining-environments-and-why
+related_article4:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article5:
+    id: 168710
+    title: How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
 ---
 
 &nbsp;

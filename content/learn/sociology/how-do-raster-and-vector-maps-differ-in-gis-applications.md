@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-raster-and-vector-maps-differ-in-gis-applications.md
 url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
 score: -1.0
+related_article1:
+    id: 159825
+    title: What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
+related_article2:
+    id: 159817
+    title: What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article3:
+    id: 159817
+    title: What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article4:
+    id: 159828
+    title: What is the significance of regionalization in regional analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
+related_article5:
+    id: 159824
+    title: Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
 ---
 
 &nbsp;

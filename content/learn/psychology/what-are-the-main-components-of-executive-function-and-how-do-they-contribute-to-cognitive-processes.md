@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes.md
 url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164565
+    title: What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article2:
+    id: 164548
+    title: What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article3:
+    id: 164552
+    title: How do automatic and controlled processes differ in neural networks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+related_article4:
+    id: 164565
+    title: What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article5:
+    id: 164558
+    title: What are the main research methods used in cognitive neuroscience, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
 ---
 
 &nbsp;

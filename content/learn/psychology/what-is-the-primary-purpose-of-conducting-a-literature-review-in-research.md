@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-primary-purpose-of-conducting-a-literature-review-in-research.md
 url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
 score: -1.0
+related_article1:
+    id: 165216
+    title: What are some common mistakes to avoid in APA citation format?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
+related_article2:
+    id: 165223
+    title: What is the word length effect and how does it impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
+related_article3:
+    id: 165209
+    title: How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article4:
+    id: 165220
+    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+related_article5:
+    id: 165212
+    title: How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 ---
 
 &nbsp;

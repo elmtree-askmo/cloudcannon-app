@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle.md
 url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170399
+    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article2:
+    id: 170408
+    title: What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article3:
+    id: 170419
+    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+related_article4:
+    id: 170413
+    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
+related_article5:
+    id: 170419
+    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
 ---
 
 &nbsp;

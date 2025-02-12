@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water.md
 url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
 score: -1.0
+related_article1:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article2:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article3:
+    id: 167317
+    title: Explain how the pH scale is used to measure acidity and alkalinity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
+related_article4:
+    id: 167312
+    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+related_article5:
+    id: 167313
+    title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
 ---
 
 &nbsp;

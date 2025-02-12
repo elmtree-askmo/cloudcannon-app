@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-advanced-materials-contribute-to-technical-developments-in-architecture.md
 url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
 score: -1.0
+related_article1:
+    id: 169360
+    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+related_article2:
+    id: 169369
+    title: What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article3:
+    id: 169362
+    title: What techniques are used in three-dimensional space creation to add depth and rhythm?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
+related_article4:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
+related_article5:
+    id: 169370
+    title: How do innovative structures utilize stainless-steel sticks to achieve structural ambiguity?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-innovative-structures-utilize-stainlesssteel-sticks-to-achieve-structural-ambiguity
 ---
 
 &nbsp;

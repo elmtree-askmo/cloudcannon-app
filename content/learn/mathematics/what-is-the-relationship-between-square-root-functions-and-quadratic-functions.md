@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-square-root-functions-and-quadratic-functions.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 score: -1.0
+related_article1:
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article2:
+    id: 163799
+    title: How do quadratic functions relate to square root functions graphically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+related_article3:
+    id: 163805
+    title: How can solving quadratic equations help in understanding related functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-solving-quadratic-equations-help-in-understanding-related-functions
+related_article4:
+    id: 163803
+    title: How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+related_article5:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
 ---
 
 &nbsp;

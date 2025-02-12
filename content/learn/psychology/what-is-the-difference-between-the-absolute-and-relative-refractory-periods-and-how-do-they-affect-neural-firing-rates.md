@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates.md
 url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
 score: -1.0
+related_article1:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+related_article2:
+    id: 164819
+    title: What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
+related_article3:
+    id: 164817
+    title: What is the resting potential of a neuron and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+related_article4:
+    id: 164821
+    title: How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article5:
+    id: 164828
+    title: What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 ---
 
 &nbsp;

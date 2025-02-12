@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-differential-gene-expression-and-why-is-it-important.md
 url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 167825
+    title: What are the main sources of genetic variation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
+related_article2:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article3:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article4:
+    id: 167812
+    title: What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article5:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
 ---
 
 &nbsp;

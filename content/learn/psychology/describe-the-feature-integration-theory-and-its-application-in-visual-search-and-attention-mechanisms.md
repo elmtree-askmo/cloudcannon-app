@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms.md
 url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 score: -1.0
+related_article1:
+    id: 164914
+    title: Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+related_article2:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article3:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article4:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article5:
+    id: 164908
+    title: How do frontal lobe functions relate to executive function and decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
 ---
 
 &nbsp;

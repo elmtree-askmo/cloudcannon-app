@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: provide-an-example-of-a-contradiction-and-explain-its-characteristics.md
 url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
 score: -1.0
+related_article1:
+    id: 170248
+    title: What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article2:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article3:
+    id: 170243
+    title: What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article4:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article5:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-societal-norms-and-media-influence-healthcare-policies-and-practices.md
 url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
 score: -1.0
+related_article1:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article2:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article3:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article4:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article5:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 ---
 
 &nbsp;

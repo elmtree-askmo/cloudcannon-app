@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction.md
 url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 score: -1.0
+related_article1:
+    id: 170774
+    title: What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+related_article2:
+    id: 170763
+    title: Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article3:
+    id: 170762
+    title: Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article4:
+    id: 170774
+    title: What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+related_article5:
+    id: 170774
+    title: What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 ---
 
 &nbsp;

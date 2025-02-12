@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed.md
 url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
 score: -1.0
+related_article1:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article2:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article3:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article4:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article5:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
 ---
 
 &nbsp;

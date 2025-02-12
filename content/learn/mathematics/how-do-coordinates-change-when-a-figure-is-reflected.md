@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-coordinates-change-when-a-figure-is-reflected.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 score: -1.0
+related_article1:
+    id: 162703
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article2:
+    id: 162822
+    title: What is orientation reversal in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+related_article3:
+    id: 162530
+    title: What misunderstandings might arise regarding symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+related_article4:
+    id: 162517
+    title: How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+related_article5:
+    id: 162392
+    title: What changes occur when reflecting a point across both axes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
 ---
 
 &nbsp;

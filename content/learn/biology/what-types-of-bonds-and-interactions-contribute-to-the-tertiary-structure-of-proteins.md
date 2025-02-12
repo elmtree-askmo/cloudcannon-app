@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins.md
 url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 165334
+    title: What are the key properties of amino acids that affect their interaction with water?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
+related_article2:
+    id: 165338
+    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+related_article3:
+    id: 165344
+    title: Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article4:
+    id: 165344
+    title: Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article5:
+    id: 165342
+    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
 ---
 
 &nbsp;

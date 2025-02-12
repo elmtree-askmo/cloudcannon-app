@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight.md
 url: /learn/sociology/questions/what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight
 score: -1.0
+related_article1:
+    id: 168962
+    title: How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
+related_article2:
+    id: 168966
+    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+related_article3:
+    id: 168962
+    title: How did post-WWII deindustrialization impact urban neighborhoods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
+related_article4:
+    id: 168965
+    title: What role does racial identity play in the political and economic orders of urban spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
+related_article5:
+    id: 168968
+    title: How have the origins of blight transitioned from agricultural to urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology.md
 url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
 score: -1.0
+related_article1:
+    id: 165823
+    title: How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article2:
+    id: 165824
+    title: Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+related_article3:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article4:
+    id: 165820
+    title: How do abiotic factors influence the occurrence of diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+related_article5:
+    id: 165824
+    title: Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
 ---
 
 &nbsp;

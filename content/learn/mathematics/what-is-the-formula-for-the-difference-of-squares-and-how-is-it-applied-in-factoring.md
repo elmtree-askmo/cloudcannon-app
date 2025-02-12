@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring.md
 url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
 score: -1.0
+related_article1:
+    id: 168274
+    title: How do you factor a polynomial by grouping terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+related_article2:
+    id: 168277
+    title: What are some common polynomial identities, and how can they be used in factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
+related_article3:
+    id: 168274
+    title: How do you factor a polynomial by grouping terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+related_article4:
+    id: 168274
+    title: How do you factor a polynomial by grouping terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+related_article5:
+    id: 168275
+    title: What is the standard form of a quadratic equation, and how can it be solved by factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-how-can-it-be-solved-by-factoring
 ---
 
 &nbsp;

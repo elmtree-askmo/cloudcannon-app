@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-organisms-adapt-and-evolve-in-response-to-their-environment.md
 url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
 score: -1.0
+related_article1:
+    id: 167594
+    title: How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article2:
+    id: 167600
+    title: What evidence supports the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+related_article3:
+    id: 167588
+    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+related_article4:
+    id: 167584
+    title: What are the main steps involved in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-steps-involved-in-the-scientific-method
+related_article5:
+    id: 167595
+    title: What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation.md
 url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
 score: -1.0
+related_article1:
+    id: 163778
+    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
+related_article2:
+    id: 163785
+    title: What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article3:
+    id: 163787
+    title: What are the key differences between the equations of linear and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+related_article4:
+    id: 163774
+    title: How do horizontal and vertical asymptotes differ in the context of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
+related_article5:
+    id: 163778
+    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-have-regional-design-projects-in-japan-influenced-international-design-trends.md
 url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 score: -1.0
+related_article1:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article2:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+related_article3:
+    id: 169400
+    title: How does color integration enhance community engagement in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
+related_article4:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article5:
+    id: 169409
+    title: What are some innovations in modern architectural design that have emerged recently?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction.md
 url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 score: -1.0
+related_article1:
+    id: 168937
+    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+related_article2:
+    id: 168932
+    title: Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
+    subject: Biology
+    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
+related_article3:
+    id: 168932
+    title: Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
+    subject: Biology
+    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
+related_article4:
+    id: 168931
+    title: How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
+related_article5:
+    id: 168943
+    title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
 ---
 
 &nbsp;

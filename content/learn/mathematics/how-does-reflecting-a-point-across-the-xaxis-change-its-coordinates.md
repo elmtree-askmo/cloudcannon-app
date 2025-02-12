@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates.md
 url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 score: -1.0
+related_article1:
+    id: 162517
+    title: How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+related_article2:
+    id: 162904
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article3:
+    id: 162898
+    title: How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+related_article4:
+    id: 162754
+    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article5:
+    id: 162642
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 ---
 
 &nbsp;

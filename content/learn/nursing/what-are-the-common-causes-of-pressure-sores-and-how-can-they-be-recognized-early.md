@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early.md
 url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
 score: -1.0
+related_article1:
+    id: 169478
+    title: How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article2:
+    id: 169486
+    title: How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
+related_article3:
+    id: 169493
+    title: What are common sources of infection in healthcare, and why is hygiene important in prevention?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
+related_article4:
+    id: 169484
+    title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
+related_article5:
+    id: 169485
+    title: What are effective communication strategies for building rapport with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
 ---
 
 &nbsp;

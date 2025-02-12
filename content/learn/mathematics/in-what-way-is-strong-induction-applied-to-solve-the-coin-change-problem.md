@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem.md
 url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170692
+    title: How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article2:
+    id: 170690
+    title: How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article3:
+    id: 170701
+    title: How is the recursive nature of the Fibonacci sequence defined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-recursive-nature-of-the-fibonacci-sequence-defined
+related_article4:
+    id: 170690
+    title: How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article5:
+    id: 170695
+    title: Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
 ---
 
 &nbsp;

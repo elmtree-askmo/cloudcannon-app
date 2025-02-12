@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-removal-of-electrons-lead-to-ionization.md
 url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-ionization
 score: -1.0
+related_article1:
+    id: 162067
+    title: What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+related_article2:
+    id: 162060
+    title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
+related_article3:
+    id: 161993
+    title: What is the significance of the formation of ions in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
+related_article4:
+    id: 162039
+    title: What are the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+related_article5:
+    id: 161933
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

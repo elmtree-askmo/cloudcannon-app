@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-structural-features-of-an-enzymes-active-site-determine-its-specificity-for-substrates.md
 url: /learn/biology/questions/what-structural-features-of-an-enzymes-active-site-determine-its-specificity-for-substrates
 score: -1.0
+related_article1:
+    id: 167174
+    title: Compare the structural differences between lipids and carbohydrates.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
+related_article2:
+    id: 167174
+    title: Compare the structural differences between lipids and carbohydrates.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
+related_article3:
+    id: 167172
+    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+related_article4:
+    id: 167175
+    title: What is the key difference between saturated and unsaturated fatty acids in terms of chemical structure and physical state at room temperature?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-key-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure-and-physical-state-at-room-temperature
+related_article5:
+    id: 167176
+    title: How does the length of a fatty acid's hydrocarbon chain affect its properties?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
 ---
 
 &nbsp;

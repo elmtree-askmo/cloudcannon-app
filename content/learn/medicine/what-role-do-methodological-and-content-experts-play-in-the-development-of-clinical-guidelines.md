@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines.md
 url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 score: -1.0
+related_article1:
+    id: 163177
+    title: How does the Framingham Risk Score predict cardiovascular disease risk, and what population is it most suitable for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-does-the-framingham-risk-score-predict-cardiovascular-disease-risk-and-what-population-is-it-most-suitable-for
+related_article2:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article3:
+    id: 163178
+    title: What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
+related_article4:
+    id: 163174
+    title: How do risk prediction tools assist in therapy or prevention, and what are their limitations?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
+related_article5:
+    id: 163178
+    title: What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
 ---
 
 &nbsp;

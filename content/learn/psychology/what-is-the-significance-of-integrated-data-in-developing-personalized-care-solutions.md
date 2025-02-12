@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions.md
 url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
 score: -1.0
+related_article1:
+    id: 164082
+    title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
+related_article2:
+    id: 164072
+    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article3:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article4:
+    id: 164072
+    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article5:
+    id: 164071
+    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 ---
 
 &nbsp;

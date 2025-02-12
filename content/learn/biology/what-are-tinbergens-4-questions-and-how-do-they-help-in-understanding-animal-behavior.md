@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior.md
 url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
+related_article1:
+    id: 165265
+    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
+related_article2:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article3:
+    id: 165260
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article4:
+    id: 165264
+    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article5:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
 ---
 
 &nbsp;

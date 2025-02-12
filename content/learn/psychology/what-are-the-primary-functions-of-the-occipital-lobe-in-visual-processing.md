@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 score: -1.0
+related_article1:
+    id: 164655
+    title: How does the fovea contribute to the portable magnification factor?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
+related_article2:
+    id: 164649
+    title: How is hemianopia related to occipital lobe disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+related_article3:
+    id: 164657
+    title: What causes cortical blindness and how does it relate to the phenomenon of blindsight?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomenon-of-blindsight
+related_article4:
+    id: 164646
+    title: What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article5:
+    id: 164652
+    title: What is blindsight and how is it demonstrated experimentally?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 ---
 
 &nbsp;

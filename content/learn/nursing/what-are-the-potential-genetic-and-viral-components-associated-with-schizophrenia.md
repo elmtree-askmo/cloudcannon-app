@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia.md
 url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 score: -1.0
+related_article1:
+    id: 170453
+    title: Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
+related_article2:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article3:
+    id: 170456
+    title: What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
+related_article4:
+    id: 170455
+    title: What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
+related_article5:
+    id: 170447
+    title: Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
 ---
 
 &nbsp;

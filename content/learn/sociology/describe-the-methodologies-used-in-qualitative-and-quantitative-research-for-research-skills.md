@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills.md
 url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 score: -1.0
+related_article1:
+    id: 160547
+    title: Discuss the impact of global markets on local economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
+related_article2:
+    id: 160224
+    title: What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+related_article3:
+    id: 160222
+    title: What role do community dynamics and social inequality play in shaping social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+related_article4:
+    id: 160097
+    title: What is the role of political geography in understanding borders and boundaries within territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
+related_article5:
+    id: 160079
+    title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-negation-and-provide-its-truth-table.md
 url: /learn/mathematics/questions/define-negation-and-provide-its-truth-table
 score: -1.0
+related_article1:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article2:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article3:
+    id: 170237
+    title: Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
+related_article4:
+    id: 170236
+    title: How does propositional logic connect to computing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+related_article5:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-behavioral-selection-influence-animal-populations.md
 url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
 score: -1.0
+related_article1:
+    id: 165294
+    title: Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article2:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article3:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article4:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article5:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 ---
 
 &nbsp;

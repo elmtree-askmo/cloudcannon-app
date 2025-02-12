@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-nurses-ensure-patient-safety-when-administering-medication.md
 url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
 score: -1.0
+related_article1:
+    id: 169738
+    title: What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article2:
+    id: 169735
+    title: What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+related_article3:
+    id: 169733
+    title: What are the key risks associated with IV medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
+related_article4:
+    id: 169730
+    title: How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article5:
+    id: 169732
+    title: How do you calculate the drop rate for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
 ---
 
 &nbsp;

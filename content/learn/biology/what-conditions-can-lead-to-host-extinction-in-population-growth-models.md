@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-conditions-can-lead-to-host-extinction-in-population-growth-models.md
 url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
 score: -1.0
+related_article1:
+    id: 166128
+    title: Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+related_article2:
+    id: 166127
+    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article3:
+    id: 166131
+    title: What factors affect transmission rates in host-parasite relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+related_article4:
+    id: 166128
+    title: Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+related_article5:
+    id: 166121
+    title: How does parasitism influence parasite population density and potentially lead to population crashes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
 ---
 
 &nbsp;

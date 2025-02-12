@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-structure-of-a-protein.md
 url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
 score: -1.0
+related_article1:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article2:
+    id: 169960
+    title: How does selective permeability contribute to homeostasis in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
+related_article3:
+    id: 169949
+    title: What is the structural difference between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-dna-and-rna
+related_article4:
+    id: 169945
+    title: What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article5:
+    id: 169941
+    title: What role do electrolytes play in chemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 ---
 
 &nbsp;

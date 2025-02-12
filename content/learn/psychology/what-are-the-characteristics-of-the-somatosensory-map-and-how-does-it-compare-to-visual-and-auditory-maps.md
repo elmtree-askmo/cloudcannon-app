@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 score: -1.0
+related_article1:
+    id: 164647
+    title: How does damage to the occipital lobe affect visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
+related_article2:
+    id: 164650
+    title: What are the symptoms of hemianopia and how does it affect daily life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+related_article3:
+    id: 164650
+    title: What are the symptoms of hemianopia and how does it affect daily life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+related_article4:
+    id: 164651
+    title: What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+related_article5:
+    id: 164654
+    title: What is the portable magnification factor and why is it important in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
 ---
 
 &nbsp;

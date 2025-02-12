@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix.md
 url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 score: -1.0
+related_article1:
+    id: 170802
+    title: What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article2:
+    id: 170809
+    title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article3:
+    id: 170809
+    title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article4:
+    id: 170796
+    title: How does the frequency of a strategy impact fitness dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
+related_article5:
+    id: 170798
+    title: Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
 ---
 
 &nbsp;

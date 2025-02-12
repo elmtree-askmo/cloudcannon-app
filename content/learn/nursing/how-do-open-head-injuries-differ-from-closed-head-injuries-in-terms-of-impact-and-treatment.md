@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment.md
 url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 score: -1.0
+related_article1:
+    id: 164446
+    title: How does the temporal lobe contribute to memory and learning processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
+related_article2:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article3:
+    id: 164452
+    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article4:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+related_article5:
+    id: 164441
+    title: What are the main causes and risk factors associated with traumatic brain injury (TBI)?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
 ---
 
 &nbsp;

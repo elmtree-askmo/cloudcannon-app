@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-role-of-nomenclature-in-taxonomy.md
 url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
 score: -1.0
+related_article1:
+    id: 165826
+    title: How do parasites manipulate host behavior to enhance transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
+related_article2:
+    id: 165820
+    title: How do abiotic factors influence the occurrence of diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+related_article3:
+    id: 165822
+    title: What factors contribute to the distribution and abundance of parasites in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
+related_article4:
+    id: 165813
+    title: How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article5:
+    id: 165813
+    title: How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 ---
 
 &nbsp;

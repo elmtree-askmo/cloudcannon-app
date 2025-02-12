@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-work-values-influence-career-satisfaction.md
 url: /learn/psychology/questions/how-can-work-values-influence-career-satisfaction
 score: -1.0
+related_article1:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article2:
+    id: 168445
+    title: What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article3:
+    id: 168451
+    title: What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article4:
+    id: 168440
+    title: What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article5:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 ---
 
 &nbsp;

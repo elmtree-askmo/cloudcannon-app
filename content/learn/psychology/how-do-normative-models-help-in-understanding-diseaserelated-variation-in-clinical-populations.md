@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-normative-models-help-in-understanding-diseaserelated-variation-in-clinical-populations.md
 url: /learn/psychology/questions/how-do-normative-models-help-in-understanding-diseaserelated-variation-in-clinical-populations
 score: -1.0
+related_article1:
+    id: 164083
+    title: How does brain morphology contribute to a transdiagnostic approach in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
+related_article2:
+    id: 164079
+    title: What are the benefits of data-driven personalized care in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
+related_article3:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article4:
+    id: 164078
+    title: How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article5:
+    id: 164071
+    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 ---
 
 &nbsp;

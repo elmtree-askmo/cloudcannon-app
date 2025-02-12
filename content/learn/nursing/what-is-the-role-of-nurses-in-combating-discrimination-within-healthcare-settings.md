@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings.md
 url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article2:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article3:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article4:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article5:
+    id: 169653
+    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
 ---
 
 &nbsp;

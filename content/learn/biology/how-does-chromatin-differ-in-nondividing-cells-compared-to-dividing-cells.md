@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells.md
 url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
 score: -1.0
+related_article1:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article2:
+    id: 167808
+    title: How do genetic resemblance and variation contribute to the study of genetics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
+related_article3:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article4:
+    id: 167809
+    title: Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article5:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
 ---
 
 &nbsp;

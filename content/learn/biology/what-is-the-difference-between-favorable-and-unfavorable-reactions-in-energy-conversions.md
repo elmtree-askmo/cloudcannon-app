@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions.md
 url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
 score: -1.0
+related_article1:
+    id: 170991
+    title: What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
+related_article2:
+    id: 170981
+    title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
+related_article3:
+    id: 170988
+    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article5:
+    id: 170978
+    title: What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
 ---
 
 &nbsp;

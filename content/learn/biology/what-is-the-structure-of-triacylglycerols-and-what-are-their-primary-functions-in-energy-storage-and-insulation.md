@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation.md
 url: /learn/biology/questions/what-is-the-structure-of-triacylglycerols-and-what-are-their-primary-functions-in-energy-storage-and-insulation
 score: -1.0
+related_article1:
+    id: 167200
+    title: What are the main structural components of fats, phospholipids, and steroids, and how do these structures relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-structural-components-of-fats-phospholipids-and-steroids-and-how-do-these-structures-relate-to-their-functions
+related_article2:
+    id: 167205
+    title: What are the monomer subunits of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
+related_article3:
+    id: 167208
+    title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
+related_article4:
+    id: 167204
+    title: What are the key structural differences between lipids and other biomolecules, and how do these differences affect their solubility?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-lipids-and-other-biomolecules-and-how-do-these-differences-affect-their-solubility
+related_article5:
+    id: 167208
+    title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
 ---
 
 &nbsp;

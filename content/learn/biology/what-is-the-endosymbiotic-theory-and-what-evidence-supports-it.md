@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-endosymbiotic-theory-and-what-evidence-supports-it.md
 url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
 score: -1.0
+related_article1:
+    id: 167753
+    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+related_article2:
+    id: 167758
+    title: How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article3:
+    id: 167758
+    title: How do species interactions shape community structure and what are trophic levels?
+    subject: Biology
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+related_article4:
+    id: 167753
+    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+related_article5:
+    id: 167765
+    title: What was the Darwinian Revolution and what were its key ideas and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 ---
 
 &nbsp;

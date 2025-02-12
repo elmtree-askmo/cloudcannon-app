@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources.md
 url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 score: -1.0
+related_article1:
+    id: 159664
+    title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+related_article2:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article3:
+    id: 159680
+    title: What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+related_article4:
+    id: 159667
+    title: How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+related_article5:
+    id: 159681
+    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
 ---
 
 &nbsp;

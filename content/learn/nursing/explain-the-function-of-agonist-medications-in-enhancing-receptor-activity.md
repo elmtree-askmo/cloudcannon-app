@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-function-of-agonist-medications-in-enhancing-receptor-activity.md
 url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
 score: -1.0
+related_article1:
+    id: 166449
+    title: How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article2:
+    id: 166439
+    title: What are prototype drugs, and why are they important in the study of opioid medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
+related_article3:
+    id: 166442
+    title: Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article4:
+    id: 166440
+    title: How do endogenous opioids function as the body's natural painkillers?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
+related_article5:
+    id: 166448
+    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 ---
 
 &nbsp;

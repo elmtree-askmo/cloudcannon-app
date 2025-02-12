@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-role-of-systemic-circulation-in-drug-distribution.md
 url: /learn/nursing/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
 score: -1.0
+related_article1:
+    id: 166426
+    title: Define bioavailability and identify two factors that influence it.
+    subject: Nursing
+    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+related_article2:
+    id: 166423
+    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
+related_article3:
+    id: 166437
+    title: What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+related_article4:
+    id: 166434
+    title: What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
+related_article5:
+    id: 166425
+    title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 ---
 
 &nbsp;

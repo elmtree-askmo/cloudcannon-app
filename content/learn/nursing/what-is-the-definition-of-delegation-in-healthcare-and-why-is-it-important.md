@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important.md
 url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article2:
+    id: 169570
+    title: How does supervision play a role in safe medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
+related_article3:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article4:
+    id: 169558
+    title: Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
+related_article5:
+    id: 169569
+    title: What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-syntax-and-grammar-in-the-context-of-language-processing.md
 url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
 score: -1.0
+related_article1:
+    id: 164392
+    title: Identify the brain regions involved in speech production.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+related_article2:
+    id: 164382
+    title: Explain the specialization of brain hemispheres in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
+related_article3:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article4:
+    id: 164387
+    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
+related_article5:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 ---
 
 &nbsp;

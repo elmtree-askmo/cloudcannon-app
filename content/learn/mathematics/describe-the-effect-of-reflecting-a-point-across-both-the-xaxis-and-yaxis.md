@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis.md
 url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 score: -1.0
+related_article1:
+    id: 162694
+    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+related_article2:
+    id: 162756
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article3:
+    id: 162892
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article4:
+    id: 162803
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article5:
+    id: 162897
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 ---
 
 &nbsp;

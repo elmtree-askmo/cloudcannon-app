@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-attention-allocation-affect-performance-in-divided-attention-tasks.md
 url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
 score: -1.0
+related_article1:
+    id: 164756
+    title: What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article2:
+    id: 164769
+    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+related_article3:
+    id: 164754
+    title: What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
+related_article4:
+    id: 164762
+    title: How does Alzheimer's disease affect memory formation and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+related_article5:
+    id: 164770
+    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 ---
 
 &nbsp;

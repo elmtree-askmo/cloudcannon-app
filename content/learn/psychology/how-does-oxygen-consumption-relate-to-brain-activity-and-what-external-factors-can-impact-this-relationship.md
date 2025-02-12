@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship.md
 url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
 score: -1.0
+related_article1:
+    id: 164308
+    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article2:
+    id: 164305
+    title: What are the main advantages of fMRI over PET in neuroimaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
+related_article3:
+    id: 164307
+    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+related_article4:
+    id: 164311
+    title: What are some applications of MRI in anatomical and functional imaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
+related_article5:
+    id: 164307
+    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
 ---
 
 &nbsp;

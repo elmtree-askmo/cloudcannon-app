@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-affect-membrane-permeability-and-how-do-they-influence-transport.md
 url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
 score: -1.0
+related_article1:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article2:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article3:
+    id: 167195
+    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
+related_article4:
+    id: 167184
+    title: In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article5:
+    id: 167196
+    title: Compare the energy requirements of passive and active transport.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
 ---
 
 &nbsp;

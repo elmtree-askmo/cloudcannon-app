@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-were-some-key-discoveries-in-the-historical-development-of-neuroscience.md
 url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
 score: -1.0
+related_article1:
+    id: 164673
+    title: Describe the stages involved in memory processes.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
+related_article2:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article3:
+    id: 164679
+    title: How does emotion influence cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+related_article4:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article5:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-confocal-microscopy-achieve-optical-sectioning.md
 url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
 score: -1.0
+related_article1:
+    id: 170951
+    title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
+related_article2:
+    id: 170949
+    title: What were some key contributions of early scientists to the development of microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+related_article3:
+    id: 170947
+    title: What are the advantages of superresolution microscopy over conventional microscopy techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
+related_article4:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article5:
+    id: 170945
+    title: What are the primary differences between transmission electron microscopy (TEM) and scanning electron microscopy (SEM)?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
 ---
 
 &nbsp;

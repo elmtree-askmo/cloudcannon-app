@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice.md
 url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
 score: -1.0
+related_article1:
+    id: 169620
+    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+related_article2:
+    id: 169622
+    title: What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article3:
+    id: 169626
+    title: What is the significance of continuous professional development (CPD) in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
+related_article4:
+    id: 169627
+    title: How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article5:
+    id: 169618
+    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available.md
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
 score: -1.0
+related_article1:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article2:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article3:
+    id: 164500
+    title: What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+related_article4:
+    id: 164502
+    title: How does memory contribute to the formation of personal identity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-memory-contribute-to-the-formation-of-personal-identity
+related_article5:
+    id: 164481
+    title: How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems.md
 url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
 score: -1.0
+related_article1:
+    id: 160640
+    title: What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
+related_article2:
+    id: 160510
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article3:
+    id: 160562
+    title: What role do international cooperation and diplomatic relations play in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
+related_article4:
+    id: 160105
+    title: What are Doreen Massey's theoretical contributions to time-space compression and place dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+related_article5:
+    id: 160214
+    title: What are the physical and human systems that define geographic settings in regional disparities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-carbon-dioxide-in-photosynthesis.md
 url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170375
+    title: How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article2:
+    id: 170375
+    title: How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article3:
+    id: 170363
+    title: What is the primary function of mitochondria in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
+related_article4:
+    id: 170358
+    title: What are the main carbon reservoirs in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+related_article5:
+    id: 170367
+    title: How is ATP produced in the mitochondria?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
 ---
 
 &nbsp;

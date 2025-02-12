@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ.md
 url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article2:
+    id: 166826
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 166828
+    title: Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
+related_article4:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article5:
+    id: 166835
+    title: What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
 ---
 
 &nbsp;

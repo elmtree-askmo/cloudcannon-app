@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design.md
 url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 score: -1.0
+related_article1:
+    id: 169415
+    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+related_article2:
+    id: 169406
+    title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+related_article3:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article4:
+    id: 169415
+    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+related_article5:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
 ---
 
 &nbsp;

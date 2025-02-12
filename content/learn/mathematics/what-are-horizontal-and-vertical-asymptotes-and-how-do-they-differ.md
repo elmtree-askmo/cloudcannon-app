@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ.md
 url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 163837
+    title: How can you compare the shapes of linear and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
+related_article2:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article3:
+    id: 163829
+    title: What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+related_article4:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article5:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 ---
 
 &nbsp;

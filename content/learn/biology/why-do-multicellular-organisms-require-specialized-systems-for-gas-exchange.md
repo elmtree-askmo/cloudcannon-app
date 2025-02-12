@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange.md
 url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
 score: -1.0
+related_article1:
+    id: 168769
+    title: How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article2:
+    id: 168775
+    title: What are the main components of chloroplasts and their functions in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
+related_article3:
+    id: 168781
+    title: Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+related_article4:
+    id: 168781
+    title: Describe the structure of the tracheal system in insects and its role in respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+related_article5:
+    id: 168773
+    title: How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative.md
 url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
 score: -1.0
+related_article1:
+    id: 165636
+    title: What strategies are effective for political communication and public engagement?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+related_article2:
+    id: 165635
+    title: How do economic and social policies interconnect in political dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
+related_article3:
+    id: 165636
+    title: What strategies are effective for political communication and public engagement?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+related_article4:
+    id: 165630
+    title: What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+related_article5:
+    id: 165622
+    title: How do economic and social issues influence voting behavior in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 ---
 
 &nbsp;

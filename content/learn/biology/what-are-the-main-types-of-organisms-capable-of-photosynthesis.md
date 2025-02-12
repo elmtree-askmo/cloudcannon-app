@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-types-of-organisms-capable-of-photosynthesis.md
 url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
 score: -1.0
+related_article1:
+    id: 170939
+    title: How do organisms adapt to varying levels of oxygen availability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
+related_article2:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+related_article3:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+related_article4:
+    id: 170933
+    title: What factors can affect an organism's metabolic rate?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
+related_article5:
+    id: 170928
+    title: Which organisms are capable of respiration?
+    subject: Biology
+    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
 ---
 
 &nbsp;

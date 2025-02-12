@@ -21,6 +21,26 @@ subject: Nursing
 file_name: describe-the-challenges-in-the-treatment-and-management-of-alzheimers-and-parkinsons-diseases.md
 url: /learn/nursing/questions/describe-the-challenges-in-the-treatment-and-management-of-alzheimers-and-parkinsons-diseases
 score: -1.0
+related_article1:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article2:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article3:
+    id: 170455
+    title: What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
+related_article4:
+    id: 170455
+    title: What are the treatment options for hydrocephalus, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
 ---
 
 &nbsp;

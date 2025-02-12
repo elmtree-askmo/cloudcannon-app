@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-structural-components-of-fats-phospholipids-and-steroids-and-how-do-these-structures-relate-to-their-functions.md
 url: /learn/biology/questions/what-are-the-main-structural-components-of-fats-phospholipids-and-steroids-and-how-do-these-structures-relate-to-their-functions
 score: -1.0
+related_article1:
+    id: 167207
+    title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
+related_article2:
+    id: 167209
+    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
+related_article3:
+    id: 167205
+    title: What are the monomer subunits of proteins, nucleic acids, and carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
+related_article4:
+    id: 167212
+    title: Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-steroids-and-their-roles-in-hormonal-functions-and-as-membrane-components
+related_article5:
+    id: 167207
+    title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
 ---
 
 &nbsp;

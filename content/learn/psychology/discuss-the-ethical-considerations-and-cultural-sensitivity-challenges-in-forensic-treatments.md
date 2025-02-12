@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments.md
 url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
 score: -1.0
+related_article1:
+    id: 164059
+    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
+related_article2:
+    id: 164063
+    title: What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
+related_article3:
+    id: 164064
+    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    subject: Psychology
+    url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
+related_article4:
+    id: 164058
+    title: Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
+related_article5:
+    id: 164060
+    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
 ---
 
 &nbsp;

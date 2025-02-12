@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles.md
 url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
 score: -1.0
+related_article1:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article2:
+    id: 169854
+    title: How is power factor correction achieved in electrical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
+related_article3:
+    id: 169844
+    title: How do Kirchhoff's laws apply to the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+related_article4:
+    id: 169846
+    title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+related_article5:
+    id: 169852
+    title: What are the electrical characteristics of bipoles in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
 ---
 
 &nbsp;

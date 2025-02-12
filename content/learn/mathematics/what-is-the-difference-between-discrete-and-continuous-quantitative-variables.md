@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-difference-between-discrete-and-continuous-quantitative-variables.md
 url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
 score: -1.0
+related_article1:
+    id: 170279
+    title: Define a parameter and a statistic in the context of statistical analysis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-parameter-and-a-statistic-in-the-context-of-statistical-analysis
+related_article2:
+    id: 170276
+    title: What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+related_article3:
+    id: 170280
+    title: How do quantitative variables differ from qualitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
+related_article4:
+    id: 170277
+    title: Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article5:
+    id: 170282
+    title: Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 ---
 
 &nbsp;

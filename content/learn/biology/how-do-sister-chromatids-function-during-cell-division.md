@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-sister-chromatids-function-during-cell-division.md
 url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
 score: -1.0
+related_article1:
+    id: 167826
+    title: How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article2:
+    id: 167809
+    title: Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article3:
+    id: 167827
+    title: What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article4:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+related_article5:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
 ---
 
 &nbsp;

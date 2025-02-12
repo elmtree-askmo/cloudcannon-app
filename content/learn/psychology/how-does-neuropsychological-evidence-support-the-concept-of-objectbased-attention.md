@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention.md
 url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
 score: -1.0
+related_article1:
+    id: 164760
+    title: What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article2:
+    id: 164751
+    title: What role does salience play in maintaining vigilance and alertness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
+related_article3:
+    id: 164759
+    title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
+related_article4:
+    id: 164760
+    title: What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article5:
+    id: 164759
+    title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
 ---
 
 &nbsp;

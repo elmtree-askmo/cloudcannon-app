@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure.md
 url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
 score: -1.0
+related_article1:
+    id: 166872
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article2:
+    id: 166869
+    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+related_article3:
+    id: 166878
+    title: What role do nucleic acids play in information storage and protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-nucleic-acids-play-in-information-storage-and-protein-synthesis
+related_article4:
+    id: 166867
+    title: What are the primary functions of DNA and RNA in the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-functions-of-dna-and-rna-in-the-cell
+related_article5:
+    id: 166872
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 ---
 
 &nbsp;

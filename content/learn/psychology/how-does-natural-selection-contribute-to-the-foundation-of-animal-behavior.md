@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior.md
 url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165289
+    title: What are Tinbergen's four questions and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article2:
+    id: 165302
+    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+related_article3:
+    id: 165290
+    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
+related_article4:
+    id: 165293
+    title: What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article5:
+    id: 165306
+    title: Explain disruptive selection and its potential impact on a species.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases.md
 url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
 score: -1.0
+related_article1:
+    id: 165833
+    title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+related_article2:
+    id: 165830
+    title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
+related_article3:
+    id: 165837
+    title: What are some challenges associated with vector control in the spread of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
+related_article4:
+    id: 165835
+    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+related_article5:
+    id: 165834
+    title: What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
 ---
 
 &nbsp;

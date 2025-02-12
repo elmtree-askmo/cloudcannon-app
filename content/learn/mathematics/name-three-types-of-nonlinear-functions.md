@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: name-three-types-of-nonlinear-functions.md
 url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
 score: -1.0
+related_article1:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article2:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article3:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article4:
+    id: 163820
+    title: How can the average rate of change be interpreted for cube root functions over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
+related_article5:
+    id: 163808
+    title: How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 ---
 
 &nbsp;

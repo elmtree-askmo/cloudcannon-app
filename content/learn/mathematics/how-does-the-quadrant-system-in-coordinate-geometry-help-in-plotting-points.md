@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points.md
 url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geometry-help-in-plotting-points
 score: -1.0
+related_article1:
+    id: 162136
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article2:
+    id: 162126
+    title: What are the three main types of geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+related_article3:
+    id: 162128
+    title: What is the definition of congruent figures in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
+related_article4:
+    id: 162133
+    title: What is the result of translating a geometric figure in terms of its shape and size?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+related_article5:
+    id: 162133
+    title: What is the result of translating a geometric figure in terms of its shape and size?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
 ---
 
 &nbsp;

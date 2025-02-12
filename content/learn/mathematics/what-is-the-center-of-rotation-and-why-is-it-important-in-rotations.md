@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: what-is-the-center-of-rotation-and-why-is-it-important-in-rotations.md
 url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
 score: -1.0
+related_article1:
+    id: 162245
+    title: How are the vertices of a triangle transformed during a geometric transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+related_article2:
+    id: 162500
+    title: What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article3:
+    id: 162489
+    title: What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article4:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
 ---
 
 &nbsp;

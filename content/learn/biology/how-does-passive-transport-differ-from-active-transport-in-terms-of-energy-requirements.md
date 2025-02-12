@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements.md
 url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
 score: -1.0
+related_article1:
+    id: 166938
+    title: What is the difference between channel proteins and carrier proteins in terms of their function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
+related_article2:
+    id: 166942
+    title: How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article3:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article4:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+related_article5:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 ---
 
 &nbsp;

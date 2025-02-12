@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-significance-of-the-carbon-cycle-in-ecosystems.md
 url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170926
+    title: What are the main types of organisms capable of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+related_article2:
+    id: 170928
+    title: Which organisms are capable of respiration?
+    subject: Biology
+    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
+related_article3:
+    id: 170938
+    title: What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
+related_article4:
+    id: 170931
+    title: What are the main uses of energy in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+related_article5:
+    id: 170938
+    title: What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
 ---
 
 &nbsp;

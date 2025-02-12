@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism.md
 url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
 score: -1.0
+related_article1:
+    id: 167440
+    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+related_article2:
+    id: 167424
+    title: How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
+related_article3:
+    id: 167423
+    title: What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+related_article4:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
+related_article5:
+    id: 167432
+    title: How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 ---
 
 &nbsp;

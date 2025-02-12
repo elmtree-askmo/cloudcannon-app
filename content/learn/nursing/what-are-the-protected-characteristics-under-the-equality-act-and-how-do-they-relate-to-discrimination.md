@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination.md
 url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
 score: -1.0
+related_article1:
+    id: 169637
+    title: What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
+related_article2:
+    id: 169634
+    title: How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
+related_article3:
+    id: 169636
+    title: In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article4:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article5:
+    id: 169637
+    title: What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
 ---
 
 &nbsp;

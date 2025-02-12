@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations.md
 url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
 score: -1.0
+related_article1:
+    id: 162113
+    title: What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
+related_article2:
+    id: 162117
+    title: How do you solve a linear equation in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation-in-algebra
+related_article3:
+    id: 162110
+    title: What is the historical context of negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-context-of-negative-numbers
+related_article4:
+    id: 162109
+    title: How can you solve for X using the isolation method?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-solve-for-x-using-the-isolation-method
+related_article5:
+    id: 162118
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
 ---
 
 &nbsp;

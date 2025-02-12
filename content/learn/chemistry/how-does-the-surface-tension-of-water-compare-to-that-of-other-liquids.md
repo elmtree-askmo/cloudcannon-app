@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids.md
 url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 score: -1.0
+related_article1:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+related_article2:
+    id: 167441
+    title: How do animals utilize evaporative cooling for temperature regulation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
+related_article3:
+    id: 167435
+    title: Discuss the biological importance of water as a solvent, particularly in kidney function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
+related_article4:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article5:
+    id: 167439
+    title: What is the biological significance of the lower density of ice compared to liquid water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 ---
 
 &nbsp;

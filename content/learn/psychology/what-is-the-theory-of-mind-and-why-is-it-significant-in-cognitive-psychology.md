@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 167977
+    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+related_article2:
+    id: 167983
+    title: What is the role of beliefs in predicting behavior in social settings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
+related_article3:
+    id: 167972
+    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+related_article4:
+    id: 167978
+    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+related_article5:
+    id: 167983
+    title: What is the role of beliefs in predicting behavior in social settings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
 ---
 
 &nbsp;

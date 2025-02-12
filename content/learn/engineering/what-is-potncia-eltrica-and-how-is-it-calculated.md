@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-potncia-eltrica-and-how-is-it-calculated.md
 url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
 score: -1.0
+related_article1:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article2:
+    id: 169827
+    title: What constitutes a circuito elétrico and how does it function?
+    subject: Engineering
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+related_article3:
+    id: 169837
+    title: State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article4:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article5:
+    id: 169842
+    title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
 ---
 
 &nbsp;

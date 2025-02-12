@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds.md
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 score: -1.0
+related_article1:
+    id: 167497
+    title: How does a hydrolysis reaction contribute to the breakdown of polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
+related_article2:
+    id: 167496
+    title: What is the role of dehydration reactions in the formation of biological polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
+related_article3:
+    id: 167497
+    title: How does a hydrolysis reaction contribute to the breakdown of polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
+related_article4:
+    id: 167503
+    title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article5:
+    id: 167502
+    title: What structural role does cellulose play in plant cell walls?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example.md
 url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
 score: -1.0
+related_article1:
+    id: 170726
+    title: How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+related_article2:
+    id: 170727
+    title: What are the fundamental concepts of mathematical induction, and how did it historically develop?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
+related_article3:
+    id: 170724
+    title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
+related_article4:
+    id: 170732
+    title: What are the basic concepts of set theory, and how do operations on sets function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
+related_article5:
+    id: 170726
+    title: How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
 ---
 
 &nbsp;

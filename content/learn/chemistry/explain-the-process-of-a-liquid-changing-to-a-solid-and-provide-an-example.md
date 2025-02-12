@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example.md
 url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 161934
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article2:
+    id: 162028
+    title: What are the characteristics of a liquid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+related_article3:
+    id: 162027
+    title: How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article4:
+    id: 161754
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article5:
+    id: 162014
+    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
 ---
 
 &nbsp;

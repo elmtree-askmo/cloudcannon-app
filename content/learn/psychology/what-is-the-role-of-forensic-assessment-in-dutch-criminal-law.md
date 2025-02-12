@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-forensic-assessment-in-dutch-criminal-law.md
 url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
 score: -1.0
+related_article1:
+    id: 164042
+    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article2:
+    id: 164045
+    title: What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
+related_article3:
+    id: 164050
+    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
+related_article4:
+    id: 164042
+    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article5:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
 ---
 
 &nbsp;

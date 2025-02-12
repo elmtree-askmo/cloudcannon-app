@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-biological-function-of-rna-and-its-location-within-cells.md
 url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
 score: -1.0
+related_article1:
+    id: 166830
+    title: How are phosphodiester linkages formed between nucleotides?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
+related_article2:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article3:
+    id: 166834
+    title: Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
+related_article4:
+    id: 166829
+    title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+related_article5:
+    id: 166831
+    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
 ---
 
 &nbsp;

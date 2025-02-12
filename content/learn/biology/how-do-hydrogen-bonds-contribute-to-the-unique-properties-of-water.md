@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water.md
 url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 score: -1.0
+related_article1:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article2:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article3:
+    id: 167580
+    title: How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article4:
+    id: 167577
+    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    subject: Biology
+    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
+related_article5:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
 ---
 
 &nbsp;

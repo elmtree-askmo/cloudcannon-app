@@ -21,6 +21,26 @@ subject: Nursing
 file_name: describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids.md
 url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
 score: -1.0
+related_article1:
+    id: 168813
+    title: Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article2:
+    id: 168825
+    title: What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article3:
+    id: 168824
+    title: How are chylomicrons transported through the lymphatic vessels?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+related_article4:
+    id: 168817
+    title: What is the role of epithelial cells in the absorption of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement.md
 url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 score: -1.0
+related_article1:
+    id: 168365
+    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+related_article2:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article3:
+    id: 168370
+    title: How does emotional intelligence impact social interactions and adaptation to change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
+related_article4:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article5:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 ---
 
 &nbsp;

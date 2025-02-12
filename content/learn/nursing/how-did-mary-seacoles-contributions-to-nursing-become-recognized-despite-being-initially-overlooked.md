@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked.md
 url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 score: -1.0
+related_article1:
+    id: 169595
+    title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+related_article2:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article3:
+    id: 169587
+    title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+related_article4:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article5:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 ---
 
 &nbsp;

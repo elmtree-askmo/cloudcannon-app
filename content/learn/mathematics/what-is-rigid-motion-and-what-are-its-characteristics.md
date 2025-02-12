@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-rigid-motion-and-what-are-its-characteristics.md
 url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 score: -1.0
+related_article1:
+    id: 162144
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article2:
+    id: 162304
+    title: How is translation considered a type of rigid motion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
+related_article3:
+    id: 162144
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article4:
+    id: 162158
+    title: What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+related_article5:
+    id: 162148
+    title: How do translations affect the endpoints of line segments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
 ---
 
 &nbsp;

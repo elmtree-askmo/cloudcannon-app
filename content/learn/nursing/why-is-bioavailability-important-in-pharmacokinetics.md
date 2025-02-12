@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-bioavailability-important-in-pharmacokinetics.md
 url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
 score: -1.0
+related_article1:
+    id: 166469
+    title: How do synergistic effects influence drug efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
+related_article2:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article3:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article4:
+    id: 166453
+    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article5:
+    id: 166454
+    title: How do storage conditions affect the stability of pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
 ---
 
 &nbsp;

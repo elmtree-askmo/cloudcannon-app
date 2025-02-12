@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-parasites-acquire-nutrients-from-their-hosts.md
 url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 score: -1.0
+related_article1:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article2:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article3:
+    id: 165816
+    title: What are the defense mechanisms employed by hosts against pathogens?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+related_article4:
+    id: 165824
+    title: Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
 ---
 
 &nbsp;

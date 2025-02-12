@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection.md
 url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166334
+    title: What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article2:
+    id: 166328
+    title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
+related_article3:
+    id: 166335
+    title: How does genetic transmission affect the heritability of traits from parent to offspring?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-transmission-affect-the-heritability-of-traits-from-parent-to-offspring
+related_article4:
+    id: 166329
+    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+related_article5:
+    id: 166321
+    title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-suggestibility-in-children-change-with-age.md
 url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 score: -1.0
+related_article1:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article2:
+    id: 168028
+    title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+related_article3:
+    id: 168029
+    title: How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article4:
+    id: 168030
+    title: What are the developmental differences that affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+related_article5:
+    id: 168012
+    title: What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
 ---
 
 &nbsp;

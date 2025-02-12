@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles.md
 url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
 score: -1.0
+related_article1:
+    id: 170297
+    title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
+related_article2:
+    id: 170295
+    title: How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
+related_article3:
+    id: 170298
+    title: What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article4:
+    id: 170295
+    title: How do plants contribute to carbon cycling in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 ---
 
 &nbsp;

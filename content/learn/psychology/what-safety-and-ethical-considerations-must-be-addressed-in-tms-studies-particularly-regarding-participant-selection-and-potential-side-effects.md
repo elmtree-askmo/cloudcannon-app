@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects.md
 url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
 score: -1.0
+related_article1:
+    id: 164324
+    title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article2:
+    id: 164324
+    title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article3:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article4:
+    id: 164318
+    title: How do monitoring systems and control protocols contribute to the implementation of technical controls?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
+related_article5:
+    id: 164327
+    title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 ---
 
 &nbsp;

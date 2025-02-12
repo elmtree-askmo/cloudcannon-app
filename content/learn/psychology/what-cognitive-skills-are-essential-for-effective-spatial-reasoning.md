@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-cognitive-skills-are-essential-for-effective-spatial-reasoning.md
 url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
 score: -1.0
+related_article1:
+    id: 165239
+    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+related_article2:
+    id: 165242
+    title: How is visual perception studied through task design and data collection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
+related_article3:
+    id: 165243
+    title: Why is the integration of STEM skills important in educational curricula?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+related_article4:
+    id: 165233
+    title: Why are STEM skills important for students studying organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
+related_article5:
+    id: 165239
+    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 ---
 
 &nbsp;

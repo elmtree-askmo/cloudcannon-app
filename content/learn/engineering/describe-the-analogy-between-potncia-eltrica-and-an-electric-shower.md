@@ -21,6 +21,31 @@ subject: Engineering
 file_name: describe-the-analogy-between-potncia-eltrica-and-an-electric-shower.md
 url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 score: -1.0
+related_article1:
+    id: 169835
+    title: What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article2:
+    id: 169829
+    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+related_article3:
+    id: 169834
+    title: How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article4:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article5:
+    id: 169827
+    title: What constitutes a circuito elétrico and how does it function?
+    subject: Engineering
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
 ---
 
 &nbsp;

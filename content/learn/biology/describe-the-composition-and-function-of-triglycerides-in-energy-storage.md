@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-composition-and-function-of-triglycerides-in-energy-storage.md
 url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 score: -1.0
+related_article1:
+    id: 167325
+    title: How does a dehydration reaction contribute to the formation of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
+related_article2:
+    id: 167339
+    title: What is the primary biological function of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
+related_article3:
+    id: 167336
+    title: Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article4:
+    id: 167331
+    title: How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
+related_article5:
+    id: 167332
+    title: Compare the structural differences between DNA and RNA.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
 ---
 
 &nbsp;

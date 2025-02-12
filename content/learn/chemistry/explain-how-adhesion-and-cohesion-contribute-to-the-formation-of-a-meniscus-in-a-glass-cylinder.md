@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder.md
 url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
 score: -1.0
+related_article1:
+    id: 167122
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article2:
+    id: 167127
+    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+related_article3:
+    id: 167114
+    title: What are the polar characteristics of water molecules and how do they interact with ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+related_article4:
+    id: 167124
+    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article5:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 ---
 
 &nbsp;

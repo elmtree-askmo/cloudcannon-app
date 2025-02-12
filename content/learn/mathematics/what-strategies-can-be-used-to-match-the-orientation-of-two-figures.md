@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-strategies-can-be-used-to-match-the-orientation-of-two-figures.md
 url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 score: -1.0
+related_article1:
+    id: 162312
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article2:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article3:
+    id: 162219
+    title: How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+related_article4:
+    id: 162312
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article5:
+    id: 162320
+    title: What is the significance of the order of operations in a sequence of transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
 ---
 
 &nbsp;

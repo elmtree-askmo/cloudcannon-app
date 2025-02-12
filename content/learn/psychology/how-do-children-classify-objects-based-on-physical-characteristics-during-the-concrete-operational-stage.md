@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage.md
 url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
 score: -1.0
+related_article1:
+    id: 168054
+    title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
+related_article2:
+    id: 168052
+    title: What is the significance of understanding quantitative dimensions such as length in logical operations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-quantitative-dimensions-such-as-length-in-logical-operations
+related_article3:
+    id: 168052
+    title: What is the significance of understanding quantitative dimensions such as length in logical operations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-quantitative-dimensions-such-as-length-in-logical-operations
+related_article4:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+related_article5:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
 ---
 
 &nbsp;

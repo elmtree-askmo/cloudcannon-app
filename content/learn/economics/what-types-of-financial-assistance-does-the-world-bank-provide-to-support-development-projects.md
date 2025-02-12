@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects.md
 url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 score: -1.0
+related_article1:
+    id: 159683
+    title: How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+related_article2:
+    id: 159670
+    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
+related_article3:
+    id: 159676
+    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
+related_article4:
+    id: 159671
+    title: How are member quotas and credit arrangements significant to the IMF's resources?
+    subject: Economics
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+related_article5:
+    id: 159670
+    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-differences-between-directional-stabilizing-and-disruptive-selection.md
 url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
 score: -1.0
+related_article1:
+    id: 166403
+    title: Identify and explain the three types of natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
+related_article2:
+    id: 166402
+    title: What is cultural transmission and how does it affect animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+related_article3:
+    id: 166406
+    title: What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article4:
+    id: 166400
+    title: How does natural selection contribute to the foundations of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
+related_article5:
+    id: 166411
+    title: Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 ---
 
 &nbsp;

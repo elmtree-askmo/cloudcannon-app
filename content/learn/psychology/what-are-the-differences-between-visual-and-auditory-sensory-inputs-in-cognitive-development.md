@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development.md
 url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168078
+    title: How do reflexive reactions contribute to cognitive development in infants?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reflexive-reactions-contribute-to-cognitive-development-in-infants
+related_article2:
+    id: 168087
+    title: What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article3:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
+related_article4:
+    id: 168088
+    title: Why are mental representations important for symbolic thought in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
+related_article5:
+    id: 168082
+    title: How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles.md
 url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
 score: -1.0
+related_article1:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article2:
+    id: 167544
+    title: Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article3:
+    id: 167539
+    title: What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+related_article4:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article5:
+    id: 167553
+    title: What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
 ---
 
 &nbsp;

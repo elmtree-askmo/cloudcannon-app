@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions.md
 url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 score: -1.0
+related_article1:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+related_article2:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article3:
+    id: 168892
+    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
+related_article4:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article5:
+    id: 168880
+    title: Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 169945
+    title: What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article2:
+    id: 169945
+    title: What is the structural difference between cellulose and starch?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+related_article3:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article4:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article5:
+    id: 169946
+    title: What are the four levels of protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
 ---
 
 &nbsp;

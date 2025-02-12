@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water.md
 url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 score: -1.0
+related_article1:
+    id: 167144
+    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
+related_article2:
+    id: 167144
+    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
+related_article3:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
+related_article4:
+    id: 167153
+    title: Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+related_article5:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
 ---
 
 &nbsp;

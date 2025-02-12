@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: why-is-the-antiparallel-orientation-crucial-for-dnas-structural-integrity.md
 url: /learn/biotechnology/questions/why-is-the-antiparallel-orientation-crucial-for-dnas-structural-integrity
 score: -1.0
+related_article1:
+    id: 167535
+    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
+related_article2:
+    id: 167529
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article4:
+    id: 167529
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article5:
+    id: 167537
+    title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
 ---
 
 &nbsp;

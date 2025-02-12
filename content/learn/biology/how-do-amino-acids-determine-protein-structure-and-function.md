@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-amino-acids-determine-protein-structure-and-function.md
 url: /learn/biology/questions/how-do-amino-acids-determine-protein-structure-and-function
 score: -1.0
+related_article1:
+    id: 167819
+    title: What is differential gene expression and why is it important?
+    subject: Biology
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
+related_article2:
+    id: 167813
+    title: How does chromatin differ in non-dividing cells compared to dividing cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
+related_article3:
+    id: 167824
+    title: What are the unique features of plant cells compared to animal cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
+related_article4:
+    id: 167819
+    title: What is differential gene expression and why is it important?
+    subject: Biology
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
+related_article5:
+    id: 167825
+    title: What are the main sources of genetic variation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
 ---
 
 &nbsp;

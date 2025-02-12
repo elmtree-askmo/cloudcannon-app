@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-observation-in-the-scientific-method.md
 url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 167509
+    title: Why is analyzing results crucial in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/why-is-analyzing-results-crucial-in-the-scientific-method
+related_article2:
+    id: 167517
+    title: Can you provide examples of well-established scientific theories?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+related_article3:
+    id: 167506
+    title: What are the key characteristics of a testable hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
+related_article4:
+    id: 167517
+    title: Can you provide examples of well-established scientific theories?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+related_article5:
+    id: 167515
+    title: What is the significance of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-cellular-organization-in-living-organisms
 ---
 
 &nbsp;

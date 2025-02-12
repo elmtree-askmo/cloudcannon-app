@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure.md
 url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
 score: -1.0
+related_article1:
+    id: 167063
+    title: How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+related_article2:
+    id: 167069
+    title: How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article3:
+    id: 167065
+    title: What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article4:
+    id: 167063
+    title: How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+related_article5:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
 ---
 
 &nbsp;

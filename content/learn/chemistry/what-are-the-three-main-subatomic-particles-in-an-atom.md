@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-three-main-subatomic-particles-in-an-atom.md
 url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
 score: -1.0
+related_article1:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
+related_article2:
+    id: 166804
+    title: What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article3:
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article4:
+    id: 166797
+    title: How do molecules form from atoms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
+related_article5:
+    id: 166804
+    title: What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
 ---
 
 &nbsp;

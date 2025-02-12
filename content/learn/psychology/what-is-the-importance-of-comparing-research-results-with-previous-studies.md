@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-importance-of-comparing-research-results-with-previous-studies.md
 url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
 score: -1.0
+related_article1:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article2:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article3:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article4:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article5:
+    id: 165072
+    title: What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 ---
 
 &nbsp;

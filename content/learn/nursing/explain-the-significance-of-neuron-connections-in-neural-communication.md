@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-significance-of-neuron-connections-in-neural-communication.md
 url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
 score: -1.0
+related_article1:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article2:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article3:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+related_article4:
+    id: 164805
+    title: Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+related_article5:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-role-of-line-functions-in-public-service-organizations.md
 url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
 score: -1.0
+related_article1:
+    id: 165246
+    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article2:
+    id: 165245
+    title: What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
+related_article3:
+    id: 165250
+    title: How does the merit principle protect against patronage in civil service?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-merit-principle-protect-against-patronage-in-civil-service
+related_article4:
+    id: 165249
+    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article5:
+    id: 165246
+    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
 ---
 
 &nbsp;

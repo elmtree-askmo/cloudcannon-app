@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ.md
 url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 167510
+    title: What is homeostasis and why is it important for living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
+related_article2:
+    id: 167516
+    title: What distinguishes a scientific theory from a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article3:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article4:
+    id: 167505
+    title: How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
+related_article5:
+    id: 167519
+    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
 ---
 
 &nbsp;

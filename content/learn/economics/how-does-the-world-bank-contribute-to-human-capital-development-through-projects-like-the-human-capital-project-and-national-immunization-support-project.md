@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project.md
 url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
 score: -1.0
+related_article1:
+    id: 159681
+    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article2:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article3:
+    id: 159668
+    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
+related_article4:
+    id: 159681
+    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article5:
+    id: 159670
+    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 ---
 
 &nbsp;

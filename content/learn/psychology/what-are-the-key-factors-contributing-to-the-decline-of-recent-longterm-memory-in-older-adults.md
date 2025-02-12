@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults.md
 url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
 score: -1.0
+related_article1:
+    id: 168041
+    title: How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article2:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article3:
+    id: 168039
+    title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
+related_article4:
+    id: 168037
+    title: What distinguishes episodic memory from semantic memory within declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
+related_article5:
+    id: 168038
+    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
 ---
 
 &nbsp;

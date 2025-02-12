@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water.md
 url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
 score: -1.0
+related_article1:
+    id: 167121
+    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+related_article2:
+    id: 167123
+    title: How does the dissociation of carbonic acid influence blood pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-carbonic-acid-influence-blood-ph
+related_article3:
+    id: 167122
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
+    id: 167119
+    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article5:
+    id: 167119
+    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 ---
 
 &nbsp;

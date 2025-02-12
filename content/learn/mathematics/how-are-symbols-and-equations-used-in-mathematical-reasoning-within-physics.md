@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics.md
 url: /learn/mathematics/questions/how-are-symbols-and-equations-used-in-mathematical-reasoning-within-physics
 score: -1.0
+related_article1:
+    id: 165559
+    title: How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+related_article2:
+    id: 165567
+    title: What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article3:
+    id: 165562
+    title: How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article4:
+    id: 165569
+    title: Describe the traditional formulation of Newton's Laws and its field representation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
+related_article5:
+    id: 165562
+    title: How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate.md
 url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
 score: -1.0
+related_article1:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article2:
+    id: 170421
+    title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+related_article3:
+    id: 170434
+    title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+    subject: Biology
+    url: /learn/biology/questions/discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels
+related_article4:
+    id: 170427
+    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
 ---
 
 &nbsp;

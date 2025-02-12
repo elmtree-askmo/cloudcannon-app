@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-students-effectively-prepare-for-and-review-lab-modules.md
 url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 score: -1.0
+related_article1:
+    id: 163368
+    title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
+    subject: Biology
+    url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
+related_article2:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article3:
+    id: 163362
+    title: Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article4:
+    id: 163362
+    title: Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article5:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table.md
 url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 score: -1.0
+related_article1:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article2:
+    id: 170253
+    title: What is a counter-example, and why is it important in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
+related_article3:
+    id: 170240
+    title: List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+related_article4:
+    id: 170237
+    title: Define a proposition and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
 ---
 
 &nbsp;

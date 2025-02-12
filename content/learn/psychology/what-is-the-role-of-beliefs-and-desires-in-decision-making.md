@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-beliefs-and-desires-in-decision-making.md
 url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 score: -1.0
+related_article1:
+    id: 167976
+    title: Explain the concept of mental state attribution in cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
+related_article2:
+    id: 167974
+    title: What cognitive milestones are associated with understanding mental states in child development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+related_article3:
+    id: 167973
+    title: Describe the Change of Location Task and its role in assessing false belief understanding.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
+related_article4:
+    id: 167982
+    title: How do cognitive processes differentiate between true and false beliefs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
+related_article5:
+    id: 167973
+    title: Describe the Change of Location Task and its role in assessing false belief understanding.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-change-of-location-task-and-its-role-in-assessing-false-belief-understanding
 ---
 
 &nbsp;

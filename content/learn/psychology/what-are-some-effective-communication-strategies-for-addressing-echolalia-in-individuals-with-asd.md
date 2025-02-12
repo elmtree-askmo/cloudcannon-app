@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd.md
 url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
 score: -1.0
+related_article1:
+    id: 169346
+    title: How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
+related_article2:
+    id: 169355
+    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+related_article3:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+related_article4:
+    id: 169353
+    title: What are some age-appropriate strategies for designing interventions in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
+related_article5:
+    id: 169353
+    title: What are some age-appropriate strategies for designing interventions in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
 ---
 
 &nbsp;

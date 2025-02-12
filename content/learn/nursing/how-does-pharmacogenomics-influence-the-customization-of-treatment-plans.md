@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-pharmacogenomics-influence-the-customization-of-treatment-plans.md
 url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
 score: -1.0
+related_article1:
+    id: 166475
+    title: What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
+related_article2:
+    id: 166483
+    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
+related_article3:
+    id: 166482
+    title: What are the potential fetal risks associated with Category D and X drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+related_article4:
+    id: 166485
+    title: How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article5:
+    id: 166477
+    title: What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 ---
 
 &nbsp;

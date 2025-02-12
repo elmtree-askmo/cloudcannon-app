@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology.md
 url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article2:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article3:
+    id: 170921
+    title: How do genetic relationships impact gene flow and genetic drift in populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
+related_article4:
+    id: 170919
+    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
+related_article5:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 ---
 
 &nbsp;

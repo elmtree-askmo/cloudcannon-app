@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-genetic-diversity-contribute-to-the-evolutionary-process.md
 url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
 score: -1.0
+related_article1:
+    id: 167733
+    title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article2:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article3:
+    id: 167731
+    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article4:
+    id: 167727
+    title: Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article5:
+    id: 167737
+    title: Describe the three-domain system and its significance in classifying life forms.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
 ---
 
 &nbsp;

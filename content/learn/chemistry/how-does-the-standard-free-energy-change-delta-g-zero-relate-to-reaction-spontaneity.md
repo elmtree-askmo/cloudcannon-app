@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity.md
 url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
 score: -1.0
+related_article1:
+    id: 170815
+    title: How do enzymes lower activation energy in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
+related_article2:
+    id: 170811
+    title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article3:
+    id: 170822
+    title: How do enzymes influence the energy barriers in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+related_article4:
+    id: 170814
+    title: What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+related_article5:
+    id: 170814
+    title: What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
 ---
 
 &nbsp;

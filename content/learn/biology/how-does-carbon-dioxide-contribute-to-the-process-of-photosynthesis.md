@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis.md
 url: /learn/biology/questions/how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis
 score: -1.0
+related_article1:
+    id: 170389
+    title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article2:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article3:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article4:
+    id: 170389
+    title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
+related_article5:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
 ---
 
 &nbsp;

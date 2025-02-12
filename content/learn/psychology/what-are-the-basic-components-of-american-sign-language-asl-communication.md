@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-basic-components-of-american-sign-language-asl-communication.md
 url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
 score: -1.0
+related_article1:
+    id: 167691
+    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article2:
+    id: 167687
+    title: How can healthy behaviors be differentiated from unhealthy ones?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article3:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article4:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+related_article5:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
 ---
 
 &nbsp;

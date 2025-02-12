@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner.md
 url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
 score: -1.0
+related_article1:
+    id: 170027
+    title: How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+related_article2:
+    id: 170009
+    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article3:
+    id: 170025
+    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article4:
+    id: 170015
+    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
+related_article5:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

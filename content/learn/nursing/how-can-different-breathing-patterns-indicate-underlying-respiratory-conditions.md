@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions.md
 url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
 score: -1.0
+related_article1:
+    id: 169465
+    title: How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+related_article2:
+    id: 169472
+    title: What immediate actions should be taken in response to signs of patient deterioration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
+related_article3:
+    id: 169470
+    title: How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+related_article4:
+    id: 169469
+    title: What is the purpose of the NEWS chart, and what are its main components?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
+related_article5:
+    id: 169468
+    title: How does patient monitoring technology enhance the accuracy of vital sign recording?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation.md
 url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
 score: -1.0
+related_article1:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article2:
+    id: 165845
+    title: What modern technological advancements are being applied in parasitology research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+related_article3:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article4:
+    id: 165846
+    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+related_article5:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 ---
 
 &nbsp;

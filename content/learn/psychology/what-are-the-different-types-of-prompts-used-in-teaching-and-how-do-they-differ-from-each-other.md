@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other.md
 url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 score: -1.0
+related_article1:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article2:
+    id: 169332
+    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+related_article3:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article4:
+    id: 169347
+    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+related_article5:
+    id: 169353
+    title: What are some age-appropriate strategies for designing interventions in developmental psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
 ---
 
 &nbsp;

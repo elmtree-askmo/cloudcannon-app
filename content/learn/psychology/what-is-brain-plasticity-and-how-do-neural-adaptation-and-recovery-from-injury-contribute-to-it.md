@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it.md
 url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
 score: -1.0
+related_article1:
+    id: 164854
+    title: How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+related_article2:
+    id: 164868
+    title: Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
+related_article3:
+    id: 164853
+    title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article4:
+    id: 164869
+    title: How does neurodivergence, such as ADHD and autism, impact memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
+related_article5:
+    id: 164863
+    title: What are the main characteristics of implicit and explicit memory, and how do they differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
 ---
 
 &nbsp;

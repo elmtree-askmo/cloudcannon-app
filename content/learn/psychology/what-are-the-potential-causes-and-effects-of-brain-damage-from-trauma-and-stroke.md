@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke.md
 url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
 score: -1.0
+related_article1:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article2:
+    id: 170596
+    title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
+related_article3:
+    id: 170596
+    title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
+related_article4:
+    id: 170581
+    title: What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article5:
+    id: 170585
+    title: What functions are associated with the frontal lobe in terms of personality and planning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 ---
 
 &nbsp;

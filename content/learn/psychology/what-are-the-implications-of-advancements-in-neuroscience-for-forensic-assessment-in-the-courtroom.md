@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom.md
 url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
 score: -1.0
+related_article1:
+    id: 164054
+    title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
+related_article2:
+    id: 164042
+    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article3:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article4:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article5:
+    id: 164044
+    title: How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 ---
 
 &nbsp;

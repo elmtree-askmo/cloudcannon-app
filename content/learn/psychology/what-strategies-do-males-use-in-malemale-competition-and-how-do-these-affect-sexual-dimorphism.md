@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism.md
 url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
 score: -1.0
+related_article1:
+    id: 170996
+    title: How do forgiveness and provocative strategies differ in game theory applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
+related_article2:
+    id: 170995
+    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article3:
+    id: 171016
+    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article4:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article5:
+    id: 171007
+    title: What are the defining characteristics of promiscuity in the animal kingdom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-recursive-functions.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
 score: -1.0
+related_article1:
+    id: 170713
+    title: Why is time complexity important in algorithm analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
+related_article2:
+    id: 170720
+    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+related_article3:
+    id: 170719
+    title: What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
+related_article4:
+    id: 170712
+    title: How can recursive thinking be applied to algorithm design?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
+related_article5:
+    id: 170707
+    title: What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
 ---
 
 &nbsp;

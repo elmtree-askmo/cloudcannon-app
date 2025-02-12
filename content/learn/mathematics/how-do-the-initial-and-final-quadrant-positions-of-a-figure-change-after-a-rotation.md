@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation.md
 url: /learn/mathematics/questions/how-do-the-initial-and-final-quadrant-positions-of-a-figure-change-after-a-rotation
 score: -1.0
+related_article1:
+    id: 162103
+    title: What observable patterns occur in quadrant shifts during rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
+related_article2:
+    id: 162097
+    title: How does a 180-degree rotation affect the position and orientation of a two-dimensional figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-180degree-rotation-affect-the-position-and-orientation-of-a-twodimensional-figure
+related_article3:
+    id: 162103
+    title: What observable patterns occur in quadrant shifts during rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
+related_article4:
+    id: 162100
+    title: What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
+related_article5:
+    id: 162094
+    title: What are the components of the coordinate plane, and how do they relate to each other?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-components-of-the-coordinate-plane-and-how-do-they-relate-to-each-other
 ---
 
 &nbsp;

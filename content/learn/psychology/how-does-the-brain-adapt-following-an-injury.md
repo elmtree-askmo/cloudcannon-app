@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-brain-adapt-following-an-injury.md
 url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
 score: -1.0
+related_article1:
+    id: 164685
+    title: How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article2:
+    id: 164676
+    title: What is the role of PET scans in brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+related_article3:
+    id: 164694
+    title: What are the career paths available for students pursuing a neuroscience minor?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+related_article4:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article5:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 ---
 
 &nbsp;

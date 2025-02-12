@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
 score: -1.0
+related_article1:
+    id: 165206
+    title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article2:
+    id: 165194
+    title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
+related_article3:
+    id: 165190
+    title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
+related_article4:
+    id: 165206
+    title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+related_article5:
+    id: 165197
+    title: How do independent and dependent variables contribute to the structure of an experimental design, and why are they important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-contribute-to-the-structure-of-an-experimental-design-and-why-are-they-important
 ---
 
 &nbsp;

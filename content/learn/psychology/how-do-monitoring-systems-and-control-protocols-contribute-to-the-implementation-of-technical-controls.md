@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls.md
 url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
 score: -1.0
+related_article1:
+    id: 164316
+    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
+related_article2:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article3:
+    id: 164328
+    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
+related_article4:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article5:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 ---
 
 &nbsp;

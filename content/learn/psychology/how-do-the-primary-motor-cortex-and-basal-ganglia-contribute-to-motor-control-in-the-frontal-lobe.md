@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe.md
 url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 score: -1.0
+related_article1:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+related_article2:
+    id: 170530
+    title: What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article3:
+    id: 170537
+    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article4:
+    id: 170532
+    title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
+related_article5:
+    id: 170543
+    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
 ---
 
 &nbsp;

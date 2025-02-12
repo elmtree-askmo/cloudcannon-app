@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced.md
 url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
 score: -1.0
+related_article1:
+    id: 169596
+    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article2:
+    id: 169591
+    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+related_article3:
+    id: 169598
+    title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+related_article4:
+    id: 169595
+    title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+related_article5:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 ---
 
 &nbsp;

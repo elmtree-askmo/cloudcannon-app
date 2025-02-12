@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis.md
 url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
 score: -1.0
+related_article1:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article2:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article3:
+    id: 169321
+    title: What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article4:
+    id: 169314
+    title: What is differential reinforcement and what is its primary purpose?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+related_article5:
+    id: 169329
+    title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 ---
 
 &nbsp;

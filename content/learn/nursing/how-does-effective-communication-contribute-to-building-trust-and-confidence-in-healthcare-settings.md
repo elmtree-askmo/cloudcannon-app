@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings.md
 url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article2:
+    id: 169622
+    title: What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article3:
+    id: 169625
+    title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+related_article4:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article5:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 ---
 
 &nbsp;

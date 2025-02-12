@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust.md
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 score: -1.0
+related_article1:
+    id: 162024
+    title: What is the significance of electron removal in the ionization process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+related_article2:
+    id: 162032
+    title: How does the reactivity of iron with oxygen lead to rust formation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation
+related_article3:
+    id: 162027
+    title: How does the appearance of a substance relate to its physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+related_article4:
+    id: 161994
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161991
+    title: How does the process of shaving wood represent a physical change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
 ---
 
 &nbsp;

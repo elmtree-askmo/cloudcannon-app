@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-the-binomial-series-be-applied-in-mathematical-proofs.md
 url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
 score: -1.0
+related_article1:
+    id: 170740
+    title: What is an inductive hypothesis and how is it formulated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
+related_article2:
+    id: 170746
+    title: What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+related_article3:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article4:
+    id: 170740
+    title: What is an inductive hypothesis and how is it formulated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
+related_article5:
+    id: 170743
+    title: How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
 ---
 
 &nbsp;

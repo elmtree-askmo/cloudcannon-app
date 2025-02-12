@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-isotopes-of-an-element-differ-from-each-other.md
 url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
 score: -1.0
+related_article1:
+    id: 167056
+    title: How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article2:
+    id: 167067
+    title: What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article3:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article4:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article5:
+    id: 167057
+    title: What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

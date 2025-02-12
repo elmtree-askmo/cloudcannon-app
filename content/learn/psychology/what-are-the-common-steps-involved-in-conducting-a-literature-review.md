@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-common-steps-involved-in-conducting-a-literature-review.md
 url: /learn/psychology/questions/what-are-the-common-steps-involved-in-conducting-a-literature-review
 score: -1.0
+related_article1:
+    id: 165214
+    title: What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
+related_article2:
+    id: 165209
+    title: How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+related_article3:
+    id: 165208
+    title: What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+related_article4:
+    id: 165212
+    title: How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article5:
+    id: 165209
+    title: How do independent and dependent variables influence research design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
 ---
 
 &nbsp;

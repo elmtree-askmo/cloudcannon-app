@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained.md
 url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
 score: -1.0
+related_article1:
+    id: 169632
+    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+related_article2:
+    id: 169636
+    title: In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article3:
+    id: 169628
+    title: What are the key elements that define discrimination and how do they manifest in society?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
+related_article4:
+    id: 169633
+    title: What strategies can be employed to recognize and challenge insidious discrimination in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings
+related_article5:
+    id: 169639
+    title: Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
 ---
 
 &nbsp;

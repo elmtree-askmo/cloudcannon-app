@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-macroevolution-and-provide-examples-of-patterns-and-processes-involved.md
 url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 score: -1.0
+related_article1:
+    id: 167756
+    title: What were the causes and consequences of the Cambrian Explosion?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article2:
+    id: 167749
+    title: Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article3:
+    id: 167753
+    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+related_article4:
+    id: 167760
+    title: What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article5:
+    id: 167762
+    title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    subject: Biology
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
 ---
 
 &nbsp;

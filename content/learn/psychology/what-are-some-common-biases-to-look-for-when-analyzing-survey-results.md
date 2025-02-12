@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-common-biases-to-look-for-when-analyzing-survey-results.md
 url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
 score: -1.0
+related_article1:
+    id: 164984
+    title: How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article2:
+    id: 164990
+    title: How can peer feedback improve presentation skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
+related_article3:
+    id: 164981
+    title: What is a double-barrel question, and why should it be avoided in survey design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
+related_article4:
+    id: 164987
+    title: In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article5:
+    id: 164981
+    title: What is a double-barrel question, and why should it be avoided in survey design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
 ---
 
 &nbsp;

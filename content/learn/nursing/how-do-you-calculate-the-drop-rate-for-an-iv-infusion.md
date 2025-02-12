@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-you-calculate-the-drop-rate-for-an-iv-infusion.md
 url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
 score: -1.0
+related_article1:
+    id: 169735
+    title: What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+related_article2:
+    id: 169736
+    title: What are the potential legal consequences of medication errors in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
+related_article3:
+    id: 169730
+    title: How do you convert milliliters to liters?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
+related_article4:
+    id: 169737
+    title: How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article5:
+    id: 169735
+    title: What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 ---
 
 &nbsp;

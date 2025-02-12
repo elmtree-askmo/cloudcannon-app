@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hydrogen-bonds-influence-the-properties-of-water.md
 url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 score: -1.0
+related_article1:
+    id: 167451
+    title: How does the octet rule contribute to the stability of atoms in chemical bonding?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
+related_article2:
+    id: 167447
+    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+related_article3:
+    id: 167457
+    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article4:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article5:
+    id: 167447
+    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 ---
 
 &nbsp;

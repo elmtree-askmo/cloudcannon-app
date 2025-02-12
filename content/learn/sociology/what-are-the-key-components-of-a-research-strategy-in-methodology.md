@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-are-the-key-components-of-a-research-strategy-in-methodology.md
 url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
 score: -1.0
+related_article1:
+    id: 163658
+    title: What are the key differences between participant observation and interviews in qualitative research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
+related_article2:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article3:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article4:
+    id: 163670
+    title: What is the historical context of settler colonialism and its impact on Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 ---
 
 &nbsp;

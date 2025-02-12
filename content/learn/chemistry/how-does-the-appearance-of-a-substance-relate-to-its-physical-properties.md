@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-appearance-of-a-substance-relate-to-its-physical-properties.md
 url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
 score: -1.0
+related_article1:
+    id: 162056
+    title: What is the significance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+related_article2:
+    id: 162058
+    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+related_article3:
+    id: 162038
+    title: What is the role of chemical change indicators in identifying precipitation reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
+related_article4:
+    id: 162040
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 162055
+    title: What are the characteristics of a precipitation reaction involving silver and chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
 ---
 
 &nbsp;

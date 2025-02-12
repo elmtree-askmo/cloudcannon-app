@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews.md
 url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
 score: -1.0
+related_article1:
+    id: 169153
+    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+related_article2:
+    id: 169153
+    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+related_article3:
+    id: 169155
+    title: What role do national and tribal museums play in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+related_article4:
+    id: 169165
+    title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+related_article5:
+    id: 169166
+    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion.md
 url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 score: -1.0
+related_article1:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article2:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article3:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article4:
+    id: 167188
+    title: Describe the role of carrier proteins in facilitated diffusion.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article5:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 ---
 
 &nbsp;

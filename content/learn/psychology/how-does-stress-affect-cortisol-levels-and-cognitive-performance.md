@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-stress-affect-cortisol-levels-and-cognitive-performance.md
 url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
 score: -1.0
+related_article1:
+    id: 164431
+    title: Why is early language exposure important for vocabulary and grammar development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+related_article2:
+    id: 164437
+    title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article3:
+    id: 164423
+    title: How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+related_article4:
+    id: 164422
+    title: What are the primary functions of the temporal lobe in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+related_article5:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

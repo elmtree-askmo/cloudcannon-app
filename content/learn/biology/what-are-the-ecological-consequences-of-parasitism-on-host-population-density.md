@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-ecological-consequences-of-parasitism-on-host-population-density.md
 url: /learn/biology/questions/what-are-the-ecological-consequences-of-parasitism-on-host-population-density
 score: -1.0
+related_article1:
+    id: 166132
+    title: How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article2:
+    id: 166132
+    title: How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
+related_article3:
+    id: 166129
+    title: What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+related_article4:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article5:
+    id: 166118
+    title: What are the key factors influencing host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
 ---
 
 &nbsp;

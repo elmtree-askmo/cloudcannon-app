@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-role-does-the-hydroxyl-group-play-in-rna-structure.md
 url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
 score: -1.0
+related_article1:
+    id: 167648
+    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article2:
+    id: 167648
+    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article3:
+    id: 167634
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article4:
+    id: 167642
+    title: What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
+related_article5:
+    id: 167646
+    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids.md
 url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
 score: -1.0
+related_article1:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article2:
+    id: 168825
+    title: What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+related_article3:
+    id: 168814
+    title: What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
+related_article4:
+    id: 168812
+    title: How does bile contribute to the emulsification of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+related_article5:
+    id: 168822
+    title: How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor.md
 url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
 score: -1.0
+related_article1:
+    id: 164687
+    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+related_article2:
+    id: 164687
+    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+related_article3:
+    id: 164673
+    title: Describe the stages involved in memory processes.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
+related_article4:
+    id: 164687
+    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+related_article5:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 ---
 
 &nbsp;

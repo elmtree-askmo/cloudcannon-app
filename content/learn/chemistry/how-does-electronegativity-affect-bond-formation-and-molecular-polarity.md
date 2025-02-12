@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-electronegativity-affect-bond-formation-and-molecular-polarity.md
 url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
 score: -1.0
+related_article1:
+    id: 167077
+    title: Describe the role of amino acids as building blocks in protein structure and function.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+related_article2:
+    id: 167083
+    title: What are the primary types of biomolecules and their functions in living organisms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
+related_article3:
+    id: 167075
+    title: How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
+related_article4:
+    id: 167084
+    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+related_article5:
+    id: 167084
+    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
 ---
 
 &nbsp;

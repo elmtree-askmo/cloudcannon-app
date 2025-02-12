@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks.md
 url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
 score: -1.0
+related_article1:
+    id: 167152
+    title: What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article2:
+    id: 167152
+    title: What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article3:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article4:
+    id: 167150
+    title: What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article5:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
 ---
 
 &nbsp;

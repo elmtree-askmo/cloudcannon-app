@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals.md
 url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 score: -1.0
+related_article1:
+    id: 169652
+    title: What societal changes have occurred in the legal and social context of transgender issues?
+    subject: Nursing
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+related_article2:
+    id: 169662
+    title: What strategies can be used to provide compassionate care in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
+related_article3:
+    id: 169648
+    title: Why is it important to use correct terminology when discussing gender identity?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+related_article4:
+    id: 169653
+    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article5:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

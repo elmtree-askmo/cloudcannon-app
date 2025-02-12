@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-social-connectedness-influence-emotional-perception-and-experience.md
 url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
 score: -1.0
+related_article1:
+    id: 164523
+    title: What role does the amygdala play in processing core emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
+related_article2:
+    id: 164531
+    title: What role do mirror neurons play in social and emotional imitation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-mirror-neurons-play-in-social-and-emotional-imitation
+related_article3:
+    id: 164528
+    title: How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article4:
+    id: 164540
+    title: How do neurotransmitter systems influence emotion regulation and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
+related_article5:
+    id: 164538
+    title: How do executive functions like cognitive control and flexibility contribute to effective decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-functions-like-cognitive-control-and-flexibility-contribute-to-effective-decisionmaking
 ---
 
 &nbsp;

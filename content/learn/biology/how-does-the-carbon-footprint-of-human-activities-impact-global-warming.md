@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-carbon-footprint-of-human-activities-impact-global-warming.md
 url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
 score: -1.0
+related_article1:
+    id: 170424
+    title: What are carbon sinks, and how do they function within the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
+related_article2:
+    id: 170429
+    title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
+related_article3:
+    id: 170439
+    title: Explain the unique properties of carbon that make it vital for biological processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
+related_article4:
+    id: 170430
+    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
+related_article5:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

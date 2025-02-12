@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development.md
 url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
 score: -1.0
+related_article1:
+    id: 166663
+    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+related_article2:
+    id: 166670
+    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+related_article3:
+    id: 166668
+    title: How are kinematic equations used in the analysis of motion in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+related_article4:
+    id: 166660
+    title: What is the process of vector addition, and how is it applied in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
+related_article5:
+    id: 166664
+    title: How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
 ---
 
 &nbsp;

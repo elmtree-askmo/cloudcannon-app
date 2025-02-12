@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability.md
 url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
 score: -1.0
+related_article1:
+    id: 167546
+    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
+related_article2:
+    id: 167549
+    title: Explain the concept of selective permeability and its importance in cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
+related_article3:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article4:
+    id: 167545
+    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article5:
+    id: 167552
+    title: Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 ---
 
 &nbsp;

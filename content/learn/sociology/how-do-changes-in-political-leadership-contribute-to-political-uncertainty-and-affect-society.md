@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society.md
 url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
 score: -1.0
+related_article1:
+    id: 168368
+    title: How does wealth distribution affect economic inequality and what government policies address this issue?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+related_article2:
+    id: 168362
+    title: How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article3:
+    id: 168369
+    title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article4:
+    id: 168371
+    title: What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+related_article5:
+    id: 168367
+    title: What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 ---
 
 &nbsp;

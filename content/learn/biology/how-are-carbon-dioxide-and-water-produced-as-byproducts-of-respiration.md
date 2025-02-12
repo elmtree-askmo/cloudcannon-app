@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration.md
 url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 score: -1.0
+related_article1:
+    id: 170928
+    title: Which organisms are capable of respiration?
+    subject: Biology
+    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
+related_article2:
+    id: 170938
+    title: What is the role of oxygen as an electron acceptor in respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
+related_article3:
+    id: 170929
+    title: Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article4:
+    id: 170929
+    title: Explain the role of oxygen in the respiration process.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
+related_article5:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
 ---
 
 &nbsp;

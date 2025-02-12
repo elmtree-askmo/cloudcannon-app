@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation.md
 url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
 score: -1.0
+related_article1:
+    id: 170591
+    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article2:
+    id: 170591
+    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article3:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article4:
+    id: 170569
+    title: How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article5:
+    id: 170583
+    title: What is the role of the limbic system in emotional processing and PTSD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 ---
 
 &nbsp;

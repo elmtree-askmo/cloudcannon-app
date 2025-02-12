@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-basic-mathematical-operations-used-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
 score: -1.0
+related_article1:
+    id: 164921
+    title: How can the dimensions of a square be altered to form a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+related_article2:
+    id: 164928
+    title: What are cytokines and what role do they play in biological systems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
+related_article3:
+    id: 164929
+    title: How can the concept of cytokines be related to mathematical transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-concept-of-cytokines-be-related-to-mathematical-transformations
+related_article4:
+    id: 164924
+    title: What is the difference between length, width, and height in terms of dimensions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-length-width-and-height-in-terms-of-dimensions
+related_article5:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 ---
 
 &nbsp;

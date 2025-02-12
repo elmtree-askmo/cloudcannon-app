@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-genetic-and-environmental-factors-contribute-to-schizophrenia.md
 url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
 score: -1.0
+related_article1:
+    id: 170596
+    title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
+related_article2:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article3:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article4:
+    id: 170580
+    title: What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
+related_article5:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
 ---
 
 &nbsp;

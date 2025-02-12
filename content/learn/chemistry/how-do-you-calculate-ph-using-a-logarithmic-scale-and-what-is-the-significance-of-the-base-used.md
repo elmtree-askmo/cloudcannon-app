@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used.md
 url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
 score: -1.0
+related_article1:
+    id: 166821
+    title: What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article2:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+related_article3:
+    id: 166823
+    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+related_article4:
+    id: 166813
+    title: What is the process of auto-ionization of water and what ions are formed as a result?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
+related_article5:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
 ---
 
 &nbsp;

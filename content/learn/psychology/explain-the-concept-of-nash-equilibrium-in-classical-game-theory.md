@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-nash-equilibrium-in-classical-game-theory.md
 url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
 score: -1.0
+related_article1:
+    id: 170840
+    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+related_article2:
+    id: 170837
+    title: Describe frequency-dependent selection in evolutionary game theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+related_article3:
+    id: 170836
+    title: What are competitive interactions, and how do they relate to rational choice theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
+related_article4:
+    id: 170834
+    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+related_article5:
+    id: 170844
+    title: What is the importance of optimal strategies in competitive interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
 ---
 
 &nbsp;

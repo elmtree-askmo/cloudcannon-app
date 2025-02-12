@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-control-and-experimental-groups-differ-in-scientific-experimentation.md
 url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
 score: -1.0
+related_article1:
+    id: 166196
+    title: What is the importance of observations in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
+related_article2:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article3:
+    id: 166186
+    title: What are the main differences between the domains Bacteria, Archaea, and Eukarya?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
+related_article4:
+    id: 166194
+    title: How do the levels of biological organization progress from molecular to ecological levels?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
+related_article5:
+    id: 166181
+    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
 ---
 
 &nbsp;

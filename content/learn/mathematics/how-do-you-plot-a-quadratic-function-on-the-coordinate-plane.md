@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-plot-a-quadratic-function-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 168404
+    title: How does a vertical reflection transform a parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+related_article2:
+    id: 168404
+    title: How does a vertical reflection transform a parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+related_article3:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article4:
+    id: 168407
+    title: How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article5:
+    id: 168418
+    title: How does symmetry play a role in the graphical properties of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
 ---
 
 &nbsp;

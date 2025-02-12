@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics.md
 url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 score: -1.0
+related_article1:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+related_article2:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article3:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article4:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article5:
+    id: 166420
+    title: Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
 ---
 
 &nbsp;

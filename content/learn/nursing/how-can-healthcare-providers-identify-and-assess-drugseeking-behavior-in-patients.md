@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients.md
 url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
 score: -1.0
+related_article1:
+    id: 169790
+    title: What factors can influence an individual's pain threshold?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article2:
+    id: 169794
+    title: Describe the role of gabapentin in managing neuropathic pain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
+related_article3:
+    id: 169801
+    title: What management strategies can be employed to address drug-seeking behavior?
+    subject: Nursing
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+related_article4:
+    id: 169796
+    title: Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article5:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
 ---
 
 &nbsp;

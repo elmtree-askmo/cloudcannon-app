@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships.md
 url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 score: -1.0
+related_article1:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article2:
+    id: 168361
+    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article3:
+    id: 168355
+    title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+related_article4:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article5:
+    id: 168362
+    title: How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
 ---
 
 &nbsp;

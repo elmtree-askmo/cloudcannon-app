@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations.md
 url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
 score: -1.0
+related_article1:
+    id: 167721
+    title: Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
+related_article2:
+    id: 167713
+    title: How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+related_article3:
+    id: 167718
+    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article4:
+    id: 167714
+    title: How does functionalism differ from structuralism in its approach to understanding mental processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
+related_article5:
+    id: 167714
+    title: How does functionalism differ from structuralism in its approach to understanding mental processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
 ---
 
 &nbsp;

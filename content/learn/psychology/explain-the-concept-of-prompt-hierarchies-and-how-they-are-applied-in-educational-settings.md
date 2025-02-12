@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings.md
 url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
 score: -1.0
+related_article1:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article2:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+related_article3:
+    id: 169342
+    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article4:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article5:
+    id: 169334
+    title: Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 ---
 
 &nbsp;

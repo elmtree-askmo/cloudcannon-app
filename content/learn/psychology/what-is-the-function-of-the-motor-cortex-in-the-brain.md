@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-function-of-the-motor-cortex-in-the-brain.md
 url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
 score: -1.0
+related_article1:
+    id: 164233
+    title: What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
+related_article2:
+    id: 164239
+    title: Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article3:
+    id: 164241
+    title: What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article4:
+    id: 164242
+    title: How do imaging techniques measure neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
 ---
 
 &nbsp;

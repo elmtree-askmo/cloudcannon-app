@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence.md
 url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
 score: -1.0
+related_article1:
+    id: 164118
+    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+related_article2:
+    id: 164123
+    title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
+related_article3:
+    id: 164116
+    title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis
+related_article4:
+    id: 164121
+    title: What is the significance of identity moratorium in the process of identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
+related_article5:
+    id: 164117
+    title: Why is adolescence considered a critical stage in Erikson's theory of identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
 ---
 
 &nbsp;

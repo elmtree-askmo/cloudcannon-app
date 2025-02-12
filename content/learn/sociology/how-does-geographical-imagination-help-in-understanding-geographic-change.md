@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-geographical-imagination-help-in-understanding-geographic-change.md
 url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
 score: -1.0
+related_article1:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article2:
+    id: 159817
+    title: What are the key components of society and spatial organization in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-society-and-spatial-organization-in-human-geography
+related_article3:
+    id: 159824
+    title: Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
+related_article4:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article5:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
 ---
 
 &nbsp;

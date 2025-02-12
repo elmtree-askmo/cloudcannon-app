@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-neurobiological-influences-play-in-shaping-behavior.md
 url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
 score: -1.0
+related_article1:
+    id: 166363
+    title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
+related_article2:
+    id: 166364
+    title: Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+related_article3:
+    id: 166360
+    title: What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article4:
+    id: 166355
+    title: What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article5:
+    id: 166366
+    title: How do genetic influences affect animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
 ---
 
 &nbsp;

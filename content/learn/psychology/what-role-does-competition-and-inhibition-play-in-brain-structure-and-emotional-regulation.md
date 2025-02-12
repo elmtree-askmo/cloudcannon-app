@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation.md
 url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 score: -1.0
+related_article1:
+    id: 164426
+    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+related_article2:
+    id: 164425
+    title: How does stress affect cortisol levels and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+related_article3:
+    id: 164436
+    title: What are the cultural variations in diagnostic criteria for mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
+related_article4:
+    id: 164431
+    title: Why is early language exposure important for vocabulary and grammar development?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+related_article5:
+    id: 164430
+    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 ---
 
 &nbsp;

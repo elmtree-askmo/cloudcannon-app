@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value.md
 url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
 score: -1.0
+related_article1:
+    id: 167377
+    title: What are the common units of concentration used in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
+related_article2:
+    id: 167371
+    title: What is the pH scale and why is it important in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+related_article3:
+    id: 167373
+    title: What is the relationship between hydrogen ion concentration and pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
+related_article4:
+    id: 167377
+    title: What are the common units of concentration used in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-units-of-concentration-used-in-chemistry
+related_article5:
+    id: 167380
+    title: How is scientific notation used to simplify calculations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
 ---
 
 &nbsp;

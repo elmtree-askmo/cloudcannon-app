@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities.md
 url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
 score: -1.0
+related_article1:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article2:
+    id: 162941
+    title: What challenges do asymmetrical threat environments pose to urban development patterns?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
+related_article3:
+    id: 162934
+    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article4:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article5:
+    id: 162940
+    title: How do city-states and shanty-states function as loci of geopolitical control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 ---
 
 &nbsp;

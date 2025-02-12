@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-new-location-of-a-figure-determined-after-a-translation.md
 url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
 score: -1.0
+related_article1:
+    id: 162291
+    title: How do you perform a horizontal translation on a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-perform-a-horizontal-translation-on-a-geometric-figure
+related_article2:
+    id: 162473
+    title: How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article3:
+    id: 162540
+    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article4:
+    id: 162276
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+related_article5:
+    id: 162276
+    title: What is the difference between vertical and horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
 ---
 
 &nbsp;

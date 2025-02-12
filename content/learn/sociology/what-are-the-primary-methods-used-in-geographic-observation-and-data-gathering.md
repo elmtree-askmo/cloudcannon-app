@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering.md
 url: /learn/sociology/questions/what-are-the-primary-methods-used-in-geographic-observation-and-data-gathering
 score: -1.0
+related_article1:
+    id: 159831
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article2:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article3:
+    id: 159826
+    title: How do raster and vector maps differ in GIS applications?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article4:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+related_article5:
+    id: 159823
+    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
 ---
 
 &nbsp;

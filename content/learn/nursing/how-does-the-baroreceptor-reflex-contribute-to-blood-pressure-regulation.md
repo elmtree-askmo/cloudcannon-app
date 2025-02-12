@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation.md
 url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 score: -1.0
+related_article1:
+    id: 170512
+    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article2:
+    id: 170504
+    title: What role does acetylcholine play in muscle contraction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+related_article3:
+    id: 170506
+    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article4:
+    id: 170508
+    title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
+related_article5:
+    id: 170518
+    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
 ---
 
 &nbsp;

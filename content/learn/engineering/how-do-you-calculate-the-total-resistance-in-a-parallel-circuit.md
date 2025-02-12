@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-you-calculate-the-total-resistance-in-a-parallel-circuit.md
 url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
 score: -1.0
+related_article1:
+    id: 167948
+    title: What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
+related_article2:
+    id: 167943
+    title: How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+related_article3:
+    id: 167935
+    title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
+related_article4:
+    id: 167946
+    title: How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article5:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
 ---
 
 &nbsp;

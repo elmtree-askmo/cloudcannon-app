@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role.md
 url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
 score: -1.0
+related_article1:
+    id: 169921
+    title: What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article2:
+    id: 169935
+    title: Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
+related_article3:
+    id: 169934
+    title: What are some common pricing strategies, and how do they impact sales and revenue?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+related_article4:
+    id: 169927
+    title: Describe the process of cost-benefit analysis and its application in policy making.
+    subject: Economics
+    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
+related_article5:
+    id: 169919
+    title: Explain the concept of scarcity and its economic implications.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
 ---
 
 &nbsp;

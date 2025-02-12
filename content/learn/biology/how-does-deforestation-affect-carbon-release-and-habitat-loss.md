@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-deforestation-affect-carbon-release-and-habitat-loss.md
 url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
 score: -1.0
+related_article1:
+    id: 170299
+    title: How do natural and human-derived sources contribute to the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+related_article2:
+    id: 170298
+    title: What are the two main stages of photosynthesis, and where do they occur?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+related_article3:
+    id: 170302
+    title: What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+related_article4:
+    id: 170299
+    title: How do natural and human-derived sources contribute to the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+related_article5:
+    id: 170302
+    title: What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-exclusiveor-operator-and-its-application-in-propositions.md
 url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 score: -1.0
+related_article1:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article2:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article3:
+    id: 170250
+    title: Why are logical equivalencies important in propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article4:
+    id: 170248
+    title: What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article5:
+    id: 170251
+    title: What is a tautology, and how can it be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 ---
 
 &nbsp;

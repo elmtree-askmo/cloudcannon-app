@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials.md
 url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
 score: -1.0
+related_article1:
+    id: 163742
+    title: What is the standard form of a quadratic equation and what do its components represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
+related_article2:
+    id: 163760
+    title: What are some real-world applications of quadratic functions, particularly in interpreting maximum and minimum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-realworld-applications-of-quadratic-functions-particularly-in-interpreting-maximum-and-minimum-values
+related_article3:
+    id: 163747
+    title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+related_article4:
+    id: 163745
+    title: How can you determine the vertex of a parabola from a quadratic equation in standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
+related_article5:
+    id: 163762
+    title: How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
 ---
 
 &nbsp;

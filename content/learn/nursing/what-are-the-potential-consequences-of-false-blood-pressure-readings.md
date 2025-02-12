@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-consequences-of-false-blood-pressure-readings.md
 url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
 score: -1.0
+related_article1:
+    id: 169523
+    title: What health implications can arise from hypotension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+related_article2:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article3:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+related_article4:
+    id: 169520
+    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
+related_article5:
+    id: 169520
+    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 ---
 
 &nbsp;

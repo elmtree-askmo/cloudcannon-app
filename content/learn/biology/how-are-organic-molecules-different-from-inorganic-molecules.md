@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-organic-molecules-different-from-inorganic-molecules.md
 url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 score: -1.0
+related_article1:
+    id: 167411
+    title: What is the role of the carbonyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
+related_article2:
+    id: 167413
+    title: What is the function of the carboxyl group in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
+related_article3:
+    id: 167422
+    title: Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
+related_article4:
+    id: 167415
+    title: What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article5:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 ---
 
 &nbsp;

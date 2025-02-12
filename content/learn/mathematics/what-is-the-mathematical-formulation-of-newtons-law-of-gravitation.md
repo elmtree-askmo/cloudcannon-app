@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-mathematical-formulation-of-newtons-law-of-gravitation.md
 url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
 score: -1.0
+related_article1:
+    id: 165559
+    title: How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+related_article2:
+    id: 165567
+    title: What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article3:
+    id: 165561
+    title: What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article4:
+    id: 165560
+    title: In what ways does physics provide problems that lead to mathematical advancements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
+related_article5:
+    id: 165559
+    title: How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
 ---
 
 &nbsp;

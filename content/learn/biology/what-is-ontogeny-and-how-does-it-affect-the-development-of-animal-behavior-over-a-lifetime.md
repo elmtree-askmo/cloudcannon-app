@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime.md
 url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 score: -1.0
+related_article1:
+    id: 166324
+    title: How does individual learning contribute to natural selection in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
+related_article2:
+    id: 166326
+    title: How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article3:
+    id: 166334
+    title: What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article4:
+    id: 166326
+    title: How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article5:
+    id: 166323
+    title: What role does natural selection play in the evolutionary change of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
 ---
 
 &nbsp;

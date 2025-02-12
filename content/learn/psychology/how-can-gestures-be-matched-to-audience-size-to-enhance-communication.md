@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-can-gestures-be-matched-to-audience-size-to-enhance-communication.md
 url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
 score: -1.0
+related_article1:
+    id: 165390
+    title: What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
+related_article2:
+    id: 165391
+    title: How can celebrating small wins contribute to developing self-respect and confidence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-celebrating-small-wins-contribute-to-developing-selfrespect-and-confidence
+related_article3:
+    id: 165385
+    title: How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
+related_article4:
+    id: 165385
+    title: How can strategic use of eye contact balance confidence and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
 ---
 
 &nbsp;

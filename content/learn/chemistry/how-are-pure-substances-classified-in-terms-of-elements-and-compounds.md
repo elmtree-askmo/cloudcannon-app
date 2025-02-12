@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-are-pure-substances-classified-in-terms-of-elements-and-compounds.md
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 score: -1.0
+related_article1:
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+related_article2:
+    id: 161875
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article3:
+    id: 161728
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article4:
+    id: 161851
+    title: What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article5:
+    id: 161735
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

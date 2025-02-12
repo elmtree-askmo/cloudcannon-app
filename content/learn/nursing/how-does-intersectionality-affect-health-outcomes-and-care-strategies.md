@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-intersectionality-affect-health-outcomes-and-care-strategies.md
 url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 score: -1.0
+related_article1:
+    id: 169656
+    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
+related_article2:
+    id: 169641
+    title: What are some common barriers to healthcare for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+related_article3:
+    id: 169659
+    title: What are some inclusive healthcare practices that create safe environments for patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article4:
+    id: 169646
+    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+related_article5:
+    id: 169650
+    title: What are some barriers to accessing mental health services for transgender individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 ---
 
 &nbsp;

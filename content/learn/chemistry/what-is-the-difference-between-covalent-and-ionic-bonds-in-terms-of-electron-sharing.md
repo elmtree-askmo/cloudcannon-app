@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing.md
 url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
 score: -1.0
+related_article1:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article2:
+    id: 167070
+    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
+related_article3:
+    id: 167060
+    title: How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article4:
+    id: 167067
+    title: What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article5:
+    id: 167070
+    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
 ---
 
 &nbsp;

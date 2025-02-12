@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: provide-examples-of-compounds-and-their-chemical-formulas.md
 url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 score: -1.0
+related_article1:
+    id: 161838
+    title: What are the physical properties of matter, and how are mass and volume related to them?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+related_article2:
+    id: 161709
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article3:
+    id: 161725
+    title: How is mass considered a physical property of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
+related_article4:
+    id: 161915
+    title: Provide examples of heterogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
+related_article5:
+    id: 161886
+    title: List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 ---
 
 &nbsp;

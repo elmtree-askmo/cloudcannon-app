@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water.md
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
 score: -1.0
+related_article1:
+    id: 161750
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article2:
+    id: 161936
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article3:
+    id: 162054
+    title: How can you identify a chemical change through the formation of new substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+related_article4:
+    id: 161982
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article5:
+    id: 162059
+    title: What is the process of ionization and how does it affect the charge of particles?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals.md
 url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
 score: -1.0
+related_article1:
+    id: 169666
+    title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
+related_article2:
+    id: 169672
+    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+related_article3:
+    id: 169670
+    title: How is the safety of medical devices ensured under medications and healthcare products regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
+related_article4:
+    id: 169671
+    title: What procedures are essential for preventing hospital-acquired infections?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
+related_article5:
+    id: 169676
+    title: What are the risks associated with bedrails, and what are the alternatives to their use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 ---
 
 &nbsp;

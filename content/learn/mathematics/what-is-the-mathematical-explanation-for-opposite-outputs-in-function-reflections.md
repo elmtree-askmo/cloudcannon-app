@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections.md
 url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
 score: -1.0
+related_article1:
+    id: 168414
+    title: How does a reflection over the x-axis transform a quadratic function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
+related_article2:
+    id: 168410
+    title: What are the key transformations to identify when analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
+related_article3:
+    id: 168409
+    title: How do you plot a quadratic function on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+related_article4:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article5:
+    id: 168397
+    title: What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-typical-premedical-coursework-requirements-for-medical-school.md
 url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
 score: -1.0
+related_article1:
+    id: 167488
+    title: What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article2:
+    id: 167485
+    title: What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article3:
+    id: 167472
+    title: What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article4:
+    id: 167489
+    title: What are the primary learning goals of this course?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+related_article5:
+    id: 167494
+    title: What are the benefits of using interactive learning tools in education?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
 ---
 
 &nbsp;

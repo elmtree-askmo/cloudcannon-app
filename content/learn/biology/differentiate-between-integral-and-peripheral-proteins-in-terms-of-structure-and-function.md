@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function.md
 url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
 score: -1.0
+related_article1:
+    id: 166972
+    title: Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
+related_article2:
+    id: 166984
+    title: Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
+related_article3:
+    id: 166974
+    title: What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+related_article4:
+    id: 166980
+    title: Define selective permeability and its importance in maintaining cellular homeostasis.
+    subject: Biology
+    url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
+related_article5:
+    id: 166972
+    title: Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
 ---
 
 &nbsp;

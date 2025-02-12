@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-the-size-and-shape-of-a-protein-influence-its-function.md
 url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
 score: -1.0
+related_article1:
+    id: 166951
+    title: How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+related_article2:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article3:
+    id: 166953
+    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+related_article4:
+    id: 166950
+    title: What are the general functions of proteins in biological systems?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+related_article5:
+    id: 166951
+    title: How do proteins contribute to enzyme catalysis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each.md
 url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
 score: -1.0
+related_article1:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
+related_article2:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
+related_article3:
+    id: 168302
+    title: What are common algebraic identities, and how are they used in problem-solving?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
+related_article4:
+    id: 168305
+    title: What is the significance of understanding the roots of variables in algebra?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+related_article5:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
 ---
 
 &nbsp;

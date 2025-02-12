@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-natural-selection-operate-as-a-mechanism-of-evolution.md
 url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
 score: -1.0
+related_article1:
+    id: 167760
+    title: What are biogeochemical cycles and how do human activities impact them?
+    subject: Biology
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
+related_article2:
+    id: 167764
+    title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
+related_article3:
+    id: 167754
+    title: What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
+related_article4:
+    id: 167759
+    title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
+related_article5:
+    id: 167754
+    title: What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
 ---
 
 &nbsp;

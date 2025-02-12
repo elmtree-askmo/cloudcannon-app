@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development.md
 url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
 score: -1.0
+related_article1:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article2:
+    id: 164586
+    title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+related_article3:
+    id: 164566
+    title: What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article4:
+    id: 164578
+    title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+related_article5:
+    id: 164575
+    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
 ---
 
 &nbsp;

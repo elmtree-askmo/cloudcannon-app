@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: how-do-proteins-contribute-to-enzyme-catalysis.md
 url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
 score: -1.0
+related_article1:
+    id: 166960
+    title: What types of chemical interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
+related_article2:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article3:
+    id: 166954
+    title: What are the characteristics of nonpolar aliphatic R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+related_article4:
+    id: 166959
+    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 ---
 
 &nbsp;

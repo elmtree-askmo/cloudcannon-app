@@ -21,6 +21,31 @@ subject: Sociology
 file_name: compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences.md
 url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 score: -1.0
+related_article1:
+    id: 169041
+    title: What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article2:
+    id: 169053
+    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article3:
+    id: 169044
+    title: How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
+related_article4:
+    id: 169047
+    title: How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
+related_article5:
+    id: 169039
+    title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
 ---
 
 &nbsp;

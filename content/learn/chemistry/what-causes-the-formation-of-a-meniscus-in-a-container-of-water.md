@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-causes-the-formation-of-a-meniscus-in-a-container-of-water.md
 url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
 score: -1.0
+related_article1:
+    id: 167311
+    title: What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article2:
+    id: 167318
+    title: What effect do acids have on the concentration of hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
+related_article3:
+    id: 167311
+    title: What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article4:
+    id: 167323
+    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article5:
+    id: 167323
+    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 ---
 
 &nbsp;

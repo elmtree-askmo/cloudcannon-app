@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-unconscious-mind-play-in-modern-psychological-theories.md
 url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 score: -1.0
+related_article1:
+    id: 170016
+    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
+related_article2:
+    id: 170023
+    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article3:
+    id: 170021
+    title: How does Interpersonal Therapy focus on improving relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article4:
+    id: 170023
+    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article5:
+    id: 170032
+    title: What is the role of the social environment in shaping behavior according to environmental influence theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
 ---
 
 &nbsp;

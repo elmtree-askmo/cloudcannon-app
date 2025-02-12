@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-chlorophyll-in-photosynthesis.md
 url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 score: -1.0
+related_article1:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article2:
+    id: 170320
+    title: What are the main functional differences between photosynthesis and cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
+related_article3:
+    id: 170316
+    title: Outline the main steps of glycolysis in cellular respiration.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
+related_article4:
+    id: 170310
+    title: How does the Golgi apparatus contribute to protein processing in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
+related_article5:
+    id: 170322
+    title: How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
 ---
 
 &nbsp;

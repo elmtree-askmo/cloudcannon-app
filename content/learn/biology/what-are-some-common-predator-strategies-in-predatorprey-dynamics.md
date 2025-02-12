@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-some-common-predator-strategies-in-predatorprey-dynamics.md
 url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
 score: -1.0
+related_article1:
+    id: 170896
+    title: How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article2:
+    id: 170905
+    title: What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
+related_article3:
+    id: 170900
+    title: Can you provide an example of optimal foraging behavior in nature?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
+related_article4:
+    id: 170908
+    title: What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article5:
+    id: 170893
+    title: What are the key assumptions of foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 ---
 
 &nbsp;

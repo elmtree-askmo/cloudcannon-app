@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills.md
 url: /learn/psychology/questions/what-is-horizontal-decalage-and-how-does-it-relate-to-the-gradual-development-of-cognitive-skills
 score: -1.0
+related_article1:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+related_article2:
+    id: 168051
+    title: How do children classify objects based on physical characteristics during the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
+related_article3:
+    id: 168053
+    title: How do children perform basic number operations like addition and subtraction in the concrete operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
+related_article4:
+    id: 168052
+    title: What is the significance of understanding quantitative dimensions such as length in logical operations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-quantitative-dimensions-such-as-length-in-logical-operations
+related_article5:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
 ---
 
 &nbsp;

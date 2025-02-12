@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-genetic-variation-play-in-the-evolution-of-populations.md
 url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
 score: -1.0
+related_article1:
+    id: 167728
+    title: What is macroevolution and how does it differ from microevolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from-microevolution
+related_article2:
+    id: 167733
+    title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article3:
+    id: 167734
+    title: Define cladistics and explain its purpose in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
+related_article4:
+    id: 167729
+    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
+related_article5:
+    id: 167731
+    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates.md
 url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
 score: -1.0
+related_article1:
+    id: 162298
+    title: How can transformations be visualized using the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+related_article2:
+    id: 162308
+    title: How do you translate a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
+related_article3:
+    id: 162148
+    title: How do translations affect the endpoints of line segments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
+related_article4:
+    id: 162308
+    title: How do you translate a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
+related_article5:
+    id: 162160
+    title: How is the distance from a line measured in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
 ---
 
 &nbsp;

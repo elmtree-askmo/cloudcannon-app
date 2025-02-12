@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities.md
 url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
 score: -1.0
+related_article1:
+    id: 164166
+    title: What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
+related_article2:
+    id: 164163
+    title: What role do game rules play in Piaget's research on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
+related_article3:
+    id: 164165
+    title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
+related_article4:
+    id: 164165
+    title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
+related_article5:
+    id: 164169
+    title: How do children progress through developmental stages of moral understanding according to Piaget?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
 ---
 
 &nbsp;

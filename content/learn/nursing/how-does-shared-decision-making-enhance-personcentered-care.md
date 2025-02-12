@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-shared-decision-making-enhance-personcentered-care.md
 url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
 score: -1.0
+related_article1:
+    id: 169756
+    title: What are the national standards for medication administration, and how do they relate to trust policies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
+related_article2:
+    id: 169759
+    title: How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+related_article3:
+    id: 169762
+    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article4:
+    id: 169746
+    title: What are common assessment methods for bowel and bladder management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
+related_article5:
+    id: 169755
+    title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 ---
 
 &nbsp;

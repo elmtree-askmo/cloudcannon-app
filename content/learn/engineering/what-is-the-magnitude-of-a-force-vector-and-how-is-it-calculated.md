@@ -21,6 +21,16 @@ subject: Engineering
 file_name: what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated.md
 url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
 score: -1.0
+related_article1:
+    id: 166690
+    title: What is the vector representation of displacement in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+related_article2:
+    id: 166689
+    title: How do you solve static problems using equilibrium equations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
 ---
 
 &nbsp;

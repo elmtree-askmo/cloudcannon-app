@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury.md
 url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
 score: -1.0
+related_article1:
+    id: 164441
+    title: What are the main causes and risk factors associated with traumatic brain injury (TBI)?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
+related_article2:
+    id: 164445
+    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+related_article3:
+    id: 164448
+    title: What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+related_article4:
+    id: 164454
+    title: Which populations are at higher risk for brain injury, and why?
+    subject: Nursing
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article5:
+    id: 164442
+    title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system.md
 url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 score: -1.0
+related_article1:
+    id: 170506
+    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+related_article2:
+    id: 170516
+    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+related_article3:
+    id: 170512
+    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+related_article4:
+    id: 170517
+    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+related_article5:
+    id: 170505
+    title: How do catecholamines like epinephrine and norepinephrine affect body systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-prey-evasion-tactics-impact-predatorprey-interactions.md
 url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
 score: -1.0
+related_article1:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article2:
+    id: 170900
+    title: Can you provide an example of optimal foraging behavior in nature?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
+related_article3:
+    id: 170904
+    title: How do activity levels affect energy use in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-activity-levels-affect-energy-use-in-animals
+related_article4:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article5:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 ---
 
 &nbsp;

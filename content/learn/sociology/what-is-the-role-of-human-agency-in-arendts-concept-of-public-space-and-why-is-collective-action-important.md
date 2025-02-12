@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important.md
 url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 score: -1.0
+related_article1:
+    id: 169044
+    title: How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
+related_article2:
+    id: 169046
+    title: What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
+related_article3:
+    id: 169051
+    title: What is the connection between urban geography and political movements in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+related_article4:
+    id: 169049
+    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+related_article5:
+    id: 169045
+    title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 ---
 
 &nbsp;

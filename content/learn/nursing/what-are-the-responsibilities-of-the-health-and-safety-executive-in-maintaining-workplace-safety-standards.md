@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards.md
 url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
 score: -1.0
+related_article1:
+    id: 169680
+    title: What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article2:
+    id: 169677
+    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
+related_article3:
+    id: 169678
+    title: How should medical equipment be maintained to ensure its functionality and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+related_article4:
+    id: 169670
+    title: How is the safety of medical devices ensured under medications and healthcare products regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
+related_article5:
+    id: 169679
+    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
 ---
 
 &nbsp;

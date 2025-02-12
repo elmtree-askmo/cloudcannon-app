@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare.md
 url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
 score: -1.0
+related_article1:
+    id: 169588
+    title: What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+related_article2:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article3:
+    id: 169597
+    title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
+related_article4:
+    id: 169593
+    title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
+related_article5:
+    id: 169599
+    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 ---
 
 &nbsp;

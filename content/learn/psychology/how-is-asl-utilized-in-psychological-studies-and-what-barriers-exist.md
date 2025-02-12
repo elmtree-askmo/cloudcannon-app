@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist.md
 url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
 score: -1.0
+related_article1:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article2:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article3:
+    id: 167690
+    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+related_article4:
+    id: 167703
+    title: How do group dynamics influence social behavior and leadership?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
+related_article5:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-assumptions-of-foraging-theory.md
 url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 score: -1.0
+related_article1:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article2:
+    id: 170906
+    title: What are the limitations of mathematical models in ecological modeling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
+related_article3:
+    id: 170895
+    title: What factors influence search time in foraging animals?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
+related_article4:
+    id: 170896
+    title: How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article5:
+    id: 170896
+    title: How does handling time relate to prey size in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
 ---
 
 &nbsp;

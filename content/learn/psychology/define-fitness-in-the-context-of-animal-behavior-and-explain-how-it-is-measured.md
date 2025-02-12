@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured.md
 url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
 score: -1.0
+related_article1:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article2:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article3:
+    id: 166421
+    title: How does the genetic component of behavior influence evolutionary processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+related_article4:
+    id: 166413
+    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+related_article5:
+    id: 166417
+    title: What is behavioral selection and what are its potential consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
 ---
 
 &nbsp;

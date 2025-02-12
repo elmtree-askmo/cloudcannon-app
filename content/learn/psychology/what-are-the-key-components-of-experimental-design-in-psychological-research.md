@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-experimental-design-in-psychological-research.md
 url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
 score: -1.0
+related_article1:
+    id: 167684
+    title: What are some challenges in defining normalcy in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
+related_article2:
+    id: 167684
+    title: What are some challenges in defining normalcy in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
+related_article3:
+    id: 167695
+    title: What are the modern views on dualism in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+related_article4:
+    id: 167689
+    title: How is ASL utilized in psychological studies and what barriers exist?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+related_article5:
+    id: 167692
+    title: What are the core principles of Cognitive Behavioral Therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
 ---
 
 &nbsp;

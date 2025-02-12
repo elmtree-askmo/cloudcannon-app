@@ -21,6 +21,21 @@ subject: Nursing
 file_name: what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications.md
 url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 score: -1.0
+related_article1:
+    id: 166467
+    title: What are the potential risks associated with drug contraindications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+related_article2:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article3:
+    id: 166458
+    title: Why is bioavailability important in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
 ---
 
 &nbsp;

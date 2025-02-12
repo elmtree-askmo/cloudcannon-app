@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis.md
 url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
 score: -1.0
+related_article1:
+    id: 169861
+    title: How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article2:
+    id: 169853
+    title: Explain the concept of active and reactive power in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+related_article3:
+    id: 169863
+    title: How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+related_article4:
+    id: 169857
+    title: Define impedance and its importance in AC circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
+related_article5:
+    id: 169845
+    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 ---
 
 &nbsp;

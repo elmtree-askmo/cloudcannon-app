@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: describe-the-structure-of-the-dna-double-helix.md
 url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
 score: -1.0
+related_article1:
+    id: 167639
+    title: Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+related_article2:
+    id: 167645
+    title: What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
+related_article3:
+    id: 167645
+    title: What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
+related_article4:
+    id: 167640
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 ---
 
 &nbsp;

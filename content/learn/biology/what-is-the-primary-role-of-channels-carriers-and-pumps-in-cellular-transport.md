@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport.md
 url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 score: -1.0
+related_article1:
+    id: 166948
+    title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
+related_article2:
+    id: 166949
+    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article3:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article4:
+    id: 166942
+    title: How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article5:
+    id: 166944
+    title: How does exocytosis function in the transport of substances out of the cell?
+    subject: Biology
+    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
 ---
 
 &nbsp;

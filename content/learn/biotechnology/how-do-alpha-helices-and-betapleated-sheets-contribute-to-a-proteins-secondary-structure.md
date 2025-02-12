@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure.md
 url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 score: -1.0
+related_article1:
+    id: 166838
+    title: What role do hormones play in the regulation of gene expression?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
+related_article2:
+    id: 166846
+    title: What are the causes and effects of protein denaturation on its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
+related_article3:
+    id: 166847
+    title: How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
+related_article4:
+    id: 166838
+    title: What role do hormones play in the regulation of gene expression?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
+related_article5:
+    id: 166844
+    title: What interactions are involved in the tertiary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

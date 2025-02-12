@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph.md
 url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
 score: -1.0
+related_article1:
+    id: 167626
+    title: Compare the pH of pure water, orange juice, and bleach.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+related_article2:
+    id: 167628
+    title: How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article3:
+    id: 167627
+    title: Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
+related_article4:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+related_article5:
+    id: 167623
+    title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
 ---
 
 &nbsp;

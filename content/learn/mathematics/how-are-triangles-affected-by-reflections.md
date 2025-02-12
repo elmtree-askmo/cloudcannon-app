@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-triangles-affected-by-reflections.md
 url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
 score: -1.0
+related_article1:
+    id: 162815
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article2:
+    id: 162765
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+related_article3:
+    id: 162704
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article4:
+    id: 162618
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article5:
+    id: 162633
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

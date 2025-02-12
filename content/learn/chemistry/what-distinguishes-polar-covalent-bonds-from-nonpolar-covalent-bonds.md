@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds.md
 url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 score: -1.0
+related_article1:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article2:
+    id: 167291
+    title: Why is carbon considered versatile in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
+related_article3:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
+related_article4:
+    id: 167286
+    title: What are isotopes and how do they affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+related_article5:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations.md
 url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
 score: -1.0
+related_article1:
+    id: 163179
+    title: What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
+related_article2:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article3:
+    id: 163186
+    title: How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
+related_article4:
+    id: 163175
+    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    subject: Medicine
+    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+related_article5:
+    id: 163184
+    title: How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
+    subject: Medicine
+    url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification
 ---
 
 &nbsp;

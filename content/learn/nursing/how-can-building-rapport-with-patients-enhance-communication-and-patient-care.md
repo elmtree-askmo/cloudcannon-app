@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-building-rapport-with-patients-enhance-communication-and-patient-care.md
 url: /learn/nursing/questions/how-can-building-rapport-with-patients-enhance-communication-and-patient-care
 score: -1.0
+related_article1:
+    id: 169542
+    title: Why is cultural competency important in nursing, and how can it improve patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
+related_article2:
+    id: 169551
+    title: What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article3:
+    id: 169547
+    title: Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
+related_article4:
+    id: 169550
+    title: How does emotional regulation impact patient trust and outcomes in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
+related_article5:
+    id: 169537
+    title: What are the key components of emotional intelligence and why are they important in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence-and-why-are-they-important-in-nursing
 ---
 
 &nbsp;

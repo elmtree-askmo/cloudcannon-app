@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-differences-between-sensing-and-intuition-in-personality-types.md
 url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
 score: -1.0
+related_article1:
+    id: 168434
+    title: How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article2:
+    id: 168450
+    title: How can work values influence career satisfaction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-work-values-influence-career-satisfaction
+related_article3:
+    id: 168441
+    title: How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
+related_article4:
+    id: 168440
+    title: What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article5:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
 ---
 
 &nbsp;

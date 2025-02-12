@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-properties-of-line-segments-in-geometric-figures.md
 url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
 score: -1.0
+related_article1:
+    id: 162163
+    title: What is the algebraic representation of translating a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
+related_article2:
+    id: 162297
+    title: What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162306
+    title: How do you measure the distance from a point to a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
+related_article4:
+    id: 162306
+    title: How do you measure the distance from a point to a line on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
+related_article5:
+    id: 162154
+    title: What is rigid motion and how does it relate to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
 ---
 
 &nbsp;

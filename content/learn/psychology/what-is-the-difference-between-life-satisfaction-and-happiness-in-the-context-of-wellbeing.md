@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing.md
 url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
 score: -1.0
+related_article1:
+    id: 168886
+    title: Describe the premortem strategy and its purpose in decision-making.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+related_article2:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article3:
+    id: 168881
+    title: Why are statistical predictions often more reliable than clinical predictions?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+related_article4:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+related_article5:
+    id: 168888
+    title: What is the disposition effect and how does it affect investment decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 ---
 
 &nbsp;

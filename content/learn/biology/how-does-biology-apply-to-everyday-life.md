@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-biology-apply-to-everyday-life.md
 url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
 score: -1.0
+related_article1:
+    id: 167481
+    title: How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+related_article2:
+    id: 167489
+    title: What are the primary learning goals of this course?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+related_article3:
+    id: 167488
+    title: What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article4:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article5:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
 ---
 
 &nbsp;

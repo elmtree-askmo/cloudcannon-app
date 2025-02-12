@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-fmri-technology-applied-in-decoding-audio-and-visual-stimuli.md
 url: /learn/psychology/questions/how-is-fmri-technology-applied-in-decoding-audio-and-visual-stimuli
 score: -1.0
+related_article1:
+    id: 164786
+    title: What are the recent findings from the University of Delaware regarding mind reading research, and what are their implications for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-recent-findings-from-the-university-of-delaware-regarding-mind-reading-research-and-what-are-their-implications-for-mental-privacy
+related_article2:
+    id: 164780
+    title: What are the main techniques used for decoding brain activity, and how do they differ in their approach?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-used-for-decoding-brain-activity-and-how-do-they-differ-in-their-approach
+related_article3:
+    id: 164792
+    title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
+related_article4:
+    id: 164784
+    title: Describe the brain scanning process in fMRI technology and its role in analyzing blood flow.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-brain-scanning-process-in-fmri-technology-and-its-role-in-analyzing-blood-flow
+related_article5:
+    id: 164783
+    title: What are the implications of AI applications in mind reading research for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-ai-applications-in-mind-reading-research-for-mental-privacy
 ---
 
 &nbsp;

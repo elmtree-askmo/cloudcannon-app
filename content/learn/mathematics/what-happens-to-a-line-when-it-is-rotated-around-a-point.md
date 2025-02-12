@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-happens-to-a-line-when-it-is-rotated-around-a-point.md
 url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
 score: -1.0
+related_article1:
+    id: 162235
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article2:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article3:
+    id: 162243
+    title: What is the translation rule, and how is it applied to geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
+related_article4:
+    id: 162236
+    title: Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article5:
+    id: 162486
+    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 ---
 
 &nbsp;

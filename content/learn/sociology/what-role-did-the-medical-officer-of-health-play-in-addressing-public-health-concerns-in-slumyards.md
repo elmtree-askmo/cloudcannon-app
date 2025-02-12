@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards.md
 url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
 score: -1.0
+related_article1:
+    id: 169142
+    title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
+related_article2:
+    id: 169145
+    title: What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article3:
+    id: 169150
+    title: What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
+related_article4:
+    id: 169139
+    title: How did mining and manufacturing influence urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
+related_article5:
+    id: 169141
+    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
 ---
 
 &nbsp;

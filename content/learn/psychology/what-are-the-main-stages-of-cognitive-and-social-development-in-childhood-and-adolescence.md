@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence.md
 url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 score: -1.0
+related_article1:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article2:
+    id: 167704
+    title: What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+related_article3:
+    id: 167709
+    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+related_article4:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article5:
+    id: 167706
+    title: What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 ---
 
 &nbsp;

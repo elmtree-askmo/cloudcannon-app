@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-is-voltage-distributed-across-resistors-in-a-series-circuit.md
 url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
 score: -1.0
+related_article1:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article2:
+    id: 167943
+    title: How is equivalent resistance calculated in series circuits, and what is its impact on the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-equivalent-resistance-calculated-in-series-circuits-and-what-is-its-impact-on-the-circuit
+related_article3:
+    id: 167934
+    title: How does current flow differ between series and parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+related_article4:
+    id: 167935
+    title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
+related_article5:
+    id: 167942
+    title: What is the difference between power absorbed and power delivered in resistors?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
 ---
 
 &nbsp;

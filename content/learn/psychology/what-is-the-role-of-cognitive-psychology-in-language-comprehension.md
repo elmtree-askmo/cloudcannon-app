@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-cognitive-psychology-in-language-comprehension.md
 url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
 score: -1.0
+related_article1:
+    id: 164402
+    title: Discuss the impact of Freud's theories on cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+related_article2:
+    id: 164389
+    title: Which neural pathways are involved in communication disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+related_article3:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article4:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article5:
+    id: 164395
+    title: What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration.md
 url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 score: -1.0
+related_article1:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article2:
+    id: 169767
+    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+related_article3:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article4:
+    id: 169746
+    title: What are common assessment methods for bowel and bladder management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
+related_article5:
+    id: 169756
+    title: What are the national standards for medication administration, and how do they relate to trust policies?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
 ---
 
 &nbsp;

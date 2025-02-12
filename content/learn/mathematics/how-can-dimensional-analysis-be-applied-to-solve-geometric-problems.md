@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-can-dimensional-analysis-be-applied-to-solve-geometric-problems.md
 url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
 score: -1.0
+related_article1:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
+related_article2:
+    id: 164922
+    title: What is the formula for calculating the area of a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-area-of-a-rectangle
+related_article3:
+    id: 164925
+    title: How does scaling affect the dimensions of a geometric shape?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-scaling-affect-the-dimensions-of-a-geometric-shape
+related_article4:
+    id: 164926
+    title: What are the basic mathematical operations used in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance.md
 url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 score: -1.0
+related_article1:
+    id: 167127
+    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+related_article2:
+    id: 167124
+    title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
+related_article3:
+    id: 167122
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
+    id: 167117
+    title: How does adhesion contribute to capillary action in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
+related_article5:
+    id: 167121
+    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
 ---
 
 &nbsp;

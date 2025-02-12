@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-attention-disorders-impact-academic-performance-and-social-interactions.md
 url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
 score: -1.0
+related_article1:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article2:
+    id: 164315
+    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+related_article3:
+    id: 164319
+    title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
+related_article4:
+    id: 164325
+    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+related_article5:
+    id: 164319
+    title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 ---
 
 &nbsp;

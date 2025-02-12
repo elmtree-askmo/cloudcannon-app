@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions.md
 url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
 score: -1.0
+related_article1:
+    id: 164659
+    title: What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article2:
+    id: 164663
+    title: What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
+related_article3:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article4:
+    id: 164669
+    title: How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
+related_article5:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
 ---
 
 &nbsp;

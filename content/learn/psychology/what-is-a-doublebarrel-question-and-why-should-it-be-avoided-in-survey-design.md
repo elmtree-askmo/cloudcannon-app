@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design.md
 url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
 score: -1.0
+related_article1:
+    id: 164984
+    title: How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article2:
+    id: 164983
+    title: What is the significance of a p-value in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
+related_article3:
+    id: 164982
+    title: How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
+related_article4:
+    id: 164988
+    title: What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
+related_article5:
+    id: 164988
+    title: What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 ---
 
 &nbsp;

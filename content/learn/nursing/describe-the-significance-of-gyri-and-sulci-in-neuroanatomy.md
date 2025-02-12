@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-significance-of-gyri-and-sulci-in-neuroanatomy.md
 url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
 score: -1.0
+related_article1:
+    id: 164743
+    title: Describe the structure and functional organization of the cerebral cortex.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
+related_article2:
+    id: 164727
+    title: What is a sagittal slice and how does it differ from coronal and axial slices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
+related_article3:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+related_article4:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article5:
+    id: 164732
+    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 ---
 
 &nbsp;

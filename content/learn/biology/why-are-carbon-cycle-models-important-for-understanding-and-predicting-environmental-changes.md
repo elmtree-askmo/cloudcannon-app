@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes.md
 url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
 score: -1.0
+related_article1:
+    id: 170308
+    title: What are some conservation efforts aimed at mitigating climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+related_article2:
+    id: 170308
+    title: What are some conservation efforts aimed at mitigating climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+related_article3:
+    id: 170301
+    title: How do producers and consumers contribute to energy flow in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+related_article4:
+    id: 170300
+    title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
+related_article5:
+    id: 170296
+    title: What are the three main stages of cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 ---
 
 &nbsp;

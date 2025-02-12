@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-internal-and-external-stimuli-influence-behavior.md
 url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
 score: -1.0
+related_article1:
+    id: 170885
+    title: How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
+related_article2:
+    id: 170880
+    title: What are the key differences between voluntary and involuntary actions in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
+related_article3:
+    id: 170887
+    title: What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article4:
+    id: 170886
+    title: Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article5:
+    id: 170884
+    title: What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
 ---
 
 &nbsp;

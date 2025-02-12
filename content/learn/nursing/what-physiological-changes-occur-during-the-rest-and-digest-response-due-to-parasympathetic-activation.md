@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation.md
 url: /learn/nursing/questions/what-physiological-changes-occur-during-the-rest-and-digest-response-due-to-parasympathetic-activation
 score: -1.0
+related_article1:
+    id: 170519
+    title: How does sympathetic activation influence metabolic rate and energy expenditure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+related_article2:
+    id: 170503
+    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+related_article3:
+    id: 170509
+    title: How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+related_article4:
+    id: 170503
+    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+related_article5:
+    id: 170512
+    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

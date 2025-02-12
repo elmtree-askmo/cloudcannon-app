@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-role-of-antigens-in-determining-blood-types.md
 url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
 score: -1.0
+related_article1:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article2:
+    id: 167877
+    title: Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article3:
+    id: 167875
+    title: What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article4:
+    id: 167880
+    title: Describe the difference between autosomal recessive and autosomal dominant disorders.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
+related_article5:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 ---
 
 &nbsp;

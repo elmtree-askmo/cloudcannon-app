@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics.md
 url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
 score: -1.0
+related_article1:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article2:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
+related_article3:
+    id: 165634
+    title: How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article4:
+    id: 165632
+    title: How do media and polls influence public opinion during election campaigns?
+    subject: Politics
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
+related_article5:
+    id: 165627
+    title: How does immigration policy impact the housing and employment sectors in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 ---
 
 &nbsp;

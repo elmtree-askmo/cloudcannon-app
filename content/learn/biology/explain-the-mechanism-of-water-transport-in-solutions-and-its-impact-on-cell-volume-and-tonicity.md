@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity.md
 url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 score: -1.0
+related_article1:
+    id: 167544
+    title: Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article2:
+    id: 167555
+    title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
+related_article3:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article4:
+    id: 167547
+    title: How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article5:
+    id: 167553
+    title: What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities.md
 url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 score: -1.0
+related_article1:
+    id: 160214
+    title: What are the physical and human systems that define geographic settings in regional disparities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
+related_article2:
+    id: 160629
+    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
+related_article3:
+    id: 160553
+    title: What are the main factors contributing to social inequality within social structures?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+related_article4:
+    id: 160095
+    title: What are the differences between qualitative and quantitative research methodologies in research skills?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
+related_article5:
+    id: 160102
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 ---
 
 &nbsp;

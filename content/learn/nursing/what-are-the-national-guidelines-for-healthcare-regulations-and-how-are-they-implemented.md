@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented.md
 url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
 score: -1.0
+related_article1:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article2:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article3:
+    id: 169763
+    title: What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article4:
+    id: 169765
+    title: Why is medication adherence important, and what strategies can improve it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
+related_article5:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 ---
 
 &nbsp;

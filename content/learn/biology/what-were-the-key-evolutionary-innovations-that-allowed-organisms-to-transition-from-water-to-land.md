@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land.md
 url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
 score: -1.0
+related_article1:
+    id: 167761
+    title: Why is biodiversity important and what are the major threats to it?
+    subject: Biology
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
+related_article2:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article3:
+    id: 167743
+    title: What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article4:
+    id: 167759
+    title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
+related_article5:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
 ---
 
 &nbsp;

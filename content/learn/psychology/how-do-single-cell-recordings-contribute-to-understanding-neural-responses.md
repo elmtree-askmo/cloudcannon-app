@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-single-cell-recordings-contribute-to-understanding-neural-responses.md
 url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
 score: -1.0
+related_article1:
+    id: 164247
+    title: How does the portable magnification factor emphasize central vision in the retinotropic map?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+related_article2:
+    id: 164249
+    title: How does the visual cortex contribute to depth and motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
+related_article3:
+    id: 164248
+    title: What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
+related_article4:
+    id: 164252
+    title: What is a tonotopic map and how is it organized in the auditory cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
+related_article5:
+    id: 164249
+    title: How does the visual cortex contribute to depth and motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
 ---
 
 &nbsp;

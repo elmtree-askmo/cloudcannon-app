@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it.md
 url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
 score: -1.0
+related_article1:
+    id: 170338
+    title: How do plankton contribute to the food chain and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+related_article2:
+    id: 170338
+    title: How do plankton contribute to the food chain and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+related_article3:
+    id: 170328
+    title: How do carbon sinks and sources impact climate change?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+related_article4:
+    id: 170335
+    title: What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+related_article5:
+    id: 170330
+    title: How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
 ---
 
 &nbsp;

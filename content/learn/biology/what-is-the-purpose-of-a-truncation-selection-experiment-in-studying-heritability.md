@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability.md
 url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
 score: -1.0
+related_article1:
+    id: 166366
+    title: How do genetic influences affect animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+related_article2:
+    id: 166370
+    title: How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article3:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article4:
+    id: 166368
+    title: Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+related_article5:
+    id: 166365
+    title: What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 ---
 
 &nbsp;

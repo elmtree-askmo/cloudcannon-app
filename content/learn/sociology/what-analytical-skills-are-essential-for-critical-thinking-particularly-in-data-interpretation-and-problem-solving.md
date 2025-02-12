@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving.md
 url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
 score: -1.0
+related_article1:
+    id: 160626
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article2:
+    id: 160621
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article3:
+    id: 160086
+    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+related_article4:
+    id: 160215
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article5:
+    id: 160092
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 ---
 
 &nbsp;

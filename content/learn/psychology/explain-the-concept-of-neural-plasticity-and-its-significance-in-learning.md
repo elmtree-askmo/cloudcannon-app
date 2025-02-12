@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-neural-plasticity-and-its-significance-in-learning.md
 url: /learn/psychology/questions/explain-the-concept-of-neural-plasticity-and-its-significance-in-learning
 score: -1.0
+related_article1:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article2:
+    id: 164685
+    title: How do individual differences affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
+related_article3:
+    id: 164693
+    title: What factors contribute to cognitive aging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
+related_article4:
+    id: 164682
+    title: How does the brain adapt following an injury?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
+related_article5:
+    id: 164677
+    title: How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
 ---
 
 &nbsp;

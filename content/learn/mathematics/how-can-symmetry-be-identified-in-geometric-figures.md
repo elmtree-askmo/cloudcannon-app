@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-symmetry-be-identified-in-geometric-figures.md
 url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
 score: -1.0
+related_article1:
+    id: 162620
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article2:
+    id: 162385
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+related_article3:
+    id: 162515
+    title: How is horizontal symmetry different from vertical symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-different-from-vertical-symmetry-in-reflections
+related_article4:
+    id: 162742
+    title: How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article5:
+    id: 162521
+    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
 ---
 
 &nbsp;

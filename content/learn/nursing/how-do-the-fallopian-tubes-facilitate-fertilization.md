@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-the-fallopian-tubes-facilitate-fertilization.md
 url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
 score: -1.0
+related_article1:
+    id: 169708
+    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article2:
+    id: 169718
+    title: What are the primary macronutrients and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+related_article3:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article4:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article5:
+    id: 169707
+    title: How should time be managed during an exam under closed book conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 ---
 
 &nbsp;

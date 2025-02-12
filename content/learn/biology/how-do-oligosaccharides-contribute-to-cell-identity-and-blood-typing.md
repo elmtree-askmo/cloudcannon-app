@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing.md
 url: /learn/biology/questions/how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing
 score: -1.0
+related_article1:
+    id: 167308
+    title: What is the significance of alpha glycosidic linkages in starch and glycogen?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
+related_article2:
+    id: 167300
+    title: How do starch and glycogen function in energy storage for plants and animals, respectively?
+    subject: Biology
+    url: /learn/biology/questions/how-do-starch-and-glycogen-function-in-energy-storage-for-plants-and-animals-respectively
+related_article3:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article4:
+    id: 167303
+    title: What is the difference between alpha and beta glycosidic linkages in terms of their structure and function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-glycosidic-linkages-in-terms-of-their-structure-and-function
+related_article5:
+    id: 167308
+    title: What is the significance of alpha glycosidic linkages in starch and glycogen?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-alpha-glycosidic-linkages-in-starch-and-glycogen
 ---
 
 &nbsp;

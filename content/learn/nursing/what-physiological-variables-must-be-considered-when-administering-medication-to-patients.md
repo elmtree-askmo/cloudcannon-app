@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-physiological-variables-must-be-considered-when-administering-medication-to-patients.md
 url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
 score: -1.0
+related_article1:
+    id: 166484
+    title: What is the role of nociceptors in pain processing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+related_article2:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article3:
+    id: 166483
+    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
+related_article4:
+    id: 166478
+    title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
+related_article5:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

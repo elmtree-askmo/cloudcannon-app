@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing.md
 url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
 score: -1.0
+related_article1:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article2:
+    id: 164601
+    title: What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
+related_article3:
+    id: 164614
+    title: How does cognitive linguistics view language as a cognitive tool?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
+related_article4:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article5:
+    id: 164613
+    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
 ---
 
 &nbsp;

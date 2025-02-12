@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism.md
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
 score: -1.0
+related_article1:
+    id: 160226
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+related_article2:
+    id: 160550
+    title: What are the key components of urbanization that drive city development and infrastructure changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
+related_article3:
+    id: 160642
+    title: What is the significance of international cooperation and diplomatic relations in political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
+related_article4:
+    id: 160627
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article5:
+    id: 160620
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 ---
 
 &nbsp;

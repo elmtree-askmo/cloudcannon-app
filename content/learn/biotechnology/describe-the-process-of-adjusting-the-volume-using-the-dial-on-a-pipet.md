@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet.md
 url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
 score: -1.0
+related_article1:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
+related_article2:
+    id: 165370
+    title: What are the consequences of using an incorrect pipet for a given volume?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-volume
+related_article3:
+    id: 165369
+    title: How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article4:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article5:
+    id: 165376
+    title: Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
 ---
 
 &nbsp;

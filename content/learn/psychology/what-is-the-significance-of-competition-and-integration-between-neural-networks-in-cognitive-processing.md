@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing.md
 url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 score: -1.0
+related_article1:
+    id: 164549
+    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+related_article2:
+    id: 164555
+    title: What is the relationship between cognitive load and task switching?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+related_article3:
+    id: 164544
+    title: How do the default mode network and potential control network contribute to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
+related_article4:
+    id: 164554
+    title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
+related_article5:
+    id: 164549
+    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
 ---
 
 &nbsp;

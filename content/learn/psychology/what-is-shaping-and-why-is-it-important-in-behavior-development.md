@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-shaping-and-why-is-it-important-in-behavior-development.md
 url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
 score: -1.0
+related_article1:
+    id: 169324
+    title: What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+related_article2:
+    id: 169329
+    title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
+related_article3:
+    id: 169312
+    title: How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article4:
+    id: 169313
+    title: What are the key steps involved in the shaping process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+related_article5:
+    id: 169324
+    title: What is extinction in behavior modification and what effect does it have on behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 ---
 
 &nbsp;

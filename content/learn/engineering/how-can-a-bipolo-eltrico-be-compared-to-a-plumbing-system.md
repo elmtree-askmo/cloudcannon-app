@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system.md
 url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 score: -1.0
+related_article1:
+    id: 169830
+    title: How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article2:
+    id: 169830
+    title: How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article3:
+    id: 169831
+    title: What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article4:
+    id: 169834
+    title: How can corrente elétrica be compared to a hydraulic system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
+related_article5:
+    id: 169839
+    title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: identify-essential-minerals-and-their-functions-in-the-body.md
 url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
 score: -1.0
+related_article1:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article2:
+    id: 169777
+    title: What are the World Health Organization's recommendations regarding sugar and fat intake?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
+related_article3:
+    id: 169770
+    title: What are the primary functions of proteins in the body, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
+related_article4:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article5:
+    id: 169768
+    title: What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 ---
 
 &nbsp;

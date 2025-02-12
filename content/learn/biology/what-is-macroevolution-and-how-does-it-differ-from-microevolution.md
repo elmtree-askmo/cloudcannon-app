@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-macroevolution-and-how-does-it-differ-from-microevolution.md
 url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from-microevolution
 score: -1.0
+related_article1:
+    id: 167727
+    title: Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article2:
+    id: 167737
+    title: Describe the three-domain system and its significance in classifying life forms.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
+related_article3:
+    id: 167739
+    title: What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article4:
+    id: 167725
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article5:
+    id: 167732
+    title: How are shared characters used in the construction and interpretation of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation.md
 url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
 score: -1.0
+related_article1:
+    id: 167950
+    title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+related_article2:
+    id: 167952
+    title: In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article3:
+    id: 167953
+    title: How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article4:
+    id: 167952
+    title: In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article5:
+    id: 167953
+    title: How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
 ---
 
 &nbsp;

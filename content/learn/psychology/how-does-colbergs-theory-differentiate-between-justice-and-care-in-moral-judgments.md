@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments.md
 url: /learn/psychology/questions/how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments
 score: -1.0
+related_article1:
+    id: 164220
+    title: What are the characteristics of conventional morality in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
+related_article2:
+    id: 164219
+    title: Describe the stages of pre-conventional morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-of-preconventional-morality-in-colbergs-theory
+related_article3:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+related_article4:
+    id: 164218
+    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
+related_article5:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

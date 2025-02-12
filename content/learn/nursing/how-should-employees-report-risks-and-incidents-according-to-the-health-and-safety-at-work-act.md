@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act.md
 url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 score: -1.0
+related_article1:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article2:
+    id: 169508
+    title: How can hazards be identified and controlled in a risk assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
+related_article3:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article4:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article5:
+    id: 169511
+    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities.md
 url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
 score: -1.0
+related_article1:
+    id: 168353
+    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article2:
+    id: 168352
+    title: What are some examples of forced social changes, and how do they impact daily life?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+related_article3:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article4:
+    id: 168354
+    title: What impact did NAFTA have on the car industry and job security in North America?
+    subject: Sociology
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
+related_article5:
+    id: 168371
+    title: What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 ---
 
 &nbsp;

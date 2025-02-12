@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation.md
 url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
 score: -1.0
+related_article1:
+    id: 164474
+    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article2:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article3:
+    id: 164461
+    title: What is the role of the motion comparison task in studying motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
+related_article4:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article5:
+    id: 164474
+    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 ---
 
 &nbsp;

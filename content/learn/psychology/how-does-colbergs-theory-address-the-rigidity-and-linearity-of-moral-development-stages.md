@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages.md
 url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
 score: -1.0
+related_article1:
+    id: 164224
+    title: What are some criticisms of Colberg's theory regarding the moral reasoning of young children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-of-colbergs-theory-regarding-the-moral-reasoning-of-young-children
+related_article2:
+    id: 164220
+    title: What are the characteristics of conventional morality in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
+related_article3:
+    id: 164228
+    title: What cultural biases are present in Colberg's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
+related_article4:
+    id: 164230
+    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
+related_article5:
+    id: 164229
+    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

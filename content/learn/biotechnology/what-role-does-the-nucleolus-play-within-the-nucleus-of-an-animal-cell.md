@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell.md
 url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
 score: -1.0
+related_article1:
+    id: 170309
+    title: What is the primary function of the rough endoplasmic reticulum in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-rough-endoplasmic-reticulum-in-animal-cells
+related_article2:
+    id: 170313
+    title: What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+related_article3:
+    id: 170322
+    title: How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+related_article4:
+    id: 170322
+    title: How do prokaryotic cells obtain energy through chemosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+related_article5:
+    id: 170309
+    title: What is the primary function of the rough endoplasmic reticulum in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-rough-endoplasmic-reticulum-in-animal-cells
 ---
 
 &nbsp;

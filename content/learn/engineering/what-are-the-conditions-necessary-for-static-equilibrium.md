@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-conditions-necessary-for-static-equilibrium.md
 url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
 score: -1.0
+related_article1:
+    id: 166684
+    title: How do you construct a free body diagram for a particle system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
+related_article2:
+    id: 166688
+    title: What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
+related_article3:
+    id: 166689
+    title: How do you solve static problems using equilibrium equations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
+related_article4:
+    id: 166683
+    title: What factors must be considered when analyzing tension in cables?
+    subject: Engineering
+    url: /learn/engineering/questions/what-factors-must-be-considered-when-analyzing-tension-in-cables
+related_article5:
+    id: 166688
+    title: What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
 ---
 
 &nbsp;

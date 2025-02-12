@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts.md
 url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 score: -1.0
+related_article1:
+    id: 169411
+    title: What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+related_article2:
+    id: 169407
+    title: What are the key influences of traditional Japanese design on modern architecture?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+related_article3:
+    id: 169406
+    title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+related_article4:
+    id: 169416
+    title: What resources are available for interior designers seeking job opportunities and professional development?
+    subject: Architecture
+    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+related_article5:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 ---
 
 &nbsp;

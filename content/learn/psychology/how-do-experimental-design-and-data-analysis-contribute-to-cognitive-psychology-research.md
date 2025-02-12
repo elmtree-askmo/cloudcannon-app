@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research.md
 url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
 score: -1.0
+related_article1:
+    id: 165016
+    title: How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article2:
+    id: 165023
+    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+related_article3:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article4:
+    id: 165013
+    title: What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article5:
+    id: 165020
+    title: What are the key findings and significance of the GIANT study in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 ---
 
 &nbsp;

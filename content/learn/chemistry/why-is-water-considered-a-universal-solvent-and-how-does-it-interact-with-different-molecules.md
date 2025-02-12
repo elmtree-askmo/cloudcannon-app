@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-water-considered-a-universal-solvent-and-how-does-it-interact-with-different-molecules.md
 url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-how-does-it-interact-with-different-molecules
 score: -1.0
+related_article1:
+    id: 167133
+    title: What defines a polar molecule and how does this relate to the structure of H2O?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o
+related_article2:
+    id: 167136
+    title: How does adhesion in water facilitate interaction with surfaces?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
+related_article3:
+    id: 167129
+    title: What is the chemical formula for water and how is it represented?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
+related_article4:
+    id: 167134
+    title: Explain the significance of positive and negative charges in water molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+related_article5:
+    id: 167135
+    title: What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 ---
 
 &nbsp;

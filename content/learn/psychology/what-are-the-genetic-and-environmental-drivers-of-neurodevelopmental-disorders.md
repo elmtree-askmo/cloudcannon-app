@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders.md
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 score: -1.0
+related_article1:
+    id: 164027
+    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+related_article2:
+    id: 164036
+    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
+related_article3:
+    id: 164024
+    title: What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article4:
+    id: 164026
+    title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+related_article5:
+    id: 164030
+    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
 ---
 
 &nbsp;

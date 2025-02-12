@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model.md
 url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 score: -1.0
+related_article1:
+    id: 163640
+    title: How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
+related_article2:
+    id: 163634
+    title: Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article3:
+    id: 163639
+    title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article4:
+    id: 163642
+    title: What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article5:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
 ---
 
 &nbsp;

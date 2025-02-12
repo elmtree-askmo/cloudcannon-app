@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
 score: -1.0
+related_article1:
+    id: 167322
+    title: How do polar molecules interact with water due to their partial charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-molecules-interact-with-water-due-to-their-partial-charges
+related_article2:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article3:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article4:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article5:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 ---
 
 &nbsp;

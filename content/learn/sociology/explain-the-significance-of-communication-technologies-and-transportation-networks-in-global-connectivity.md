@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity.md
 url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
 score: -1.0
+related_article1:
+    id: 160541
+    title: Explain the concept of time-space compression in the context of globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
+related_article2:
+    id: 160626
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article3:
+    id: 160235
+    title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+related_article4:
+    id: 160492
+    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+related_article5:
+    id: 160641
+    title: How do trade relations and global supply chains contribute to global economic networks?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
 ---
 
 &nbsp;

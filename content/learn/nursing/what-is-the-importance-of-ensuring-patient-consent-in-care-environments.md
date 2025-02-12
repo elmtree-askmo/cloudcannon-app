@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-importance-of-ensuring-patient-consent-in-care-environments.md
 url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
 score: -1.0
+related_article1:
+    id: 169508
+    title: How can hazards be identified and controlled in a risk assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
+related_article2:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article3:
+    id: 169505
+    title: What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
+related_article4:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article5:
+    id: 169512
+    title: Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 ---
 
 &nbsp;

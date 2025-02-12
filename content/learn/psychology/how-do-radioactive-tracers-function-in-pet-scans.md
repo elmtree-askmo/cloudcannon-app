@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-radioactive-tracers-function-in-pet-scans.md
 url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
 score: -1.0
+related_article1:
+    id: 164347
+    title: What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
+related_article2:
+    id: 164353
+    title: Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
+related_article3:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article4:
+    id: 164345
+    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
+related_article5:
+    id: 164347
+    title: What are the basic principles behind MRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
 ---
 
 &nbsp;

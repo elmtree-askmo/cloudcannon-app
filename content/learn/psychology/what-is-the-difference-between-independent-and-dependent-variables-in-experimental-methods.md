@@ -21,6 +21,21 @@ subject: Psychology
 file_name: what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods.md
 url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
 score: -1.0
+related_article1:
+    id: 164432
+    title: What impact does cortisol have on memory and learning during stress?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+related_article2:
+    id: 164437
+    title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article3:
+    id: 164420
+    title: What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 ---
 
 &nbsp;

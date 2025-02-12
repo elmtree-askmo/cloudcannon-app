@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-professional-responsibility-in-medication-administration.md
 url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
 score: -1.0
+related_article1:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article2:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article3:
+    id: 169560
+    title: How should student nurses apply the NMC Code in their practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+related_article4:
+    id: 169565
+    title: How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article5:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
 ---
 
 &nbsp;

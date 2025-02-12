@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-passive-and-active-transport-mechanisms-in-cells.md
 url: /learn/biology/questions/differentiate-between-passive-and-active-transport-mechanisms-in-cells
 score: -1.0
+related_article1:
+    id: 168923
+    title: How do peripheral proteins assist in cell signaling and communication?
+    subject: Biology
+    url: /learn/biology/questions/how-do-peripheral-proteins-assist-in-cell-signaling-and-communication
+related_article2:
+    id: 168927
+    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+related_article3:
+    id: 168918
+    title: How do phospholipids contribute to the structure of the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
+related_article4:
+    id: 168929
+    title: Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-in-membrane-structure
+related_article5:
+    id: 168925
+    title: How do phospholipids and cholesterol influence cell membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
 ---
 
 &nbsp;

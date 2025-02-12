@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior.md
 url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 score: -1.0
+related_article1:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article2:
+    id: 163816
+    title: How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+related_article3:
+    id: 163808
+    title: How can the average rate of change be calculated using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
+related_article4:
+    id: 163826
+    title: How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article5:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
 ---
 
 &nbsp;

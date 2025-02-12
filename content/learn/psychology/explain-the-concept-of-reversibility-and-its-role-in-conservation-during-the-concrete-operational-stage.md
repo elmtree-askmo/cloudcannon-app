@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage.md
 url: /learn/psychology/questions/explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage
 score: -1.0
+related_article1:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+related_article2:
+    id: 168055
+    title: How does desegregation contribute to a child's understanding of conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+related_article3:
+    id: 168058
+    title: How do children develop conservation skills related to liquid quantity, mass, weight, and volume?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume
+related_article4:
+    id: 168050
+    title: What are the key characteristics of logical thinking in concrete situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-logical-thinking-in-concrete-situations
+related_article5:
+    id: 168054
+    title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
 ---
 
 &nbsp;

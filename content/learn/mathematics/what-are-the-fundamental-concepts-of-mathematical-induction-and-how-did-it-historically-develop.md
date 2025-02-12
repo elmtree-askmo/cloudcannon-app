@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop.md
 url: /learn/mathematics/questions/what-are-the-fundamental-concepts-of-mathematical-induction-and-how-did-it-historically-develop
 score: -1.0
+related_article1:
+    id: 170723
+    title: Why is establishing the base case crucial in inductive proofs, and what are common mistakes to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-the-base-case-crucial-in-inductive-proofs-and-what-are-common-mistakes-to-avoid
+related_article2:
+    id: 170736
+    title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article3:
+    id: 170729
+    title: How do you determine the domain of a function, and what are common errors to avoid in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
+related_article4:
+    id: 170724
+    title: How do you construct the inductive step in a proof by induction, and why is logical consistency important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-the-inductive-step-in-a-proof-by-induction-and-why-is-logical-consistency-important
+related_article5:
+    id: 170725
+    title: What are the key differences between strong induction and standard induction, and when is strong induction more advantageous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-strong-induction-and-standard-induction-and-when-is-strong-induction-more-advantageous
 ---
 
 &nbsp;

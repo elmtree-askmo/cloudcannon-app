@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance.md
 url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 score: -1.0
+related_article1:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article2:
+    id: 165093
+    title: Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+related_article3:
+    id: 165088
+    title: What strategies can be used to address sample size limitations in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
+related_article4:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article5:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
 ---
 
 &nbsp;

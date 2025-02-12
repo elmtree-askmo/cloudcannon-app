@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-studies-confirming-gender-differences-support-gilligans-theory.md
 url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
 score: -1.0
+related_article1:
+    id: 164207
+    title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
+related_article2:
+    id: 164202
+    title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
+related_article3:
+    id: 164215
+    title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+related_article4:
+    id: 164214
+    title: How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article5:
+    id: 164201
+    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
 ---
 
 &nbsp;

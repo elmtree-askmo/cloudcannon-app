@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market.md
 url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
 score: -1.0
+related_article1:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article2:
+    id: 169921
+    title: What is marginal thinking, and why is it significant in economic decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+related_article3:
+    id: 169929
+    title: Compare the economic implications of public vs. private education in terms of access and equity.
+    subject: Economics
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
+related_article4:
+    id: 169919
+    title: Explain the concept of scarcity and its economic implications.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
+related_article5:
+    id: 169917
+    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
 ---
 
 &nbsp;

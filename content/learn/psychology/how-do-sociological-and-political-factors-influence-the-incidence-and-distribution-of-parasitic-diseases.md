@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases.md
 url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 score: -1.0
+related_article1:
+    id: 165856
+    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+related_article2:
+    id: 165839
+    title: What molecular techniques are advancing research in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+related_article3:
+    id: 165833
+    title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+related_article4:
+    id: 165853
+    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165828
+    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
 ---
 
 &nbsp;

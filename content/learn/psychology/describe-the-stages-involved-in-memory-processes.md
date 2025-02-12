@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-stages-involved-in-memory-processes.md
 url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
 score: -1.0
+related_article1:
+    id: 164694
+    title: What are the career paths available for students pursuing a neuroscience minor?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+related_article2:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article3:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article4:
+    id: 164695
+    title: How is data analytics used in the interpretation of neuroscience research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
+related_article5:
+    id: 164686
+    title: What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 ---
 
 &nbsp;

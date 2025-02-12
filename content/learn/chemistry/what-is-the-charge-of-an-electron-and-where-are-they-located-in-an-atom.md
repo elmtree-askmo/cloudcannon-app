@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom.md
 url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
 score: -1.0
+related_article1:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article2:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article3:
+    id: 166812
+    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
+related_article4:
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article5:
+    id: 166797
+    title: How do molecules form from atoms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
 ---
 
 &nbsp;

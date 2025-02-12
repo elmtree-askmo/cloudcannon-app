@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings.md
 url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 score: -1.0
+related_article1:
+    id: 164747
+    title: Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+related_article2:
+    id: 164752
+    title: What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article3:
+    id: 164729
+    title: Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article4:
+    id: 164750
+    title: Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article5:
+    id: 164747
+    title: Compare MRI and CT scans in terms of their applications in brain imaging.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
 ---
 
 &nbsp;

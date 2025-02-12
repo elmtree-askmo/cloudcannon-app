@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-explicit-memory-from-implicit-memory.md
 url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
 score: -1.0
+related_article1:
+    id: 164491
+    title: What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
+related_article2:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article3:
+    id: 164481
+    title: How did Patient HM contribute to our understanding of memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+related_article4:
+    id: 164482
+    title: What is the role of unconscious learning in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+related_article5:
+    id: 164499
+    title: How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
 ---
 
 &nbsp;

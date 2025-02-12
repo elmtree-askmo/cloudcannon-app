@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-hydrophilic-and-hydrophobic-interactions-influence-molecular-behavior-in-biological-systems.md
 url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-interactions-influence-molecular-behavior-in-biological-systems
 score: -1.0
+related_article1:
+    id: 170971
+    title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
+related_article2:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article3:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article4:
+    id: 170968
+    title: What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
+related_article5:
+    id: 170970
+    title: What factors determine the three-dimensional conformation of a molecule?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-determine-the-threedimensional-conformation-of-a-molecule
 ---
 
 &nbsp;

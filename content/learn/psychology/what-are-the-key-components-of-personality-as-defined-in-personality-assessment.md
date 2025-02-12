@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-personality-as-defined-in-personality-assessment.md
 url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
 score: -1.0
+related_article1:
+    id: 168447
+    title: What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article2:
+    id: 168446
+    title: How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article3:
+    id: 168439
+    title: What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article4:
+    id: 168451
+    title: What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
+related_article5:
+    id: 168438
+    title: How does adaptability to change impact career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured.md
 url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 score: -1.0
+related_article1:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article2:
+    id: 170432
+    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+related_article3:
+    id: 170423
+    title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article4:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
+related_article5:
+    id: 170437
+    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

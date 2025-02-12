@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior.md
 url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166326
+    title: How do genetic changes influence the mechanism of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article2:
+    id: 166321
+    title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article3:
+    id: 166332
+    title: What are Darwin's four postulates, and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
+    id: 166331
+    title: How does heritability contribute to evolutionary change and variation in traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
+related_article5:
+    id: 166324
+    title: How does individual learning contribute to natural selection in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
 ---
 
 &nbsp;

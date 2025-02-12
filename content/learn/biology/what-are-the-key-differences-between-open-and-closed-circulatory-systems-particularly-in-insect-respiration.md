@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration.md
 url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
 score: -1.0
+related_article1:
+    id: 168807
+    title: Describe the structure and function of the tracheal system in insects, including tracheae, tracheoles, and spiracles.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-tracheal-system-in-insects-including-tracheae-tracheoles-and-spiracles
+related_article2:
+    id: 168808
+    title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+    subject: Biology
+    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
+related_article3:
+    id: 168809
+    title: How do gill structure and counter-current exchange serve as respiratory adaptations in fish?
+    subject: Biology
+    url: /learn/biology/questions/how-do-gill-structure-and-countercurrent-exchange-serve-as-respiratory-adaptations-in-fish
+related_article4:
+    id: 168797
+    title: What is the role of filaments in the gill structure regarding surface area and diffusion pathway?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-filaments-in-the-gill-structure-regarding-surface-area-and-diffusion-pathway
+related_article5:
+    id: 168801
+    title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
 ---
 
 &nbsp;

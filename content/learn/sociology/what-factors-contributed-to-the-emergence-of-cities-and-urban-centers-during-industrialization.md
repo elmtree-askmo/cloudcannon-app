@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization.md
 url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
 score: -1.0
+related_article1:
+    id: 163864
+    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article2:
+    id: 163865
+    title: How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
+related_article3:
+    id: 163869
+    title: How do military and economic influences contribute to the control of territory and resources in political economy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
+related_article4:
+    id: 163868
+    title: What was the significance of the slave trade in the context of colonialism and specialized production?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
+related_article5:
+    id: 163864
+    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 ---
 
 &nbsp;

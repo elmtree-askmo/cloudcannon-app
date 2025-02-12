@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167422
+    title: Why is the periodic table important for predicting the properties of elements?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
+related_article2:
+    id: 167407
+    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+related_article3:
+    id: 167420
+    title: How are organic molecules different from inorganic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
+related_article4:
+    id: 167404
+    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article5:
+    id: 167400
+    title: How is atomic mass different from atomic number?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
 ---
 
 &nbsp;

@@ -7,7 +7,7 @@ article_title: What does a Pearson correlation coefficient indicate in epidemiol
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
-  title: QuickTakes | Health studies
+  title: QuickTakes | Health Studies
   page_description: >-
     The Pearson correlation coefficient indicates the strength and direction of a linear relationship between continuous variables in epidemiological studies, highlighting its use, limitations, and implications for data analysis.
   page_keywords: >-
@@ -17,10 +17,35 @@ question: >-
     What does a Pearson correlation coefficient indicate in epidemiological studies?
 answer: >-
     The Pearson correlation coefficient is a statistical measure used in epidemiological studies to quantify the strength and direction of a linear relationship between two continuous variables. It ranges from -1 to +1, where:\n\n- A coefficient of +1 indicates a perfect positive correlation, meaning that as one variable increases, the other variable also increases in a perfectly linear manner.\n- A coefficient of -1 indicates a perfect negative correlation, meaning that as one variable increases, the other variable decreases in a perfectly linear manner.\n- A coefficient of 0 indicates no correlation, suggesting that there is no linear relationship between the two variables.\n\nFor example, in epidemiological research, a strong positive correlation might be observed between physical activity levels and cardiovascular health, indicating that higher levels of physical activity are associated with better cardiovascular health outcomes.\n\nHowever, it is important to note that the Pearson correlation coefficient has certain limitations:\n\n1. **Assumption of Linearity**: The Pearson correlation assumes that the relationship between the variables is linear. If the relationship is non-linear, the correlation coefficient may not accurately reflect the strength or direction of the relationship.\n\n2. **Sensitivity to Outliers**: The presence of outliers can significantly affect the Pearson correlation coefficient. A single extreme value can skew the results, leading to an inaccurate representation of the relationship between the variables.\n\n3. **Causation vs. Correlation**: While the Pearson correlation can indicate the strength and direction of a relationship, it does not imply causation. Correlation does not mean that one variable causes changes in another; other confounding factors may be at play.\n\nIn summary, the Pearson correlation coefficient is a valuable tool in epidemiological studies for assessing relationships between variables, but researchers must be cautious in interpreting the results, considering the assumptions and limitations associated with this statistical measure.
-subject: Health studies
+subject: Health Studies
 file_name: what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies.md
 url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 score: -1.0
+related_article1:
+    id: 163204
+    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+related_article2:
+    id: 162989
+    title: What are the primary purposes of public health surveillance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+related_article3:
+    id: 163317
+    title: How do epidemiologic questions contribute to public health interventions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
+related_article4:
+    id: 163309
+    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+related_article5:
+    id: 163308
+    title: What are the primary purposes of descriptive epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 ---
 
 &nbsp;

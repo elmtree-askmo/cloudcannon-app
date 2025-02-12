@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding.md
 url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
 score: -1.0
+related_article1:
+    id: 170966
+    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article2:
+    id: 170971
+    title: What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
+related_article3:
+    id: 170963
+    title: How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
+related_article4:
+    id: 170963
+    title: How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
+related_article5:
+    id: 170958
+    title: What are the key characteristics of carbon-based organic molecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
 ---
 
 &nbsp;

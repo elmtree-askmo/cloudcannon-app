@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-result-of-a-180-rotation-on-a-points-coordinates.md
 url: /learn/mathematics/questions/describe-the-result-of-a-180-rotation-on-a-points-coordinates
 score: -1.0
+related_article1:
+    id: 163857
+    title: What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article2:
+    id: 163850
+    title: What is the effect of a horizontal translation on the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point
+related_article3:
+    id: 163857
+    title: What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article4:
+    id: 163853
+    title: Which quadrant contains points with both positive x and y coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrant-contains-points-with-both-positive-x-and-y-coordinates
+related_article5:
+    id: 163850
+    title: What is the effect of a horizontal translation on the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point
 ---
 
 &nbsp;

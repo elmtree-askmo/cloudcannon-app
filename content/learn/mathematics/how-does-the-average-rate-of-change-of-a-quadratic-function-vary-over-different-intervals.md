@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals.md
 url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 score: -1.0
+related_article1:
+    id: 163814
+    title: How can the average rate of change be calculated for piecewise linear functions using tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
+related_article2:
+    id: 163811
+    title: What are the different types of slopes a function can have?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+related_article3:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article4:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article5:
+    id: 163825
+    title: What are the implications of different types of slopes on function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 ---
 
 &nbsp;

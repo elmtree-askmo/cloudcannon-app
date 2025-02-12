@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development.md
 url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
 score: -1.0
+related_article1:
+    id: 164201
+    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+related_article2:
+    id: 164211
+    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+related_article3:
+    id: 164204
+    title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article4:
+    id: 164214
+    title: How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article5:
+    id: 164213
+    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-behavioral-selection-and-what-are-its-potential-consequences.md
 url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
 score: -1.0
+related_article1:
+    id: 166410
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article2:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article3:
+    id: 166407
+    title: Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+related_article4:
+    id: 166420
+    title: Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
+related_article5:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 ---
 
 &nbsp;

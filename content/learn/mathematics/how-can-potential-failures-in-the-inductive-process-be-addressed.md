@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-potential-failures-in-the-inductive-process-be-addressed.md
 url: /learn/mathematics/questions/how-can-potential-failures-in-the-inductive-process-be-addressed
 score: -1.0
+related_article1:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article2:
+    id: 170766
+    title: Give an example of a correct application of the inductive step.
+    subject: Mathematics
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+related_article3:
+    id: 170757
+    title: Explain the well-ordering principle of natural numbers and its significance in induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
+related_article4:
+    id: 170768
+    title: What is a common error related to the base case in induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-error-related-to-the-base-case-in-induction
+related_article5:
+    id: 170764
+    title: Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
 ---
 
 &nbsp;

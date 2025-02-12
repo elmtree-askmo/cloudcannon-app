@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-health-implications-of-overweight-and-obesity.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
 score: -1.0
+related_article1:
+    id: 169774
+    title: Identify essential minerals and their functions in the body.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+related_article2:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article3:
+    id: 169784
+    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article4:
+    id: 169783
+    title: What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+related_article5:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
 ---
 
 &nbsp;

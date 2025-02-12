@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd.md
 url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 score: -1.0
+related_article1:
+    id: 169336
+    title: What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article2:
+    id: 169344
+    title: Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
+related_article3:
+    id: 169334
+    title: Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
+related_article4:
+    id: 169343
+    title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
+related_article5:
+    id: 169339
+    title: What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
 ---
 
 &nbsp;

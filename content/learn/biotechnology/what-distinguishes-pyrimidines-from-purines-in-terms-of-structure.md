@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-distinguishes-pyrimidines-from-purines-in-terms-of-structure.md
 url: /learn/biotechnology/questions/what-distinguishes-pyrimidines-from-purines-in-terms-of-structure
 score: -1.0
+related_article1:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article2:
+    id: 167537
+    title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
+related_article3:
+    id: 167537
+    title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
+related_article4:
+    id: 167527
+    title: What are the key differences between the nucleotide components of RNA and DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
 ---
 
 &nbsp;

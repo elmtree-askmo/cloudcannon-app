@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-adhesion-contribute-to-capillary-action-in-water.md
 url: /learn/chemistry/questions/how-does-adhesion-contribute-to-capillary-action-in-water
 score: -1.0
+related_article1:
+    id: 167127
+    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+related_article2:
+    id: 167128
+    title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
+related_article3:
+    id: 167118
+    title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
+related_article4:
+    id: 167121
+    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+related_article5:
+    id: 167115
+    title: How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
 ---
 
 &nbsp;

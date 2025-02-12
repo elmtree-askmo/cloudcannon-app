@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-educational-technologies-are-used-in-biology-to-enhance-learning.md
 url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
 score: -1.0
+related_article1:
+    id: 167481
+    title: How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+related_article2:
+    id: 167474
+    title: Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article3:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167478
+    title: What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article5:
+    id: 167481
+    title: How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design.md
 url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
 score: -1.0
+related_article1:
+    id: 170736
+    title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
+related_article2:
+    id: 170733
+    title: How is set theory applied in mathematical induction, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+related_article3:
+    id: 170731
+    title: How can induction be used to solve the coin change problem, and what are the key steps involved?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-induction-be-used-to-solve-the-coin-change-problem-and-what-are-the-key-steps-involved
+related_article4:
+    id: 170734
+    title: Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+related_article5:
+    id: 170736
+    title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
 ---
 
 &nbsp;

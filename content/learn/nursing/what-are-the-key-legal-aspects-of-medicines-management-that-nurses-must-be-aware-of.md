@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of.md
 url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 score: -1.0
+related_article1:
+    id: 169762
+    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article2:
+    id: 169742
+    title: What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article3:
+    id: 169744
+    title: How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
+related_article4:
+    id: 169763
+    title: What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+related_article5:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 ---
 
 &nbsp;

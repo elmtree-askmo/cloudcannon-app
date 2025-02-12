@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation.md
 url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
 score: -1.0
+related_article1:
+    id: 163641
+    title: What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article2:
+    id: 163630
+    title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+related_article3:
+    id: 163630
+    title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+related_article4:
+    id: 163638
+    title: How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+related_article5:
+    id: 163631
+    title: What are the cultural and social criteria used to define abnormal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 ---
 
 &nbsp;

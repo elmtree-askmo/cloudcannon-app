@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society.md
 url: /learn/nursing/questions/what-are-the-key-elements-that-define-discrimination-and-how-do-they-manifest-in-society
 score: -1.0
+related_article1:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article2:
+    id: 169637
+    title: What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
+related_article3:
+    id: 169629
+    title: How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
+related_article4:
+    id: 169635
+    title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
+related_article5:
+    id: 169639
+    title: Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
 ---
 
 &nbsp;

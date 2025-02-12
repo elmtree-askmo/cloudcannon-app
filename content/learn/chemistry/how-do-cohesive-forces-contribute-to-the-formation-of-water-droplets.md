@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets.md
 url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
 score: -1.0
+related_article1:
+    id: 166991
+    title: How do polar and nonpolar molecules differ in their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
+related_article2:
+    id: 166988
+    title: What is the role of hydration shells in the solvent properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-water
+related_article3:
+    id: 166989
+    title: How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article4:
+    id: 166990
+    title: What is capillary action and how does it relate to adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
+related_article5:
+    id: 166987
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 ---
 
 &nbsp;

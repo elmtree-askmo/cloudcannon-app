@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-mental-representations-and-how-do-they-aid-in-problemsolving.md
 url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
 score: -1.0
+related_article1:
+    id: 168103
+    title: Define representational thought and explain its importance in cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/define-representational-thought-and-explain-its-importance-in-cognitive-development
+related_article2:
+    id: 168101
+    title: What is object permanence, and why is it important in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
+related_article3:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article4:
+    id: 168105
+    title: Provide an example of deferred imitation and explain its significance.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
+related_article5:
+    id: 168099
+    title: What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
 ---
 
 &nbsp;

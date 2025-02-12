@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form.md
 url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
 score: -1.0
+related_article1:
+    id: 163733
+    title: Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article2:
+    id: 163739
+    title: How can real-world applications of functions be used in business modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+related_article3:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article4:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article5:
+    id: 163726
+    title: What is the role of critical thinking in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
 ---
 
 &nbsp;

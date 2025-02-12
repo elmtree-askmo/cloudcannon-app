@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport.md
 url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
 score: -1.0
+related_article1:
+    id: 166941
+    title: What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article2:
+    id: 166940
+    title: What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+related_article3:
+    id: 166943
+    title: What is the mechanism of endocytosis, and what types of substances are typically transported by this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-endocytosis-and-what-types-of-substances-are-typically-transported-by-this-process
+related_article4:
+    id: 166936
+    title: How does facilitated diffusion differ from active transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage
+related_article5:
+    id: 166937
+    title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions.md
 url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
 score: -1.0
+related_article1:
+    id: 166979
+    title: Explain the role of cholesterol in regulating membrane fluidity and permeability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-cholesterol-in-regulating-membrane-fluidity-and-permeability
+related_article2:
+    id: 166973
+    title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article3:
+    id: 166980
+    title: Define selective permeability and its importance in maintaining cellular homeostasis.
+    subject: Biology
+    url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
+related_article4:
+    id: 166976
+    title: Differentiate between integral and peripheral proteins in terms of structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
+related_article5:
+    id: 166974
+    title: What are amphipathic molecules, and why are they important in membrane structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
 ---
 
 &nbsp;

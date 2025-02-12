@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-translations-and-reflections-transform-a-functions-graph.md
 url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 score: -1.0
+related_article1:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article2:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article3:
+    id: 163791
+    title: How do you determine the domain and range of a square root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
+related_article4:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article5:
+    id: 163798
+    title: What is the domain of a square root function, and how is it determined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
 ---
 
 &nbsp;

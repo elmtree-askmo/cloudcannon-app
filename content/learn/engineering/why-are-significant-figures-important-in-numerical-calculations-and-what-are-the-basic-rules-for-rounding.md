@@ -21,6 +21,31 @@ subject: Engineering
 file_name: why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding.md
 url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
 score: -1.0
+related_article1:
+    id: 166646
+    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article2:
+    id: 166645
+    title: What is the significance of vectors having both magnitude and direction in mechanics?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+related_article3:
+    id: 166641
+    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+related_article4:
+    id: 166646
+    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article5:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
 ---
 
 &nbsp;

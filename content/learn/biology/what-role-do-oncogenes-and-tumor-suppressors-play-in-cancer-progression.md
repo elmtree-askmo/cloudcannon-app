@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression.md
 url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
 score: -1.0
+related_article1:
+    id: 166140
+    title: How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article2:
+    id: 166147
+    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+related_article3:
+    id: 166149
+    title: What are the primary transmission pathways for zoonotic diseases?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
+related_article4:
+    id: 166143
+    title: What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article5:
+    id: 166140
+    title: How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
 ---
 
 &nbsp;

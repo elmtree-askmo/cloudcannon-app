@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-foundational-theories-of-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164600
+    title: How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+related_article2:
+    id: 164604
+    title: How does the arcuate fasciculus contribute to language function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
+related_article3:
+    id: 164602
+    title: Describe the main characteristics of connectionist models in language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
+related_article4:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 ---
 
 &nbsp;

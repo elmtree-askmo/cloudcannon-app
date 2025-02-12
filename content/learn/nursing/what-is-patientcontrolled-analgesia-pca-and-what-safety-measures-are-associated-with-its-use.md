@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use.md
 url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 score: -1.0
+related_article1:
+    id: 166444
+    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
+related_article2:
+    id: 166442
+    title: Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article3:
+    id: 166439
+    title: What are prototype drugs, and why are they important in the study of opioid medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
+related_article4:
+    id: 166446
+    title: What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+related_article5:
+    id: 166446
+    title: What distinguishes mild agonist medications from strong agonist medications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
 ---
 
 &nbsp;

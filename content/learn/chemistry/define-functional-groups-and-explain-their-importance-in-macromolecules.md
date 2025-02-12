@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: define-functional-groups-and-explain-their-importance-in-macromolecules.md
 url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
 score: -1.0
+related_article1:
+    id: 167562
+    title: How is atomic mass calculated and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
+related_article2:
+    id: 167557
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article3:
+    id: 167559
+    title: What are the charges and masses of protons, neutrons, and electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
+related_article4:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article5:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
 ---
 
 &nbsp;

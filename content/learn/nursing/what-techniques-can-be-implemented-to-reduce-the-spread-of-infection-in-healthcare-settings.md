@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings.md
 url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169491
+    title: Why is it important to use proper manual handling techniques in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
+related_article2:
+    id: 169487
+    title: What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article3:
+    id: 169479
+    title: What are the key personal hygiene procedures that impact patient health and well-being?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing
+related_article4:
+    id: 169491
+    title: Why is it important to use proper manual handling techniques in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
+related_article5:
+    id: 169484
+    title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 ---
 
 &nbsp;

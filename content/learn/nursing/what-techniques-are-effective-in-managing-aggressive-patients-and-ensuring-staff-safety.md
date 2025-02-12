@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety.md
 url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
 score: -1.0
+related_article1:
+    id: 169680
+    title: What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article2:
+    id: 169663
+    title: What are common risks identified in healthcare settings, and why is risk assessment important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
+related_article3:
+    id: 169679
+    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
+related_article4:
+    id: 169663
+    title: What are common risks identified in healthcare settings, and why is risk assessment important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups.md
 url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
 score: -1.0
+related_article1:
+    id: 166969
+    title: What mechanisms are involved in protein folding pathways?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+related_article2:
+    id: 166956
+    title: What is the role of dehydration synthesis in peptide bond formation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+related_article3:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article4:
+    id: 166967
+    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+related_article5:
+    id: 166966
+    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
 ---
 
 &nbsp;

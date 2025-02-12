@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-horizontal-symmetry-defined-in-geometric-figures.md
 url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-figures
 score: -1.0
+related_article1:
+    id: 162886
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article2:
+    id: 162824
+    title: What role do reflections play in symmetry analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
+related_article3:
+    id: 162641
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article4:
+    id: 162642
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article5:
+    id: 162405
+    title: How can one visualize reflections in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 ---
 
 &nbsp;

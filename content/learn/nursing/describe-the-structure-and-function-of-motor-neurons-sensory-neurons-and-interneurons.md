@@ -21,6 +21,26 @@ subject: Nursing
 file_name: describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons.md
 url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 score: -1.0
+related_article1:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article2:
+    id: 170492
+    title: What is the difference between excitatory and inhibitory neurotransmitters?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
+related_article3:
+    id: 170500
+    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article4:
+    id: 170489
+    title: What roles do axons and dendrites play in neuron function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 ---
 
 &nbsp;

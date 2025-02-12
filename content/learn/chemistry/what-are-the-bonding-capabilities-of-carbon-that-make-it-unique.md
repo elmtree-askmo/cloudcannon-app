@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-bonding-capabilities-of-carbon-that-make-it-unique.md
 url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
 score: -1.0
+related_article1:
+    id: 167288
+    title: What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article2:
+    id: 167293
+    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article3:
+    id: 167288
+    title: What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article4:
+    id: 167285
+    title: How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article5:
+    id: 167293
+    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

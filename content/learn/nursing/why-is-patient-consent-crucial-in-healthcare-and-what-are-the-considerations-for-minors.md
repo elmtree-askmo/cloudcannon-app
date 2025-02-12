@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors.md
 url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
 score: -1.0
+related_article1:
+    id: 169764
+    title: What are the best practices for prescribing medications, and what common pitfalls should be avoided?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
+related_article2:
+    id: 169750
+    title: What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article3:
+    id: 169762
+    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+related_article4:
+    id: 169757
+    title: What are the regulations and storage requirements for controlled drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article5:
+    id: 169760
+    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
 ---
 
 &nbsp;

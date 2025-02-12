@@ -21,6 +21,31 @@ subject: Science
 file_name: how-do-independent-and-dependent-variables-differ-in-an-experiment.md
 url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
 score: -1.0
+related_article1:
+    id: 163356
+    title: How does observational research differ from experimental research in establishing cause and effect relationships?
+    subject: Science
+    url: /learn/science/questions/how-does-observational-research-differ-from-experimental-research-in-establishing-cause-and-effect-relationships
+related_article2:
+    id: 163349
+    title: What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
+related_article3:
+    id: 163351
+    title: Why is it important to keep constants in an experiment?
+    subject: Science
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
+related_article4:
+    id: 163355
+    title: Why is the peer review process crucial in scientific communication?
+    subject: Science
+    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
+related_article5:
+    id: 163349
+    title: What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
 ---
 
 &nbsp;

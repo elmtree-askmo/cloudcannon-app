@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure.md
 url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
 score: -1.0
+related_article1:
+    id: 167526
+    title: What role do hydrogen bonds play in the stability of the DNA double helix?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
+related_article2:
+    id: 167527
+    title: What are the key differences between the nucleotide components of RNA and DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
+related_article3:
+    id: 167537
+    title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
+related_article4:
+    id: 167536
+    title: Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
+related_article5:
+    id: 167529
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 ---
 
 &nbsp;

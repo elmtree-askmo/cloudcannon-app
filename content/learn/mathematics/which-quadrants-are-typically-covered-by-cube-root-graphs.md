@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: which-quadrants-are-typically-covered-by-cube-root-graphs.md
 url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
 score: -1.0
+related_article1:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article2:
+    id: 163746
+    title: How do cube root functions differ from square root functions in terms of perfect cubes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
+related_article3:
+    id: 163780
+    title: What does it mean for a function to be continuous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
+related_article4:
+    id: 163773
+    title: What are inflection points in the context of cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 ---
 
 &nbsp;

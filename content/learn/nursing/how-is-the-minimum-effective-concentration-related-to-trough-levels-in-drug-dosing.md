@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing.md
 url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
 score: -1.0
+related_article1:
+    id: 166495
+    title: What is the role of preclinical trials in the drug development process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
+related_article2:
+    id: 166497
+    title: What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article3:
+    id: 166500
+    title: What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+related_article4:
+    id: 166497
+    title: What are biologic drugs and how are they developed using biotechnology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+related_article5:
+    id: 166498
+    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-emotional-qualities-influence-career-choices.md
 url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
 score: -1.0
+related_article1:
+    id: 168452
+    title: How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article2:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article3:
+    id: 168447
+    title: What careers are suitable for Analysts and Diplomats?
+    subject: Psychology
+    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
+related_article4:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article5:
+    id: 168445
+    title: What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application.md
 url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
 score: -1.0
+related_article1:
+    id: 170230
+    title: Define Modus Ponens and provide an example of its application in logical reasoning.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
+related_article2:
+    id: 170224
+    title: How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+related_article3:
+    id: 170232
+    title: Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
+related_article4:
+    id: 170231
+    title: What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
+related_article5:
+    id: 170232
+    title: Explain the disjunctive syllogism rule and provide an example of its application.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
 ---
 
 &nbsp;

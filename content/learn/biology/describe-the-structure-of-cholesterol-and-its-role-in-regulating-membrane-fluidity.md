@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity.md
 url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
 score: -1.0
+related_article1:
+    id: 168914
+    title: How do glycoproteins contribute to cell recognition processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-processes
+related_article2:
+    id: 168915
+    title: What is the function of glycolipids in maintaining membrane stability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
+related_article3:
+    id: 168913
+    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
+related_article4:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
+related_article5:
+    id: 168912
+    title: What is the role of integral proteins in the plasma membrane, and how are they positioned within the membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-integral-proteins-in-the-plasma-membrane-and-how-are-they-positioned-within-the-membrane
 ---
 
 &nbsp;

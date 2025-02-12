@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination.md
 url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
 score: -1.0
+related_article1:
+    id: 164324
+    title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+related_article2:
+    id: 164323
+    title: What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article3:
+    id: 164327
+    title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
+related_article4:
+    id: 164323
+    title: What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+related_article5:
+    id: 164317
+    title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role.md
 url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
 score: -1.0
+related_article1:
+    id: 169695
+    title: What are the risks and considerations associated with the use of sedatives for sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
+related_article2:
+    id: 169699
+    title: What are the benefits and applications of light therapy in managing sleep disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-and-applications-of-light-therapy-in-managing-sleep-disorders
+related_article3:
+    id: 169697
+    title: What role do circadian rhythms play in sleep regulation, and how can modern technology impact these rhythms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms
+related_article4:
+    id: 169687
+    title: What are the key restorative processes that occur during sleep, and how do they contribute to physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-restorative-processes-that-occur-during-sleep-and-how-do-they-contribute-to-physical-and-mental-health
 ---
 
 &nbsp;

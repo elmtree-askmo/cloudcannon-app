@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri.md
 url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
 score: -1.0
+related_article1:
+    id: 164893
+    title: How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article2:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article3:
+    id: 164895
+    title: How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article4:
+    id: 164886
+    title: How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article5:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
 ---
 
 &nbsp;

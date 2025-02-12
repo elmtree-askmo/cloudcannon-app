@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules.md
 url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
 score: -1.0
+related_article1:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article2:
+    id: 167302
+    title: How do oligosaccharides contribute to cell identity and blood typing?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing
+related_article3:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article4:
+    id: 167304
+    title: What are the main classes of biological macromolecules and their basic building blocks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-classes-of-biological-macromolecules-and-their-basic-building-blocks
+related_article5:
+    id: 167299
+    title: What distinguishes branched polysaccharides from unbranched ones?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
 ---
 
 &nbsp;

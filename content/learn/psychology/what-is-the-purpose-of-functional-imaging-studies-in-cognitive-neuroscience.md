@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164335
+    title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
+related_article2:
+    id: 164343
+    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+related_article3:
+    id: 164333
+    title: What role does the parietal lobe play in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
+related_article4:
+    id: 164333
+    title: What role does the parietal lobe play in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
+related_article5:
+    id: 164341
+    title: In what ways do memory and attention pathways impact brain activity patterns?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
 ---
 
 &nbsp;

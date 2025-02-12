@@ -21,6 +21,31 @@ subject: Biology
 file_name: where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function.md
 url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 score: -1.0
+related_article1:
+    id: 170302
+    title: What is the impact of fossil fuel emissions on climate change?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+related_article2:
+    id: 170300
+    title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
+related_article3:
+    id: 170296
+    title: What are the three main stages of cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
+related_article4:
+    id: 170306
+    title: How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    subject: Biology
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
+related_article5:
+    id: 170296
+    title: What are the three main stages of cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 ---
 
 &nbsp;

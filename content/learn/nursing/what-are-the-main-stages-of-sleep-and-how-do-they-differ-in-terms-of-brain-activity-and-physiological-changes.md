@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-stages-of-sleep-and-how-do-they-differ-in-terms-of-brain-activity-and-physiological-changes.md
 url: /learn/nursing/questions/what-are-the-main-stages-of-sleep-and-how-do-they-differ-in-terms-of-brain-activity-and-physiological-changes
 score: -1.0
+related_article1:
+    id: 169689
+    title: In what ways does sleep contribute to emotional stability and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
+related_article2:
+    id: 169698
+    title: How does exposure to blue light affect melatonin production, and what strategies can mitigate its impact on sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-exposure-to-blue-light-affect-melatonin-production-and-what-strategies-can-mitigate-its-impact-on-sleep
+related_article3:
+    id: 169700
+    title: Why is maintaining a consistent bedtime routine important for sleep hygiene?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
+related_article4:
+    id: 169686
+    title: How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+related_article5:
+    id: 169686
+    title: How do sleep patterns change across different age groups?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
 ---
 
 &nbsp;

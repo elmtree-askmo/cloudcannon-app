@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-reflection-models-be-applied-to-enhance-professional-values.md
 url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 score: -1.0
+related_article1:
+    id: 169805
+    title: How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article2:
+    id: 169803
+    title: How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article3:
+    id: 169819
+    title: How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article4:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
+related_article5:
+    id: 169809
+    title: Why is empathy important in understanding others?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
 ---
 
 &nbsp;

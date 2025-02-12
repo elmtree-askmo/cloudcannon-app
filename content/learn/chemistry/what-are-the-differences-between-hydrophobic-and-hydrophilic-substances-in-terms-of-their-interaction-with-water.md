@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water.md
 url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 score: -1.0
+related_article1:
+    id: 167127
+    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+related_article2:
+    id: 167127
+    title: Provide an example calculation for determining hydroxide ion concentration from pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
+related_article3:
+    id: 167128
+    title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
+related_article4:
+    id: 167120
+    title: How is pH mathematically represented and what is the pH of pure water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
+related_article5:
+    id: 167126
+    title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 ---
 
 &nbsp;

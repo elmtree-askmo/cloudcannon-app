@@ -21,6 +21,31 @@ subject: Economics
 file_name: explain-the-concept-of-scarcity-and-its-economic-implications.md
 url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
 score: -1.0
+related_article1:
+    id: 169925
+    title: How do supply and demand dynamics influence pricing strategies in a market?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
+related_article2:
+    id: 169923
+    title: Define economic power and provide examples of its influence on global trade.
+    subject: Economics
+    url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
+related_article3:
+    id: 169931
+    title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article4:
+    id: 169931
+    title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+related_article5:
+    id: 169932
+    title: Identify current trends and challenges in global trade.
+    subject: Economics
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells.md
 url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
 score: -1.0
+related_article1:
+    id: 170953
+    title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+related_article2:
+    id: 170943
+    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+related_article3:
+    id: 170953
+    title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+related_article4:
+    id: 170948
+    title: How does confocal microscopy achieve optical sectioning?
+    subject: Biology
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+related_article5:
+    id: 170941
+    title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models.md
 url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
 score: -1.0
+related_article1:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article2:
+    id: 166128
+    title: Why are mathematical models important in understanding ecological interactions?
+    subject: Biology
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+related_article3:
+    id: 166123
+    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article4:
+    id: 166125
+    title: How is the per capita parasite load related to the conversion rate of host to parasites?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-per-capita-parasite-load-related-to-the-conversion-rate-of-host-to-parasites
+related_article5:
+    id: 166119
+    title: How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
 ---
 
 &nbsp;

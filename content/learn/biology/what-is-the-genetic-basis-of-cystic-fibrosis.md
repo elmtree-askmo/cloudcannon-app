@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-genetic-basis-of-cystic-fibrosis.md
 url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
 score: -1.0
+related_article1:
+    id: 167871
+    title: Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+related_article2:
+    id: 167871
+    title: Explain the molecular mechanism behind complete dominance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+related_article3:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+related_article4:
+    id: 167875
+    title: What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article5:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 ---
 
 &nbsp;

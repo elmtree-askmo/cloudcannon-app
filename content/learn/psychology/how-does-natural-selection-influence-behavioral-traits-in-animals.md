@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-natural-selection-influence-behavioral-traits-in-animals.md
 url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 score: -1.0
+related_article1:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+related_article2:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article3:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+related_article4:
+    id: 170909
+    title: What is the role of gene-environment interaction in shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
+related_article5:
+    id: 170920
+    title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
 ---
 
 &nbsp;

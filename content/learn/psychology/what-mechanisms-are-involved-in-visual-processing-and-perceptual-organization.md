@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization.md
 url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 score: -1.0
+related_article1:
+    id: 165016
+    title: How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article2:
+    id: 165013
+    title: What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article3:
+    id: 165009
+    title: What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
+related_article4:
+    id: 165022
+    title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+related_article5:
+    id: 165009
+    title: What are the origins and key studies related to the concept of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 ---
 
 &nbsp;

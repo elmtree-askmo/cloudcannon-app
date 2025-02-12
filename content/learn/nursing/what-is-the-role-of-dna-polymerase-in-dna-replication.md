@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-is-the-role-of-dna-polymerase-in-dna-replication.md
 url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
 score: -1.0
+related_article1:
+    id: 167867
+    title: What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
+related_article2:
+    id: 167858
+    title: How does meiosis contribute to genetic variation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+related_article3:
+    id: 167859
+    title: Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article4:
+    id: 167861
+    title: How does chromosomal crossover contribute to genetic diversity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
 ---
 
 &nbsp;

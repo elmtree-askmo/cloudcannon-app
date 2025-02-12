@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing.md
 url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
 score: -1.0
+related_article1:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article2:
+    id: 169512
+    title: Why is it important to keep manual handling training up-to-date?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
+related_article3:
+    id: 169510
+    title: What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article4:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article5:
+    id: 169498
+    title: How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 ---
 
 &nbsp;

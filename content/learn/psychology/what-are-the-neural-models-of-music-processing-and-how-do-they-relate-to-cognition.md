@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition.md
 url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 score: -1.0
+related_article1:
+    id: 164387
+    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
+related_article2:
+    id: 164390
+    title: What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article3:
+    id: 164389
+    title: Which neural pathways are involved in communication disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+related_article4:
+    id: 164391
+    title: How does cognitive psychology contribute to our understanding of speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+related_article5:
+    id: 164401
+    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity.md
 url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
 score: -1.0
+related_article1:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article2:
+    id: 164795
+    title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
+related_article3:
+    id: 164795
+    title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
+related_article4:
+    id: 164800
+    title: Explain the significance of neuron connections in neural communication.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
+related_article5:
+    id: 164810
+    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
 ---
 
 &nbsp;

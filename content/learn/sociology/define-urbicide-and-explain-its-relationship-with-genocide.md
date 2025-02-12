@@ -21,6 +21,31 @@ subject: Sociology
 file_name: define-urbicide-and-explain-its-relationship-with-genocide.md
 url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 score: -1.0
+related_article1:
+    id: 169210
+    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
+related_article2:
+    id: 169211
+    title: What are the political implications of house-burning in post-war Bosnia?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article3:
+    id: 169207
+    title: Explain the concept of Mitsein and its relevance to community and shared experience.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
+related_article4:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article5:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

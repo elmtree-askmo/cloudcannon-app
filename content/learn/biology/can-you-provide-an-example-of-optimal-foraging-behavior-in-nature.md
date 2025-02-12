@@ -21,6 +21,21 @@ subject: Biology
 file_name: can-you-provide-an-example-of-optimal-foraging-behavior-in-nature.md
 url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
 score: -1.0
+related_article1:
+    id: 170899
+    title: What is the Marginal Value Theorem in optimal foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
+related_article2:
+    id: 170894
+    title: How is energy profitability calculated in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
+related_article3:
+    id: 170894
+    title: How is energy profitability calculated in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
 ---
 
 &nbsp;

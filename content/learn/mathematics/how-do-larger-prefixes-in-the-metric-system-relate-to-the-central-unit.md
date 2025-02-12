@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit.md
 url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
 score: -1.0
+related_article1:
+    id: 165395
+    title: What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+related_article2:
+    id: 165406
+    title: What mnemonic devices can be used to memorize metric system conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions
+related_article3:
+    id: 165397
+    title: What is the significance of the prefix 'deca' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
+related_article4:
+    id: 165409
+    title: How does counting spaces on a number line help in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+related_article5:
+    id: 165398
+    title: How does the prefix 'deci' relate to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

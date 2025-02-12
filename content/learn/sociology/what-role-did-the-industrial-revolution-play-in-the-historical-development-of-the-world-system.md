@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system.md
 url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
 score: -1.0
+related_article1:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article2:
+    id: 165997
+    title: What are the key components of trade dynamics in global trade agreements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
+related_article3:
+    id: 165986
+    title: What are the characteristics of post-industrial economic diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+related_article4:
+    id: 165999
+    title: What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article5:
+    id: 165982
+    title: How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 ---
 
 &nbsp;

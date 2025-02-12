@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class.md
 url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
 score: -1.0
+related_article1:
+    id: 169142
+    title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
+related_article2:
+    id: 169144
+    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
+related_article3:
+    id: 169141
+    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+related_article4:
+    id: 169149
+    title: What were the dynamics of the African workforce in urban areas concerning the labor market?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-dynamics-of-the-african-workforce-in-urban-areas-concerning-the-labor-market
+related_article5:
+    id: 169150
+    title: What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance.md
 url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
 score: -1.0
+related_article1:
+    id: 170535
+    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+related_article2:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article3:
+    id: 170529
+    title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article4:
+    id: 170524
+    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    subject: Psychology
+    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+related_article5:
+    id: 170539
+    title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 ---
 
 &nbsp;

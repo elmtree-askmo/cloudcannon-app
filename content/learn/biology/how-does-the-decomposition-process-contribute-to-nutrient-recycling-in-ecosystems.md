@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems.md
 url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
 score: -1.0
+related_article1:
+    id: 170383
+    title: Explain the composition of biomass and how it relates to living and formerly living material.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
+related_article2:
+    id: 170380
+    title: Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article3:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
+related_article4:
+    id: 170390
+    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+related_article5:
+    id: 170378
+    title: How does carbon dioxide contribute to the process of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-dioxide-contribute-to-the-process-of-photosynthesis
 ---
 
 &nbsp;

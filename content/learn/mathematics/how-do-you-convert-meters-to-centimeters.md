@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-convert-meters-to-centimeters.md
 url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
 score: -1.0
+related_article1:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+related_article2:
+    id: 165393
+    title: How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article3:
+    id: 165399
+    title: What is the relationship between the prefix 'centi' and the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
+related_article4:
+    id: 165405
+    title: In which situations should the decimal point be moved to the left during unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
+related_article5:
+    id: 165413
+    title: What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-factors-influence-the-response-to-selection-in-a-population.md
 url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 score: -1.0
+related_article1:
+    id: 166364
+    title: Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+related_article2:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article3:
+    id: 166355
+    title: What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
+    id: 166367
+    title: What role do neurobiological influences play in shaping behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+related_article5:
+    id: 166370
+    title: How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
 ---
 
 &nbsp;

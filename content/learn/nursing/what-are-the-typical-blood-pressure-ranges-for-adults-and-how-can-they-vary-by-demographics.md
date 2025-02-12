@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics.md
 url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 score: -1.0
+related_article1:
+    id: 169517
+    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+related_article2:
+    id: 169535
+    title: How is blood pressure related to the risk of heart disease?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
+related_article3:
+    id: 169521
+    title: How do age-related changes affect misconceptions about normal blood pressure ranges?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+related_article4:
+    id: 169533
+    title: How do age-related changes naturally affect blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
+related_article5:
+    id: 169523
+    title: What health implications can arise from hypotension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
 ---
 
 &nbsp;

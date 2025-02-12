@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-role-of-atp-in-energy-transfer-within-cells.md
 url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
 score: -1.0
+related_article1:
+    id: 170973
+    title: What is the importance of sequence specificity in the synthesis of biomolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+related_article2:
+    id: 170969
+    title: How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article3:
+    id: 170965
+    title: How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
+related_article4:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article5:
+    id: 170965
+    title: How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
 ---
 
 &nbsp;

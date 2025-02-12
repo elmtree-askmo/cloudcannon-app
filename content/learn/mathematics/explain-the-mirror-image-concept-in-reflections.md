@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-mirror-image-concept-in-reflections.md
 url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
 score: -1.0
+related_article1:
+    id: 162762
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+related_article2:
+    id: 162621
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article3:
+    id: 162681
+    title: What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+related_article4:
+    id: 162626
+    title: What is the result of reflecting a point across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
+related_article5:
+    id: 162702
+    title: How can orientation changes lead to confusion in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 ---
 
 &nbsp;

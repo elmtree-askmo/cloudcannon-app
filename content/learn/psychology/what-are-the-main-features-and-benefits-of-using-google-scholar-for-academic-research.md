@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research.md
 url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
 score: -1.0
+related_article1:
+    id: 165213
+    title: Why is search term optimization crucial when using academic search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-search-term-optimization-crucial-when-using-academic-search-engines
+related_article2:
+    id: 165224
+    title: How is FITS Law relevant in psychology and what are its applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
+related_article3:
+    id: 165216
+    title: What are some common mistakes to avoid in APA citation format?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
+related_article4:
+    id: 165215
+    title: What are the common steps involved in conducting a literature review?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-steps-involved-in-conducting-a-literature-review
+related_article5:
+    id: 165222
+    title: What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 ---
 
 &nbsp;

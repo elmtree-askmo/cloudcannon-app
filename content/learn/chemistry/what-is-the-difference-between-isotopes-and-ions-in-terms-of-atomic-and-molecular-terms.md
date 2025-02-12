@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms.md
 url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
 score: -1.0
+related_article1:
+    id: 167069
+    title: How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article2:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article3:
+    id: 167055
+    title: What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article4:
+    id: 167063
+    title: How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+related_article5:
+    id: 167058
+    title: How is atomic mass calculated, and what role do isotopes play in this calculation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

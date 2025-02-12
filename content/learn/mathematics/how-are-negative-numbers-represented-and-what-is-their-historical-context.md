@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-negative-numbers-represented-and-what-is-their-historical-context.md
 url: /learn/mathematics/questions/how-are-negative-numbers-represented-and-what-is-their-historical-context
 score: -1.0
+related_article1:
+    id: 162122
+    title: What is the result of multiplying two negative numbers?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-multiplying-two-negative-numbers
+related_article2:
+    id: 162113
+    title: What is the first step in problem-solving according to the outlined techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-according-to-the-outlined-techniques
+related_article3:
+    id: 162120
+    title: Describe the isolation method for finding the value of X in an equation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
+related_article4:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
+related_article5:
+    id: 162108
+    title: What is the significance of polynomials in advanced algebraic concepts?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
 ---
 
 &nbsp;

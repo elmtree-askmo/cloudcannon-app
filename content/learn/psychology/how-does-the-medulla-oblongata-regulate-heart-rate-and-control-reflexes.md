@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes.md
 url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
 score: -1.0
+related_article1:
+    id: 170482
+    title: What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+related_article2:
+    id: 170466
+    title: How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article3:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+related_article4:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article5:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 ---
 
 &nbsp;

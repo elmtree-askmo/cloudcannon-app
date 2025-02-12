@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention.md
 url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 score: -1.0
+related_article1:
+    id: 164553
+    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article2:
+    id: 164553
+    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article3:
+    id: 164560
+    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article4:
+    id: 164550
+    title: What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article5:
+    id: 164553
+    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 ---
 
 &nbsp;

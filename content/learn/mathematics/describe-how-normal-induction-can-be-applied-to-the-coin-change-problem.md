@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-how-normal-induction-can-be-applied-to-the-coin-change-problem.md
 url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170688
+    title: How does the assumption of all values before n play a role in strong induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+related_article2:
+    id: 170703
+    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+related_article3:
+    id: 170690
+    title: How can strong induction be used to prove properties of the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+related_article4:
+    id: 170704
+    title: How is Big O Notation used to measure algorithm efficiency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+related_article5:
+    id: 170705
+    title: What is the importance of comparing Big O Notation with other notations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
 ---
 
 &nbsp;

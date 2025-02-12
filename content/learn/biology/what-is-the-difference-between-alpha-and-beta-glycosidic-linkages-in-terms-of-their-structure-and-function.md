@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-alpha-and-beta-glycosidic-linkages-in-terms-of-their-structure-and-function.md
 url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-glycosidic-linkages-in-terms-of-their-structure-and-function
 score: -1.0
+related_article1:
+    id: 167310
+    title: What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
+related_article2:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article3:
+    id: 167298
+    title: How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
+related_article4:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article5:
+    id: 167304
+    title: What are the main classes of biological macromolecules and their basic building blocks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-classes-of-biological-macromolecules-and-their-basic-building-blocks
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-developing-research-skills.md
 url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-developing-research-skills
 score: -1.0
+related_article1:
+    id: 160559
+    title: Explain the significance of communication technologies and transportation networks in global connectivity.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
+related_article2:
+    id: 160092
+    title: How do place and space contribute to regional analysis and regional attributes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+related_article3:
+    id: 160636
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article4:
+    id: 160622
+    title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+related_article5:
+    id: 160209
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals.md
 url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
 score: -1.0
+related_article1:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article2:
+    id: 163706
+    title: What are the differences in graph interpretation between quadratic and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
+related_article3:
+    id: 163702
+    title: How can exponential functions be used in real-world modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+related_article4:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article5:
+    id: 163708
+    title: What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
 ---
 
 &nbsp;

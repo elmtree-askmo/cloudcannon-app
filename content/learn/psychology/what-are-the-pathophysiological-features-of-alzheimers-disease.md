@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-pathophysiological-features-of-alzheimers-disease.md
 url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
 score: -1.0
+related_article1:
+    id: 170462
+    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+related_article2:
+    id: 170484
+    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article3:
+    id: 170471
+    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+related_article4:
+    id: 170471
+    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+related_article5:
+    id: 170463
+    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 ---
 
 &nbsp;

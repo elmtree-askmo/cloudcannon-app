@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion.md
 url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
 score: -1.0
+related_article1:
+    id: 165404
+    title: When converting units, when should you move the decimal point to the right?
+    subject: Mathematics
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
+related_article2:
+    id: 165411
+    title: What is the process for converting centimeters to meters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
+related_article3:
+    id: 165414
+    title: What is the conversion process from grams to milligrams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
+related_article4:
+    id: 165403
+    title: What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+related_article5:
+    id: 165413
+    title: What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
 ---
 
 &nbsp;

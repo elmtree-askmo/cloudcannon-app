@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-distinguishes-elements-from-compounds-in-pure-substances.md
 url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 score: -1.0
+related_article1:
+    id: 161834
+    title: What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article2:
+    id: 161878
+    title: What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article3:
+    id: 161717
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article4:
+    id: 161885
+    title: What are the defining characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
+related_article5:
+    id: 161877
+    title: How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 ---
 
 &nbsp;

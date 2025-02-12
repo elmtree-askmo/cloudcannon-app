@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-ethical-considerations-must-be-taken-into-account-when-conducting-research.md
 url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
 score: -1.0
+related_article1:
+    id: 165083
+    title: What are the key components of a well-structured research report?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+related_article2:
+    id: 165068
+    title: What is the role of descriptive statistics in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+related_article3:
+    id: 165078
+    title: What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article4:
+    id: 165073
+    title: How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article5:
+    id: 165084
+    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 ---
 
 &nbsp;

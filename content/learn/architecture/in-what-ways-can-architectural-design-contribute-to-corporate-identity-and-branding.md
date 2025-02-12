@@ -21,6 +21,31 @@ subject: Architecture
 file_name: in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding.md
 url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 score: -1.0
+related_article1:
+    id: 169414
+    title: What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article2:
+    id: 169414
+    title: What are some key terms in interior design that are essential for understanding design concepts?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+related_article3:
+    id: 169408
+    title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+related_article4:
+    id: 169408
+    title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+related_article5:
+    id: 169415
+    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
 ---
 
 &nbsp;

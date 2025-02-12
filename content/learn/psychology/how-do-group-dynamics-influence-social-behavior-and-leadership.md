@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-group-dynamics-influence-social-behavior-and-leadership.md
 url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 score: -1.0
+related_article1:
+    id: 167685
+    title: How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article2:
+    id: 167690
+    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+related_article3:
+    id: 167709
+    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+related_article4:
+    id: 167691
+    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article5:
+    id: 167704
+    title: What methods are used to study animal behavior in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

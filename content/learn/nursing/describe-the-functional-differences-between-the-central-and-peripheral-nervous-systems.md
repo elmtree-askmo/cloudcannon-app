@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems.md
 url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 score: -1.0
+related_article1:
+    id: 170500
+    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+related_article2:
+    id: 170490
+    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+related_article3:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article4:
+    id: 170498
+    title: What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+related_article5:
+    id: 170498
+    title: What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 ---
 
 &nbsp;

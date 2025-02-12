@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles.md
 url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
 score: -1.0
+related_article1:
+    id: 169538
+    title: How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+related_article2:
+    id: 169551
+    title: What are the benefits of building a strong support network for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+related_article3:
+    id: 169545
+    title: What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
+related_article4:
+    id: 169542
+    title: Why is cultural competency important in nursing, and how can it improve patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
+related_article5:
+    id: 169549
+    title: What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
 ---
 
 &nbsp;

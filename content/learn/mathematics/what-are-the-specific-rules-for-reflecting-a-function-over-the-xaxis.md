@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis.md
 url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
 score: -1.0
+related_article1:
+    id: 168397
+    title: What are the different types of transformations that can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
+related_article2:
+    id: 168407
+    title: How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article3:
+    id: 168419
+    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article4:
+    id: 168415
+    title: What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article5:
+    id: 168400
+    title: How can you identify opposite outputs in a table comparison for reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 ---
 
 &nbsp;

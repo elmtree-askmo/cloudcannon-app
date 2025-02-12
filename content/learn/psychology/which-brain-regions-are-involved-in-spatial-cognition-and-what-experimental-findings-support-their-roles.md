@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles.md
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
 score: -1.0
+related_article1:
+    id: 164861
+    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+related_article2:
+    id: 164867
+    title: What evidence supports the functional specialization of the brain in object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
+related_article3:
+    id: 164854
+    title: How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+related_article4:
+    id: 164865
+    title: What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article5:
+    id: 164854
+    title: How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 ---
 
 &nbsp;

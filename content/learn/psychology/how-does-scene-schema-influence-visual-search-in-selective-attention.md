@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-scene-schema-influence-visual-search-in-selective-attention.md
 url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
 score: -1.0
+related_article1:
+    id: 164753
+    title: How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+related_article2:
+    id: 164760
+    title: What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article3:
+    id: 164758
+    title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
+related_article4:
+    id: 164766
+    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+related_article5:
+    id: 164758
+    title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments.md
 url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
 score: -1.0
+related_article1:
+    id: 162943
+    title: What role do security protocols play in urban analysis and warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+related_article2:
+    id: 162951
+    title: What is the role of the securocratic state in managing urban security?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
+related_article3:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article4:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
+related_article5:
+    id: 162942
+    title: Discuss the importance of urban combat training in preparing for urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
 ---
 
 &nbsp;

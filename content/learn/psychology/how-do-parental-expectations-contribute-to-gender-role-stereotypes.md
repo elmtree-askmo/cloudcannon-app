@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-parental-expectations-contribute-to-gender-role-stereotypes.md
 url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
 score: -1.0
+related_article1:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article2:
+    id: 168137
+    title: How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article3:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article4:
+    id: 168109
+    title: What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+related_article5:
+    id: 168109
+    title: What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation.md
 url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
 score: -1.0
+related_article1:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article2:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article3:
+    id: 165625
+    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+related_article4:
+    id: 165629
+    title: How have Trump's tariff threats affected US-Canada trade relations?
+    subject: Politics
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
+related_article5:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
 ---
 
 &nbsp;

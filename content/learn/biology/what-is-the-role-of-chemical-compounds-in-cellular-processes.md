@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-chemical-compounds-in-cellular-processes.md
 url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
 score: -1.0
+related_article1:
+    id: 167445
+    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+related_article2:
+    id: 167454
+    title: What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
+related_article3:
+    id: 167450
+    title: Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article4:
+    id: 167466
+    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+related_article5:
+    id: 167456
+    title: Define acids and bases according to the proton donor-acceptor concept.
+    subject: Biology
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 ---
 
 &nbsp;

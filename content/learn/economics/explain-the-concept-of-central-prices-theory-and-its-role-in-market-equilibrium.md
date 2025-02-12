@@ -21,6 +21,26 @@ subject: Economics
 file_name: explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium.md
 url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
 score: -1.0
+related_article1:
+    id: 170860
+    title: How does central prices theory impact pricing strategies in economics?
+    subject: Economics
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+related_article2:
+    id: 170865
+    title: What analytical techniques are used to determine optimal quality in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-analytical-techniques-are-used-to-determine-optimal-quality-in-economics
+related_article3:
+    id: 170862
+    title: Why is graphical representation important in understanding economic concepts?
+    subject: Economics
+    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
+related_article4:
+    id: 170847
+    title: How do you identify costs and benefits in a cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis
 ---
 
 &nbsp;

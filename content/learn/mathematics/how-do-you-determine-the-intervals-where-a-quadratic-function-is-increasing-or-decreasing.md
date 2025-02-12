@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing.md
 url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
 score: -1.0
+related_article1:
+    id: 163704
+    title: What techniques can be used to estimate values when modeling mathematically?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
+related_article2:
+    id: 163697
+    title: What is the formula for calculating the average rate of change between two points on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article3:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article4:
+    id: 163708
+    title: What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article5:
+    id: 163710
+    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
 ---
 
 &nbsp;

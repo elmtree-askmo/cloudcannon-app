@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china.md
 url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
 score: -1.0
+related_article1:
+    id: 169890
+    title: Explain how tariffs can affect supply and demand in a market.
+    subject: Economics
+    url: /learn/economics/questions/explain-how-tariffs-can-affect-supply-and-demand-in-a-market
+related_article2:
+    id: 169899
+    title: What is the role of central banks in determining interest rates and their impact on the economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-central-banks-in-determining-interest-rates-and-their-impact-on-the-economy
+related_article3:
+    id: 169891
+    title: What is the role of consumer and producer interaction in value assignment in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+related_article4:
+    id: 169899
+    title: What is the role of central banks in determining interest rates and their impact on the economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-central-banks-in-determining-interest-rates-and-their-impact-on-the-economy
+related_article5:
+    id: 169898
+    title: Why is GDP an important measure of economic growth and how do policies affect it?
+    subject: Economics
+    url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-consulting-programs-support-engineers-through-networking-and-community-engagement.md
 url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
 score: -1.0
+related_article1:
+    id: 166667
+    title: What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
+related_article2:
+    id: 166662
+    title: How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
+related_article3:
+    id: 166662
+    title: How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
+related_article4:
+    id: 166657
+    title: What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
+related_article5:
+    id: 166657
+    title: What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    subject: Engineering
+    url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
 ---
 
 &nbsp;

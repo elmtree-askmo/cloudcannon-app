@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis.md
 url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 score: -1.0
+related_article1:
+    id: 169859
+    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article2:
+    id: 169861
+    title: How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article3:
+    id: 169860
+    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+related_article4:
+    id: 169859
+    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article5:
+    id: 169856
+    title: How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
 ---
 
 &nbsp;

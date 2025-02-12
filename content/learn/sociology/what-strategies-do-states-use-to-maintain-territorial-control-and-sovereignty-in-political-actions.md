@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions.md
 url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 score: -1.0
+related_article1:
+    id: 160216
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article2:
+    id: 160542
+    title: What are the key factors contributing to regional disparities in terms of inequality and prosperity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+related_article3:
+    id: 160637
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+related_article4:
+    id: 160645
+    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
+related_article5:
+    id: 160104
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

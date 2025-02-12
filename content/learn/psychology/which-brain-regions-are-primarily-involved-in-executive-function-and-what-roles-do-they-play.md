@@ -21,6 +21,31 @@ subject: Psychology
 file_name: which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play.md
 url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
 score: -1.0
+related_article1:
+    id: 164548
+    title: What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article2:
+    id: 164546
+    title: How does procedural memory differ from semantic and episodic memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
+related_article3:
+    id: 164543
+    title: What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article4:
+    id: 164565
+    title: What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article5:
+    id: 164548
+    title: What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 ---
 
 &nbsp;

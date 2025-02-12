@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory.md
 url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
 score: -1.0
+related_article1:
+    id: 164563
+    title: How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article2:
+    id: 164552
+    title: How do automatic and controlled processes differ in neural networks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+related_article3:
+    id: 164561
+    title: How do ADHD and attention networks interact in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
+related_article4:
+    id: 164543
+    title: What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+related_article5:
+    id: 164564
+    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 ---
 
 &nbsp;

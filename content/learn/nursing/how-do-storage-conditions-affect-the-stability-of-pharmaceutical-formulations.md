@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations.md
 url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
 score: -1.0
+related_article1:
+    id: 166460
+    title: What are the phases of drug metabolism and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-drug-metabolism-and-their-significance
+related_article2:
+    id: 166468
+    title: What are the different types of drug interactions and their potential impacts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article3:
+    id: 166468
+    title: What are the different types of drug interactions and their potential impacts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article4:
+    id: 166459
+    title: How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article5:
+    id: 166456
+    title: How does the blood-brain barrier affect drug distribution?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

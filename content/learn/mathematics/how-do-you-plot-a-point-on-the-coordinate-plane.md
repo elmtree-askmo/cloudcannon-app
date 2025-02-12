@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-plot-a-point-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 score: -1.0
+related_article1:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article2:
+    id: 162229
+    title: What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article3:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article4:
+    id: 162217
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article5:
+    id: 162312
+    title: What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 ---
 
 &nbsp;

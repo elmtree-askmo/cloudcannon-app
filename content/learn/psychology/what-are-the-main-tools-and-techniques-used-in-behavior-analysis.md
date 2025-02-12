@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-tools-and-techniques-used-in-behavior-analysis.md
 url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 score: -1.0
+related_article1:
+    id: 169311
+    title: What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article2:
+    id: 169330
+    title: What are some common behavior shaping techniques and how are they selected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article3:
+    id: 169323
+    title: What is positive reinforcement and how does it aid in behavior shaping?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article4:
+    id: 169311
+    title: What is shaping and why is it important in behavior development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+related_article5:
+    id: 169320
+    title: How is intensity measured in behavior assessment and what is its application?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
 ---
 
 &nbsp;

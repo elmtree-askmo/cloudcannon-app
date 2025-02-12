@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
 score: -1.0
+related_article1:
+    id: 170590
+    title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
+related_article2:
+    id: 170567
+    title: What role does the thalamus play in sensory input processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
+related_article3:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article4:
+    id: 170574
+    title: How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article5:
+    id: 170564
+    title: How does the hippocampus contribute to long-term memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 ---
 
 &nbsp;

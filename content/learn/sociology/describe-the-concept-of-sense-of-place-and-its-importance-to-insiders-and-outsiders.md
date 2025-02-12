@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders.md
 url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 score: -1.0
+related_article1:
+    id: 159821
+    title: Discuss the role of emotional attachment in identity formation related to place.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
+related_article2:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
+related_article3:
+    id: 159825
+    title: What are the main types of map projections and their characteristics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
+related_article4:
+    id: 159827
+    title: Explain the importance of accessibility and connectivity in spatial analysis.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-importance-of-accessibility-and-connectivity-in-spatial-analysis
+related_article5:
+    id: 159818
+    title: How do social and natural interactions influence spatial relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
 ---
 
 &nbsp;

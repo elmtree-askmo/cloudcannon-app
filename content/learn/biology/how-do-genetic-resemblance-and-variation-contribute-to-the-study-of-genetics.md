@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics.md
 url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
 score: -1.0
+related_article1:
+    id: 167830
+    title: How can concept maps be used to organize genetic information?
+    subject: Biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
+related_article2:
+    id: 167809
+    title: Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article3:
+    id: 167823
+    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article4:
+    id: 167811
+    title: How do sister chromatids function during cell division?
+    subject: Biology
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
+related_article5:
+    id: 167818
+    title: How does transcription differ from translation in protein synthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
 ---
 
 &nbsp;

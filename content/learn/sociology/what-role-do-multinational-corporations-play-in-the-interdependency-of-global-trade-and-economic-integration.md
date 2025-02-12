@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration.md
 url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 score: -1.0
+related_article1:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
+related_article2:
+    id: 163861
+    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+related_article3:
+    id: 163860
+    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+related_article4:
+    id: 163863
+    title: How have multinational corporations contributed to contemporary globalization since 1945?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
+related_article5:
+    id: 163866
+    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
 ---
 
 &nbsp;

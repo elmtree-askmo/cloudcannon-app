@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-domain-and-range-characteristics-of-cube-root-functions.md
 url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163775
+    title: How do horizontal and vertical shifts affect cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+related_article2:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+related_article3:
+    id: 163748
+    title: What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+related_article4:
+    id: 163770
+    title: What are the effects of transformations and translations on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article5:
+    id: 163761
+    title: How do the graphs of cube root functions differ from those of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 ---
 
 &nbsp;

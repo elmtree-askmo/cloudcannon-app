@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables.md
 url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
 score: -1.0
+related_article1:
+    id: 170248
+    title: What is the implication operator, and how are hypothesis and conclusion related?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
+related_article2:
+    id: 170235
+    title: What is the historical significance of propositional logic in the development of logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+related_article3:
+    id: 170245
+    title: How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article4:
+    id: 170252
+    title: Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article5:
+    id: 170245
+    title: How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 ---
 
 &nbsp;

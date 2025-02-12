@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-are-cognitive-disorders-diagnosed-and-treated.md
 url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 score: -1.0
+related_article1:
+    id: 164674
+    title: What are the main cognitive functions studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+related_article2:
+    id: 164686
+    title: What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article3:
+    id: 164686
+    title: What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article4:
+    id: 164689
+    title: How is artificial intelligence applied in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+related_article5:
+    id: 164684
+    title: What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 ---
 
 &nbsp;

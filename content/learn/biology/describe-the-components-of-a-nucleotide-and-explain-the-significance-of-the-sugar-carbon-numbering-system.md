@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system.md
 url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 score: -1.0
+related_article1:
+    id: 166867
+    title: What are the primary functions of DNA and RNA in the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-functions-of-dna-and-rna-in-the-cell
+related_article2:
+    id: 166867
+    title: What are the primary functions of DNA and RNA in the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-functions-of-dna-and-rna-in-the-cell
+related_article3:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article4:
+    id: 166866
+    title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+related_article5:
+    id: 166869
+    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
 ---
 
 &nbsp;

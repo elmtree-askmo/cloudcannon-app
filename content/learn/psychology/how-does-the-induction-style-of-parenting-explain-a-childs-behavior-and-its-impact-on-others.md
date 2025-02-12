@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others.md
 url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
 score: -1.0
+related_article1:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article2:
+    id: 164147
+    title: What evidence supports the dominance of peer influence over parental guidance in moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+related_article3:
+    id: 164149
+    title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
+related_article4:
+    id: 164139
+    title: According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+related_article5:
+    id: 164144
+    title: What is the significance of equality and reciprocity in peer relationships for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
 ---
 
 &nbsp;

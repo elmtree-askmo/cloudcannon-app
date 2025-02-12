@@ -21,6 +21,31 @@ subject: Medicine
 file_name: how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification.md
 url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification
 score: -1.0
+related_article1:
+    id: 163185
+    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
+related_article2:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+related_article3:
+    id: 163187
+    title: What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+related_article4:
+    id: 163173
+    title: What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
+related_article5:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
 ---
 
 &nbsp;

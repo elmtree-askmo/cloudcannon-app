@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-economic-and-social-policies-interconnect-in-political-dynamics.md
 url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
 score: -1.0
+related_article1:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article2:
+    id: 165623
+    title: What are the main challenges in the housing market related to affordability and inflation?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+related_article3:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article4:
+    id: 165630
+    title: What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+related_article5:
+    id: 165621
+    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167645
+    title: What are the main classes of biological macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
+related_article2:
+    id: 167634
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 167636
+    title: What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article4:
+    id: 167643
+    title: How do triglycerides differ from phospholipids in structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
 ---
 
 &nbsp;

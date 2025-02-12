@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety.md
 url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
 score: -1.0
+related_article1:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article2:
+    id: 166498
+    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+related_article3:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article4:
+    id: 166500
+    title: What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+related_article5:
+    id: 166502
+    title: What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
 ---
 
 &nbsp;

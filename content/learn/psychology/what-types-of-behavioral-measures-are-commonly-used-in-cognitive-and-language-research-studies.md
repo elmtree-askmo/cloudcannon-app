@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies.md
 url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
 score: -1.0
+related_article1:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article2:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article3:
+    id: 164895
+    title: How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article4:
+    id: 164892
+    title: What role does Broca's area play in language production, and what are the effects of its damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
+related_article5:
+    id: 164898
+    title: What strategies can be used to reduce statistical noise in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
 ---
 
 &nbsp;

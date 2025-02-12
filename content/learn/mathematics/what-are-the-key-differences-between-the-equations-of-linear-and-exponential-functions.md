@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions.md
 url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
 score: -1.0
+related_article1:
+    id: 163763
+    title: What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article2:
+    id: 163778
+    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
+related_article3:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+related_article4:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+related_article5:
+    id: 163785
+    title: What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology.md
 url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170799
+    title: In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
+related_article2:
+    id: 170805
+    title: How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article3:
+    id: 170795
+    title: What is the significance of equilibrium analysis in the context of a payoff matrix?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
+related_article4:
+    id: 170798
+    title: Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
+related_article5:
+    id: 170801
+    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
 ---
 
 &nbsp;

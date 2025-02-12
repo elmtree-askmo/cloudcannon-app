@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord.md
 url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
 score: -1.0
+related_article1:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article2:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article3:
+    id: 170447
+    title: Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+related_article4:
+    id: 170449
+    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
+related_article5:
+    id: 170456
+    title: What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

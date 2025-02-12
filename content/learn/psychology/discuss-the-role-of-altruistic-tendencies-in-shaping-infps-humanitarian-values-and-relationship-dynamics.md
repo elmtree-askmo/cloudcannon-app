@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics.md
 url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
 score: -1.0
+related_article1:
+    id: 170620
+    title: How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
+related_article2:
+    id: 170633
+    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article3:
+    id: 170621
+    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
+related_article4:
+    id: 170623
+    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
+related_article5:
+    id: 170619
+    title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
 ---
 
 &nbsp;

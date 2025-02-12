@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved.md
 url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
 score: -1.0
+related_article1:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article2:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
+related_article3:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
+related_article4:
+    id: 166875
+    title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+related_article5:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role.md
 url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 score: -1.0
+related_article1:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article2:
+    id: 169355
+    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+related_article3:
+    id: 169357
+    title: How can individualized education plans and technology be used as intervention strategies for learning disabilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-individualized-education-plans-and-technology-be-used-as-intervention-strategies-for-learning-disabilities
+related_article4:
+    id: 169342
+    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article5:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-glycolipids-in-maintaining-membrane-stability.md
 url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
 score: -1.0
+related_article1:
+    id: 168910
+    title: What is the difference between saturated and unsaturated fatty acids, and how does each type affect membrane fluidity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity
+related_article2:
+    id: 168913
+    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
+related_article3:
+    id: 168916
+    title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
+related_article4:
+    id: 168912
+    title: What is the role of integral proteins in the plasma membrane, and how are they positioned within the membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-integral-proteins-in-the-plasma-membrane-and-how-are-they-positioned-within-the-membrane
+related_article5:
+    id: 168911
+    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 ---
 
 &nbsp;

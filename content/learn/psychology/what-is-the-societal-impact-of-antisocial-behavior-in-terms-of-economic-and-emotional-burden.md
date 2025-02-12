@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden.md
 url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 score: -1.0
+related_article1:
+    id: 163639
+    title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article2:
+    id: 163642
+    title: What are the developmental aspects of empathy and guilt in childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+related_article3:
+    id: 163629
+    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article4:
+    id: 163634
+    title: Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article5:
+    id: 163638
+    title: How do cultural and social criteria influence the definition of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
 ---
 
 &nbsp;

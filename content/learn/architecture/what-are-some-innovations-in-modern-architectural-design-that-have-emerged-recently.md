@@ -21,6 +21,31 @@ subject: Architecture
 file_name: what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently.md
 url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
 score: -1.0
+related_article1:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article2:
+    id: 169408
+    title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+related_article3:
+    id: 169413
+    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+related_article4:
+    id: 169403
+    title: What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
+related_article5:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
 ---
 
 &nbsp;

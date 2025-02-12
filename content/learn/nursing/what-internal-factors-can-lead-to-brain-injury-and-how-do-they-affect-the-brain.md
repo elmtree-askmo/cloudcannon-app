@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain.md
 url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
 score: -1.0
+related_article1:
+    id: 164449
+    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article2:
+    id: 164457
+    title: What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
+related_article3:
+    id: 164446
+    title: How does the temporal lobe contribute to memory and learning processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
+related_article4:
+    id: 164452
+    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article5:
+    id: 164445
+    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
 ---
 
 &nbsp;

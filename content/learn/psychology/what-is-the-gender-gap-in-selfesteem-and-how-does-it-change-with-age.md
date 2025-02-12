@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age.md
 url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
 score: -1.0
+related_article1:
+    id: 168112
+    title: How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article2:
+    id: 168118
+    title: What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article3:
+    id: 168135
+    title: How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article4:
+    id: 168123
+    title: How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article5:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 ---
 
 &nbsp;

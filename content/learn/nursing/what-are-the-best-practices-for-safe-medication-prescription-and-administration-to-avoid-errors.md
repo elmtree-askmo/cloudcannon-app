@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors.md
 url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
 score: -1.0
+related_article1:
+    id: 169680
+    title: What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+related_article2:
+    id: 169675
+    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+related_article3:
+    id: 169671
+    title: What procedures are essential for preventing hospital-acquired infections?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
+related_article4:
+    id: 169673
+    title: What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
+related_article5:
+    id: 169680
+    title: What are the essential components of an emergency response plan in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
 ---
 
 &nbsp;

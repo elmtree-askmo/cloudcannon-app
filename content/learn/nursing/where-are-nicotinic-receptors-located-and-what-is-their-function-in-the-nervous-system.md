@@ -21,6 +21,31 @@ subject: Nursing
 file_name: where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system.md
 url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 score: -1.0
+related_article1:
+    id: 170515
+    title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+related_article2:
+    id: 170518
+    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article3:
+    id: 170521
+    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article4:
+    id: 170521
+    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+related_article5:
+    id: 170508
+    title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 ---
 
 &nbsp;

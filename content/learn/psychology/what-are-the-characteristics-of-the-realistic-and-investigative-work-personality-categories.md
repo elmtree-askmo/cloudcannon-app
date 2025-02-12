@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories.md
 url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
 score: -1.0
+related_article1:
+    id: 168452
+    title: How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article2:
+    id: 168440
+    title: What are the social implications of dominance in conversations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-social-implications-of-dominance-in-conversations
+related_article3:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article4:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article5:
+    id: 168433
+    title: What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
 ---
 
 &nbsp;

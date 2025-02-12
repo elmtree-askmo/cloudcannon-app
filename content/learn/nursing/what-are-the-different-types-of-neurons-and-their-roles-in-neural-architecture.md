@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture.md
 url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 score: -1.0
+related_article1:
+    id: 164741
+    title: What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article2:
+    id: 164736
+    title: How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article3:
+    id: 164734
+    title: What are Broadman's areas and how do they correlate with brain functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
+related_article4:
+    id: 164722
+    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+related_article5:
+    id: 164752
+    title: What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
 ---
 
 &nbsp;

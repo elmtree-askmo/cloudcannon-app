@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities.md
 url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
 score: -1.0
+related_article1:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article2:
+    id: 169576
+    title: What is the role of student nurses within the healthcare team?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+related_article3:
+    id: 169565
+    title: How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article4:
+    id: 169562
+    title: How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+related_article5:
+    id: 169571
+    title: Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 ---
 
 &nbsp;

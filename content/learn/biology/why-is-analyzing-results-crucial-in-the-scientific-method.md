@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-analyzing-results-crucial-in-the-scientific-method.md
 url: /learn/biology/questions/why-is-analyzing-results-crucial-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 167508
+    title: What are the essential components of designing a scientific experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article2:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article3:
+    id: 167522
+    title: What factors affect an organism's survival and reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
+related_article4:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article5:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 ---
 
 &nbsp;

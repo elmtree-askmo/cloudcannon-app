@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-removal-of-electrons-lead-to-the-formation-of-ions.md
 url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 score: -1.0
+related_article1:
+    id: 162026
+    title: What is the importance of balancing chemical equations in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+related_article2:
+    id: 162057
+    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article3:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article4:
+    id: 161994
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 161764
+    title: How does the process of ionization affect the state of a substance?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-ionization-affect-the-state-of-a-substance
 ---
 
 &nbsp;

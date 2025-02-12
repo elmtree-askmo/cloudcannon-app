@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony.md
 url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
 score: -1.0
+related_article1:
+    id: 168031
+    title: What have studies revealed about the reliability of children's eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
+related_article2:
+    id: 168025
+    title: What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+related_article3:
+    id: 168027
+    title: How can misinformation be avoided during interviews with children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+related_article4:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article5:
+    id: 168015
+    title: How does the misinformation effect impact memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 ---
 
 &nbsp;

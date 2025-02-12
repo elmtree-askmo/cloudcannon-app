@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-heritability-affect-the-process-of-natural-selection.md
 url: /learn/biology/questions/how-does-heritability-affect-the-process-of-natural-selection
 score: -1.0
+related_article1:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article2:
+    id: 165267
+    title: What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+related_article3:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article4:
+    id: 165261
+    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    subject: Biology
+    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+related_article5:
+    id: 165266
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 ---
 
 &nbsp;

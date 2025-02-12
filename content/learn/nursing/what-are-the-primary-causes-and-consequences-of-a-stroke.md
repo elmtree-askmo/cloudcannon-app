@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-primary-causes-and-consequences-of-a-stroke.md
 url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
 score: -1.0
+related_article1:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article2:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article3:
+    id: 170454
+    title: What are the causes and symptoms of viral meningitis, and how is it treated?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+related_article4:
+    id: 170447
+    title: Describe the structure and function of the dura mater.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+related_article5:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 ---
 
 &nbsp;

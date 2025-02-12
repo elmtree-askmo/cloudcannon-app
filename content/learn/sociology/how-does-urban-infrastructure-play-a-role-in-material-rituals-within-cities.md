@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-urban-infrastructure-play-a-role-in-material-rituals-within-cities.md
 url: /learn/sociology/questions/how-does-urban-infrastructure-play-a-role-in-material-rituals-within-cities
 score: -1.0
+related_article1:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+related_article2:
+    id: 162917
+    title: How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article3:
+    id: 162931
+    title: How does tactical urbanism influence volumetric warfighting strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
+related_article4:
+    id: 162925
+    title: How does urban simulation contribute to urban analysis and geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-analysis-and-geography
+related_article5:
+    id: 162924
+    title: What is the significance of spatial intelligence in volumetric warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 ---
 
 &nbsp;

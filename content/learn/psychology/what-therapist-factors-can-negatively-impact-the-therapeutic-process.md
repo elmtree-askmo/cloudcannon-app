@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-therapist-factors-can-negatively-impact-the-therapeutic-process.md
 url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
 score: -1.0
+related_article1:
+    id: 163042
+    title: How do client views and perspectives influence the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
+related_article2:
+    id: 163025
+    title: How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+related_article3:
+    id: 163036
+    title: What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article4:
+    id: 163028
+    title: What characteristics make a theory effective in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
+related_article5:
+    id: 163025
+    title: How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
 ---
 
 &nbsp;

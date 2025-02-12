@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight.md
 url: /learn/chemistry/questions/how-does-the-percentage-of-chlorine-isotopes-in-nature-contribute-to-its-atomic-weight
 score: -1.0
+related_article1:
+    id: 167255
+    title: What are isotopes and how do they differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article2:
+    id: 167256
+    title: How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
+related_article3:
+    id: 167256
+    title: How do different neutron numbers in isotopes affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-different-neutron-numbers-in-isotopes-affect-the-atomic-mass-of-an-element
+related_article4:
+    id: 167249
+    title: What is the definition of atomic mass and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-atomic-mass-and-how-is-it-measured
+related_article5:
+    id: 167253
+    title: What role do naturally occurring isotopes play in determining atomic weight?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-naturally-occurring-isotopes-play-in-determining-atomic-weight
 ---
 
 &nbsp;

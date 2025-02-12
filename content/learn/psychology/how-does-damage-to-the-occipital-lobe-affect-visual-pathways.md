@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-damage-to-the-occipital-lobe-affect-visual-pathways.md
 url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
 score: -1.0
+related_article1:
+    id: 164646
+    title: What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article2:
+    id: 164656
+    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+related_article3:
+    id: 164656
+    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+related_article4:
+    id: 164651
+    title: What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+related_article5:
+    id: 164651
+    title: What causes scotoma and how does it differ from hemianopia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
 ---
 
 &nbsp;

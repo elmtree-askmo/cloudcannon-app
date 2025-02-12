@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes.md
 url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
 score: -1.0
+related_article1:
+    id: 166502
+    title: What are the requirements for drug labeling under FDA regulations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+related_article2:
+    id: 166510
+    title: How do pharmacokinetic and pharmacodynamic interactions differ?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article3:
+    id: 166513
+    title: Why is patient education important in medication adherence and safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+related_article4:
+    id: 166490
+    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article5:
+    id: 166503
+    title: What is the importance of randomized controlled trials in clinical research?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 ---
 
 &nbsp;

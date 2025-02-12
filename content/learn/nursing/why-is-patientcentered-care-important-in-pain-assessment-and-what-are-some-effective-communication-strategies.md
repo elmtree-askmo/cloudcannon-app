@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies.md
 url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
 score: -1.0
+related_article1:
+    id: 169787
+    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+related_article2:
+    id: 169793
+    title: What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
+related_article3:
+    id: 169796
+    title: Discuss the emotional and cognitive effects of pain on a patient.
+    subject: Nursing
+    url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
+related_article4:
+    id: 169788
+    title: List some common causes of neuropathic pain and describe its management strategies.
+    subject: Nursing
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
+related_article5:
+    id: 169789
+    title: Explain how the Numerical Rating Scale is used in pain assessment.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
 ---
 
 &nbsp;

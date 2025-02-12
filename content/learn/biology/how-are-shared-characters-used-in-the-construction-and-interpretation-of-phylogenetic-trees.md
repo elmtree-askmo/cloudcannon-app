@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees.md
 url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
 score: -1.0
+related_article1:
+    id: 167736
+    title: What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article2:
+    id: 167738
+    title: How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
+related_article3:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article4:
+    id: 167736
+    title: What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
+related_article5:
+    id: 167729
+    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates.md
 url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
 score: -1.0
+related_article1:
+    id: 168828
+    title: How does the branching in amelopectin affect its hydrolysis efficiency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+related_article2:
+    id: 168835
+    title: What is the significance of epithelial cells in the absorption process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+related_article3:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+related_article4:
+    id: 168837
+    title: What is the role of the sodium-potassium pump in creating a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
+related_article5:
+    id: 168839
+    title: Why is mitochondria important for active transport in nutrient absorption?
+    subject: Biology
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
 ---
 
 &nbsp;

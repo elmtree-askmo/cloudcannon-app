@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-do-hydrogen-bonds-play-in-molecular-interactions.md
 url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
 score: -1.0
+related_article1:
+    id: 167059
+    title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
+related_article2:
+    id: 167066
+    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article3:
+    id: 167066
+    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article4:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article5:
+    id: 167055
+    title: What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-mental-health-influence-task-performance-in-psychology.md
 url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
 score: -1.0
+related_article1:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article2:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article3:
+    id: 164312
+    title: How does cultural significance affect the psychological impact of color perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
+related_article4:
+    id: 164297
+    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article5:
+    id: 164309
+    title: How does perceptual learning contribute to object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
 ---
 
 &nbsp;

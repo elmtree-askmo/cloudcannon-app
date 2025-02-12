@@ -21,6 +21,31 @@ subject: Politics
 file_name: what-strategies-are-effective-for-political-communication-and-public-engagement.md
 url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
 score: -1.0
+related_article1:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article2:
+    id: 165624
+    title: Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
+related_article3:
+    id: 165621
+    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
+related_article4:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article5:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 ---
 
 &nbsp;

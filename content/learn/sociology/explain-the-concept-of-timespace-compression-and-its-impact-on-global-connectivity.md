@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity.md
 url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 score: -1.0
+related_article1:
+    id: 160640
+    title: What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
+related_article2:
+    id: 160210
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article3:
+    id: 160636
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article4:
+    id: 160496
+    title: In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
+related_article5:
+    id: 160506
+    title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 ---
 
 &nbsp;

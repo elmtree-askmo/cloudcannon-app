@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically.md
 url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
 score: -1.0
+related_article1:
+    id: 163707
+    title: How do square root and cube root functions compare in terms of rate of change over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
+related_article2:
+    id: 163699
+    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
+related_article3:
+    id: 163703
+    title: Why is mathematical modeling important in real-life situations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
+related_article4:
+    id: 163700
+    title: How do you determine the intervals where a quadratic function is increasing or decreasing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
+related_article5:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
 ---
 
 &nbsp;

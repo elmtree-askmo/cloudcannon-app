@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures.md
 url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 score: -1.0
+related_article1:
+    id: 162490
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article2:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article3:
+    id: 162602
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article4:
+    id: 162500
+    title: What is the significance of a fixed point in rotational transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+related_article5:
+    id: 162606
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 ---
 
 &nbsp;

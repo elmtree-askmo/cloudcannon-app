@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior.md
 url: /learn/psychology/questions/explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior
 score: -1.0
+related_article1:
+    id: 165324
+    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article2:
+    id: 165325
+    title: How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article3:
+    id: 165327
+    title: What is heritability and how is it measured in the context of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+related_article4:
+    id: 165318
+    title: Differentiate between proximate and ultimate causes of behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
+related_article5:
+    id: 165325
+    title: How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 ---
 
 &nbsp;

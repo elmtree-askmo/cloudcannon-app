@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-merit-principle-protect-against-patronage-in-civil-service.md
 url: /learn/sociology/questions/how-does-the-merit-principle-protect-against-patronage-in-civil-service
 score: -1.0
+related_article1:
+    id: 165246
+    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
+related_article2:
+    id: 165247
+    title: What is the significance of specialization of labor in an ideal bureaucracy?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy
+related_article3:
+    id: 165248
+    title: How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
+related_article4:
+    id: 165252
+    title: What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article5:
+    id: 165245
+    title: What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
 ---
 
 &nbsp;

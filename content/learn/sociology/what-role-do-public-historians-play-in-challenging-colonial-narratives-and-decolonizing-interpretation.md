@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation.md
 url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
 score: -1.0
+related_article1:
+    id: 169157
+    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article2:
+    id: 169155
+    title: What role do national and tribal museums play in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+related_article3:
+    id: 169157
+    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
+related_article4:
+    id: 169169
+    title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
 ---
 
 &nbsp;

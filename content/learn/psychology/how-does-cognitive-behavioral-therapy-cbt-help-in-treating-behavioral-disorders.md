@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders.md
 url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
 score: -1.0
+related_article1:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article2:
+    id: 167699
+    title: What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article3:
+    id: 167707
+    title: How do memory processes like encoding and retrieval affect memory disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+related_article4:
+    id: 167706
+    title: What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 ---
 
 &nbsp;

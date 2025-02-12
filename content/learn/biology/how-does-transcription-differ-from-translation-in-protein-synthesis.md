@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-transcription-differ-from-translation-in-protein-synthesis.md
 url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
 score: -1.0
+related_article1:
+    id: 167808
+    title: How do genetic resemblance and variation contribute to the study of genetics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
+related_article2:
+    id: 167828
+    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
+related_article3:
+    id: 167827
+    title: What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article4:
+    id: 167816
+    title: What are the key differences between prokaryotic and eukaryotic DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
+related_article5:
+    id: 167823
+    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
 ---
 
 &nbsp;

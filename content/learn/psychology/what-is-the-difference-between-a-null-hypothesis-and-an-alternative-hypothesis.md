@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis.md
 url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 score: -1.0
+related_article1:
+    id: 165086
+    title: What is the significance of main effects in research, and how are they identified?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article2:
+    id: 165089
+    title: How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article3:
+    id: 165066
+    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
+related_article4:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article5:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 ---
 
 &nbsp;

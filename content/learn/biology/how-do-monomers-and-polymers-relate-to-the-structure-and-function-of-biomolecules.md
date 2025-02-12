@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules.md
 url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
 score: -1.0
+related_article1:
+    id: 165344
+    title: Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article2:
+    id: 165337
+    title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+related_article3:
+    id: 165336
+    title: Describe the process of peptide bond formation through dehydration reactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+related_article4:
+    id: 165348
+    title: What distinguishes purines from pyrimidines among nitrogenous bases?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
+related_article5:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
 ---
 
 &nbsp;

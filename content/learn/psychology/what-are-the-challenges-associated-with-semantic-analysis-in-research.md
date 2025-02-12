@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-challenges-associated-with-semantic-analysis-in-research.md
 url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
 score: -1.0
+related_article1:
+    id: 165223
+    title: What is the word length effect and how does it impact memory research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
+related_article2:
+    id: 165225
+    title: What impact do reward systems have on behavior in research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-reward-systems-have-on-behavior-in-research-studies
+related_article3:
+    id: 165222
+    title: What is the role of attention and perception in visual search according to cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
+related_article4:
+    id: 165212
+    title: How does PubMed specialize in its focus compared to other search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+related_article5:
+    id: 165208
+    title: What are the key challenges in defining a target population in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
 ---
 
 &nbsp;

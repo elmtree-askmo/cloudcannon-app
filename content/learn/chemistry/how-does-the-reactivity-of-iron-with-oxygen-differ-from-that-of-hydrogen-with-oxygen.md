@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
 score: -1.0
+related_article1:
+    id: 161944
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article2:
+    id: 162048
+    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+related_article3:
+    id: 161944
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article4:
+    id: 161994
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article5:
+    id: 162018
+    title: How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 ---
 
 &nbsp;

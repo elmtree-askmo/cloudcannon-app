@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-biological-function-of-nucleic-acids.md
 url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
 score: -1.0
+related_article1:
+    id: 167334
+    title: Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article2:
+    id: 167329
+    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+related_article3:
+    id: 167328
+    title: What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
+related_article4:
+    id: 167338
+    title: How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
+related_article5:
+    id: 167326
+    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 ---
 
 &nbsp;

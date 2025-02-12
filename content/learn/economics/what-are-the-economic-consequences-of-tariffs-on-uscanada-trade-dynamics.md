@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics.md
 url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
 score: -1.0
+related_article1:
+    id: 169895
+    title: How do political economy strategies influence global economic supremacy?
+    subject: Economics
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
+related_article2:
+    id: 169894
+    title: What are the economic consequences of tariffs on global trade, particularly between the US and China?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
+related_article3:
+    id: 169895
+    title: How do political economy strategies influence global economic supremacy?
+    subject: Economics
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
+related_article4:
+    id: 169900
+    title: How do private and public banking systems influence borrowing and lending practices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+related_article5:
+    id: 169884
+    title: What are the key cultural differences in bargaining practices across different countries?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
 ---
 
 &nbsp;

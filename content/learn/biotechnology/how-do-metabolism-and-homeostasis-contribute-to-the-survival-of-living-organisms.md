@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms.md
 url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 score: -1.0
+related_article1:
+    id: 166178
+    title: How do branching diagrams help in understanding phylogeny?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
+related_article2:
+    id: 166177
+    title: What is the significance of gradual genetic change in the concept of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article3:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article4:
+    id: 166181
+    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+related_article5:
+    id: 166196
+    title: What is the importance of observations in the scientific method?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
 ---
 
 &nbsp;

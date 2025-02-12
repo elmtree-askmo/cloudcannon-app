@@ -21,6 +21,21 @@ subject: Biology
 file_name: explain-the-concept-of-a-natural-focus-of-disease.md
 url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
 score: -1.0
+related_article1:
+    id: 165811
+    title: What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article2:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article3:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
 ---
 
 &nbsp;

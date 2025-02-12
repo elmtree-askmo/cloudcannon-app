@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-stroop-test-measure-reaction-time.md
 url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
 score: -1.0
+related_article1:
+    id: 164992
+    title: How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article2:
+    id: 164992
+    title: How can graphical representation aid in the interpretation of experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+related_article3:
+    id: 164991
+    title: What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+related_article4:
+    id: 164983
+    title: What is the significance of a p-value in statistical analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
+related_article5:
+    id: 164982
+    title: How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
 ---
 
 &nbsp;

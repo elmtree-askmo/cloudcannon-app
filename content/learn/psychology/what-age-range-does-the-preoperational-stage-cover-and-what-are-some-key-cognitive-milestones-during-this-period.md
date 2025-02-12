@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period.md
 url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
 score: -1.0
+related_article1:
+    id: 167953
+    title: How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article2:
+    id: 167959
+    title: How does centration affect a child's ability to consider multiple aspects of a situation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
+related_article3:
+    id: 167954
+    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
+related_article4:
+    id: 167955
+    title: How does egocentrism limit a child's ability to understand perspectives different from their own?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
+related_article5:
+    id: 167956
+    title: What is magical thinking, and how does it influence a child's perception of reality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
 ---
 
 &nbsp;

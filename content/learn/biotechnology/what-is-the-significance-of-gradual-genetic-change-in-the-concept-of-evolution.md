@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
 score: -1.0
+related_article1:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article2:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article3:
+    id: 166174
+    title: What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
+related_article4:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article5:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
 ---
 
 &nbsp;

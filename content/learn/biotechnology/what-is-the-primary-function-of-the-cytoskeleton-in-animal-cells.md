@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells.md
 url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
 score: -1.0
+related_article1:
+    id: 170317
+    title: What is the significance of the Krebs cycle in cellular respiration?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration
+related_article2:
+    id: 170325
+    title: What is the role of chlorophyll in photosynthesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+related_article3:
+    id: 170324
+    title: How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article4:
+    id: 170319
+    title: Compare the membrane structure of chloroplasts and mitochondria.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
+related_article5:
+    id: 170314
+    title: How do vacuoles contribute to the storage and support in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
 ---
 
 &nbsp;

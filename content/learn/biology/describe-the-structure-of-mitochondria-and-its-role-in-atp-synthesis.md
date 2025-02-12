@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis.md
 url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
 score: -1.0
+related_article1:
+    id: 170361
+    title: Write the balanced chemical equation for photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
+related_article2:
+    id: 170368
+    title: What is the function of chlorophyll in chloroplasts?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+related_article3:
+    id: 170358
+    title: What are the main carbon reservoirs in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+related_article4:
+    id: 170365
+    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+related_article5:
+    id: 170375
+    title: How does light energy get converted into chemical energy during photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
 ---
 
 &nbsp;

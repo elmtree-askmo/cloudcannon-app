@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments.md
 url: /learn/biology/questions/what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments
 score: -1.0
+related_article1:
+    id: 163369
+    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article2:
+    id: 163361
+    title: What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article3:
+    id: 163361
+    title: What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article4:
+    id: 163362
+    title: Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article5:
+    id: 163370
+    title: How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
 ---
 
 &nbsp;

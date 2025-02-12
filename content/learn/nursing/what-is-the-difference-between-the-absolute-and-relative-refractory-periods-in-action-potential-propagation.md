@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation.md
 url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
 score: -1.0
+related_article1:
+    id: 170608
+    title: How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+related_article2:
+    id: 170616
+    title: How do calcium ions influence intracellular signaling pathways in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
+related_article3:
+    id: 170607
+    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article4:
+    id: 170617
+    title: What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article5:
+    id: 170607
+    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment.md
 url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 score: -1.0
+related_article1:
+    id: 169214
+    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article2:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article3:
+    id: 169205
+    title: What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+related_article4:
+    id: 169204
+    title: Define urbicide and explain its relationship with genocide.
+    subject: Sociology
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
+related_article5:
+    id: 169207
+    title: Explain the concept of Mitsein and its relevance to community and shared experience.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
 ---
 
 &nbsp;

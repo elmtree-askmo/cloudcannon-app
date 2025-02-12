@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-components-of-the-sir-model-in-epidemiology.md
 url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
 score: -1.0
+related_article1:
+    id: 166146
+    title: How does carrying capacity influence population regulation in density-dependent growth?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+related_article2:
+    id: 166138
+    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
+related_article3:
+    id: 166147
+    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+related_article4:
+    id: 166137
+    title: What is the role of payoff matrices in game theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
+related_article5:
+    id: 166137
+    title: What is the role of payoff matrices in game theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
 ---
 
 &nbsp;

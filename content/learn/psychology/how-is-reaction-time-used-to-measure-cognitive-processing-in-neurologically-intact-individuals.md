@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals.md
 url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 score: -1.0
+related_article1:
+    id: 164575
+    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+related_article2:
+    id: 164572
+    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+related_article3:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article4:
+    id: 164579
+    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article5:
+    id: 164586
+    title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 ---
 
 &nbsp;

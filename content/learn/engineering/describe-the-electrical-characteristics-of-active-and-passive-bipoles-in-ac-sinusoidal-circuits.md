@@ -21,6 +21,31 @@ subject: Engineering
 file_name: describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits.md
 url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
 score: -1.0
+related_article1:
+    id: 169855
+    title: What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article2:
+    id: 169850
+    title: What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+related_article3:
+    id: 169861
+    title: How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article4:
+    id: 169851
+    title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
+related_article5:
+    id: 169850
+    title: What is the difference between a node and a loop in circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 ---
 
 &nbsp;

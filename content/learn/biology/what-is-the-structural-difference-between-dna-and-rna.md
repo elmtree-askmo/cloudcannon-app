@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structural-difference-between-dna-and-rna.md
 url: /learn/biology/questions/what-is-the-structural-difference-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 169940
+    title: How are cations and anions formed?
+    subject: Biology
+    url: /learn/biology/questions/how-are-cations-and-anions-formed
+related_article2:
+    id: 169960
+    title: How does selective permeability contribute to homeostasis in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
+related_article3:
+    id: 169955
+    title: What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+related_article4:
+    id: 169961
+    title: What is the difference between diffusion and osmosis in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport
+related_article5:
+    id: 169946
+    title: What are the four levels of protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
 ---
 
 &nbsp;

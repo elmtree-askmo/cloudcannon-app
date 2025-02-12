@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels.md
 url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
 score: -1.0
+related_article1:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article2:
+    id: 169769
+    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article3:
+    id: 169780
+    title: What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article4:
+    id: 169784
+    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article5:
+    id: 169781
+    title: What are the causes and consequences of undernutrition, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-functional-specialization-in-the-context-of-brain-activity-measurement.md
 url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 score: -1.0
+related_article1:
+    id: 164307
+    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+related_article2:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+related_article3:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
+related_article4:
+    id: 164308
+    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+related_article5:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 ---
 
 &nbsp;

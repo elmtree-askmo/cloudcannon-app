@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex.md
 url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 score: -1.0
+related_article1:
+    id: 164650
+    title: What are the symptoms of hemianopia and how does it affect daily life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+related_article2:
+    id: 164652
+    title: What is blindsight and how is it demonstrated experimentally?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
+related_article3:
+    id: 164648
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article4:
+    id: 164653
+    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
+related_article5:
+    id: 164653
+    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 ---
 
 &nbsp;

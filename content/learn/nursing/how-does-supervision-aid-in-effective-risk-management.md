@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-supervision-aid-in-effective-risk-management.md
 url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 score: -1.0
+related_article1:
+    id: 169564
+    title: Why is supervision particularly important for student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+related_article2:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article3:
+    id: 169558
+    title: Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
+related_article4:
+    id: 169566
+    title: What are some ways to build competence through experience?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+related_article5:
+    id: 169578
+    title: How does communication impact delegation and accountability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 ---
 
 &nbsp;

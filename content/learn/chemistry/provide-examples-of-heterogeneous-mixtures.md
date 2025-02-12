@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: provide-examples-of-heterogeneous-mixtures.md
 url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161713
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161718
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article3:
+    id: 161817
+    title: How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+related_article4:
+    id: 161716
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article5:
+    id: 161722
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 ---
 
 &nbsp;

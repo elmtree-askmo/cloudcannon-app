@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies.md
 url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 score: -1.0
+related_article1:
+    id: 170995
+    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article2:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article3:
+    id: 170998
+    title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+related_article4:
+    id: 170995
+    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+related_article5:
+    id: 171009
+    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
 ---
 
 &nbsp;

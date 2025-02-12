@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior.md
 url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 score: -1.0
+related_article1:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article2:
+    id: 165324
+    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+related_article3:
+    id: 165322
+    title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article4:
+    id: 165316
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article5:
+    id: 165316
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

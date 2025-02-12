@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy.md
 url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
 score: -1.0
+related_article1:
+    id: 164415
+    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+related_article2:
+    id: 164411
+    title: What are the primary functions of the occipital lobe in the cerebral cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
+related_article3:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
+related_article4:
+    id: 164414
+    title: What cognitive functions are associated with the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 ---
 
 &nbsp;

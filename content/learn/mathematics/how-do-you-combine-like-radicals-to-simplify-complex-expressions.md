@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-combine-like-radicals-to-simplify-complex-expressions.md
 url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
 score: -1.0
+related_article1:
+    id: 168301
+    title: How do you simplify algebraic expressions using the distributive property?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-simplify-algebraic-expressions-using-the-distributive-property
+related_article2:
+    id: 168298
+    title: How do you calculate the degree of a polynomial, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
+related_article3:
+    id: 168294
+    title: What is the process for simplifying square roots, cube roots, and higher order roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
+related_article4:
+    id: 168300
+    title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
+related_article5:
+    id: 168303
+    title: Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
 ---
 
 &nbsp;

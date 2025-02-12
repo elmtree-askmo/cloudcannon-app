@@ -21,6 +21,31 @@ subject: Politics
 file_name: why-is-economic-stability-considered-a-priority-during-elections.md
 url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 score: -1.0
+related_article1:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article2:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article3:
+    id: 165625
+    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+related_article4:
+    id: 165630
+    title: What are the challenges Canada faces in diversifying its trade partners?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+related_article5:
+    id: 165634
+    title: How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
 ---
 
 &nbsp;

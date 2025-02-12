@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-the-carboxyl-group-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
 score: -1.0
+related_article1:
+    id: 167404
+    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article2:
+    id: 167403
+    title: Define electronegativity and its importance in chemical reactions.
+    subject: Biology
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
+related_article3:
+    id: 167402
+    title: Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article4:
+    id: 167404
+    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article5:
+    id: 167418
+    title: Explain the difference between cations and anions.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
 ---
 
 &nbsp;

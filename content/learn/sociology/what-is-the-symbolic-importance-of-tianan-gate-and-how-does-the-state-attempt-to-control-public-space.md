@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space.md
 url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
 score: -1.0
+related_article1:
+    id: 169055
+    title: What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article2:
+    id: 169053
+    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article3:
+    id: 169052
+    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+related_article4:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article5:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 ---
 
 &nbsp;

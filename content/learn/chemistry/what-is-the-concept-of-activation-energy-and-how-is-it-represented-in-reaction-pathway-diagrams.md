@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams.md
 url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
 score: -1.0
+related_article1:
+    id: 170822
+    title: How do enzymes influence the energy barriers in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
+related_article2:
+    id: 170811
+    title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article3:
+    id: 170812
+    title: What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+related_article4:
+    id: 170819
+    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+related_article5:
+    id: 170815
+    title: How do enzymes lower activation energy in chemical reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 ---
 
 &nbsp;

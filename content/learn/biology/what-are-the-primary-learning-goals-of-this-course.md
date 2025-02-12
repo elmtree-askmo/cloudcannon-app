@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-primary-learning-goals-of-this-course.md
 url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
 score: -1.0
+related_article1:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
+related_article2:
+    id: 167467
+    title: What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+related_article3:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
+related_article4:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article5:
+    id: 167486
+    title: How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
 ---
 
 &nbsp;

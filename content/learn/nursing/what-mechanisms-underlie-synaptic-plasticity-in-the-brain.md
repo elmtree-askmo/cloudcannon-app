@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-mechanisms-underlie-synaptic-plasticity-in-the-brain.md
 url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
 score: -1.0
+related_article1:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article2:
+    id: 170452
+    title: What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article3:
+    id: 170446
+    title: What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article4:
+    id: 170453
+    title: Why is myelination important for signal transmission in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
+related_article5:
+    id: 170445
+    title: Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
 ---
 
 &nbsp;

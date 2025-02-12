@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-a-scientific-theory-from-a-hypothesis.md
 url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
 score: -1.0
+related_article1:
+    id: 167512
+    title: What are the different types of reproduction and why are they important for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
+related_article2:
+    id: 167505
+    title: How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
+related_article3:
+    id: 167518
+    title: What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
+related_article4:
+    id: 167506
+    title: What are the key characteristics of a testable hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
+related_article5:
+    id: 167509
+    title: Why is analyzing results crucial in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/why-is-analyzing-results-crucial-in-the-scientific-method
 ---
 
 &nbsp;

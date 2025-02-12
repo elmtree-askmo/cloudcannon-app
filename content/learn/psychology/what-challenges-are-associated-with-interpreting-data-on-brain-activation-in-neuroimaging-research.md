@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research.md
 url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
 score: -1.0
+related_article1:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
+related_article2:
+    id: 164295
+    title: What are the key differences between block design and event-related design in fMRI experimental setups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-block-design-and-eventrelated-design-in-fmri-experimental-setups
+related_article3:
+    id: 164303
+    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+related_article4:
+    id: 164307
+    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+related_article5:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
 ---
 
 &nbsp;

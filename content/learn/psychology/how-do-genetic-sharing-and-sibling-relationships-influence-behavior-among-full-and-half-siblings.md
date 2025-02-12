@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings.md
 url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 score: -1.0
+related_article1:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article2:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article3:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article4:
+    id: 170909
+    title: What is the role of gene-environment interaction in shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
+related_article5:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 ---
 
 &nbsp;

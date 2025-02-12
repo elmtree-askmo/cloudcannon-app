@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory.md
 url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
 score: -1.0
+related_article1:
+    id: 167995
+    title: How does abstract thinking manifest in the formal operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+related_article2:
+    id: 168002
+    title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
+related_article3:
+    id: 167997
+    title: Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+related_article4:
+    id: 167998
+    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+related_article5:
+    id: 167997
+    title: Explain propositional thought and its significance in the formal operational stage.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 ---
 
 &nbsp;

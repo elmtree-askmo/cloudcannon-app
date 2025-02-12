@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres.md
 url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
 score: -1.0
+related_article1:
+    id: 170595
+    title: What role does the epithalamus play in regulating the circadian rhythm?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+related_article2:
+    id: 170564
+    title: How does the hippocampus contribute to long-term memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
+related_article3:
+    id: 170588
+    title: How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article4:
+    id: 170570
+    title: What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article5:
+    id: 170580
+    title: What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 ---
 
 &nbsp;

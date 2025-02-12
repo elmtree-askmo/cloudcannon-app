@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms.md
 url: /learn/nursing/questions/what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms
 score: -1.0
+related_article1:
+    id: 169687
+    title: What are the key restorative processes that occur during sleep, and how do they contribute to physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-restorative-processes-that-occur-during-sleep-and-how-do-they-contribute-to-physical-and-mental-health
+related_article2:
+    id: 169693
+    title: What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
+related_article3:
+    id: 169703
+    title: What are the functions of sleep clinics in the management of sleep disorders, and what types of medical interventions might they offer?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-functions-of-sleep-clinics-in-the-management-of-sleep-disorders-and-what-types-of-medical-interventions-might-they-offer
+related_article4:
+    id: 169694
+    title: What are some non-pharmacological interventions that can improve sleep quality, and how do they work?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-nonpharmacological-interventions-that-can-improve-sleep-quality-and-how-do-they-work
+related_article5:
+    id: 169692
+    title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended
 ---
 
 &nbsp;

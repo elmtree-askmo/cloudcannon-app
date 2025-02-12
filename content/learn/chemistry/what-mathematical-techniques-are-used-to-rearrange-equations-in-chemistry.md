@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry.md
 url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
 score: -1.0
+related_article1:
+    id: 167382
+    title: How do you apply significant figures when calculating pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-apply-significant-figures-when-calculating-ph
+related_article2:
+    id: 167376
+    title: How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article3:
+    id: 167371
+    title: What is the pH scale and why is it important in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
+related_article4:
+    id: 167376
+    title: How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article5:
+    id: 167376
+    title: How do you rearrange a logarithmic equation to solve for a variable?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems.md
 url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
 score: -1.0
+related_article1:
+    id: 159673
+    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+related_article2:
+    id: 159666
+    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    subject: Economics
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
+related_article3:
+    id: 159669
+    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+related_article4:
+    id: 159679
+    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article5:
+    id: 159666
+    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    subject: Economics
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
 ---
 
 &nbsp;

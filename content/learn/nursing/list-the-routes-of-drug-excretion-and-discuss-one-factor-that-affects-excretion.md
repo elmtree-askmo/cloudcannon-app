@@ -21,6 +21,31 @@ subject: Nursing
 file_name: list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion.md
 url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
 score: -1.0
+related_article1:
+    id: 166427
+    title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
+related_article2:
+    id: 166432
+    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+related_article3:
+    id: 166424
+    title: Describe the process of enteric absorption and list two factors that can affect it.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
+related_article4:
+    id: 166428
+    title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+related_article5:
+    id: 166434
+    title: What is hepatic circulation, and how does it influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
 ---
 
 &nbsp;

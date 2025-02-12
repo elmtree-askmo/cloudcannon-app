@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory.md
 url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
 score: -1.0
+related_article1:
+    id: 164853
+    title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article2:
+    id: 164870
+    title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article3:
+    id: 164870
+    title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article4:
+    id: 164855
+    title: What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
+related_article5:
+    id: 164857
+    title: What is the role of the hippocampus in conscious and unconscious memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
 ---
 
 &nbsp;

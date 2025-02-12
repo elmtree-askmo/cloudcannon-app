@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units.md
 url: /learn/engineering/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
 score: -1.0
+related_article1:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article2:
+    id: 167939
+    title: How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article3:
+    id: 167946
+    title: How does the voltage drop across a resistor affect circuit performance?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
+related_article4:
+    id: 167939
+    title: How do you calculate the total resistance in a parallel circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
+related_article5:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
 ---
 
 &nbsp;

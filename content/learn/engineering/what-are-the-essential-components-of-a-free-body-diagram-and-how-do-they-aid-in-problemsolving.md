@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving.md
 url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
 score: -1.0
+related_article1:
+    id: 166660
+    title: What is the process of vector addition, and how is it applied in force analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
+related_article2:
+    id: 166669
+    title: What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+    subject: Engineering
+    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+related_article3:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+related_article4:
+    id: 166667
+    title: What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
+related_article5:
+    id: 166659
+    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 ---
 
 &nbsp;

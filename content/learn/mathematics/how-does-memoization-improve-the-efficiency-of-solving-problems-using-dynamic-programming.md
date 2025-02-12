@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming.md
 url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
 score: -1.0
+related_article1:
+    id: 170716
+    title: What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+related_article2:
+    id: 170708
+    title: How does the inductive step in regular induction help in proving statements?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article3:
+    id: 170709
+    title: What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article4:
+    id: 170719
+    title: What is the principle of optimal substructure in dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
+related_article5:
+    id: 170716
+    title: What criteria should be considered when comparing the performance of two algorithms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
 ---
 
 &nbsp;

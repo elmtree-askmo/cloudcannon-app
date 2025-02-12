@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-molecular-techniques-are-advancing-research-in-parasitology.md
 url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 score: -1.0
+related_article1:
+    id: 165854
+    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+related_article2:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+related_article3:
+    id: 165828
+    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+related_article4:
+    id: 165831
+    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 ---
 
 &nbsp;

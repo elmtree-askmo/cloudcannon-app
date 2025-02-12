@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis.md
 url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 165082
+    title: How do you draw conclusions from research findings, and what are the implications of these conclusions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
+related_article2:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article3:
+    id: 165084
+    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
+related_article4:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article5:
+    id: 165084
+    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
 ---
 
 &nbsp;

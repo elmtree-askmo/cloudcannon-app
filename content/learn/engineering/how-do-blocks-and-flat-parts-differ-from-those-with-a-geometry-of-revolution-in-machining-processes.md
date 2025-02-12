@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes.md
 url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
 score: -1.0
+related_article1:
+    id: 168703
+    title: Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article2:
+    id: 168701
+    title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
+related_article3:
+    id: 168700
+    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article4:
+    id: 168708
+    title: Explain the role of tool holders and inserts in machining operations.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+related_article5:
+    id: 168704
+    title: Define feed and depth of cut in machining and explain their roles in the cutting process.
+    subject: Engineering
+    url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
 ---
 
 &nbsp;

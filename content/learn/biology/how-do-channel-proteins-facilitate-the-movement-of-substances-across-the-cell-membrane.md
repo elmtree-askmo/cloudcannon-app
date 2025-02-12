@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane.md
 url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 score: -1.0
+related_article1:
+    id: 167162
+    title: What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+related_article2:
+    id: 167156
+    title: What is the main difference between simple diffusion and facilitated diffusion in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
+related_article3:
+    id: 167161
+    title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article4:
+    id: 167167
+    title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
+related_article5:
+    id: 167167
+    title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 ---
 
 &nbsp;

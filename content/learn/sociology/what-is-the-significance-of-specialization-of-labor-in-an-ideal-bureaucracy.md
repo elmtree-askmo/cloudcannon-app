@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy.md
 url: /learn/sociology/questions/what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy
 score: -1.0
+related_article1:
+    id: 165249
+    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+related_article2:
+    id: 165252
+    title: What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article3:
+    id: 165251
+    title: What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article4:
+    id: 165253
+    title: How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
 ---
 
 &nbsp;

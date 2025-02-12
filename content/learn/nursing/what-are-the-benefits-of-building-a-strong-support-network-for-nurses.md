@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-benefits-of-building-a-strong-support-network-for-nurses.md
 url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
 score: -1.0
+related_article1:
+    id: 169550
+    title: How does emotional regulation impact patient trust and outcomes in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
+related_article2:
+    id: 169547
+    title: Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
+related_article3:
+    id: 169539
+    title: What techniques can nurses use to regulate their emotions and maintain resilience in stressful situations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-regulate-their-emotions-and-maintain-resilience-in-stressful-situations
+related_article4:
+    id: 169541
+    title: What role does empathy play in providing compassionate care to patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+related_article5:
+    id: 169540
+    title: How does maintaining a positive outlook contribute to building resilience in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-psychological-theories-are-relevant-to-auditory-processing.md
 url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 score: -1.0
+related_article1:
+    id: 164384
+    title: How do cognitive functions influence grammar processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article2:
+    id: 164388
+    title: What are some common types of communication disorders, and how do they affect language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+related_article3:
+    id: 164381
+    title: How does the right brain hemisphere contribute to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
+related_article4:
+    id: 164383
+    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article5:
+    id: 164394
+    title: What cognitive functions are associated with auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 ---
 
 &nbsp;

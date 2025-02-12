@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers.md
 url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
 score: -1.0
+related_article1:
+    id: 167502
+    title: What structural role does cellulose play in plant cell walls?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
+related_article2:
+    id: 167503
+    title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article3:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article4:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+related_article5:
+    id: 167501
+    title: How does glycogen function as an energy storage molecule in animals?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-olfactory-bulb-process-sensory-input-related-to-smell.md
 url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
 score: -1.0
+related_article1:
+    id: 170581
+    title: What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article2:
+    id: 170582
+    title: How does the corpus callosum facilitate communication between the brain's hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
+related_article3:
+    id: 170561
+    title: What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article4:
+    id: 170561
+    title: What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article5:
+    id: 170561
+    title: What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations.md
 url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 score: -1.0
+related_article1:
+    id: 160632
+    title: Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
+related_article2:
+    id: 160216
+    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+related_article3:
+    id: 160093
+    title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+    subject: Sociology
+    url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
+related_article4:
+    id: 160220
+    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+related_article5:
+    id: 160225
+    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 ---
 
 &nbsp;

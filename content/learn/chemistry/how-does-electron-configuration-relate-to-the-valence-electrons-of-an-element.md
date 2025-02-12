@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element.md
 url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
 score: -1.0
+related_article1:
+    id: 166861
+    title: Why are noble gases considered stable and inert?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-noble-gases-considered-stable-and-inert
+related_article2:
+    id: 166855
+    title: Explain the process of writing the electron configuration for sodium.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
+related_article3:
+    id: 166858
+    title: Why are halogens highly reactive, and how do they achieve stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
+related_article4:
+    id: 166860
+    title: What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
 ---
 
 &nbsp;

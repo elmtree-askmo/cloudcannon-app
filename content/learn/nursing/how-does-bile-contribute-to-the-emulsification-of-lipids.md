@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-bile-contribute-to-the-emulsification-of-lipids.md
 url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 score: -1.0
+related_article1:
+    id: 168819
+    title: Describe the structure and function of lacteals in the lymphatic system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
+related_article2:
+    id: 168813
+    title: Explain the mechanism of emulsification and its importance in digestion.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+related_article3:
+    id: 168826
+    title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
+related_article4:
+    id: 168819
+    title: Describe the structure and function of lacteals in the lymphatic system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
+related_article5:
+    id: 168811
+    title: What is the role of bile in the digestion process?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-bile-in-the-digestion-process
 ---
 
 &nbsp;

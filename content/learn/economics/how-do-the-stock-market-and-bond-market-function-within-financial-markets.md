@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-the-stock-market-and-bond-market-function-within-financial-markets.md
 url: /learn/economics/questions/how-do-the-stock-market-and-bond-market-function-within-financial-markets
 score: -1.0
+related_article1:
+    id: 169913
+    title: What is the significance of resource utilization in achieving economic sustainability?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-significance-of-resource-utilization-in-achieving-economic-sustainability
+related_article2:
+    id: 169914
+    title: How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
+related_article3:
+    id: 169907
+    title: What are the fundamental differences between capitalism and socialism as economic systems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
+related_article4:
+    id: 169914
+    title: How does the distribution of wealth impact economic equity?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-distribution-of-wealth-impact-economic-equity
+related_article5:
+    id: 169911
+    title: What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 ---
 
 &nbsp;

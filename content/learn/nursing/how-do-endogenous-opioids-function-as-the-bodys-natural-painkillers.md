@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers.md
 url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
 score: -1.0
+related_article1:
+    id: 166441
+    title: What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+related_article2:
+    id: 166441
+    title: What role do mu receptors play in pain relief mechanisms?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
+related_article3:
+    id: 166451
+    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+related_article4:
+    id: 166448
+    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+related_article5:
+    id: 166444
+    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 ---
 
 &nbsp;

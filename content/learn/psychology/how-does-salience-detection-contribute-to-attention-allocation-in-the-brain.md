@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-salience-detection-contribute-to-attention-allocation-in-the-brain.md
 url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
 score: -1.0
+related_article1:
+    id: 164766
+    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+related_article2:
+    id: 164753
+    title: How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+related_article3:
+    id: 164765
+    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+related_article4:
+    id: 164756
+    title: What is the influence of endogenous cues on top-down attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+related_article5:
+    id: 164753
+    title: How do reaction times relate to vigilance in attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 ---
 
 &nbsp;

@@ -21,6 +21,21 @@ subject: Psychology
 file_name: how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory.md
 url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
 score: -1.0
+related_article1:
+    id: 164870
+    title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article2:
+    id: 164859
+    title: Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
+related_article3:
+    id: 164861
+    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
 ---
 
 &nbsp;

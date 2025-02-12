@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin.md
 url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
 score: -1.0
+related_article1:
+    id: 167302
+    title: How do oligosaccharides contribute to cell identity and blood typing?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing
+related_article2:
+    id: 167305
+    title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
+related_article3:
+    id: 167299
+    title: What distinguishes branched polysaccharides from unbranched ones?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
+related_article4:
+    id: 167303
+    title: What is the difference between alpha and beta glycosidic linkages in terms of their structure and function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-glycosidic-linkages-in-terms-of-their-structure-and-function
+related_article5:
+    id: 167301
+    title: What is the role of cellulose in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cellulose-in-plant-cell-walls
 ---
 
 &nbsp;

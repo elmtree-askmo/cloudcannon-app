@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits.md
 url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 score: -1.0
+related_article1:
+    id: 169860
+    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+related_article2:
+    id: 169862
+    title: What is the difference between active and reactive power in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
+related_article3:
+    id: 169860
+    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+related_article4:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article5:
+    id: 169845
+    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 ---
 
 &nbsp;

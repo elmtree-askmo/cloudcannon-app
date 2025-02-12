@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-standard-notation-for-translation-in-transformations.md
 url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
 score: -1.0
+related_article1:
+    id: 162221
+    title: What is the significance of the order of operations in a sequence of transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+related_article2:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article3:
+    id: 162315
+    title: How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+related_article4:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article5:
+    id: 162332
+    title: How do transformations affect the positions of vertices in a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
 ---
 
 &nbsp;

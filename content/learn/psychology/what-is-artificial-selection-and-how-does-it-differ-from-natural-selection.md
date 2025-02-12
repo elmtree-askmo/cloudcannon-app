@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-artificial-selection-and-how-does-it-differ-from-natural-selection.md
 url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 score: -1.0
+related_article1:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article2:
+    id: 165293
+    title: What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article3:
+    id: 165288
+    title: How can understanding animal behavior be applied in research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article4:
+    id: 165315
+    title: How does individual variation in hunting strategies affect fitness and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+related_article5:
+    id: 165297
+    title: Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 ---
 
 &nbsp;

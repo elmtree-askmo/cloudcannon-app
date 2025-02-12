@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-inductive-step-function-in-the-process-of-mathematical-induction.md
 url: /learn/mathematics/questions/how-does-the-inductive-step-function-in-the-process-of-mathematical-induction
 score: -1.0
+related_article1:
+    id: 170765
+    title: What is a common mistake made during the inductive step of a proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
+related_article2:
+    id: 170769
+    title: Describe a non-example of induction using the Fibonacci sequence.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+related_article3:
+    id: 170769
+    title: Describe a non-example of induction using the Fibonacci sequence.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+related_article4:
+    id: 170762
+    title: Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article5:
+    id: 170770
+    title: What is the logical basis for the justification of induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 ---
 
 &nbsp;

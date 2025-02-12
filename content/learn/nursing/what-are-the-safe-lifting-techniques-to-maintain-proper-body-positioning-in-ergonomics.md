@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics.md
 url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
 score: -1.0
+related_article1:
+    id: 169511
+    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
+related_article2:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article3:
+    id: 169502
+    title: How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article4:
+    id: 169498
+    title: How should employees report risks and incidents according to the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+related_article5:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
 ---
 
 &nbsp;

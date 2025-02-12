@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-employed-to-overcome-biases-in-nursing.md
 url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
 score: -1.0
+related_article1:
+    id: 169600
+    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+related_article2:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article3:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article4:
+    id: 169591
+    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+related_article5:
+    id: 169598
+    title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 ---
 
 &nbsp;

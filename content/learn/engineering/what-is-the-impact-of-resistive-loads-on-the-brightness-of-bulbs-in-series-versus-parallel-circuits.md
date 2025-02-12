@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits.md
 url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
 score: -1.0
+related_article1:
+    id: 167948
+    title: What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
+related_article2:
+    id: 167942
+    title: What is the difference between power absorbed and power delivered in resistors?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
+related_article3:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article4:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article5:
+    id: 167933
+    title: What is the effect of adding resistors in series on the total resistance of the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
 ---
 
 &nbsp;

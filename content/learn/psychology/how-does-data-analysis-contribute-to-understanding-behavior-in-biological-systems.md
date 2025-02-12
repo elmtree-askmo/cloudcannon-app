@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems.md
 url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 score: -1.0
+related_article1:
+    id: 171015
+    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+related_article2:
+    id: 171010
+    title: What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+related_article3:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article4:
+    id: 171002
+    title: How does parental investment impact offspring survival and resource allocation trade-offs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
+related_article5:
+    id: 170999
+    title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
 ---
 
 &nbsp;

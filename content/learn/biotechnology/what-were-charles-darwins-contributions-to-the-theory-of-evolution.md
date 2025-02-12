@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-were-charles-darwins-contributions-to-the-theory-of-evolution.md
 url: /learn/biotechnology/questions/what-were-charles-darwins-contributions-to-the-theory-of-evolution
 score: -1.0
+related_article1:
+    id: 167588
+    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+related_article2:
+    id: 167583
+    title: How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article3:
+    id: 167592
+    title: What are the main characteristics of prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
+related_article4:
+    id: 167598
+    title: What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
 ---
 
 &nbsp;

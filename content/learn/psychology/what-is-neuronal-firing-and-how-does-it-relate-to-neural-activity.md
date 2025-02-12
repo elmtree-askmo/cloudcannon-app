@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity.md
 url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
 score: -1.0
+related_article1:
+    id: 164232
+    title: How does the Blood Oxygen Level Dependent (BOLD) signal contribute to fMRI imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-blood-oxygen-level-dependent-bold-signal-contribute-to-fmri-imaging
+related_article2:
+    id: 164239
+    title: Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article3:
+    id: 164234
+    title: How is fMRI used in clinical diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
+related_article4:
+    id: 164234
+    title: How is fMRI used in clinical diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
 ---
 
 &nbsp;

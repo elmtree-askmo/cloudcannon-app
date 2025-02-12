@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices.md
 url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
 score: -1.0
+related_article1:
+    id: 169897
+    title: How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article2:
+    id: 169892
+    title: What are the primary indicators of a recession in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
+related_article3:
+    id: 169884
+    title: What are the key cultural differences in bargaining practices across different countries?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
+related_article4:
+    id: 169894
+    title: What are the economic consequences of tariffs on global trade, particularly between the US and China?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
+related_article5:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
 ---
 
 &nbsp;

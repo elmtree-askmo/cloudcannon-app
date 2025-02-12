@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-a-pvalue-in-statistical-analysis.md
 url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
 score: -1.0
+related_article1:
+    id: 164988
+    title: What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
+related_article2:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article3:
+    id: 164986
+    title: How does the Stroop Test measure reaction time?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
+related_article4:
+    id: 164988
+    title: What is synesthesia, and how does it affect perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
+related_article5:
+    id: 164985
+    title: What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
 ---
 
 &nbsp;

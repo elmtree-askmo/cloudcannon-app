@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-molecular-mechanism-behind-complete-dominance.md
 url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 score: -1.0
+related_article1:
+    id: 167888
+    title: What is genetic variation and why is it important in populations?
+    subject: Biology
+    url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
+related_article2:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
+related_article3:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article4:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article5:
+    id: 167878
+    title: How does complete penetrance differ from incomplete penetrance?
+    subject: Biology
+    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
 ---
 
 &nbsp;

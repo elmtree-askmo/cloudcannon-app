@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping.md
 url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
 score: -1.0
+related_article1:
+    id: 170479
+    title: What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+related_article2:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article3:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article4:
+    id: 170472
+    title: What is the function of the amygdala in emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
+related_article5:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 ---
 
 &nbsp;

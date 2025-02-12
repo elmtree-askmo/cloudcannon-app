@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point.md
 url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
 score: -1.0
+related_article1:
+    id: 162127
+    title: How does a reflection transformation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-transformation-affect-the-coordinates-of-a-point
+related_article2:
+    id: 162130
+    title: What are the properties of a triangle that can be used to determine its congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
+related_article3:
+    id: 162131
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article4:
+    id: 162136
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article5:
+    id: 162129
+    title: List the criteria used to determine if two triangles are congruent.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
 ---
 
 &nbsp;

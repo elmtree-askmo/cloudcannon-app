@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-career-paths-are-available-in-biology-for-research-and-academia.md
 url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
 score: -1.0
+related_article1:
+    id: 167487
+    title: Why is STEM education important in the modern curriculum?
+    subject: Biology
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
+related_article2:
+    id: 167488
+    title: What are some challenges in STEM education and their potential solutions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+related_article3:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article4:
+    id: 167480
+    title: What communication tools are available on the D2L Learning Management System?
+    subject: Biology
+    url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
+related_article5:
+    id: 167478
+    title: What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
 ---
 
 &nbsp;

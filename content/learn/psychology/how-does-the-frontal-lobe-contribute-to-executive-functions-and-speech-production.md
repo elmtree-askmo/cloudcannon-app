@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production.md
 url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
 score: -1.0
+related_article1:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article2:
+    id: 164418
+    title: What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article3:
+    id: 164419
+    title: How does spatial attention differ from object attention in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+related_article4:
+    id: 164430
+    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+related_article5:
+    id: 164427
+    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 ---
 
 &nbsp;

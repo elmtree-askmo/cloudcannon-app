@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-interpersonal-therapy-focus-on-improving-relationships.md
 url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
 score: -1.0
+related_article1:
+    id: 170029
+    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+related_article2:
+    id: 170030
+    title: What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
+related_article3:
+    id: 170009
+    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article4:
+    id: 170026
+    title: What role does the unconscious mind play in modern psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
+related_article5:
+    id: 170012
+    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 ---
 
 &nbsp;

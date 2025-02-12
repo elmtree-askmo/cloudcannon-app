@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure.md
 url: /learn/chemistry/questions/how-does-a-hydronium-ion-form-and-what-is-its-charge-and-structure
 score: -1.0
+related_article1:
+    id: 166818
+    title: What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
+related_article2:
+    id: 166818
+    title: What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
+related_article3:
+    id: 166818
+    title: What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
+related_article4:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article5:
+    id: 166814
+    title: How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process
 ---
 
 &nbsp;

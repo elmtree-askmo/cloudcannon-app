@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-concept-of-distribution-in-statistics-and-its-importance.md
 url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 score: -1.0
+related_article1:
+    id: 170276
+    title: What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+related_article2:
+    id: 170275
+    title: How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
+related_article3:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article4:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
+related_article5:
+    id: 170276
+    title: What is the significance of using a sample instead of a population in statistical analysis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
 ---
 
 &nbsp;

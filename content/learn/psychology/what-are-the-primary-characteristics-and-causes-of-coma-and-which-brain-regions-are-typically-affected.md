@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected.md
 url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
 score: -1.0
+related_article1:
+    id: 164841
+    title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article2:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article3:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article4:
+    id: 164845
+    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+related_article5:
+    id: 164848
+    title: What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-serotonin-in-mood-regulation-and-behavior.md
 url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
 score: -1.0
+related_article1:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article2:
+    id: 170588
+    title: How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article3:
+    id: 170593
+    title: What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article4:
+    id: 170586
+    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+related_article5:
+    id: 170561
+    title: What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
 ---
 
 &nbsp;

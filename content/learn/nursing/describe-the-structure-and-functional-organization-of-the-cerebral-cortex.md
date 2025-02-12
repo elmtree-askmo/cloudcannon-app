@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-structure-and-functional-organization-of-the-cerebral-cortex.md
 url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
 score: -1.0
+related_article1:
+    id: 164736
+    title: How is EEG used in the diagnosis of epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
+related_article2:
+    id: 164739
+    title: What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+related_article3:
+    id: 164727
+    title: What is a sagittal slice and how does it differ from coronal and axial slices?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
+related_article4:
+    id: 164733
+    title: How does the corpus callosum contribute to brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article5:
+    id: 164723
+    title: How do superior and inferior directional terms apply in clinical settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 ---
 
 &nbsp;

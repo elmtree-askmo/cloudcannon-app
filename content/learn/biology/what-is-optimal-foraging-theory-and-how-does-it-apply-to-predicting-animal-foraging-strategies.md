@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies.md
 url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
 score: -1.0
+related_article1:
+    id: 165270
+    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    subject: Biology
+    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+related_article2:
+    id: 165273
+    title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
+related_article3:
+    id: 165271
+    title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+related_article4:
+    id: 165277
+    title: Describe associative and non-associative learning and their roles in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+related_article5:
+    id: 165275
+    title: Explain the mechanism of natural selection and its role in evolutionary change.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
 ---
 
 &nbsp;

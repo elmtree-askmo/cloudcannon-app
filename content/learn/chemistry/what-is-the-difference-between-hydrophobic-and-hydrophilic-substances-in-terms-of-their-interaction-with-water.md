@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water.md
 url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 score: -1.0
+related_article1:
+    id: 168321
+    title: What is the relationship between polymers and monomers in biological macromolecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+related_article2:
+    id: 168319
+    title: How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 168314
+    title: What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article4:
+    id: 168317
+    title: How does water's kinetic energy contribute to temperature moderation?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
+related_article5:
+    id: 168315
+    title: How do hydrogen bonds form between water molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
 ---
 
 &nbsp;

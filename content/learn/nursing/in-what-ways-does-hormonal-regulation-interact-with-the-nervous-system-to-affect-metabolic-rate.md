@@ -21,6 +21,31 @@ subject: Nursing
 file_name: in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate.md
 url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
 score: -1.0
+related_article1:
+    id: 170518
+    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article2:
+    id: 170502
+    title: How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
+related_article3:
+    id: 170504
+    title: What role does acetylcholine play in muscle contraction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+related_article4:
+    id: 170513
+    title: Describe the role of smooth muscle in the function of visceral organs.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+related_article5:
+    id: 170514
+    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 ---
 
 &nbsp;

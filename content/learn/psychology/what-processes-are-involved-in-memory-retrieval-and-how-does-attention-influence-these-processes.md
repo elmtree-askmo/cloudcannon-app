@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes.md
 url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
 score: -1.0
+related_article1:
+    id: 164699
+    title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
+related_article2:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article3:
+    id: 164704
+    title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
+related_article4:
+    id: 164698
+    title: What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article5:
+    id: 164708
+    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 ---
 
 &nbsp;

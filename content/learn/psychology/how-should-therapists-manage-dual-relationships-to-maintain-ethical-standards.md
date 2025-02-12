@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards.md
 url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
 score: -1.0
+related_article1:
+    id: 163033
+    title: How do power imbalances affect cultural safety in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+related_article2:
+    id: 163036
+    title: What is the significance of evidence-based practice in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+related_article3:
+    id: 163041
+    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article4:
+    id: 163024
+    title: What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article5:
+    id: 163035
+    title: How can transference and countertransference impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
 ---
 
 &nbsp;

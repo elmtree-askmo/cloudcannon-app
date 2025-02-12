@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures.md
 url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
 score: -1.0
+related_article1:
+    id: 162805
+    title: Describe the effect of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article2:
+    id: 162623
+    title: How is distance preserved during a reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-distance-preserved-during-a-reflection
+related_article3:
+    id: 162519
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
+related_article4:
+    id: 162392
+    title: What changes occur when reflecting a point across both axes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
+related_article5:
+    id: 162396
+    title: How do coordinates change when a point is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
 ---
 
 &nbsp;

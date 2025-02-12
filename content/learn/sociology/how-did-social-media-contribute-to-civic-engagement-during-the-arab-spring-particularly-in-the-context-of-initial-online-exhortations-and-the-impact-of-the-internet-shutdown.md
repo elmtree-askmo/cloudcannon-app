@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown.md
 url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 score: -1.0
+related_article1:
+    id: 168986
+    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+related_article2:
+    id: 168981
+    title: How did the January 25th Revolution lead to the symbolic reclamation of Tahrir Square?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-january-25th-revolution-lead-to-the-symbolic-reclamation-of-tahrir-square
+related_article3:
+    id: 168983
+    title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+related_article4:
+    id: 168986
+    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+related_article5:
+    id: 168982
+    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 ---
 
 &nbsp;

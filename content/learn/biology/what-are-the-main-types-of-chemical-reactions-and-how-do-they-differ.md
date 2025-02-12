@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ.md
 url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 score: -1.0
+related_article1:
+    id: 167457
+    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article2:
+    id: 167463
+    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+related_article3:
+    id: 167450
+    title: Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article4:
+    id: 167450
+    title: Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article5:
+    id: 167460
+    title: What factors determine the molecular structure of a compound?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
 ---
 
 &nbsp;

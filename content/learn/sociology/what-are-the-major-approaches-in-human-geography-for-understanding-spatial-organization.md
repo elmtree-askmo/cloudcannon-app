@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization.md
 url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
 score: -1.0
+related_article1:
+    id: 160102
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article2:
+    id: 160104
+    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+related_article3:
+    id: 160224
+    title: What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+related_article4:
+    id: 160081
+    title: Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article5:
+    id: 160543
+    title: How do socio-cultural impacts affect development, particularly in terms of cultural attributes and social dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-development-particularly-in-terms-of-cultural-attributes-and-social-dynamics
 ---
 
 &nbsp;

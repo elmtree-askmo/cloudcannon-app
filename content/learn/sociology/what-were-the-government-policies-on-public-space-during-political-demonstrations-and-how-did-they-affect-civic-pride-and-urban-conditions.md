@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions.md
 url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
 score: -1.0
+related_article1:
+    id: 168976
+    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article2:
+    id: 168983
+    title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+related_article3:
+    id: 168985
+    title: How did the transformation of public spaces influence national identity in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+related_article4:
+    id: 168978
+    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article5:
+    id: 168975
+    title: What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
 ---
 
 &nbsp;

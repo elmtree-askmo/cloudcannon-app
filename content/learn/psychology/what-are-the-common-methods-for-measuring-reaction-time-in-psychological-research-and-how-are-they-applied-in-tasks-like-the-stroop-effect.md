@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect.md
 url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 score: -1.0
+related_article1:
+    id: 165189
+    title: How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article2:
+    id: 165199
+    title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
+related_article3:
+    id: 165188
+    title: What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
+related_article4:
+    id: 165188
+    title: What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
 ---
 
 &nbsp;

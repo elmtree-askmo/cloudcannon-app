@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems.md
 url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
 score: -1.0
+related_article1:
+    id: 167572
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
+related_article2:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article3:
+    id: 167574
+    title: What is the role of cohesion and adhesion in water's surface tension?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+related_article4:
+    id: 167573
+    title: Explain how water acts as a solvent for ionic compounds.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-water-acts-as-a-solvent-for-ionic-compounds
+related_article5:
+    id: 167572
+    title: How do hydrogen bonds contribute to the unique properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 ---
 
 &nbsp;

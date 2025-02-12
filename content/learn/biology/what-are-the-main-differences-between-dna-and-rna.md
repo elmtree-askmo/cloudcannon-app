@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-differences-between-dna-and-rna.md
 url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
 score: -1.0
+related_article1:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+related_article2:
+    id: 167812
+    title: What is the structure and composition of chromosomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article3:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article4:
+    id: 167816
+    title: What are the key differences between prokaryotic and eukaryotic DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
+related_article5:
+    id: 167807
+    title: What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
 ---
 
 &nbsp;

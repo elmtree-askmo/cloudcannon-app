@@ -21,6 +21,31 @@ subject: Biology
 file_name: outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis.md
 url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
 score: -1.0
+related_article1:
+    id: 170974
+    title: What is the difference between favorable and unfavorable reactions in energy conversions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
+related_article2:
+    id: 170976
+    title: What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
+related_article3:
+    id: 170991
+    title: What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
+related_article4:
+    id: 170986
+    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article5:
+    id: 170976
+    title: What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-can-networking-opportunities-benefit-biology-professionals.md
 url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
 score: -1.0
+related_article1:
+    id: 167489
+    title: What are the primary learning goals of this course?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+related_article2:
+    id: 167476
+    title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+related_article3:
+    id: 167478
+    title: What are the subscription options available for iClicker technology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+related_article4:
+    id: 167493
+    title: What educational technologies are used in biology to enhance learning?
+    subject: Biology
+    url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
+related_article5:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 ---
 
 &nbsp;

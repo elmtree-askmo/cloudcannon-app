@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness.md
 url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 score: -1.0
+related_article1:
+    id: 166350
+    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article2:
+    id: 166348
+    title: How can animal behavior serve as an indicator of environmental disturbances in conservation biology?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbances-in-conservation-biology
+related_article3:
+    id: 166338
+    title: How does the study of animal behavior contribute to our understanding of ecology?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
+related_article4:
+    id: 166343
+    title: Describe the difference between associative and non-associative learning in animals.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
+related_article5:
+    id: 166344
+    title: How does cultural transmission occur in animals, and what role does social learning play?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-gender-differences-in-reading-and-writing-achievement.md
 url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
 score: -1.0
+related_article1:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article2:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article3:
+    id: 168128
+    title: What are the common developmental problems associated with autism spectrum disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+related_article4:
+    id: 168123
+    title: How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article5:
+    id: 168116
+    title: How do spatial visualization abilities differ between males and females?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

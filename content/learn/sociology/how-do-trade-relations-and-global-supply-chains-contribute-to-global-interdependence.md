@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence.md
 url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
 score: -1.0
+related_article1:
+    id: 160098
+    title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
+related_article2:
+    id: 160548
+    title: What strategies do states employ to maintain territorial control and sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+related_article3:
+    id: 160215
+    title: How do borders and boundaries influence territoriality and state sovereignty?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+related_article4:
+    id: 160637
+    title: What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+related_article5:
+    id: 160506
+    title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 ---
 
 &nbsp;

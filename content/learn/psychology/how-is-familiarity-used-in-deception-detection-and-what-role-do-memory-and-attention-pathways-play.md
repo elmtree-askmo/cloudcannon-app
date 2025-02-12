@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play.md
 url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
 score: -1.0
+related_article1:
+    id: 164331
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article2:
+    id: 164338
+    title: What is the difference between single dissociation and double dissociation in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
+related_article3:
+    id: 164334
+    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+related_article4:
+    id: 164336
+    title: What is the purpose of functional imaging studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
+related_article5:
+    id: 164340
+    title: How do memory and attention pathways influence cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 ---
 
 &nbsp;

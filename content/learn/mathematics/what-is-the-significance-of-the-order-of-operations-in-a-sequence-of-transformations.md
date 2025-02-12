@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations.md
 url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
 score: -1.0
+related_article1:
+    id: 162232
+    title: How do transformations affect the positions of vertices in a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+related_article2:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article3:
+    id: 162227
+    title: What is the standard notation for translation in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+related_article4:
+    id: 162220
+    title: How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+related_article5:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 ---
 
 &nbsp;

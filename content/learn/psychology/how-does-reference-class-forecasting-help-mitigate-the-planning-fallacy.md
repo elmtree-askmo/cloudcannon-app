@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy.md
 url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 score: -1.0
+related_article1:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+related_article2:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article3:
+    id: 168883
+    title: What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+related_article4:
+    id: 168890
+    title: What are preference reversals and how do they occur in decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
+related_article5:
+    id: 168891
+    title: How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 ---
 
 &nbsp;

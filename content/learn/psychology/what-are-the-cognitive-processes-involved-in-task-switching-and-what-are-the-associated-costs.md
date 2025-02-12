@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs.md
 url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
 score: -1.0
+related_article1:
+    id: 164913
+    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
+related_article2:
+    id: 164913
+    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
+related_article3:
+    id: 164912
+    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
+related_article4:
+    id: 164905
+    title: How does metacognition contribute to effective learning strategies and problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+related_article5:
+    id: 164908
+    title: How do frontal lobe functions relate to executive function and decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
 ---
 
 &nbsp;

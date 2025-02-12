@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology.md
 url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
 score: -1.0
+related_article1:
+    id: 165846
+    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+related_article2:
+    id: 165851
+    title: Explain the ecological impact of microbial interactions in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+related_article3:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165854
+    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+related_article5:
+    id: 165846
+    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

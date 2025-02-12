@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts.md
 url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
 score: -1.0
+related_article1:
+    id: 163611
+    title: How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article2:
+    id: 163611
+    title: How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article3:
+    id: 163626
+    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article4:
+    id: 163620
+    title: How do natural disasters affect social aspects such as displacement and community resilience?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
+related_article5:
+    id: 163610
+    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 ---
 
 &nbsp;

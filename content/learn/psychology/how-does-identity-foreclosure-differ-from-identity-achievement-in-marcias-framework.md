@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework.md
 url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
 score: -1.0
+related_article1:
+    id: 164123
+    title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
+related_article2:
+    id: 164118
+    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+related_article3:
+    id: 164115
+    title: What is an identity crisis and why is it important in adolescent development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
+related_article4:
+    id: 164124
+    title: What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
+related_article5:
+    id: 164118
+    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
 ---
 
 &nbsp;

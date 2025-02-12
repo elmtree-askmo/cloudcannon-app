@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration.md
 url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
 score: -1.0
+related_article1:
+    id: 166820
+    title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
+related_article2:
+    id: 166820
+    title: How do you calculate pH using a logarithmic scale, and what is the significance of the base used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-calculate-ph-using-a-logarithmic-scale-and-what-is-the-significance-of-the-base-used
+related_article3:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+related_article4:
+    id: 166816
+    title: Describe the formation and characteristics of a hydroxide ion.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
+related_article5:
+    id: 166817
+    title: How is hydrogen ion concentration measured in solutions, and what units are used?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 ---
 
 &nbsp;

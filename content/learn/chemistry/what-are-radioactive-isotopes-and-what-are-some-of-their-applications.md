@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-radioactive-isotopes-and-what-are-some-of-their-applications.md
 url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 score: -1.0
+related_article1:
+    id: 167056
+    title: How do electron shells relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+related_article2:
+    id: 167066
+    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article3:
+    id: 167062
+    title: What are valence electrons and why are they important for chemical stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+related_article4:
+    id: 167060
+    title: How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+related_article5:
+    id: 167063
+    title: How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
 ---
 
 &nbsp;

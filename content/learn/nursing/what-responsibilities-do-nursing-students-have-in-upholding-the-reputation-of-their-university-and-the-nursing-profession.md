@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession.md
 url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
 score: -1.0
+related_article1:
+    id: 169618
+    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article2:
+    id: 169615
+    title: What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article3:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article4:
+    id: 169616
+    title: How does continuous professional development contribute to the effectiveness of nursing educators?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
+related_article5:
+    id: 169614
+    title: Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
 ---
 
 &nbsp;

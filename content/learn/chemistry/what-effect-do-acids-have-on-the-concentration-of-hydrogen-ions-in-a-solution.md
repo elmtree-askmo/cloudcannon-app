@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution.md
 url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
 score: -1.0
+related_article1:
+    id: 167323
+    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+related_article2:
+    id: 167319
+    title: How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article3:
+    id: 167321
+    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+related_article4:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article5:
+    id: 167315
+    title: What distinguishes hydrophilic substances from hydrophobic substances in terms of molecular interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-hydrophilic-substances-from-hydrophobic-substances-in-terms-of-molecular-interaction-with-water
 ---
 
 &nbsp;

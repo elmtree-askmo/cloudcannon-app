@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-mathematical-models-contribute-to-optimization-in-biological-systems.md
 url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
 score: -1.0
+related_article1:
+    id: 170891
+    title: What are the adaptive strategies in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
+related_article2:
+    id: 170889
+    title: What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
+related_article3:
+    id: 170884
+    title: What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article4:
+    id: 170885
+    title: How does cost-benefit analysis apply to fitness costs and benefits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
+related_article5:
+    id: 170889
+    title: What mechanisms drive the evolution of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
 ---
 
 &nbsp;

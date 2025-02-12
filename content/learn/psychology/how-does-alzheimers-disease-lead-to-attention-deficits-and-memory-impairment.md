@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 score: -1.0
+related_article1:
+    id: 164759
+    title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
+related_article2:
+    id: 164746
+    title: How does scene schema influence visual search in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+related_article3:
+    id: 164749
+    title: How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+related_article4:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article5:
+    id: 164754
+    title: What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 ---
 
 &nbsp;

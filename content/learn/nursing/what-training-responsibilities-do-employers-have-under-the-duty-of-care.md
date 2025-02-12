@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-training-responsibilities-do-employers-have-under-the-duty-of-care.md
 url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
 score: -1.0
+related_article1:
+    id: 169510
+    title: What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article2:
+    id: 169514
+    title: How can compliance with safety regulations be ensured during equipment servicing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+related_article3:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article4:
+    id: 169503
+    title: What is the role of the Health and Safety Executive in workplace safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
+related_article5:
+    id: 169504
+    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 ---
 
 &nbsp;

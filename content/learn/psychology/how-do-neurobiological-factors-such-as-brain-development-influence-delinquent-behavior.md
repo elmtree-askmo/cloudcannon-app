@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior.md
 url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
 score: -1.0
+related_article1:
+    id: 164048
+    title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
+related_article2:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article3:
+    id: 164046
+    title: How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior
+related_article4:
+    id: 164047
+    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article5:
+    id: 164054
+    title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
 ---
 
 &nbsp;

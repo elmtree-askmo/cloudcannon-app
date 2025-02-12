@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting.md
 url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
 score: -1.0
+related_article1:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article2:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article3:
+    id: 169674
+    title: What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article4:
+    id: 169673
+    title: What safety protocols should be followed to prevent exposure to hazardous substances?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
+related_article5:
+    id: 169666
+    title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
 ---
 
 &nbsp;

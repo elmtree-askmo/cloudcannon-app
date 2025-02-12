@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-concept-of-heritability-and-its-significance-in-natural-selection.md
 url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
 score: -1.0
+related_article1:
+    id: 166358
+    title: What is the purpose of a truncation selection experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
+related_article2:
+    id: 166360
+    title: What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article3:
+    id: 166364
+    title: Differentiate between homology and homoplasy in comparative biology.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+related_article4:
+    id: 166372
+    title: How is the selection differential calculated and what does it indicate?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
+related_article5:
+    id: 166359
+    title: How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 ---
 
 &nbsp;

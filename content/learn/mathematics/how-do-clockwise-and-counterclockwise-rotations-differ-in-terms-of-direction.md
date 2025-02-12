@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction.md
 url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
 score: -1.0
+related_article1:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article2:
+    id: 162483
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162501
+    title: How does circular turning relate to the concept of rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
+related_article4:
+    id: 162241
+    title: What is the role of the line of reflection in geometric reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+related_article5:
+    id: 162497
+    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
 ---
 
 &nbsp;

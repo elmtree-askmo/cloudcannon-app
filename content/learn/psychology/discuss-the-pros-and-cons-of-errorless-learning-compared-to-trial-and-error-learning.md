@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning.md
 url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
 score: -1.0
+related_article1:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article2:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article3:
+    id: 169342
+    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article4:
+    id: 169344
+    title: Why is individualized instruction important, and how can it be tailored to meet developmental needs?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-individualized-instruction-important-and-how-can-it-be-tailored-to-meet-developmental-needs
+related_article5:
+    id: 169334
+    title: Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 ---
 
 &nbsp;

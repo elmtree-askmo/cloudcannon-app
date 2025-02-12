@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples.md
 url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
 score: -1.0
+related_article1:
+    id: 164840
+    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+related_article2:
+    id: 164842
+    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article3:
+    id: 164849
+    title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
+related_article4:
+    id: 164836
+    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article5:
+    id: 164837
+    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
 ---
 
 &nbsp;

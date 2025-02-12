@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-misinformation-effect-impact-memory-recall.md
 url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 score: -1.0
+related_article1:
+    id: 168029
+    title: How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+related_article2:
+    id: 168032
+    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+related_article3:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article4:
+    id: 168010
+    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article5:
+    id: 168014
+    title: What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
 ---
 
 &nbsp;

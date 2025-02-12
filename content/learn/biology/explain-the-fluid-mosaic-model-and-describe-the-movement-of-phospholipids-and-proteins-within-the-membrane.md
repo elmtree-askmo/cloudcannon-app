@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane.md
 url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 score: -1.0
+related_article1:
+    id: 168914
+    title: How do glycoproteins contribute to cell recognition processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-processes
+related_article2:
+    id: 168910
+    title: What is the difference between saturated and unsaturated fatty acids, and how does each type affect membrane fluidity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity
+related_article3:
+    id: 168909
+    title: How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article4:
+    id: 168913
+    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    subject: Biology
+    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
+related_article5:
+    id: 168910
+    title: What is the difference between saturated and unsaturated fatty acids, and how does each type affect membrane fluidity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity
 ---
 
 &nbsp;

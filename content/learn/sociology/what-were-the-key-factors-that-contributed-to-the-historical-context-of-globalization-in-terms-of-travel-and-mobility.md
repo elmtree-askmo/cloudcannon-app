@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility.md
 url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 score: -1.0
+related_article1:
+    id: 165991
+    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+related_article2:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
+related_article3:
+    id: 165984
+    title: What role did the Industrial Revolution play in the historical development of the world system?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article4:
+    id: 166000
+    title: How do cultural resistance movements work to preserve traditions in the face of globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
+related_article5:
+    id: 165993
+    title: What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
 ---
 
 &nbsp;

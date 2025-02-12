@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire.md
 url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
 score: -1.0
+related_article1:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article2:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article3:
+    id: 169675
+    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+related_article4:
+    id: 169683
+    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
 ---
 
 &nbsp;

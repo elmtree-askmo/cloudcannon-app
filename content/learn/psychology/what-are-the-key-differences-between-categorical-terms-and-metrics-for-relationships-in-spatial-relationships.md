@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 score: -1.0
+related_article1:
+    id: 164470
+    title: How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
+related_article2:
+    id: 164462
+    title: How does brain damage affect motion perception and what are the implications for the motion cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
+related_article3:
+    id: 164473
+    title: What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article4:
+    id: 164469
+    title: What are the challenges associated with egocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
+related_article5:
+    id: 164463
+    title: What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
 ---
 
 &nbsp;

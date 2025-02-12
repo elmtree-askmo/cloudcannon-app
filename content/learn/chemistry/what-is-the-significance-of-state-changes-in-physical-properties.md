@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-state-changes-in-physical-properties.md
 url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 score: -1.0
+related_article1:
+    id: 162019
+    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+related_article2:
+    id: 162040
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article3:
+    id: 162035
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article4:
+    id: 161986
+    title: What is the role of charged particles in the process of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
+related_article5:
+    id: 162013
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

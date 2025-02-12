@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement.md
 url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
 score: -1.0
+related_article1:
+    id: 170418
+    title: Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
+related_article2:
+    id: 170401
+    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+related_article3:
+    id: 170404
+    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+related_article4:
+    id: 170401
+    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+related_article5:
+    id: 170416
+    title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    subject: Chemistry
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 ---
 
 &nbsp;

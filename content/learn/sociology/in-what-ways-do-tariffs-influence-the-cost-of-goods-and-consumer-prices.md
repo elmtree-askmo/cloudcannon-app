@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices.md
 url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 score: -1.0
+related_article1:
+    id: 168367
+    title: What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+related_article2:
+    id: 168353
+    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article3:
+    id: 168361
+    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article4:
+    id: 168360
+    title: How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article5:
+    id: 168358
+    title: How does globalization contribute to economic interconnectedness and global market dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 ---
 
 &nbsp;

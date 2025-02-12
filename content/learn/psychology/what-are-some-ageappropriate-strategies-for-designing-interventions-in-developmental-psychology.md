@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology.md
 url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
 score: -1.0
+related_article1:
+    id: 169335
+    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+related_article2:
+    id: 169333
+    title: What are some common causes of prompt dependency, and how can it be prevented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
+related_article3:
+    id: 169358
+    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article4:
+    id: 169354
+    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+related_article5:
+    id: 169350
+    title: What role does imitation play in social development, and how is it related to observational learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security.md
 url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 score: -1.0
+related_article1:
+    id: 168966
+    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+related_article2:
+    id: 168969
+    title: What historical practices contributed to racial segregation in urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
+related_article3:
+    id: 168970
+    title: How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+related_article4:
+    id: 168965
+    title: What role does racial identity play in the political and economic orders of urban spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
+related_article5:
+    id: 168970
+    title: How did post-war urban policies address urban renewal and redevelopment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
 ---
 
 &nbsp;

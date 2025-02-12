@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential.md
 url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
 score: -1.0
+related_article1:
+    id: 170605
+    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+related_article2:
+    id: 170612
+    title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
+related_article3:
+    id: 170604
+    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
+related_article4:
+    id: 170603
+    title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+    subject: Nursing
+    url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
+related_article5:
+    id: 170606
+    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships.md
 url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 score: -1.0
+related_article1:
+    id: 167726
+    title: What role does genetic variation play in the evolution of populations?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
+related_article2:
+    id: 167731
+    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article3:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article4:
+    id: 167724
+    title: What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
+related_article5:
+    id: 167732
+    title: How are shared characters used in the construction and interpretation of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
 ---
 
 &nbsp;

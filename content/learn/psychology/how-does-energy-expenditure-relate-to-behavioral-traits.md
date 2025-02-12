@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-energy-expenditure-relate-to-behavioral-traits.md
 url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
 score: -1.0
+related_article1:
+    id: 170883
+    title: How does natural selection influence fitness-enhancing behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
+related_article2:
+    id: 170881
+    title: How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article3:
+    id: 170887
+    title: What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article4:
+    id: 170886
+    title: Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article5:
+    id: 170882
+    title: What challenges are associated with measuring quantitative traits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
 ---
 
 &nbsp;

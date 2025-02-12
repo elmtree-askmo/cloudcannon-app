@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-animals-utilize-evaporative-cooling-for-temperature-regulation.md
 url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
 score: -1.0
+related_article1:
+    id: 167434
+    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+related_article2:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article3:
+    id: 167432
+    title: How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
+related_article4:
+    id: 167423
+    title: What is the molecular structure of water and how does it contribute to its polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
+related_article5:
+    id: 167436
+    title: What is the specific heat of water and how is it measured?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
 ---
 
 &nbsp;

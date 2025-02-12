@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety.md
 url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 score: -1.0
+related_article1:
+    id: 169514
+    title: How can compliance with safety regulations be ensured during equipment servicing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+related_article2:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article3:
+    id: 169501
+    title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
+related_article4:
+    id: 169509
+    title: How should patient dignity be maintained during handling in care settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+related_article5:
+    id: 169507
+    title: What is the hierarchy of control and how does it help in minimizing manual handling?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
 ---
 
 &nbsp;

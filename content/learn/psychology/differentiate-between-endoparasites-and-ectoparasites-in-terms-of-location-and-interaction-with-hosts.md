@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts.md
 url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 score: -1.0
+related_article1:
+    id: 165843
+    title: What are the ecological consequences of habitat disruption caused by parasites?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article2:
+    id: 165842
+    title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+related_article3:
+    id: 165849
+    title: What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+related_article4:
+    id: 165836
+    title: Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
+related_article5:
+    id: 165855
+    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 ---
 
 &nbsp;

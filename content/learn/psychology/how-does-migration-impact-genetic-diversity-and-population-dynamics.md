@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-migration-impact-genetic-diversity-and-population-dynamics.md
 url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
 score: -1.0
+related_article1:
+    id: 166407
+    title: Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+related_article2:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article3:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166399
+    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article5:
+    id: 166405
+    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 ---
 
 &nbsp;

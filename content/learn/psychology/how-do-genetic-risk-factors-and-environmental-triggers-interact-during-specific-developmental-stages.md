@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages.md
 url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
 score: -1.0
+related_article1:
+    id: 164028
+    title: What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
+related_article2:
+    id: 164035
+    title: What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+related_article3:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article4:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 ---
 
 &nbsp;

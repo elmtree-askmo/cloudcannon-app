@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-cultural-significance-affect-the-psychological-impact-of-color-perception.md
 url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
 score: -1.0
+related_article1:
+    id: 164301
+    title: What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+related_article2:
+    id: 164299
+    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article3:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article4:
+    id: 164300
+    title: How does neurostimulation enhance brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
+related_article5:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
 ---
 
 &nbsp;

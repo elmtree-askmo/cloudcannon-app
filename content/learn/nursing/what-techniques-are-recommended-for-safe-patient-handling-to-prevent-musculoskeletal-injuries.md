@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries.md
 url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
 score: -1.0
+related_article1:
+    id: 169679
+    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
+related_article2:
+    id: 169666
+    title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
+related_article3:
+    id: 169668
+    title: How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article4:
+    id: 169681
+    title: What procedures should be followed for effective incident reporting in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-should-be-followed-for-effective-incident-reporting-in-healthcare
+related_article5:
+    id: 169674
+    title: What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
 ---
 
 &nbsp;

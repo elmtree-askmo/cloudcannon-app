@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration.md
 url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
 score: -1.0
+related_article1:
+    id: 170356
+    title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
+related_article2:
+    id: 170347
+    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
+related_article3:
+    id: 170347
+    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
+related_article4:
+    id: 170349
+    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article5:
+    id: 170349
+    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
 ---
 
 &nbsp;

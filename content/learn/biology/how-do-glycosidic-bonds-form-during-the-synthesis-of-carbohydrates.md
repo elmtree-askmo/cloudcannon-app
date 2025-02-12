@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates.md
 url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
 score: -1.0
+related_article1:
+    id: 167028
+    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+related_article2:
+    id: 167022
+    title: What are some common examples of disaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
+related_article3:
+    id: 167024
+    title: Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article4:
+    id: 167028
+    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+related_article5:
+    id: 167019
+    title: How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
 ---
 
 &nbsp;

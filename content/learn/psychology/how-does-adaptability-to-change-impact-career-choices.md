@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-adaptability-to-change-impact-career-choices.md
 url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
 score: -1.0
+related_article1:
+    id: 168446
+    title: How do Enterprising and Conventional career categories match with personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-enterprising-and-conventional-career-categories-match-with-personalities
+related_article2:
+    id: 168439
+    title: What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article3:
+    id: 168434
+    title: How do emotional qualities influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+related_article4:
+    id: 168445
+    title: What are the characteristics of the Realistic and Investigative work personality categories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+related_article5:
+    id: 168441
+    title: How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk.md
 url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 score: -1.0
+related_article1:
+    id: 169780
+    title: What are the health implications of overweight and obesity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
+related_article2:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article3:
+    id: 169785
+    title: What is food fortification, and how does it support nutritional needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+related_article4:
+    id: 169782
+    title: Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
+related_article5:
+    id: 169785
+    title: What is food fortification, and how does it support nutritional needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
 ---
 
 &nbsp;

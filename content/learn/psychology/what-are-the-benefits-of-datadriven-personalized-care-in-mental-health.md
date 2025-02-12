@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-benefits-of-datadriven-personalized-care-in-mental-health.md
 url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
 score: -1.0
+related_article1:
+    id: 164072
+    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+related_article2:
+    id: 164074
+    title: What are the core symptoms of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
+related_article3:
+    id: 164071
+    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
+related_article4:
+    id: 164081
+    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+related_article5:
+    id: 164071
+    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 ---
 
 &nbsp;

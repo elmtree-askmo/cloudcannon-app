@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics.md
 url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 score: -1.0
+related_article1:
+    id: 166649
+    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+related_article2:
+    id: 166640
+    title: How does a concentrated force affect the equilibrium of a body in statics?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
+related_article3:
+    id: 166637
+    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+related_article4:
+    id: 166646
+    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article5:
+    id: 166644
+    title: How does Newton's First Law of Motion describe the concept of inertia?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-role-of-oxygen-in-combustion-reactions.md
 url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 score: -1.0
+related_article1:
+    id: 162055
+    title: What are the characteristics of a precipitation reaction involving silver and chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
+related_article2:
+    id: 162033
+    title: What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article3:
+    id: 161763
+    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article4:
+    id: 161934
+    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+related_article5:
+    id: 161970
+    title: How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 ---
 
 &nbsp;

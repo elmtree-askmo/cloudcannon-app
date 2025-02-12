@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies.md
 url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
 score: -1.0
+related_article1:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article2:
+    id: 167724
+    title: What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
+related_article3:
+    id: 167731
+    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+related_article4:
+    id: 167739
+    title: What is convergent evolution and how can it be distinguished from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+related_article5:
+    id: 167738
+    title: How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
 ---
 
 &nbsp;

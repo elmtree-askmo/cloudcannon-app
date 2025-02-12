@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-different-structures-carbon-can-form-and-why-are-they-important.md
 url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
 score: -1.0
+related_article1:
+    id: 167563
+    title: Explain the difference between covalent and ionic bonds.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
+related_article2:
+    id: 167570
+    title: How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article3:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+related_article4:
+    id: 167570
+    title: How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article5:
+    id: 167559
+    title: What are the charges and masses of protons, neutrons, and electrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
 ---
 
 &nbsp;

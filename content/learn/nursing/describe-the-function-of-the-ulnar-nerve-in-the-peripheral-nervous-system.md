@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system.md
 url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
 score: -1.0
+related_article1:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
+related_article2:
+    id: 164798
+    title: What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article3:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+related_article4:
+    id: 164810
+    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
+related_article5:
+    id: 164803
+    title: How do motor neurons facilitate movement in the body?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
 ---
 
 &nbsp;

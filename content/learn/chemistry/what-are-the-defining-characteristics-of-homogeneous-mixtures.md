@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-defining-characteristics-of-homogeneous-mixtures.md
 url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
 score: -1.0
+related_article1:
+    id: 161722
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article2:
+    id: 161879
+    title: What are the characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161723
+    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article4:
+    id: 161819
+    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article5:
+    id: 161916
+    title: What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function.md
 url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
 score: -1.0
+related_article1:
+    id: 167540
+    title: Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+related_article2:
+    id: 167547
+    title: How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article3:
+    id: 167548
+    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+related_article4:
+    id: 167554
+    title: Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
+related_article5:
+    id: 167543
+    title: What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
 ---
 
 &nbsp;

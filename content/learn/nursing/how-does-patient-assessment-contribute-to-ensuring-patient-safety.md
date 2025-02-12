@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-patient-assessment-contribute-to-ensuring-patient-safety.md
 url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 score: -1.0
+related_article1:
+    id: 169573
+    title: What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article2:
+    id: 169568
+    title: How does professional responsibility impact patient assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+related_article3:
+    id: 169566
+    title: What are some ways to build competence through experience?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+related_article4:
+    id: 169577
+    title: Why is effective communication important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+related_article5:
+    id: 169562
+    title: How does supervision ensure competence and patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
 ---
 
 &nbsp;

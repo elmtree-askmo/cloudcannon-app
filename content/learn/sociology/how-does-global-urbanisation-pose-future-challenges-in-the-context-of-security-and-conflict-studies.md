@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies.md
 url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
 score: -1.0
+related_article1:
+    id: 169206
+    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
+related_article2:
+    id: 169210
+    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    subject: Sociology
+    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
+related_article3:
+    id: 169203
+    title: How does urbicide differ conceptually from other forms of destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+related_article4:
+    id: 169213
+    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+related_article5:
+    id: 169208
+    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 ---
 
 &nbsp;

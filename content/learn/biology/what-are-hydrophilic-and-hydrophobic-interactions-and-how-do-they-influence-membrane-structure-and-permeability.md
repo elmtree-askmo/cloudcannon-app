@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability.md
 url: /learn/biology/questions/what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability
 score: -1.0
+related_article1:
+    id: 166983
+    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+related_article2:
+    id: 166982
+    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+related_article3:
+    id: 166976
+    title: Differentiate between integral and peripheral proteins in terms of structure and function.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
+related_article4:
+    id: 166978
+    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
+related_article5:
+    id: 166982
+    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
 ---
 
 &nbsp;

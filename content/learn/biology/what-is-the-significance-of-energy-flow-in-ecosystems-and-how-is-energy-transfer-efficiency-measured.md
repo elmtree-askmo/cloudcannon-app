@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured.md
 url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 score: -1.0
+related_article1:
+    id: 167749
+    title: Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article2:
+    id: 167747
+    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+related_article3:
+    id: 167763
+    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+related_article4:
+    id: 167748
+    title: What are the mechanisms of speciation and can you provide examples?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+related_article5:
+    id: 167753
+    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
 ---
 
 &nbsp;

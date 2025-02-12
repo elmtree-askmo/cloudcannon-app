@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy.md
 url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
 score: -1.0
+related_article1:
+    id: 170585
+    title: What functions are associated with the frontal lobe in terms of personality and planning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
+related_article2:
+    id: 170591
+    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article3:
+    id: 170591
+    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+related_article4:
+    id: 170584
+    title: How does the olfactory bulb process sensory input related to smell?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
+related_article5:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
 ---
 
 &nbsp;

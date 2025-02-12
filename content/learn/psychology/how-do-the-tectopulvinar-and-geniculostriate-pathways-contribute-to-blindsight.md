@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight.md
 url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 score: -1.0
+related_article1:
+    id: 164654
+    title: What is the portable magnification factor and why is it important in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+related_article2:
+    id: 164649
+    title: How is hemianopia related to occipital lobe disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+related_article3:
+    id: 164656
+    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+related_article4:
+    id: 164656
+    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+related_article5:
+    id: 164658
+    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 ---
 
 &nbsp;

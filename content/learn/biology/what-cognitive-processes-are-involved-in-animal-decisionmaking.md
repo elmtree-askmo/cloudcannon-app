@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-cognitive-processes-are-involved-in-animal-decisionmaking.md
 url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 score: -1.0
+related_article1:
+    id: 170906
+    title: What are the limitations of mathematical models in ecological modeling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
+related_article2:
+    id: 170899
+    title: What is the Marginal Value Theorem in optimal foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
+related_article3:
+    id: 170894
+    title: How is energy profitability calculated in foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
+related_article4:
+    id: 170897
+    title: What are some common predator strategies in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
+related_article5:
+    id: 170900
+    title: Can you provide an example of optimal foraging behavior in nature?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
 ---
 
 &nbsp;

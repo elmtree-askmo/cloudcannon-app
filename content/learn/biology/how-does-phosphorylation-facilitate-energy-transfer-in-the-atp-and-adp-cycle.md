@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle.md
 url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
 score: -1.0
+related_article1:
+    id: 170983
+    title: What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article2:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article3:
+    id: 170977
+    title: How do enzymes lower activation energy in reaction coupling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article4:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+related_article5:
+    id: 170980
+    title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
 ---
 
 &nbsp;

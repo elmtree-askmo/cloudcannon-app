@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers.md
 url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 score: -1.0
+related_article1:
+    id: 170008
+    title: What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+related_article2:
+    id: 170025
+    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
+    subject: Psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
+related_article3:
+    id: 170023
+    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+related_article4:
+    id: 170008
+    title: What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+related_article5:
+    id: 170010
+    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
 ---
 
 &nbsp;

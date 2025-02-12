@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: when-converting-units-when-should-you-move-the-decimal-point-to-the-right.md
 url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
 score: -1.0
+related_article1:
+    id: 165400
+    title: How does the prefix 'milli' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system
+related_article2:
+    id: 165394
+    title: What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+related_article3:
+    id: 165395
+    title: What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+related_article4:
+    id: 165403
+    title: What is the role of decimal point movement in unit conversion?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-decimal-point-movement-in-unit-conversion
+related_article5:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
 ---
 
 &nbsp;

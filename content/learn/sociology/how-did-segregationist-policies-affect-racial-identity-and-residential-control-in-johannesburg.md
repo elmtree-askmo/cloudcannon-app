@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg.md
 url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169142
+    title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
+related_article2:
+    id: 169151
+    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+related_article3:
+    id: 169147
+    title: What was the impact of racial discourse on social stratification in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
+related_article4:
+    id: 169151
+    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+related_article5:
+    id: 169139
+    title: How did mining and manufacturing influence urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
 ---
 
 &nbsp;

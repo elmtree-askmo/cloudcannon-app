@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-impact-does-cortisol-have-on-memory-and-learning-during-stress.md
 url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 score: -1.0
+related_article1:
+    id: 164428
+    title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
+related_article2:
+    id: 164418
+    title: What is the difference between independent and dependent variables in experimental methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+related_article3:
+    id: 164433
+    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+related_article4:
+    id: 164421
+    title: How do cultural differences impact mental health diagnosis and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+related_article5:
+    id: 164423
+    title: How does the frontal lobe contribute to executive functions and speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
 ---
 
 &nbsp;

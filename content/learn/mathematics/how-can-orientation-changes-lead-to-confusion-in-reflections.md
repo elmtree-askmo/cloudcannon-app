@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-orientation-changes-lead-to-confusion-in-reflections.md
 url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
 score: -1.0
+related_article1:
+    id: 162892
+    title: How does reflecting a point across the x-axis change its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+related_article2:
+    id: 162814
+    title: How does a reflection impact the coordinates of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-impact-the-coordinates-of-a-geometric-figure
+related_article3:
+    id: 162407
+    title: How does the line of reflection act as a mirror?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
+related_article4:
+    id: 162642
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article5:
+    id: 162819
+    title: What are some misunderstandings about symmetry in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 ---
 
 &nbsp;

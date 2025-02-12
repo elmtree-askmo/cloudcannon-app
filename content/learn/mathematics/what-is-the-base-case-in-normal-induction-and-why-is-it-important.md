@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-base-case-in-normal-induction-and-why-is-it-important.md
 url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 170694
+    title: Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article2:
+    id: 170706
+    title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
+related_article3:
+    id: 170697
+    title: Provide an example of a base case in the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
+related_article4:
+    id: 170692
+    title: How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article5:
+    id: 170698
+    title: What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
 ---
 
 &nbsp;

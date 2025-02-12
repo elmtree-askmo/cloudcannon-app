@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions.md
 url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
 score: -1.0
+related_article1:
+    id: 169632
+    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+related_article2:
+    id: 169629
+    title: How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
+related_article3:
+    id: 169635
+    title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
+related_article4:
+    id: 169636
+    title: In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article5:
+    id: 169632
+    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
 ---
 
 &nbsp;

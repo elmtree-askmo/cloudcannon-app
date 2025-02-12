@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164730
+    title: How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article2:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article3:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article4:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+related_article5:
+    id: 164728
+    title: What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 ---
 
 &nbsp;

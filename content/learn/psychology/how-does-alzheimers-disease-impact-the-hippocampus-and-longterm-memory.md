@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
 score: -1.0
+related_article1:
+    id: 170586
+    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+related_article2:
+    id: 170584
+    title: How does the olfactory bulb process sensory input related to smell?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
+related_article3:
+    id: 170570
+    title: What is the significance of the diencephalon in brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+related_article4:
+    id: 170587
+    title: What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article5:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
 ---
 
 &nbsp;

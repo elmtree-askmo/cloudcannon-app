@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare.md
 url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
 score: -1.0
+related_article1:
+    id: 169634
+    title: How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
+related_article2:
+    id: 169632
+    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+related_article3:
+    id: 169637
+    title: What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
+related_article4:
+    id: 169634
+    title: How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
+related_article5:
+    id: 169638
+    title: How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
 ---
 
 &nbsp;

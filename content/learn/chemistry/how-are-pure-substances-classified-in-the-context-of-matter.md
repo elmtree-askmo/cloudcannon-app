@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-are-pure-substances-classified-in-the-context-of-matter.md
 url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
 score: -1.0
+related_article1:
+    id: 161884
+    title: Provide examples of compounds and their chemical formulas.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
+related_article2:
+    id: 161708
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article3:
+    id: 161817
+    title: How do chemical formulas represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
+related_article4:
+    id: 161718
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+related_article5:
+    id: 161821
+    title: How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

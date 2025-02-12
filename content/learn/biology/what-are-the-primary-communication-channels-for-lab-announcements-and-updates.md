@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-primary-communication-channels-for-lab-announcements-and-updates.md
 url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
 score: -1.0
+related_article1:
+    id: 163363
+    title: What are the evaluation criteria for lab practical exams?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
+related_article2:
+    id: 163363
+    title: What are the evaluation criteria for lab practical exams?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
+related_article3:
+    id: 163365
+    title: What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article4:
+    id: 163360
+    title: How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+related_article5:
+    id: 163360
+    title: How can the scientific method handout be utilized effectively in lab settings?
+    subject: Biology
+    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
 ---
 
 &nbsp;

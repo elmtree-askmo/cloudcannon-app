@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-three-main-types-of-transformations-in-geometry.md
 url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 score: -1.0
+related_article1:
+    id: 162234
+    title: How do transformations affect the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+related_article2:
+    id: 162606
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article3:
+    id: 162233
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162242
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article5:
+    id: 162604
+    title: What happens to a line when it is rotated around a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
 ---
 
 &nbsp;

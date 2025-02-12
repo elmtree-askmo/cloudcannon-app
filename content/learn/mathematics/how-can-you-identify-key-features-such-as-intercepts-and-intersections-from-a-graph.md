@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph.md
 url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 score: -1.0
+related_article1:
+    id: 163847
+    title: What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article2:
+    id: 163833
+    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+related_article3:
+    id: 163844
+    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+related_article4:
+    id: 163846
+    title: How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article5:
+    id: 163841
+    title: Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
 ---
 
 &nbsp;

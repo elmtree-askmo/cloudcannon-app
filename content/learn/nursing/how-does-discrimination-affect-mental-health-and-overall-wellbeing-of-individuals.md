@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals.md
 url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
 score: -1.0
+related_article1:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article2:
+    id: 169638
+    title: How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
+related_article3:
+    id: 169639
+    title: Why is respectful and inclusive language important in patient-provider interactions?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
+related_article4:
+    id: 169638
+    title: How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
+related_article5:
+    id: 169629
+    title: How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli.md
 url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
 score: -1.0
+related_article1:
+    id: 164024
+    title: What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+related_article2:
+    id: 164030
+    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
+related_article3:
+    id: 164031
+    title: How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article4:
+    id: 164037
+    title: What are the implications of trait impulsivity on reward-related brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+related_article5:
+    id: 164028
+    title: What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg.md
 url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169141
+    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+related_article2:
+    id: 169150
+    title: What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
+related_article3:
+    id: 169143
+    title: How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article4:
+    id: 169138
+    title: What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article5:
+    id: 169143
+    title: How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
 ---
 
 &nbsp;

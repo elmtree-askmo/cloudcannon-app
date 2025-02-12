@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions.md
 url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-the-graph-of-inverse-functions
 score: -1.0
+related_article1:
+    id: 163724
+    title: Why is the negative domain excluded in the principal square root?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+related_article2:
+    id: 163725
+    title: Explain the concept of symmetry around the y-axis and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+related_article3:
+    id: 163712
+    title: How is radical notation used to represent square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article4:
+    id: 163718
+    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+related_article5:
+    id: 163719
+    title: How do you determine the direction in which a parabola opens?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
 ---
 
 &nbsp;

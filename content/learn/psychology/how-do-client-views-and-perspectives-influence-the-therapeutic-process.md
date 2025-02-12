@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-client-views-and-perspectives-influence-the-therapeutic-process.md
 url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 score: -1.0
+related_article1:
+    id: 163038
+    title: What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+related_article2:
+    id: 163024
+    title: What are the primary purposes of theories in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+related_article3:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article4:
+    id: 163030
+    title: What are the ethical considerations regarding informed consent in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
+related_article5:
+    id: 163025
+    title: How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
 ---
 
 &nbsp;

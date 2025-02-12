@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-patient-safety-a-critical-concern-in-healthcare.md
 url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
 score: -1.0
+related_article1:
+    id: 169558
+    title: Why is the duty of care important for patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
+related_article2:
+    id: 169565
+    title: How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article3:
+    id: 169554
+    title: What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+related_article4:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+related_article5:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 ---
 
 &nbsp;

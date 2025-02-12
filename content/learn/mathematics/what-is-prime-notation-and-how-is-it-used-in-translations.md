@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-prime-notation-and-how-is-it-used-in-translations.md
 url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
 score: -1.0
+related_article1:
+    id: 162286
+    title: How do you identify vertices on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+related_article2:
+    id: 162292
+    title: What is the process for applying combined translation rules?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
+related_article3:
+    id: 162536
+    title: How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
+related_article4:
+    id: 162546
+    title: How is the new location of a figure determined after a translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-new-location-of-a-figure-determined-after-a-translation
+related_article5:
+    id: 162279
+    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
 ---
 
 &nbsp;

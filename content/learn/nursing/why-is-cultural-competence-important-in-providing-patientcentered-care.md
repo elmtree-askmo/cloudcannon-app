@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-cultural-competence-important-in-providing-patientcentered-care.md
 url: /learn/nursing/questions/why-is-cultural-competence-important-in-providing-patientcentered-care
 score: -1.0
+related_article1:
+    id: 169623
+    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
+related_article2:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+related_article3:
+    id: 169620
+    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+related_article4:
+    id: 169616
+    title: How does continuous professional development contribute to the effectiveness of nursing educators?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
+related_article5:
+    id: 169623
+    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
 ---
 
 &nbsp;

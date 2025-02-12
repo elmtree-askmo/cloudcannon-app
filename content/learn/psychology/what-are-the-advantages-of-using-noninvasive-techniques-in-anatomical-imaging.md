@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
 score: -1.0
+related_article1:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article2:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article3:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article4:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article5:
+    id: 164662
+    title: How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
 ---
 
 &nbsp;

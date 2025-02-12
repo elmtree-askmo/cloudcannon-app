@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-do-cubic-functions-not-have-a-maximum-or-minimum-value.md
 url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 score: -1.0
+related_article1:
+    id: 163841
+    title: Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article2:
+    id: 163847
+    title: What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article3:
+    id: 163839
+    title: What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+related_article4:
+    id: 163846
+    title: How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article5:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 ---
 
 &nbsp;

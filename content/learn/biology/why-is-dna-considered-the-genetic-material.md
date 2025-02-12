@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-dna-considered-the-genetic-material.md
 url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
 score: -1.0
+related_article1:
+    id: 167827
+    title: What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article2:
+    id: 167810
+    title: What roles do chromosomes and chromatin play in genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-organization
+related_article3:
+    id: 167819
+    title: What is differential gene expression and why is it important?
+    subject: Biology
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
+related_article4:
+    id: 167823
+    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+related_article5:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions.md
 url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
 score: -1.0
+related_article1:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article2:
+    id: 163826
+    title: How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article3:
+    id: 163812
+    title: How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+related_article4:
+    id: 163810
+    title: Name three types of non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
+related_article5:
+    id: 163812
+    title: How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
 ---
 
 &nbsp;

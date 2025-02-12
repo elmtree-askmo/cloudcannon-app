@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders.md
 url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 score: -1.0
+related_article1:
+    id: 167698
+    title: What are the key components of experimental design in psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+related_article2:
+    id: 167700
+    title: What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article3:
+    id: 167696
+    title: What are the psychological perspectives on free will?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+related_article4:
+    id: 167686
+    title: What distinguishes adaptive behaviors from maladaptive behaviors?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-adaptive-behaviors-from-maladaptive-behaviors
+related_article5:
+    id: 167691
+    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
 ---
 
 &nbsp;

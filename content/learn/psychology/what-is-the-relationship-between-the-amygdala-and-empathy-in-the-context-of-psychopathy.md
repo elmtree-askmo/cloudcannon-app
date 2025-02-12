@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy.md
 url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
 score: -1.0
+related_article1:
+    id: 164053
+    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+related_article2:
+    id: 164047
+    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article3:
+    id: 164043
+    title: What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+related_article4:
+    id: 164047
+    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article5:
+    id: 164049
+    title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+    subject: Psychology
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 ---
 
 &nbsp;

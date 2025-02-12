@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences.md
 url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 score: -1.0
+related_article1:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article2:
+    id: 167633
+    title: What are the common isotopes of hydrogen and their role in auto-ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization
+related_article3:
+    id: 167619
+    title: What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
+related_article4:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+related_article5:
+    id: 167630
+    title: Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
 ---
 
 &nbsp;

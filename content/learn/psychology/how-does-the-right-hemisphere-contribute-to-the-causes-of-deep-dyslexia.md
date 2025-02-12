@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia.md
 url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
 score: -1.0
+related_article1:
+    id: 164967
+    title: How do semantic networks and language systems interact within memory systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
+related_article2:
+    id: 164963
+    title: Differentiate between developmental dysgraphia and acquired dysgraphia.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia
+related_article3:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article4:
+    id: 164968
+    title: What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
 ---
 
 &nbsp;

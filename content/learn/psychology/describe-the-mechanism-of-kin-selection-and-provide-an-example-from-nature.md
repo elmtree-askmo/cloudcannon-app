@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature.md
 url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
 score: -1.0
+related_article1:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article2:
+    id: 170915
+    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+related_article3:
+    id: 170920
+    title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
+related_article4:
+    id: 170917
+    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
+related_article5:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 ---
 
 &nbsp;

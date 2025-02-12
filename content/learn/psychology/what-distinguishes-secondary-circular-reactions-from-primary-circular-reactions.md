@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions.md
 url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 score: -1.0
+related_article1:
+    id: 168098
+    title: Explain the coordination of secondary circular reactions and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+related_article2:
+    id: 168094
+    title: What are primary circular reactions, and at what age do they typically occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
+related_article3:
+    id: 168102
+    title: At what age do children typically develop object permanence?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
+related_article4:
+    id: 168097
+    title: At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article5:
+    id: 168107
+    title: Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

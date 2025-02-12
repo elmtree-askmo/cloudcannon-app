@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures.md
 url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 score: -1.0
+related_article1:
+    id: 166418
+    title: How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
+related_article2:
+    id: 166421
+    title: How does the genetic component of behavior influence evolutionary processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+related_article3:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166406
+    title: What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article5:
+    id: 166398
+    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 ---
 
 &nbsp;

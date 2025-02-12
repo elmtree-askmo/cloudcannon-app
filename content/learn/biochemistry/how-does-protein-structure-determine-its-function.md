@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: how-does-protein-structure-determine-its-function.md
 url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
 score: -1.0
+related_article1:
+    id: 167247
+    title: How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+related_article2:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article3:
+    id: 167234
+    title: What is the primary structure of a protein and how is it determined?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+related_article4:
+    id: 167232
+    title: What are the primary functions of proteins in cells?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+related_article5:
+    id: 167240
+    title: How does the variability of R-groups affect protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 ---
 
 &nbsp;

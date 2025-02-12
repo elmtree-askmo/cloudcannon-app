@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-cultural-variations-impact-the-gender-gap-in-selfesteem.md
 url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
 score: -1.0
+related_article1:
+    id: 168112
+    title: How do speech fluency and verbal abilities differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
+related_article2:
+    id: 168137
+    title: How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article3:
+    id: 168125
+    title: What changes in self-esteem are observed during adulthood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+related_article4:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article5:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
 ---
 
 &nbsp;

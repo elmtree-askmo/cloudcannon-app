@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy.md
 url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
 score: -1.0
+related_article1:
+    id: 170476
+    title: What is the clinical significance of the dura mater in the meninges?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+related_article2:
+    id: 170482
+    title: What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+related_article3:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+related_article4:
+    id: 170464
+    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
+    id: 170482
+    title: What is the role of the primary motor cortex in motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 ---
 
 &nbsp;

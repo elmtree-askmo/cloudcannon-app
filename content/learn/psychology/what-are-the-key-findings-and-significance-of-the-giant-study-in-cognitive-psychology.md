@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology.md
 url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 165012
+    title: How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+related_article2:
+    id: 165014
+    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+related_article3:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article4:
+    id: 165017
+    title: What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article5:
+    id: 165023
+    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
 ---
 
 &nbsp;

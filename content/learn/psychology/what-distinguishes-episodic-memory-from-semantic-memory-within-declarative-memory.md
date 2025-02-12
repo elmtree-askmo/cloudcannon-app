@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory.md
 url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
 score: -1.0
+related_article1:
+    id: 168047
+    title: What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article2:
+    id: 168046
+    title: How does automatic retrieval in procedural memory differ from declarative memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
+related_article3:
+    id: 168042
+    title: What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
+related_article4:
+    id: 168038
+    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article5:
+    id: 168034
+    title: How can encoding strategies benefit older adults in maintaining memory function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved.md
 url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
 score: -1.0
+related_article1:
+    id: 166828
+    title: Identify the purine bases and describe their role in nucleic acids.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
+related_article2:
+    id: 166826
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article3:
+    id: 166831
+    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
+related_article4:
+    id: 166830
+    title: How are phosphodiester linkages formed between nucleotides?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
 ---
 
 &nbsp;

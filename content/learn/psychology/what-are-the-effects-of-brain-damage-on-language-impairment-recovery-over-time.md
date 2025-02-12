@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time.md
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-language-impairment-recovery-over-time
 score: -1.0
+related_article1:
+    id: 164892
+    title: What role does Broca's area play in language production, and what are the effects of its damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
+related_article2:
+    id: 164899
+    title: How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
+related_article3:
+    id: 164885
+    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+related_article4:
+    id: 164894
+    title: Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+related_article5:
+    id: 164894
+    title: Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
 ---
 
 &nbsp;

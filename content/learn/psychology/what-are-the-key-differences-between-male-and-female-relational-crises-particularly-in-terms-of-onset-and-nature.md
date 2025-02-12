@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
 score: -1.0
+related_article1:
+    id: 164197
+    title: How do family involvement and educational interventions play a role in resisting disconnection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+related_article2:
+    id: 164200
+    title: How do similarities and differences in relational crises between genders manifest?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+related_article3:
+    id: 164193
+    title: Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+related_article4:
+    id: 164198
+    title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
+related_article5:
+    id: 164189
+    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 ---
 
 &nbsp;

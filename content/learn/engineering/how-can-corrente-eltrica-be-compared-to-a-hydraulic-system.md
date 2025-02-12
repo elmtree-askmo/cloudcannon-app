@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-can-corrente-eltrica-be-compared-to-a-hydraulic-system.md
 url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 score: -1.0
+related_article1:
+    id: 169839
+    title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+related_article2:
+    id: 169835
+    title: What is potência elétrica and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
+related_article3:
+    id: 169828
+    title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+related_article4:
+    id: 169833
+    title: Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+related_article5:
+    id: 169827
+    title: What constitutes a circuito elétrico and how does it function?
+    subject: Engineering
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
 ---
 
 &nbsp;

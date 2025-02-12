@@ -21,6 +21,31 @@ subject: Engineering
 file_name: define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process.md
 url: /learn/engineering/questions/define-feed-and-depth-of-cut-in-machining-and-explain-their-roles-in-the-cutting-process
 score: -1.0
+related_article1:
+    id: 168698
+    title: How do blocks and flat parts differ from those with a geometry of revolution in machining processes?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-blocks-and-flat-parts-differ-from-those-with-a-geometry-of-revolution-in-machining-processes
+related_article2:
+    id: 168703
+    title: Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article3:
+    id: 168710
+    title: How do profiling and threading methods differ in lathe operations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-profiling-and-threading-methods-differ-in-lathe-operations
+related_article4:
+    id: 168699
+    title: What is the significance of relative movements in machining operations, and how do they affect the trajectory of the tool?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-relative-movements-in-machining-operations-and-how-do-they-affect-the-trajectory-of-the-tool
+related_article5:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
 ---
 
 &nbsp;

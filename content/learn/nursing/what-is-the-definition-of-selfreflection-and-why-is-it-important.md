@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-definition-of-selfreflection-and-why-is-it-important.md
 url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 score: -1.0
+related_article1:
+    id: 169804
+    title: What is the role of introspection in developing self-awareness?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
+related_article2:
+    id: 169817
+    title: How does body language influence interpersonal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
+related_article3:
+    id: 169803
+    title: How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article4:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
+related_article5:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-atp-produced-in-the-mitochondria.md
 url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
 score: -1.0
+related_article1:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article2:
+    id: 170359
+    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article3:
+    id: 170362
+    title: How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article4:
+    id: 170373
+    title: How do stomata regulate gas exchange in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+related_article5:
+    id: 170360
+    title: What is the role of chloroplasts in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
 ---
 
 &nbsp;

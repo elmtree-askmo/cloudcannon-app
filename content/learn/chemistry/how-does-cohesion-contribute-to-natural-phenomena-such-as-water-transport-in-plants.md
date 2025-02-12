@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants.md
 url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
 score: -1.0
+related_article1:
+    id: 167442
+    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+related_article2:
+    id: 167434
+    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+related_article3:
+    id: 167434
+    title: Why is water considered an excellent solvent for polar molecules and ionic compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-polar-molecules-and-ionic-compounds
+related_article4:
+    id: 167432
+    title: How does the surface tension of water compare to that of other liquids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
+related_article5:
+    id: 167430
+    title: Describe the role of adhesion in plant transport systems.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
 ---
 
 &nbsp;

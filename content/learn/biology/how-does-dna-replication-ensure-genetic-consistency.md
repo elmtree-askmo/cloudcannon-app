@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-dna-replication-ensure-genetic-consistency.md
 url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 score: -1.0
+related_article1:
+    id: 167827
+    title: What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article2:
+    id: 167822
+    title: What are the basic structural components of prokaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+related_article3:
+    id: 167825
+    title: What are the main sources of genetic variation?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
+related_article4:
+    id: 167821
+    title: How do amino acids determine protein structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-amino-acids-determine-protein-structure-and-function
+related_article5:
+    id: 167814
+    title: What is the significance of the double helix structure of DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 ---
 
 &nbsp;

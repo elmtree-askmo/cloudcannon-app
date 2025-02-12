@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-diffusion-process-and-its-role-in-gas-exchange.md
 url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 score: -1.0
+related_article1:
+    id: 168805
+    title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
+related_article2:
+    id: 168808
+    title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+    subject: Biology
+    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
+related_article3:
+    id: 168807
+    title: Describe the structure and function of the tracheal system in insects, including tracheae, tracheoles, and spiracles.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-tracheal-system-in-insects-including-tracheae-tracheoles-and-spiracles
+related_article4:
+    id: 168802
+    title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+    subject: Biology
+    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
+related_article5:
+    id: 168802
+    title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+    subject: Biology
+    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
 ---
 
 &nbsp;

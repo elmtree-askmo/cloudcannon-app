@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice.md
 url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
 score: -1.0
+related_article1:
+    id: 169613
+    title: What is the role of the NMC in the approval and monitoring of nursing education programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs
+related_article2:
+    id: 169621
+    title: How can nurses maintain professional boundaries on social media?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-maintain-professional-boundaries-on-social-media
+related_article3:
+    id: 169627
+    title: How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article4:
+    id: 169627
+    title: How does engaging in reflective practice benefit a nurse's professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
+related_article5:
+    id: 169619
+    title: Why is maintaining personal health important for nurses in their professional practice?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 ---
 
 &nbsp;

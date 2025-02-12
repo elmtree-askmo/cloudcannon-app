@@ -21,6 +21,31 @@ subject: Biology
 file_name: compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells.md
 url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
 score: -1.0
+related_article1:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article2:
+    id: 166869
+    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+related_article3:
+    id: 166869
+    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+related_article4:
+    id: 166873
+    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+related_article5:
+    id: 166874
+    title: Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
 ---
 
 &nbsp;

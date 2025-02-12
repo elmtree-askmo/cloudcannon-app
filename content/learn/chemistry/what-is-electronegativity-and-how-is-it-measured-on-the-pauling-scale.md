@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale.md
 url: /learn/chemistry/questions/what-is-electronegativity-and-how-is-it-measured-on-the-pauling-scale
 score: -1.0
+related_article1:
+    id: 167567
+    title: Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
+related_article2:
+    id: 167563
+    title: Explain the difference between covalent and ionic bonds.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-difference-between-covalent-and-ionic-bonds
+related_article3:
+    id: 167558
+    title: List the common elements found in living organisms and compare them with those in the non-living world.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
+related_article4:
+    id: 167569
+    title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
+related_article5:
+    id: 167567
+    title: Define functional groups and explain their importance in macromolecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
 ---
 
 &nbsp;

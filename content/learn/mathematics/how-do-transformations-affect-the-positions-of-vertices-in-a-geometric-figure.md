@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure.md
 url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162313
+    title: Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article2:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article3:
+    id: 162325
+    title: How does the center of rotation affect the outcome of a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+related_article4:
+    id: 162228
+    title: How do you interpret changes in coordinates when a figure is translated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
+related_article5:
+    id: 162222
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 ---
 
 &nbsp;

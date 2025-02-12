@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid.md
 url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 score: -1.0
+related_article1:
+    id: 166961
+    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+related_article2:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article3:
+    id: 166968
+    title: What is the difference between essential and non-essential amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article4:
+    id: 166959
+    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+related_article5:
+    id: 166961
+    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 ---
 
 &nbsp;

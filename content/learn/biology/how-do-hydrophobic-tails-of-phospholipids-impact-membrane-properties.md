@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties.md
 url: /learn/biology/questions/how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties
 score: -1.0
+related_article1:
+    id: 167555
+    title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
+related_article2:
+    id: 167556
+    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+related_article3:
+    id: 167547
+    title: How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article4:
+    id: 167539
+    title: What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+related_article5:
+    id: 167556
+    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 ---
 
 &nbsp;

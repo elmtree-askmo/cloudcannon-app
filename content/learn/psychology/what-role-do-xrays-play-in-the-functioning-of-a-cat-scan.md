@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-xrays-play-in-the-functioning-of-a-cat-scan.md
 url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
 score: -1.0
+related_article1:
+    id: 164348
+    title: Describe the process of patient preparation for an MRI scan.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
+related_article2:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article3:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article4:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article5:
+    id: 164345
+    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
 ---
 
 &nbsp;

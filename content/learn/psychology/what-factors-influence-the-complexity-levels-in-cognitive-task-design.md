@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-influence-the-complexity-levels-in-cognitive-task-design.md
 url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
 score: -1.0
+related_article1:
+    id: 165235
+    title: How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article2:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article3:
+    id: 165242
+    title: How is visual perception studied through task design and data collection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
+related_article4:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article5:
+    id: 165239
+    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 ---
 
 &nbsp;

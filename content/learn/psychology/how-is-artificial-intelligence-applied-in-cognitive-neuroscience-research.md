@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research.md
 url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
 score: -1.0
+related_article1:
+    id: 164691
+    title: What are the common types of brain injuries and their rehabilitation techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
+related_article2:
+    id: 164692
+    title: How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article3:
+    id: 164677
+    title: How does language processing relate to cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+related_article4:
+    id: 164683
+    title: What role do subconscious processes play in influencing behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+related_article5:
+    id: 164693
+    title: What factors contribute to cognitive aging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome.md
 url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
 score: -1.0
+related_article1:
+    id: 167861
+    title: How does chromosomal crossover contribute to genetic diversity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
+related_article2:
+    id: 167855
+    title: What is the significance of transmission genetics in breeding programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-transmission-genetics-in-breeding-programs
+related_article3:
+    id: 167854
+    title: How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
+related_article4:
+    id: 167865
+    title: Why is accurate DNA replication crucial for genetic stability?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+related_article5:
+    id: 167867
+    title: What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
 ---
 
 &nbsp;

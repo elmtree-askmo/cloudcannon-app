@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-a-reflection-impact-the-coordinates-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-a-reflection-impact-the-coordinates-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162891
+    title: In what way does a reflection affect the distance between points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/in-what-way-does-a-reflection-affect-the-distance-between-points
+related_article2:
+    id: 162912
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article3:
+    id: 162625
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article4:
+    id: 162907
+    title: Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article5:
+    id: 162888
+    title: What is the line of reflection in a reflection transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 ---
 
 &nbsp;

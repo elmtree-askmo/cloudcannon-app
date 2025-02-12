@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action.md
 url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
 score: -1.0
+related_article1:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article2:
+    id: 169047
+    title: How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
+related_article3:
+    id: 169045
+    title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
+related_article4:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article5:
+    id: 169047
+    title: How does the choice of space for demonstrations affect the creation of public space?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
 ---
 
 &nbsp;

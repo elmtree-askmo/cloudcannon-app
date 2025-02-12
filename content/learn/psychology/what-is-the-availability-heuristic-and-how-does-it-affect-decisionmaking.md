@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking.md
 url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
 score: -1.0
+related_article1:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+related_article2:
+    id: 168879
+    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+related_article3:
+    id: 168887
+    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+related_article4:
+    id: 168882
+    title: Under what conditions can expert intuition be considered trustworthy?
+    subject: Psychology
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 ---
 
 &nbsp;

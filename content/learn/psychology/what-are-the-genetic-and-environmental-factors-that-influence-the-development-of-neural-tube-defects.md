@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects.md
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
 score: -1.0
+related_article1:
+    id: 164567
+    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article2:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+related_article3:
+    id: 164585
+    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
+related_article4:
+    id: 164567
+    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article5:
+    id: 164574
+    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
 ---
 
 &nbsp;

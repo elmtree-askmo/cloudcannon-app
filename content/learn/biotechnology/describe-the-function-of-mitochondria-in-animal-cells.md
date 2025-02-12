@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: describe-the-function-of-mitochondria-in-animal-cells.md
 url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
 score: -1.0
+related_article1:
+    id: 170311
+    title: What role does the nucleolus play within the nucleus of an animal cell?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+related_article2:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article3:
+    id: 170316
+    title: Outline the main steps of glycolysis in cellular respiration.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
+related_article4:
+    id: 170321
+    title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
+related_article5:
+    id: 170313
+    title: What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
 ---
 
 &nbsp;

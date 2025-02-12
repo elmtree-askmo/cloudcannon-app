@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-characteristics-of-exponential-functions.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 score: -1.0
+related_article1:
+    id: 163735
+    title: What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article2:
+    id: 163732
+    title: How do you graph a piecewise function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+related_article3:
+    id: 163733
+    title: Explain the process of solving quadratic equations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-solving-quadratic-equations
+related_article4:
+    id: 163735
+    title: What is the significance of intercepts and vertex in graphing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
+related_article5:
+    id: 163737
+    title: Compare the graphs of linear and non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
 ---
 
 &nbsp;

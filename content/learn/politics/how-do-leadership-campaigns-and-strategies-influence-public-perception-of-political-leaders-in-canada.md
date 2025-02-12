@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada.md
 url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
 score: -1.0
+related_article1:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+related_article2:
+    id: 165635
+    title: How do economic and social policies interconnect in political dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
+related_article3:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article4:
+    id: 165617
+    title: What are the main differences between majority rule and most votes in an electoral system?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+related_article5:
+    id: 165626
+    title: How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 ---
 
 &nbsp;

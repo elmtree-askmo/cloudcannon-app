@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development.md
 url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
 score: -1.0
+related_article1:
+    id: 167983
+    title: What is the role of beliefs in predicting behavior in social settings?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
+related_article2:
+    id: 167975
+    title: How does play contribute to social cognition development in children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+related_article3:
+    id: 167981
+    title: What are some key theories and models in developmental psychology related to social cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
+related_article4:
+    id: 167970
+    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+related_article5:
+    id: 167971
+    title: At what age range does Theory of Mind typically develop in children, and what factors influence its development?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
 ---
 
 &nbsp;

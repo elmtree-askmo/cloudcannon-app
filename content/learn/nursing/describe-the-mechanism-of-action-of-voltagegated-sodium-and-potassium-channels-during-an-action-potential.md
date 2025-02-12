@@ -21,6 +21,31 @@ subject: Nursing
 file_name: describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential.md
 url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
 score: -1.0
+related_article1:
+    id: 170599
+    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+related_article2:
+    id: 170616
+    title: How do calcium ions influence intracellular signaling pathways in neurons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
+related_article3:
+    id: 170601
+    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article4:
+    id: 170617
+    title: What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article5:
+    id: 170600
+    title: What is the difference between the absolute and relative refractory periods in action potential propagation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
 ---
 
 &nbsp;

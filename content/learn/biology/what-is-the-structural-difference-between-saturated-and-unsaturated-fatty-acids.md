@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structural-difference-between-saturated-and-unsaturated-fatty-acids.md
 url: /learn/biology/questions/what-is-the-structural-difference-between-saturated-and-unsaturated-fatty-acids
 score: -1.0
+related_article1:
+    id: 167340
+    title: How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article2:
+    id: 167336
+    title: Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article3:
+    id: 167340
+    title: How do lipids contribute to membrane structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
+related_article4:
+    id: 167329
+    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+related_article5:
+    id: 167336
+    title: Explain the amphipathic nature of phospholipids and its significance.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 ---
 
 &nbsp;

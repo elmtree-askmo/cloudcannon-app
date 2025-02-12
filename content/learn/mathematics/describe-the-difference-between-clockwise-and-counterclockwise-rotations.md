@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-difference-between-clockwise-and-counterclockwise-rotations.md
 url: /learn/mathematics/questions/describe-the-difference-between-clockwise-and-counterclockwise-rotations
 score: -1.0
+related_article1:
+    id: 162149
+    title: What is the similarity between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-similarity-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
+related_article2:
+    id: 162139
+    title: What is the definition of a coordinate plane and what are its main components?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-coordinate-plane-and-what-are-its-main-components
+related_article3:
+    id: 162080
+    title: Explain the process of a 270 degrees clockwise rotation and its effect on coordinates.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-process-of-a-270-degrees-clockwise-rotation-and-its-effect-on-coordinates
+related_article4:
+    id: 162138
+    title: How does a translation differ from a reflection in terms of movement on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-translation-differ-from-a-reflection-in-terms-of-movement-on-the-coordinate-plane
+related_article5:
+    id: 162147
+    title: How does a 270 degrees counterclockwise rotation affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-270-degrees-counterclockwise-rotation-affect-the-coordinates-of-a-point
 ---
 
 &nbsp;

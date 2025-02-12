@@ -21,6 +21,26 @@ subject: Biology
 file_name: what-factors-can-affect-an-organisms-metabolic-rate.md
 url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
 score: -1.0
+related_article1:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+related_article2:
+    id: 170927
+    title: Describe the process of light absorption in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
+related_article3:
+    id: 170935
+    title: What is the role of the Krebs cycle in sugar breakdown?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+related_article4:
+    id: 170936
+    title: How are carbon dioxide and water produced as byproducts of respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 ---
 
 &nbsp;

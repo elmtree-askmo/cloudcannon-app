@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities.md
 url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
 score: -1.0
+related_article1:
+    id: 162917
+    title: How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article2:
+    id: 162933
+    title: How does military doctrine address the challenges of urban complexity in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
+related_article3:
+    id: 162930
+    title: What are the effects of urban density on urban complexity and morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
+related_article4:
+    id: 162926
+    title: What challenges do megacities face in terms of urban complexity and military doctrine?
+    subject: Sociology
+    url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
+related_article5:
+    id: 162924
+    title: What is the significance of spatial intelligence in volumetric warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 ---
 
 &nbsp;

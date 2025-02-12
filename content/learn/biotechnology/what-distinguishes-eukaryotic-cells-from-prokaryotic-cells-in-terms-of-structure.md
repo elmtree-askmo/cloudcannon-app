@@ -21,6 +21,26 @@ subject: Biotechnology
 file_name: what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure.md
 url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
 score: -1.0
+related_article1:
+    id: 166186
+    title: What are the main differences between the domains Bacteria, Archaea, and Eukarya?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
+related_article2:
+    id: 166187
+    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+related_article3:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
+related_article4:
+    id: 166191
+    title: List examples of organelles found in eukaryotic cells and their functions.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument.md
 url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
 score: -1.0
+related_article1:
+    id: 170221
+    title: How can counter-examples be used to demonstrate the invalidity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-counterexamples-be-used-to-demonstrate-the-invalidity-of-an-argument
+related_article2:
+    id: 170224
+    title: How does deduction contribute to determining the validity of an argument?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
+related_article3:
+    id: 170233
+    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article4:
+    id: 170233
+    title: What is hypothetical syllogism, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-hypothetical-syllogism-and-how-is-it-applied-in-logical-reasoning
+related_article5:
+    id: 170228
+    title: Describe the addition rule in inference and its application in logical arguments.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
 ---
 
 &nbsp;

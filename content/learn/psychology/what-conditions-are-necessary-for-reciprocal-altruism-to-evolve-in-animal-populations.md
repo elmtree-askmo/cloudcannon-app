@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations.md
 url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 score: -1.0
+related_article1:
+    id: 170923
+    title: Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article2:
+    id: 170922
+    title: What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
+related_article3:
+    id: 170925
+    title: What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article4:
+    id: 170919
+    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
+related_article5:
+    id: 170911
+    title: Define inclusive fitness and explain its components.
+    subject: Psychology
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 ---
 
 &nbsp;

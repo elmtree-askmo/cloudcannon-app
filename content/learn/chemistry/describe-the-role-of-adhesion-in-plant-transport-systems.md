@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: describe-the-role-of-adhesion-in-plant-transport-systems.md
 url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
 score: -1.0
+related_article1:
+    id: 167437
+    title: How does the specific heat of water contribute to environmental temperature stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
+related_article2:
+    id: 167438
+    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
+related_article3:
+    id: 167428
+    title: How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article4:
+    id: 167426
+    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+related_article5:
+    id: 167431
+    title: What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
 ---
 
 &nbsp;

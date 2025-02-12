@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans.md
 url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
 score: -1.0
+related_article1:
+    id: 169472
+    title: What immediate actions should be taken in response to signs of patient deterioration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
+related_article2:
+    id: 169465
+    title: How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+related_article3:
+    id: 169462
+    title: What are the key techniques used in airway management to prevent obstruction?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
+related_article4:
+    id: 169466
+    title: Why is a full body examination important in exposure assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+related_article5:
+    id: 169467
+    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
 ---
 
 &nbsp;

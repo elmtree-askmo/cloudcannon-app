@@ -21,6 +21,21 @@ subject: Nursing
 file_name: how-are-controlled-substances-categorized-based-on-their-potential-for-abuse.md
 url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 score: -1.0
+related_article1:
+    id: 166445
+    title: Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article2:
+    id: 166442
+    title: Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article3:
+    id: 166443
+    title: What is the mechanism of action for common anti-inflammatory drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
 ---
 
 &nbsp;

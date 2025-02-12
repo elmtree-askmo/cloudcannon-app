@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres.md
 url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
 score: -1.0
+related_article1:
+    id: 164894
+    title: Which brain regions are primarily involved in language processing, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+related_article2:
+    id: 164890
+    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article3:
+    id: 164892
+    title: What role does Broca's area play in language production, and what are the effects of its damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
+related_article4:
+    id: 164891
+    title: What are the primary functions of EEG and ERP in measuring brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
+related_article5:
+    id: 164889
+    title: What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
 ---
 
 &nbsp;

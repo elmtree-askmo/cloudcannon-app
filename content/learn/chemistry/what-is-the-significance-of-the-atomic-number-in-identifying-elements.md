@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-significance-of-the-atomic-number-in-identifying-elements.md
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
 score: -1.0
+related_article1:
+    id: 167281
+    title: How do protons, neutrons, and electrons contribute to the structure of an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
+related_article2:
+    id: 167288
+    title: What is electronegativity and how does it influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+related_article3:
+    id: 167282
+    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
+related_article4:
+    id: 167290
+    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article5:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
 ---
 
 &nbsp;

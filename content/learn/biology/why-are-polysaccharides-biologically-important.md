@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-are-polysaccharides-biologically-important.md
 url: /learn/biology/questions/why-are-polysaccharides-biologically-important
 score: -1.0
+related_article1:
+    id: 167023
+    title: What are the structural variations found in polysaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
+related_article2:
+    id: 167029
+    title: How do carbohydrates participate in cellular communication?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
+related_article3:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article4:
+    id: 167026
+    title: What role does starch play in plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+related_article5:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
 ---
 
 &nbsp;

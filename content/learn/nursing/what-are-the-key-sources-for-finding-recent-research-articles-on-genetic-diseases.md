@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases.md
 url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
 score: -1.0
+related_article1:
+    id: 167859
+    title: Describe the structure of a chromosome and its components.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
+related_article2:
+    id: 167860
+    title: What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article3:
+    id: 167866
+    title: How do alleles contribute to genetic variation within a population?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
+related_article4:
+    id: 167860
+    title: What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article5:
+    id: 167868
+    title: How do haploid and diploid cells differ in terms of their role in reproduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
 ---
 
 &nbsp;

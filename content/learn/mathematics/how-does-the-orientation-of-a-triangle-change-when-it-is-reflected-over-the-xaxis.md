@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis.md
 url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
 score: -1.0
+related_article1:
+    id: 163851
+    title: How does a reflection over the Y-axis affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
+related_article2:
+    id: 163858
+    title: What is the defining property of a circle in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-defining-property-of-a-circle-in-geometry
+related_article3:
+    id: 163855
+    title: What is the line of symmetry for a figure that is symmetric about the Y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-line-of-symmetry-for-a-figure-that-is-symmetric-about-the-yaxis
+related_article4:
+    id: 163857
+    title: What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article5:
+    id: 163851
+    title: How does a reflection over the Y-axis affect the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-yaxis-affect-the-coordinates-of-a-point
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples.md
 url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
 score: -1.0
+related_article1:
+    id: 164903
+    title: What is inhibitory control, and why is it important in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
+related_article2:
+    id: 164900
+    title: What are the key components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article3:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article4:
+    id: 164919
+    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
+related_article5:
+    id: 164906
+    title: Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 ---
 
 &nbsp;

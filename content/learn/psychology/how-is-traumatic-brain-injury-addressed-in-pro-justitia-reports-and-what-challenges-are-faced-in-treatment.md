@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment.md
 url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
 score: -1.0
+related_article1:
+    id: 164041
+    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+related_article2:
+    id: 164050
+    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
+related_article3:
+    id: 164039
+    title: What is the role of forensic assessment in Dutch criminal law?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+related_article4:
+    id: 164045
+    title: What is the relationship between the amygdala and empathy in the context of psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
+related_article5:
+    id: 164052
+    title: How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 ---
 
 &nbsp;

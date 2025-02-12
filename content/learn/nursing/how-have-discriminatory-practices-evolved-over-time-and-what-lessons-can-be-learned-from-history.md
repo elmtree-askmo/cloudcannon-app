@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history.md
 url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
 score: -1.0
+related_article1:
+    id: 169631
+    title: How does healthcare discrimination impact access to services and quality of care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-healthcare-discrimination-impact-access-to-services-and-quality-of-care
+related_article2:
+    id: 169636
+    title: In what ways does social media amplify or challenge discrimination in society?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
+related_article3:
+    id: 169630
+    title: What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
+related_article4:
+    id: 169631
+    title: How does healthcare discrimination impact access to services and quality of care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-healthcare-discrimination-impact-access-to-services-and-quality-of-care
+related_article5:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
 ---
 
 &nbsp;

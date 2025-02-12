@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-changes-occur-when-reflecting-a-point-across-both-axes.md
 url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
 score: -1.0
+related_article1:
+    id: 162817
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article2:
+    id: 162798
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article3:
+    id: 162707
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article4:
+    id: 162411
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article5:
+    id: 162900
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

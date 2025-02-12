@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-different-types-of-slopes-a-function-can-have.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
 score: -1.0
+related_article1:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article2:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article3:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article4:
+    id: 163820
+    title: How can the average rate of change be interpreted for cube root functions over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
+related_article5:
+    id: 163816
+    title: How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 ---
 
 &nbsp;

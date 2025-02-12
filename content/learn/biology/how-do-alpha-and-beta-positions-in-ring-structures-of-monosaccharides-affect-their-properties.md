@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-alpha-and-beta-positions-in-ring-structures-of-monosaccharides-affect-their-properties.md
 url: /learn/biology/questions/how-do-alpha-and-beta-positions-in-ring-structures-of-monosaccharides-affect-their-properties
 score: -1.0
+related_article1:
+    id: 167300
+    title: How do starch and glycogen function in energy storage for plants and animals, respectively?
+    subject: Biology
+    url: /learn/biology/questions/how-do-starch-and-glycogen-function-in-energy-storage-for-plants-and-animals-respectively
+related_article2:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article3:
+    id: 167297
+    title: What are the key structural differences between linear and circular forms of monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-linear-and-circular-forms-of-monosaccharides
+related_article4:
+    id: 167309
+    title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
+related_article5:
+    id: 167305
+    title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
 ---
 
 &nbsp;

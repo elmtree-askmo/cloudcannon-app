@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-perceptual-learning-contribute-to-object-recognition.md
 url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
 score: -1.0
+related_article1:
+    id: 164297
+    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+related_article2:
+    id: 164304
+    title: How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+related_article3:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article4:
+    id: 164304
+    title: How does auditory memory contribute to language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+related_article5:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 ---
 
 &nbsp;

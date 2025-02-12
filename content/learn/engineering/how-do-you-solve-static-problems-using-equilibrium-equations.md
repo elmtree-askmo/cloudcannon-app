@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-you-solve-static-problems-using-equilibrium-equations.md
 url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
 score: -1.0
+related_article1:
+    id: 166690
+    title: What is the vector representation of displacement in three-dimensional space?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+related_article2:
+    id: 166688
+    title: What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
+related_article3:
+    id: 166680
+    title: How do you apply equilibrium equations to solve for unknown forces?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+related_article4:
+    id: 166680
+    title: How do you apply equilibrium equations to solve for unknown forces?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+related_article5:
+    id: 166688
+    title: What steps are involved in breaking down forces for static analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
 ---
 
 &nbsp;

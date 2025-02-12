@@ -21,6 +21,26 @@ subject: Sociology
 file_name: what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies.md
 url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 score: -1.0
+related_article1:
+    id: 163667
+    title: What are the ethical considerations related to power relations in research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+related_article2:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article3:
+    id: 163672
+    title: How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article4:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 ---
 
 &nbsp;

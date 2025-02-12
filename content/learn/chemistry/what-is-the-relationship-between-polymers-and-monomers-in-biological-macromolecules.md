@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules.md
 url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
 score: -1.0
+related_article1:
+    id: 168314
+    title: What causes the polar nature of a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article2:
+    id: 168319
+    title: How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 168310
+    title: What are the three main subatomic particles in an atom and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+related_article4:
+    id: 168320
+    title: What role do buffer systems play in maintaining homeostasis in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
 ---
 
 &nbsp;

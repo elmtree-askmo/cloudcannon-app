@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity.md
 url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
 score: -1.0
+related_article1:
+    id: 164246
+    title: What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
+related_article2:
+    id: 164248
+    title: What are the primary functions of the visual cortex in visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
+related_article3:
+    id: 164246
+    title: What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
+related_article4:
+    id: 164251
+    title: How does the portable magnification factor impact detail recognition in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-impact-detail-recognition-in-visual-processing
+related_article5:
+    id: 164255
+    title: How do single cell recordings contribute to understanding neural responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
 ---
 
 &nbsp;

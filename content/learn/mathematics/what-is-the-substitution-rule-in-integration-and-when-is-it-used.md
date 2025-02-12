@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-substitution-rule-in-integration-and-when-is-it-used.md
 url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 score: -1.0
+related_article1:
+    id: 168339
+    title: Differentiate between scalar fields and vector fields with examples.
+    subject: Mathematics
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article2:
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+related_article3:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article4:
+    id: 168328
+    title: Explain the concept of one-sided limits and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
+related_article5:
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
 ---
 
 &nbsp;

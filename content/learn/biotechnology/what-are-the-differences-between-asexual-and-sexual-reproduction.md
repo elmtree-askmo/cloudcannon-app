@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-differences-between-asexual-and-sexual-reproduction.md
 url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
 score: -1.0
+related_article1:
+    id: 167591
+    title: Why is homeostasis important for living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+related_article2:
+    id: 167595
+    title: What are the primary sources of biological energy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+related_article3:
+    id: 167588
+    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+related_article4:
+    id: 167594
+    title: How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article5:
+    id: 167599
+    title: How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
 ---
 
 &nbsp;

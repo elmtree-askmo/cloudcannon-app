@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design.md
 url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
 score: -1.0
+related_article1:
+    id: 169399
+    title: What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+related_article2:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+related_article3:
+    id: 169410
+    title: How can architecture serve as a community icon and contribute to community revitalization?
+    subject: Architecture
+    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+related_article4:
+    id: 169401
+    title: In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article5:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-reaction-times-relate-to-vigilance-in-attention-tasks.md
 url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 score: -1.0
+related_article1:
+    id: 164754
+    title: What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
+related_article2:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article3:
+    id: 164764
+    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article4:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article5:
+    id: 164771
+    title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
 ---
 
 &nbsp;

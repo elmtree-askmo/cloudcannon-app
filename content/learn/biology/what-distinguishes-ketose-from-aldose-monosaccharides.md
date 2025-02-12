@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-ketose-from-aldose-monosaccharides.md
 url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
 score: -1.0
+related_article1:
+    id: 167310
+    title: What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
+related_article2:
+    id: 167302
+    title: How do oligosaccharides contribute to cell identity and blood typing?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oligosaccharides-contribute-to-cell-identity-and-blood-typing
+related_article3:
+    id: 167295
+    title: What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article4:
+    id: 167301
+    title: What is the role of cellulose in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cellulose-in-plant-cell-walls
+related_article5:
+    id: 167296
+    title: How does hydrolysis contribute to the breakdown of polymers?
+    subject: Biology
+    url: /learn/biology/questions/how-does-hydrolysis-contribute-to-the-breakdown-of-polymers
 ---
 
 &nbsp;

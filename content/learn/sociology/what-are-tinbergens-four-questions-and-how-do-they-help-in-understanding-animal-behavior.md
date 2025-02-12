@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior.md
 url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
+related_article1:
+    id: 166341
+    title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article2:
+    id: 166343
+    title: Describe the difference between associative and non-associative learning in animals.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
+related_article3:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article4:
+    id: 166350
+    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article5:
+    id: 166346
+    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 ---
 
 &nbsp;

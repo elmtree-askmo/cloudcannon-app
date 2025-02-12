@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-triglycerides-differ-from-phospholipids-in-structure-and-function.md
 url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
 score: -1.0
+related_article1:
+    id: 167642
+    title: What is the role of hydrogen bonding in the secondary structure of DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
+related_article2:
+    id: 167639
+    title: Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+related_article3:
+    id: 167648
+    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
+related_article4:
+    id: 167635
+    title: How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
+related_article5:
+    id: 167644
+    title: What distinguishes saturated fatty acids from unsaturated fatty acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-saturated-fatty-acids-from-unsaturated-fatty-acids
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure.md
 url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
 score: -1.0
+related_article1:
+    id: 164134
+    title: How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article2:
+    id: 164139
+    title: According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+related_article3:
+    id: 164143
+    title: How does love withdrawal use emotional manipulation in parenting?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+related_article4:
+    id: 164148
+    title: How do educational settings utilize peer interaction to enhance moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-educational-settings-utilize-peer-interaction-to-enhance-moral-development
+related_article5:
+    id: 164137
+    title: What role does power assertion play in parenting, and how does it impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
 ---
 
 &nbsp;

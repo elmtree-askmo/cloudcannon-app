@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter.md
 url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 score: -1.0
+related_article1:
+    id: 166810
+    title: What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article2:
+    id: 166805
+    title: Explain the octet rule and its significance in chemical stability.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
+related_article3:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+related_article4:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article5:
+    id: 166802
+    title: What is the charge of an electron and where are they located in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
 ---
 
 &nbsp;

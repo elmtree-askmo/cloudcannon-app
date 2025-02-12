@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing.md
 url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 score: -1.0
+related_article1:
+    id: 169487
+    title: What are the benefits of encouraging patient independence during recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
+related_article2:
+    id: 169484
+    title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
+related_article3:
+    id: 169478
+    title: How does respecting patient autonomy contribute to patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article4:
+    id: 169477
+    title: Why is effective communication crucial in addressing patient needs?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+related_article5:
+    id: 169485
+    title: What are effective communication strategies for building rapport with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
 ---
 
 &nbsp;

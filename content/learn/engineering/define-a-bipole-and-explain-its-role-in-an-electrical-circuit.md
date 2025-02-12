@@ -21,6 +21,31 @@ subject: Engineering
 file_name: define-a-bipole-and-explain-its-role-in-an-electrical-circuit.md
 url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
 score: -1.0
+related_article1:
+    id: 169844
+    title: How do Kirchhoff's laws apply to the analysis of DC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+related_article2:
+    id: 169859
+    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article3:
+    id: 169862
+    title: What is the difference between active and reactive power in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
+related_article4:
+    id: 169856
+    title: How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
+related_article5:
+    id: 169854
+    title: How is power factor correction achieved in electrical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 ---
 
 &nbsp;

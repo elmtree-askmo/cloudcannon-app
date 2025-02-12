@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-transformation-in-geometry.md
 url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 score: -1.0
+related_article1:
+    id: 162636
+    title: What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article2:
+    id: 162707
+    title: How are reflections used in geometric proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+related_article3:
+    id: 162766
+    title: What is orientation reversal in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+related_article4:
+    id: 162631
+    title: What changes occur to the coordinates of a point when it is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
+related_article5:
+    id: 162913
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

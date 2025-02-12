@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-cultural-awareness-impact-patient-care.md
 url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
 score: -1.0
+related_article1:
+    id: 169816
+    title: What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article2:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+related_article3:
+    id: 169820
+    title: What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article4:
+    id: 169819
+    title: How does self-awareness affect decision-making processes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-selfawareness-affect-decisionmaking-processes
+related_article5:
+    id: 169812
+    title: What are effective ways to receive and respond to feedback for personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
 ---
 
 &nbsp;

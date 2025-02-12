@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development.md
 url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
 score: -1.0
+related_article1:
+    id: 164149
+    title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
+related_article2:
+    id: 164134
+    title: How do equality and negotiation in peer relationships contribute to moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+related_article3:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+related_article4:
+    id: 164150
+    title: What are the potential emotional consequences of overemphasizing control in parental influence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
+related_article5:
+    id: 164149
+    title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
 ---
 
 &nbsp;

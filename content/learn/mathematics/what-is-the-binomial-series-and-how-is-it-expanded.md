@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-binomial-series-and-how-is-it-expanded.md
 url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
 score: -1.0
+related_article1:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article2:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article3:
+    id: 170754
+    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article4:
+    id: 170753
+    title: What are the properties of the natural logarithm of a factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+related_article5:
+    id: 170746
+    title: What is the significance of implication statements in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
 ---
 
 &nbsp;

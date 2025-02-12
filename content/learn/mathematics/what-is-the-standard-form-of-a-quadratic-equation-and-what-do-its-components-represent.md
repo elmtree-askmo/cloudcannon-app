@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent.md
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-what-do-its-components-represent
 score: -1.0
+related_article1:
+    id: 163743
+    title: How does the leading coefficient affect the shape and direction of a parabola?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
+related_article2:
+    id: 163754
+    title: How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
+related_article3:
+    id: 163762
+    title: How can you write a quadratic equation from contextual information using given points and the vertex?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-contextual-information-using-given-points-and-the-vertex
+related_article4:
+    id: 163757
+    title: Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
+related_article5:
+    id: 163757
+    title: Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
 ---
 
 &nbsp;

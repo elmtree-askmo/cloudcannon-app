@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-blindsight-and-how-is-it-demonstrated-experimentally.md
 url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 score: -1.0
+related_article1:
+    id: 164655
+    title: How does the fovea contribute to the portable magnification factor?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
+related_article2:
+    id: 164646
+    title: What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article3:
+    id: 164646
+    title: What is the role of the nose in the organization of visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+related_article4:
+    id: 164647
+    title: How does damage to the occipital lobe affect visual pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
+related_article5:
+    id: 164653
+    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 ---
 
 &nbsp;

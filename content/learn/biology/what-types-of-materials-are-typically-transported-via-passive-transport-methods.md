@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-types-of-materials-are-typically-transported-via-passive-transport-methods.md
 url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
 score: -1.0
+related_article1:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article2:
+    id: 167184
+    title: In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article3:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article4:
+    id: 167186
+    title: How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article5:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 ---
 
 &nbsp;

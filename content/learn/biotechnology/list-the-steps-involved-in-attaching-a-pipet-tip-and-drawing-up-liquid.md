@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid.md
 url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
 score: -1.0
+related_article1:
+    id: 165381
+    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article2:
+    id: 165375
+    title: How do you ensure compatibility between pipet tips and pipets?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-you-ensure-compatibility-between-pipet-tips-and-pipets
+related_article3:
+    id: 165383
+    title: What steps should be taken to identify and repair pipet malfunctions?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
+related_article4:
+    id: 165381
+    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+related_article5:
+    id: 165365
+    title: Describe the proper procedure for setting the volume on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
 ---
 
 &nbsp;

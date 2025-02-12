@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-process-of-binary-fission-in-bacterial-reproduction.md
 url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
 score: -1.0
+related_article1:
+    id: 168681
+    title: What are the main characteristics that distinguish the Domain Archaea from other domains?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
+related_article2:
+    id: 168685
+    title: How do heterotrophic bacteria obtain their nutrients?
+    subject: Biology
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
+related_article3:
+    id: 168696
+    title: What are the reproductive structures found in Phylum Basidiomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
+related_article4:
+    id: 168688
+    title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
+related_article5:
+    id: 168681
+    title: What are the main characteristics that distinguish the Domain Archaea from other domains?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
 ---
 
 &nbsp;

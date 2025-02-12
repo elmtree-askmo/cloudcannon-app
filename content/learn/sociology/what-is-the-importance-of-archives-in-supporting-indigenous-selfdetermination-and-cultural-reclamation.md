@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation.md
 url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 score: -1.0
+related_article1:
+    id: 169164
+    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article2:
+    id: 169170
+    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
+related_article3:
+    id: 169153
+    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+related_article4:
+    id: 169170
+    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
+related_article5:
+    id: 169154
+    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
 ---
 
 &nbsp;

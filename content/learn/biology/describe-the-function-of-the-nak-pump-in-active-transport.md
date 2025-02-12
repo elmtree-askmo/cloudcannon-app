@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-function-of-the-nak-pump-in-active-transport.md
 url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
 score: -1.0
+related_article1:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article2:
+    id: 167159
+    title: Explain the energy requirement for active transport and how it differs from passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
+related_article3:
+    id: 167165
+    title: Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+related_article4:
+    id: 167168
+    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+related_article5:
+    id: 167165
+    title: Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 ---
 
 &nbsp;

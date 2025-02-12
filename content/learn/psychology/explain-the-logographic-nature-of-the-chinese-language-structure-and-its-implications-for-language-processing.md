@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing.md
 url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
 score: -1.0
+related_article1:
+    id: 164970
+    title: Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article2:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article3:
+    id: 164970
+    title: Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article4:
+    id: 164957
+    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+related_article5:
+    id: 164968
+    title: What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented.md
 url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 score: -1.0
+related_article1:
+    id: 164067
+    title: What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article2:
+    id: 164065
+    title: What are the primary techniques and tools used in biofeedback therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+related_article3:
+    id: 164060
+    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article4:
+    id: 164068
+    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article5:
+    id: 164058
+    title: Describe the age crime curve and discuss the factors that influence its development.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
 ---
 
 &nbsp;

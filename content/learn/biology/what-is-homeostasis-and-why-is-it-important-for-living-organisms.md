@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-homeostasis-and-why-is-it-important-for-living-organisms.md
 url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
 score: -1.0
+related_article1:
+    id: 167505
+    title: How do you formulate a research question in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
+related_article2:
+    id: 167511
+    title: How do living organisms acquire energy and what role does metabolism play?
+    subject: Biology
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
+related_article3:
+    id: 167514
+    title: How do organisms respond to stimuli and why is this response important?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+related_article4:
+    id: 167506
+    title: What are the key characteristics of a testable hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
+related_article5:
+    id: 167504
+    title: What is the role of observation in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 ---
 
 &nbsp;

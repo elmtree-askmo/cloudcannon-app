@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings.md
 url: /learn/nursing/questions/what-strategies-can-be-employed-to-recognize-and-challenge-insidious-discrimination-in-healthcare-settings
 score: -1.0
+related_article1:
+    id: 169630
+    title: What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
+related_article2:
+    id: 169634
+    title: How does discrimination affect mental health and overall well-being of individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-discrimination-affect-mental-health-and-overall-wellbeing-of-individuals
+related_article3:
+    id: 169638
+    title: How have discriminatory practices evolved over time and what lessons can be learned from history?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-discriminatory-practices-evolved-over-time-and-what-lessons-can-be-learned-from-history
+related_article4:
+    id: 169629
+    title: How do stereotypes form and what impact do they have on individual perception?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
+related_article5:
+    id: 169640
+    title: What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
 ---
 
 &nbsp;

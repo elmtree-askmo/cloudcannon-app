@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-homologous-and-analogous-structures-with-examples.md
 url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
 score: -1.0
+related_article1:
+    id: 167725
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article2:
+    id: 167726
+    title: What role does genetic variation play in the evolution of populations?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
+related_article3:
+    id: 167740
+    title: How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article4:
+    id: 167737
+    title: Describe the three-domain system and its significance in classifying life forms.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
+related_article5:
+    id: 167736
+    title: What is horizontal gene transfer and how does it impact evolutionary processes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-horizontal-gene-transfer-and-how-does-it-impact-evolutionary-processes
 ---
 
 &nbsp;

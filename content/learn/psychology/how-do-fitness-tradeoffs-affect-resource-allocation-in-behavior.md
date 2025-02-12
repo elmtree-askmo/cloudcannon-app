@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior.md
 url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
 score: -1.0
+related_article1:
+    id: 170882
+    title: What challenges are associated with measuring quantitative traits in behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
+related_article2:
+    id: 170890
+    title: How does energy expenditure relate to behavioral traits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
+related_article3:
+    id: 170892
+    title: How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article4:
+    id: 170884
+    title: What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article5:
+    id: 170884
+    title: What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
 ---
 
 &nbsp;

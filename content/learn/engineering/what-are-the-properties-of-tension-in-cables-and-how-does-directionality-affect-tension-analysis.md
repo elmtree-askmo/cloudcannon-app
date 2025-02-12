@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis.md
 url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
 score: -1.0
+related_article1:
+    id: 166662
+    title: How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
+related_article2:
+    id: 166652
+    title: How do consulting programs support engineers through networking and community engagement?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+related_article3:
+    id: 166654
+    title: What resources are typically offered by career services to assist engineering students in securing internships?
+    subject: Engineering
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
+related_article4:
+    id: 166661
+    title: What is Hooke's Law, and how does it relate to the characteristics of spring force?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force
+related_article5:
+    id: 166653
+    title: What are the main types of engineering internships available, and how do they differ in focus?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
 ---
 
 &nbsp;

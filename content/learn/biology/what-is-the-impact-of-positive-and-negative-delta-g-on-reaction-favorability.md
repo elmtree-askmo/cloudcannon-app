@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability.md
 url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
 score: -1.0
+related_article1:
+    id: 170986
+    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article2:
+    id: 170981
+    title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
+related_article3:
+    id: 170974
+    title: What is the difference between favorable and unfavorable reactions in energy conversions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
+related_article4:
+    id: 170976
+    title: What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+    subject: Biology
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
+related_article5:
+    id: 170987
+    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 ---
 
 &nbsp;

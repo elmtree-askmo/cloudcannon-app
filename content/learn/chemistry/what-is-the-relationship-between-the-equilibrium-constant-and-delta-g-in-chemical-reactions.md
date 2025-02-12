@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions.md
 url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
 score: -1.0
+related_article1:
+    id: 170814
+    title: What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+related_article2:
+    id: 170811
+    title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
+related_article3:
+    id: 170820
+    title: What role do enzymes play in directing molecules through metabolic pathways?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
+related_article4:
+    id: 170813
+    title: How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article5:
+    id: 170812
+    title: What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes.md
 url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
 score: -1.0
+related_article1:
+    id: 170800
+    title: What are the characteristics of a pure strategy in evolutionary games?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+related_article2:
+    id: 170798
+    title: Define a mixed strategy and explain its characteristics in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
+related_article3:
+    id: 170790
+    title: What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+related_article4:
+    id: 170806
+    title: What role does phenotypic variation play in evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article5:
+    id: 170796
+    title: How does the frequency of a strategy impact fitness dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
 ---
 
 &nbsp;

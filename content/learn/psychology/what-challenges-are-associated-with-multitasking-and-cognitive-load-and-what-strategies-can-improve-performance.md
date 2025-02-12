@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance.md
 url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
 score: -1.0
+related_article1:
+    id: 164709
+    title: What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
+related_article2:
+    id: 164705
+    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article3:
+    id: 164705
+    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article4:
+    id: 164697
+    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+related_article5:
+    id: 164704
+    title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 ---
 
 &nbsp;

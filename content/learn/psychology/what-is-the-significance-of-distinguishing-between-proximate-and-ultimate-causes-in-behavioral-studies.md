@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies.md
 url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
 score: -1.0
+related_article1:
+    id: 165299
+    title: Identify and describe the sources of genetic variation.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
+related_article2:
+    id: 165307
+    title: How does behavioral selection influence animal populations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+related_article3:
+    id: 165309
+    title: What is the role of phylogenetic analysis in understanding evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+related_article4:
+    id: 165293
+    title: What role does individual learning play in the development of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+related_article5:
+    id: 165297
+    title: Define fitness in the context of natural selection and explain its importance.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 ---
 
 &nbsp;

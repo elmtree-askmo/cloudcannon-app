@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution.md
 url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
 score: -1.0
+related_article1:
+    id: 167581
+    title: What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+related_article2:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+related_article3:
+    id: 167578
+    title: What is the function of buffers in maintaining pH stability in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
+related_article4:
+    id: 167576
+    title: How does the pH scale measure the acidity or basicity of a solution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
+related_article5:
+    id: 167579
+    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application.md
 url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
 score: -1.0
+related_article1:
+    id: 169326
+    title: What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article2:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article3:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+related_article4:
+    id: 169326
+    title: What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+related_article5:
+    id: 169319
+    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
 ---
 
 &nbsp;

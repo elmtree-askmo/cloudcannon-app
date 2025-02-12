@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-zoonosis-affect-epidemiology.md
 url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 score: -1.0
+related_article1:
+    id: 165811
+    title: What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article2:
+    id: 165811
+    title: What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article3:
+    id: 165814
+    title: What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article4:
+    id: 165816
+    title: What are the defense mechanisms employed by hosts against pathogens?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+related_article5:
+    id: 165808
+    title: Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
 ---
 
 &nbsp;

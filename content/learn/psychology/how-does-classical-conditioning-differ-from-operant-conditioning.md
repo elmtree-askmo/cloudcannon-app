@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-classical-conditioning-differ-from-operant-conditioning.md
 url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
 score: -1.0
+related_article1:
+    id: 167700
+    title: What are the main techniques for observing and analyzing observable behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+related_article2:
+    id: 167710
+    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+related_article3:
+    id: 167693
+    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+related_article4:
+    id: 167691
+    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+related_article5:
+    id: 167708
+    title: What are the main stages of cognitive and social development in childhood and adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 ---
 
 &nbsp;

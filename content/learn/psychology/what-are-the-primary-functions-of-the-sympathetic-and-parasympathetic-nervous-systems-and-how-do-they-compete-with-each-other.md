@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other
 score: -1.0
+related_article1:
+    id: 164777
+    title: How do social anxiety and anxiety disorders relate to emotional dysregulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
+related_article2:
+    id: 164775
+    title: How do arousal and memory interact in the context of stress response?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
+related_article3:
+    id: 164778
+    title: What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article4:
+    id: 164776
+    title: What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
+related_article5:
+    id: 164776
+    title: What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
 ---
 
 &nbsp;

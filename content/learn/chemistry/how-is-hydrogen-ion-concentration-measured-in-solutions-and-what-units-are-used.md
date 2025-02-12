@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used.md
 url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-units-are-used
 score: -1.0
+related_article1:
+    id: 166818
+    title: What is molarity, and how is it calculated in the context of solution concentration?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
+related_article2:
+    id: 166813
+    title: What is the process of auto-ionization of water and what ions are formed as a result?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
+related_article3:
+    id: 166822
+    title: Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article4:
+    id: 166819
+    title: Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
+related_article5:
+    id: 166819
+    title: Explain the pH scale and its relation to hydrogen ion concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-ph-scale-and-its-relation-to-hydrogen-ion-concentration
 ---
 
 &nbsp;

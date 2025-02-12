@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal.md
 url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
 score: -1.0
+related_article1:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
+related_article2:
+    id: 168711
+    title: Compare the speed and precision of CNC lathes with mechanical lathes.
+    subject: Engineering
+    url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
+related_article3:
+    id: 168706
+    title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article4:
+    id: 168707
+    title: What are the advantages of using modern cutting tools for external and groove machining?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
+related_article5:
+    id: 168700
+    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
 ---
 
 &nbsp;

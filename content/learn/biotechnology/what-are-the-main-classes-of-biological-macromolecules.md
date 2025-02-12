@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-main-classes-of-biological-macromolecules.md
 url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 score: -1.0
+related_article1:
+    id: 167636
+    title: What is the structural difference between purines and pyrimidines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article2:
+    id: 167638
+    title: What role does the hydroxyl group play in RNA structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
+related_article3:
+    id: 167634
+    title: What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+related_article4:
+    id: 167641
+    title: How does the primary structure of DNA differ from that of RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article5:
+    id: 167635
+    title: How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
 ---
 
 &nbsp;

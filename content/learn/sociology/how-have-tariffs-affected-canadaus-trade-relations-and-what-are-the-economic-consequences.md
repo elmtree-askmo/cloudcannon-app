@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences.md
 url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
 score: -1.0
+related_article1:
+    id: 168353
+    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+related_article2:
+    id: 168359
+    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article3:
+    id: 168369
+    title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article4:
+    id: 168357
+    title: What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168369
+    title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
 ---
 
 &nbsp;

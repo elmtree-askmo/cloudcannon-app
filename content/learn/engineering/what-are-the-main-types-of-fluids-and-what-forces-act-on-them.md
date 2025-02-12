@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-main-types-of-fluids-and-what-forces-act-on-them.md
 url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
 score: -1.0
+related_article1:
+    id: 166643
+    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article2:
+    id: 166643
+    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+related_article3:
+    id: 166650
+    title: What are derived units and why are they important in engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+related_article4:
+    id: 166649
+    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    subject: Engineering
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+related_article5:
+    id: 166647
+    title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 ---
 
 &nbsp;

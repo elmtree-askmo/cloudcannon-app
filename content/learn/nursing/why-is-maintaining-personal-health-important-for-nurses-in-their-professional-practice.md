@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice.md
 url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 score: -1.0
+related_article1:
+    id: 169623
+    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
+related_article2:
+    id: 169614
+    title: Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
+related_article3:
+    id: 169623
+    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
+related_article4:
+    id: 169618
+    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article5:
+    id: 169622
+    title: What characteristics make a nurse an effective role model?
+    subject: Nursing
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
 ---
 
 &nbsp;

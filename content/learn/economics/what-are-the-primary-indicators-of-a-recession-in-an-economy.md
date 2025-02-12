@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-primary-indicators-of-a-recession-in-an-economy.md
 url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
 score: -1.0
+related_article1:
+    id: 169894
+    title: What are the economic consequences of tariffs on global trade, particularly between the US and China?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-global-trade-particularly-between-the-us-and-china
+related_article2:
+    id: 169884
+    title: What are the key cultural differences in bargaining practices across different countries?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
+related_article3:
+    id: 169902
+    title: How do major economies influence global economic power dynamics and strategies?
+    subject: Economics
+    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
+related_article4:
+    id: 169888
+    title: What is the relationship between interest rates and borrowing in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-relationship-between-interest-rates-and-borrowing-in-an-economy
+related_article5:
+    id: 169893
+    title: How do tariffs impact exports and imports during a recession?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-impact-exports-and-imports-during-a-recession
 ---
 
 &nbsp;

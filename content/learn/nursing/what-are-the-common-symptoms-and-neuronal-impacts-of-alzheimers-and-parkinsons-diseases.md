@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases.md
 url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
 score: -1.0
+related_article1:
+    id: 170606
+    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+related_article2:
+    id: 170598
+    title: How do motor neurons, sensory neurons, and interneurons differ in function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
+related_article3:
+    id: 170608
+    title: How does myelination affect the speed of nerve impulse conduction?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+related_article4:
+    id: 170606
+    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+related_article5:
+    id: 170604
+    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
 ---
 
 &nbsp;

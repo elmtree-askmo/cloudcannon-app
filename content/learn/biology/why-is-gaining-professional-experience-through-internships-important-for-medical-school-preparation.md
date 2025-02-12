@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation.md
 url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
 score: -1.0
+related_article1:
+    id: 167490
+    title: How are students assessed through exams and quizzes in this course?
+    subject: Biology
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
+related_article2:
+    id: 167480
+    title: What communication tools are available on the D2L Learning Management System?
+    subject: Biology
+    url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
+related_article3:
+    id: 167483
+    title: What is the focus and content of lecture exams in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
+related_article4:
+    id: 167472
+    title: What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+related_article5:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
 ---
 
 &nbsp;

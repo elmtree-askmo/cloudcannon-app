@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle.md
 url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 score: -1.0
+related_article1:
+    id: 170764
+    title: Provide an example of an inductive proof related to divisibility.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
+related_article2:
+    id: 170762
+    title: Why is induction considered an important proof technique in mathematics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+related_article3:
+    id: 170756
+    title: How does the inductive step function in the process of mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-inductive-step-function-in-the-process-of-mathematical-induction
+related_article4:
+    id: 170761
+    title: What is a direct proof, and how does it differ from a proof by contradiction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
+related_article5:
+    id: 170759
+    title: What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 ---
 
 &nbsp;

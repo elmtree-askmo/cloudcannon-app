@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-a-cation-and-an-anion.md
 url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
 score: -1.0
+related_article1:
+    id: 166857
+    title: What characteristics make alkali metals highly reactive?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
+related_article2:
+    id: 166856
+    title: How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article3:
+    id: 166856
+    title: How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article4:
+    id: 166853
+    title: What is the significance of the main groups in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-main-groups-in-the-periodic-table
+related_article5:
+    id: 166863
+    title: What factors influence the reactivity of elements in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-influence-the-reactivity-of-elements-in-the-periodic-table
 ---
 
 &nbsp;

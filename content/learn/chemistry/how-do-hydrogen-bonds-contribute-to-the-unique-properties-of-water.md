@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 score: -1.0
+related_article1:
+    id: 166996
+    title: What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article2:
+    id: 166996
+    title: What is the process of acid dissociation and how does it affect pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-process-of-acid-dissociation-and-how-does-it-affect-ph
+related_article3:
+    id: 166989
+    title: How does surface tension arise from the cohesive properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+related_article4:
+    id: 166994
+    title: What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+related_article5:
+    id: 167000
+    title: How do cohesive forces contribute to the formation of water droplets?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
 ---
 
 &nbsp;

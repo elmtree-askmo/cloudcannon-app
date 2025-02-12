@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence.md
 url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
 score: -1.0
+related_article1:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+related_article2:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+related_article3:
+    id: 164139
+    title: According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+related_article4:
+    id: 164141
+    title: How does the induction style of parenting explain a child's behavior and its impact on others?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+related_article5:
+    id: 164139
+    title: According to Piaget, how do peer interactions influence moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 ---
 
 &nbsp;

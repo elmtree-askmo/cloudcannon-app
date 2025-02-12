@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders.md
 url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
 score: -1.0
+related_article1:
+    id: 164886
+    title: How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article2:
+    id: 164893
+    title: How do split-brain patients demonstrate hemispheric specialization in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-splitbrain-patients-demonstrate-hemispheric-specialization-in-language-processing
+related_article3:
+    id: 164890
+    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
+related_article4:
+    id: 164897
+    title: What are the primary functions of Broca's and Wernicke's areas in language and communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
+related_article5:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
 ---
 
 &nbsp;

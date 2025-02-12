@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit.md
 url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
 score: -1.0
+related_article1:
+    id: 168934
+    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article2:
+    id: 168934
+    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article3:
+    id: 168941
+    title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
+related_article4:
+    id: 168933
+    title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article5:
+    id: 168939
+    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

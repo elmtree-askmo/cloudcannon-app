@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-relationship-between-cognitive-load-and-task-switching.md
 url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
 score: -1.0
+related_article1:
+    id: 164550
+    title: What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article2:
+    id: 164547
+    title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+related_article3:
+    id: 164560
+    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article4:
+    id: 164548
+    title: What distinguishes feature search from conjunction search in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article5:
+    id: 164554
+    title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 ---
 
 &nbsp;

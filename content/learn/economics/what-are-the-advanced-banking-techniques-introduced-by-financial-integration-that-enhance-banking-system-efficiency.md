@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-advanced-banking-techniques-introduced-by-financial-integration-that-enhance-banking-system-efficiency.md
 url: /learn/economics/questions/what-are-the-advanced-banking-techniques-introduced-by-financial-integration-that-enhance-banking-system-efficiency
 score: -1.0
+related_article1:
+    id: 159655
+    title: How does the concentration of capital flows impact low-income countries?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concentration-of-capital-flows-impact-lowincome-countries
+related_article2:
+    id: 159660
+    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
+related_article3:
+    id: 159659
+    title: How do exchange rate regime challenges pose risks to macroeconomic stability in the context of financial integration?
+    subject: Economics
+    url: /learn/economics/questions/how-do-exchange-rate-regime-challenges-pose-risks-to-macroeconomic-stability-in-the-context-of-financial-integration
+related_article4:
+    id: 159660
+    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
+related_article5:
+    id: 159656
+    title: What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
 ---
 
 &nbsp;

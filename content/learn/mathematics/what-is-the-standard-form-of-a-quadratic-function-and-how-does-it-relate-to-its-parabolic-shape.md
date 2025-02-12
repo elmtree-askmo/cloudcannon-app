@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape.md
 url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
 score: -1.0
+related_article1:
+    id: 163847
+    title: What is the importance of graphical representation in understanding functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+related_article2:
+    id: 163843
+    title: What are horizontal and vertical asymptotes, and how do they differ?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+related_article3:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+related_article4:
+    id: 163845
+    title: What are the graphical differences between quadratic and cubic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+related_article5:
+    id: 163842
+    title: How do you find the x-intercepts and y-intercepts of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
 ---
 
 &nbsp;

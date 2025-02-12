@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution.md
 url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
 score: -1.0
+related_article1:
+    id: 166913
+    title: What is the hierarchical structure of cellular organization in living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+related_article2:
+    id: 166931
+    title: What are the sensory mechanisms involved in detecting stimuli?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
+related_article3:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article4:
+    id: 166921
+    title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+related_article5:
+    id: 166927
+    title: What are the methods and sources of nutrient acquisition in organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
 ---
 
 &nbsp;

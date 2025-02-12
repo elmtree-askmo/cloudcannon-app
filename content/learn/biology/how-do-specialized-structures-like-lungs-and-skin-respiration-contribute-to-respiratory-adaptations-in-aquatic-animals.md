@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals.md
 url: /learn/biology/questions/how-do-specialized-structures-like-lungs-and-skin-respiration-contribute-to-respiratory-adaptations-in-aquatic-animals
 score: -1.0
+related_article1:
+    id: 168753
+    title: Describe the anatomy of gills and their role in fish respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-anatomy-of-gills-and-their-role-in-fish-respiration
+related_article2:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article3:
+    id: 168751
+    title: What are the key features of gas exchange systems that facilitate efficient gas exchange?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-features-of-gas-exchange-systems-that-facilitate-efficient-gas-exchange
+related_article4:
+    id: 168757
+    title: What mechanisms do aquatic organisms use for water intake and expulsion?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion
+related_article5:
+    id: 168758
+    title: How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
 ---
 
 &nbsp;

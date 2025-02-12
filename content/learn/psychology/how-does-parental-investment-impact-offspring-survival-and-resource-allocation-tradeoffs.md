@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs.md
 url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
 score: -1.0
+related_article1:
+    id: 171000
+    title: How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article2:
+    id: 171016
+    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+related_article3:
+    id: 171015
+    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+related_article4:
+    id: 170997
+    title: What role do computer simulations play in understanding real-world cooperation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+related_article5:
+    id: 171005
+    title: What are the different types of polygyny, and can you provide examples from nature?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
 ---
 
 &nbsp;

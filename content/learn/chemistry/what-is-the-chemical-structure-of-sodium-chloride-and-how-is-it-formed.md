@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed.md
 url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
 score: -1.0
+related_article1:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article2:
+    id: 166799
+    title: What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article3:
+    id: 166804
+    title: What is a valence shell and why is it important in chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article4:
+    id: 166800
+    title: How does the atomic number relate to the number of protons in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+related_article5:
+    id: 166801
+    title: What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 ---
 
 &nbsp;

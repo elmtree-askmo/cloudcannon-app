@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-translation-in-the-context-of-geometric-transformations.md
 url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 score: -1.0
+related_article1:
+    id: 162536
+    title: How does a vertex relate to the coordinate plane in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-vertex-relate-to-the-coordinate-plane-in-translations
+related_article2:
+    id: 162541
+    title: What patterns can be observed in vertical translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+related_article3:
+    id: 162287
+    title: What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
+related_article4:
+    id: 162290
+    title: What is an example of a vertical translation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+related_article5:
+    id: 162553
+    title: How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 ---
 
 &nbsp;

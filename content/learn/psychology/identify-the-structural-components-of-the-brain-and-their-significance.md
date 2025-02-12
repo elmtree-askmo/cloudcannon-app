@@ -21,6 +21,31 @@ subject: Psychology
 file_name: identify-the-structural-components-of-the-brain-and-their-significance.md
 url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 score: -1.0
+related_article1:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article2:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article3:
+    id: 164350
+    title: Explain the significance of tissue density analysis in CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+related_article4:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article5:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 ---
 
 &nbsp;

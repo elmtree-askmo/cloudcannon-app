@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health.md
 url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
 score: -1.0
+related_article1:
+    id: 164070
+    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article2:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article3:
+    id: 164073
+    title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article4:
+    id: 164075
+    title: How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
+related_article5:
+    id: 164079
+    title: What are the benefits of data-driven personalized care in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
 ---
 
 &nbsp;

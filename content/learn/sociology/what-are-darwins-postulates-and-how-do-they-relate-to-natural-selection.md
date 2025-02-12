@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection.md
 url: /learn/sociology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166347
+    title: What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+related_article2:
+    id: 166341
+    title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article3:
+    id: 166337
+    title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article4:
+    id: 166340
+    title: Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article5:
+    id: 166345
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 ---
 
 &nbsp;

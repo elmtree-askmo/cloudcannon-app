@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-enzymes-exhibit-specificity-for-their-substrates.md
 url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 score: -1.0
+related_article1:
+    id: 169956
+    title: What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article2:
+    id: 169948
+    title: What is the role of phospholipids in cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article3:
+    id: 169952
+    title: What is the relationship between monomers and polymers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article4:
+    id: 169959
+    title: What is the role of membrane proteins in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
+related_article5:
+    id: 169947
+    title: How do enzymes lower activation energy in biochemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
 ---
 
 &nbsp;

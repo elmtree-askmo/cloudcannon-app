@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-syntax-and-semantics-in-language-processing.md
 url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
 score: -1.0
+related_article1:
+    id: 164713
+    title: How does double dissociation provide evidence for the separation of syntax and semantics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
+related_article2:
+    id: 164724
+    title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
+related_article3:
+    id: 164735
+    title: What are the primary functions of the frontal lobe in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article4:
+    id: 164740
+    title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article5:
+    id: 164726
+    title: How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
 ---
 
 &nbsp;

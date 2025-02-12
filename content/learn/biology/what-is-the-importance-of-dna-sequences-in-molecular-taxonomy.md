@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-importance-of-dna-sequences-in-molecular-taxonomy.md
 url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
 score: -1.0
+related_article1:
+    id: 165817
+    title: How do parasites evade the host's immune system?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+related_article2:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article3:
+    id: 165813
+    title: How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
+related_article4:
+    id: 165825
+    title: What are the differences between asexual and sexual reproduction in parasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+related_article5:
+    id: 165823
+    title: How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 ---
 
 &nbsp;

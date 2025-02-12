@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice.md
 url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
 score: -1.0
+related_article1:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article2:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article3:
+    id: 166481
+    title: What are Category D and X drugs, and why are they significant in pregnancy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
+related_article4:
+    id: 166488
+    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
+related_article5:
+    id: 166483
+    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
 ---
 
 &nbsp;

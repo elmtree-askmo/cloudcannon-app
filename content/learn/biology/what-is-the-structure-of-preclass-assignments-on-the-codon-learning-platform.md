@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform.md
 url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
 score: -1.0
+related_article1:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article2:
+    id: 167481
+    title: How can students access and navigate online textbooks effectively?
+    subject: Biology
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+related_article3:
+    id: 167482
+    title: What are the cost and availability options for online textbooks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+related_article4:
+    id: 167476
+    title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+related_article5:
+    id: 167472
+    title: What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-sleep-patterns-change-across-different-age-groups.md
 url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
 score: -1.0
+related_article1:
+    id: 169691
+    title: What are the common treatment options for sleep apnea, and how do they address breathing issues during sleep?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-treatment-options-for-sleep-apnea-and-how-do-they-address-breathing-issues-during-sleep
+related_article2:
+    id: 169690
+    title: What are the primary causes and symptoms of insomnia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
+related_article3:
+    id: 169700
+    title: Why is maintaining a consistent bedtime routine important for sleep hygiene?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
+related_article4:
+    id: 169702
+    title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
+related_article5:
+    id: 169702
+    title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
 ---
 
 &nbsp;

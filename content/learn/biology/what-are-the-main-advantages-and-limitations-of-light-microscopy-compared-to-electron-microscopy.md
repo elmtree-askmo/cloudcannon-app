@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy.md
 url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
 score: -1.0
+related_article1:
+    id: 170955
+    title: How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
+related_article2:
+    id: 170955
+    title: How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
+related_article3:
+    id: 170946
+    title: How do fluorescent molecules function in fluorescence microscopy?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article4:
+    id: 170940
+    title: What are the key structural differences between bacterial and eukaryotic cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
+related_article5:
+    id: 170952
+    title: How is GFP used to study protein localization in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
 ---
 
 &nbsp;

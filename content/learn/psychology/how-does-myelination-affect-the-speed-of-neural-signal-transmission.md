@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-myelination-affect-the-speed-of-neural-signal-transmission.md
 url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 score: -1.0
+related_article1:
+    id: 164825
+    title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
+related_article2:
+    id: 164832
+    title: How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article3:
+    id: 164829
+    title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
+related_article4:
+    id: 164823
+    title: How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
+related_article5:
+    id: 164821
+    title: How do ion channels contribute to the generation and propagation of action potentials?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication.md
 url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
 score: -1.0
+related_article1:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article2:
+    id: 169587
+    title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+related_article3:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article4:
+    id: 169592
+    title: How does institutional racism affect healthcare access for ethnic minorities?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+related_article5:
+    id: 169586
+    title: How does the social model of disability promote patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 ---
 
 &nbsp;

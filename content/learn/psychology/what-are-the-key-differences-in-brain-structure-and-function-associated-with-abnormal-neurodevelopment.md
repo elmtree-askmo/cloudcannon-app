@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment.md
 url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 score: -1.0
+related_article1:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article2:
+    id: 164029
+    title: How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
+related_article3:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
+related_article4:
+    id: 164036
+    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
+related_article5:
+    id: 164030
+    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
 ---
 
 &nbsp;

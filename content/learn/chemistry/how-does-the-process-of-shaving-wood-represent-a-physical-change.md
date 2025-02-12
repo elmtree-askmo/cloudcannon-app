@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-process-of-shaving-wood-represent-a-physical-change.md
 url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
 score: -1.0
+related_article1:
+    id: 162057
+    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article2:
+    id: 161936
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article3:
+    id: 161757
+    title: Explain the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+related_article4:
+    id: 161931
+    title: What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article5:
+    id: 161969
+    title: What is a precipitation reaction and how can it be identified?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

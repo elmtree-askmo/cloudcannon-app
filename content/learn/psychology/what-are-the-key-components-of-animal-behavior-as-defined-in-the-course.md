@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-animal-behavior-as-defined-in-the-course.md
 url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
 score: -1.0
+related_article1:
+    id: 166421
+    title: How does the genetic component of behavior influence evolutionary processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+related_article2:
+    id: 166422
+    title: What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
+related_article3:
+    id: 166416
+    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article4:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article5:
+    id: 166415
+    title: Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
 ---
 
 &nbsp;

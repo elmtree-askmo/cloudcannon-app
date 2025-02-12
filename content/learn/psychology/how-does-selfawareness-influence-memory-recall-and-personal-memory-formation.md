@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-selfawareness-influence-memory-recall-and-personal-memory-formation.md
 url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
 score: -1.0
+related_article1:
+    id: 168070
+    title: How do memorable life events during adulthood influence personal identity development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
+related_article2:
+    id: 168065
+    title: What are the optimal performance times for visual and verbal memory tasks in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
+related_article3:
+    id: 168064
+    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+related_article4:
+    id: 168072
+    title: How does language acquisition affect the development of personal memories in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+related_article5:
+    id: 168064
+    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
 ---
 
 &nbsp;

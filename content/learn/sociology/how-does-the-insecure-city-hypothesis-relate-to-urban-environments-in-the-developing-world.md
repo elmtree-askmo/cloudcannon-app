@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world.md
 url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
 score: -1.0
+related_article1:
+    id: 162938
+    title: What are the implications of informal urbanization on the security of megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
+related_article2:
+    id: 162949
+    title: What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
+related_article3:
+    id: 162952
+    title: Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article4:
+    id: 162949
+    title: What is the significance of urban intelligence in mapping and counter-mapping strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-urban-intelligence-in-mapping-and-countermapping-strategies
+related_article5:
+    id: 162936
+    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
 ---
 
 &nbsp;

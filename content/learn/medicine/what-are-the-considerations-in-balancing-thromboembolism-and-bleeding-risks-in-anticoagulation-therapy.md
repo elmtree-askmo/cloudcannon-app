@@ -21,6 +21,31 @@ subject: Medicine
 file_name: what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy.md
 url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 score: -1.0
+related_article1:
+    id: 163182
+    title: How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
+    subject: Medicine
+    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
+related_article2:
+    id: 163183
+    title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article3:
+    id: 163178
+    title: What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
+related_article4:
+    id: 163187
+    title: What role do methodological and content experts play in the development of clinical guidelines?
+    subject: Medicine
+    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+related_article5:
+    id: 163188
+    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    subject: Medicine
+    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
 ---
 
 &nbsp;

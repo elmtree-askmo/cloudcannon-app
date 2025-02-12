@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights.md
 url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
 score: -1.0
+related_article1:
+    id: 159662
+    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+related_article2:
+    id: 159664
+    title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+related_article3:
+    id: 159662
+    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+related_article4:
+    id: 159673
+    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+related_article5:
+    id: 159667
+    title: How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
 ---
 
 &nbsp;

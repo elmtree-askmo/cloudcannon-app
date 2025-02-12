@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders.md
 url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 score: -1.0
+related_article1:
+    id: 167711
+    title: What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
+related_article2:
+    id: 167684
+    title: What are some challenges in defining normalcy in psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
+related_article3:
+    id: 167711
+    title: What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
+related_article4:
+    id: 167699
+    title: What statistical techniques are commonly used in data analysis for psychological studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+related_article5:
+    id: 167706
+    title: What is the role of sensory perception in influencing human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 ---
 
 &nbsp;

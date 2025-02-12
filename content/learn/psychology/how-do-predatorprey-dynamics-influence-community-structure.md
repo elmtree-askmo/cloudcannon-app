@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-predatorprey-dynamics-influence-community-structure.md
 url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
 score: -1.0
+related_article1:
+    id: 170827
+    title: What are the main components of a cost-benefit analysis in ecological decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
+related_article2:
+    id: 170827
+    title: What are the main components of a cost-benefit analysis in ecological decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-a-costbenefit-analysis-in-ecological-decisionmaking
+related_article3:
+    id: 170823
+    title: What are the key assumptions of the Optimal Foraging Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-assumptions-of-the-optimal-foraging-theory
+related_article4:
+    id: 170824
+    title: How does the Marginal Value Theorem apply to patch use strategy in foraging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-marginal-value-theorem-apply-to-patch-use-strategy-in-foraging
+related_article5:
+    id: 170830
+    title: Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
 ---
 
 &nbsp;

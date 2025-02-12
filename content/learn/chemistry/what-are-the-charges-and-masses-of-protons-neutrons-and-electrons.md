@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-charges-and-masses-of-protons-neutrons-and-electrons.md
 url: /learn/chemistry/questions/what-are-the-charges-and-masses-of-protons-neutrons-and-electrons
 score: -1.0
+related_article1:
+    id: 167568
+    title: How do hydrogen bonds contribute to the properties of functional groups?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
+related_article2:
+    id: 167569
+    title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
+related_article3:
+    id: 167569
+    title: What role does carbon play in the structure of proteins, carbohydrates, lipids, and nucleic acids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-carbon-play-in-the-structure-of-proteins-carbohydrates-lipids-and-nucleic-acids
+related_article4:
+    id: 167570
+    title: How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article5:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 ---
 
 &nbsp;

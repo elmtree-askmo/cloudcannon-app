@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-the-parietal-lobe-play-in-sensory-processing.md
 url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
 score: -1.0
+related_article1:
+    id: 164331
+    title: What are the primary functions of the occipital lobe in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article2:
+    id: 164332
+    title: How does the temporal lobe contribute to visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+related_article3:
+    id: 164344
+    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
+related_article4:
+    id: 164332
+    title: How does the temporal lobe contribute to visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+related_article5:
+    id: 164344
+    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
 ---
 
 &nbsp;

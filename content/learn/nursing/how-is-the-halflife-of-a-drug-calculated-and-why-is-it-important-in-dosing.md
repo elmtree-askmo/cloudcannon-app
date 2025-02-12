@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing.md
 url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
 score: -1.0
+related_article1:
+    id: 166459
+    title: How does protein binding affect drug distribution and efficacy?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+related_article2:
+    id: 166471
+    title: How does empiric treatment differ from definitive treatment in infection management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
+related_article3:
+    id: 166457
+    title: What is the first-pass effect and how does it impact drug bioavailability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
+related_article4:
+    id: 166455
+    title: What are the key factors influencing drug absorption in pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
+related_article5:
+    id: 166454
+    title: How do storage conditions affect the stability of pharmaceutical formulations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
 ---
 
 &nbsp;

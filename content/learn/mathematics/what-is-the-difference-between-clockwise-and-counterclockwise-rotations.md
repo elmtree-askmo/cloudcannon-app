@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-difference-between-clockwise-and-counterclockwise-rotations.md
 url: /learn/mathematics/questions/what-is-the-difference-between-clockwise-and-counterclockwise-rotations
 score: -1.0
+related_article1:
+    id: 162140
+    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
+related_article2:
+    id: 162145
+    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+related_article3:
+    id: 162139
+    title: What is the definition of a coordinate plane and what are its main components?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-coordinate-plane-and-what-are-its-main-components
+related_article4:
+    id: 162079
+    title: What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
+related_article5:
+    id: 162153
+    title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 ---
 
 &nbsp;

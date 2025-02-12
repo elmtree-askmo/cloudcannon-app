@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions.md
 url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 score: -1.0
+related_article1:
+    id: 169591
+    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+related_article2:
+    id: 169588
+    title: What strategies can be employed to overcome biases in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+related_article3:
+    id: 169590
+    title: How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article4:
+    id: 169583
+    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+related_article5:
+    id: 169587
+    title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
 ---
 
 &nbsp;

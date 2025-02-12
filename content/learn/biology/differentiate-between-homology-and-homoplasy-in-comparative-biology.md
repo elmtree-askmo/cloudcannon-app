@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-homology-and-homoplasy-in-comparative-biology.md
 url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
 score: -1.0
+related_article1:
+    id: 166368
+    title: Explain the impact of hormonal influences on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+related_article2:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article3:
+    id: 166366
+    title: How do genetic influences affect animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+related_article4:
+    id: 166362
+    title: How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+related_article5:
+    id: 166362
+    title: How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
 ---
 
 &nbsp;

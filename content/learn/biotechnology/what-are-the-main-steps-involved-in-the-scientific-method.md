@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-main-steps-involved-in-the-scientific-method.md
 url: /learn/biotechnology/questions/what-are-the-main-steps-involved-in-the-scientific-method
 score: -1.0
+related_article1:
+    id: 167600
+    title: What evidence supports the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+related_article2:
+    id: 167582
+    title: What are the key characteristics that define life?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
+related_article3:
+    id: 167587
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article4:
+    id: 167590
+    title: What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article5:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
 ---
 
 &nbsp;

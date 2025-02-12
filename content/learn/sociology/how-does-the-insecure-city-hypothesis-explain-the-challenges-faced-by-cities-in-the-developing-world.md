@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world.md
 url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
 score: -1.0
+related_article1:
+    id: 162920
+    title: What is morphometric targeting, and how is it used in urban morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies
+related_article2:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article3:
+    id: 162921
+    title: How do city-states and shanty-states function as geopolitical actors in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
+related_article4:
+    id: 162922
+    title: What are the implications of violent non-state actors on urban combat training in informal megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
+related_article5:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
 ---
 
 &nbsp;

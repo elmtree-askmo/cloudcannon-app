@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology.md
 url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 score: -1.0
+related_article1:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article2:
+    id: 165240
+    title: How do perceptual afterimages affect visual perception and cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
+related_article3:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article4:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article5:
+    id: 165228
+    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
 ---
 
 &nbsp;

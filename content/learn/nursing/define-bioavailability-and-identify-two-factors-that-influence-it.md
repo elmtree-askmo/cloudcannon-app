@@ -21,6 +21,31 @@ subject: Nursing
 file_name: define-bioavailability-and-identify-two-factors-that-influence-it.md
 url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
 score: -1.0
+related_article1:
+    id: 166432
+    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+related_article2:
+    id: 166425
+    title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
+related_article3:
+    id: 166437
+    title: What are the types of drug interactions, and what are their clinical implications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+related_article4:
+    id: 166429
+    title: What are adverse effects, and what strategies can be used to manage them?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+related_article5:
+    id: 166425
+    title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 ---
 
 &nbsp;

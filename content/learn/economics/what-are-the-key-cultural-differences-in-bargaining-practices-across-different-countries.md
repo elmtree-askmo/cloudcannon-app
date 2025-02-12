@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries.md
 url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
 score: -1.0
+related_article1:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+related_article2:
+    id: 169901
+    title: What are the economic consequences of tariffs on US-Canada trade dynamics?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
+related_article3:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+related_article4:
+    id: 169897
+    title: How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article5:
+    id: 169887
+    title: How does bargaining impact consumer surplus in economic transactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-bargaining-impact-consumer-surplus-in-economic-transactions
 ---
 
 &nbsp;

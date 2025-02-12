@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-health-implications-of-being-classified-as-overweight-or-obese.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 score: -1.0
+related_article1:
+    id: 169713
+    title: What is the composition of urine in terms of nitrogenous waste?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+related_article2:
+    id: 169715
+    title: What is the role of hydrochloric acid in the stomach?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
+related_article3:
+    id: 169719
+    title: What is the significance of vitamins and minerals as micronutrients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+related_article4:
+    id: 169716
+    title: How do the fallopian tubes facilitate fertilization?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+related_article5:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 ---
 
 &nbsp;

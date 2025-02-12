@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-verbal-and-nonverbal-communication.md
 url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 score: -1.0
+related_article1:
+    id: 169816
+    title: What is the relationship between self-concept and personal growth?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
+related_article2:
+    id: 169805
+    title: How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article3:
+    id: 169806
+    title: What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article4:
+    id: 169824
+    title: How do professional values influence career development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
+related_article5:
+    id: 169811
+    title: How can reflection models be applied to enhance professional values?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 ---
 
 &nbsp;

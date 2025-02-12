@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens.md
 url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
 score: -1.0
+related_article1:
+    id: 165804
+    title: What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+related_article2:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article3:
+    id: 165814
+    title: What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article4:
+    id: 165810
+    title: How do ribosomal subunits aid in molecular classification?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
+related_article5:
+    id: 165815
+    title: Describe the concept of epidemiology in the context of parasite ecology.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
 ---
 
 &nbsp;

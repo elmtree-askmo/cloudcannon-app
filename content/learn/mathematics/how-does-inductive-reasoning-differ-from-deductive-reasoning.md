@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-inductive-reasoning-differ-from-deductive-reasoning.md
 url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 score: -1.0
+related_article1:
+    id: 170743
+    title: How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
+related_article2:
+    id: 170747
+    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
+related_article3:
+    id: 170754
+    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+related_article4:
+    id: 170740
+    title: What is an inductive hypothesis and how is it formulated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
+related_article5:
+    id: 170739
+    title: Why is the base case important in mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
 ---
 
 &nbsp;

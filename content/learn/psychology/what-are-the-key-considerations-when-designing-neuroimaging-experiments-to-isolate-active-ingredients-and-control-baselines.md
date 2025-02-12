@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines.md
 url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 score: -1.0
+related_article1:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
+related_article2:
+    id: 164305
+    title: What are the main advantages of fMRI over PET in neuroimaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
+related_article3:
+    id: 164314
+    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+related_article4:
+    id: 164296
+    title: What were some of the early studies that contributed to the development of PET technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
+related_article5:
+    id: 164311
+    title: What are some applications of MRI in anatomical and functional imaging research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
 ---
 
 &nbsp;

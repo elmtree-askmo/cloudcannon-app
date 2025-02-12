@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling.md
 url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
 score: -1.0
+related_article1:
+    id: 170281
+    title: What is the difference between discrete and continuous quantitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+related_article2:
+    id: 170282
+    title: Describe the concept of distribution in statistics and its importance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
+related_article3:
+    id: 170274
+    title: What is the primary focus of statistics as a science?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+related_article4:
+    id: 170277
+    title: Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article5:
+    id: 170283
+    title: What distinguishes an observational study from a designed experiment?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
 ---
 
 &nbsp;

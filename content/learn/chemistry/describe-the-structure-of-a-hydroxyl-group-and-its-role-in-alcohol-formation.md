@@ -21,6 +21,26 @@ subject: Chemistry
 file_name: describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation.md
 url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 score: -1.0
+related_article1:
+    id: 167047
+    title: Explain the role of the phosphate group in biological systems and its acidic properties.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-the-phosphate-group-in-biological-systems-and-its-acidic-properties
+related_article2:
+    id: 167048
+    title: How do hydroxyl and carbonyl groups influence molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
+related_article3:
+    id: 167038
+    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+related_article4:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
 ---
 
 &nbsp;

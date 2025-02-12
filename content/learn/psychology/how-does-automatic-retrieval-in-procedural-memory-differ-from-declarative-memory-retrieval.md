@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval.md
 url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 score: -1.0
+related_article1:
+    id: 168043
+    title: Why are memory encoding strategies particularly important for older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-memory-encoding-strategies-particularly-important-for-older-adults
+related_article2:
+    id: 168039
+    title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
+related_article3:
+    id: 168047
+    title: What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article4:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article5:
+    id: 168048
+    title: How does semantic memory stability compare to episodic memory across the lifespan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
 ---
 
 &nbsp;

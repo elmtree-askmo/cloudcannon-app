@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: explain-the-octet-rule-and-its-significance-in-chemical-stability.md
 url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
 score: -1.0
+related_article1:
+    id: 166807
+    title: Describe the process of ionic bond formation between sodium and chlorine.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
+related_article2:
+    id: 166806
+    title: How are ions formed in the context of ionic bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
+related_article3:
+    id: 166811
+    title: What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
+related_article4:
+    id: 166811
+    title: What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
+related_article5:
+    id: 166809
+    title: How does electron sharing occur in covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 ---
 
 &nbsp;

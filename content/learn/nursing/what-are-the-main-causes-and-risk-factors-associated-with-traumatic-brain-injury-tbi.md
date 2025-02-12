@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi.md
 url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
 score: -1.0
+related_article1:
+    id: 164452
+    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+related_article2:
+    id: 164444
+    title: Identify two external causes of brain injury and explain their potential impact.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
+related_article3:
+    id: 164457
+    title: What strategies can support emotional and behavioral adaptation after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
+related_article4:
+    id: 164449
+    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    subject: Nursing
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+related_article5:
+    id: 164451
+    title: How can emotional and behavioral effects manifest in individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
 ---
 
 &nbsp;

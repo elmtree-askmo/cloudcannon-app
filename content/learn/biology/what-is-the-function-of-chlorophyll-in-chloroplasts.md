@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-function-of-chlorophyll-in-chloroplasts.md
 url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
 score: -1.0
+related_article1:
+    id: 170361
+    title: Write the balanced chemical equation for photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
+related_article2:
+    id: 170362
+    title: How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article3:
+    id: 170363
+    title: What is the primary function of mitochondria in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
+related_article4:
+    id: 170374
+    title: Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+related_article5:
+    id: 170372
+    title: What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

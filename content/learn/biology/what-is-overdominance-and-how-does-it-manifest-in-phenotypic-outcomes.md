@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes.md
 url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
 score: -1.0
+related_article1:
+    id: 167885
+    title: How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article2:
+    id: 167875
+    title: What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article3:
+    id: 167889
+    title: Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
+related_article4:
+    id: 167870
+    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article5:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs.md
 url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
 score: -1.0
+related_article1:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article2:
+    id: 166480
+    title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
+related_article3:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article4:
+    id: 166486
+    title: What distinguishes physical dependence on opioids from psychological dependence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
+related_article5:
+    id: 166483
+    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
 ---
 
 &nbsp;

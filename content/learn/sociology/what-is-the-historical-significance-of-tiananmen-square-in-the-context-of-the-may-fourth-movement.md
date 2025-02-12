@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement.md
 url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
 score: -1.0
+related_article1:
+    id: 169043
+    title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    subject: Sociology
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
+related_article2:
+    id: 169040
+    title: How did the opening of roads and public parks influence political public space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+related_article3:
+    id: 169053
+    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+related_article4:
+    id: 169048
+    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+related_article5:
+    id: 169046
+    title: What are the different types of collective political actions, and how do they utilize space in Beijing?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
 ---
 
 &nbsp;

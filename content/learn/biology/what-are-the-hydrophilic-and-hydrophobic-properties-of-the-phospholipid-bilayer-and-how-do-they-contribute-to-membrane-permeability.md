@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability.md
 url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
 score: -1.0
+related_article1:
+    id: 168936
+    title: What is the role of ATP in active transport, and how does it facilitate movement against a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient
+related_article2:
+    id: 168942
+    title: What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
+related_article3:
+    id: 168943
+    title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
+related_article4:
+    id: 168940
+    title: Define electrochemical gradient and explain its components.
+    subject: Biology
+    url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article5:
+    id: 168942
+    title: What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
 ---
 
 &nbsp;

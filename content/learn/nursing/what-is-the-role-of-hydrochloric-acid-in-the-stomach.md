@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-hydrochloric-acid-in-the-stomach.md
 url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
 score: -1.0
+related_article1:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article2:
+    id: 169717
+    title: What is the impact of testosterone on the reproductive system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-testosterone-on-the-reproductive-system
+related_article3:
+    id: 169718
+    title: What are the primary macronutrients and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+related_article4:
+    id: 169725
+    title: What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+related_article5:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors.md
 url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
 score: -1.0
+related_article1:
+    id: 169345
+    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+related_article2:
+    id: 169347
+    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+related_article3:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article4:
+    id: 169334
+    title: Describe systematic fading and time delay as techniques for fading prompts.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
+related_article5:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

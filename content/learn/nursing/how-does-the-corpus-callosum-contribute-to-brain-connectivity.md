@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-the-corpus-callosum-contribute-to-brain-connectivity.md
 url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
 score: -1.0
+related_article1:
+    id: 164741
+    title: What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article2:
+    id: 164729
+    title: Describe the significance of gyri and sulci in neuroanatomy.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article3:
+    id: 164743
+    title: Describe the structure and functional organization of the cerebral cortex.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
+related_article4:
+    id: 164725
+    title: Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article5:
+    id: 164734
+    title: What are Broadman's areas and how do they correlate with brain functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
 ---
 
 &nbsp;

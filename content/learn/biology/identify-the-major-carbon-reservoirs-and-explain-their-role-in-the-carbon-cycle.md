@@ -21,6 +21,31 @@ subject: Biology
 file_name: identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle.md
 url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170422
+    title: How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article2:
+    id: 170432
+    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+related_article3:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article4:
+    id: 170435
+    title: What geological processes are involved in carbon storage within sediments?
+    subject: Biology
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
+related_article5:
+    id: 170427
+    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
 ---
 
 &nbsp;

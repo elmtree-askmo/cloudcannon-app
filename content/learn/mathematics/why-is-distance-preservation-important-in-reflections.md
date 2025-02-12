@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-distance-preservation-important-in-reflections.md
 url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 score: -1.0
+related_article1:
+    id: 162815
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article2:
+    id: 162392
+    title: What changes occur when reflecting a point across both axes?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
+related_article3:
+    id: 162621
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article4:
+    id: 162706
+    title: What is orientation reversal in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+related_article5:
+    id: 162627
+    title: What happens when a point is reflected across both the x-axis and y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
 ---
 
 &nbsp;

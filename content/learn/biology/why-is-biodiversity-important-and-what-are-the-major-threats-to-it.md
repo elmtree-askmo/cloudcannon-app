@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-biodiversity-important-and-what-are-the-major-threats-to-it.md
 url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 score: -1.0
+related_article1:
+    id: 167746
+    title: What are the sources of genetic variation and why is it crucial for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-is-it-crucial-for-evolution
+related_article2:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article3:
+    id: 167755
+    title: What were the key evolutionary innovations that allowed organisms to transition from water to land?
+    subject: Biology
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
+related_article4:
+    id: 167747
+    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+related_article5:
+    id: 167745
+    title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-active-transport-crucial-for-heart-muscle-cells.md
 url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
 score: -1.0
+related_article1:
+    id: 168905
+    title: Define concentration gradient and its importance in active transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
+related_article2:
+    id: 168897
+    title: Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+related_article3:
+    id: 168900
+    title: Describe the process of endocytosis and its significance in cellular intake.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
+related_article4:
+    id: 168901
+    title: What is the difference between phagocytosis and pinocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+related_article5:
+    id: 168904
+    title: What is the role of ATP in the sodium-potassium pump?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 ---
 
 &nbsp;

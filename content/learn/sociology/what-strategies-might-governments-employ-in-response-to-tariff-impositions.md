@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-strategies-might-governments-employ-in-response-to-tariff-impositions.md
 url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
 score: -1.0
+related_article1:
+    id: 168364
+    title: How do historical religious and ethnic tensions impact community dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+related_article2:
+    id: 168371
+    title: What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+related_article3:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article4:
+    id: 168366
+    title: How does urban development influence infrastructure changes and livability in communities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+related_article5:
+    id: 168367
+    title: What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 ---
 
 &nbsp;

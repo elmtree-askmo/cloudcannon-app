@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-maintain-the-size-and-shape-of-geometric-figures.md
 url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 score: -1.0
+related_article1:
+    id: 162637
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article2:
+    id: 162897
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article3:
+    id: 162625
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article4:
+    id: 162689
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+related_article5:
+    id: 162516
+    title: What role does symmetry play in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 ---
 
 &nbsp;

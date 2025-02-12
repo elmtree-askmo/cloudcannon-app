@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-constitutes-a-circuito-eltrico-and-how-does-it-function.md
 url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
 score: -1.0
+related_article1:
+    id: 169825
+    title: What is a bipolo elétrico and what are some examples of it?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article2:
+    id: 169840
+    title: How does resistência affect the flow of corrente in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
+related_article3:
+    id: 169832
+    title: Explain the analogy between tensão elétrica and water pressure.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
+related_article4:
+    id: 169836
+    title: Describe the analogy between potência elétrica and an electric shower.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
+related_article5:
+    id: 169826
+    title: How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 ---
 
 &nbsp;

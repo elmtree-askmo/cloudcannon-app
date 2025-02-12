@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-it-important-to-connect-vertices-when-forming-geometric-figures.md
 url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
 score: -1.0
+related_article1:
+    id: 162228
+    title: How do you interpret changes in coordinates when a figure is translated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
+related_article2:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article3:
+    id: 162219
+    title: How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+related_article4:
+    id: 162330
+    title: What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article5:
+    id: 162322
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments.md
 url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 score: -1.0
+related_article1:
+    id: 165238
+    title: What statistical tools are commonly used in cognitive psychology data analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
+related_article2:
+    id: 165226
+    title: What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article3:
+    id: 165235
+    title: How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article4:
+    id: 165230
+    title: What cognitive skills are essential for effective spatial reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
+related_article5:
+    id: 165237
+    title: How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 ---
 
 &nbsp;

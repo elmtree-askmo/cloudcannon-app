@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways.md
 url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
 score: -1.0
+related_article1:
+    id: 170819
+    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+related_article2:
+    id: 170812
+    title: What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+related_article3:
+    id: 170814
+    title: What is the role of the enzyme-substrate complex in enzyme specificity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+related_article4:
+    id: 170813
+    title: How does the electron density in methane indicate its reduced form?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
+related_article5:
+    id: 170819
+    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
 ---
 
 &nbsp;

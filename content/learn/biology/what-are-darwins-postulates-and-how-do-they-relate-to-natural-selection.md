@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection.md
 url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
 score: -1.0
+related_article1:
+    id: 166360
+    title: What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article2:
+    id: 166369
+    title: What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+related_article3:
+    id: 166366
+    title: How do genetic influences affect animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+related_article4:
+    id: 166359
+    title: How does parent-offspring regression help in understanding heritability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
+related_article5:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses.md
 url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 score: -1.0
+related_article1:
+    id: 169579
+    title: What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article2:
+    id: 169556
+    title: How does supervision contribute to accountability in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+related_article3:
+    id: 169557
+    title: What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+related_article4:
+    id: 169569
+    title: What are the safe practices for medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
+related_article5:
+    id: 169581
+    title: What is the importance of understanding team dynamics in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 ---
 
 &nbsp;

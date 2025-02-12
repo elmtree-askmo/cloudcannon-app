@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins.md
 url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166953
+    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+related_article2:
+    id: 166953
+    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+related_article3:
+    id: 166954
+    title: What are the characteristics of nonpolar aliphatic R-groups?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+related_article4:
+    id: 166957
+    title: Describe the structure of a polypeptide chain formed by peptide bonds.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
+related_article5:
+    id: 166957
+    title: Describe the structure of a polypeptide chain formed by peptide bonds.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 ---
 
 &nbsp;

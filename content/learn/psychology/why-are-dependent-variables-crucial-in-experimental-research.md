@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-are-dependent-variables-crucial-in-experimental-research.md
 url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
 score: -1.0
+related_article1:
+    id: 164243
+    title: What are the primary types of cognitive processes studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
+related_article2:
+    id: 164238
+    title: How do association areas in the brain contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+related_article3:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
+related_article4:
+    id: 164235
+    title: What role does fMRI play in cognitive neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
+related_article5:
+    id: 164243
+    title: What are the primary types of cognitive processes studied in neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
 ---
 
 &nbsp;

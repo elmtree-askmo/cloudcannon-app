@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems.md
 url: /learn/psychology/questions/what-is-the-ecology-of-fear-and-how-does-it-impact-ecosystems
 score: -1.0
+related_article1:
+    id: 170830
+    title: Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article2:
+    id: 170826
+    title: Explain the concept of diminishing returns and its relevance to foraging efficiency.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-diminishing-returns-and-its-relevance-to-foraging-efficiency
+related_article3:
+    id: 170828
+    title: How do predator-prey dynamics influence community structure?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-predatorprey-dynamics-influence-community-structure
+related_article4:
+    id: 170830
+    title: Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
+related_article5:
+    id: 170830
+    title: Describe the evolutionary basis of behavioral ecology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-evolutionary-basis-of-behavioral-ecology
 ---
 
 &nbsp;

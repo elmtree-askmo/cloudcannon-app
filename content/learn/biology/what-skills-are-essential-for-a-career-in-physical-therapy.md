@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-skills-are-essential-for-a-career-in-physical-therapy.md
 url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 score: -1.0
+related_article1:
+    id: 167493
+    title: What educational technologies are used in biology to enhance learning?
+    subject: Biology
+    url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
+related_article2:
+    id: 167474
+    title: Why is gaining professional experience through internships important for medical school preparation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
+related_article3:
+    id: 167468
+    title: How does biology apply to everyday life?
+    subject: Biology
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+related_article4:
+    id: 167469
+    title: Describe the structure and function of a typical cell.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+related_article5:
+    id: 167471
+    title: What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 ---
 
 &nbsp;

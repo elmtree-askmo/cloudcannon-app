@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets.md
 url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
 score: -1.0
+related_article1:
+    id: 163871
+    title: How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+related_article2:
+    id: 163864
+    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+related_article3:
+    id: 163862
+    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
+related_article4:
+    id: 163869
+    title: How do military and economic influences contribute to the control of territory and resources in political economy?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
+related_article5:
+    id: 163868
+    title: What was the significance of the slave trade in the context of colonialism and specialized production?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects.md
 url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
 score: -1.0
+related_article1:
+    id: 164466
+    title: How do fMRI studies contribute to our understanding of categorical metrics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
+related_article2:
+    id: 164464
+    title: How does aphantasia affect cognitive map strategy and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+related_article3:
+    id: 164463
+    title: What are the main differences between route-based and cognitive map navigation strategies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+related_article4:
+    id: 164472
+    title: How does damage to the parahippocampal place area affect cognitive map formation and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation
+related_article5:
+    id: 164475
+    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
 score: -1.0
+related_article1:
+    id: 166422
+    title: What are the fitness benefits of group hunting in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
+related_article2:
+    id: 166421
+    title: How does the genetic component of behavior influence evolutionary processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+related_article3:
+    id: 166401
+    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
+related_article4:
+    id: 166409
+    title: How do phenotype and genotype interact to influence an organism's fitness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+related_article5:
+    id: 166411
+    title: Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 ---
 
 &nbsp;

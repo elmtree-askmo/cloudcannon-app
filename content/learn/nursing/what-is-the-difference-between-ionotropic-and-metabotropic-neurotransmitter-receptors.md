@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors.md
 url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 score: -1.0
+related_article1:
+    id: 170607
+    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article2:
+    id: 170613
+    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
+related_article3:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article4:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article5:
+    id: 170599
+    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-the-selection-differential-calculated-and-what-does-it-indicate.md
 url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
 score: -1.0
+related_article1:
+    id: 166369
+    title: What is phylogeny and how does it relate to evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+related_article2:
+    id: 166361
+    title: Define adaptation and explain its importance in evolutionary biology.
+    subject: Biology
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article3:
+    id: 166354
+    title: How do ultimate and proximate questions differ in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
+related_article4:
+    id: 166371
+    title: What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article5:
+    id: 166354
+    title: How do ultimate and proximate questions differ in the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 ---
 
 &nbsp;

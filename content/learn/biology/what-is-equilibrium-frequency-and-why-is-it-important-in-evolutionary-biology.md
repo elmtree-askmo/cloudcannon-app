@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology.md
 url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170794
+    title: Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+related_article2:
+    id: 170809
+    title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article3:
+    id: 170805
+    title: How can equilibrium points be determined in the context of strategy success?
+    subject: Biology
+    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+related_article4:
+    id: 170808
+    title: What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+related_article5:
+    id: 170790
+    title: What is the purpose of a paleo matrix in evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
 ---
 
 &nbsp;

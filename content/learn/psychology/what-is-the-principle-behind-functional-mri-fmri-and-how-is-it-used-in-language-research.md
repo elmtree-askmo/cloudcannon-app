@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research.md
 url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
 score: -1.0
+related_article1:
+    id: 164603
+    title: What roles do Broca's Area and Wernicke's Area play in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
+related_article2:
+    id: 164609
+    title: What are the advantages of using eye-tracking studies in human behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
+related_article3:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article4:
+    id: 164604
+    title: How does the arcuate fasciculus contribute to language function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
+related_article5:
+    id: 164600
+    title: How are computational models used in the analysis of phonological graphs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
 ---
 
 &nbsp;

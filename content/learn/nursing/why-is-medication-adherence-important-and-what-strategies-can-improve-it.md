@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-medication-adherence-important-and-what-strategies-can-improve-it.md
 url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 score: -1.0
+related_article1:
+    id: 169753
+    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article2:
+    id: 169748
+    title: What tools and techniques are used for effective pain assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
+related_article3:
+    id: 169757
+    title: What are the regulations and storage requirements for controlled drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article4:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article5:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 ---
 
 &nbsp;

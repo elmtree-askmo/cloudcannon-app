@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding.md
 url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
 score: -1.0
+related_article1:
+    id: 167293
+    title: What distinguishes polar covalent bonds from nonpolar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+related_article2:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+related_article3:
+    id: 167286
+    title: What are isotopes and how do they affect the atomic mass of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+related_article4:
+    id: 167292
+    title: What are the bonding capabilities of carbon that make it unique?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-bonding-capabilities-of-carbon-that-make-it-unique
+related_article5:
+    id: 167294
+    title: How do functional groups affect the properties and reactions of biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 ---
 
 &nbsp;

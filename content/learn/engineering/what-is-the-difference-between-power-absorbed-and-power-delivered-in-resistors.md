@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors.md
 url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
 score: -1.0
+related_article1:
+    id: 167938
+    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+related_article2:
+    id: 167933
+    title: What is the effect of adding resistors in series on the total resistance of the circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
+related_article3:
+    id: 167936
+    title: Explain the concept of conventional current and its direction in a circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
+related_article4:
+    id: 167937
+    title: How is voltage distributed across resistors in a series circuit?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
+related_article5:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
 ---
 
 &nbsp;

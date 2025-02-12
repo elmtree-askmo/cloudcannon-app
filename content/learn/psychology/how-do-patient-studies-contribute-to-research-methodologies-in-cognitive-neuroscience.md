@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience.md
 url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164662
+    title: How does MRI technology contribute to the visualization of brain damage?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+related_article2:
+    id: 164661
+    title: What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article3:
+    id: 164659
+    title: What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+related_article4:
+    id: 164666
+    title: What are the primary risk factors for concussions in sports, and how are they assessed?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-risk-factors-for-concussions-in-sports-and-how-are-they-assessed
+related_article5:
+    id: 164660
+    title: How have ethical considerations influenced research on natural brain lesions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 ---
 
 &nbsp;

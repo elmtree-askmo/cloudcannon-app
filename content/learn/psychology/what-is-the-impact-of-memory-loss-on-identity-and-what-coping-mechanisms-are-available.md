@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available.md
 url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
 score: -1.0
+related_article1:
+    id: 164500
+    title: What are the educational implications of understanding learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+related_article2:
+    id: 164496
+    title: What is the Information Processing Model in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+related_article3:
+    id: 164499
+    title: How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+related_article4:
+    id: 164494
+    title: How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article5:
+    id: 164479
+    title: What are the main differences between retrograde and anterograde amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 ---
 
 &nbsp;

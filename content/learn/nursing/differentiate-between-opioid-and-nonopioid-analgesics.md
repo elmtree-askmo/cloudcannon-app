@@ -21,6 +21,31 @@ subject: Nursing
 file_name: differentiate-between-opioid-and-nonopioid-analgesics.md
 url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
 score: -1.0
+related_article1:
+    id: 166445
+    title: Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article2:
+    id: 166445
+    title: Explain the function of agonist medications in enhancing receptor activity.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article3:
+    id: 166444
+    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
+related_article4:
+    id: 166452
+    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+related_article5:
+    id: 166447
+    title: Define narcotic medications and explain their classification as controlled substances.
+    subject: Nursing
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 ---
 
 &nbsp;

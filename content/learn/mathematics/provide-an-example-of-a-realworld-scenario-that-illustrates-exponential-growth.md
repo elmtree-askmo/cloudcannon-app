@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth.md
 url: /learn/mathematics/questions/provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth
 score: -1.0
+related_article1:
+    id: 163763
+    title: What is the general form of an exponential function and how does it differ from a linear function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
+related_article2:
+    id: 163789
+    title: Describe a method for solving real-world problems using exponential models.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
+related_article3:
+    id: 163785
+    title: What is the zero exponent rule and how does it apply to exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
+related_article4:
+    id: 163784
+    title: Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+related_article5:
+    id: 163765
+    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
 ---
 
 &nbsp;

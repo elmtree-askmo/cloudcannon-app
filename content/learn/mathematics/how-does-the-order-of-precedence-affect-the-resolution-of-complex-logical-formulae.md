@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae.md
 url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
 score: -1.0
+related_article1:
+    id: 170246
+    title: What is the truth table for disjunction, and how is it applied in propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+related_article2:
+    id: 170239
+    title: What is the difference between atomic and compound propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-atomic-and-compound-propositions
+related_article3:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article4:
+    id: 170252
+    title: Provide an example of a contradiction and explain its characteristics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-an-example-of-a-contradiction-and-explain-its-characteristics
+related_article5:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
 ---
 
 &nbsp;

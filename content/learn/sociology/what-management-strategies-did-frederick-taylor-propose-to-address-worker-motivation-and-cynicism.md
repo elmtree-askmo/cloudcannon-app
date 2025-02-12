@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism.md
 url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 score: -1.0
+related_article1:
+    id: 165252
+    title: What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article2:
+    id: 165245
+    title: What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
+related_article3:
+    id: 165245
+    title: What are the key elements of Max Weber's classical organizational theory?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
+related_article4:
+    id: 165251
+    title: What is the role of line functions in public service organizations?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-line-functions-in-public-service-organizations
+related_article5:
+    id: 165248
+    title: How does bureaucratic inefficiency arise from an overemphasis on structure?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
 ---
 
 &nbsp;

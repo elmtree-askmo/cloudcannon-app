@@ -21,6 +21,31 @@ subject: Nursing
 file_name: explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery.md
 url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 score: -1.0
+related_article1:
+    id: 170602
+    title: What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article2:
+    id: 170609
+    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+related_article3:
+    id: 170618
+    title: What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
+related_article4:
+    id: 170600
+    title: What is the difference between the absolute and relative refractory periods in action potential propagation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
+related_article5:
+    id: 170618
+    title: What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 ---
 
 &nbsp;

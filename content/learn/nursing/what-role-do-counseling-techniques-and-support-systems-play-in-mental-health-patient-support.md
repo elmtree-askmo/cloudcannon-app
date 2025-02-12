@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support.md
 url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
 score: -1.0
+related_article1:
+    id: 169749
+    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article2:
+    id: 169755
+    title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+related_article3:
+    id: 169740
+    title: How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
+related_article4:
+    id: 169759
+    title: How can adverse drug reactions be identified and managed effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+related_article5:
+    id: 169744
+    title: How do nutrition and hydration impact patient recovery?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
 ---
 
 &nbsp;

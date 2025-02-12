@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function.md
 url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 score: -1.0
+related_article1:
+    id: 170436
+    title: Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article2:
+    id: 170425
+    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+related_article3:
+    id: 170426
+    title: How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
+related_article4:
+    id: 170431
+    title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
+related_article5:
+    id: 170422
+    title: How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
 ---
 
 &nbsp;

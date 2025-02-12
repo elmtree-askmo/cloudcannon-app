@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-cytokines-and-what-role-do-they-play-in-biological-systems.md
 url: /learn/mathematics/questions/what-are-cytokines-and-what-role-do-they-play-in-biological-systems
 score: -1.0
+related_article1:
+    id: 164921
+    title: How can the dimensions of a square be altered to form a rectangle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-dimensions-of-a-square-be-altered-to-form-a-rectangle
+related_article2:
+    id: 164927
+    title: How can dimensional analysis be applied to solve geometric problems?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-dimensional-analysis-be-applied-to-solve-geometric-problems
+related_article3:
+    id: 164926
+    title: What are the basic mathematical operations used in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-mathematical-operations-used-in-geometry
+related_article4:
+    id: 164924
+    title: What is the difference between length, width, and height in terms of dimensions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-length-width-and-height-in-terms-of-dimensions
+related_article5:
+    id: 164930
+    title: What are the fundamental geometric principles that apply to transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-fundamental-geometric-principles-that-apply-to-transformations
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-do-dopaminergic-pathways-play-in-parkinsons-disease.md
 url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 score: -1.0
+related_article1:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
+related_article2:
+    id: 170463
+    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article3:
+    id: 170484
+    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article4:
+    id: 170467
+    title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
+related_article5:
+    id: 170475
+    title: What are the causes and symptoms of an epidural hematoma?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 ---
 
 &nbsp;

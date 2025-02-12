@@ -21,6 +21,31 @@ subject: Science
 file_name: how-does-a-hypothesis-differ-from-a-prediction-in-scientific-research.md
 url: /learn/science/questions/how-does-a-hypothesis-differ-from-a-prediction-in-scientific-research
 score: -1.0
+related_article1:
+    id: 163349
+    title: What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
+related_article2:
+    id: 163349
+    title: What is the importance of having a control group in an experimental design?
+    subject: Science
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
+related_article3:
+    id: 163347
+    title: What are the key steps involved in the scientific method process?
+    subject: Science
+    url: /learn/science/questions/what-are-the-key-steps-involved-in-the-scientific-method-process
+related_article4:
+    id: 163355
+    title: Why is the peer review process crucial in scientific communication?
+    subject: Science
+    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
+related_article5:
+    id: 163350
+    title: How do independent and dependent variables differ in an experiment?
+    subject: Science
+    url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
 ---
 
 &nbsp;

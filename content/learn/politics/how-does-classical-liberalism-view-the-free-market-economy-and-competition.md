@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-does-classical-liberalism-view-the-free-market-economy-and-competition.md
 url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
 score: -1.0
+related_article1:
+    id: 169273
+    title: How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article2:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+related_article3:
+    id: 169266
+    title: What role do political parties play in the recruitment of candidates and campaign infrastructure?
+    subject: Politics
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
+related_article4:
+    id: 169270
+    title: What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article5:
+    id: 169269
+    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    subject: Politics
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
 ---
 
 &nbsp;

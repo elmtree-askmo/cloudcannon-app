@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover.md
 url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
 score: -1.0
+related_article1:
+    id: 168071
+    title: Why is adolescence considered important for memory recall and adult identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
+related_article2:
+    id: 168066
+    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
+related_article3:
+    id: 168075
+    title: What are the age-related differences in morning versus evening performance for cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
+related_article4:
+    id: 168071
+    title: Why is adolescence considered important for memory recall and adult identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
+related_article5:
+    id: 168071
+    title: Why is adolescence considered important for memory recall and adult identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
 ---
 
 &nbsp;

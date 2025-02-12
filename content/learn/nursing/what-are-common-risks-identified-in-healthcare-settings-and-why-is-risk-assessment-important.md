@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important.md
 url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
 score: -1.0
+related_article1:
+    id: 169682
+    title: What strategies can be implemented to prevent patient falls in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
+related_article2:
+    id: 169671
+    title: What procedures are essential for preventing hospital-acquired infections?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
+related_article3:
+    id: 169667
+    title: What are the best practices for safe medication prescription and administration to avoid errors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+related_article4:
+    id: 169674
+    title: What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article5:
+    id: 169675
+    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
 ---
 
 &nbsp;

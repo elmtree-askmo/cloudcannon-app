@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration.md
 url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
 score: -1.0
+related_article1:
+    id: 168768
+    title: Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
+related_article2:
+    id: 168773
+    title: How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
+related_article3:
+    id: 168776
+    title: How do guard cells regulate the opening and closing of stomata?
+    subject: Biology
+    url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
+related_article4:
+    id: 168780
+    title: What are xerophytes and how are they adapted to dry environments?
+    subject: Biology
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
+related_article5:
+    id: 168768
+    title: Why is the surface area to volume ratio important for small organisms?
+    subject: Biology
+    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
 ---
 
 &nbsp;

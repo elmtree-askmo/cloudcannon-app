@@ -21,6 +21,31 @@ subject: Psychology
 file_name: why-is-identifying-core-values-important-in-evaluating-personal-abilities.md
 url: /learn/psychology/questions/why-is-identifying-core-values-important-in-evaluating-personal-abilities
 score: -1.0
+related_article1:
+    id: 168452
+    title: How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article2:
+    id: 168435
+    title: What is the purpose of online personality questionnaires?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
+related_article3:
+    id: 168433
+    title: What are the key components of personality as defined in personality assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-personality-as-defined-in-personality-assessment
+related_article4:
+    id: 168444
+    title: How do Holland Codes categorize work personalities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
+related_article5:
+    id: 168451
+    title: What is the importance of matching occupations with personal work values?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-importance-of-matching-occupations-with-personal-work-values
 ---
 
 &nbsp;

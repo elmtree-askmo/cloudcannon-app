@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-an-inductive-hypothesis-and-how-is-it-formulated.md
 url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
 score: -1.0
+related_article1:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article2:
+    id: 170739
+    title: Why is the base case important in mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
+related_article3:
+    id: 170737
+    title: What is the purpose of mathematical induction in proof techniques?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
+related_article4:
+    id: 170742
+    title: What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article5:
+    id: 170754
+    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry.md
 url: /learn/mathematics/questions/what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry
 score: -1.0
+related_article1:
+    id: 163780
+    title: What does it mean for a function to be continuous?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
+related_article2:
+    id: 163777
+    title: What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article3:
+    id: 163777
+    title: What is the effect of stretching and compressing on cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
+related_article4:
+    id: 163759
+    title: Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article5:
+    id: 163779
+    title: How do reflections across axes transform cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
 ---
 
 &nbsp;

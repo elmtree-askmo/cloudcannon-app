@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-spatial-perception-and-how-does-it-vary-by-gender.md
 url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 score: -1.0
+related_article1:
+    id: 168124
+    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article2:
+    id: 168136
+    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    subject: Psychology
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+related_article3:
+    id: 168109
+    title: What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+related_article4:
+    id: 168131
+    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+related_article5:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 ---
 
 &nbsp;

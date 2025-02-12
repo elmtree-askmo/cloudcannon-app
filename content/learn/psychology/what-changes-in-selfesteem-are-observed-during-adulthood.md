@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-changes-in-selfesteem-are-observed-during-adulthood.md
 url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
 score: -1.0
+related_article1:
+    id: 168115
+    title: What are the gender differences observed in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
+related_article2:
+    id: 168132
+    title: How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article3:
+    id: 168122
+    title: What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article4:
+    id: 168111
+    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+related_article5:
+    id: 168117
+    title: What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 ---
 
 &nbsp;

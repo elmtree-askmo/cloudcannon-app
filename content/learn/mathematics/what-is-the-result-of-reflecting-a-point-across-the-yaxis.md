@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-result-of-reflecting-a-point-across-the-yaxis.md
 url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
 score: -1.0
+related_article1:
+    id: 162682
+    title: How do reflections preserve congruence between figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+related_article2:
+    id: 162894
+    title: Describe the result of reflecting a point across both the x-axis and y-axis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
+related_article3:
+    id: 162679
+    title: How is a reflection defined in geometric terms?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
+related_article4:
+    id: 162693
+    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+related_article5:
+    id: 162899
+    title: Why do reflections maintain the size and shape of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

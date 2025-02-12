@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity.md
 url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 score: -1.0
+related_article1:
+    id: 166512
+    title: What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article2:
+    id: 166509
+    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+related_article3:
+    id: 166512
+    title: What procedures ensure accurate dosing in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+related_article4:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article5:
+    id: 166511
+    title: What strategies can be used to manage drug interactions effectively?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets.md
 url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
 score: -1.0
+related_article1:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article2:
+    id: 165369
+    title: How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article3:
+    id: 165367
+    title: What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
+related_article4:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article5:
+    id: 165367
+    title: What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 ---
 
 &nbsp;

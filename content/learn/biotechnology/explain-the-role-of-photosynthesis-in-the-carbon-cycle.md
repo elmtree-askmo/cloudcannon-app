@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: explain-the-role-of-photosynthesis-in-the-carbon-cycle.md
 url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 score: -1.0
+related_article1:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article2:
+    id: 170313
+    title: What is the primary function of the cytoskeleton in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+related_article3:
+    id: 170319
+    title: Compare the membrane structure of chloroplasts and mitochondria.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
+related_article4:
+    id: 170310
+    title: How does the Golgi apparatus contribute to protein processing in animal cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
+related_article5:
+    id: 170314
+    title: How do vacuoles contribute to the storage and support in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
 ---
 
 &nbsp;

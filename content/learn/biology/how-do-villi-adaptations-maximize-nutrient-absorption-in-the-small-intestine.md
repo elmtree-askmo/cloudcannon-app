@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine.md
 url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
 score: -1.0
+related_article1:
+    id: 168828
+    title: How does the branching in amelopectin affect its hydrolysis efficiency?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+related_article2:
+    id: 168832
+    title: How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+related_article3:
+    id: 168838
+    title: How does ATP hydrolysis contribute to nutrient transport across cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
+related_article4:
+    id: 168833
+    title: What is the role of dipeptidases in the final stages of protein digestion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-behavioral-ecology-relate-to-evolutionary-biology.md
 url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
 score: -1.0
+related_article1:
+    id: 170898
+    title: How do prey evasion tactics impact predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
+related_article2:
+    id: 170901
+    title: What cognitive processes are involved in animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article3:
+    id: 170908
+    title: What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article4:
+    id: 170905
+    title: What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
+related_article5:
+    id: 170904
+    title: How do activity levels affect energy use in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-activity-levels-affect-energy-use-in-animals
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior.md
 url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 score: -1.0
+related_article1:
+    id: 165310
+    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article2:
+    id: 165296
+    title: How do variation and heritability contribute to differential survival in natural selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
+related_article3:
+    id: 165292
+    title: How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+related_article4:
+    id: 165313
+    title: How do early experiences influence the development of behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
+related_article5:
+    id: 165292
+    title: How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity.md
 url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
 score: -1.0
+related_article1:
+    id: 166932
+    title: What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article2:
+    id: 166932
+    title: What are the sources and types of genetic variation, and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article3:
+    id: 166925
+    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    subject: Biology
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+related_article4:
+    id: 166918
+    title: Define homeostasis and explain its importance for survival.
+    subject: Biology
+    url: /learn/biology/questions/define-homeostasis-and-explain-its-importance-for-survival
+related_article5:
+    id: 166908
+    title: How does formulating a question contribute to scientific research?
+    subject: Biology
+    url: /learn/biology/questions/how-does-formulating-a-question-contribute-to-scientific-research
 ---
 
 &nbsp;

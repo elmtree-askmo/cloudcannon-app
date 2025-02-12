@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths.md
 url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 score: -1.0
+related_article1:
+    id: 169810
+    title: What is the significance of continuous learning in professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
+related_article2:
+    id: 169815
+    title: How can personal biases be identified and overcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+related_article3:
+    id: 169813
+    title: How does cultural awareness impact patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
+related_article4:
+    id: 169804
+    title: What is the role of introspection in developing self-awareness?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
+related_article5:
+    id: 169821
+    title: What are the differences between verbal and non-verbal communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 ---
 
 &nbsp;

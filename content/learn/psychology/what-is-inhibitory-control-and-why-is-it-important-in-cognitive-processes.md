@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes.md
 url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
 score: -1.0
+related_article1:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article2:
+    id: 164907
+    title: What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article3:
+    id: 164916
+    title: How is cognitive load measured, and what are its implications for learning and task performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
+related_article4:
+    id: 164907
+    title: What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article5:
+    id: 164917
+    title: What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration.md
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-krebs-cycle-in-cellular-respiration
 score: -1.0
+related_article1:
+    id: 170319
+    title: Compare the membrane structure of chloroplasts and mitochondria.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
+related_article2:
+    id: 170315
+    title: What is the role of ribosomes in plant cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+related_article3:
+    id: 170321
+    title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
+related_article4:
+    id: 170321
+    title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
+related_article5:
+    id: 170326
+    title: How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 ---
 
 &nbsp;

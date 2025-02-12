@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing.md
 url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
 score: -1.0
+related_article1:
+    id: 167459
+    title: How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+related_article2:
+    id: 167448
+    title: How do hydrogen bonds influence the properties of water?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+related_article3:
+    id: 167456
+    title: Define acids and bases according to the proton donor-acceptor concept.
+    subject: Biology
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
+related_article4:
+    id: 167465
+    title: Describe the types of molecular interactions and their significance in protein folding.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+related_article5:
+    id: 167454
+    title: What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 ---
 
 &nbsp;

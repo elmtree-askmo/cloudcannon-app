@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality.md
 url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
 score: -1.0
+related_article1:
+    id: 167952
+    title: In what ways do children use symbolic representation in make-believe play?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-children-use-symbolic-representation-in-makebelieve-play
+related_article2:
+    id: 167957
+    title: How do children attribute lifelike qualities to inanimate objects through animism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
+related_article3:
+    id: 167958
+    title: What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
+related_article4:
+    id: 167960
+    title: What is irreversibility, and how does it limit a child's understanding of processes and actions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
+related_article5:
+    id: 167951
+    title: How does representational thought manifest in a child's ability to think about past and future events?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-representational-thought-manifest-in-a-childs-ability-to-think-about-past-and-future-events
 ---
 
 &nbsp;

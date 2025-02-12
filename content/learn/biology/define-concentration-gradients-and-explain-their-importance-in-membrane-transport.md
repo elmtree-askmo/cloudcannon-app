@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-concentration-gradients-and-explain-their-importance-in-membrane-transport.md
 url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
 score: -1.0
+related_article1:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article2:
+    id: 167193
+    title: What factors affect membrane permeability and how do they influence transport?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+related_article3:
+    id: 167186
+    title: How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article4:
+    id: 167187
+    title: What factors determine the specificity and selectivity of channel proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+related_article5:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 ---
 
 &nbsp;

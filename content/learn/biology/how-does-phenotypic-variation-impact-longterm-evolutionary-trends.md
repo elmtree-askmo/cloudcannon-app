@@ -21,6 +21,26 @@ subject: Biology
 file_name: how-does-phenotypic-variation-impact-longterm-evolutionary-trends.md
 url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 score: -1.0
+related_article1:
+    id: 170803
+    title: How do cycles of increase and decline affect population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
+related_article2:
+    id: 170809
+    title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article3:
+    id: 170803
+    title: How do cycles of increase and decline affect population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
+related_article4:
+    id: 170791
+    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 ---
 
 &nbsp;

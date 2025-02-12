@@ -21,6 +21,31 @@ subject: Sociology
 file_name: why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics.md
 url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
 score: -1.0
+related_article1:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article2:
+    id: 163669
+    title: How do race, class, and gender influence social relations and outcomes of social processes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
+related_article3:
+    id: 163661
+    title: How do social inequalities manifest within social hierarchies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+related_article4:
+    id: 163672
+    title: How does primary data collection differ from secondary data analysis in research?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+related_article5:
+    id: 163671
+    title: What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
 ---
 
 &nbsp;

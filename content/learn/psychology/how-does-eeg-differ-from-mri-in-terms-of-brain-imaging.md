@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-eeg-differ-from-mri-in-terms-of-brain-imaging.md
 url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
 score: -1.0
+related_article1:
+    id: 164671
+    title: How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+related_article2:
+    id: 164691
+    title: What are the common types of brain injuries and their rehabilitation techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
+related_article3:
+    id: 164683
+    title: What role do subconscious processes play in influencing behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+related_article4:
+    id: 164684
+    title: What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
+related_article5:
+    id: 164693
+    title: What factors contribute to cognitive aging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
 ---
 
 &nbsp;

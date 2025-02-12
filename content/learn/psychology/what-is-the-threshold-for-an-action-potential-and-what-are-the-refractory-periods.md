@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods.md
 url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
 score: -1.0
+related_article1:
+    id: 164817
+    title: What is the resting potential of a neuron and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+related_article2:
+    id: 164832
+    title: How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article3:
+    id: 164828
+    title: What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+related_article4:
+    id: 164817
+    title: What is the resting potential of a neuron and how is it measured?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+related_article5:
+    id: 164830
+    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 ---
 
 &nbsp;

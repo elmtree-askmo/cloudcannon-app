@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-olfactory-and-optic-nerves.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
 score: -1.0
+related_article1:
+    id: 170477
+    title: How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
+related_article2:
+    id: 170481
+    title: How do biological mechanisms influence pain tolerance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+related_article3:
+    id: 170478
+    title: What are the differences between functional and structural neuroimaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article4:
+    id: 170467
+    title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
+related_article5:
+    id: 170468
+    title: What are the major functions of the brainstem in the central nervous system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 ---
 
 &nbsp;

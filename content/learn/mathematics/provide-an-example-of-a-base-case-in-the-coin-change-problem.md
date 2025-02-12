@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: provide-an-example-of-a-base-case-in-the-coin-change-problem.md
 url: /learn/mathematics/questions/provide-an-example-of-a-base-case-in-the-coin-change-problem
 score: -1.0
+related_article1:
+    id: 170698
+    title: What is the significance of the base case in the Fibonacci sequence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
+related_article2:
+    id: 170695
+    title: Why is establishing a base case crucial in induction proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
+related_article3:
+    id: 170687
+    title: What is the key difference between strong induction and normal induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-key-difference-between-strong-induction-and-normal-induction
+related_article4:
+    id: 170688
+    title: How does the assumption of all values before n play a role in strong induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+related_article5:
+    id: 170692
+    title: How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
 ---
 
 &nbsp;

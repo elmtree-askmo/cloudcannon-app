@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues.md
 url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 score: -1.0
+related_article1:
+    id: 164956
+    title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexia-and-alexia-and-how-is-the-angular-gyrus-involved
+related_article2:
+    id: 164971
+    title: Explain the logographic nature of the Chinese language structure and its implications for language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
+related_article3:
+    id: 164971
+    title: Explain the logographic nature of the Chinese language structure and its implications for language processing.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
+related_article4:
+    id: 164961
+    title: What is the direct route to reading, and how does it relate to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
+related_article5:
+    id: 164956
+    title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexia-and-alexia-and-how-is-the-angular-gyrus-involved
 ---
 
 &nbsp;

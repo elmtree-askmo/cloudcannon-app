@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis.md
 url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 score: -1.0
+related_article1:
+    id: 170991
+    title: What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
+related_article2:
+    id: 170991
+    title: What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
+related_article3:
+    id: 170988
+    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+related_article4:
+    id: 170979
+    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article5:
+    id: 170984
+    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
 ---
 
 &nbsp;

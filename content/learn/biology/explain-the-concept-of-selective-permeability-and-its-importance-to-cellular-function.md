@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function.md
 url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
 score: -1.0
+related_article1:
+    id: 167367
+    title: What is turgor pressure and how does it relate to osmosis in plant cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+related_article2:
+    id: 167368
+    title: Describe the fluid mosaic model and its significance in understanding membrane structure.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
+related_article3:
+    id: 167365
+    title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
+related_article4:
+    id: 167360
+    title: How do glycolipids and glycoproteins contribute to cell recognition?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
+related_article5:
+    id: 167365
+    title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    subject: Biology
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
 ---
 
 &nbsp;

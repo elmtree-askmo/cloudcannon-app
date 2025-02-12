@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations.md
 url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
 score: -1.0
+related_article1:
+    id: 168013
+    title: How do knowledge and false memories interact in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
+related_article2:
+    id: 168019
+    title: How does suggestibility in children change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+related_article3:
+    id: 168024
+    title: How does cognitive development impact memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+related_article4:
+    id: 168031
+    title: What have studies revealed about the reliability of children's eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
+related_article5:
+    id: 168029
+    title: How do misinformation and suggestibility affect memory recall?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-threedomain-system-and-its-significance-in-classifying-life-forms.md
 url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
 score: -1.0
+related_article1:
+    id: 167732
+    title: How are shared characters used in the construction and interpretation of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
+related_article2:
+    id: 167735
+    title: Differentiate between homologous and analogous structures with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
+related_article3:
+    id: 167725
+    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+related_article4:
+    id: 167740
+    title: How have technological advances impacted the revision of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
+related_article5:
+    id: 167738
+    title: How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
 ---
 
 &nbsp;

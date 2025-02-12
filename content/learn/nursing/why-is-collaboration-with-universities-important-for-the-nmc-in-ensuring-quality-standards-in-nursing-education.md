@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education.md
 url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
 score: -1.0
+related_article1:
+    id: 169618
+    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+related_article2:
+    id: 169615
+    title: What are the key qualifications required for teaching staff in nursing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
+related_article3:
+    id: 169620
+    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+related_article4:
+    id: 169626
+    title: What is the significance of continuous professional development (CPD) in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
+related_article5:
+    id: 169626
+    title: What is the significance of continuous professional development (CPD) in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
 ---
 
 &nbsp;

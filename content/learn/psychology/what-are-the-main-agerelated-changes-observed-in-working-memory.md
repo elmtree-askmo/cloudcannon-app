@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-main-agerelated-changes-observed-in-working-memory.md
 url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
 score: -1.0
+related_article1:
+    id: 168045
+    title: What role does practice play in the stability of procedural memory with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
+related_article2:
+    id: 168046
+    title: How does automatic retrieval in procedural memory differ from declarative memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
+related_article3:
+    id: 168040
+    title: What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article4:
+    id: 168033
+    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
+related_article5:
+    id: 168038
+    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
 ---
 
 &nbsp;

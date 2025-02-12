@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: why-is-water-essential-for-sustaining-life-on-earth.md
 url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
 score: -1.0
+related_article1:
+    id: 167147
+    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+related_article2:
+    id: 167148
+    title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article3:
+    id: 167141
+    title: What is the molecular composition of water and how are the atoms bonded?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
+related_article4:
+    id: 167150
+    title: What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article5:
+    id: 167145
+    title: What is cohesion in water and how does it contribute to surface tension?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
 ---
 
 &nbsp;

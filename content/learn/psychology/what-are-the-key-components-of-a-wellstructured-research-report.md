@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-components-of-a-wellstructured-research-report.md
 url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
 score: -1.0
+related_article1:
+    id: 165079
+    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+related_article2:
+    id: 165080
+    title: What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article3:
+    id: 165075
+    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+related_article4:
+    id: 165081
+    title: What is the difference between qualitative and quantitative analysis in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+related_article5:
+    id: 165089
+    title: How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
 ---
 
 &nbsp;

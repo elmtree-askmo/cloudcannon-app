@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-importance-of-understanding-mathematical-concepts-in-real-life.md
 url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
 score: -1.0
+related_article1:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
+related_article2:
+    id: 162107
+    title: How do you solve a linear equation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-solve-a-linear-equation
+related_article3:
+    id: 162106
+    title: What is the role of variables in algebraic expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
+related_article4:
+    id: 162123
+    title: Provide a real-world example where negative numbers are used.
+    subject: Mathematics
+    url: /learn/mathematics/questions/provide-a-realworld-example-where-negative-numbers-are-used
+related_article5:
+    id: 162102
+    title: What is the importance of understanding mathematical concepts in real life?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 score: -1.0
+related_article1:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
+related_article2:
+    id: 168085
+    title: What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article3:
+    id: 168085
+    title: What are the differences between visual and auditory sensory inputs in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-visual-and-auditory-sensory-inputs-in-cognitive-development
+related_article4:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
 ---
 
 &nbsp;

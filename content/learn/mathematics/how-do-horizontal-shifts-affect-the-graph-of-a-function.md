@@ -21,6 +21,26 @@ subject: Mathematics
 file_name: how-do-horizontal-shifts-affect-the-graph-of-a-function.md
 url: /learn/mathematics/questions/how-do-horizontal-shifts-affect-the-graph-of-a-function
 score: -1.0
+related_article1:
+    id: 163850
+    title: What is the effect of a horizontal translation on the coordinates of a point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-effect-of-a-horizontal-translation-on-the-coordinates-of-a-point
+related_article2:
+    id: 163859
+    title: How does the orientation of a triangle change when it is reflected over the X-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-orientation-of-a-triangle-change-when-it-is-reflected-over-the-xaxis
+related_article3:
+    id: 163857
+    title: What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
+related_article4:
+    id: 163857
+    title: What happens to the coordinates of a point when they are scaled by a factor of 2?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-they-are-scaled-by-a-factor-of-2
 ---
 
 &nbsp;

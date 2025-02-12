@@ -21,6 +21,31 @@ subject: Psychology
 file_name: discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies.md
 url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
 score: -1.0
+related_article1:
+    id: 170925
+    title: What is the role of genetic diversity in population viability and dynamics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
+related_article2:
+    id: 170914
+    title: Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
+related_article3:
+    id: 170920
+    title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
+related_article4:
+    id: 170912
+    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+related_article5:
+    id: 170913
+    title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 ---
 
 &nbsp;

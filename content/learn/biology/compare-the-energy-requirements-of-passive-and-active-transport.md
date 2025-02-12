@@ -21,6 +21,31 @@ subject: Biology
 file_name: compare-the-energy-requirements-of-passive-and-active-transport.md
 url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
 score: -1.0
+related_article1:
+    id: 167186
+    title: How do transport proteins function as channels in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+related_article2:
+    id: 167195
+    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
+related_article3:
+    id: 167189
+    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+related_article4:
+    id: 167192
+    title: Describe the process of endocytosis and the types of materials it transports.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+related_article5:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 ---
 
 &nbsp;

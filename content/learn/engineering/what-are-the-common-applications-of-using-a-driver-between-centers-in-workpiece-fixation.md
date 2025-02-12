@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation.md
 url: /learn/engineering/questions/what-are-the-common-applications-of-using-a-driver-between-centers-in-workpiece-fixation
 score: -1.0
+related_article1:
+    id: 168701
+    title: What are the fundamental principles of the turning process, and how does a single-point cutting tool function in material removal?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-fundamental-principles-of-the-turning-process-and-how-does-a-singlepoint-cutting-tool-function-in-material-removal
+related_article2:
+    id: 168712
+    title: What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
+related_article3:
+    id: 168702
+    title: Describe the main components of a mechanical lathe and their functions.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
+related_article4:
+    id: 168706
+    title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article5:
+    id: 168711
+    title: Compare the speed and precision of CNC lathes with mechanical lathes.
+    subject: Engineering
+    url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
 ---
 
 &nbsp;

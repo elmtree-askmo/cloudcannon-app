@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects.md
 url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
 score: -1.0
+related_article1:
+    id: 165205
+    title: Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
+related_article2:
+    id: 165191
+    title: What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-observational-studies-in-birth-order-research-and-how-can-observational-bias-affect-the-results
+related_article3:
+    id: 165207
+    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+related_article4:
+    id: 165200
+    title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
+related_article5:
+    id: 165203
+    title: What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
 ---
 
 &nbsp;

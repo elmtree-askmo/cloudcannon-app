@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses.md
 url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 score: -1.0
+related_article1:
+    id: 166385
+    title: What are the different types of selection, and how do they affect allele frequencies in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
+related_article2:
+    id: 166386
+    title: Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article3:
+    id: 166390
+    title: What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article4:
+    id: 166374
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article5:
+    id: 166378
+    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
 ---
 
 &nbsp;

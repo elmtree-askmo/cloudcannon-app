@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies.md
 url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
 score: -1.0
+related_article1:
+    id: 165321
+    title: What are the principles of natural selection and how do they apply to animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
+related_article2:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+related_article3:
+    id: 165332
+    title: Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
+related_article4:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article5:
+    id: 165326
+    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---
 
 &nbsp;

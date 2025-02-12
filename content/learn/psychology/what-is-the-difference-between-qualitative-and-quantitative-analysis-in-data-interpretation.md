@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation.md
 url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
 score: -1.0
+related_article1:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+related_article2:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+related_article3:
+    id: 165087
+    title: How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article4:
+    id: 165071
+    title: How do control variables and confounding variables affect the outcome of an experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+related_article5:
+    id: 165092
+    title: How do design principles influence the effectiveness of data visualizations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
 ---
 
 &nbsp;

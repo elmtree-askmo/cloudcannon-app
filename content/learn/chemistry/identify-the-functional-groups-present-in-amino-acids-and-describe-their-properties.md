@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties.md
 url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
 score: -1.0
+related_article1:
+    id: 167081
+    title: What factors determine the solubility of a molecule in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-factors-determine-the-solubility-of-a-molecule-in-water
+related_article2:
+    id: 167072
+    title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
+related_article3:
+    id: 167075
+    title: How does electronegativity influence the polarity of a molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
+related_article4:
+    id: 167086
+    title: How does electronegativity affect bond formation and molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
+related_article5:
+    id: 167072
+    title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
 ---
 
 &nbsp;

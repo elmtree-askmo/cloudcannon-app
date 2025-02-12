@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 score: -1.0
+related_article1:
+    id: 162035
+    title: What are the effects of ionization on the state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+related_article2:
+    id: 162047
+    title: How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article3:
+    id: 162023
+    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article4:
+    id: 161991
+    title: How does the process of shaving wood represent a physical change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
+related_article5:
+    id: 161927
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

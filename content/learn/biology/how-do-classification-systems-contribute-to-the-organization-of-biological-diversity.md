@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-classification-systems-contribute-to-the-organization-of-biological-diversity.md
 url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
 score: -1.0
+related_article1:
+    id: 165819
+    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article2:
+    id: 165817
+    title: How do parasites evade the host's immune system?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+related_article3:
+    id: 165806
+    title: Explain the role of nomenclature in taxonomy.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+related_article4:
+    id: 165817
+    title: How do parasites evade the host's immune system?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+related_article5:
+    id: 165816
+    title: What are the defense mechanisms employed by hosts against pathogens?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
 ---
 
 &nbsp;

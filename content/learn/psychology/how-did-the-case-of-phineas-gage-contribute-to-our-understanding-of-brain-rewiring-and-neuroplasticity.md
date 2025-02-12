@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity.md
 url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
 score: -1.0
+related_article1:
+    id: 170576
+    title: What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article2:
+    id: 170561
+    title: What are the primary functions of the amygdala within the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article3:
+    id: 170581
+    title: What insights have split-brain research provided about hemispheric functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+related_article4:
+    id: 170564
+    title: How does the hippocampus contribute to long-term memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
+related_article5:
+    id: 170564
+    title: How does the hippocampus contribute to long-term memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 ---
 
 &nbsp;

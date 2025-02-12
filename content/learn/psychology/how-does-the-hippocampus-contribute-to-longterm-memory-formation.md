@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-hippocampus-contribute-to-longterm-memory-formation.md
 url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 score: -1.0
+related_article1:
+    id: 170593
+    title: What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article2:
+    id: 170594
+    title: How do genetic and environmental factors contribute to schizophrenia?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+related_article3:
+    id: 170592
+    title: How do materialistic perspectives explain consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+related_article4:
+    id: 170596
+    title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
+related_article5:
+    id: 170578
+    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
 ---
 
 &nbsp;

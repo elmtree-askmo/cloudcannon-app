@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation.md
 url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
 score: -1.0
+related_article1:
+    id: 169511
+    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
+related_article2:
+    id: 169500
+    title: How can risks be assessed and reduced in manual handling operations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+related_article3:
+    id: 169505
+    title: What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
+related_article4:
+    id: 169510
+    title: What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article5:
+    id: 169502
+    title: How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections.md
 url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
 score: -1.0
+related_article1:
+    id: 163003
+    title: How does Adlerian therapy's holistic view of personality integrate thoughts, feelings, and values?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
+related_article2:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
+related_article3:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article4:
+    id: 163008
+    title: How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
+related_article5:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
 ---
 
 &nbsp;

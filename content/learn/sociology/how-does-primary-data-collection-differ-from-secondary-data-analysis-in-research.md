@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research.md
 url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 score: -1.0
+related_article1:
+    id: 163668
+    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    subject: Sociology
+    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+related_article2:
+    id: 163660
+    title: What are the essential components of a systematic approach in research design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-components-of-a-systematic-approach-in-research-design
+related_article3:
+    id: 163660
+    title: What are the essential components of a systematic approach in research design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-essential-components-of-a-systematic-approach-in-research-design
+related_article4:
+    id: 163666
+    title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
+related_article5:
+    id: 163669
+    title: How do race, class, and gender influence social relations and outcomes of social processes?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 ---
 
 &nbsp;

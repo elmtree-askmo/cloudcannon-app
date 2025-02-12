@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-taxonomic-hierarchy-from-kingdom-to-species.md
 url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 score: -1.0
+related_article1:
+    id: 165814
+    title: What are the main methods of disease transmission in parasite ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article2:
+    id: 165810
+    title: How do ribosomal subunits aid in molecular classification?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
+related_article3:
+    id: 165808
+    title: Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article4:
+    id: 165825
+    title: What are the differences between asexual and sexual reproduction in parasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+related_article5:
+    id: 165818
+    title: Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
 ---
 
 &nbsp;

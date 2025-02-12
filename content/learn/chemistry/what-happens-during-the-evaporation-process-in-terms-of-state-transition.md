@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-happens-during-the-evaporation-process-in-terms-of-state-transition.md
 url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
 score: -1.0
+related_article1:
+    id: 161976
+    title: What are the indicators of a chemical change during a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
+related_article2:
+    id: 161971
+    title: What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article3:
+    id: 161947
+    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+related_article4:
+    id: 161944
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article5:
+    id: 162019
+    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
 ---
 
 &nbsp;

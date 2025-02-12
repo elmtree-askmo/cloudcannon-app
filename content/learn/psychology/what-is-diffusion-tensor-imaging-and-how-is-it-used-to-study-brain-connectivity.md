@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity.md
 url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 score: -1.0
+related_article1:
+    id: 170534
+    title: How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article2:
+    id: 170523
+    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+related_article3:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article4:
+    id: 170542
+    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article5:
+    id: 170540
+    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 ---
 
 &nbsp;

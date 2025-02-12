@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-role-of-preclinical-trials-in-the-drug-development-process.md
 url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
 score: -1.0
+related_article1:
+    id: 166499
+    title: What is the Controlled Substance Act and how does it classify narcotics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+related_article2:
+    id: 166493
+    title: What are the key components of pharmacokinetics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+related_article3:
+    id: 166508
+    title: What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article4:
+    id: 166494
+    title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+related_article5:
+    id: 166500
+    title: What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
 ---
 
 &nbsp;

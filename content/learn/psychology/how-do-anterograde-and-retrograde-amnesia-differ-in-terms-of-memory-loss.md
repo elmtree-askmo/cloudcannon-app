@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss.md
 url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
 score: -1.0
+related_article1:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+related_article2:
+    id: 164712
+    title: What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article3:
+    id: 164714
+    title: What role does the P-600 component play in syntactic processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+related_article4:
+    id: 164718
+    title: What is the difference between explicit and implicit memory in terms of memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
+related_article5:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
 ---
 
 &nbsp;

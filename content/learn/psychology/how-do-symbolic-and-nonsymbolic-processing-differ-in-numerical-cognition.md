@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition.md
 url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
 score: -1.0
+related_article1:
+    id: 165018
+    title: How do contextual effects influence visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
+related_article2:
+    id: 165015
+    title: What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article3:
+    id: 165018
+    title: How do contextual effects influence visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
+related_article4:
+    id: 165011
+    title: What are the main factors that influence reaction time in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+related_article5:
+    id: 165011
+    title: What are the main factors that influence reaction time in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
 ---
 
 &nbsp;

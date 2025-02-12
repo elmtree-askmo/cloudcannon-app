@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-characteristics-of-a-liquid-and-provide-an-example.md
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 161754
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article2:
+    id: 162067
+    title: What are the characteristics of a precipitation reaction?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
+related_article3:
+    id: 162052
+    title: What happens during the evaporation process in terms of state transition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
+related_article4:
+    id: 161971
+    title: What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article5:
+    id: 162049
+    title: Explain the process of a liquid changing to a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 ---
 
 &nbsp;

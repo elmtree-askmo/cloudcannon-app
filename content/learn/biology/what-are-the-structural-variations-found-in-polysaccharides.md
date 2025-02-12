@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-structural-variations-found-in-polysaccharides.md
 url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
 score: -1.0
+related_article1:
+    id: 167020
+    title: What is the difference between alpha and beta ring structures in monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
+related_article2:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+related_article3:
+    id: 167030
+    title: What is the structure and function of glycogen in animals?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+related_article4:
+    id: 167019
+    title: How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article5:
+    id: 167016
+    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
 ---
 
 &nbsp;

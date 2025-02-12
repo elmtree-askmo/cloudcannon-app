@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-the-diencephalon-in-brain-function.md
 url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
 score: -1.0
+related_article1:
+    id: 170586
+    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+related_article2:
+    id: 170588
+    title: How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article3:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article4:
+    id: 170589
+    title: What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article5:
+    id: 170569
+    title: How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
 ---
 
 &nbsp;

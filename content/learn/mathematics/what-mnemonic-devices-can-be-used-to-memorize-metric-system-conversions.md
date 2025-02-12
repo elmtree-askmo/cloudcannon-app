@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions.md
 url: /learn/mathematics/questions/what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions
 score: -1.0
+related_article1:
+    id: 165401
+    title: What is the first step in the unit conversion process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
+related_article2:
+    id: 165412
+    title: How do you convert liters to milliliters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
+related_article3:
+    id: 165399
+    title: What is the relationship between the prefix 'centi' and the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
+related_article4:
+    id: 165410
+    title: How do you convert meters to centimeters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
+related_article5:
+    id: 165396
+    title: How does the prefix 'hecto' compare to the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

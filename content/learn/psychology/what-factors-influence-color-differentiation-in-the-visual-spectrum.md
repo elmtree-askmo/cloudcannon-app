@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-influence-color-differentiation-in-the-visual-spectrum.md
 url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
 score: -1.0
+related_article1:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article2:
+    id: 164293
+    title: What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article3:
+    id: 164301
+    title: What are the main processes involved in auditory perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+related_article4:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+related_article5:
+    id: 164290
+    title: What role does color perception play in visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 ---
 
 &nbsp;

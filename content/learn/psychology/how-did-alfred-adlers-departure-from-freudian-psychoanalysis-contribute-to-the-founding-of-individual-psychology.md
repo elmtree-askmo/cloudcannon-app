@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology.md
 url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
 score: -1.0
+related_article1:
+    id: 163003
+    title: How does Adlerian therapy's holistic view of personality integrate thoughts, feelings, and values?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
+related_article2:
+    id: 162998
+    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
+related_article3:
+    id: 163004
+    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+related_article4:
+    id: 163006
+    title: How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
+related_article5:
+    id: 163002
+    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
 ---
 
 &nbsp;

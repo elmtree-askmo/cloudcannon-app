@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory.md
 url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 score: -1.0
+related_article1:
+    id: 164696
+    title: What are the key mechanisms of selective attention, and why is it important in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-mechanisms-of-selective-attention-and-why-is-it-important-in-cognitive-processing
+related_article2:
+    id: 164711
+    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+related_article3:
+    id: 164705
+    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    subject: Psychology
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article4:
+    id: 164708
+    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+related_article5:
+    id: 164701
+    title: What factors affect reaction time in visual search, and how does set size influence this process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
 ---
 
 &nbsp;

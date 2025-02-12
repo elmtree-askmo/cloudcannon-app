@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex.md
 url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
 score: -1.0
+related_article1:
+    id: 164467
+    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article2:
+    id: 164460
+    title: How do patient studies provide evidence for understanding object relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article3:
+    id: 164478
+    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+related_article4:
+    id: 164476
+    title: How do converging methods in neuroscience validate findings across different evidence sources?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
 ---
 
 &nbsp;

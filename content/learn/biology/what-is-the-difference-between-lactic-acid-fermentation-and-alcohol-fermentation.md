@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation.md
 url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
 score: -1.0
+related_article1:
+    id: 170362
+    title: How do large leaves in rainforest plants aid in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+related_article2:
+    id: 170369
+    title: How do chloroplasts contribute to glucose production?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+related_article3:
+    id: 170376
+    title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
+related_article4:
+    id: 170376
+    title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
+related_article5:
+    id: 170366
+    title: Explain the role of ATP in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
 ---
 
 &nbsp;

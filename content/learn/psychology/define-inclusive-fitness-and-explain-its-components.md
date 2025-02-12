@@ -21,6 +21,31 @@ subject: Psychology
 file_name: define-inclusive-fitness-and-explain-its-components.md
 url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 score: -1.0
+related_article1:
+    id: 170917
+    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
+related_article2:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article3:
+    id: 170910
+    title: How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article4:
+    id: 170918
+    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+related_article5:
+    id: 170914
+    title: Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
 ---
 
 &nbsp;

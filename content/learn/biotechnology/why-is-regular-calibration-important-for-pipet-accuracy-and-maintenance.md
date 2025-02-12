@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance.md
 url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 score: -1.0
+related_article1:
+    id: 165373
+    title: Outline the steps involved in the pipet calibration process.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
+related_article2:
+    id: 165379
+    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article3:
+    id: 165382
+    title: How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article4:
+    id: 165376
+    title: Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+related_article5:
+    id: 165374
+    title: What are the benefits of using color-coded pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids.md
 url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
 score: -1.0
+related_article1:
+    id: 166870
+    title: Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
+related_article2:
+    id: 166875
+    title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+related_article3:
+    id: 166877
+    title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article4:
+    id: 166870
+    title: Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
+related_article5:
+    id: 166868
+    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 ---
 
 &nbsp;

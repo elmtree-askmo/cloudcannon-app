@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics.md
 url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 score: -1.0
+related_article1:
+    id: 166143
+    title: What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article2:
+    id: 166140
+    title: How does habitat fragmentation affect metapopulation dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+related_article3:
+    id: 166135
+    title: What are the main sources of genetic variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
+related_article4:
+    id: 166151
+    title: What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
+related_article5:
+    id: 166149
+    title: What are the primary transmission pathways for zoonotic diseases?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
 ---
 
 &nbsp;

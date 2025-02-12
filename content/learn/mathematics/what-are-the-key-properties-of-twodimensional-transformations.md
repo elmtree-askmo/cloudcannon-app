@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-key-properties-of-twodimensional-transformations.md
 url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
 score: -1.0
+related_article1:
+    id: 162488
+    title: How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
+related_article2:
+    id: 162602
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article3:
+    id: 162483
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162490
+    title: How is the length of a line segment affected by rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+related_article5:
+    id: 162233
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

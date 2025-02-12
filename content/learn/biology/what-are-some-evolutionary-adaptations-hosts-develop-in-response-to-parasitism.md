@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism.md
 url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
 score: -1.0
+related_article1:
+    id: 166122
+    title: What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article2:
+    id: 166122
+    title: What characterizes the regular cycling behavior in predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
+related_article3:
+    id: 166120
+    title: What are the ecological consequences of parasitism on host population density?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-ecological-consequences-of-parasitism-on-host-population-density
+related_article4:
+    id: 166127
+    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article5:
+    id: 166133
+    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

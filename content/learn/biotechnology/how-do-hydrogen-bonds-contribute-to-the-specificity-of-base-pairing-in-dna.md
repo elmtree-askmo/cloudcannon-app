@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna.md
 url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
 score: -1.0
+related_article1:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article2:
+    id: 167531
+    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article3:
+    id: 167525
+    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+related_article4:
+    id: 167533
+    title: Why is the antiparallel orientation crucial for DNA's structural integrity?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-the-antiparallel-orientation-crucial-for-dnas-structural-integrity
+related_article5:
+    id: 167528
+    title: How does the single-stranded nature of RNA affect its function compared to DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
 ---
 
 &nbsp;

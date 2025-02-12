@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: describe-the-concept-of-circular-turning-in-rotations.md
 url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 score: -1.0
+related_article1:
+    id: 162598
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article2:
+    id: 162237
+    title: What is the center of rotation, and why is it important in transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+related_article3:
+    id: 162242
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article4:
+    id: 162606
+    title: How does reflection affect the orientation of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+related_article5:
+    id: 162492
+    title: What is a mirror image in the context of reflection transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
 ---
 
 &nbsp;

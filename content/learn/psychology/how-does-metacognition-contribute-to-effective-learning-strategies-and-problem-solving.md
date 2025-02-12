@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving.md
 url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
 score: -1.0
+related_article1:
+    id: 164914
+    title: Define cognitive flexibility and its importance in adaptation, providing examples.
+    subject: Psychology
+    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+related_article2:
+    id: 164917
+    title: What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
+related_article3:
+    id: 164911
+    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article4:
+    id: 164903
+    title: What is inhibitory control, and why is it important in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
+related_article5:
+    id: 164913
+    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
 ---
 
 &nbsp;

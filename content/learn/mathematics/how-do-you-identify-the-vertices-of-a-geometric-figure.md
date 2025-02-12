@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-identify-the-vertices-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
 score: -1.0
+related_article1:
+    id: 162322
+    title: How do you plot a point on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+related_article2:
+    id: 162327
+    title: What strategies can be used to match the orientation of two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+related_article3:
+    id: 162223
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article4:
+    id: 162324
+    title: What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article5:
+    id: 162225
+    title: What strategies can be used to match the orientation of two figures after a transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
 ---
 
 &nbsp;

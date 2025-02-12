@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-happens-during-the-state-transition-from-liquid-to-solid.md
 url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 score: -1.0
+related_article1:
+    id: 161967
+    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+related_article2:
+    id: 162036
+    title: What are the characteristics of a gas and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
+related_article3:
+    id: 162041
+    title: What is the significance of state changes in physical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
+related_article4:
+    id: 161761
+    title: What are the characteristics of a solid state of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+related_article5:
+    id: 161750
+    title: What is the role of oxygen in combustion reactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

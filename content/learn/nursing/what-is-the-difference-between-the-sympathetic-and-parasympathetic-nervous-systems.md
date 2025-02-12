@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems.md
 url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
 score: -1.0
+related_article1:
+    id: 169722
+    title: What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article2:
+    id: 169714
+    title: How does the esophagus use peristaltic waves to function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article3:
+    id: 169710
+    title: How do dendrites and axons function in nerve cells?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
+related_article4:
+    id: 169723
+    title: How is chronic pain defined and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
+related_article5:
+    id: 169704
+    title: What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 ---
 
 &nbsp;

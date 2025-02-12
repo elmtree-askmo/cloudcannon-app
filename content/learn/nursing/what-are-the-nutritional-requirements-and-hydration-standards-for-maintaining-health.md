@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health.md
 url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 score: -1.0
+related_article1:
+    id: 169747
+    title: What are some management strategies for common bowel and bladder disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+related_article2:
+    id: 169766
+    title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
+related_article3:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article4:
+    id: 169758
+    title: What are common causes of medication errors, and how can they be prevented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
+related_article5:
+    id: 169740
+    title: How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
 ---
 
 &nbsp;

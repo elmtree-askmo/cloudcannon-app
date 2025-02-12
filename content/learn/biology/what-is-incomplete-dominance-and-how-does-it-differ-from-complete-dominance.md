@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance.md
 url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 score: -1.0
+related_article1:
+    id: 167881
+    title: What are the characteristics of X-linked recessive disorders?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+related_article2:
+    id: 167874
+    title: How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article3:
+    id: 167873
+    title: Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article4:
+    id: 167887
+    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
+related_article5:
+    id: 167879
+    title: What are the key symbols used in pedigree analysis and what do they represent?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
 ---
 
 &nbsp;

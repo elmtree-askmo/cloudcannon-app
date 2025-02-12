@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play.md
 url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 score: -1.0
+related_article1:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article2:
+    id: 169341
+    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article3:
+    id: 169331
+    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+related_article4:
+    id: 169354
+    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+related_article5:
+    id: 169349
+    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-brain-data-be-utilized-to-predict-antisocial-behavior.md
 url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
 score: -1.0
+related_article1:
+    id: 164031
+    title: How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article2:
+    id: 164031
+    title: How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
+related_article3:
+    id: 164032
+    title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+related_article4:
+    id: 164037
+    title: What are the implications of trait impulsivity on reward-related brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+related_article5:
+    id: 164034
+    title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 ---
 
 &nbsp;

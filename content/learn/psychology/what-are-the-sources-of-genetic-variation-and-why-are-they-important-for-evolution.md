@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution.md
 url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 score: -1.0
+related_article1:
+    id: 166413
+    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+related_article2:
+    id: 166413
+    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+related_article3:
+    id: 166397
+    title: What are the key components of animal behavior as defined in the course?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
+related_article4:
+    id: 166404
+    title: What are the main types of learning and how do they influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+related_article5:
+    id: 166419
+    title: What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
 ---
 
 &nbsp;

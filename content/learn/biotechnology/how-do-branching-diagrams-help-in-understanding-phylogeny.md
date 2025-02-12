@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-branching-diagrams-help-in-understanding-phylogeny.md
 url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
 score: -1.0
+related_article1:
+    id: 166198
+    title: What distinguishes a scientific theory from a hypothesis?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article2:
+    id: 166175
+    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+related_article3:
+    id: 166174
+    title: What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
+related_article4:
+    id: 166197
+    title: How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166184
+    title: How do classification systems reflect evolutionary relationships among species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 ---
 
 &nbsp;

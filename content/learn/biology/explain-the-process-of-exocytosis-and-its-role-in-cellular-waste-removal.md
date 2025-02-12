@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal.md
 url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
 score: -1.0
+related_article1:
+    id: 168904
+    title: What is the role of ATP in the sodium-potassium pump?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+related_article2:
+    id: 168907
+    title: Why is active transport crucial for heart muscle cells?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
+related_article3:
+    id: 168904
+    title: What is the role of ATP in the sodium-potassium pump?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+related_article4:
+    id: 168896
+    title: What is active transport and how does it differ from passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
+related_article5:
+    id: 168897
+    title: Why is energy required for active transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
 ---
 
 &nbsp;

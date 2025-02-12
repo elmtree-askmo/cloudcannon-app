@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory.md
 url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
 score: -1.0
+related_article1:
+    id: 164854
+    title: How does brain damage affect conscious and unconscious memory processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+related_article2:
+    id: 164858
+    title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article3:
+    id: 164858
+    title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+related_article4:
+    id: 164853
+    title: What are the key differences between conscious and unconscious memory, and how does the hippocampus play a role in each?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-conscious-and-unconscious-memory-and-how-does-the-hippocampus-play-a-role-in-each
+related_article5:
+    id: 164860
+    title: Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
 ---
 
 &nbsp;

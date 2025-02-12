@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-the-length-of-a-line-segment-affected-by-rotation.md
 url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 score: -1.0
+related_article1:
+    id: 162489
+    title: What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article2:
+    id: 162600
+    title: What is the center of rotation, and why is it important in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
+related_article3:
+    id: 162489
+    title: What is the role of the prime symbol notation in rotating points?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
+related_article4:
+    id: 162614
+    title: Describe the concept of circular turning in rotations.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+related_article5:
+    id: 162243
+    title: What is the translation rule, and how is it applied to geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-translation-rule-and-how-is-it-applied-to-geometric-figures
 ---
 
 &nbsp;

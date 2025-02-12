@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior.md
 url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 165318
+    title: Differentiate between proximate and ultimate causes of behavior with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
+related_article2:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article3:
+    id: 165325
+    title: How do phenotype and genotype influence animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+related_article4:
+    id: 165328
+    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article5:
+    id: 165320
+    title: Describe the role of ontogeny and environmental influences in the development of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 ---
 
 &nbsp;

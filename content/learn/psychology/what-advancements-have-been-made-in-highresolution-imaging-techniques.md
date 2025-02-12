@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-advancements-have-been-made-in-highresolution-imaging-techniques.md
 url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
 score: -1.0
+related_article1:
+    id: 164346
+    title: How do anatomical imaging techniques contribute to medical applications?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+related_article2:
+    id: 164355
+    title: Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article3:
+    id: 164357
+    title: How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article4:
+    id: 164354
+    title: What are the main functional areas of the brain and their roles?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+related_article5:
+    id: 164345
+    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
 ---
 
 &nbsp;

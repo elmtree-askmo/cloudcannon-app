@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-synaptic-plasticity-contribute-to-neuroplasticity.md
 url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
 score: -1.0
+related_article1:
+    id: 170496
+    title: What is the clinical significance of the Babinski test in neurological assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+related_article2:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article3:
+    id: 170497
+    title: Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article4:
+    id: 170486
+    title: What are the main components of the spinal cord anatomy and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+related_article5:
+    id: 170498
+    title: What mechanisms are involved in the modulation of pain perception?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 ---
 
 &nbsp;

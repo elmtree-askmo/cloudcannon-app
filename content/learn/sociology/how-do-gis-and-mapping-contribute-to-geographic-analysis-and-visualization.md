@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization.md
 url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
 score: -1.0
+related_article1:
+    id: 159824
+    title: Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
+related_article2:
+    id: 159824
+    title: Differentiate between topographic and thematic maps.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-topographic-and-thematic-maps
+related_article3:
+    id: 159828
+    title: What is the significance of regionalization in regional analysis?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
+related_article4:
+    id: 159820
+    title: How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article5:
+    id: 159997
+    title: How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
 ---
 
 &nbsp;

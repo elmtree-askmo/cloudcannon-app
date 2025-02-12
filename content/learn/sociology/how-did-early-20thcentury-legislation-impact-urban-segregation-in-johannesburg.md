@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg.md
 url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169140
+    title: What were the main challenges faced in the inner city slum-yards regarding racial integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
+related_article2:
+    id: 169147
+    title: What was the impact of racial discourse on social stratification in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
+related_article3:
+    id: 169144
+    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
+related_article4:
+    id: 169143
+    title: How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article5:
+    id: 169152
+    title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
 ---
 
 &nbsp;

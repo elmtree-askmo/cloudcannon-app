@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes.md
 url: /learn/mathematics/questions/how-do-90degree-and-270degree-rotations-differ-in-terms-of-coordinate-changes
 score: -1.0
+related_article1:
+    id: 162103
+    title: What observable patterns occur in quadrant shifts during rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-observable-patterns-occur-in-quadrant-shifts-during-rotations
+related_article2:
+    id: 162101
+    title: How does the origin function as a central point in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-origin-function-as-a-central-point-in-rotations
+related_article3:
+    id: 162100
+    title: What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
+related_article4:
+    id: 162098
+    title: What is the rule for a 180-degree rotation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-rule-for-a-180degree-rotation-on-the-coordinate-plane
+related_article5:
+    id: 162100
+    title: What remains unchanged in a geometric figure after a rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-remains-unchanged-in-a-geometric-figure-after-a-rotation
 ---
 
 &nbsp;

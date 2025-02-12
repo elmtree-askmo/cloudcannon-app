@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy.md
 url: /learn/psychology/questions/what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy
 score: -1.0
+related_article1:
+    id: 168076
+    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+related_article2:
+    id: 168065
+    title: What are the optimal performance times for visual and verbal memory tasks in different age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
+related_article3:
+    id: 168076
+    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+related_article4:
+    id: 168066
+    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
+related_article5:
+    id: 168069
+    title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: differentiate-between-homology-and-homoplasy-with-examples.md
 url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
 score: -1.0
+related_article1:
+    id: 165264
+    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article2:
+    id: 165267
+    title: What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+related_article3:
+    id: 165264
+    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+related_article4:
+    id: 165258
+    title: Describe the truncation selection experiment and its role in estimating heritability.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
+related_article5:
+    id: 165267
+    title: What is directional selection and how does it affect a population's traits?
+    subject: Biology
+    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
 ---
 
 &nbsp;

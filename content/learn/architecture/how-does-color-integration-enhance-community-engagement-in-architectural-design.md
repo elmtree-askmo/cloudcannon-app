@@ -21,6 +21,31 @@ subject: Architecture
 file_name: how-does-color-integration-enhance-community-engagement-in-architectural-design.md
 url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
 score: -1.0
+related_article1:
+    id: 169417
+    title: How have regional design projects in Japan influenced international design trends?
+    subject: Architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
+related_article2:
+    id: 169401
+    title: In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
+related_article3:
+    id: 169412
+    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article4:
+    id: 169405
+    title: What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+related_article5:
+    id: 169411
+    title: What are the essential components of creating a brand through architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems.md
 url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 score: -1.0
+related_article1:
+    id: 167453
+    title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    subject: Biology
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+related_article2:
+    id: 167461
+    title: How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+related_article3:
+    id: 167457
+    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+related_article4:
+    id: 167449
+    title: What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+related_article5:
+    id: 167449
+    title: What role do hydrogen bonds play in the structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals.md
 url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 score: -1.0
+related_article1:
+    id: 165851
+    title: Explain the ecological impact of microbial interactions in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+related_article2:
+    id: 165844
+    title: How have historical research models using nematodes contributed to the field of parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+related_article3:
+    id: 165834
+    title: What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article4:
+    id: 165834
+    title: What is host specificity and how does molecular affinity play a role in it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+related_article5:
+    id: 165847
+    title: What are the key public health implications of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 ---
 
 &nbsp;

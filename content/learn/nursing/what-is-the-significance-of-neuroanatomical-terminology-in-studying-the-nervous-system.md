@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system.md
 url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
 score: -1.0
+related_article1:
+    id: 164802
+    title: What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article2:
+    id: 164800
+    title: Explain the significance of neuron connections in neural communication.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
+related_article3:
+    id: 164811
+    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article4:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article5:
+    id: 164799
+    title: How does myelin affect the speed of neural transmission?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
 ---
 
 &nbsp;

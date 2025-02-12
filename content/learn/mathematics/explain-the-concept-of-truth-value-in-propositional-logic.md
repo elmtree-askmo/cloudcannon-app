@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: explain-the-concept-of-truth-value-in-propositional-logic.md
 url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 score: -1.0
+related_article1:
+    id: 170247
+    title: Describe the exclusive-or operator and its application in propositions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article2:
+    id: 170258
+    title: How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article3:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article4:
+    id: 170257
+    title: What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
+related_article5:
+    id: 170257
+    title: What is the importance of planning and structure in constructing truth tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-planning-and-structure-in-constructing-truth-tables
 ---
 
 &nbsp;

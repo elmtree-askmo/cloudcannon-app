@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs.md
 url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
 score: -1.0
+related_article1:
+    id: 167940
+    title: What is the formula for calculating electrical power in a circuit, and what are its units?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
+related_article2:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article3:
+    id: 167947
+    title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article4:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article5:
+    id: 167944
+    title: Explain the concept of energy conservation in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
 ---
 
 &nbsp;

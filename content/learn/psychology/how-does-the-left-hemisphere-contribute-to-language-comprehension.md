@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-left-hemisphere-contribute-to-language-comprehension.md
 url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
 score: -1.0
+related_article1:
+    id: 164387
+    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
+related_article2:
+    id: 164398
+    title: Explain how information is integrated during language comprehension.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+related_article3:
+    id: 164405
+    title: How do cognitive functions in music relate to language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
+related_article4:
+    id: 164400
+    title: How do psychological theories inform our understanding of language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+related_article5:
+    id: 164387
+    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures.md
 url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
 score: -1.0
+related_article1:
+    id: 167459
+    title: How do chemical reactions facilitate energy transfer in biological systems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+related_article2:
+    id: 167465
+    title: Describe the types of molecular interactions and their significance in protein folding.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+related_article3:
+    id: 167461
+    title: How does molecular geometry influence the biological activity of a molecule?
+    subject: Biology
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+related_article4:
+    id: 167444
+    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+related_article5:
+    id: 167458
+    title: What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-directionality-of-nucleic-acids-impact-transcription-and-replication.md
 url: /learn/biology/questions/how-does-the-directionality-of-nucleic-acids-impact-transcription-and-replication
 score: -1.0
+related_article1:
+    id: 166875
+    title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+related_article2:
+    id: 166865
+    title: What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
+related_article3:
+    id: 166879
+    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article4:
+    id: 166865
+    title: What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
+related_article5:
+    id: 166874
+    title: Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
 ---
 
 &nbsp;

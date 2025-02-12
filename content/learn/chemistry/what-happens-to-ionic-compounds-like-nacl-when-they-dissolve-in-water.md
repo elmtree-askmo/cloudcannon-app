@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water.md
 url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 score: -1.0
+related_article1:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article2:
+    id: 167313
+    title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
+related_article3:
+    id: 167311
+    title: What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article4:
+    id: 167311
+    title: What type of bond is responsible for the partial charges in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
+related_article5:
+    id: 167312
+    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
 ---
 
 &nbsp;

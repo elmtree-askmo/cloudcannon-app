@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-changes-occur-to-a-figures-orientation-after-a-reflection.md
 url: /learn/mathematics/questions/what-changes-occur-to-a-figures-orientation-after-a-reflection
 score: -1.0
+related_article1:
+    id: 162386
+    title: What is meant by rigid motion in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+related_article2:
+    id: 162505
+    title: What is a transformation in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+related_article3:
+    id: 162408
+    title: What common misconceptions exist about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-common-misconceptions-exist-about-coordinate-changes-in-reflections
+related_article4:
+    id: 162764
+    title: How is congruence maintained in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+related_article5:
+    id: 162752
+    title: What are opposite coordinates in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 ---
 
 &nbsp;

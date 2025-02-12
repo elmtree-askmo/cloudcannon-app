@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-interactions-are-involved-in-the-tertiary-structure-of-proteins.md
 url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
 score: -1.0
+related_article1:
+    id: 166837
+    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article2:
+    id: 166838
+    title: What role do hormones play in the regulation of gene expression?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
+related_article3:
+    id: 166837
+    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article4:
+    id: 166841
+    title: Explain the process of peptide bond formation and its significance in protein structure.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
+related_article5:
+    id: 166848
+    title: What factors can affect enzyme activity and how?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
 ---
 
 &nbsp;

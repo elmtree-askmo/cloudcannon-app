@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-complete-penetrance-differ-from-incomplete-penetrance.md
 url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
 score: -1.0
+related_article1:
+    id: 167870
+    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article2:
+    id: 167891
+    title: How do genetic variations affect hemoglobin function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+related_article3:
+    id: 167873
+    title: Define multiple alleles and give an example involving blood types.
+    subject: Biology
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article4:
+    id: 167885
+    title: How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article5:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 ---
 
 &nbsp;

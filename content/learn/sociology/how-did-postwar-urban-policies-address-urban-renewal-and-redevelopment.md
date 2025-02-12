@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment.md
 url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
 score: -1.0
+related_article1:
+    id: 168961
+    title: What were the main factors contributing to urban decline in the early 20th century?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
+related_article2:
+    id: 168966
+    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+related_article3:
+    id: 168972
+    title: How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
+related_article4:
+    id: 168973
+    title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+related_article5:
+    id: 168968
+    title: How have the origins of blight transitioned from agricultural to urban contexts?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
 ---
 
 &nbsp;

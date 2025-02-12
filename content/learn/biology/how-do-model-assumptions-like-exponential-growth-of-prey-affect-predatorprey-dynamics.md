@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics.md
 url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
 score: -1.0
+related_article1:
+    id: 166119
+    title: How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article2:
+    id: 166127
+    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+related_article3:
+    id: 166119
+    title: How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article4:
+    id: 166119
+    title: How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article5:
+    id: 166129
+    title: What role does carrying capacity play in mathematical models of ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
 ---
 
 &nbsp;

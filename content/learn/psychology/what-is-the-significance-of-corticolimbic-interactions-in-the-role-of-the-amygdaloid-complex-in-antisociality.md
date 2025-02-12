@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality.md
 url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
 score: -1.0
+related_article1:
+    id: 164035
+    title: What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+related_article2:
+    id: 164027
+    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+related_article3:
+    id: 164030
+    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
+related_article4:
+    id: 164027
+    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+related_article5:
+    id: 164028
+    title: What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation.md
 url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
 score: -1.0
+related_article1:
+    id: 168814
+    title: What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
+related_article2:
+    id: 168823
+    title: Explain the mechanism of exocytosis in the transport of chylomicrons.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
+related_article3:
+    id: 168821
+    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
+related_article4:
+    id: 168819
+    title: Describe the structure and function of lacteals in the lymphatic system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
+related_article5:
+    id: 168822
+    title: How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
 ---
 
 &nbsp;

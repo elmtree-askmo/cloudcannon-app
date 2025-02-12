@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-process-of-ionization-affect-the-state-of-a-substance.md
 url: /learn/chemistry/questions/how-does-the-process-of-ionization-affect-the-state-of-a-substance
 score: -1.0
+related_article1:
+    id: 162040
+    title: How does the reactivity of oxygen influence its chemical properties?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+related_article2:
+    id: 162053
+    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+related_article3:
+    id: 162014
+    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+related_article4:
+    id: 161937
+    title: What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+related_article5:
+    id: 162036
+    title: What are the characteristics of a gas and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-gas-and-provide-an-example
 ---
 
 &nbsp;

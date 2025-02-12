@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare.md
 url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 score: -1.0
+related_article1:
+    id: 162919
+    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+related_article2:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article3:
+    id: 162917
+    title: How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article4:
+    id: 162917
+    title: How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article5:
+    id: 162932
+    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
 ---
 
 &nbsp;

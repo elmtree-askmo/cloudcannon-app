@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics.md
 url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
 score: -1.0
+related_article1:
+    id: 165564
+    title: Explain the concept of conservation of angular momentum and its mathematical basis.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-conservation-of-angular-momentum-and-its-mathematical-basis
+related_article2:
+    id: 165567
+    title: What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
+related_article3:
+    id: 165559
+    title: How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+related_article4:
+    id: 165570
+    title: What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article5:
+    id: 165562
+    title: How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
 ---
 
 &nbsp;

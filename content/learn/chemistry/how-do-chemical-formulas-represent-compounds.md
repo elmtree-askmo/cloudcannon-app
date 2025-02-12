@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-chemical-formulas-represent-compounds.md
 url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 score: -1.0
+related_article1:
+    id: 161828
+    title: Give an example of a heterogeneous mixture and describe its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
+related_article2:
+    id: 161869
+    title: What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article3:
+    id: 161860
+    title: What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article4:
+    id: 161842
+    title: What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article5:
+    id: 161826
+    title: Provide an example of a compound and explain its chemical formula.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 ---
 
 &nbsp;

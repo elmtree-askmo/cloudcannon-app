@@ -21,6 +21,31 @@ subject: Biology
 file_name: define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion.md
 url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 score: -1.0
+related_article1:
+    id: 167549
+    title: Explain the concept of selective permeability and its importance in cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
+related_article2:
+    id: 167554
+    title: Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
+related_article3:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article4:
+    id: 167542
+    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+related_article5:
+    id: 167556
+    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 ---
 
 &nbsp;

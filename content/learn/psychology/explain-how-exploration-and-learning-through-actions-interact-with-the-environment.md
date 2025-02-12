@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-how-exploration-and-learning-through-actions-interact-with-the-environment.md
 url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 score: -1.0
+related_article1:
+    id: 168092
+    title: What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
+related_article2:
+    id: 168096
+    title: What distinguishes secondary circular reactions from primary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+related_article3:
+    id: 168108
+    title: What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article4:
+    id: 168106
+    title: How do sensory input and motor actions contribute to cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article5:
+    id: 168105
+    title: Provide an example of deferred imitation and explain its significance.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding.md
 url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
 score: -1.0
+related_article1:
+    id: 166840
+    title: How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article2:
+    id: 166840
+    title: How do the properties of amino acids influence protein structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+related_article3:
+    id: 166837
+    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article4:
+    id: 166845
+    title: How do multiple polypeptide chains form a functional quaternary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
+related_article5:
+    id: 166842
+    title: What is the importance of the primary structure in determining a protein's function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
 ---
 
 &nbsp;

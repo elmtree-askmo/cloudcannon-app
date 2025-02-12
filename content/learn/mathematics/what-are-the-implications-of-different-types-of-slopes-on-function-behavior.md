@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-implications-of-different-types-of-slopes-on-function-behavior.md
 url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 score: -1.0
+related_article1:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article2:
+    id: 163826
+    title: How do function intervals impact the calculation of the rate of change?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+related_article3:
+    id: 163812
+    title: How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
+related_article4:
+    id: 163815
+    title: What are the key characteristics of quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
+related_article5:
+    id: 163817
+    title: What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 ---
 
 &nbsp;

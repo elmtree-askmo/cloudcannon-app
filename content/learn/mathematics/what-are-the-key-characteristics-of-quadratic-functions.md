@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-are-the-key-characteristics-of-quadratic-functions.md
 url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 score: -1.0
+related_article1:
+    id: 163819
+    title: What are the domain and range characteristics of square root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+related_article2:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article3:
+    id: 163822
+    title: What implications do positive and negative rates of change have for function behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+related_article4:
+    id: 163827
+    title: What does it mean for a function to be increasing, decreasing, or constant?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
+related_article5:
+    id: 163809
+    title: What distinguishes non-linear functions from linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
 ---
 
 &nbsp;

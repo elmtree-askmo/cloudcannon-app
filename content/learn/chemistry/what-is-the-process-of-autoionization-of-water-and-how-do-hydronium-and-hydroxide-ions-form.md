@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form.md
 url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
 score: -1.0
+related_article1:
+    id: 167628
+    title: How do higher and lower concentrations affect pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+related_article2:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article3:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article4:
+    id: 167630
+    title: Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article5:
+    id: 167621
+    title: Describe the formation of hydronium ions and their concentration in pure water.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
 ---
 
 &nbsp;

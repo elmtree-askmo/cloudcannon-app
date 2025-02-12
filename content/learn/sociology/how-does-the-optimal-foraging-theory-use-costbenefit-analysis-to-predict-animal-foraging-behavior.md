@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior.md
 url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 score: -1.0
+related_article1:
+    id: 166347
+    title: What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+related_article2:
+    id: 166351
+    title: How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-theoretical-approaches-such-as-mathematical-models-contribute-to-the-study-of-animal-behavior
+related_article3:
+    id: 166340
+    title: Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Sociology
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+related_article4:
+    id: 166350
+    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+related_article5:
+    id: 166343
+    title: Describe the difference between associative and non-associative learning in animals.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
 ---
 
 &nbsp;

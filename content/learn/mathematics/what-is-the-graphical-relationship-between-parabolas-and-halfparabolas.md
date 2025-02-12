@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-graphical-relationship-between-parabolas-and-halfparabolas.md
 url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
 score: -1.0
+related_article1:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article2:
+    id: 163806
+    title: What are the general characteristics of function graphs in terms of shape and behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+related_article3:
+    id: 163801
+    title: What are the key features of a function that can be identified from its graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article4:
+    id: 163798
+    title: What is the domain of a square root function, and how is it determined?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
+related_article5:
+    id: 163802
+    title: What types of transformations can be applied to functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-main-characteristics-of-prokaryotic-cells.md
 url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
 score: -1.0
+related_article1:
+    id: 167597
+    title: What is the structure and function of the nucleus in eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+related_article2:
+    id: 167583
+    title: How do organisms adapt and evolve in response to their environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article3:
+    id: 167594
+    title: How is fitness measured in biological terms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
+related_article4:
+    id: 167586
+    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+related_article5:
+    id: 167599
+    title: How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
 ---
 
 &nbsp;

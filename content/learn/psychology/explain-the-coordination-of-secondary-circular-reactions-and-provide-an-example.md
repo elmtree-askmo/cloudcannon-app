@@ -21,6 +21,31 @@ subject: Psychology
 file_name: explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example.md
 url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 168096
+    title: What distinguishes secondary circular reactions from primary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+related_article2:
+    id: 168102
+    title: At what age do children typically develop object permanence?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
+related_article3:
+    id: 168099
+    title: What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+related_article4:
+    id: 168100
+    title: Define internalization of schemas and give an example.
+    subject: Psychology
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
+related_article5:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
 ---
 
 &nbsp;

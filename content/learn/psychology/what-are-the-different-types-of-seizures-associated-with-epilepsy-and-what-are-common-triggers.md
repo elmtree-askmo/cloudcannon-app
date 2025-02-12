@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers.md
 url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
 score: -1.0
+related_article1:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article2:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article3:
+    id: 164320
+    title: How are recording techniques applied in data collection and analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+related_article4:
+    id: 164326
+    title: How is participant screening conducted to ensure safety in epilepsy research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies
+related_article5:
+    id: 164316
+    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    subject: Psychology
+    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
 ---
 
 &nbsp;

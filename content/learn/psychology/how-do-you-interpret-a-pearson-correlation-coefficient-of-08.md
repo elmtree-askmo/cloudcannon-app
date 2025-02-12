@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-you-interpret-a-pearson-correlation-coefficient-of-08.md
 url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
 score: -1.0
+related_article1:
+    id: 164991
+    title: What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+related_article2:
+    id: 164981
+    title: What is a double-barrel question, and why should it be avoided in survey design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
+related_article3:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article4:
+    id: 164985
+    title: What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
+related_article5:
+    id: 164991
+    title: What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-managing-emotions-impact-decision-making.md
 url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
 score: -1.0
+related_article1:
+    id: 169805
+    title: How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article2:
+    id: 169808
+    title: What strategies can be used to build strong interpersonal relationships?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
+related_article3:
+    id: 169822
+    title: How can reflection models benefit professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
+related_article4:
+    id: 169815
+    title: How can personal biases be identified and overcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+related_article5:
+    id: 169820
+    title: What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
 ---
 
 &nbsp;

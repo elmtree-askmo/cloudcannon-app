@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-holland-codes-categorize-work-personalities.md
 url: /learn/psychology/questions/how-do-holland-codes-categorize-work-personalities
 score: -1.0
+related_article1:
+    id: 168436
+    title: How do introverts and extroverts differ in their characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-introverts-and-extroverts-differ-in-their-characteristics
+related_article2:
+    id: 168443
+    title: What types of careers are typically suitable for introverts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-careers-are-typically-suitable-for-introverts
+related_article3:
+    id: 168442
+    title: What are the inherited traits associated with introversion and extroversion?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-inherited-traits-associated-with-introversion-and-extroversion
+related_article4:
+    id: 168439
+    title: What role does humor play in personality development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-humor-play-in-personality-development
+related_article5:
+    id: 168441
+    title: How does seeking entertainment and solitude affect lifestyle choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
 ---
 
 &nbsp;

@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior.md
 url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
 score: -1.0
+related_article1:
+    id: 170624
+    title: Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
+related_article2:
+    id: 170631
+    title: What are some popular career paths for INFPs, and why might these careers align with their personality traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits
+related_article3:
+    id: 170623
+    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
+related_article4:
+    id: 170621
+    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
 ---
 
 &nbsp;

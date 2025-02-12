@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils.md
 url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
 score: -1.0
+related_article1:
+    id: 167751
+    title: Define macroevolution and provide examples of patterns and processes involved.
+    subject: Biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
+related_article2:
+    id: 167749
+    title: Describe the biological species concept and how it differs from other species concepts.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+related_article3:
+    id: 167752
+    title: What is adaptive radiation and how does it contribute to biodiversity?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+related_article4:
+    id: 167743
+    title: What is adaptation and why is it important in the process of evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+related_article5:
+    id: 167754
+    title: What is the endosymbiotic theory and what evidence supports it?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
 ---
 
 &nbsp;

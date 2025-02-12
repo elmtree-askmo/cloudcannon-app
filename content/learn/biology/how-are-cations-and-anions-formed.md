@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-are-cations-and-anions-formed.md
 url: /learn/biology/questions/how-are-cations-and-anions-formed
 score: -1.0
+related_article1:
+    id: 169941
+    title: What role do electrolytes play in chemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
+related_article2:
+    id: 169954
+    title: How do enzymes exhibit specificity for their substrates?
+    subject: Biology
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+related_article3:
+    id: 169939
+    title: What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+related_article4:
+    id: 169942
+    title: What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article5:
+    id: 169946
+    title: What are the four levels of protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-role-of-the-na--k-pump-in-active-transport.md
 url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
 score: -1.0
+related_article1:
+    id: 166945
+    title: Why are concentration gradients important for cellular transport processes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
+related_article2:
+    id: 166936
+    title: How does facilitated diffusion differ from active transport in terms of energy usage?
+    subject: Biology
+    url: /learn/biology/questions/how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage
+related_article3:
+    id: 166937
+    title: Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article4:
+    id: 166935
+    title: What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
+related_article5:
+    id: 166946
+    title: How do concentration gradients influence passive and active transport?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
 ---
 
 &nbsp;

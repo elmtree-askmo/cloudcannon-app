@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage.md
 url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
 score: -1.0
+related_article1:
+    id: 164816
+    title: How does an epidural provide pain management during medical procedures?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+related_article2:
+    id: 164807
+    title: How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+related_article3:
+    id: 164814
+    title: How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+related_article4:
+    id: 164796
+    title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article5:
+    id: 164805
+    title: Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
 ---
 
 &nbsp;

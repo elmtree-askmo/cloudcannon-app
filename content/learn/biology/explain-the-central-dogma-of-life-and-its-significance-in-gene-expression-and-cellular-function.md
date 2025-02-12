@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function.md
 url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
 score: -1.0
+related_article1:
+    id: 166877
+    title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article2:
+    id: 166870
+    title: Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
+related_article3:
+    id: 166870
+    title: Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
+related_article4:
+    id: 166873
+    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+related_article5:
+    id: 166872
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biology
+    url: /learn/biology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
 ---
 
 &nbsp;

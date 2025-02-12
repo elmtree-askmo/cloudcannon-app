@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-challenges-are-associated-with-phonological-agrarcia-in-writing.md
 url: /learn/psychology/questions/what-challenges-are-associated-with-phonological-agrarcia-in-writing
 score: -1.0
+related_article1:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+related_article2:
+    id: 164958
+    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article3:
+    id: 164956
+    title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexia-and-alexia-and-how-is-the-angular-gyrus-involved
+related_article4:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+related_article5:
+    id: 164977
+    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 ---
 
 &nbsp;

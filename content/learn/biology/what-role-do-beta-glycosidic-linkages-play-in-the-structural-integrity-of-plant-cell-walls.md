@@ -21,6 +21,21 @@ subject: Biology
 file_name: what-role-do-beta-glycosidic-linkages-play-in-the-structural-integrity-of-plant-cell-walls.md
 url: /learn/biology/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structural-integrity-of-plant-cell-walls
 score: -1.0
+related_article1:
+    id: 167172
+    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+related_article2:
+    id: 167176
+    title: How does the length of a fatty acid's hydrocarbon chain affect its properties?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
+related_article3:
+    id: 167171
+    title: What are the main components of a triglyceride and what is its primary function in the body?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-a-triglyceride-and-what-is-its-primary-function-in-the-body
 ---
 
 &nbsp;

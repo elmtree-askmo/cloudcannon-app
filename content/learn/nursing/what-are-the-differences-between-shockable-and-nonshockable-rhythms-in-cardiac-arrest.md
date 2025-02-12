@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest.md
 url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 score: -1.0
+related_article1:
+    id: 169460
+    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+related_article2:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article3:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
+related_article4:
+    id: 169453
+    title: What safety measures should be considered when using an AED in public settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+related_article5:
+    id: 169454
+    title: How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
 ---
 
 &nbsp;

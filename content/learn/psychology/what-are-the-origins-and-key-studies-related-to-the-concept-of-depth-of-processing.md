@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing.md
 url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 score: -1.0
+related_article1:
+    id: 165013
+    title: What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article2:
+    id: 165015
+    title: What are the cognitive processes involved in number perception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+related_article3:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article4:
+    id: 165016
+    title: How do symbolic and non-symbolic processing differ in numerical cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article5:
+    id: 165017
+    title: What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 ---
 
 &nbsp;

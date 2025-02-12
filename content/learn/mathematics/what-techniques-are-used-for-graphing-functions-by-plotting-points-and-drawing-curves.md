@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves.md
 url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
 score: -1.0
+related_article1:
+    id: 168406
+    title: What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article2:
+    id: 168408
+    title: What is the difference between the outputs of an original function and its transformed version?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
+related_article3:
+    id: 168406
+    title: What is the role of input-output tables in evaluating function models?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
+related_article4:
+    id: 168405
+    title: How are functions used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-functions-used-in-mathematical-modeling-for-realworld-applications
+related_article5:
+    id: 168403
+    title: What are parent functions, and can you give an example of a quadratic parent function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 ---
 
 &nbsp;

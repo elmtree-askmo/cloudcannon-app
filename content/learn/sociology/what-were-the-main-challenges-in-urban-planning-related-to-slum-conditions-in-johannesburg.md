@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg.md
 url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 score: -1.0
+related_article1:
+    id: 169138
+    title: What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article2:
+    id: 169144
+    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
+related_article3:
+    id: 169145
+    title: What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article4:
+    id: 169141
+    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+related_article5:
+    id: 169140
+    title: What were the main challenges faced in the inner city slum-yards regarding racial integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
 ---
 
 &nbsp;

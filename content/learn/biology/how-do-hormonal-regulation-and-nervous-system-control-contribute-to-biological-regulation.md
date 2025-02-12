@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation.md
 url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
 score: -1.0
+related_article1:
+    id: 166934
+    title: What factors influence differential reproductive success in natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
+related_article2:
+    id: 166919
+    title: How do organisms acquire and utilize energy for their metabolic processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+related_article3:
+    id: 166928
+    title: What are the mechanisms and processes involved in sexual reproduction?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+related_article4:
+    id: 166923
+    title: How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+related_article5:
+    id: 166931
+    title: What are the sensory mechanisms involved in detecting stimuli?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
 ---
 
 &nbsp;

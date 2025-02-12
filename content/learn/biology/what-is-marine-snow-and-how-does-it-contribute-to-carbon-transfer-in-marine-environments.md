@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments.md
 url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
 score: -1.0
+related_article1:
+    id: 170393
+    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article2:
+    id: 170393
+    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+related_article3:
+    id: 170383
+    title: Explain the composition of biomass and how it relates to living and formerly living material.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
+related_article4:
+    id: 170380
+    title: Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article5:
+    id: 170381
+    title: How do oceans function as carbon sinks, and what role do phytoplankton play in this process?
+    subject: Biology
+    url: /learn/biology/questions/how-do-oceans-function-as-carbon-sinks-and-what-role-do-phytoplankton-play-in-this-process
 ---
 
 &nbsp;

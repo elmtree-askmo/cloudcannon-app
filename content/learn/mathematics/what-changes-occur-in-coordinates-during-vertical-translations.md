@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-changes-occur-in-coordinates-during-vertical-translations.md
 url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
 score: -1.0
+related_article1:
+    id: 162461
+    title: What is prime notation and how is it used in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-prime-notation-and-how-is-it-used-in-translations
+related_article2:
+    id: 162278
+    title: What are the rules for vertical movement in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+related_article3:
+    id: 162473
+    title: How can graphs be used to verify translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+related_article4:
+    id: 162283
+    title: How do coordinates change during horizontal translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+related_article5:
+    id: 162292
+    title: What is the process for applying combined translation rules?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
 ---
 
 &nbsp;

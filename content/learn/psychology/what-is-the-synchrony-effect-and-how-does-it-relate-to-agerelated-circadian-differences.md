@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences.md
 url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 score: -1.0
+related_article1:
+    id: 168063
+    title: What is the reminiscence bump and what age range does it typically cover?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
+related_article2:
+    id: 168075
+    title: What are the age-related differences in morning versus evening performance for cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
+related_article3:
+    id: 168073
+    title: What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article4:
+    id: 168076
+    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+related_article5:
+    id: 168076
+    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
 ---
 
 &nbsp;

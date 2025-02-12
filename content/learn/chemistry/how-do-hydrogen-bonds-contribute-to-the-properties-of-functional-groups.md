@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 score: -1.0
+related_article1:
+    id: 167566
+    title: What are the different structures carbon can form and why are they important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+related_article2:
+    id: 167561
+    title: What is the significance of the atomic number in an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+related_article3:
+    id: 167560
+    title: How do isotopes differ from each other in terms of neutrons?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
+related_article4:
+    id: 167570
+    title: How do valence electrons influence chemical reactions in biological molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
+related_article5:
+    id: 167557
+    title: What is the definition of matter and how does it differ from elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 ---
 
 &nbsp;

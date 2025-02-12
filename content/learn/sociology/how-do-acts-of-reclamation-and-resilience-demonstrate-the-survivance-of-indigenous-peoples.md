@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples.md
 url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 score: -1.0
+related_article1:
+    id: 169160
+    title: How is Indigenous knowledge and worldview represented in museum exhibitions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
+related_article2:
+    id: 169159
+    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+related_article3:
+    id: 169163
+    title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article4:
+    id: 169156
+    title: How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
+related_article5:
+    id: 169165
+    title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 ---
 
 &nbsp;

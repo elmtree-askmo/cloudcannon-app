@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus.md
 url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
 score: -1.0
+related_article1:
+    id: 164408
+    title: What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+related_article2:
+    id: 164416
+    title: What is the difference between distal and proximal in anatomical terminology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
+related_article3:
+    id: 164408
+    title: What role does the basal ganglia play in implicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+related_article4:
+    id: 164407
+    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article5:
+    id: 164413
+    title: What role does the parietal lobe play in spatial awareness and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 ---
 
 &nbsp;

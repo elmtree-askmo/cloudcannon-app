@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-do-structural-barriers-in-large-economies-affect-bargaining-processes.md
 url: /learn/economics/questions/how-do-structural-barriers-in-large-economies-affect-bargaining-processes
 score: -1.0
+related_article1:
+    id: 169891
+    title: What is the role of consumer and producer interaction in value assignment in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+related_article2:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+related_article3:
+    id: 169891
+    title: What is the role of consumer and producer interaction in value assignment in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+related_article4:
+    id: 169897
+    title: How does the concept of scarcity influence economic structures and interactions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+related_article5:
+    id: 169902
+    title: How do major economies influence global economic power dynamics and strategies?
+    subject: Economics
+    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
 ---
 
 &nbsp;

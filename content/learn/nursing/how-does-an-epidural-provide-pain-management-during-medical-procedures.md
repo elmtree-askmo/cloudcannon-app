@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-an-epidural-provide-pain-management-during-medical-procedures.md
 url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
 score: -1.0
+related_article1:
+    id: 164802
+    title: What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article2:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article3:
+    id: 164807
+    title: How does subconscious processing influence behavior and decision-making?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+related_article4:
+    id: 164805
+    title: Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+related_article5:
+    id: 164810
+    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
 ---
 
 &nbsp;

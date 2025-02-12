@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells.md
 url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
 score: -1.0
+related_article1:
+    id: 167548
+    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+related_article2:
+    id: 167553
+    title: What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
+related_article3:
+    id: 167544
+    title: Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+related_article4:
+    id: 167548
+    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+related_article5:
+    id: 167550
+    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
 ---
 
 &nbsp;

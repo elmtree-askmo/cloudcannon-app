@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis.md
 url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
 score: -1.0
+related_article1:
+    id: 170355
+    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+related_article2:
+    id: 170355
+    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+related_article3:
+    id: 170351
+    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+related_article4:
+    id: 170354
+    title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
+related_article5:
+    id: 170347
+    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 ---
 
 &nbsp;

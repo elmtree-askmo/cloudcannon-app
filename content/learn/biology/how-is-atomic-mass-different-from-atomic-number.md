@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-is-atomic-mass-different-from-atomic-number.md
 url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
 score: -1.0
+related_article1:
+    id: 167408
+    title: Define hydrocarbons and list the types of hydrocarbons.
+    subject: Biology
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article2:
+    id: 167401
+    title: What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article3:
+    id: 167402
+    title: Explain the significance of the valence shell in chemical bonding.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
+related_article4:
+    id: 167416
+    title: Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+related_article5:
+    id: 167415
+    title: What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 ---
 
 &nbsp;

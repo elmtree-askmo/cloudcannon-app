@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes.md
 url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 score: -1.0
+related_article1:
+    id: 167359
+    title: What roles do integral and peripheral proteins play in the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
+related_article2:
+    id: 167370
+    title: What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+related_article3:
+    id: 167356
+    title: How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
+related_article4:
+    id: 167367
+    title: What is turgor pressure and how does it relate to osmosis in plant cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+related_article5:
+    id: 167358
+    title: How does cholesterol influence the properties of the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
 ---
 
 &nbsp;

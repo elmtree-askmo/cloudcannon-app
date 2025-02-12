@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction.md
 url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
 score: -1.0
+related_article1:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+related_article2:
+    id: 167281
+    title: How do protons, neutrons, and electrons contribute to the structure of an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
+related_article3:
+    id: 167290
+    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+related_article4:
+    id: 167287
+    title: How are ions formed and what determines their electrical charge?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+related_article5:
+    id: 167283
+    title: How do covalent bonds contribute to the formation of molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
 ---
 
 &nbsp;

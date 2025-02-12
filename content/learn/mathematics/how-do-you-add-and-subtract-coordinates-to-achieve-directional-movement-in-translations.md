@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations.md
 url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
 score: -1.0
+related_article1:
+    id: 162540
+    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article2:
+    id: 162279
+    title: How do horizontal movement rules differ from vertical movement rules in translations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-movement-rules-differ-from-vertical-movement-rules-in-translations
+related_article3:
+    id: 162542
+    title: How do horizontal translation patterns differ from vertical translation patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
+related_article4:
+    id: 162542
+    title: How do horizontal translation patterns differ from vertical translation patterns?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
+related_article5:
+    id: 162292
+    title: What is the process for applying combined translation rules?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
 ---
 
 &nbsp;

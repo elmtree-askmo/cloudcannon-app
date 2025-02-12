@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions.md
 url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
 score: -1.0
+related_article1:
+    id: 169886
+    title: What role does consumer surplus play in online bargaining platforms like eBay?
+    subject: Economics
+    url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
+related_article2:
+    id: 169901
+    title: What are the economic consequences of tariffs on US-Canada trade dynamics?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
+related_article3:
+    id: 169900
+    title: How do private and public banking systems influence borrowing and lending practices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+related_article4:
+    id: 169898
+    title: Why is GDP an important measure of economic growth and how do policies affect it?
+    subject: Economics
+    url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
+related_article5:
+    id: 169893
+    title: How do tariffs impact exports and imports during a recession?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-impact-exports-and-imports-during-a-recession
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions.md
 url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
 score: -1.0
+related_article1:
+    id: 170856
+    title: What methods are used to calculate marginal benefit and how does it impact decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
+related_article2:
+    id: 170862
+    title: Why is graphical representation important in understanding economic concepts?
+    subject: Economics
+    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
+related_article3:
+    id: 170851
+    title: Define the benefit curve and explain the factors that influence its shape.
+    subject: Economics
+    url: /learn/economics/questions/define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape
+related_article4:
+    id: 170846
+    title: What is cost-benefit analysis and why is it important in decision making?
+    subject: Economics
+    url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
+related_article5:
+    id: 170849
+    title: What is the optimal scourging theory and how does it relate to cost-benefit analysis?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
 ---
 
 &nbsp;

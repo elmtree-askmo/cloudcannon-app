@@ -21,6 +21,26 @@ subject: Psychology
 file_name: how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways.md
 url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways
 score: -1.0
+related_article1:
+    id: 164778
+    title: What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article2:
+    id: 164778
+    title: What is neural redundancy, and how does it relate to the processing of emotional stimuli and brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-redundancy-and-how-does-it-relate-to-the-processing-of-emotional-stimuli-and-brain-function
+related_article3:
+    id: 164779
+    title: How does fear conditioning contribute to the development of phobias, and what cognitive processes are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved
+related_article4:
+    id: 164774
+    title: What role does cognitive appraisal play in emotion regulation and emotional learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-cognitive-appraisal-play-in-emotion-regulation-and-emotional-learning
 ---
 
 &nbsp;

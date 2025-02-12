@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-nutritional-benefits-of-including-dairy-in-the-diet.md
 url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
 score: -1.0
+related_article1:
+    id: 169769
+    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article2:
+    id: 169783
+    title: What are the symptoms of dehydration, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+related_article3:
+    id: 169778
+    title: How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article4:
+    id: 169786
+    title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+related_article5:
+    id: 169778
+    title: How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 ---
 
 &nbsp;

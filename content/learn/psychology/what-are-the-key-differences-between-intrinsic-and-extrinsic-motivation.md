@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation.md
 url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
 score: -1.0
+related_article1:
+    id: 164986
+    title: How does the Stroop Test measure reaction time?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
+related_article2:
+    id: 164984
+    title: How do you interpret a Pearson correlation coefficient of 0.8?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
+related_article3:
+    id: 164987
+    title: In what ways can music act as a cognitive enhancer?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
+related_article4:
+    id: 164982
+    title: How does randomization contribute to the validity of an experimental design?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
+related_article5:
+    id: 164989
+    title: What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
 ---
 
 &nbsp;

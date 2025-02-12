@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building.md
 url: /learn/engineering/questions/what-are-the-key-considerations-in-spatial-design-for-ensuring-effective-flow-and-movement-within-a-building
 score: -1.0
+related_article1:
+    id: 169420
+    title: What role does façade design play in the architectural aesthetics of a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
+related_article2:
+    id: 169425
+    title: How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
+related_article3:
+    id: 169423
+    title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
+related_article4:
+    id: 169421
+    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
+related_article5:
+    id: 169420
+    title: What role does façade design play in the architectural aesthetics of a building?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
 ---
 
 &nbsp;

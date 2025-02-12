@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior.md
 url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
 score: -1.0
+related_article1:
+    id: 166346
+    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article2:
+    id: 166337
+    title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article3:
+    id: 166337
+    title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article4:
+    id: 166343
+    title: Describe the difference between associative and non-associative learning in animals.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
+related_article5:
+    id: 166348
+    title: How can animal behavior serve as an indicator of environmental disturbances in conservation biology?
+    subject: Sociology
+    url: /learn/sociology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbances-in-conservation-biology
 ---
 
 &nbsp;

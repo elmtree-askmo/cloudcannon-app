@@ -21,6 +21,31 @@ subject: Engineering
 file_name: how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits.md
 url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 score: -1.0
+related_article1:
+    id: 169853
+    title: Explain the concept of active and reactive power in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+related_article2:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article3:
+    id: 169845
+    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article4:
+    id: 169860
+    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+related_article5:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
 ---
 
 &nbsp;

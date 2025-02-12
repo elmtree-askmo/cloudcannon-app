@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action.md
 url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
 score: -1.0
+related_article1:
+    id: 165376
+    title: Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+related_article2:
+    id: 165374
+    title: What are the benefits of using color-coded pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
+related_article3:
+    id: 165365
+    title: Describe the proper procedure for setting the volume on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
+related_article4:
+    id: 165372
+    title: Why is regular calibration important for pipet accuracy and maintenance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
+related_article5:
+    id: 165378
+    title: What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
 ---
 
 &nbsp;

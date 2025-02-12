@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-factors-influence-the-recovery-of-language-impairments-following-brain-damage.md
 url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
 score: -1.0
+related_article1:
+    id: 164899
+    title: How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
+related_article2:
+    id: 164895
+    title: How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article3:
+    id: 164895
+    title: How does the brain process auditory information differently in the left and right hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+related_article4:
+    id: 164904
+    title: What types of behavioral measures are commonly used in cognitive and language research studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
+related_article5:
+    id: 164889
+    title: What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
 ---
 
 &nbsp;

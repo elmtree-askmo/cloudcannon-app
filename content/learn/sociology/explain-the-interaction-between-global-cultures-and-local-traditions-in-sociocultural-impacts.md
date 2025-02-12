@@ -21,6 +21,31 @@ subject: Sociology
 file_name: explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts.md
 url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
 score: -1.0
+related_article1:
+    id: 160625
+    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+related_article2:
+    id: 160643
+    title: Describe the interaction between natural landscapes and environmental processes in physical systems.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
+related_article3:
+    id: 160620
+    title: How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+related_article4:
+    id: 160560
+    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+related_article5:
+    id: 160508
+    title: How do trade relations and global supply chains illustrate economic networks in global interdependence?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 ---
 
 &nbsp;

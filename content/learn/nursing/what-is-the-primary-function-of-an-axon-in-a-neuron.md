@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-primary-function-of-an-axon-in-a-neuron.md
 url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
 score: -1.0
+related_article1:
+    id: 164802
+    title: What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+related_article2:
+    id: 164797
+    title: Describe the function of the ulnar nerve in the peripheral nervous system.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
+related_article3:
+    id: 164811
+    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article4:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article5:
+    id: 164802
+    title: What is the role of pain perception in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
 ---
 
 &nbsp;

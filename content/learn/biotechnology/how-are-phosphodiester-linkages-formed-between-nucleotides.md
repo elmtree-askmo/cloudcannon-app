@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-are-phosphodiester-linkages-formed-between-nucleotides.md
 url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
 score: -1.0
+related_article1:
+    id: 166834
+    title: Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
+related_article2:
+    id: 166834
+    title: Describe the double helix structure of DNA and its antiparallel orientation.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
+related_article3:
+    id: 166824
+    title: What are the main chemical components of DNA and where is it located in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
+related_article4:
+    id: 166833
+    title: How can you predict the complementary strand of a given DNA sequence?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+related_article5:
+    id: 166831
+    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
 ---
 
 &nbsp;

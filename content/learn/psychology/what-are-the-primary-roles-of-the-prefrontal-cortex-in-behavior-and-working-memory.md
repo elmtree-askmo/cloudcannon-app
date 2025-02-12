@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory.md
 url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 score: -1.0
+related_article1:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article2:
+    id: 170529
+    title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article3:
+    id: 170542
+    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+related_article4:
+    id: 170527
+    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+related_article5:
+    id: 170531
+    title: What are the components of the basal ganglia, and what role do they play in movement?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
 ---
 
 &nbsp;

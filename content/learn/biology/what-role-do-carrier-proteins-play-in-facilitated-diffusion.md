@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-role-do-carrier-proteins-play-in-facilitated-diffusion.md
 url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
 score: -1.0
+related_article1:
+    id: 167161
+    title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article2:
+    id: 167156
+    title: What is the main difference between simple diffusion and facilitated diffusion in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
+related_article3:
+    id: 167160
+    title: Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article4:
+    id: 167167
+    title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
+related_article5:
+    id: 167170
+    title: What types of substances are typically transported by passive transport methods?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-role-do-properties-of-real-numbers-play-in-series-and-sequences.md
 url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
 score: -1.0
+related_article1:
+    id: 170748
+    title: What is the formula for the sum of a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
+related_article2:
+    id: 170752
+    title: What is the relationship between the binomial series and mathematical induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
+related_article3:
+    id: 170740
+    title: What is an inductive hypothesis and how is it formulated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
+related_article4:
+    id: 170745
+    title: How are truth tables used to evaluate logical implications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
+related_article5:
+    id: 170749
+    title: How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
 ---
 
 &nbsp;

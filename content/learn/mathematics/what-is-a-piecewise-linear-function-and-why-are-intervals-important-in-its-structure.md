@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure.md
 url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
 score: -1.0
+related_article1:
+    id: 163816
+    title: How does the average rate of change of a quadratic function vary over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+related_article2:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article3:
+    id: 163821
+    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article4:
+    id: 163824
+    title: Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+related_article5:
+    id: 163814
+    title: How can the average rate of change be calculated for piecewise linear functions using tables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
 ---
 
 &nbsp;

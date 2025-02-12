@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-dissociation-of-carbonic-acid-influence-blood-ph.md
 url: /learn/chemistry/questions/how-does-the-dissociation-of-carbonic-acid-influence-blood-ph
 score: -1.0
+related_article1:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article2:
+    id: 167128
+    title: How does a change in pH influence the concentration of hydroxide ions in a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
+related_article3:
+    id: 167121
+    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+related_article4:
+    id: 167119
+    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article5:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Economics
 file_name: how-does-innovation-contribute-to-economic-growth-and-development.md
 url: /learn/economics/questions/how-does-innovation-contribute-to-economic-growth-and-development
 score: -1.0
+related_article1:
+    id: 169911
+    title: What are the primary objectives of monetary and fiscal policies in economic management?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
+related_article2:
+    id: 169905
+    title: In what ways does money serve as a medium of power in economic systems?
+    subject: Economics
+    url: /learn/economics/questions/in-what-ways-does-money-serve-as-a-medium-of-power-in-economic-systems
+related_article3:
+    id: 169910
+    title: How do inflation and interest rates serve as economic indicators?
+    subject: Economics
+    url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
+related_article4:
+    id: 169913
+    title: What is the significance of resource utilization in achieving economic sustainability?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-significance-of-resource-utilization-in-achieving-economic-sustainability
+related_article5:
+    id: 169910
+    title: How do inflation and interest rates serve as economic indicators?
+    subject: Economics
+    url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-reaction-time-measured-and-what-tools-are-commonly-used.md
 url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
 score: -1.0
+related_article1:
+    id: 165017
+    title: What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article2:
+    id: 165013
+    title: What are the core concepts of cognitive psychology related to perception and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+related_article3:
+    id: 165010
+    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+related_article4:
+    id: 165019
+    title: What are the principles of experimental design that ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
+related_article5:
+    id: 165018
+    title: How do contextual effects influence visual perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
 ---
 
 &nbsp;

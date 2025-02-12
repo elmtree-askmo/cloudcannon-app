@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks.md
 url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 score: -1.0
+related_article1:
+    id: 164545
+    title: What roles do the parietal and frontal lobes play in attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+related_article2:
+    id: 164563
+    title: How does the transition from controlled to automatic processes occur?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+related_article3:
+    id: 164559
+    title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+related_article4:
+    id: 164565
+    title: What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article5:
+    id: 164560
+    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 ---
 
 &nbsp;

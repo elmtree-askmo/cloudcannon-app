@@ -21,6 +21,26 @@ subject: Nursing
 file_name: what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them.md
 url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
 score: -1.0
+related_article1:
+    id: 166433
+    title: Explain the role of systemic circulation in drug distribution.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-systemic-circulation-in-drug-distribution
+related_article2:
+    id: 166436
+    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Nursing
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+related_article3:
+    id: 166432
+    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+related_article4:
+    id: 166424
+    title: Describe the process of enteric absorption and list two factors that can affect it.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 ---
 
 &nbsp;

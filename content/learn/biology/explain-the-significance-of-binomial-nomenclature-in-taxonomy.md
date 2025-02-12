@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-significance-of-binomial-nomenclature-in-taxonomy.md
 url: /learn/biology/questions/explain-the-significance-of-binomial-nomenclature-in-taxonomy
 score: -1.0
+related_article1:
+    id: 167733
+    title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
+related_article2:
+    id: 167738
+    title: How does genetic diversity contribute to the evolutionary process?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-diversity-contribute-to-the-evolutionary-process
+related_article3:
+    id: 167728
+    title: What is macroevolution and how does it differ from microevolution?
+    subject: Biology
+    url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from-microevolution
+related_article4:
+    id: 167727
+    title: Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article5:
+    id: 167724
+    title: What is the concept of 'descent with modification' and how does it relate to evolutionary theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-concept-of-descent-with-modification-and-how-does-it-relate-to-evolutionary-theory
 ---
 
 &nbsp;

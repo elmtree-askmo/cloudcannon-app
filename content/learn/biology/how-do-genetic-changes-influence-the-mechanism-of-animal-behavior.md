@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-genetic-changes-influence-the-mechanism-of-animal-behavior.md
 url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166330
+    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
+related_article2:
+    id: 166320
+    title: How do adaptive responses in animals demonstrate problem-solving abilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
+related_article3:
+    id: 166330
+    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    subject: Biology
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
+related_article4:
+    id: 166329
+    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+related_article5:
+    id: 166328
+    title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    subject: Biology
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 ---
 
 &nbsp;

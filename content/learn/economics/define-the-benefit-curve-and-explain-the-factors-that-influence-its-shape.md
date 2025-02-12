@@ -21,6 +21,31 @@ subject: Economics
 file_name: define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape.md
 url: /learn/economics/questions/define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape
 score: -1.0
+related_article1:
+    id: 170865
+    title: What analytical techniques are used to determine optimal quality in economics?
+    subject: Economics
+    url: /learn/economics/questions/what-analytical-techniques-are-used-to-determine-optimal-quality-in-economics
+related_article2:
+    id: 170854
+    title: How does the interpretation of the cost curve affect economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
+related_article3:
+    id: 170864
+    title: Define optimal quality determination and its importance in economic decision making.
+    subject: Economics
+    url: /learn/economics/questions/define-optimal-quality-determination-and-its-importance-in-economic-decision-making
+related_article4:
+    id: 170863
+    title: What are some common graphical methods used to represent costs and benefits?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-graphical-methods-used-to-represent-costs-and-benefits
+related_article5:
+    id: 170854
+    title: How does the interpretation of the cost curve affect economic decisions?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
 ---
 
 &nbsp;

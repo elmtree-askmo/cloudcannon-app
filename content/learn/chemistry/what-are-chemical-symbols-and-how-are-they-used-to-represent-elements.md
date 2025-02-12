@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-chemical-symbols-and-how-are-they-used-to-represent-elements.md
 url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
 score: -1.0
+related_article1:
+    id: 161828
+    title: Give an example of a heterogeneous mixture and describe its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
+related_article2:
+    id: 161830
+    title: What is the difference between physical and chemical properties of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
+related_article3:
+    id: 161870
+    title: How are chemical formulas used to represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+related_article4:
+    id: 161845
+    title: What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article5:
+    id: 161728
+    title: How are pure substances classified in terms of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---
 
 &nbsp;

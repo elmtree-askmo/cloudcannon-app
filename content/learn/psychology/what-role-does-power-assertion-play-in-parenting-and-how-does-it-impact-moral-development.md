@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development.md
 url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
 score: -1.0
+related_article1:
+    id: 164136
+    title: How does the induction style of discipline affect a child's moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+related_article2:
+    id: 164146
+    title: In what ways do peer and parental influences differ in their impact on moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
+related_article3:
+    id: 164142
+    title: What are the immediate effects of power assertion in parenting on a child's behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
+related_article4:
+    id: 164145
+    title: How do negotiation skills in peer relationships contribute to moral problem solving?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving
+related_article5:
+    id: 164150
+    title: What are the potential emotional consequences of overemphasizing control in parental influence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
 ---
 
 &nbsp;

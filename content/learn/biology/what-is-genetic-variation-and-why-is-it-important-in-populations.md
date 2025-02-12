@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-genetic-variation-and-why-is-it-important-in-populations.md
 url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
 score: -1.0
+related_article1:
+    id: 167872
+    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article2:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article3:
+    id: 167890
+    title: What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article4:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article5:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 ---
 
 &nbsp;

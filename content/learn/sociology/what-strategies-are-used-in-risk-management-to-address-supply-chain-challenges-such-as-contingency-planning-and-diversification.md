@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification.md
 url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
 score: -1.0
+related_article1:
+    id: 163609
+    title: How does interconnectedness influence global opportunities and conditions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+related_article2:
+    id: 163622
+    title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
+related_article3:
+    id: 163612
+    title: What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
+related_article4:
+    id: 163623
+    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+related_article5:
+    id: 163612
+    title: What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 ---
 
 &nbsp;

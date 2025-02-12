@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-does-tactical-urbanism-influence-volumetric-warfighting-strategies.md
 url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
 score: -1.0
+related_article1:
+    id: 162923
+    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+related_article2:
+    id: 162930
+    title: What are the effects of urban density on urban complexity and morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
+related_article3:
+    id: 162930
+    title: What are the effects of urban density on urban complexity and morphologies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
+related_article4:
+    id: 162921
+    title: How do city-states and shanty-states function as geopolitical actors in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
+related_article5:
+    id: 162933
+    title: How does military doctrine address the challenges of urban complexity in megacities?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
 ---
 
 &nbsp;

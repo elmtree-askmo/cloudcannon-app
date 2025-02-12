@@ -21,6 +21,31 @@ subject: Biology
 file_name: describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes.md
 url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 score: -1.0
+related_article1:
+    id: 165273
+    title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
+related_article2:
+    id: 165279
+    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article3:
+    id: 165281
+    title: What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
+related_article4:
+    id: 165286
+    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article5:
+    id: 165274
+    title: Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions.md
 url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
 score: -1.0
+related_article1:
+    id: 165092
+    title: How do design principles influence the effectiveness of data visualizations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
+related_article2:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
+related_article3:
+    id: 165070
+    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+related_article4:
+    id: 165078
+    title: What are the main differences between experimental design and observational studies in research methodology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article5:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 ---
 
 &nbsp;

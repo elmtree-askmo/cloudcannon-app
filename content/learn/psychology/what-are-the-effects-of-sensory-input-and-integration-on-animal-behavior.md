@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior.md
 url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 score: -1.0
+related_article1:
+    id: 166376
+    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+related_article2:
+    id: 166374
+    title: What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article3:
+    id: 166380
+    title: How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+related_article4:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article5:
+    id: 166381
+    title: What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

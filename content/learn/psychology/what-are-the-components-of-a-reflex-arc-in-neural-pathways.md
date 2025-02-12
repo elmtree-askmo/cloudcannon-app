@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-components-of-a-reflex-arc-in-neural-pathways.md
 url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 score: -1.0
+related_article1:
+    id: 170479
+    title: What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+related_article2:
+    id: 170460
+    title: What are the primary differences between gray matter and white matter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+related_article3:
+    id: 170485
+    title: What are the key stages of prenatal and postnatal neurodevelopment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
+related_article4:
+    id: 170472
+    title: What is the function of the amygdala in emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
+related_article5:
+    id: 170461
+    title: How do gyri and sulci contribute to brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development.md
 url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 score: -1.0
+related_article1:
+    id: 168105
+    title: Provide an example of deferred imitation and explain its significance.
+    subject: Psychology
+    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
+related_article2:
+    id: 168101
+    title: What is object permanence, and why is it important in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
+related_article3:
+    id: 168104
+    title: What is make-believe play, and why is it important for cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+related_article4:
+    id: 168093
+    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article5:
+    id: 168107
+    title: Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

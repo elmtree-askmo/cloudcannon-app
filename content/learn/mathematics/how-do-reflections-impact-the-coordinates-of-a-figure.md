@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-reflections-impact-the-coordinates-of-a-figure.md
 url: /learn/mathematics/questions/how-do-reflections-impact-the-coordinates-of-a-figure
 score: -1.0
+related_article1:
+    id: 162622
+    title: How do reflections ensure that figures remain congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
+related_article2:
+    id: 162391
+    title: What is the result of reflecting a point across the y-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
+related_article3:
+    id: 162761
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article4:
+    id: 162747
+    title: What is vertical symmetry in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+related_article5:
+    id: 162399
+    title: How are triangles affected by reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
 ---
 
 &nbsp;

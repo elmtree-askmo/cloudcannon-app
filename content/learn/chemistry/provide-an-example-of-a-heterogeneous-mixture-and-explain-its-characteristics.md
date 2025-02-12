@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics.md
 url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 score: -1.0
+related_article1:
+    id: 161871
+    title: What are some examples of elements and compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-compounds
+related_article2:
+    id: 161850
+    title: List some examples of homogeneous mixtures.
+    subject: Chemistry
+    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+related_article3:
+    id: 161822
+    title: What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article4:
+    id: 161825
+    title: What are chemical symbols and how are they used to represent elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+related_article5:
+    id: 161729
+    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
 ---
 
 &nbsp;

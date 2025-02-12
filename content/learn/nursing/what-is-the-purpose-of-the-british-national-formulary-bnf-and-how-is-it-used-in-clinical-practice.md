@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice.md
 url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 score: -1.0
+related_article1:
+    id: 169745
+    title: What are the nutritional requirements and hydration standards for maintaining health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+related_article2:
+    id: 169739
+    title: What are the four principles of person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+related_article3:
+    id: 169741
+    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+related_article4:
+    id: 169742
+    title: What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
+    id: 169757
+    title: What are the regulations and storage requirements for controlled drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 ---
 
 &nbsp;

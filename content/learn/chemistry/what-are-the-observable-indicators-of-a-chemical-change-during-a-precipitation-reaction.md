@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction.md
 url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 score: -1.0
+related_article1:
+    id: 162025
+    title: Describe the characteristics of a solid and provide an example.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
+related_article2:
+    id: 162050
+    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article3:
+    id: 162037
+    title: How can the formation of ions be described in the context of ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+related_article4:
+    id: 161936
+    title: Describe the process of ionization and its effects on the charge of particles.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+related_article5:
+    id: 161972
+    title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

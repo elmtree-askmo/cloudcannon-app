@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems.md
 url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 score: -1.0
+related_article1:
+    id: 169916
+    title: How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article2:
+    id: 169916
+    title: How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
+related_article3:
+    id: 169910
+    title: How do inflation and interest rates serve as economic indicators?
+    subject: Economics
+    url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-economic-indicators
+related_article4:
+    id: 169913
+    title: What is the significance of resource utilization in achieving economic sustainability?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-significance-of-resource-utilization-in-achieving-economic-sustainability
+related_article5:
+    id: 169916
+    title: How do price fluctuations influence consumer behavior in market dynamics?
+    subject: Economics
+    url: /learn/economics/questions/how-do-price-fluctuations-influence-consumer-behavior-in-market-dynamics
 ---
 
 &nbsp;

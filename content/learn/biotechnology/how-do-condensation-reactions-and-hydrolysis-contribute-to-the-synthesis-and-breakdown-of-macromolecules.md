@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules.md
 url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
 score: -1.0
+related_article1:
+    id: 170967
+    title: How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article2:
+    id: 170967
+    title: How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
+related_article3:
+    id: 170959
+    title: How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
+related_article4:
+    id: 170969
+    title: How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article5:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
 ---
 
 &nbsp;

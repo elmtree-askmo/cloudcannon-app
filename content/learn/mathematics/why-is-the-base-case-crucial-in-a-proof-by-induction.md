@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-the-base-case-crucial-in-a-proof-by-induction.md
 url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
 score: -1.0
+related_article1:
+    id: 170772
+    title: What are the properties of natural numbers that make them suitable for induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+related_article2:
+    id: 170761
+    title: What is a direct proof, and how does it differ from a proof by contradiction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
+related_article3:
+    id: 170773
+    title: Explain the role of the successor function in the context of natural numbers.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
+related_article4:
+    id: 170763
+    title: Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article5:
+    id: 170770
+    title: What is the logical basis for the justification of induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 ---
 
 &nbsp;

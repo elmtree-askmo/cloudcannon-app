@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention.md
 url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
 score: -1.0
+related_article1:
+    id: 164061
+    title: What are the main findings and implications of research in systemic treatments for psychopathology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
+related_article2:
+    id: 164068
+    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article3:
+    id: 164066
+    title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
+related_article4:
+    id: 164060
+    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article5:
+    id: 164056
+    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
 ---
 
 &nbsp;

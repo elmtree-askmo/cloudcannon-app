@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience.md
 url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
 score: -1.0
+related_article1:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article2:
+    id: 164610
+    title: How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
+related_article3:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article4:
+    id: 164606
+    title: How does visual word recognition differ between the left and right visual fields?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+related_article5:
+    id: 164604
+    title: How does the arcuate fasciculus contribute to language function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
 ---
 
 &nbsp;

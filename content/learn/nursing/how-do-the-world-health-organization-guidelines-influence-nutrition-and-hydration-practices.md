@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices.md
 url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
 score: -1.0
+related_article1:
+    id: 169784
+    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+related_article2:
+    id: 169779
+    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article3:
+    id: 169775
+    title: What are the nutritional benefits of including dairy in the diet?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+related_article4:
+    id: 169773
+    title: What is the role of vitamins in body functions, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+related_article5:
+    id: 169785
+    title: What is food fortification, and how does it support nutritional needs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
 ---
 
 &nbsp;

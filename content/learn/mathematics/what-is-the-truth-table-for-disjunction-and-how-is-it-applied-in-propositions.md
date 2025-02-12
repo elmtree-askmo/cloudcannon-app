@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions.md
 url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
 score: -1.0
+related_article1:
+    id: 170255
+    title: How does the order of precedence affect the resolution of complex logical formulae?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+related_article2:
+    id: 170256
+    title: List the operators by precedence and explain their application in logical expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
+related_article3:
+    id: 170243
+    title: What is the role of order of precedence in resolving logical operators?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+related_article4:
+    id: 170235
+    title: What is the historical significance of propositional logic in the development of logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
+related_article5:
+    id: 170240
+    title: List and describe the common logical operators used in propositional logic.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior.md
 url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
 score: -1.0
+related_article1:
+    id: 169278
+    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+related_article2:
+    id: 169277
+    title: What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article3:
+    id: 169278
+    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    subject: Politics
+    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+related_article4:
+    id: 169277
+    title: What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article5:
+    id: 169273
+    title: How does democratic socialism propose to address capitalist inequalities?
+    subject: Politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 ---
 
 &nbsp;

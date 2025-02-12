@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry.md
 url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
 score: -1.0
+related_article1:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article2:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article3:
+    id: 167125
+    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+related_article4:
+    id: 167114
+    title: What are the polar characteristics of water molecules and how do they interact with ions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+related_article5:
+    id: 167118
+    title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
 ---
 
 &nbsp;

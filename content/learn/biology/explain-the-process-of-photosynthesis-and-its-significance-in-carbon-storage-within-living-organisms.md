@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms.md
 url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
 score: -1.0
+related_article1:
+    id: 170433
+    title: How do marine organisms contribute to carbon storage in the ocean?
+    subject: Biology
+    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+related_article2:
+    id: 170438
+    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+related_article3:
+    id: 170428
+    title: List the main types of greenhouse gases and describe their sources.
+    subject: Biology
+    url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
+related_article4:
+    id: 170422
+    title: How does carbon flux contribute to the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article5:
+    id: 170430
+    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 ---
 
 &nbsp;

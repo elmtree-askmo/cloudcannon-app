@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-can-predictive-policing-be-applied-in-the-context-of-mental-health.md
 url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
 score: -1.0
+related_article1:
+    id: 164073
+    title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article2:
+    id: 164069
+    title: What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article3:
+    id: 164079
+    title: What are the benefits of data-driven personalized care in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
+related_article4:
+    id: 164083
+    title: How does brain morphology contribute to a transdiagnostic approach in mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
+related_article5:
+    id: 164084
+    title: What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
 ---
 
 &nbsp;

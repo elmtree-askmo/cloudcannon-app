@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods.md
 url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 score: -1.0
+related_article1:
+    id: 165068
+    title: What is the role of descriptive statistics in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+related_article2:
+    id: 165074
+    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+related_article3:
+    id: 165085
+    title: How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article4:
+    id: 165069
+    title: How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+related_article5:
+    id: 165077
+    title: What are some limitations of relying solely on p-values for statistical significance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 ---
 
 &nbsp;

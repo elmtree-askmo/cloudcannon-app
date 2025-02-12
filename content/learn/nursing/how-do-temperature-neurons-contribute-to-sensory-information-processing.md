@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-temperature-neurons-contribute-to-sensory-information-processing.md
 url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 score: -1.0
+related_article1:
+    id: 164798
+    title: What is the primary function of an axon in a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+related_article2:
+    id: 164815
+    title: What is the relationship between photographic memory and cognitive load?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
+related_article3:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article4:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article5:
+    id: 164806
+    title: What are brain patterns, and how do they relate to brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
 ---
 
 &nbsp;

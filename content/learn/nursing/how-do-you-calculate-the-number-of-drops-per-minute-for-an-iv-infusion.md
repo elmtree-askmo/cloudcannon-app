@@ -21,6 +21,26 @@ subject: Nursing
 file_name: how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion.md
 url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
 score: -1.0
+related_article1:
+    id: 169735
+    title: What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+related_article2:
+    id: 169735
+    title: What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+related_article3:
+    id: 169732
+    title: How do you calculate the drop rate for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
+related_article4:
+    id: 169736
+    title: What are the potential legal consequences of medication errors in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
 ---
 
 &nbsp;

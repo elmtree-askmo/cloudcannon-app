@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing.md
 url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 score: -1.0
+related_article1:
+    id: 164523
+    title: What role does the amygdala play in processing core emotions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
+related_article2:
+    id: 164534
+    title: How does stress impact cognitive functions and mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+related_article3:
+    id: 164541
+    title: What is brain plasticity, and how does it facilitate adaptation and learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
+related_article4:
+    id: 164528
+    title: How are basic and advanced emotional processes differentiated in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+related_article5:
+    id: 164527
+    title: What is the significance of the cingulate cortex in emotion monitoring?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 ---
 
 &nbsp;

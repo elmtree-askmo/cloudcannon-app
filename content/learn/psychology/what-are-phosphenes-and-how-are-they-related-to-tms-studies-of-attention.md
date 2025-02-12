@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention.md
 url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 score: -1.0
+related_article1:
+    id: 164764
+    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+related_article2:
+    id: 164761
+    title: How does neuropsychological evidence support the concept of object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article3:
+    id: 164771
+    title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
+related_article4:
+    id: 164771
+    title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
+related_article5:
+    id: 164766
+    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
 ---
 
 &nbsp;

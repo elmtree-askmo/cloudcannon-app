@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-are-the-causes-and-effects-of-protein-denaturation-on-its-function.md
 url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
 score: -1.0
+related_article1:
+    id: 166850
+    title: What is the role of chaperones in protein folding and preventing misfolding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-chaperones-in-protein-folding-and-preventing-misfolding
+related_article2:
+    id: 166843
+    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article3:
+    id: 166845
+    title: How do multiple polypeptide chains form a functional quaternary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
+related_article4:
+    id: 166836
+    title: What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article5:
+    id: 166848
+    title: What factors can affect enzyme activity and how?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
 ---
 
 &nbsp;

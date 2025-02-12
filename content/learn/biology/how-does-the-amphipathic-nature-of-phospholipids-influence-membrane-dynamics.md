@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics.md
 url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
 score: -1.0
+related_article1:
+    id: 167177
+    title: Explain why lipids are nonpolar and how this characteristic affects their biological functions.
+    subject: Biology
+    url: /learn/biology/questions/explain-why-lipids-are-nonpolar-and-how-this-characteristic-affects-their-biological-functions
+related_article2:
+    id: 167172
+    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+related_article3:
+    id: 167172
+    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+related_article4:
+    id: 167174
+    title: Compare the structural differences between lipids and carbohydrates.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
+related_article5:
+    id: 167172
+    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia.md
 url: /learn/psychology/questions/differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia
 score: -1.0
+related_article1:
+    id: 164966
+    title: What challenges are associated with phonological agrarcia in writing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-are-associated-with-phonological-agrarcia-in-writing
+related_article2:
+    id: 164970
+    title: Describe the phonological and logographic systems of the Japanese language structure.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
+related_article3:
+    id: 164961
+    title: What is the direct route to reading, and how does it relate to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
+related_article4:
+    id: 164958
+    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+related_article5:
+    id: 164968
+    title: What are the challenges of irregular spelling in relation to surface alexia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
 ---
 
 &nbsp;

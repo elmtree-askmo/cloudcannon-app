@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-inferiority-and-superiority-complexes-impact-human-behavior.md
 url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
 score: -1.0
+related_article1:
+    id: 163000
+    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+related_article2:
+    id: 163002
+    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article3:
+    id: 163008
+    title: How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
+related_article4:
+    id: 163002
+    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article5:
+    id: 162997
+    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
 ---
 
 &nbsp;

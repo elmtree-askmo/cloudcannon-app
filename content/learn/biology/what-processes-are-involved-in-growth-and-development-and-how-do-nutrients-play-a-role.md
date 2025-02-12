@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role.md
 url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 score: -1.0
+related_article1:
+    id: 166922
+    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+related_article2:
+    id: 166926
+    title: What role do feedback systems play in maintaining homeostasis?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article3:
+    id: 166910
+    title: Why is developing predictions important in experimentation?
+    subject: Biology
+    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+related_article4:
+    id: 166922
+    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+related_article5:
+    id: 166930
+    title: How do hormonal regulation and nervous system control contribute to biological regulation?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
 ---
 
 &nbsp;

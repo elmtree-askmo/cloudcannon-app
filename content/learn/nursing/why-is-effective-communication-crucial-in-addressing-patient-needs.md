@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-effective-communication-crucial-in-addressing-patient-needs.md
 url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
 score: -1.0
+related_article1:
+    id: 169484
+    title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
+related_article2:
+    id: 169481
+    title: Why is informed consent important in healthcare, and what are the procedures for obtaining it?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
+related_article3:
+    id: 169476
+    title: How can healthcare providers maintain patient dignity through consent and communication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
+related_article4:
+    id: 169485
+    title: What are effective communication strategies for building rapport with patients?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
+related_article5:
+    id: 169489
+    title: What are the common causes of pressure sores, and how can they be recognized early?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
 ---
 
 &nbsp;

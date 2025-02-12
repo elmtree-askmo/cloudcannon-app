@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-does-the-polarity-of-water-arise-from-its-molecular-structure.md
 url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 score: -1.0
+related_article1:
+    id: 167150
+    title: What are the implications of ice's lower density for aquatic ecosystems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+related_article2:
+    id: 167152
+    title: What role does evaporation play in the cooling effect of sweating?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+related_article3:
+    id: 167153
+    title: Why is water essential for sustaining life on Earth?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+related_article4:
+    id: 167155
+    title: What was Cavendish's contribution to the understanding of water's composition?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
+related_article5:
+    id: 167144
+    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 ---
 
 &nbsp;

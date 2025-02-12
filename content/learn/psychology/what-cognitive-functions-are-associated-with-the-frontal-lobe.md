@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-cognitive-functions-are-associated-with-the-frontal-lobe.md
 url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 score: -1.0
+related_article1:
+    id: 164417
+    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+related_article2:
+    id: 164407
+    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
+related_article3:
+    id: 164415
+    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+related_article4:
+    id: 164415
+    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+related_article5:
+    id: 164417
+    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
 ---
 
 &nbsp;

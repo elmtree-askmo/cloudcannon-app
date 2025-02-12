@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated.md
 url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
 score: -1.0
+related_article1:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article2:
+    id: 170442
+    title: What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article3:
+    id: 170444
+    title: What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article4:
+    id: 170457
+    title: What are the types of stroke, and how can they be prevented and managed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+related_article5:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
 ---
 
 &nbsp;

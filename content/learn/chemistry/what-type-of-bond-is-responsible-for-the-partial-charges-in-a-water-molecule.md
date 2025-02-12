@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule.md
 url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
 score: -1.0
+related_article1:
+    id: 167314
+    title: What causes the formation of a meniscus in a container of water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+related_article2:
+    id: 167316
+    title: How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
+related_article3:
+    id: 167319
+    title: How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article4:
+    id: 167320
+    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article5:
+    id: 167316
+    title: How do nonpolar molecules behave in water, and why?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry.md
 url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
 score: -1.0
+related_article1:
+    id: 167061
+    title: What are radioactive isotopes and what are some of their applications?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+related_article2:
+    id: 167055
+    title: What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
+related_article3:
+    id: 167064
+    title: What is the difference between covalent and ionic bonds in terms of electron sharing?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-sharing
+related_article4:
+    id: 167069
+    title: How do electronegativity and valence electrons influence chemical reactivity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-influence-chemical-reactivity
+related_article5:
+    id: 167060
+    title: How do isotopes of an element differ from each other?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
 ---
 
 &nbsp;

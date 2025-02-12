@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve.md
 url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 score: -1.0
+related_article1:
+    id: 170451
+    title: How are dermatomes mapped, and what is their clinical significance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
+related_article2:
+    id: 170443
+    title: Describe the challenges in the treatment and management of Alzheimer's and Parkinson's diseases.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-challenges-in-the-treatment-and-management-of-alzheimers-and-parkinsons-diseases
+related_article3:
+    id: 170445
+    title: Explain the structure and function of white matter and gray matter in the spinal cord.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-structure-and-function-of-white-matter-and-gray-matter-in-the-spinal-cord
+related_article4:
+    id: 170446
+    title: What is the role of the withdrawal reflex in motor function?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
+related_article5:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-motor-neurons-facilitate-movement-in-the-body.md
 url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
 score: -1.0
+related_article1:
+    id: 164796
+    title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+related_article2:
+    id: 164795
+    title: How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
+related_article3:
+    id: 164808
+    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article4:
+    id: 164811
+    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+related_article5:
+    id: 164814
+    title: How does cerebrospinal fluid contribute to neural nourishment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
 ---
 
 &nbsp;

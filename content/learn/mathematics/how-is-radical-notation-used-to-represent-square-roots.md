@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-is-radical-notation-used-to-represent-square-roots.md
 url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 score: -1.0
+related_article1:
+    id: 163720
+    title: Describe how scaling affects the graph of a quadratic function.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
+related_article2:
+    id: 163722
+    title: How do vertical shifts impact the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
+related_article3:
+    id: 163715
+    title: Explain the concept of symmetry in graphs and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+related_article4:
+    id: 163711
+    title: What is the principal square root of a number, and how does it differ from other square roots?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-principal-square-root-of-a-number-and-how-does-it-differ-from-other-square-roots
+related_article5:
+    id: 163723
+    title: What are the domain restrictions for the function y = √x, and why do they exist?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
 ---
 
 &nbsp;

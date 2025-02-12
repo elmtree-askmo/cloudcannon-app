@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming.md
 url: /learn/biology/questions/what-behavioral-adaptations-do-aquatic-animals-exhibit-to-enhance-respiration-such-as-continuous-swimming
 score: -1.0
+related_article1:
+    id: 168757
+    title: What mechanisms do aquatic organisms use for water intake and expulsion?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-aquatic-organisms-use-for-water-intake-and-expulsion
+related_article2:
+    id: 168760
+    title: How do environmental factors like water temperature and oxygen availability affect fish respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-factors-like-water-temperature-and-oxygen-availability-affect-fish-respiration
+related_article3:
+    id: 168765
+    title: What are the variations in gill slits among different fish species, and how do these relate to evolutionary adaptations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
+related_article4:
+    id: 168758
+    title: How does operculum movement aid in water expulsion and pressure dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-does-operculum-movement-aid-in-water-expulsion-and-pressure-dynamics
+related_article5:
+    id: 168765
+    title: What are the variations in gill slits among different fish species, and how do these relate to evolutionary adaptations?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-variations-in-gill-slits-among-different-fish-species-and-how-do-these-relate-to-evolutionary-adaptations
 ---
 
 &nbsp;

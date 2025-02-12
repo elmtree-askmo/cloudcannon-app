@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid.md
 url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
 score: -1.0
+related_article1:
+    id: 170729
+    title: How do you determine the domain of a function, and what are common errors to avoid in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
+related_article2:
+    id: 170726
+    title: How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
+related_article3:
+    id: 170732
+    title: What are the basic concepts of set theory, and how do operations on sets function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-basic-concepts-of-set-theory-and-how-do-operations-on-sets-function
+related_article4:
+    id: 170735
+    title: What techniques are used for logical justification in mathematical proofs, and can you provide an example?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-are-used-for-logical-justification-in-mathematical-proofs-and-can-you-provide-an-example
+related_article5:
+    id: 170726
+    title: How does strong induction provide advantages over standard induction in certain proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-strong-induction-provide-advantages-over-standard-induction-in-certain-proofs
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-significance-of-defining-intervals-when-analyzing-functions.md
 url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
 score: -1.0
+related_article1:
+    id: 163705
+    title: How do you choose points on a graph for accurate estimation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+related_article2:
+    id: 163710
+    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+related_article3:
+    id: 163697
+    title: What is the formula for calculating the average rate of change between two points on a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-between-two-points-on-a-graph
+related_article4:
+    id: 163707
+    title: How do square root and cube root functions compare in terms of rate of change over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
+related_article5:
+    id: 163706
+    title: What are the differences in graph interpretation between quadratic and exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
 ---
 
 &nbsp;

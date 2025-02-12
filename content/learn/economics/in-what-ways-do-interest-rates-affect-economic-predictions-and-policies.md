@@ -21,6 +21,31 @@ subject: Economics
 file_name: in-what-ways-do-interest-rates-affect-economic-predictions-and-policies.md
 url: /learn/economics/questions/in-what-ways-do-interest-rates-affect-economic-predictions-and-policies
 score: -1.0
+related_article1:
+    id: 169890
+    title: Explain how tariffs can affect supply and demand in a market.
+    subject: Economics
+    url: /learn/economics/questions/explain-how-tariffs-can-affect-supply-and-demand-in-a-market
+related_article2:
+    id: 169901
+    title: What are the economic consequences of tariffs on US-Canada trade dynamics?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
+related_article3:
+    id: 169889
+    title: How do tariffs influence international trade and economic relationships?
+    subject: Economics
+    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+related_article4:
+    id: 169900
+    title: How do private and public banking systems influence borrowing and lending practices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+related_article5:
+    id: 169895
+    title: How do political economy strategies influence global economic supremacy?
+    subject: Economics
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
 ---
 
 &nbsp;

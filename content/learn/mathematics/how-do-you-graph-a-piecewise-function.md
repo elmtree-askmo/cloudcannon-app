@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-graph-a-piecewise-function.md
 url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
 score: -1.0
+related_article1:
+    id: 163729
+    title: Describe the key features of a quadratic function graph.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-key-features-of-a-quadratic-function-graph
+related_article2:
+    id: 163740
+    title: What are the differences between quadratic and cubic function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
+related_article3:
+    id: 163737
+    title: Compare the graphs of linear and non-linear functions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/compare-the-graphs-of-linear-and-nonlinear-functions
+related_article4:
+    id: 163738
+    title: What is the importance of symmetry in quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
+related_article5:
+    id: 163734
+    title: How is the average rate of change calculated for a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
 ---
 
 &nbsp;

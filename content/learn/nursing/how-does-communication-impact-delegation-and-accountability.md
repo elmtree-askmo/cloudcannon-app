@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-does-communication-impact-delegation-and-accountability.md
 url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 score: -1.0
+related_article1:
+    id: 169557
+    title: What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+related_article2:
+    id: 169565
+    title: How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article3:
+    id: 169560
+    title: How should student nurses apply the NMC Code in their practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+related_article4:
+    id: 169575
+    title: What are the different roles within a healthcare team, and how do they interact?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+related_article5:
+    id: 169554
+    title: What tasks are suitable for delegation to student nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 ---
 
 &nbsp;

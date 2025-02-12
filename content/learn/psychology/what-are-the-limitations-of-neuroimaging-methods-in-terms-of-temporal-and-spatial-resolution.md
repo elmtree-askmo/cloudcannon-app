@@ -21,6 +21,26 @@ subject: Psychology
 file_name: what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution.md
 url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
 score: -1.0
+related_article1:
+    id: 164291
+    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
+related_article2:
+    id: 164298
+    title: How does PET technology compare to fMRI in terms of pros and cons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
+related_article3:
+    id: 164296
+    title: What were some of the early studies that contributed to the development of PET technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
+related_article4:
+    id: 164313
+    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 ---
 
 &nbsp;

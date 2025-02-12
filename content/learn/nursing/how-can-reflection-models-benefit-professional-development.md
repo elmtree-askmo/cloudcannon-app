@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-can-reflection-models-benefit-professional-development.md
 url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 score: -1.0
+related_article1:
+    id: 169820
+    title: What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article2:
+    id: 169818
+    title: What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
+related_article3:
+    id: 169818
+    title: What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
+related_article4:
+    id: 169806
+    title: What are the key components of emotional intelligence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article5:
+    id: 169814
+    title: What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
 ---
 
 &nbsp;

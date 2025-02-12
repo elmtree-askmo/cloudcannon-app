@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-do-ionic-bonds-form-between-charged-r-groups-in-proteins.md
 url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 score: -1.0
+related_article1:
+    id: 165342
+    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article2:
+    id: 165349
+    title: Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article3:
+    id: 165348
+    title: What distinguishes purines from pyrimidines among nitrogenous bases?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
+related_article4:
+    id: 165340
+    title: What types of bonds and interactions contribute to the tertiary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
+related_article5:
+    id: 165335
+    title: How do charged and uncharged side chains influence the behavior of amino acids in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
 ---
 
 &nbsp;

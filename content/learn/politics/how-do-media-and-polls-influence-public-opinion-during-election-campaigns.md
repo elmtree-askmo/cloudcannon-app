@@ -21,6 +21,31 @@ subject: Politics
 file_name: how-do-media-and-polls-influence-public-opinion-during-election-campaigns.md
 url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 score: -1.0
+related_article1:
+    id: 165637
+    title: What lessons can be learned from past elections in terms of political strategy?
+    subject: Politics
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+related_article2:
+    id: 165621
+    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
+related_article3:
+    id: 165618
+    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    subject: Politics
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+related_article4:
+    id: 165638
+    title: How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article5:
+    id: 165633
+    title: What measures can be taken to ensure fairness and public trust in electoral processes?
+    subject: Politics
+    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
 ---
 
 &nbsp;

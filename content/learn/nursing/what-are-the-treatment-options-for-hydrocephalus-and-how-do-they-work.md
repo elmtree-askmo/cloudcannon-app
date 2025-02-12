@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work.md
 url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
 score: -1.0
+related_article1:
+    id: 170441
+    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+related_article2:
+    id: 170458
+    title: How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article3:
+    id: 170450
+    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+related_article4:
+    id: 170443
+    title: Describe the challenges in the treatment and management of Alzheimer's and Parkinson's diseases.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-challenges-in-the-treatment-and-management-of-alzheimers-and-parkinsons-diseases
+related_article5:
+    id: 170456
+    title: What are the major regions of the brain, and what functions do they serve?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

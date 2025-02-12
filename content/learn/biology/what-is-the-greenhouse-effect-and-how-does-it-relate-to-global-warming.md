@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming.md
 url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
 score: -1.0
+related_article1:
+    id: 170303
+    title: How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article2:
+    id: 170304
+    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+related_article3:
+    id: 170303
+    title: How does deforestation affect carbon release and habitat loss?
+    subject: Biology
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article4:
+    id: 170306
+    title: How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    subject: Biology
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
+related_article5:
+    id: 170301
+    title: How do producers and consumers contribute to energy flow in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
 ---
 
 &nbsp;

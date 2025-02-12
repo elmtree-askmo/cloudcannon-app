@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-diagnostic-techniques-are-used-for-memory-disorders.md
 url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
 score: -1.0
+related_article1:
+    id: 164495
+    title: What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article2:
+    id: 164486
+    title: What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article3:
+    id: 164489
+    title: How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
+related_article4:
+    id: 164491
+    title: What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
+related_article5:
+    id: 164485
+    title: What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 ---
 
 &nbsp;

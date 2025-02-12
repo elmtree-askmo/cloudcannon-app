@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-happens-to-the-coordinates-of-a-point-when-it-is-reflected-across-the-yaxis.md
 url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-it-is-reflected-across-the-yaxis
 score: -1.0
+related_article1:
+    id: 162696
+    title: How does the position and orientation of a figure change after reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-reflection
+related_article2:
+    id: 162908
+    title: How does the line of reflection act as a mirror in geometric transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+related_article3:
+    id: 162906
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article4:
+    id: 162522
+    title: What similarities exist between original and reflected figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+related_article5:
+    id: 162412
+    title: Why is distance preservation important in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

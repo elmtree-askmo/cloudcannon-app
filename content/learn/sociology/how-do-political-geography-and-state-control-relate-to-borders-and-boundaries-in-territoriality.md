@@ -21,6 +21,31 @@ subject: Sociology
 file_name: how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality.md
 url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 score: -1.0
+related_article1:
+    id: 160564
+    title: What is the significance of population distribution and cultural landscapes in human systems?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+related_article2:
+    id: 160102
+    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+related_article3:
+    id: 160555
+    title: What skills are essential for effective data interpretation and problem solving in critical thinking?
+    subject: Sociology
+    url: /learn/sociology/questions/what-skills-are-essential-for-effective-data-interpretation-and-problem-solving-in-critical-thinking
+related_article4:
+    id: 160210
+    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+related_article5:
+    id: 160504
+    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

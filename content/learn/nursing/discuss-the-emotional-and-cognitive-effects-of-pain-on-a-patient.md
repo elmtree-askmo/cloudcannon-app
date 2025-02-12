@@ -21,6 +21,21 @@ subject: Nursing
 file_name: discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient.md
 url: /learn/nursing/questions/discuss-the-emotional-and-cognitive-effects-of-pain-on-a-patient
 score: -1.0
+related_article1:
+    id: 169793
+    title: What are the potential side effects of opioid use in pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
+related_article2:
+    id: 169788
+    title: List some common causes of neuropathic pain and describe its management strategies.
+    subject: Nursing
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
+related_article3:
+    id: 169791
+    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
 ---
 
 &nbsp;

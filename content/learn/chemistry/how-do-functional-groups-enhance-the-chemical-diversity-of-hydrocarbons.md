@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons.md
 url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 score: -1.0
+related_article1:
+    id: 167040
+    title: How can the presence of a carbonyl group be used to identify sugars?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-the-presence-of-a-carbonyl-group-be-used-to-identify-sugars
+related_article2:
+    id: 167039
+    title: What is the biological role of the sulfhydryl group?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
+related_article3:
+    id: 167049
+    title: What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
+related_article4:
+    id: 167051
+    title: Describe how the carboxyl and phosphate groups influence acidity in organic molecules.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-how-the-carboxyl-and-phosphate-groups-influence-acidity-in-organic-molecules
+related_article5:
+    id: 167050
+    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
 ---
 
 &nbsp;

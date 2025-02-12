@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem.md
 url: /learn/biology/questions/what-are-the-primary-differences-between-transmission-electron-microscopy-tem-and-scanning-electron-microscopy-sem
 score: -1.0
+related_article1:
+    id: 170954
+    title: What are the main advantages and limitations of light microscopy compared to electron microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
+related_article2:
+    id: 170942
+    title: What is the typical size range of cells that can be observed with the naked eye?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article3:
+    id: 170949
+    title: What were some key contributions of early scientists to the development of microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+related_article4:
+    id: 170941
+    title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article5:
+    id: 170952
+    title: How is GFP used to study protein localization in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
 ---
 
 &nbsp;

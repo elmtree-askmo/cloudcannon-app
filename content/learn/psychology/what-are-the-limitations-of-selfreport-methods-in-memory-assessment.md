@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-limitations-of-selfreport-methods-in-memory-assessment.md
 url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
 score: -1.0
+related_article1:
+    id: 164664
+    title: How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article2:
+    id: 164664
+    title: How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article3:
+    id: 164665
+    title: What are the key factors in assessing behavioral changes post-injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article4:
+    id: 164664
+    title: How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+related_article5:
+    id: 164659
+    title: What were some of the early observations that contributed to the development of neuropsychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
 ---
 
 &nbsp;

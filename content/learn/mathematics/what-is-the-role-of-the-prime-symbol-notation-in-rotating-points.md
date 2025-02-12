@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-is-the-role-of-the-prime-symbol-notation-in-rotating-points.md
 url: /learn/mathematics/questions/what-is-the-role-of-the-prime-symbol-notation-in-rotating-points
 score: -1.0
+related_article1:
+    id: 162602
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article2:
+    id: 162239
+    title: What is the significance of the prime symbol notation in rotations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+related_article3:
+    id: 162601
+    title: How do the coordinates of a point change when it is rotated around the origin?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
+related_article4:
+    id: 162485
+    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
+    id: 162596
+    title: What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

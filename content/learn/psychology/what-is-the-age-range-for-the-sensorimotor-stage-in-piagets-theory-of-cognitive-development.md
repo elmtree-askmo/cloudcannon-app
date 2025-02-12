@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development.md
 url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-piagets-theory-of-cognitive-development
 score: -1.0
+related_article1:
+    id: 168082
+    title: How do tertiary circular reactions demonstrate an infant's ability to experiment and discover consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-tertiary-circular-reactions-demonstrate-an-infants-ability-to-experiment-and-discover-consequences
+related_article2:
+    id: 168079
+    title: What characterizes primary circular reactions in the sensorimotor stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
+related_article3:
+    id: 168086
+    title: How do motor actions contribute to an infant's exploration and manipulation of their environment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
+related_article4:
+    id: 168081
+    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
+related_article5:
+    id: 168089
+    title: How does visual imagery contribute to the development of mental representations?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
 ---
 
 &nbsp;

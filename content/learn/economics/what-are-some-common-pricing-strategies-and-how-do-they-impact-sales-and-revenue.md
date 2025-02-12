@@ -21,6 +21,31 @@ subject: Economics
 file_name: what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue.md
 url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
 score: -1.0
+related_article1:
+    id: 169935
+    title: Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
+related_article2:
+    id: 169925
+    title: How do supply and demand dynamics influence pricing strategies in a market?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
+related_article3:
+    id: 169925
+    title: How do supply and demand dynamics influence pricing strategies in a market?
+    subject: Economics
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
+related_article4:
+    id: 169926
+    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article5:
+    id: 169935
+    title: Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 ---
 
 &nbsp;

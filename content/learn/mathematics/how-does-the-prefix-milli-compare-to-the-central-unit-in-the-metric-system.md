@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system.md
 url: /learn/mathematics/questions/how-does-the-prefix-milli-compare-to-the-central-unit-in-the-metric-system
 score: -1.0
+related_article1:
+    id: 165393
+    title: How do larger prefixes in the metric system relate to the central unit?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+related_article2:
+    id: 165415
+    title: How do you convert milligrams to grams?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
+related_article3:
+    id: 165395
+    title: What is the value of the prefix 'kilo' in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
+related_article4:
+    id: 165399
+    title: What is the relationship between the prefix 'centi' and the central unit in the metric system?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
+related_article5:
+    id: 165408
+    title: What is the practical application of drawing a number line in metric conversions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
 ---
 
 &nbsp;

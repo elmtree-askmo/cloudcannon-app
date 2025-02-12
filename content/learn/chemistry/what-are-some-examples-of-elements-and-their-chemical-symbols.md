@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-are-some-examples-of-elements-and-their-chemical-symbols.md
 url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
 score: -1.0
+related_article1:
+    id: 161819
+    title: Provide an example of a heterogeneous mixture and explain its characteristics.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
+related_article2:
+    id: 161877
+    title: How are pure substances classified in the context of matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-the-context-of-matter
+related_article3:
+    id: 161713
+    title: What are the key characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+related_article4:
+    id: 161914
+    title: What are the defining characteristics of heterogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
+related_article5:
+    id: 161884
+    title: Provide examples of compounds and their chemical formulas.
+    subject: Chemistry
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 ---
 
 &nbsp;

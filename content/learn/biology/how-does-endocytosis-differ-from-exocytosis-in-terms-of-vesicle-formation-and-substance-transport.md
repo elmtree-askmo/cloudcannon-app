@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport.md
 url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
 score: -1.0
+related_article1:
+    id: 167160
+    title: Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article2:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article3:
+    id: 167157
+    title: How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
+related_article4:
+    id: 167166
+    title: Why is active transport necessary for moving substances against their concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article5:
+    id: 167157
+    title: How do channel proteins facilitate the movement of substances across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

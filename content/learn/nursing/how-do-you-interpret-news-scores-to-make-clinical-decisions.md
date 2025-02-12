@@ -21,6 +21,31 @@ subject: Nursing
 file_name: how-do-you-interpret-news-scores-to-make-clinical-decisions.md
 url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
 score: -1.0
+related_article1:
+    id: 169474
+    title: How does clinical decision-making impact patient outcomes and treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
+related_article2:
+    id: 169473
+    title: What is the difference between a primary and secondary survey in systematic assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
+related_article3:
+    id: 169464
+    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
+related_article4:
+    id: 169467
+    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+related_article5:
+    id: 169464
+    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-primary-difference-between-ionic-and-covalent-bonds.md
 url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
 score: -1.0
+related_article1:
+    id: 168322
+    title: What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article2:
+    id: 168322
+    title: What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article3:
+    id: 168322
+    title: What are the structural differences between monosaccharides and polysaccharides?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+related_article4:
+    id: 168319
+    title: How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+related_article5:
+    id: 168319
+    title: How is pH used to measure the acidity or basicity of a solution?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
 ---
 
 &nbsp;

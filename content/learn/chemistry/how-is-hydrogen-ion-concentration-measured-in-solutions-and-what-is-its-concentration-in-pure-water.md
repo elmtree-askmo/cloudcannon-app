@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water.md
 url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
 score: -1.0
+related_article1:
+    id: 167630
+    title: Describe the characteristics of basic solutions and their pH range.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+related_article2:
+    id: 167626
+    title: Compare the pH of pure water, orange juice, and bleach.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+related_article3:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article4:
+    id: 167624
+    title: Define molarity and explain its relation to moles in a solution.
+    subject: Chemistry
+    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+related_article5:
+    id: 167631
+    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
 ---
 
 &nbsp;

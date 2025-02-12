@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-are-the-essential-components-of-designing-a-scientific-experiment.md
 url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
 score: -1.0
+related_article1:
+    id: 167512
+    title: What are the different types of reproduction and why are they important for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
+related_article2:
+    id: 167510
+    title: What is homeostasis and why is it important for living organisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
+related_article3:
+    id: 167521
+    title: How does the heritability of traits contribute to evolution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+related_article4:
+    id: 167507
+    title: How does a prediction relate to a hypothesis in the scientific method?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
+related_article5:
+    id: 167522
+    title: What factors affect an organism's survival and reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
 ---
 
 &nbsp;

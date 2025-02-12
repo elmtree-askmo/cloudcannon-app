@@ -21,6 +21,31 @@ subject: Nursing
 file_name: why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices.md
 url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
 score: -1.0
+related_article1:
+    id: 169518
+    title: What is the difference between systolic and diastolic blood pressure?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
+related_article2:
+    id: 169519
+    title: Why has there been an increasing focus on diastolic blood pressure in recent trends?
+    subject: Nursing
+    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
+related_article3:
+    id: 169515
+    title: What are the potential consequences of false blood pressure readings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+related_article4:
+    id: 169520
+    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
+related_article5:
+    id: 169536
+    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
 ---
 
 &nbsp;

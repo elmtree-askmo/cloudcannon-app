@@ -21,6 +21,31 @@ subject: Biology
 file_name: what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms.md
 url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
 score: -1.0
+related_article1:
+    id: 167182
+    title: How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+related_article2:
+    id: 167194
+    title: Define concentration gradients and explain their importance in membrane transport.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+related_article3:
+    id: 167190
+    title: How do pumps function in active transport, and what is their energy source?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+related_article4:
+    id: 167199
+    title: How are large molecules and particles transported across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+related_article5:
+    id: 167183
+    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Biotechnology
 file_name: what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology.md
 url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
 score: -1.0
+related_article1:
+    id: 170965
+    title: How are peptide bonds formed, and what role do they play in protein structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
+related_article2:
+    id: 170956
+    title: What are the main differences between light microscopy and electron microscopy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+related_article3:
+    id: 170964
+    title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
+related_article4:
+    id: 170966
+    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article5:
+    id: 170968
+    title: What is the role of ATP in energy transfer within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Psychology
 file_name: what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain.md
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
 score: -1.0
+related_article1:
+    id: 164715
+    title: How is the N400 component related to semantic processing and contextual integration?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+related_article2:
+    id: 164713
+    title: How does double dissociation provide evidence for the separation of syntax and semantics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
+related_article3:
+    id: 164713
+    title: How does double dissociation provide evidence for the separation of syntax and semantics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
+related_article4:
+    id: 164730
+    title: How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article5:
+    id: 164737
+    title: How does dopamine function as a neurotransmitter in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 ---
 
 &nbsp;

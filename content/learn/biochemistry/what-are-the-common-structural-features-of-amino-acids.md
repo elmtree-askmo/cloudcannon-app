@@ -21,6 +21,31 @@ subject: Biochemistry
 file_name: what-are-the-common-structural-features-of-amino-acids.md
 url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 score: -1.0
+related_article1:
+    id: 167241
+    title: Differentiate between acidic and basic R-groups.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article2:
+    id: 167247
+    title: How do R-group properties affect protein solubility?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+related_article3:
+    id: 167246
+    title: Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article4:
+    id: 167238
+    title: What is the significance of quaternary structure in proteins?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
+related_article5:
+    id: 167236
+    title: What are the key features of alpha helices and beta sheets in secondary protein structure?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
 ---
 
 &nbsp;

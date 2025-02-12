@@ -21,6 +21,31 @@ subject: Engineering
 file_name: what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits.md
 url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 score: -1.0
+related_article1:
+    id: 169861
+    title: How are phasor diagrams used in the analysis of RLC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article2:
+    id: 169858
+    title: What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article3:
+    id: 169849
+    title: Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article4:
+    id: 169848
+    title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
+related_article5:
+    id: 169858
+    title: What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 ---
 
 &nbsp;

@@ -21,6 +21,31 @@ subject: Engineering
 file_name: explain-the-concept-of-energy-conservation-in-electrical-circuits.md
 url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
 score: -1.0
+related_article1:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article2:
+    id: 167942
+    title: What is the difference between power absorbed and power delivered in resistors?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
+related_article3:
+    id: 167935
+    title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
+related_article4:
+    id: 167949
+    title: Why is circuit analysis important in electrical engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+related_article5:
+    id: 167936
+    title: Explain the concept of conventional current and its direction in a circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
 ---
 
 &nbsp;

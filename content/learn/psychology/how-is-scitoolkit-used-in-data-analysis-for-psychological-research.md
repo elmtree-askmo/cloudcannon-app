@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-scitoolkit-used-in-data-analysis-for-psychological-research.md
 url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
 score: -1.0
+related_article1:
+    id: 165232
+    title: What role does molecular visualization play in understanding organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
+related_article2:
+    id: 165233
+    title: Why are STEM skills important for students studying organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
+related_article3:
+    id: 165241
+    title: What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article4:
+    id: 165229
+    title: How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
+related_article5:
+    id: 165231
+    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 ---
 
 &nbsp;

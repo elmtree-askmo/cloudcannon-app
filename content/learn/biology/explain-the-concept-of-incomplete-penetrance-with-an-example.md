@@ -21,6 +21,31 @@ subject: Biology
 file_name: explain-the-concept-of-incomplete-penetrance-with-an-example.md
 url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 score: -1.0
+related_article1:
+    id: 167872
+    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article2:
+    id: 167870
+    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+related_article3:
+    id: 167881
+    title: What are the characteristics of X-linked recessive disorders?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+related_article4:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+related_article5:
+    id: 167892
+    title: What are the different blood types and how are they determined?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 ---
 
 &nbsp;

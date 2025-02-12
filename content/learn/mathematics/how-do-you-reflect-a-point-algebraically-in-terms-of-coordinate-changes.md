@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes.md
 url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
 score: -1.0
+related_article1:
+    id: 162152
+    title: How does reflecting a point across the x-axis affect its coordinates?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
+related_article2:
+    id: 162303
+    title: What is rigid motion and what are its characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
+related_article3:
+    id: 162302
+    title: How do you reflect a point across the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
+related_article4:
+    id: 162161
+    title: What are the properties of line segments in geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article5:
+    id: 162311
+    title: How can graphs be used to visualize transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 ---
 
 &nbsp;

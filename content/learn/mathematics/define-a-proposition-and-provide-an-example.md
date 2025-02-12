@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: define-a-proposition-and-provide-an-example.md
 url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
 score: -1.0
+related_article1:
+    id: 170256
+    title: List the operators by precedence and explain their application in logical expressions.
+    subject: Mathematics
+    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
+related_article2:
+    id: 170236
+    title: How does propositional logic connect to computing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
+related_article3:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article4:
+    id: 170242
+    title: How do you construct a truth table for a given logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+related_article5:
+    id: 170251
+    title: What is a tautology, and how can it be identified?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 ---
 
 &nbsp;

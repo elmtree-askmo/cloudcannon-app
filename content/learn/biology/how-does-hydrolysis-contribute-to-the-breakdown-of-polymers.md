@@ -21,6 +21,31 @@ subject: Biology
 file_name: how-does-hydrolysis-contribute-to-the-breakdown-of-polymers.md
 url: /learn/biology/questions/how-does-hydrolysis-contribute-to-the-breakdown-of-polymers
 score: -1.0
+related_article1:
+    id: 167306
+    title: What distinguishes ketose from aldose monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
+related_article2:
+    id: 167306
+    title: What distinguishes ketose from aldose monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
+related_article3:
+    id: 167295
+    title: What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article4:
+    id: 167298
+    title: How are disaccharides formed through dehydration reactions?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
+related_article5:
+    id: 167309
+    title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
+    subject: Biology
+    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
 ---
 
 &nbsp;

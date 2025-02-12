@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders.md
 url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 score: -1.0
+related_article1:
+    id: 169761
+    title: What are the nursing responsibilities and legal obligations in medication administration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+related_article2:
+    id: 169743
+    title: What are some age-specific health considerations that nurses should be aware of?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article3:
+    id: 169753
+    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+related_article4:
+    id: 169758
+    title: What are common causes of medication errors, and how can they be prevented?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
+related_article5:
+    id: 169763
+    title: What are patient group directions, and how are they applied in clinical practice?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 ---
 
 &nbsp;

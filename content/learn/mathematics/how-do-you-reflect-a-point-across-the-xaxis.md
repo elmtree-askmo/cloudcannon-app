@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-do-you-reflect-a-point-across-the-xaxis.md
 url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
 score: -1.0
+related_article1:
+    id: 162701
+    title: What are common misconceptions about coordinate changes in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+related_article2:
+    id: 162406
+    title: What is the mirror image concept in reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+related_article3:
+    id: 162697
+    title: What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article4:
+    id: 162698
+    title: How can visualizing reflections help in understanding them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+related_article5:
+    id: 162898
+    title: How do coordinates change when a figure is reflected?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 ---
 
 &nbsp;

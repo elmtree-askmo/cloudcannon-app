@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior.md
 url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 score: -1.0
+related_article1:
+    id: 166385
+    title: What are the different types of selection, and how do they affect allele frequencies in a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
+related_article2:
+    id: 166384
+    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 166390
+    title: What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article4:
+    id: 166396
+    title: How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article5:
+    id: 166380
+    title: How does natural selection influence the evolution of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
 ---
 
 &nbsp;

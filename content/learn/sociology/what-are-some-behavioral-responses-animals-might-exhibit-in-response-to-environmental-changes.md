@@ -21,6 +21,31 @@ subject: Sociology
 file_name: what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes.md
 url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
 score: -1.0
+related_article1:
+    id: 166346
+    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article2:
+    id: 166342
+    title: What are Darwin's postulates, and how do they relate to natural selection?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article3:
+    id: 166349
+    title: What role do genetic mutations play in the evolution of animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
+related_article4:
+    id: 166337
+    title: What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article5:
+    id: 166352
+    title: What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
 ---
 
 &nbsp;

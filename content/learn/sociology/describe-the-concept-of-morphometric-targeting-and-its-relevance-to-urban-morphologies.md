@@ -21,6 +21,31 @@ subject: Sociology
 file_name: describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies.md
 url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
 score: -1.0
+related_article1:
+    id: 162936
+    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+related_article2:
+    id: 162935
+    title: How does the 'Insecure City Hypothesis' relate to urban environments in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
+related_article3:
+    id: 162952
+    title: Explain the concept of breach training and its application in urban warfare.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+related_article4:
+    id: 162950
+    title: How do three-dimensional models assist in understanding volumetric conflict environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+related_article5:
+    id: 162944
+    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
 ---
 
 &nbsp;

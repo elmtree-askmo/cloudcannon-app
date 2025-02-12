@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-are-linear-approximations-used-in-calculus-problems.md
 url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
 score: -1.0
+related_article1:
+    id: 168333
+    title: What is the equation of a tangent line to a curve at a given point?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+related_article2:
+    id: 168326
+    title: How do you compose two functions and what are the properties of composite functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-compose-two-functions-and-what-are-the-properties-of-composite-functions
+related_article3:
+    id: 168338
+    title: What is a partial derivative and how is it calculated for functions of several variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-a-partial-derivative-and-how-is-it-calculated-for-functions-of-several-variables
+related_article4:
+    id: 168327
+    title: What is the formal definition of a limit and how is it notated?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+related_article5:
+    id: 168335
+    title: What is the substitution rule in integration and when is it used?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 ---
 
 &nbsp;

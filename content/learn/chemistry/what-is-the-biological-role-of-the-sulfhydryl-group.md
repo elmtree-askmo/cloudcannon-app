@@ -21,6 +21,31 @@ subject: Chemistry
 file_name: what-is-the-biological-role-of-the-sulfhydryl-group.md
 url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
 score: -1.0
+related_article1:
+    id: 167036
+    title: Describe the structure of a hydroxyl group and its role in alcohol formation.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+related_article2:
+    id: 167053
+    title: What defines organic chemistry and how does it relate to functional group diversity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+related_article3:
+    id: 167045
+    title: Why is the amino group important in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+related_article4:
+    id: 167042
+    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+related_article5:
+    id: 167041
+    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 ---
 
 &nbsp;

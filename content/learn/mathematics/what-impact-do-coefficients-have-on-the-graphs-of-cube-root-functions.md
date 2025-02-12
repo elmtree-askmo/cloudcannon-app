@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions.md
 url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 score: -1.0
+related_article1:
+    id: 163772
+    title: Which quadrants are typically covered by cube root graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/which-quadrants-are-typically-covered-by-cube-root-graphs
+related_article2:
+    id: 163748
+    title: What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+related_article3:
+    id: 163771
+    title: What is the shape and direction of a typical cube root graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
+related_article4:
+    id: 163759
+    title: Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
+related_article5:
+    id: 163751
+    title: What are the domain and range characteristics of cube root functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 ---
 
 &nbsp;

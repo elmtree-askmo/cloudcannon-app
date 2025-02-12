@@ -21,6 +21,31 @@ subject: Mathematics
 file_name: how-can-square-root-functions-be-used-in-realworld-mathematical-modeling.md
 url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 score: -1.0
+related_article1:
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article2:
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article3:
+    id: 163793
+    title: How do squaring and square root operations serve as inverse operations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+related_article4:
+    id: 163795
+    title: What techniques can be used to graph functions effectively?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+related_article5:
+    id: 163790
+    title: What is the relationship between square root functions and quadratic functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 ---
 
 &nbsp;

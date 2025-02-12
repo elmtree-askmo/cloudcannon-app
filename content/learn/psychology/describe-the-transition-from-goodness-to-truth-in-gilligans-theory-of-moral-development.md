@@ -21,6 +21,31 @@ subject: Psychology
 file_name: describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development.md
 url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
 score: -1.0
+related_article1:
+    id: 164201
+    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+related_article2:
+    id: 164204
+    title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article3:
+    id: 164204
+    title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article4:
+    id: 164204
+    title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article5:
+    id: 164214
+    title: How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 ---
 
 &nbsp;

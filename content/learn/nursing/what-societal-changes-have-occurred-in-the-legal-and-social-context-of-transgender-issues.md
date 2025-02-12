@@ -21,6 +21,31 @@ subject: Nursing
 file_name: what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues.md
 url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 score: -1.0
+related_article1:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article2:
+    id: 169649
+    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+related_article3:
+    id: 169645
+    title: What legal protections are provided under the Equality Act for LGBTQ+ individuals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
+related_article4:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+related_article5:
+    id: 169660
+    title: What lessons have been learned from historical discrimination in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
 ---
 
 &nbsp;

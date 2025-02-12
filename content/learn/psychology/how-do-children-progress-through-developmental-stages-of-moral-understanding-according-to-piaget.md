@@ -21,6 +21,31 @@ subject: Psychology
 file_name: how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget.md
 url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
 score: -1.0
+related_article1:
+    id: 164161
+    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+related_article2:
+    id: 164153
+    title: What are the similarities between understanding game rules and moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
+related_article3:
+    id: 164163
+    title: What role do game rules play in Piaget's research on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
+related_article4:
+    id: 164173
+    title: What factors influence children's moral judgments between consequences and intentions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
+related_article5:
+    id: 164154
+    title: What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
 ---
 
 &nbsp;
