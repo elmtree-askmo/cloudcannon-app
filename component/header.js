@@ -104,11 +104,9 @@ export default function Header({ pathname, theme, language, setLanguage, utmPara
   }
 
   const isPathMatch = (currentPath, linkPath) => {
-    // 处理首页特殊情况
     if (linkPath === '/') {
       return currentPath === '/'
     }
-    // 其他情况检查路径是否以linkPath开头
     return currentPath.startsWith(linkPath)
   }
 
