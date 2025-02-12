@@ -19,10 +19,10 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "title": "Biotechnology",
     "key": "biotechnology"
   },
-  {
-    "title": "Chemistry",
-    "key": "chemistry"
-  },
+  // {
+  //   "title": "Chemistry",
+  //   "key": "chemistry"
+  // },
   {
     "title": "Computer science",
     "key": "computer-science"
@@ -94,4 +94,5 @@ export const TOP_QUESTIONS_SUBJECTS = [
   {
     "title": "Sociology",
     "key": "sociology"
-  }]
+  }
+]
